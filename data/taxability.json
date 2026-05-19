@@ -1,0 +1,8282 @@
+[
+  {
+    "state": "AL",
+    "category": "clothing.accessories",
+    "taxable": true,
+    "treatment": "taxable"
+  },
+  {
+    "state": "AL",
+    "category": "clothing.general",
+    "taxable": true,
+    "treatment": "taxable"
+  },
+  {
+    "state": "AL",
+    "category": "clothing.protective",
+    "taxable": true,
+    "treatment": "taxable"
+  },
+  {
+    "state": "AL",
+    "category": "digital_products.ebook",
+    "taxable": true,
+    "treatment": "taxable"
+  },
+  {
+    "state": "AL",
+    "category": "digital_products.music",
+    "taxable": true,
+    "treatment": "taxable"
+  },
+  {
+    "state": "AL",
+    "category": "digital_products.streaming",
+    "taxable": true,
+    "treatment": "taxable"
+  },
+  {
+    "state": "AL",
+    "category": "digital_products.video",
+    "taxable": true,
+    "treatment": "taxable"
+  },
+  {
+    "state": "AL",
+    "category": "food.candy",
+    "taxable": true,
+    "treatment": "taxable"
+  },
+  {
+    "state": "AL",
+    "category": "food.dietary_supplements",
+    "taxable": true,
+    "treatment": "taxable"
+  },
+  {
+    "state": "AL",
+    "category": "food.grocery",
+    "taxable": true,
+    "treatment": "reduced_rate"
+  },
+  {
+    "state": "AL",
+    "category": "food.prepared",
+    "taxable": true,
+    "treatment": "taxable"
+  },
+  {
+    "state": "AL",
+    "category": "food.soft_drinks",
+    "taxable": true,
+    "treatment": "taxable"
+  },
+  {
+    "state": "AL",
+    "category": "goods.electronics",
+    "taxable": true,
+    "treatment": "taxable"
+  },
+  {
+    "state": "AL",
+    "category": "goods.furniture",
+    "taxable": true,
+    "treatment": "taxable"
+  },
+  {
+    "state": "AL",
+    "category": "goods.general",
+    "taxable": true,
+    "treatment": "taxable"
+  },
+  {
+    "state": "AL",
+    "category": "medical.devices",
+    "taxable": false,
+    "treatment": "exempt"
+  },
+  {
+    "state": "AL",
+    "category": "medical.otc_drugs",
+    "taxable": true,
+    "treatment": "taxable"
+  },
+  {
+    "state": "AL",
+    "category": "medical.prescription_drugs",
+    "taxable": false,
+    "treatment": "exempt"
+  },
+  {
+    "state": "AL",
+    "category": "publications.books",
+    "taxable": true,
+    "treatment": "taxable"
+  },
+  {
+    "state": "AL",
+    "category": "publications.magazines",
+    "taxable": true,
+    "treatment": "taxable"
+  },
+  {
+    "state": "AL",
+    "category": "publications.newspapers",
+    "taxable": false,
+    "treatment": "exempt"
+  },
+  {
+    "state": "AL",
+    "category": "services.ai_api",
+    "taxable": false,
+    "treatment": "exempt"
+  },
+  {
+    "state": "AL",
+    "category": "services.data_processing",
+    "taxable": false,
+    "treatment": "exempt"
+  },
+  {
+    "state": "AL",
+    "category": "services.personal_care",
+    "taxable": false,
+    "treatment": "exempt"
+  },
+  {
+    "state": "AL",
+    "category": "services.professional",
+    "taxable": false,
+    "treatment": "exempt"
+  },
+  {
+    "state": "AL",
+    "category": "services.repair",
+    "taxable": true,
+    "treatment": "taxable"
+  },
+  {
+    "state": "AL",
+    "category": "services.web_hosting",
+    "taxable": false,
+    "treatment": "exempt"
+  },
+  {
+    "state": "AL",
+    "category": "software.custom",
+    "taxable": false,
+    "treatment": "exempt"
+  },
+  {
+    "state": "AL",
+    "category": "software.prewritten",
+    "taxable": true,
+    "treatment": "taxable"
+  },
+  {
+    "state": "AL",
+    "category": "software.saas",
+    "taxable": false,
+    "treatment": "exempt"
+  },
+  {
+    "state": "AR",
+    "category": "clothing.accessories",
+    "taxable": true,
+    "treatment": "taxable"
+  },
+  {
+    "state": "AR",
+    "category": "clothing.general",
+    "taxable": true,
+    "treatment": "taxable"
+  },
+  {
+    "state": "AR",
+    "category": "clothing.protective",
+    "taxable": true,
+    "treatment": "taxable"
+  },
+  {
+    "state": "AR",
+    "category": "digital_products.ebook",
+    "taxable": true,
+    "treatment": "taxable"
+  },
+  {
+    "state": "AR",
+    "category": "digital_products.music",
+    "taxable": true,
+    "treatment": "taxable"
+  },
+  {
+    "state": "AR",
+    "category": "digital_products.streaming",
+    "taxable": true,
+    "treatment": "taxable"
+  },
+  {
+    "state": "AR",
+    "category": "digital_products.video",
+    "taxable": true,
+    "treatment": "taxable"
+  },
+  {
+    "state": "AR",
+    "category": "food.candy",
+    "taxable": true,
+    "treatment": "taxable"
+  },
+  {
+    "state": "AR",
+    "category": "food.dietary_supplements",
+    "taxable": true,
+    "treatment": "taxable"
+  },
+  {
+    "state": "AR",
+    "category": "food.grocery",
+    "taxable": false,
+    "treatment": "exempt"
+  },
+  {
+    "state": "AR",
+    "category": "food.prepared",
+    "taxable": true,
+    "treatment": "taxable"
+  },
+  {
+    "state": "AR",
+    "category": "food.soft_drinks",
+    "taxable": true,
+    "treatment": "taxable"
+  },
+  {
+    "state": "AR",
+    "category": "goods.electronics",
+    "taxable": true,
+    "treatment": "taxable"
+  },
+  {
+    "state": "AR",
+    "category": "goods.furniture",
+    "taxable": true,
+    "treatment": "taxable"
+  },
+  {
+    "state": "AR",
+    "category": "goods.general",
+    "taxable": true,
+    "treatment": "taxable"
+  },
+  {
+    "state": "AR",
+    "category": "medical.devices",
+    "taxable": false,
+    "treatment": "exempt"
+  },
+  {
+    "state": "AR",
+    "category": "medical.otc_drugs",
+    "taxable": true,
+    "treatment": "taxable"
+  },
+  {
+    "state": "AR",
+    "category": "medical.prescription_drugs",
+    "taxable": false,
+    "treatment": "exempt"
+  },
+  {
+    "state": "AR",
+    "category": "publications.books",
+    "taxable": true,
+    "treatment": "taxable"
+  },
+  {
+    "state": "AR",
+    "category": "publications.magazines",
+    "taxable": true,
+    "treatment": "taxable"
+  },
+  {
+    "state": "AR",
+    "category": "publications.newspapers",
+    "taxable": false,
+    "treatment": "exempt"
+  },
+  {
+    "state": "AR",
+    "category": "services.ai_api",
+    "taxable": false,
+    "treatment": "exempt"
+  },
+  {
+    "state": "AR",
+    "category": "services.data_processing",
+    "taxable": false,
+    "treatment": "exempt"
+  },
+  {
+    "state": "AR",
+    "category": "services.personal_care",
+    "taxable": false,
+    "treatment": "exempt"
+  },
+  {
+    "state": "AR",
+    "category": "services.professional",
+    "taxable": false,
+    "treatment": "exempt"
+  },
+  {
+    "state": "AR",
+    "category": "services.repair",
+    "taxable": true,
+    "treatment": "taxable"
+  },
+  {
+    "state": "AR",
+    "category": "services.web_hosting",
+    "taxable": false,
+    "treatment": "exempt"
+  },
+  {
+    "state": "AR",
+    "category": "software.custom",
+    "taxable": false,
+    "treatment": "exempt"
+  },
+  {
+    "state": "AR",
+    "category": "software.prewritten",
+    "taxable": false,
+    "treatment": "exempt"
+  },
+  {
+    "state": "AR",
+    "category": "software.saas",
+    "taxable": false,
+    "treatment": "exempt"
+  },
+  {
+    "state": "AZ",
+    "category": "clothing.accessories",
+    "taxable": true,
+    "treatment": "taxable"
+  },
+  {
+    "state": "AZ",
+    "category": "clothing.general",
+    "taxable": true,
+    "treatment": "taxable"
+  },
+  {
+    "state": "AZ",
+    "category": "clothing.protective",
+    "taxable": true,
+    "treatment": "taxable"
+  },
+  {
+    "state": "AZ",
+    "category": "digital_products.ebook",
+    "taxable": true,
+    "treatment": "taxable"
+  },
+  {
+    "state": "AZ",
+    "category": "digital_products.music",
+    "taxable": true,
+    "treatment": "taxable"
+  },
+  {
+    "state": "AZ",
+    "category": "digital_products.streaming",
+    "taxable": true,
+    "treatment": "taxable"
+  },
+  {
+    "state": "AZ",
+    "category": "digital_products.video",
+    "taxable": true,
+    "treatment": "taxable"
+  },
+  {
+    "state": "AZ",
+    "category": "food.candy",
+    "taxable": false,
+    "treatment": "exempt"
+  },
+  {
+    "state": "AZ",
+    "category": "food.dietary_supplements",
+    "taxable": true,
+    "treatment": "taxable"
+  },
+  {
+    "state": "AZ",
+    "category": "food.grocery",
+    "taxable": false,
+    "treatment": "exempt"
+  },
+  {
+    "state": "AZ",
+    "category": "food.prepared",
+    "taxable": true,
+    "treatment": "taxable"
+  },
+  {
+    "state": "AZ",
+    "category": "food.soft_drinks",
+    "taxable": false,
+    "treatment": "exempt"
+  },
+  {
+    "state": "AZ",
+    "category": "goods.electronics",
+    "taxable": true,
+    "treatment": "taxable"
+  },
+  {
+    "state": "AZ",
+    "category": "goods.furniture",
+    "taxable": true,
+    "treatment": "taxable"
+  },
+  {
+    "state": "AZ",
+    "category": "goods.general",
+    "taxable": true,
+    "treatment": "taxable"
+  },
+  {
+    "state": "AZ",
+    "category": "medical.devices",
+    "taxable": false,
+    "treatment": "exempt"
+  },
+  {
+    "state": "AZ",
+    "category": "medical.otc_drugs",
+    "taxable": true,
+    "treatment": "taxable"
+  },
+  {
+    "state": "AZ",
+    "category": "medical.prescription_drugs",
+    "taxable": false,
+    "treatment": "exempt"
+  },
+  {
+    "state": "AZ",
+    "category": "publications.books",
+    "taxable": true,
+    "treatment": "taxable"
+  },
+  {
+    "state": "AZ",
+    "category": "publications.magazines",
+    "taxable": true,
+    "treatment": "taxable"
+  },
+  {
+    "state": "AZ",
+    "category": "publications.newspapers",
+    "taxable": false,
+    "treatment": "exempt"
+  },
+  {
+    "state": "AZ",
+    "category": "services.ai_api",
+    "taxable": true,
+    "treatment": "taxable"
+  },
+  {
+    "state": "AZ",
+    "category": "services.data_processing",
+    "taxable": false,
+    "treatment": "exempt"
+  },
+  {
+    "state": "AZ",
+    "category": "services.personal_care",
+    "taxable": false,
+    "treatment": "exempt"
+  },
+  {
+    "state": "AZ",
+    "category": "services.professional",
+    "taxable": false,
+    "treatment": "exempt"
+  },
+  {
+    "state": "AZ",
+    "category": "services.repair",
+    "taxable": true,
+    "treatment": "taxable"
+  },
+  {
+    "state": "AZ",
+    "category": "services.web_hosting",
+    "taxable": false,
+    "treatment": "exempt"
+  },
+  {
+    "state": "AZ",
+    "category": "software.custom",
+    "taxable": false,
+    "treatment": "exempt"
+  },
+  {
+    "state": "AZ",
+    "category": "software.prewritten",
+    "taxable": true,
+    "treatment": "taxable"
+  },
+  {
+    "state": "AZ",
+    "category": "software.saas",
+    "taxable": true,
+    "treatment": "taxable"
+  },
+  {
+    "state": "CA",
+    "category": "clothing.accessories",
+    "taxable": true,
+    "treatment": "taxable"
+  },
+  {
+    "state": "CA",
+    "category": "clothing.general",
+    "taxable": true,
+    "treatment": "taxable"
+  },
+  {
+    "state": "CA",
+    "category": "clothing.protective",
+    "taxable": true,
+    "treatment": "taxable"
+  },
+  {
+    "state": "CA",
+    "category": "digital_products.ebook",
+    "taxable": false,
+    "treatment": "exempt"
+  },
+  {
+    "state": "CA",
+    "category": "digital_products.music",
+    "taxable": false,
+    "treatment": "exempt"
+  },
+  {
+    "state": "CA",
+    "category": "digital_products.streaming",
+    "taxable": false,
+    "treatment": "exempt"
+  },
+  {
+    "state": "CA",
+    "category": "digital_products.video",
+    "taxable": false,
+    "treatment": "exempt"
+  },
+  {
+    "state": "CA",
+    "category": "food.candy",
+    "taxable": false,
+    "treatment": "exempt"
+  },
+  {
+    "state": "CA",
+    "category": "food.dietary_supplements",
+    "taxable": true,
+    "treatment": "taxable"
+  },
+  {
+    "state": "CA",
+    "category": "food.grocery",
+    "taxable": false,
+    "treatment": "exempt"
+  },
+  {
+    "state": "CA",
+    "category": "food.prepared",
+    "taxable": true,
+    "treatment": "taxable"
+  },
+  {
+    "state": "CA",
+    "category": "food.soft_drinks",
+    "taxable": true,
+    "treatment": "taxable"
+  },
+  {
+    "state": "CA",
+    "category": "goods.electronics",
+    "taxable": true,
+    "treatment": "taxable"
+  },
+  {
+    "state": "CA",
+    "category": "goods.furniture",
+    "taxable": true,
+    "treatment": "taxable"
+  },
+  {
+    "state": "CA",
+    "category": "goods.general",
+    "taxable": true,
+    "treatment": "taxable"
+  },
+  {
+    "state": "CA",
+    "category": "medical.devices",
+    "taxable": false,
+    "treatment": "exempt"
+  },
+  {
+    "state": "CA",
+    "category": "medical.otc_drugs",
+    "taxable": true,
+    "treatment": "taxable"
+  },
+  {
+    "state": "CA",
+    "category": "medical.prescription_drugs",
+    "taxable": false,
+    "treatment": "exempt"
+  },
+  {
+    "state": "CA",
+    "category": "publications.books",
+    "taxable": true,
+    "treatment": "taxable"
+  },
+  {
+    "state": "CA",
+    "category": "publications.magazines",
+    "taxable": true,
+    "treatment": "taxable"
+  },
+  {
+    "state": "CA",
+    "category": "publications.newspapers",
+    "taxable": false,
+    "treatment": "exempt"
+  },
+  {
+    "state": "CA",
+    "category": "services.ai_api",
+    "taxable": false,
+    "treatment": "exempt"
+  },
+  {
+    "state": "CA",
+    "category": "services.data_processing",
+    "taxable": false,
+    "treatment": "exempt"
+  },
+  {
+    "state": "CA",
+    "category": "services.personal_care",
+    "taxable": false,
+    "treatment": "exempt"
+  },
+  {
+    "state": "CA",
+    "category": "services.professional",
+    "taxable": false,
+    "treatment": "exempt"
+  },
+  {
+    "state": "CA",
+    "category": "services.repair",
+    "taxable": false,
+    "treatment": "exempt"
+  },
+  {
+    "state": "CA",
+    "category": "services.web_hosting",
+    "taxable": false,
+    "treatment": "exempt"
+  },
+  {
+    "state": "CA",
+    "category": "software.custom",
+    "taxable": false,
+    "treatment": "exempt"
+  },
+  {
+    "state": "CA",
+    "category": "software.prewritten",
+    "taxable": false,
+    "treatment": "exempt"
+  },
+  {
+    "state": "CA",
+    "category": "software.saas",
+    "taxable": false,
+    "treatment": "exempt"
+  },
+  {
+    "state": "CO",
+    "category": "clothing.accessories",
+    "taxable": true,
+    "treatment": "taxable"
+  },
+  {
+    "state": "CO",
+    "category": "clothing.general",
+    "taxable": true,
+    "treatment": "taxable"
+  },
+  {
+    "state": "CO",
+    "category": "clothing.protective",
+    "taxable": true,
+    "treatment": "taxable"
+  },
+  {
+    "state": "CO",
+    "category": "digital_products.ebook",
+    "taxable": true,
+    "treatment": "taxable"
+  },
+  {
+    "state": "CO",
+    "category": "digital_products.music",
+    "taxable": true,
+    "treatment": "taxable"
+  },
+  {
+    "state": "CO",
+    "category": "digital_products.streaming",
+    "taxable": true,
+    "treatment": "taxable"
+  },
+  {
+    "state": "CO",
+    "category": "digital_products.video",
+    "taxable": true,
+    "treatment": "taxable"
+  },
+  {
+    "state": "CO",
+    "category": "food.candy",
+    "taxable": true,
+    "treatment": "taxable"
+  },
+  {
+    "state": "CO",
+    "category": "food.dietary_supplements",
+    "taxable": true,
+    "treatment": "taxable"
+  },
+  {
+    "state": "CO",
+    "category": "food.grocery",
+    "taxable": false,
+    "treatment": "exempt"
+  },
+  {
+    "state": "CO",
+    "category": "food.prepared",
+    "taxable": true,
+    "treatment": "taxable"
+  },
+  {
+    "state": "CO",
+    "category": "food.soft_drinks",
+    "taxable": true,
+    "treatment": "taxable"
+  },
+  {
+    "state": "CO",
+    "category": "goods.electronics",
+    "taxable": true,
+    "treatment": "taxable"
+  },
+  {
+    "state": "CO",
+    "category": "goods.furniture",
+    "taxable": true,
+    "treatment": "taxable"
+  },
+  {
+    "state": "CO",
+    "category": "goods.general",
+    "taxable": true,
+    "treatment": "taxable"
+  },
+  {
+    "state": "CO",
+    "category": "medical.devices",
+    "taxable": false,
+    "treatment": "exempt"
+  },
+  {
+    "state": "CO",
+    "category": "medical.otc_drugs",
+    "taxable": true,
+    "treatment": "taxable"
+  },
+  {
+    "state": "CO",
+    "category": "medical.prescription_drugs",
+    "taxable": false,
+    "treatment": "exempt"
+  },
+  {
+    "state": "CO",
+    "category": "publications.books",
+    "taxable": true,
+    "treatment": "taxable"
+  },
+  {
+    "state": "CO",
+    "category": "publications.magazines",
+    "taxable": true,
+    "treatment": "taxable"
+  },
+  {
+    "state": "CO",
+    "category": "publications.newspapers",
+    "taxable": false,
+    "treatment": "exempt"
+  },
+  {
+    "state": "CO",
+    "category": "services.ai_api",
+    "taxable": false,
+    "treatment": "exempt"
+  },
+  {
+    "state": "CO",
+    "category": "services.data_processing",
+    "taxable": false,
+    "treatment": "exempt"
+  },
+  {
+    "state": "CO",
+    "category": "services.personal_care",
+    "taxable": false,
+    "treatment": "exempt"
+  },
+  {
+    "state": "CO",
+    "category": "services.professional",
+    "taxable": false,
+    "treatment": "exempt"
+  },
+  {
+    "state": "CO",
+    "category": "services.repair",
+    "taxable": false,
+    "treatment": "exempt"
+  },
+  {
+    "state": "CO",
+    "category": "services.web_hosting",
+    "taxable": false,
+    "treatment": "exempt"
+  },
+  {
+    "state": "CO",
+    "category": "software.custom",
+    "taxable": false,
+    "treatment": "exempt"
+  },
+  {
+    "state": "CO",
+    "category": "software.prewritten",
+    "taxable": true,
+    "treatment": "taxable"
+  },
+  {
+    "state": "CO",
+    "category": "software.saas",
+    "taxable": false,
+    "treatment": "exempt"
+  },
+  {
+    "state": "CT",
+    "category": "clothing.accessories",
+    "taxable": true,
+    "treatment": "taxable"
+  },
+  {
+    "state": "CT",
+    "category": "clothing.general",
+    "taxable": true,
+    "treatment": "taxable"
+  },
+  {
+    "state": "CT",
+    "category": "clothing.protective",
+    "taxable": true,
+    "treatment": "taxable"
+  },
+  {
+    "state": "CT",
+    "category": "digital_products.ebook",
+    "taxable": true,
+    "treatment": "taxable"
+  },
+  {
+    "state": "CT",
+    "category": "digital_products.music",
+    "taxable": true,
+    "treatment": "taxable"
+  },
+  {
+    "state": "CT",
+    "category": "digital_products.streaming",
+    "taxable": true,
+    "treatment": "taxable"
+  },
+  {
+    "state": "CT",
+    "category": "digital_products.video",
+    "taxable": true,
+    "treatment": "taxable"
+  },
+  {
+    "state": "CT",
+    "category": "food.candy",
+    "taxable": true,
+    "treatment": "taxable"
+  },
+  {
+    "state": "CT",
+    "category": "food.dietary_supplements",
+    "taxable": false,
+    "treatment": "exempt"
+  },
+  {
+    "state": "CT",
+    "category": "food.grocery",
+    "taxable": false,
+    "treatment": "exempt"
+  },
+  {
+    "state": "CT",
+    "category": "food.prepared",
+    "taxable": true,
+    "treatment": "taxable"
+  },
+  {
+    "state": "CT",
+    "category": "food.soft_drinks",
+    "taxable": true,
+    "treatment": "taxable"
+  },
+  {
+    "state": "CT",
+    "category": "goods.electronics",
+    "taxable": true,
+    "treatment": "taxable"
+  },
+  {
+    "state": "CT",
+    "category": "goods.furniture",
+    "taxable": true,
+    "treatment": "taxable"
+  },
+  {
+    "state": "CT",
+    "category": "goods.general",
+    "taxable": true,
+    "treatment": "taxable"
+  },
+  {
+    "state": "CT",
+    "category": "medical.devices",
+    "taxable": false,
+    "treatment": "exempt"
+  },
+  {
+    "state": "CT",
+    "category": "medical.otc_drugs",
+    "taxable": false,
+    "treatment": "exempt"
+  },
+  {
+    "state": "CT",
+    "category": "medical.prescription_drugs",
+    "taxable": false,
+    "treatment": "exempt"
+  },
+  {
+    "state": "CT",
+    "category": "publications.books",
+    "taxable": true,
+    "treatment": "taxable"
+  },
+  {
+    "state": "CT",
+    "category": "publications.magazines",
+    "taxable": true,
+    "treatment": "taxable"
+  },
+  {
+    "state": "CT",
+    "category": "publications.newspapers",
+    "taxable": false,
+    "treatment": "exempt"
+  },
+  {
+    "state": "CT",
+    "category": "services.ai_api",
+    "taxable": true,
+    "treatment": "taxable"
+  },
+  {
+    "state": "CT",
+    "category": "services.data_processing",
+    "taxable": true,
+    "treatment": "taxable"
+  },
+  {
+    "state": "CT",
+    "category": "services.personal_care",
+    "taxable": true,
+    "treatment": "taxable"
+  },
+  {
+    "state": "CT",
+    "category": "services.professional",
+    "taxable": false,
+    "treatment": "exempt"
+  },
+  {
+    "state": "CT",
+    "category": "services.repair",
+    "taxable": true,
+    "treatment": "taxable"
+  },
+  {
+    "state": "CT",
+    "category": "services.web_hosting",
+    "taxable": true,
+    "treatment": "taxable"
+  },
+  {
+    "state": "CT",
+    "category": "software.custom",
+    "taxable": true,
+    "treatment": "taxable"
+  },
+  {
+    "state": "CT",
+    "category": "software.prewritten",
+    "taxable": true,
+    "treatment": "taxable"
+  },
+  {
+    "state": "CT",
+    "category": "software.saas",
+    "taxable": true,
+    "treatment": "taxable"
+  },
+  {
+    "state": "DC",
+    "category": "clothing.accessories",
+    "taxable": true,
+    "treatment": "taxable"
+  },
+  {
+    "state": "DC",
+    "category": "clothing.general",
+    "taxable": true,
+    "treatment": "taxable"
+  },
+  {
+    "state": "DC",
+    "category": "clothing.protective",
+    "taxable": true,
+    "treatment": "taxable"
+  },
+  {
+    "state": "DC",
+    "category": "digital_products.ebook",
+    "taxable": true,
+    "treatment": "taxable"
+  },
+  {
+    "state": "DC",
+    "category": "digital_products.music",
+    "taxable": true,
+    "treatment": "taxable"
+  },
+  {
+    "state": "DC",
+    "category": "digital_products.streaming",
+    "taxable": true,
+    "treatment": "taxable"
+  },
+  {
+    "state": "DC",
+    "category": "digital_products.video",
+    "taxable": true,
+    "treatment": "taxable"
+  },
+  {
+    "state": "DC",
+    "category": "food.candy",
+    "taxable": true,
+    "treatment": "taxable"
+  },
+  {
+    "state": "DC",
+    "category": "food.dietary_supplements",
+    "taxable": false,
+    "treatment": "exempt"
+  },
+  {
+    "state": "DC",
+    "category": "food.grocery",
+    "taxable": false,
+    "treatment": "exempt"
+  },
+  {
+    "state": "DC",
+    "category": "food.prepared",
+    "taxable": true,
+    "treatment": "taxable"
+  },
+  {
+    "state": "DC",
+    "category": "food.soft_drinks",
+    "taxable": true,
+    "treatment": "taxable"
+  },
+  {
+    "state": "DC",
+    "category": "goods.electronics",
+    "taxable": true,
+    "treatment": "taxable"
+  },
+  {
+    "state": "DC",
+    "category": "goods.furniture",
+    "taxable": true,
+    "treatment": "taxable"
+  },
+  {
+    "state": "DC",
+    "category": "goods.general",
+    "taxable": true,
+    "treatment": "taxable"
+  },
+  {
+    "state": "DC",
+    "category": "medical.devices",
+    "taxable": false,
+    "treatment": "exempt"
+  },
+  {
+    "state": "DC",
+    "category": "medical.otc_drugs",
+    "taxable": false,
+    "treatment": "exempt"
+  },
+  {
+    "state": "DC",
+    "category": "medical.prescription_drugs",
+    "taxable": false,
+    "treatment": "exempt"
+  },
+  {
+    "state": "DC",
+    "category": "publications.books",
+    "taxable": true,
+    "treatment": "taxable"
+  },
+  {
+    "state": "DC",
+    "category": "publications.magazines",
+    "taxable": true,
+    "treatment": "taxable"
+  },
+  {
+    "state": "DC",
+    "category": "publications.newspapers",
+    "taxable": false,
+    "treatment": "exempt"
+  },
+  {
+    "state": "DC",
+    "category": "services.ai_api",
+    "taxable": true,
+    "treatment": "taxable"
+  },
+  {
+    "state": "DC",
+    "category": "services.data_processing",
+    "taxable": false,
+    "treatment": "exempt"
+  },
+  {
+    "state": "DC",
+    "category": "services.personal_care",
+    "taxable": false,
+    "treatment": "exempt"
+  },
+  {
+    "state": "DC",
+    "category": "services.professional",
+    "taxable": false,
+    "treatment": "exempt"
+  },
+  {
+    "state": "DC",
+    "category": "services.repair",
+    "taxable": true,
+    "treatment": "taxable"
+  },
+  {
+    "state": "DC",
+    "category": "services.web_hosting",
+    "taxable": false,
+    "treatment": "exempt"
+  },
+  {
+    "state": "DC",
+    "category": "software.custom",
+    "taxable": true,
+    "treatment": "taxable"
+  },
+  {
+    "state": "DC",
+    "category": "software.prewritten",
+    "taxable": true,
+    "treatment": "taxable"
+  },
+  {
+    "state": "DC",
+    "category": "software.saas",
+    "taxable": true,
+    "treatment": "taxable"
+  },
+  {
+    "state": "FL",
+    "category": "clothing.accessories",
+    "taxable": true,
+    "treatment": "taxable"
+  },
+  {
+    "state": "FL",
+    "category": "clothing.general",
+    "taxable": true,
+    "treatment": "taxable"
+  },
+  {
+    "state": "FL",
+    "category": "clothing.protective",
+    "taxable": true,
+    "treatment": "taxable"
+  },
+  {
+    "state": "FL",
+    "category": "digital_products.ebook",
+    "taxable": false,
+    "treatment": "exempt"
+  },
+  {
+    "state": "FL",
+    "category": "digital_products.music",
+    "taxable": false,
+    "treatment": "exempt"
+  },
+  {
+    "state": "FL",
+    "category": "digital_products.streaming",
+    "taxable": false,
+    "treatment": "exempt"
+  },
+  {
+    "state": "FL",
+    "category": "digital_products.video",
+    "taxable": false,
+    "treatment": "exempt"
+  },
+  {
+    "state": "FL",
+    "category": "food.candy",
+    "taxable": true,
+    "treatment": "taxable"
+  },
+  {
+    "state": "FL",
+    "category": "food.dietary_supplements",
+    "taxable": false,
+    "treatment": "exempt"
+  },
+  {
+    "state": "FL",
+    "category": "food.grocery",
+    "taxable": false,
+    "treatment": "exempt"
+  },
+  {
+    "state": "FL",
+    "category": "food.prepared",
+    "taxable": true,
+    "treatment": "taxable"
+  },
+  {
+    "state": "FL",
+    "category": "food.soft_drinks",
+    "taxable": true,
+    "treatment": "taxable"
+  },
+  {
+    "state": "FL",
+    "category": "goods.electronics",
+    "taxable": true,
+    "treatment": "taxable"
+  },
+  {
+    "state": "FL",
+    "category": "goods.furniture",
+    "taxable": true,
+    "treatment": "taxable"
+  },
+  {
+    "state": "FL",
+    "category": "goods.general",
+    "taxable": true,
+    "treatment": "taxable"
+  },
+  {
+    "state": "FL",
+    "category": "medical.devices",
+    "taxable": false,
+    "treatment": "exempt"
+  },
+  {
+    "state": "FL",
+    "category": "medical.otc_drugs",
+    "taxable": false,
+    "treatment": "exempt"
+  },
+  {
+    "state": "FL",
+    "category": "medical.prescription_drugs",
+    "taxable": false,
+    "treatment": "exempt"
+  },
+  {
+    "state": "FL",
+    "category": "publications.books",
+    "taxable": true,
+    "treatment": "taxable"
+  },
+  {
+    "state": "FL",
+    "category": "publications.magazines",
+    "taxable": true,
+    "treatment": "taxable"
+  },
+  {
+    "state": "FL",
+    "category": "publications.newspapers",
+    "taxable": false,
+    "treatment": "exempt"
+  },
+  {
+    "state": "FL",
+    "category": "services.ai_api",
+    "taxable": false,
+    "treatment": "exempt"
+  },
+  {
+    "state": "FL",
+    "category": "services.data_processing",
+    "taxable": false,
+    "treatment": "exempt"
+  },
+  {
+    "state": "FL",
+    "category": "services.personal_care",
+    "taxable": false,
+    "treatment": "exempt"
+  },
+  {
+    "state": "FL",
+    "category": "services.professional",
+    "taxable": false,
+    "treatment": "exempt"
+  },
+  {
+    "state": "FL",
+    "category": "services.repair",
+    "taxable": true,
+    "treatment": "taxable"
+  },
+  {
+    "state": "FL",
+    "category": "services.web_hosting",
+    "taxable": false,
+    "treatment": "exempt"
+  },
+  {
+    "state": "FL",
+    "category": "software.custom",
+    "taxable": false,
+    "treatment": "exempt"
+  },
+  {
+    "state": "FL",
+    "category": "software.prewritten",
+    "taxable": false,
+    "treatment": "exempt"
+  },
+  {
+    "state": "FL",
+    "category": "software.saas",
+    "taxable": false,
+    "treatment": "exempt"
+  },
+  {
+    "state": "GA",
+    "category": "clothing.accessories",
+    "taxable": true,
+    "treatment": "taxable"
+  },
+  {
+    "state": "GA",
+    "category": "clothing.general",
+    "taxable": true,
+    "treatment": "taxable"
+  },
+  {
+    "state": "GA",
+    "category": "clothing.protective",
+    "taxable": true,
+    "treatment": "taxable"
+  },
+  {
+    "state": "GA",
+    "category": "digital_products.ebook",
+    "taxable": true,
+    "treatment": "taxable"
+  },
+  {
+    "state": "GA",
+    "category": "digital_products.music",
+    "taxable": true,
+    "treatment": "taxable"
+  },
+  {
+    "state": "GA",
+    "category": "digital_products.streaming",
+    "taxable": true,
+    "treatment": "taxable"
+  },
+  {
+    "state": "GA",
+    "category": "digital_products.video",
+    "taxable": true,
+    "treatment": "taxable"
+  },
+  {
+    "state": "GA",
+    "category": "food.candy",
+    "taxable": false,
+    "treatment": "exempt"
+  },
+  {
+    "state": "GA",
+    "category": "food.dietary_supplements",
+    "taxable": true,
+    "treatment": "taxable"
+  },
+  {
+    "state": "GA",
+    "category": "food.grocery",
+    "taxable": false,
+    "treatment": "exempt"
+  },
+  {
+    "state": "GA",
+    "category": "food.prepared",
+    "taxable": true,
+    "treatment": "taxable"
+  },
+  {
+    "state": "GA",
+    "category": "food.soft_drinks",
+    "taxable": false,
+    "treatment": "exempt"
+  },
+  {
+    "state": "GA",
+    "category": "goods.electronics",
+    "taxable": true,
+    "treatment": "taxable"
+  },
+  {
+    "state": "GA",
+    "category": "goods.furniture",
+    "taxable": true,
+    "treatment": "taxable"
+  },
+  {
+    "state": "GA",
+    "category": "goods.general",
+    "taxable": true,
+    "treatment": "taxable"
+  },
+  {
+    "state": "GA",
+    "category": "medical.devices",
+    "taxable": false,
+    "treatment": "exempt"
+  },
+  {
+    "state": "GA",
+    "category": "medical.otc_drugs",
+    "taxable": true,
+    "treatment": "taxable"
+  },
+  {
+    "state": "GA",
+    "category": "medical.prescription_drugs",
+    "taxable": false,
+    "treatment": "exempt"
+  },
+  {
+    "state": "GA",
+    "category": "publications.books",
+    "taxable": true,
+    "treatment": "taxable"
+  },
+  {
+    "state": "GA",
+    "category": "publications.magazines",
+    "taxable": true,
+    "treatment": "taxable"
+  },
+  {
+    "state": "GA",
+    "category": "publications.newspapers",
+    "taxable": false,
+    "treatment": "exempt"
+  },
+  {
+    "state": "GA",
+    "category": "services.ai_api",
+    "taxable": false,
+    "treatment": "exempt"
+  },
+  {
+    "state": "GA",
+    "category": "services.data_processing",
+    "taxable": false,
+    "treatment": "exempt"
+  },
+  {
+    "state": "GA",
+    "category": "services.personal_care",
+    "taxable": false,
+    "treatment": "exempt"
+  },
+  {
+    "state": "GA",
+    "category": "services.professional",
+    "taxable": false,
+    "treatment": "exempt"
+  },
+  {
+    "state": "GA",
+    "category": "services.repair",
+    "taxable": true,
+    "treatment": "taxable"
+  },
+  {
+    "state": "GA",
+    "category": "services.web_hosting",
+    "taxable": false,
+    "treatment": "exempt"
+  },
+  {
+    "state": "GA",
+    "category": "software.custom",
+    "taxable": false,
+    "treatment": "exempt"
+  },
+  {
+    "state": "GA",
+    "category": "software.prewritten",
+    "taxable": false,
+    "treatment": "exempt"
+  },
+  {
+    "state": "GA",
+    "category": "software.saas",
+    "taxable": false,
+    "treatment": "exempt"
+  },
+  {
+    "state": "HI",
+    "category": "clothing.accessories",
+    "taxable": true,
+    "treatment": "taxable"
+  },
+  {
+    "state": "HI",
+    "category": "clothing.general",
+    "taxable": true,
+    "treatment": "taxable"
+  },
+  {
+    "state": "HI",
+    "category": "clothing.protective",
+    "taxable": true,
+    "treatment": "taxable"
+  },
+  {
+    "state": "HI",
+    "category": "digital_products.ebook",
+    "taxable": true,
+    "treatment": "taxable"
+  },
+  {
+    "state": "HI",
+    "category": "digital_products.music",
+    "taxable": true,
+    "treatment": "taxable"
+  },
+  {
+    "state": "HI",
+    "category": "digital_products.streaming",
+    "taxable": true,
+    "treatment": "taxable"
+  },
+  {
+    "state": "HI",
+    "category": "digital_products.video",
+    "taxable": true,
+    "treatment": "taxable"
+  },
+  {
+    "state": "HI",
+    "category": "food.candy",
+    "taxable": true,
+    "treatment": "taxable"
+  },
+  {
+    "state": "HI",
+    "category": "food.dietary_supplements",
+    "taxable": true,
+    "treatment": "taxable"
+  },
+  {
+    "state": "HI",
+    "category": "food.grocery",
+    "taxable": true,
+    "treatment": "taxable"
+  },
+  {
+    "state": "HI",
+    "category": "food.prepared",
+    "taxable": true,
+    "treatment": "taxable"
+  },
+  {
+    "state": "HI",
+    "category": "food.soft_drinks",
+    "taxable": true,
+    "treatment": "taxable"
+  },
+  {
+    "state": "HI",
+    "category": "goods.electronics",
+    "taxable": true,
+    "treatment": "taxable"
+  },
+  {
+    "state": "HI",
+    "category": "goods.furniture",
+    "taxable": true,
+    "treatment": "taxable"
+  },
+  {
+    "state": "HI",
+    "category": "goods.general",
+    "taxable": true,
+    "treatment": "taxable"
+  },
+  {
+    "state": "HI",
+    "category": "medical.devices",
+    "taxable": false,
+    "treatment": "exempt"
+  },
+  {
+    "state": "HI",
+    "category": "medical.otc_drugs",
+    "taxable": true,
+    "treatment": "taxable"
+  },
+  {
+    "state": "HI",
+    "category": "medical.prescription_drugs",
+    "taxable": false,
+    "treatment": "exempt"
+  },
+  {
+    "state": "HI",
+    "category": "publications.books",
+    "taxable": true,
+    "treatment": "taxable"
+  },
+  {
+    "state": "HI",
+    "category": "publications.magazines",
+    "taxable": true,
+    "treatment": "taxable"
+  },
+  {
+    "state": "HI",
+    "category": "publications.newspapers",
+    "taxable": false,
+    "treatment": "exempt"
+  },
+  {
+    "state": "HI",
+    "category": "services.ai_api",
+    "taxable": true,
+    "treatment": "taxable"
+  },
+  {
+    "state": "HI",
+    "category": "services.data_processing",
+    "taxable": true,
+    "treatment": "taxable"
+  },
+  {
+    "state": "HI",
+    "category": "services.personal_care",
+    "taxable": true,
+    "treatment": "taxable"
+  },
+  {
+    "state": "HI",
+    "category": "services.professional",
+    "taxable": true,
+    "treatment": "taxable"
+  },
+  {
+    "state": "HI",
+    "category": "services.repair",
+    "taxable": true,
+    "treatment": "taxable"
+  },
+  {
+    "state": "HI",
+    "category": "services.web_hosting",
+    "taxable": true,
+    "treatment": "taxable"
+  },
+  {
+    "state": "HI",
+    "category": "software.custom",
+    "taxable": true,
+    "treatment": "taxable"
+  },
+  {
+    "state": "HI",
+    "category": "software.prewritten",
+    "taxable": true,
+    "treatment": "taxable"
+  },
+  {
+    "state": "HI",
+    "category": "software.saas",
+    "taxable": true,
+    "treatment": "taxable"
+  },
+  {
+    "state": "IA",
+    "category": "clothing.accessories",
+    "taxable": true,
+    "treatment": "taxable"
+  },
+  {
+    "state": "IA",
+    "category": "clothing.general",
+    "taxable": true,
+    "treatment": "taxable"
+  },
+  {
+    "state": "IA",
+    "category": "clothing.protective",
+    "taxable": true,
+    "treatment": "taxable"
+  },
+  {
+    "state": "IA",
+    "category": "digital_products.ebook",
+    "taxable": true,
+    "treatment": "taxable"
+  },
+  {
+    "state": "IA",
+    "category": "digital_products.music",
+    "taxable": true,
+    "treatment": "taxable"
+  },
+  {
+    "state": "IA",
+    "category": "digital_products.streaming",
+    "taxable": true,
+    "treatment": "taxable"
+  },
+  {
+    "state": "IA",
+    "category": "digital_products.video",
+    "taxable": true,
+    "treatment": "taxable"
+  },
+  {
+    "state": "IA",
+    "category": "food.candy",
+    "taxable": true,
+    "treatment": "taxable"
+  },
+  {
+    "state": "IA",
+    "category": "food.dietary_supplements",
+    "taxable": true,
+    "treatment": "taxable"
+  },
+  {
+    "state": "IA",
+    "category": "food.grocery",
+    "taxable": false,
+    "treatment": "exempt"
+  },
+  {
+    "state": "IA",
+    "category": "food.prepared",
+    "taxable": true,
+    "treatment": "taxable"
+  },
+  {
+    "state": "IA",
+    "category": "food.soft_drinks",
+    "taxable": true,
+    "treatment": "taxable"
+  },
+  {
+    "state": "IA",
+    "category": "goods.electronics",
+    "taxable": true,
+    "treatment": "taxable"
+  },
+  {
+    "state": "IA",
+    "category": "goods.furniture",
+    "taxable": true,
+    "treatment": "taxable"
+  },
+  {
+    "state": "IA",
+    "category": "goods.general",
+    "taxable": true,
+    "treatment": "taxable"
+  },
+  {
+    "state": "IA",
+    "category": "medical.devices",
+    "taxable": false,
+    "treatment": "exempt"
+  },
+  {
+    "state": "IA",
+    "category": "medical.otc_drugs",
+    "taxable": true,
+    "treatment": "taxable"
+  },
+  {
+    "state": "IA",
+    "category": "medical.prescription_drugs",
+    "taxable": false,
+    "treatment": "exempt"
+  },
+  {
+    "state": "IA",
+    "category": "publications.books",
+    "taxable": true,
+    "treatment": "taxable"
+  },
+  {
+    "state": "IA",
+    "category": "publications.magazines",
+    "taxable": true,
+    "treatment": "taxable"
+  },
+  {
+    "state": "IA",
+    "category": "publications.newspapers",
+    "taxable": false,
+    "treatment": "exempt"
+  },
+  {
+    "state": "IA",
+    "category": "services.ai_api",
+    "taxable": false,
+    "treatment": "exempt"
+  },
+  {
+    "state": "IA",
+    "category": "services.data_processing",
+    "taxable": false,
+    "treatment": "exempt"
+  },
+  {
+    "state": "IA",
+    "category": "services.personal_care",
+    "taxable": true,
+    "treatment": "taxable"
+  },
+  {
+    "state": "IA",
+    "category": "services.professional",
+    "taxable": false,
+    "treatment": "exempt"
+  },
+  {
+    "state": "IA",
+    "category": "services.repair",
+    "taxable": true,
+    "treatment": "taxable"
+  },
+  {
+    "state": "IA",
+    "category": "services.web_hosting",
+    "taxable": false,
+    "treatment": "exempt"
+  },
+  {
+    "state": "IA",
+    "category": "software.custom",
+    "taxable": false,
+    "treatment": "exempt"
+  },
+  {
+    "state": "IA",
+    "category": "software.prewritten",
+    "taxable": true,
+    "treatment": "taxable"
+  },
+  {
+    "state": "IA",
+    "category": "software.saas",
+    "taxable": false,
+    "treatment": "exempt"
+  },
+  {
+    "state": "ID",
+    "category": "clothing.accessories",
+    "taxable": true,
+    "treatment": "taxable"
+  },
+  {
+    "state": "ID",
+    "category": "clothing.general",
+    "taxable": true,
+    "treatment": "taxable"
+  },
+  {
+    "state": "ID",
+    "category": "clothing.protective",
+    "taxable": true,
+    "treatment": "taxable"
+  },
+  {
+    "state": "ID",
+    "category": "digital_products.ebook",
+    "taxable": true,
+    "treatment": "taxable"
+  },
+  {
+    "state": "ID",
+    "category": "digital_products.music",
+    "taxable": true,
+    "treatment": "taxable"
+  },
+  {
+    "state": "ID",
+    "category": "digital_products.streaming",
+    "taxable": true,
+    "treatment": "taxable"
+  },
+  {
+    "state": "ID",
+    "category": "digital_products.video",
+    "taxable": true,
+    "treatment": "taxable"
+  },
+  {
+    "state": "ID",
+    "category": "food.candy",
+    "taxable": true,
+    "treatment": "taxable"
+  },
+  {
+    "state": "ID",
+    "category": "food.dietary_supplements",
+    "taxable": true,
+    "treatment": "taxable"
+  },
+  {
+    "state": "ID",
+    "category": "food.grocery",
+    "taxable": true,
+    "treatment": "taxable"
+  },
+  {
+    "state": "ID",
+    "category": "food.prepared",
+    "taxable": true,
+    "treatment": "taxable"
+  },
+  {
+    "state": "ID",
+    "category": "food.soft_drinks",
+    "taxable": true,
+    "treatment": "taxable"
+  },
+  {
+    "state": "ID",
+    "category": "goods.electronics",
+    "taxable": true,
+    "treatment": "taxable"
+  },
+  {
+    "state": "ID",
+    "category": "goods.furniture",
+    "taxable": true,
+    "treatment": "taxable"
+  },
+  {
+    "state": "ID",
+    "category": "goods.general",
+    "taxable": true,
+    "treatment": "taxable"
+  },
+  {
+    "state": "ID",
+    "category": "medical.devices",
+    "taxable": false,
+    "treatment": "exempt"
+  },
+  {
+    "state": "ID",
+    "category": "medical.otc_drugs",
+    "taxable": true,
+    "treatment": "taxable"
+  },
+  {
+    "state": "ID",
+    "category": "medical.prescription_drugs",
+    "taxable": false,
+    "treatment": "exempt"
+  },
+  {
+    "state": "ID",
+    "category": "publications.books",
+    "taxable": true,
+    "treatment": "taxable"
+  },
+  {
+    "state": "ID",
+    "category": "publications.magazines",
+    "taxable": true,
+    "treatment": "taxable"
+  },
+  {
+    "state": "ID",
+    "category": "publications.newspapers",
+    "taxable": false,
+    "treatment": "exempt"
+  },
+  {
+    "state": "ID",
+    "category": "services.ai_api",
+    "taxable": false,
+    "treatment": "exempt"
+  },
+  {
+    "state": "ID",
+    "category": "services.data_processing",
+    "taxable": false,
+    "treatment": "exempt"
+  },
+  {
+    "state": "ID",
+    "category": "services.personal_care",
+    "taxable": false,
+    "treatment": "exempt"
+  },
+  {
+    "state": "ID",
+    "category": "services.professional",
+    "taxable": false,
+    "treatment": "exempt"
+  },
+  {
+    "state": "ID",
+    "category": "services.repair",
+    "taxable": true,
+    "treatment": "taxable"
+  },
+  {
+    "state": "ID",
+    "category": "services.web_hosting",
+    "taxable": false,
+    "treatment": "exempt"
+  },
+  {
+    "state": "ID",
+    "category": "software.custom",
+    "taxable": false,
+    "treatment": "exempt"
+  },
+  {
+    "state": "ID",
+    "category": "software.prewritten",
+    "taxable": true,
+    "treatment": "taxable"
+  },
+  {
+    "state": "ID",
+    "category": "software.saas",
+    "taxable": false,
+    "treatment": "exempt"
+  },
+  {
+    "state": "IL",
+    "category": "clothing.accessories",
+    "taxable": true,
+    "treatment": "taxable"
+  },
+  {
+    "state": "IL",
+    "category": "clothing.general",
+    "taxable": true,
+    "treatment": "taxable"
+  },
+  {
+    "state": "IL",
+    "category": "clothing.protective",
+    "taxable": true,
+    "treatment": "taxable"
+  },
+  {
+    "state": "IL",
+    "category": "digital_products.ebook",
+    "taxable": false,
+    "treatment": "exempt"
+  },
+  {
+    "state": "IL",
+    "category": "digital_products.music",
+    "taxable": false,
+    "treatment": "exempt"
+  },
+  {
+    "state": "IL",
+    "category": "digital_products.streaming",
+    "taxable": false,
+    "treatment": "exempt"
+  },
+  {
+    "state": "IL",
+    "category": "digital_products.video",
+    "taxable": false,
+    "treatment": "exempt"
+  },
+  {
+    "state": "IL",
+    "category": "food.candy",
+    "taxable": true,
+    "treatment": "taxable"
+  },
+  {
+    "state": "IL",
+    "category": "food.dietary_supplements",
+    "taxable": true,
+    "treatment": "taxable"
+  },
+  {
+    "state": "IL",
+    "category": "food.grocery",
+    "taxable": false,
+    "treatment": "exempt"
+  },
+  {
+    "state": "IL",
+    "category": "food.prepared",
+    "taxable": true,
+    "treatment": "taxable"
+  },
+  {
+    "state": "IL",
+    "category": "food.soft_drinks",
+    "taxable": true,
+    "treatment": "taxable"
+  },
+  {
+    "state": "IL",
+    "category": "goods.electronics",
+    "taxable": true,
+    "treatment": "taxable"
+  },
+  {
+    "state": "IL",
+    "category": "goods.furniture",
+    "taxable": true,
+    "treatment": "taxable"
+  },
+  {
+    "state": "IL",
+    "category": "goods.general",
+    "taxable": true,
+    "treatment": "taxable"
+  },
+  {
+    "state": "IL",
+    "category": "medical.devices",
+    "taxable": false,
+    "treatment": "exempt"
+  },
+  {
+    "state": "IL",
+    "category": "medical.otc_drugs",
+    "taxable": true,
+    "treatment": "taxable"
+  },
+  {
+    "state": "IL",
+    "category": "medical.prescription_drugs",
+    "taxable": false,
+    "treatment": "exempt"
+  },
+  {
+    "state": "IL",
+    "category": "publications.books",
+    "taxable": true,
+    "treatment": "taxable"
+  },
+  {
+    "state": "IL",
+    "category": "publications.magazines",
+    "taxable": true,
+    "treatment": "taxable"
+  },
+  {
+    "state": "IL",
+    "category": "publications.newspapers",
+    "taxable": false,
+    "treatment": "exempt"
+  },
+  {
+    "state": "IL",
+    "category": "services.ai_api",
+    "taxable": false,
+    "treatment": "exempt"
+  },
+  {
+    "state": "IL",
+    "category": "services.data_processing",
+    "taxable": false,
+    "treatment": "exempt"
+  },
+  {
+    "state": "IL",
+    "category": "services.personal_care",
+    "taxable": false,
+    "treatment": "exempt"
+  },
+  {
+    "state": "IL",
+    "category": "services.professional",
+    "taxable": false,
+    "treatment": "exempt"
+  },
+  {
+    "state": "IL",
+    "category": "services.repair",
+    "taxable": false,
+    "treatment": "exempt"
+  },
+  {
+    "state": "IL",
+    "category": "services.web_hosting",
+    "taxable": false,
+    "treatment": "exempt"
+  },
+  {
+    "state": "IL",
+    "category": "software.custom",
+    "taxable": false,
+    "treatment": "exempt"
+  },
+  {
+    "state": "IL",
+    "category": "software.prewritten",
+    "taxable": true,
+    "treatment": "taxable"
+  },
+  {
+    "state": "IL",
+    "category": "software.saas",
+    "taxable": false,
+    "treatment": "exempt"
+  },
+  {
+    "state": "IN",
+    "category": "clothing.accessories",
+    "taxable": true,
+    "treatment": "taxable"
+  },
+  {
+    "state": "IN",
+    "category": "clothing.general",
+    "taxable": true,
+    "treatment": "taxable"
+  },
+  {
+    "state": "IN",
+    "category": "clothing.protective",
+    "taxable": true,
+    "treatment": "taxable"
+  },
+  {
+    "state": "IN",
+    "category": "digital_products.ebook",
+    "taxable": true,
+    "treatment": "taxable"
+  },
+  {
+    "state": "IN",
+    "category": "digital_products.music",
+    "taxable": true,
+    "treatment": "taxable"
+  },
+  {
+    "state": "IN",
+    "category": "digital_products.streaming",
+    "taxable": true,
+    "treatment": "taxable"
+  },
+  {
+    "state": "IN",
+    "category": "digital_products.video",
+    "taxable": true,
+    "treatment": "taxable"
+  },
+  {
+    "state": "IN",
+    "category": "food.candy",
+    "taxable": true,
+    "treatment": "taxable"
+  },
+  {
+    "state": "IN",
+    "category": "food.dietary_supplements",
+    "taxable": true,
+    "treatment": "taxable"
+  },
+  {
+    "state": "IN",
+    "category": "food.grocery",
+    "taxable": false,
+    "treatment": "exempt"
+  },
+  {
+    "state": "IN",
+    "category": "food.prepared",
+    "taxable": true,
+    "treatment": "taxable"
+  },
+  {
+    "state": "IN",
+    "category": "food.soft_drinks",
+    "taxable": true,
+    "treatment": "taxable"
+  },
+  {
+    "state": "IN",
+    "category": "goods.electronics",
+    "taxable": true,
+    "treatment": "taxable"
+  },
+  {
+    "state": "IN",
+    "category": "goods.furniture",
+    "taxable": true,
+    "treatment": "taxable"
+  },
+  {
+    "state": "IN",
+    "category": "goods.general",
+    "taxable": true,
+    "treatment": "taxable"
+  },
+  {
+    "state": "IN",
+    "category": "medical.devices",
+    "taxable": false,
+    "treatment": "exempt"
+  },
+  {
+    "state": "IN",
+    "category": "medical.otc_drugs",
+    "taxable": true,
+    "treatment": "taxable"
+  },
+  {
+    "state": "IN",
+    "category": "medical.prescription_drugs",
+    "taxable": false,
+    "treatment": "exempt"
+  },
+  {
+    "state": "IN",
+    "category": "publications.books",
+    "taxable": true,
+    "treatment": "taxable"
+  },
+  {
+    "state": "IN",
+    "category": "publications.magazines",
+    "taxable": true,
+    "treatment": "taxable"
+  },
+  {
+    "state": "IN",
+    "category": "publications.newspapers",
+    "taxable": false,
+    "treatment": "exempt"
+  },
+  {
+    "state": "IN",
+    "category": "services.ai_api",
+    "taxable": false,
+    "treatment": "exempt"
+  },
+  {
+    "state": "IN",
+    "category": "services.data_processing",
+    "taxable": false,
+    "treatment": "exempt"
+  },
+  {
+    "state": "IN",
+    "category": "services.personal_care",
+    "taxable": false,
+    "treatment": "exempt"
+  },
+  {
+    "state": "IN",
+    "category": "services.professional",
+    "taxable": false,
+    "treatment": "exempt"
+  },
+  {
+    "state": "IN",
+    "category": "services.repair",
+    "taxable": true,
+    "treatment": "taxable"
+  },
+  {
+    "state": "IN",
+    "category": "services.web_hosting",
+    "taxable": false,
+    "treatment": "exempt"
+  },
+  {
+    "state": "IN",
+    "category": "software.custom",
+    "taxable": false,
+    "treatment": "exempt"
+  },
+  {
+    "state": "IN",
+    "category": "software.prewritten",
+    "taxable": true,
+    "treatment": "taxable"
+  },
+  {
+    "state": "IN",
+    "category": "software.saas",
+    "taxable": false,
+    "treatment": "exempt"
+  },
+  {
+    "state": "KS",
+    "category": "clothing.accessories",
+    "taxable": true,
+    "treatment": "taxable"
+  },
+  {
+    "state": "KS",
+    "category": "clothing.general",
+    "taxable": true,
+    "treatment": "taxable"
+  },
+  {
+    "state": "KS",
+    "category": "clothing.protective",
+    "taxable": true,
+    "treatment": "taxable"
+  },
+  {
+    "state": "KS",
+    "category": "digital_products.ebook",
+    "taxable": false,
+    "treatment": "exempt"
+  },
+  {
+    "state": "KS",
+    "category": "digital_products.music",
+    "taxable": false,
+    "treatment": "exempt"
+  },
+  {
+    "state": "KS",
+    "category": "digital_products.streaming",
+    "taxable": false,
+    "treatment": "exempt"
+  },
+  {
+    "state": "KS",
+    "category": "digital_products.video",
+    "taxable": false,
+    "treatment": "exempt"
+  },
+  {
+    "state": "KS",
+    "category": "food.candy",
+    "taxable": true,
+    "treatment": "taxable"
+  },
+  {
+    "state": "KS",
+    "category": "food.dietary_supplements",
+    "taxable": true,
+    "treatment": "taxable"
+  },
+  {
+    "state": "KS",
+    "category": "food.grocery",
+    "taxable": false,
+    "treatment": "exempt"
+  },
+  {
+    "state": "KS",
+    "category": "food.prepared",
+    "taxable": true,
+    "treatment": "taxable"
+  },
+  {
+    "state": "KS",
+    "category": "food.soft_drinks",
+    "taxable": true,
+    "treatment": "taxable"
+  },
+  {
+    "state": "KS",
+    "category": "goods.electronics",
+    "taxable": true,
+    "treatment": "taxable"
+  },
+  {
+    "state": "KS",
+    "category": "goods.furniture",
+    "taxable": true,
+    "treatment": "taxable"
+  },
+  {
+    "state": "KS",
+    "category": "goods.general",
+    "taxable": true,
+    "treatment": "taxable"
+  },
+  {
+    "state": "KS",
+    "category": "medical.devices",
+    "taxable": false,
+    "treatment": "exempt"
+  },
+  {
+    "state": "KS",
+    "category": "medical.otc_drugs",
+    "taxable": true,
+    "treatment": "taxable"
+  },
+  {
+    "state": "KS",
+    "category": "medical.prescription_drugs",
+    "taxable": false,
+    "treatment": "exempt"
+  },
+  {
+    "state": "KS",
+    "category": "publications.books",
+    "taxable": true,
+    "treatment": "taxable"
+  },
+  {
+    "state": "KS",
+    "category": "publications.magazines",
+    "taxable": true,
+    "treatment": "taxable"
+  },
+  {
+    "state": "KS",
+    "category": "publications.newspapers",
+    "taxable": false,
+    "treatment": "exempt"
+  },
+  {
+    "state": "KS",
+    "category": "services.ai_api",
+    "taxable": false,
+    "treatment": "exempt"
+  },
+  {
+    "state": "KS",
+    "category": "services.data_processing",
+    "taxable": false,
+    "treatment": "exempt"
+  },
+  {
+    "state": "KS",
+    "category": "services.personal_care",
+    "taxable": false,
+    "treatment": "exempt"
+  },
+  {
+    "state": "KS",
+    "category": "services.professional",
+    "taxable": false,
+    "treatment": "exempt"
+  },
+  {
+    "state": "KS",
+    "category": "services.repair",
+    "taxable": true,
+    "treatment": "taxable"
+  },
+  {
+    "state": "KS",
+    "category": "services.web_hosting",
+    "taxable": false,
+    "treatment": "exempt"
+  },
+  {
+    "state": "KS",
+    "category": "software.custom",
+    "taxable": false,
+    "treatment": "exempt"
+  },
+  {
+    "state": "KS",
+    "category": "software.prewritten",
+    "taxable": true,
+    "treatment": "taxable"
+  },
+  {
+    "state": "KS",
+    "category": "software.saas",
+    "taxable": false,
+    "treatment": "exempt"
+  },
+  {
+    "state": "KY",
+    "category": "clothing.accessories",
+    "taxable": true,
+    "treatment": "taxable"
+  },
+  {
+    "state": "KY",
+    "category": "clothing.general",
+    "taxable": true,
+    "treatment": "taxable"
+  },
+  {
+    "state": "KY",
+    "category": "clothing.protective",
+    "taxable": true,
+    "treatment": "taxable"
+  },
+  {
+    "state": "KY",
+    "category": "digital_products.ebook",
+    "taxable": true,
+    "treatment": "taxable"
+  },
+  {
+    "state": "KY",
+    "category": "digital_products.music",
+    "taxable": true,
+    "treatment": "taxable"
+  },
+  {
+    "state": "KY",
+    "category": "digital_products.streaming",
+    "taxable": true,
+    "treatment": "taxable"
+  },
+  {
+    "state": "KY",
+    "category": "digital_products.video",
+    "taxable": true,
+    "treatment": "taxable"
+  },
+  {
+    "state": "KY",
+    "category": "food.candy",
+    "taxable": true,
+    "treatment": "taxable"
+  },
+  {
+    "state": "KY",
+    "category": "food.dietary_supplements",
+    "taxable": true,
+    "treatment": "taxable"
+  },
+  {
+    "state": "KY",
+    "category": "food.grocery",
+    "taxable": false,
+    "treatment": "exempt"
+  },
+  {
+    "state": "KY",
+    "category": "food.prepared",
+    "taxable": true,
+    "treatment": "taxable"
+  },
+  {
+    "state": "KY",
+    "category": "food.soft_drinks",
+    "taxable": true,
+    "treatment": "taxable"
+  },
+  {
+    "state": "KY",
+    "category": "goods.electronics",
+    "taxable": true,
+    "treatment": "taxable"
+  },
+  {
+    "state": "KY",
+    "category": "goods.furniture",
+    "taxable": true,
+    "treatment": "taxable"
+  },
+  {
+    "state": "KY",
+    "category": "goods.general",
+    "taxable": true,
+    "treatment": "taxable"
+  },
+  {
+    "state": "KY",
+    "category": "medical.devices",
+    "taxable": false,
+    "treatment": "exempt"
+  },
+  {
+    "state": "KY",
+    "category": "medical.otc_drugs",
+    "taxable": true,
+    "treatment": "taxable"
+  },
+  {
+    "state": "KY",
+    "category": "medical.prescription_drugs",
+    "taxable": false,
+    "treatment": "exempt"
+  },
+  {
+    "state": "KY",
+    "category": "publications.books",
+    "taxable": true,
+    "treatment": "taxable"
+  },
+  {
+    "state": "KY",
+    "category": "publications.magazines",
+    "taxable": true,
+    "treatment": "taxable"
+  },
+  {
+    "state": "KY",
+    "category": "publications.newspapers",
+    "taxable": false,
+    "treatment": "exempt"
+  },
+  {
+    "state": "KY",
+    "category": "services.ai_api",
+    "taxable": true,
+    "treatment": "taxable"
+  },
+  {
+    "state": "KY",
+    "category": "services.data_processing",
+    "taxable": false,
+    "treatment": "exempt"
+  },
+  {
+    "state": "KY",
+    "category": "services.personal_care",
+    "taxable": false,
+    "treatment": "exempt"
+  },
+  {
+    "state": "KY",
+    "category": "services.professional",
+    "taxable": false,
+    "treatment": "exempt"
+  },
+  {
+    "state": "KY",
+    "category": "services.repair",
+    "taxable": true,
+    "treatment": "taxable"
+  },
+  {
+    "state": "KY",
+    "category": "services.web_hosting",
+    "taxable": true,
+    "treatment": "taxable"
+  },
+  {
+    "state": "KY",
+    "category": "software.custom",
+    "taxable": false,
+    "treatment": "exempt"
+  },
+  {
+    "state": "KY",
+    "category": "software.prewritten",
+    "taxable": true,
+    "treatment": "taxable"
+  },
+  {
+    "state": "KY",
+    "category": "software.saas",
+    "taxable": true,
+    "treatment": "taxable"
+  },
+  {
+    "state": "LA",
+    "category": "clothing.accessories",
+    "taxable": true,
+    "treatment": "taxable"
+  },
+  {
+    "state": "LA",
+    "category": "clothing.general",
+    "taxable": true,
+    "treatment": "taxable"
+  },
+  {
+    "state": "LA",
+    "category": "clothing.protective",
+    "taxable": true,
+    "treatment": "taxable"
+  },
+  {
+    "state": "LA",
+    "category": "digital_products.ebook",
+    "taxable": true,
+    "treatment": "taxable"
+  },
+  {
+    "state": "LA",
+    "category": "digital_products.music",
+    "taxable": true,
+    "treatment": "taxable"
+  },
+  {
+    "state": "LA",
+    "category": "digital_products.streaming",
+    "taxable": true,
+    "treatment": "taxable"
+  },
+  {
+    "state": "LA",
+    "category": "digital_products.video",
+    "taxable": true,
+    "treatment": "taxable"
+  },
+  {
+    "state": "LA",
+    "category": "food.candy",
+    "taxable": false,
+    "treatment": "exempt"
+  },
+  {
+    "state": "LA",
+    "category": "food.dietary_supplements",
+    "taxable": true,
+    "treatment": "taxable"
+  },
+  {
+    "state": "LA",
+    "category": "food.grocery",
+    "taxable": false,
+    "treatment": "exempt"
+  },
+  {
+    "state": "LA",
+    "category": "food.prepared",
+    "taxable": true,
+    "treatment": "taxable"
+  },
+  {
+    "state": "LA",
+    "category": "food.soft_drinks",
+    "taxable": false,
+    "treatment": "exempt"
+  },
+  {
+    "state": "LA",
+    "category": "goods.electronics",
+    "taxable": true,
+    "treatment": "taxable"
+  },
+  {
+    "state": "LA",
+    "category": "goods.furniture",
+    "taxable": true,
+    "treatment": "taxable"
+  },
+  {
+    "state": "LA",
+    "category": "goods.general",
+    "taxable": true,
+    "treatment": "taxable"
+  },
+  {
+    "state": "LA",
+    "category": "medical.devices",
+    "taxable": false,
+    "treatment": "exempt"
+  },
+  {
+    "state": "LA",
+    "category": "medical.otc_drugs",
+    "taxable": true,
+    "treatment": "taxable"
+  },
+  {
+    "state": "LA",
+    "category": "medical.prescription_drugs",
+    "taxable": false,
+    "treatment": "exempt"
+  },
+  {
+    "state": "LA",
+    "category": "publications.books",
+    "taxable": true,
+    "treatment": "taxable"
+  },
+  {
+    "state": "LA",
+    "category": "publications.magazines",
+    "taxable": true,
+    "treatment": "taxable"
+  },
+  {
+    "state": "LA",
+    "category": "publications.newspapers",
+    "taxable": false,
+    "treatment": "exempt"
+  },
+  {
+    "state": "LA",
+    "category": "services.ai_api",
+    "taxable": true,
+    "treatment": "taxable"
+  },
+  {
+    "state": "LA",
+    "category": "services.data_processing",
+    "taxable": false,
+    "treatment": "exempt"
+  },
+  {
+    "state": "LA",
+    "category": "services.personal_care",
+    "taxable": false,
+    "treatment": "exempt"
+  },
+  {
+    "state": "LA",
+    "category": "services.professional",
+    "taxable": false,
+    "treatment": "exempt"
+  },
+  {
+    "state": "LA",
+    "category": "services.repair",
+    "taxable": true,
+    "treatment": "taxable"
+  },
+  {
+    "state": "LA",
+    "category": "services.web_hosting",
+    "taxable": false,
+    "treatment": "exempt"
+  },
+  {
+    "state": "LA",
+    "category": "software.custom",
+    "taxable": false,
+    "treatment": "exempt"
+  },
+  {
+    "state": "LA",
+    "category": "software.prewritten",
+    "taxable": true,
+    "treatment": "taxable"
+  },
+  {
+    "state": "LA",
+    "category": "software.saas",
+    "taxable": true,
+    "treatment": "taxable"
+  },
+  {
+    "state": "MA",
+    "category": "clothing.accessories",
+    "taxable": true,
+    "treatment": "taxable"
+  },
+  {
+    "state": "MA",
+    "category": "clothing.general",
+    "taxable": false,
+    "treatment": "exempt"
+  },
+  {
+    "state": "MA",
+    "category": "clothing.protective",
+    "taxable": true,
+    "treatment": "taxable"
+  },
+  {
+    "state": "MA",
+    "category": "digital_products.ebook",
+    "taxable": false,
+    "treatment": "exempt"
+  },
+  {
+    "state": "MA",
+    "category": "digital_products.music",
+    "taxable": false,
+    "treatment": "exempt"
+  },
+  {
+    "state": "MA",
+    "category": "digital_products.streaming",
+    "taxable": false,
+    "treatment": "exempt"
+  },
+  {
+    "state": "MA",
+    "category": "digital_products.video",
+    "taxable": false,
+    "treatment": "exempt"
+  },
+  {
+    "state": "MA",
+    "category": "food.candy",
+    "taxable": false,
+    "treatment": "exempt"
+  },
+  {
+    "state": "MA",
+    "category": "food.dietary_supplements",
+    "taxable": true,
+    "treatment": "taxable"
+  },
+  {
+    "state": "MA",
+    "category": "food.grocery",
+    "taxable": false,
+    "treatment": "exempt"
+  },
+  {
+    "state": "MA",
+    "category": "food.prepared",
+    "taxable": true,
+    "treatment": "taxable"
+  },
+  {
+    "state": "MA",
+    "category": "food.soft_drinks",
+    "taxable": false,
+    "treatment": "exempt"
+  },
+  {
+    "state": "MA",
+    "category": "goods.electronics",
+    "taxable": true,
+    "treatment": "taxable"
+  },
+  {
+    "state": "MA",
+    "category": "goods.furniture",
+    "taxable": true,
+    "treatment": "taxable"
+  },
+  {
+    "state": "MA",
+    "category": "goods.general",
+    "taxable": true,
+    "treatment": "taxable"
+  },
+  {
+    "state": "MA",
+    "category": "medical.devices",
+    "taxable": false,
+    "treatment": "exempt"
+  },
+  {
+    "state": "MA",
+    "category": "medical.otc_drugs",
+    "taxable": true,
+    "treatment": "taxable"
+  },
+  {
+    "state": "MA",
+    "category": "medical.prescription_drugs",
+    "taxable": false,
+    "treatment": "exempt"
+  },
+  {
+    "state": "MA",
+    "category": "publications.books",
+    "taxable": true,
+    "treatment": "taxable"
+  },
+  {
+    "state": "MA",
+    "category": "publications.magazines",
+    "taxable": true,
+    "treatment": "taxable"
+  },
+  {
+    "state": "MA",
+    "category": "publications.newspapers",
+    "taxable": false,
+    "treatment": "exempt"
+  },
+  {
+    "state": "MA",
+    "category": "services.ai_api",
+    "taxable": true,
+    "treatment": "taxable"
+  },
+  {
+    "state": "MA",
+    "category": "services.data_processing",
+    "taxable": false,
+    "treatment": "exempt"
+  },
+  {
+    "state": "MA",
+    "category": "services.personal_care",
+    "taxable": false,
+    "treatment": "exempt"
+  },
+  {
+    "state": "MA",
+    "category": "services.professional",
+    "taxable": false,
+    "treatment": "exempt"
+  },
+  {
+    "state": "MA",
+    "category": "services.repair",
+    "taxable": false,
+    "treatment": "exempt"
+  },
+  {
+    "state": "MA",
+    "category": "services.web_hosting",
+    "taxable": false,
+    "treatment": "exempt"
+  },
+  {
+    "state": "MA",
+    "category": "software.custom",
+    "taxable": false,
+    "treatment": "exempt"
+  },
+  {
+    "state": "MA",
+    "category": "software.prewritten",
+    "taxable": true,
+    "treatment": "taxable"
+  },
+  {
+    "state": "MA",
+    "category": "software.saas",
+    "taxable": true,
+    "treatment": "taxable"
+  },
+  {
+    "state": "MD",
+    "category": "clothing.accessories",
+    "taxable": true,
+    "treatment": "taxable"
+  },
+  {
+    "state": "MD",
+    "category": "clothing.general",
+    "taxable": true,
+    "treatment": "taxable"
+  },
+  {
+    "state": "MD",
+    "category": "clothing.protective",
+    "taxable": true,
+    "treatment": "taxable"
+  },
+  {
+    "state": "MD",
+    "category": "digital_products.ebook",
+    "taxable": true,
+    "treatment": "taxable"
+  },
+  {
+    "state": "MD",
+    "category": "digital_products.music",
+    "taxable": true,
+    "treatment": "taxable"
+  },
+  {
+    "state": "MD",
+    "category": "digital_products.streaming",
+    "taxable": true,
+    "treatment": "taxable"
+  },
+  {
+    "state": "MD",
+    "category": "digital_products.video",
+    "taxable": true,
+    "treatment": "taxable"
+  },
+  {
+    "state": "MD",
+    "category": "food.candy",
+    "taxable": true,
+    "treatment": "taxable"
+  },
+  {
+    "state": "MD",
+    "category": "food.dietary_supplements",
+    "taxable": false,
+    "treatment": "exempt"
+  },
+  {
+    "state": "MD",
+    "category": "food.grocery",
+    "taxable": false,
+    "treatment": "exempt"
+  },
+  {
+    "state": "MD",
+    "category": "food.prepared",
+    "taxable": true,
+    "treatment": "taxable"
+  },
+  {
+    "state": "MD",
+    "category": "food.soft_drinks",
+    "taxable": true,
+    "treatment": "taxable"
+  },
+  {
+    "state": "MD",
+    "category": "goods.electronics",
+    "taxable": true,
+    "treatment": "taxable"
+  },
+  {
+    "state": "MD",
+    "category": "goods.furniture",
+    "taxable": true,
+    "treatment": "taxable"
+  },
+  {
+    "state": "MD",
+    "category": "goods.general",
+    "taxable": true,
+    "treatment": "taxable"
+  },
+  {
+    "state": "MD",
+    "category": "medical.devices",
+    "taxable": false,
+    "treatment": "exempt"
+  },
+  {
+    "state": "MD",
+    "category": "medical.otc_drugs",
+    "taxable": false,
+    "treatment": "exempt"
+  },
+  {
+    "state": "MD",
+    "category": "medical.prescription_drugs",
+    "taxable": false,
+    "treatment": "exempt"
+  },
+  {
+    "state": "MD",
+    "category": "publications.books",
+    "taxable": true,
+    "treatment": "taxable"
+  },
+  {
+    "state": "MD",
+    "category": "publications.magazines",
+    "taxable": true,
+    "treatment": "taxable"
+  },
+  {
+    "state": "MD",
+    "category": "publications.newspapers",
+    "taxable": false,
+    "treatment": "exempt"
+  },
+  {
+    "state": "MD",
+    "category": "services.ai_api",
+    "taxable": true,
+    "treatment": "taxable"
+  },
+  {
+    "state": "MD",
+    "category": "services.data_processing",
+    "taxable": false,
+    "treatment": "exempt"
+  },
+  {
+    "state": "MD",
+    "category": "services.personal_care",
+    "taxable": false,
+    "treatment": "exempt"
+  },
+  {
+    "state": "MD",
+    "category": "services.professional",
+    "taxable": false,
+    "treatment": "exempt"
+  },
+  {
+    "state": "MD",
+    "category": "services.repair",
+    "taxable": true,
+    "treatment": "taxable"
+  },
+  {
+    "state": "MD",
+    "category": "services.web_hosting",
+    "taxable": true,
+    "treatment": "taxable"
+  },
+  {
+    "state": "MD",
+    "category": "software.custom",
+    "taxable": false,
+    "treatment": "exempt"
+  },
+  {
+    "state": "MD",
+    "category": "software.prewritten",
+    "taxable": true,
+    "treatment": "taxable"
+  },
+  {
+    "state": "MD",
+    "category": "software.saas",
+    "taxable": true,
+    "treatment": "taxable"
+  },
+  {
+    "state": "ME",
+    "category": "clothing.accessories",
+    "taxable": true,
+    "treatment": "taxable"
+  },
+  {
+    "state": "ME",
+    "category": "clothing.general",
+    "taxable": true,
+    "treatment": "taxable"
+  },
+  {
+    "state": "ME",
+    "category": "clothing.protective",
+    "taxable": true,
+    "treatment": "taxable"
+  },
+  {
+    "state": "ME",
+    "category": "digital_products.ebook",
+    "taxable": true,
+    "treatment": "taxable"
+  },
+  {
+    "state": "ME",
+    "category": "digital_products.music",
+    "taxable": true,
+    "treatment": "taxable"
+  },
+  {
+    "state": "ME",
+    "category": "digital_products.streaming",
+    "taxable": true,
+    "treatment": "taxable"
+  },
+  {
+    "state": "ME",
+    "category": "digital_products.video",
+    "taxable": true,
+    "treatment": "taxable"
+  },
+  {
+    "state": "ME",
+    "category": "food.candy",
+    "taxable": true,
+    "treatment": "taxable"
+  },
+  {
+    "state": "ME",
+    "category": "food.dietary_supplements",
+    "taxable": true,
+    "treatment": "taxable"
+  },
+  {
+    "state": "ME",
+    "category": "food.grocery",
+    "taxable": false,
+    "treatment": "exempt"
+  },
+  {
+    "state": "ME",
+    "category": "food.prepared",
+    "taxable": true,
+    "treatment": "taxable"
+  },
+  {
+    "state": "ME",
+    "category": "food.soft_drinks",
+    "taxable": true,
+    "treatment": "taxable"
+  },
+  {
+    "state": "ME",
+    "category": "goods.electronics",
+    "taxable": true,
+    "treatment": "taxable"
+  },
+  {
+    "state": "ME",
+    "category": "goods.furniture",
+    "taxable": true,
+    "treatment": "taxable"
+  },
+  {
+    "state": "ME",
+    "category": "goods.general",
+    "taxable": true,
+    "treatment": "taxable"
+  },
+  {
+    "state": "ME",
+    "category": "medical.devices",
+    "taxable": false,
+    "treatment": "exempt"
+  },
+  {
+    "state": "ME",
+    "category": "medical.otc_drugs",
+    "taxable": true,
+    "treatment": "taxable"
+  },
+  {
+    "state": "ME",
+    "category": "medical.prescription_drugs",
+    "taxable": false,
+    "treatment": "exempt"
+  },
+  {
+    "state": "ME",
+    "category": "publications.books",
+    "taxable": true,
+    "treatment": "taxable"
+  },
+  {
+    "state": "ME",
+    "category": "publications.magazines",
+    "taxable": true,
+    "treatment": "taxable"
+  },
+  {
+    "state": "ME",
+    "category": "publications.newspapers",
+    "taxable": false,
+    "treatment": "exempt"
+  },
+  {
+    "state": "ME",
+    "category": "services.ai_api",
+    "taxable": false,
+    "treatment": "exempt"
+  },
+  {
+    "state": "ME",
+    "category": "services.data_processing",
+    "taxable": false,
+    "treatment": "exempt"
+  },
+  {
+    "state": "ME",
+    "category": "services.personal_care",
+    "taxable": false,
+    "treatment": "exempt"
+  },
+  {
+    "state": "ME",
+    "category": "services.professional",
+    "taxable": false,
+    "treatment": "exempt"
+  },
+  {
+    "state": "ME",
+    "category": "services.repair",
+    "taxable": true,
+    "treatment": "taxable"
+  },
+  {
+    "state": "ME",
+    "category": "services.web_hosting",
+    "taxable": false,
+    "treatment": "exempt"
+  },
+  {
+    "state": "ME",
+    "category": "software.custom",
+    "taxable": false,
+    "treatment": "exempt"
+  },
+  {
+    "state": "ME",
+    "category": "software.prewritten",
+    "taxable": true,
+    "treatment": "taxable"
+  },
+  {
+    "state": "ME",
+    "category": "software.saas",
+    "taxable": false,
+    "treatment": "exempt"
+  },
+  {
+    "state": "MI",
+    "category": "clothing.accessories",
+    "taxable": true,
+    "treatment": "taxable"
+  },
+  {
+    "state": "MI",
+    "category": "clothing.general",
+    "taxable": true,
+    "treatment": "taxable"
+  },
+  {
+    "state": "MI",
+    "category": "clothing.protective",
+    "taxable": true,
+    "treatment": "taxable"
+  },
+  {
+    "state": "MI",
+    "category": "digital_products.ebook",
+    "taxable": false,
+    "treatment": "exempt"
+  },
+  {
+    "state": "MI",
+    "category": "digital_products.music",
+    "taxable": false,
+    "treatment": "exempt"
+  },
+  {
+    "state": "MI",
+    "category": "digital_products.streaming",
+    "taxable": false,
+    "treatment": "exempt"
+  },
+  {
+    "state": "MI",
+    "category": "digital_products.video",
+    "taxable": false,
+    "treatment": "exempt"
+  },
+  {
+    "state": "MI",
+    "category": "food.candy",
+    "taxable": false,
+    "treatment": "exempt"
+  },
+  {
+    "state": "MI",
+    "category": "food.dietary_supplements",
+    "taxable": false,
+    "treatment": "exempt"
+  },
+  {
+    "state": "MI",
+    "category": "food.grocery",
+    "taxable": false,
+    "treatment": "exempt"
+  },
+  {
+    "state": "MI",
+    "category": "food.prepared",
+    "taxable": true,
+    "treatment": "taxable"
+  },
+  {
+    "state": "MI",
+    "category": "food.soft_drinks",
+    "taxable": false,
+    "treatment": "exempt"
+  },
+  {
+    "state": "MI",
+    "category": "goods.electronics",
+    "taxable": true,
+    "treatment": "taxable"
+  },
+  {
+    "state": "MI",
+    "category": "goods.furniture",
+    "taxable": true,
+    "treatment": "taxable"
+  },
+  {
+    "state": "MI",
+    "category": "goods.general",
+    "taxable": true,
+    "treatment": "taxable"
+  },
+  {
+    "state": "MI",
+    "category": "medical.devices",
+    "taxable": false,
+    "treatment": "exempt"
+  },
+  {
+    "state": "MI",
+    "category": "medical.otc_drugs",
+    "taxable": true,
+    "treatment": "taxable"
+  },
+  {
+    "state": "MI",
+    "category": "medical.prescription_drugs",
+    "taxable": false,
+    "treatment": "exempt"
+  },
+  {
+    "state": "MI",
+    "category": "publications.books",
+    "taxable": true,
+    "treatment": "taxable"
+  },
+  {
+    "state": "MI",
+    "category": "publications.magazines",
+    "taxable": true,
+    "treatment": "taxable"
+  },
+  {
+    "state": "MI",
+    "category": "publications.newspapers",
+    "taxable": false,
+    "treatment": "exempt"
+  },
+  {
+    "state": "MI",
+    "category": "services.ai_api",
+    "taxable": false,
+    "treatment": "exempt"
+  },
+  {
+    "state": "MI",
+    "category": "services.data_processing",
+    "taxable": false,
+    "treatment": "exempt"
+  },
+  {
+    "state": "MI",
+    "category": "services.personal_care",
+    "taxable": false,
+    "treatment": "exempt"
+  },
+  {
+    "state": "MI",
+    "category": "services.professional",
+    "taxable": false,
+    "treatment": "exempt"
+  },
+  {
+    "state": "MI",
+    "category": "services.repair",
+    "taxable": true,
+    "treatment": "taxable"
+  },
+  {
+    "state": "MI",
+    "category": "services.web_hosting",
+    "taxable": false,
+    "treatment": "exempt"
+  },
+  {
+    "state": "MI",
+    "category": "software.custom",
+    "taxable": false,
+    "treatment": "exempt"
+  },
+  {
+    "state": "MI",
+    "category": "software.prewritten",
+    "taxable": true,
+    "treatment": "taxable"
+  },
+  {
+    "state": "MI",
+    "category": "software.saas",
+    "taxable": false,
+    "treatment": "exempt"
+  },
+  {
+    "state": "MN",
+    "category": "clothing.accessories",
+    "taxable": true,
+    "treatment": "taxable"
+  },
+  {
+    "state": "MN",
+    "category": "clothing.general",
+    "taxable": false,
+    "treatment": "exempt"
+  },
+  {
+    "state": "MN",
+    "category": "clothing.protective",
+    "taxable": true,
+    "treatment": "taxable"
+  },
+  {
+    "state": "MN",
+    "category": "digital_products.ebook",
+    "taxable": true,
+    "treatment": "taxable"
+  },
+  {
+    "state": "MN",
+    "category": "digital_products.music",
+    "taxable": true,
+    "treatment": "taxable"
+  },
+  {
+    "state": "MN",
+    "category": "digital_products.streaming",
+    "taxable": true,
+    "treatment": "taxable"
+  },
+  {
+    "state": "MN",
+    "category": "digital_products.video",
+    "taxable": true,
+    "treatment": "taxable"
+  },
+  {
+    "state": "MN",
+    "category": "food.candy",
+    "taxable": true,
+    "treatment": "taxable"
+  },
+  {
+    "state": "MN",
+    "category": "food.dietary_supplements",
+    "taxable": true,
+    "treatment": "taxable"
+  },
+  {
+    "state": "MN",
+    "category": "food.grocery",
+    "taxable": false,
+    "treatment": "exempt"
+  },
+  {
+    "state": "MN",
+    "category": "food.prepared",
+    "taxable": true,
+    "treatment": "taxable"
+  },
+  {
+    "state": "MN",
+    "category": "food.soft_drinks",
+    "taxable": true,
+    "treatment": "taxable"
+  },
+  {
+    "state": "MN",
+    "category": "goods.electronics",
+    "taxable": true,
+    "treatment": "taxable"
+  },
+  {
+    "state": "MN",
+    "category": "goods.furniture",
+    "taxable": true,
+    "treatment": "taxable"
+  },
+  {
+    "state": "MN",
+    "category": "goods.general",
+    "taxable": true,
+    "treatment": "taxable"
+  },
+  {
+    "state": "MN",
+    "category": "medical.devices",
+    "taxable": false,
+    "treatment": "exempt"
+  },
+  {
+    "state": "MN",
+    "category": "medical.otc_drugs",
+    "taxable": false,
+    "treatment": "exempt"
+  },
+  {
+    "state": "MN",
+    "category": "medical.prescription_drugs",
+    "taxable": false,
+    "treatment": "exempt"
+  },
+  {
+    "state": "MN",
+    "category": "publications.books",
+    "taxable": true,
+    "treatment": "taxable"
+  },
+  {
+    "state": "MN",
+    "category": "publications.magazines",
+    "taxable": true,
+    "treatment": "taxable"
+  },
+  {
+    "state": "MN",
+    "category": "publications.newspapers",
+    "taxable": false,
+    "treatment": "exempt"
+  },
+  {
+    "state": "MN",
+    "category": "services.ai_api",
+    "taxable": false,
+    "treatment": "exempt"
+  },
+  {
+    "state": "MN",
+    "category": "services.data_processing",
+    "taxable": false,
+    "treatment": "exempt"
+  },
+  {
+    "state": "MN",
+    "category": "services.personal_care",
+    "taxable": true,
+    "treatment": "taxable"
+  },
+  {
+    "state": "MN",
+    "category": "services.professional",
+    "taxable": false,
+    "treatment": "exempt"
+  },
+  {
+    "state": "MN",
+    "category": "services.repair",
+    "taxable": true,
+    "treatment": "taxable"
+  },
+  {
+    "state": "MN",
+    "category": "services.web_hosting",
+    "taxable": false,
+    "treatment": "exempt"
+  },
+  {
+    "state": "MN",
+    "category": "software.custom",
+    "taxable": false,
+    "treatment": "exempt"
+  },
+  {
+    "state": "MN",
+    "category": "software.prewritten",
+    "taxable": true,
+    "treatment": "taxable"
+  },
+  {
+    "state": "MN",
+    "category": "software.saas",
+    "taxable": false,
+    "treatment": "exempt"
+  },
+  {
+    "state": "MO",
+    "category": "clothing.accessories",
+    "taxable": true,
+    "treatment": "taxable"
+  },
+  {
+    "state": "MO",
+    "category": "clothing.general",
+    "taxable": true,
+    "treatment": "taxable"
+  },
+  {
+    "state": "MO",
+    "category": "clothing.protective",
+    "taxable": true,
+    "treatment": "taxable"
+  },
+  {
+    "state": "MO",
+    "category": "digital_products.ebook",
+    "taxable": false,
+    "treatment": "exempt"
+  },
+  {
+    "state": "MO",
+    "category": "digital_products.music",
+    "taxable": false,
+    "treatment": "exempt"
+  },
+  {
+    "state": "MO",
+    "category": "digital_products.streaming",
+    "taxable": false,
+    "treatment": "exempt"
+  },
+  {
+    "state": "MO",
+    "category": "digital_products.video",
+    "taxable": false,
+    "treatment": "exempt"
+  },
+  {
+    "state": "MO",
+    "category": "food.candy",
+    "taxable": true,
+    "treatment": "taxable"
+  },
+  {
+    "state": "MO",
+    "category": "food.dietary_supplements",
+    "taxable": true,
+    "treatment": "taxable"
+  },
+  {
+    "state": "MO",
+    "category": "food.grocery",
+    "taxable": true,
+    "treatment": "reduced_rate"
+  },
+  {
+    "state": "MO",
+    "category": "food.prepared",
+    "taxable": true,
+    "treatment": "taxable"
+  },
+  {
+    "state": "MO",
+    "category": "food.soft_drinks",
+    "taxable": true,
+    "treatment": "taxable"
+  },
+  {
+    "state": "MO",
+    "category": "goods.electronics",
+    "taxable": true,
+    "treatment": "taxable"
+  },
+  {
+    "state": "MO",
+    "category": "goods.furniture",
+    "taxable": true,
+    "treatment": "taxable"
+  },
+  {
+    "state": "MO",
+    "category": "goods.general",
+    "taxable": true,
+    "treatment": "taxable"
+  },
+  {
+    "state": "MO",
+    "category": "medical.devices",
+    "taxable": false,
+    "treatment": "exempt"
+  },
+  {
+    "state": "MO",
+    "category": "medical.otc_drugs",
+    "taxable": true,
+    "treatment": "taxable"
+  },
+  {
+    "state": "MO",
+    "category": "medical.prescription_drugs",
+    "taxable": false,
+    "treatment": "exempt"
+  },
+  {
+    "state": "MO",
+    "category": "publications.books",
+    "taxable": true,
+    "treatment": "taxable"
+  },
+  {
+    "state": "MO",
+    "category": "publications.magazines",
+    "taxable": true,
+    "treatment": "taxable"
+  },
+  {
+    "state": "MO",
+    "category": "publications.newspapers",
+    "taxable": false,
+    "treatment": "exempt"
+  },
+  {
+    "state": "MO",
+    "category": "services.ai_api",
+    "taxable": false,
+    "treatment": "exempt"
+  },
+  {
+    "state": "MO",
+    "category": "services.data_processing",
+    "taxable": false,
+    "treatment": "exempt"
+  },
+  {
+    "state": "MO",
+    "category": "services.personal_care",
+    "taxable": false,
+    "treatment": "exempt"
+  },
+  {
+    "state": "MO",
+    "category": "services.professional",
+    "taxable": false,
+    "treatment": "exempt"
+  },
+  {
+    "state": "MO",
+    "category": "services.repair",
+    "taxable": true,
+    "treatment": "taxable"
+  },
+  {
+    "state": "MO",
+    "category": "services.web_hosting",
+    "taxable": false,
+    "treatment": "exempt"
+  },
+  {
+    "state": "MO",
+    "category": "software.custom",
+    "taxable": false,
+    "treatment": "exempt"
+  },
+  {
+    "state": "MO",
+    "category": "software.prewritten",
+    "taxable": true,
+    "treatment": "taxable"
+  },
+  {
+    "state": "MO",
+    "category": "software.saas",
+    "taxable": false,
+    "treatment": "exempt"
+  },
+  {
+    "state": "MS",
+    "category": "clothing.accessories",
+    "taxable": true,
+    "treatment": "taxable"
+  },
+  {
+    "state": "MS",
+    "category": "clothing.general",
+    "taxable": true,
+    "treatment": "taxable"
+  },
+  {
+    "state": "MS",
+    "category": "clothing.protective",
+    "taxable": true,
+    "treatment": "taxable"
+  },
+  {
+    "state": "MS",
+    "category": "digital_products.ebook",
+    "taxable": true,
+    "treatment": "taxable"
+  },
+  {
+    "state": "MS",
+    "category": "digital_products.music",
+    "taxable": true,
+    "treatment": "taxable"
+  },
+  {
+    "state": "MS",
+    "category": "digital_products.streaming",
+    "taxable": true,
+    "treatment": "taxable"
+  },
+  {
+    "state": "MS",
+    "category": "digital_products.video",
+    "taxable": true,
+    "treatment": "taxable"
+  },
+  {
+    "state": "MS",
+    "category": "food.candy",
+    "taxable": true,
+    "treatment": "taxable"
+  },
+  {
+    "state": "MS",
+    "category": "food.dietary_supplements",
+    "taxable": true,
+    "treatment": "taxable"
+  },
+  {
+    "state": "MS",
+    "category": "food.grocery",
+    "taxable": true,
+    "treatment": "reduced_rate"
+  },
+  {
+    "state": "MS",
+    "category": "food.prepared",
+    "taxable": true,
+    "treatment": "taxable"
+  },
+  {
+    "state": "MS",
+    "category": "food.soft_drinks",
+    "taxable": true,
+    "treatment": "taxable"
+  },
+  {
+    "state": "MS",
+    "category": "goods.electronics",
+    "taxable": true,
+    "treatment": "taxable"
+  },
+  {
+    "state": "MS",
+    "category": "goods.furniture",
+    "taxable": true,
+    "treatment": "taxable"
+  },
+  {
+    "state": "MS",
+    "category": "goods.general",
+    "taxable": true,
+    "treatment": "taxable"
+  },
+  {
+    "state": "MS",
+    "category": "medical.devices",
+    "taxable": false,
+    "treatment": "exempt"
+  },
+  {
+    "state": "MS",
+    "category": "medical.otc_drugs",
+    "taxable": true,
+    "treatment": "taxable"
+  },
+  {
+    "state": "MS",
+    "category": "medical.prescription_drugs",
+    "taxable": false,
+    "treatment": "exempt"
+  },
+  {
+    "state": "MS",
+    "category": "publications.books",
+    "taxable": true,
+    "treatment": "taxable"
+  },
+  {
+    "state": "MS",
+    "category": "publications.magazines",
+    "taxable": true,
+    "treatment": "taxable"
+  },
+  {
+    "state": "MS",
+    "category": "publications.newspapers",
+    "taxable": false,
+    "treatment": "exempt"
+  },
+  {
+    "state": "MS",
+    "category": "services.ai_api",
+    "taxable": false,
+    "treatment": "exempt"
+  },
+  {
+    "state": "MS",
+    "category": "services.data_processing",
+    "taxable": false,
+    "treatment": "exempt"
+  },
+  {
+    "state": "MS",
+    "category": "services.personal_care",
+    "taxable": false,
+    "treatment": "exempt"
+  },
+  {
+    "state": "MS",
+    "category": "services.professional",
+    "taxable": false,
+    "treatment": "exempt"
+  },
+  {
+    "state": "MS",
+    "category": "services.repair",
+    "taxable": true,
+    "treatment": "taxable"
+  },
+  {
+    "state": "MS",
+    "category": "services.web_hosting",
+    "taxable": false,
+    "treatment": "exempt"
+  },
+  {
+    "state": "MS",
+    "category": "software.custom",
+    "taxable": true,
+    "treatment": "taxable"
+  },
+  {
+    "state": "MS",
+    "category": "software.prewritten",
+    "taxable": true,
+    "treatment": "taxable"
+  },
+  {
+    "state": "MS",
+    "category": "software.saas",
+    "taxable": false,
+    "treatment": "exempt"
+  },
+  {
+    "state": "NC",
+    "category": "clothing.accessories",
+    "taxable": true,
+    "treatment": "taxable"
+  },
+  {
+    "state": "NC",
+    "category": "clothing.general",
+    "taxable": true,
+    "treatment": "taxable"
+  },
+  {
+    "state": "NC",
+    "category": "clothing.protective",
+    "taxable": true,
+    "treatment": "taxable"
+  },
+  {
+    "state": "NC",
+    "category": "digital_products.ebook",
+    "taxable": true,
+    "treatment": "taxable"
+  },
+  {
+    "state": "NC",
+    "category": "digital_products.music",
+    "taxable": true,
+    "treatment": "taxable"
+  },
+  {
+    "state": "NC",
+    "category": "digital_products.streaming",
+    "taxable": true,
+    "treatment": "taxable"
+  },
+  {
+    "state": "NC",
+    "category": "digital_products.video",
+    "taxable": true,
+    "treatment": "taxable"
+  },
+  {
+    "state": "NC",
+    "category": "food.candy",
+    "taxable": true,
+    "treatment": "taxable"
+  },
+  {
+    "state": "NC",
+    "category": "food.dietary_supplements",
+    "taxable": true,
+    "treatment": "taxable"
+  },
+  {
+    "state": "NC",
+    "category": "food.grocery",
+    "taxable": false,
+    "treatment": "exempt"
+  },
+  {
+    "state": "NC",
+    "category": "food.prepared",
+    "taxable": true,
+    "treatment": "taxable"
+  },
+  {
+    "state": "NC",
+    "category": "food.soft_drinks",
+    "taxable": true,
+    "treatment": "taxable"
+  },
+  {
+    "state": "NC",
+    "category": "goods.electronics",
+    "taxable": true,
+    "treatment": "taxable"
+  },
+  {
+    "state": "NC",
+    "category": "goods.furniture",
+    "taxable": true,
+    "treatment": "taxable"
+  },
+  {
+    "state": "NC",
+    "category": "goods.general",
+    "taxable": true,
+    "treatment": "taxable"
+  },
+  {
+    "state": "NC",
+    "category": "medical.devices",
+    "taxable": false,
+    "treatment": "exempt"
+  },
+  {
+    "state": "NC",
+    "category": "medical.otc_drugs",
+    "taxable": true,
+    "treatment": "taxable"
+  },
+  {
+    "state": "NC",
+    "category": "medical.prescription_drugs",
+    "taxable": false,
+    "treatment": "exempt"
+  },
+  {
+    "state": "NC",
+    "category": "publications.books",
+    "taxable": true,
+    "treatment": "taxable"
+  },
+  {
+    "state": "NC",
+    "category": "publications.magazines",
+    "taxable": true,
+    "treatment": "taxable"
+  },
+  {
+    "state": "NC",
+    "category": "publications.newspapers",
+    "taxable": false,
+    "treatment": "exempt"
+  },
+  {
+    "state": "NC",
+    "category": "services.ai_api",
+    "taxable": false,
+    "treatment": "exempt"
+  },
+  {
+    "state": "NC",
+    "category": "services.data_processing",
+    "taxable": false,
+    "treatment": "exempt"
+  },
+  {
+    "state": "NC",
+    "category": "services.personal_care",
+    "taxable": false,
+    "treatment": "exempt"
+  },
+  {
+    "state": "NC",
+    "category": "services.professional",
+    "taxable": false,
+    "treatment": "exempt"
+  },
+  {
+    "state": "NC",
+    "category": "services.repair",
+    "taxable": true,
+    "treatment": "taxable"
+  },
+  {
+    "state": "NC",
+    "category": "services.web_hosting",
+    "taxable": false,
+    "treatment": "exempt"
+  },
+  {
+    "state": "NC",
+    "category": "software.custom",
+    "taxable": false,
+    "treatment": "exempt"
+  },
+  {
+    "state": "NC",
+    "category": "software.prewritten",
+    "taxable": true,
+    "treatment": "taxable"
+  },
+  {
+    "state": "NC",
+    "category": "software.saas",
+    "taxable": false,
+    "treatment": "exempt"
+  },
+  {
+    "state": "ND",
+    "category": "clothing.accessories",
+    "taxable": true,
+    "treatment": "taxable"
+  },
+  {
+    "state": "ND",
+    "category": "clothing.general",
+    "taxable": true,
+    "treatment": "taxable"
+  },
+  {
+    "state": "ND",
+    "category": "clothing.protective",
+    "taxable": true,
+    "treatment": "taxable"
+  },
+  {
+    "state": "ND",
+    "category": "digital_products.ebook",
+    "taxable": false,
+    "treatment": "exempt"
+  },
+  {
+    "state": "ND",
+    "category": "digital_products.music",
+    "taxable": false,
+    "treatment": "exempt"
+  },
+  {
+    "state": "ND",
+    "category": "digital_products.streaming",
+    "taxable": false,
+    "treatment": "exempt"
+  },
+  {
+    "state": "ND",
+    "category": "digital_products.video",
+    "taxable": false,
+    "treatment": "exempt"
+  },
+  {
+    "state": "ND",
+    "category": "food.candy",
+    "taxable": true,
+    "treatment": "taxable"
+  },
+  {
+    "state": "ND",
+    "category": "food.dietary_supplements",
+    "taxable": true,
+    "treatment": "taxable"
+  },
+  {
+    "state": "ND",
+    "category": "food.grocery",
+    "taxable": false,
+    "treatment": "exempt"
+  },
+  {
+    "state": "ND",
+    "category": "food.prepared",
+    "taxable": true,
+    "treatment": "taxable"
+  },
+  {
+    "state": "ND",
+    "category": "food.soft_drinks",
+    "taxable": true,
+    "treatment": "taxable"
+  },
+  {
+    "state": "ND",
+    "category": "goods.electronics",
+    "taxable": true,
+    "treatment": "taxable"
+  },
+  {
+    "state": "ND",
+    "category": "goods.furniture",
+    "taxable": true,
+    "treatment": "taxable"
+  },
+  {
+    "state": "ND",
+    "category": "goods.general",
+    "taxable": true,
+    "treatment": "taxable"
+  },
+  {
+    "state": "ND",
+    "category": "medical.devices",
+    "taxable": false,
+    "treatment": "exempt"
+  },
+  {
+    "state": "ND",
+    "category": "medical.otc_drugs",
+    "taxable": true,
+    "treatment": "taxable"
+  },
+  {
+    "state": "ND",
+    "category": "medical.prescription_drugs",
+    "taxable": false,
+    "treatment": "exempt"
+  },
+  {
+    "state": "ND",
+    "category": "publications.books",
+    "taxable": true,
+    "treatment": "taxable"
+  },
+  {
+    "state": "ND",
+    "category": "publications.magazines",
+    "taxable": true,
+    "treatment": "taxable"
+  },
+  {
+    "state": "ND",
+    "category": "publications.newspapers",
+    "taxable": false,
+    "treatment": "exempt"
+  },
+  {
+    "state": "ND",
+    "category": "services.ai_api",
+    "taxable": false,
+    "treatment": "exempt"
+  },
+  {
+    "state": "ND",
+    "category": "services.data_processing",
+    "taxable": false,
+    "treatment": "exempt"
+  },
+  {
+    "state": "ND",
+    "category": "services.personal_care",
+    "taxable": false,
+    "treatment": "exempt"
+  },
+  {
+    "state": "ND",
+    "category": "services.professional",
+    "taxable": false,
+    "treatment": "exempt"
+  },
+  {
+    "state": "ND",
+    "category": "services.repair",
+    "taxable": true,
+    "treatment": "taxable"
+  },
+  {
+    "state": "ND",
+    "category": "services.web_hosting",
+    "taxable": false,
+    "treatment": "exempt"
+  },
+  {
+    "state": "ND",
+    "category": "software.custom",
+    "taxable": false,
+    "treatment": "exempt"
+  },
+  {
+    "state": "ND",
+    "category": "software.prewritten",
+    "taxable": true,
+    "treatment": "taxable"
+  },
+  {
+    "state": "ND",
+    "category": "software.saas",
+    "taxable": false,
+    "treatment": "exempt"
+  },
+  {
+    "state": "NE",
+    "category": "clothing.accessories",
+    "taxable": true,
+    "treatment": "taxable"
+  },
+  {
+    "state": "NE",
+    "category": "clothing.general",
+    "taxable": true,
+    "treatment": "taxable"
+  },
+  {
+    "state": "NE",
+    "category": "clothing.protective",
+    "taxable": true,
+    "treatment": "taxable"
+  },
+  {
+    "state": "NE",
+    "category": "digital_products.ebook",
+    "taxable": true,
+    "treatment": "taxable"
+  },
+  {
+    "state": "NE",
+    "category": "digital_products.music",
+    "taxable": true,
+    "treatment": "taxable"
+  },
+  {
+    "state": "NE",
+    "category": "digital_products.streaming",
+    "taxable": true,
+    "treatment": "taxable"
+  },
+  {
+    "state": "NE",
+    "category": "digital_products.video",
+    "taxable": true,
+    "treatment": "taxable"
+  },
+  {
+    "state": "NE",
+    "category": "food.candy",
+    "taxable": false,
+    "treatment": "exempt"
+  },
+  {
+    "state": "NE",
+    "category": "food.dietary_supplements",
+    "taxable": true,
+    "treatment": "taxable"
+  },
+  {
+    "state": "NE",
+    "category": "food.grocery",
+    "taxable": false,
+    "treatment": "exempt"
+  },
+  {
+    "state": "NE",
+    "category": "food.prepared",
+    "taxable": true,
+    "treatment": "taxable"
+  },
+  {
+    "state": "NE",
+    "category": "food.soft_drinks",
+    "taxable": false,
+    "treatment": "exempt"
+  },
+  {
+    "state": "NE",
+    "category": "goods.electronics",
+    "taxable": true,
+    "treatment": "taxable"
+  },
+  {
+    "state": "NE",
+    "category": "goods.furniture",
+    "taxable": true,
+    "treatment": "taxable"
+  },
+  {
+    "state": "NE",
+    "category": "goods.general",
+    "taxable": true,
+    "treatment": "taxable"
+  },
+  {
+    "state": "NE",
+    "category": "medical.devices",
+    "taxable": false,
+    "treatment": "exempt"
+  },
+  {
+    "state": "NE",
+    "category": "medical.otc_drugs",
+    "taxable": true,
+    "treatment": "taxable"
+  },
+  {
+    "state": "NE",
+    "category": "medical.prescription_drugs",
+    "taxable": false,
+    "treatment": "exempt"
+  },
+  {
+    "state": "NE",
+    "category": "publications.books",
+    "taxable": true,
+    "treatment": "taxable"
+  },
+  {
+    "state": "NE",
+    "category": "publications.magazines",
+    "taxable": true,
+    "treatment": "taxable"
+  },
+  {
+    "state": "NE",
+    "category": "publications.newspapers",
+    "taxable": false,
+    "treatment": "exempt"
+  },
+  {
+    "state": "NE",
+    "category": "services.ai_api",
+    "taxable": false,
+    "treatment": "exempt"
+  },
+  {
+    "state": "NE",
+    "category": "services.data_processing",
+    "taxable": false,
+    "treatment": "exempt"
+  },
+  {
+    "state": "NE",
+    "category": "services.personal_care",
+    "taxable": false,
+    "treatment": "exempt"
+  },
+  {
+    "state": "NE",
+    "category": "services.professional",
+    "taxable": false,
+    "treatment": "exempt"
+  },
+  {
+    "state": "NE",
+    "category": "services.repair",
+    "taxable": true,
+    "treatment": "taxable"
+  },
+  {
+    "state": "NE",
+    "category": "services.web_hosting",
+    "taxable": false,
+    "treatment": "exempt"
+  },
+  {
+    "state": "NE",
+    "category": "software.custom",
+    "taxable": true,
+    "treatment": "taxable"
+  },
+  {
+    "state": "NE",
+    "category": "software.prewritten",
+    "taxable": true,
+    "treatment": "taxable"
+  },
+  {
+    "state": "NE",
+    "category": "software.saas",
+    "taxable": false,
+    "treatment": "exempt"
+  },
+  {
+    "state": "NJ",
+    "category": "clothing.accessories",
+    "taxable": true,
+    "treatment": "taxable"
+  },
+  {
+    "state": "NJ",
+    "category": "clothing.general",
+    "taxable": false,
+    "treatment": "exempt"
+  },
+  {
+    "state": "NJ",
+    "category": "clothing.protective",
+    "taxable": true,
+    "treatment": "taxable"
+  },
+  {
+    "state": "NJ",
+    "category": "digital_products.ebook",
+    "taxable": true,
+    "treatment": "taxable"
+  },
+  {
+    "state": "NJ",
+    "category": "digital_products.music",
+    "taxable": true,
+    "treatment": "taxable"
+  },
+  {
+    "state": "NJ",
+    "category": "digital_products.streaming",
+    "taxable": false,
+    "treatment": "exempt"
+  },
+  {
+    "state": "NJ",
+    "category": "digital_products.video",
+    "taxable": true,
+    "treatment": "taxable"
+  },
+  {
+    "state": "NJ",
+    "category": "food.candy",
+    "taxable": true,
+    "treatment": "taxable"
+  },
+  {
+    "state": "NJ",
+    "category": "food.dietary_supplements",
+    "taxable": false,
+    "treatment": "exempt"
+  },
+  {
+    "state": "NJ",
+    "category": "food.grocery",
+    "taxable": false,
+    "treatment": "exempt"
+  },
+  {
+    "state": "NJ",
+    "category": "food.prepared",
+    "taxable": true,
+    "treatment": "taxable"
+  },
+  {
+    "state": "NJ",
+    "category": "food.soft_drinks",
+    "taxable": true,
+    "treatment": "taxable"
+  },
+  {
+    "state": "NJ",
+    "category": "goods.electronics",
+    "taxable": true,
+    "treatment": "taxable"
+  },
+  {
+    "state": "NJ",
+    "category": "goods.furniture",
+    "taxable": true,
+    "treatment": "taxable"
+  },
+  {
+    "state": "NJ",
+    "category": "goods.general",
+    "taxable": true,
+    "treatment": "taxable"
+  },
+  {
+    "state": "NJ",
+    "category": "medical.devices",
+    "taxable": false,
+    "treatment": "exempt"
+  },
+  {
+    "state": "NJ",
+    "category": "medical.otc_drugs",
+    "taxable": false,
+    "treatment": "exempt"
+  },
+  {
+    "state": "NJ",
+    "category": "medical.prescription_drugs",
+    "taxable": false,
+    "treatment": "exempt"
+  },
+  {
+    "state": "NJ",
+    "category": "publications.books",
+    "taxable": true,
+    "treatment": "taxable"
+  },
+  {
+    "state": "NJ",
+    "category": "publications.magazines",
+    "taxable": true,
+    "treatment": "taxable"
+  },
+  {
+    "state": "NJ",
+    "category": "publications.newspapers",
+    "taxable": false,
+    "treatment": "exempt"
+  },
+  {
+    "state": "NJ",
+    "category": "services.ai_api",
+    "taxable": false,
+    "treatment": "exempt"
+  },
+  {
+    "state": "NJ",
+    "category": "services.data_processing",
+    "taxable": false,
+    "treatment": "exempt"
+  },
+  {
+    "state": "NJ",
+    "category": "services.personal_care",
+    "taxable": false,
+    "treatment": "exempt"
+  },
+  {
+    "state": "NJ",
+    "category": "services.professional",
+    "taxable": false,
+    "treatment": "exempt"
+  },
+  {
+    "state": "NJ",
+    "category": "services.repair",
+    "taxable": true,
+    "treatment": "taxable"
+  },
+  {
+    "state": "NJ",
+    "category": "services.web_hosting",
+    "taxable": false,
+    "treatment": "exempt"
+  },
+  {
+    "state": "NJ",
+    "category": "software.custom",
+    "taxable": false,
+    "treatment": "exempt"
+  },
+  {
+    "state": "NJ",
+    "category": "software.prewritten",
+    "taxable": true,
+    "treatment": "taxable"
+  },
+  {
+    "state": "NJ",
+    "category": "software.saas",
+    "taxable": false,
+    "treatment": "exempt"
+  },
+  {
+    "state": "NM",
+    "category": "clothing.accessories",
+    "taxable": true,
+    "treatment": "taxable"
+  },
+  {
+    "state": "NM",
+    "category": "clothing.general",
+    "taxable": true,
+    "treatment": "taxable"
+  },
+  {
+    "state": "NM",
+    "category": "clothing.protective",
+    "taxable": true,
+    "treatment": "taxable"
+  },
+  {
+    "state": "NM",
+    "category": "digital_products.ebook",
+    "taxable": true,
+    "treatment": "taxable"
+  },
+  {
+    "state": "NM",
+    "category": "digital_products.music",
+    "taxable": true,
+    "treatment": "taxable"
+  },
+  {
+    "state": "NM",
+    "category": "digital_products.streaming",
+    "taxable": true,
+    "treatment": "taxable"
+  },
+  {
+    "state": "NM",
+    "category": "digital_products.video",
+    "taxable": true,
+    "treatment": "taxable"
+  },
+  {
+    "state": "NM",
+    "category": "food.candy",
+    "taxable": false,
+    "treatment": "exempt"
+  },
+  {
+    "state": "NM",
+    "category": "food.dietary_supplements",
+    "taxable": true,
+    "treatment": "taxable"
+  },
+  {
+    "state": "NM",
+    "category": "food.grocery",
+    "taxable": false,
+    "treatment": "exempt"
+  },
+  {
+    "state": "NM",
+    "category": "food.prepared",
+    "taxable": true,
+    "treatment": "taxable"
+  },
+  {
+    "state": "NM",
+    "category": "food.soft_drinks",
+    "taxable": false,
+    "treatment": "exempt"
+  },
+  {
+    "state": "NM",
+    "category": "goods.electronics",
+    "taxable": true,
+    "treatment": "taxable"
+  },
+  {
+    "state": "NM",
+    "category": "goods.furniture",
+    "taxable": true,
+    "treatment": "taxable"
+  },
+  {
+    "state": "NM",
+    "category": "goods.general",
+    "taxable": true,
+    "treatment": "taxable"
+  },
+  {
+    "state": "NM",
+    "category": "medical.devices",
+    "taxable": false,
+    "treatment": "exempt"
+  },
+  {
+    "state": "NM",
+    "category": "medical.otc_drugs",
+    "taxable": true,
+    "treatment": "taxable"
+  },
+  {
+    "state": "NM",
+    "category": "medical.prescription_drugs",
+    "taxable": false,
+    "treatment": "exempt"
+  },
+  {
+    "state": "NM",
+    "category": "publications.books",
+    "taxable": true,
+    "treatment": "taxable"
+  },
+  {
+    "state": "NM",
+    "category": "publications.magazines",
+    "taxable": true,
+    "treatment": "taxable"
+  },
+  {
+    "state": "NM",
+    "category": "publications.newspapers",
+    "taxable": false,
+    "treatment": "exempt"
+  },
+  {
+    "state": "NM",
+    "category": "services.ai_api",
+    "taxable": true,
+    "treatment": "taxable"
+  },
+  {
+    "state": "NM",
+    "category": "services.data_processing",
+    "taxable": true,
+    "treatment": "taxable"
+  },
+  {
+    "state": "NM",
+    "category": "services.personal_care",
+    "taxable": true,
+    "treatment": "taxable"
+  },
+  {
+    "state": "NM",
+    "category": "services.professional",
+    "taxable": true,
+    "treatment": "taxable"
+  },
+  {
+    "state": "NM",
+    "category": "services.repair",
+    "taxable": true,
+    "treatment": "taxable"
+  },
+  {
+    "state": "NM",
+    "category": "services.web_hosting",
+    "taxable": true,
+    "treatment": "taxable"
+  },
+  {
+    "state": "NM",
+    "category": "software.custom",
+    "taxable": true,
+    "treatment": "taxable"
+  },
+  {
+    "state": "NM",
+    "category": "software.prewritten",
+    "taxable": true,
+    "treatment": "taxable"
+  },
+  {
+    "state": "NM",
+    "category": "software.saas",
+    "taxable": true,
+    "treatment": "taxable"
+  },
+  {
+    "state": "NV",
+    "category": "clothing.accessories",
+    "taxable": true,
+    "treatment": "taxable"
+  },
+  {
+    "state": "NV",
+    "category": "clothing.general",
+    "taxable": true,
+    "treatment": "taxable"
+  },
+  {
+    "state": "NV",
+    "category": "clothing.protective",
+    "taxable": true,
+    "treatment": "taxable"
+  },
+  {
+    "state": "NV",
+    "category": "digital_products.ebook",
+    "taxable": false,
+    "treatment": "exempt"
+  },
+  {
+    "state": "NV",
+    "category": "digital_products.music",
+    "taxable": false,
+    "treatment": "exempt"
+  },
+  {
+    "state": "NV",
+    "category": "digital_products.streaming",
+    "taxable": false,
+    "treatment": "exempt"
+  },
+  {
+    "state": "NV",
+    "category": "digital_products.video",
+    "taxable": false,
+    "treatment": "exempt"
+  },
+  {
+    "state": "NV",
+    "category": "food.candy",
+    "taxable": false,
+    "treatment": "exempt"
+  },
+  {
+    "state": "NV",
+    "category": "food.dietary_supplements",
+    "taxable": true,
+    "treatment": "taxable"
+  },
+  {
+    "state": "NV",
+    "category": "food.grocery",
+    "taxable": false,
+    "treatment": "exempt"
+  },
+  {
+    "state": "NV",
+    "category": "food.prepared",
+    "taxable": true,
+    "treatment": "taxable"
+  },
+  {
+    "state": "NV",
+    "category": "food.soft_drinks",
+    "taxable": false,
+    "treatment": "exempt"
+  },
+  {
+    "state": "NV",
+    "category": "goods.electronics",
+    "taxable": true,
+    "treatment": "taxable"
+  },
+  {
+    "state": "NV",
+    "category": "goods.furniture",
+    "taxable": true,
+    "treatment": "taxable"
+  },
+  {
+    "state": "NV",
+    "category": "goods.general",
+    "taxable": true,
+    "treatment": "taxable"
+  },
+  {
+    "state": "NV",
+    "category": "medical.devices",
+    "taxable": false,
+    "treatment": "exempt"
+  },
+  {
+    "state": "NV",
+    "category": "medical.otc_drugs",
+    "taxable": true,
+    "treatment": "taxable"
+  },
+  {
+    "state": "NV",
+    "category": "medical.prescription_drugs",
+    "taxable": false,
+    "treatment": "exempt"
+  },
+  {
+    "state": "NV",
+    "category": "publications.books",
+    "taxable": true,
+    "treatment": "taxable"
+  },
+  {
+    "state": "NV",
+    "category": "publications.magazines",
+    "taxable": true,
+    "treatment": "taxable"
+  },
+  {
+    "state": "NV",
+    "category": "publications.newspapers",
+    "taxable": false,
+    "treatment": "exempt"
+  },
+  {
+    "state": "NV",
+    "category": "services.ai_api",
+    "taxable": false,
+    "treatment": "exempt"
+  },
+  {
+    "state": "NV",
+    "category": "services.data_processing",
+    "taxable": false,
+    "treatment": "exempt"
+  },
+  {
+    "state": "NV",
+    "category": "services.personal_care",
+    "taxable": false,
+    "treatment": "exempt"
+  },
+  {
+    "state": "NV",
+    "category": "services.professional",
+    "taxable": false,
+    "treatment": "exempt"
+  },
+  {
+    "state": "NV",
+    "category": "services.repair",
+    "taxable": true,
+    "treatment": "taxable"
+  },
+  {
+    "state": "NV",
+    "category": "services.web_hosting",
+    "taxable": false,
+    "treatment": "exempt"
+  },
+  {
+    "state": "NV",
+    "category": "software.custom",
+    "taxable": false,
+    "treatment": "exempt"
+  },
+  {
+    "state": "NV",
+    "category": "software.prewritten",
+    "taxable": true,
+    "treatment": "taxable"
+  },
+  {
+    "state": "NV",
+    "category": "software.saas",
+    "taxable": false,
+    "treatment": "exempt"
+  },
+  {
+    "state": "NY",
+    "category": "clothing.accessories",
+    "taxable": true,
+    "treatment": "taxable"
+  },
+  {
+    "state": "NY",
+    "category": "clothing.general",
+    "taxable": false,
+    "treatment": "exempt"
+  },
+  {
+    "state": "NY",
+    "category": "clothing.protective",
+    "taxable": true,
+    "treatment": "taxable"
+  },
+  {
+    "state": "NY",
+    "category": "digital_products.ebook",
+    "taxable": false,
+    "treatment": "exempt"
+  },
+  {
+    "state": "NY",
+    "category": "digital_products.music",
+    "taxable": false,
+    "treatment": "exempt"
+  },
+  {
+    "state": "NY",
+    "category": "digital_products.streaming",
+    "taxable": false,
+    "treatment": "exempt"
+  },
+  {
+    "state": "NY",
+    "category": "digital_products.video",
+    "taxable": false,
+    "treatment": "exempt"
+  },
+  {
+    "state": "NY",
+    "category": "food.candy",
+    "taxable": true,
+    "treatment": "taxable"
+  },
+  {
+    "state": "NY",
+    "category": "food.dietary_supplements",
+    "taxable": false,
+    "treatment": "exempt"
+  },
+  {
+    "state": "NY",
+    "category": "food.grocery",
+    "taxable": false,
+    "treatment": "exempt"
+  },
+  {
+    "state": "NY",
+    "category": "food.prepared",
+    "taxable": true,
+    "treatment": "taxable"
+  },
+  {
+    "state": "NY",
+    "category": "food.soft_drinks",
+    "taxable": true,
+    "treatment": "taxable"
+  },
+  {
+    "state": "NY",
+    "category": "goods.electronics",
+    "taxable": true,
+    "treatment": "taxable"
+  },
+  {
+    "state": "NY",
+    "category": "goods.furniture",
+    "taxable": true,
+    "treatment": "taxable"
+  },
+  {
+    "state": "NY",
+    "category": "goods.general",
+    "taxable": true,
+    "treatment": "taxable"
+  },
+  {
+    "state": "NY",
+    "category": "medical.devices",
+    "taxable": false,
+    "treatment": "exempt"
+  },
+  {
+    "state": "NY",
+    "category": "medical.otc_drugs",
+    "taxable": false,
+    "treatment": "exempt"
+  },
+  {
+    "state": "NY",
+    "category": "medical.prescription_drugs",
+    "taxable": false,
+    "treatment": "exempt"
+  },
+  {
+    "state": "NY",
+    "category": "publications.books",
+    "taxable": true,
+    "treatment": "taxable"
+  },
+  {
+    "state": "NY",
+    "category": "publications.magazines",
+    "taxable": true,
+    "treatment": "taxable"
+  },
+  {
+    "state": "NY",
+    "category": "publications.newspapers",
+    "taxable": false,
+    "treatment": "exempt"
+  },
+  {
+    "state": "NY",
+    "category": "services.ai_api",
+    "taxable": true,
+    "treatment": "taxable"
+  },
+  {
+    "state": "NY",
+    "category": "services.data_processing",
+    "taxable": false,
+    "treatment": "exempt"
+  },
+  {
+    "state": "NY",
+    "category": "services.personal_care",
+    "taxable": true,
+    "treatment": "taxable"
+  },
+  {
+    "state": "NY",
+    "category": "services.professional",
+    "taxable": false,
+    "treatment": "exempt"
+  },
+  {
+    "state": "NY",
+    "category": "services.repair",
+    "taxable": true,
+    "treatment": "taxable"
+  },
+  {
+    "state": "NY",
+    "category": "services.web_hosting",
+    "taxable": true,
+    "treatment": "taxable"
+  },
+  {
+    "state": "NY",
+    "category": "software.custom",
+    "taxable": false,
+    "treatment": "exempt"
+  },
+  {
+    "state": "NY",
+    "category": "software.prewritten",
+    "taxable": true,
+    "treatment": "taxable"
+  },
+  {
+    "state": "NY",
+    "category": "software.saas",
+    "taxable": true,
+    "treatment": "taxable"
+  },
+  {
+    "state": "OH",
+    "category": "clothing.accessories",
+    "taxable": true,
+    "treatment": "taxable"
+  },
+  {
+    "state": "OH",
+    "category": "clothing.general",
+    "taxable": true,
+    "treatment": "taxable"
+  },
+  {
+    "state": "OH",
+    "category": "clothing.protective",
+    "taxable": true,
+    "treatment": "taxable"
+  },
+  {
+    "state": "OH",
+    "category": "digital_products.ebook",
+    "taxable": true,
+    "treatment": "taxable"
+  },
+  {
+    "state": "OH",
+    "category": "digital_products.music",
+    "taxable": true,
+    "treatment": "taxable"
+  },
+  {
+    "state": "OH",
+    "category": "digital_products.streaming",
+    "taxable": true,
+    "treatment": "taxable"
+  },
+  {
+    "state": "OH",
+    "category": "digital_products.video",
+    "taxable": true,
+    "treatment": "taxable"
+  },
+  {
+    "state": "OH",
+    "category": "food.candy",
+    "taxable": false,
+    "treatment": "exempt"
+  },
+  {
+    "state": "OH",
+    "category": "food.dietary_supplements",
+    "taxable": true,
+    "treatment": "taxable"
+  },
+  {
+    "state": "OH",
+    "category": "food.grocery",
+    "taxable": false,
+    "treatment": "exempt"
+  },
+  {
+    "state": "OH",
+    "category": "food.prepared",
+    "taxable": true,
+    "treatment": "taxable"
+  },
+  {
+    "state": "OH",
+    "category": "food.soft_drinks",
+    "taxable": true,
+    "treatment": "taxable"
+  },
+  {
+    "state": "OH",
+    "category": "goods.electronics",
+    "taxable": true,
+    "treatment": "taxable"
+  },
+  {
+    "state": "OH",
+    "category": "goods.furniture",
+    "taxable": true,
+    "treatment": "taxable"
+  },
+  {
+    "state": "OH",
+    "category": "goods.general",
+    "taxable": true,
+    "treatment": "taxable"
+  },
+  {
+    "state": "OH",
+    "category": "medical.devices",
+    "taxable": false,
+    "treatment": "exempt"
+  },
+  {
+    "state": "OH",
+    "category": "medical.otc_drugs",
+    "taxable": true,
+    "treatment": "taxable"
+  },
+  {
+    "state": "OH",
+    "category": "medical.prescription_drugs",
+    "taxable": false,
+    "treatment": "exempt"
+  },
+  {
+    "state": "OH",
+    "category": "publications.books",
+    "taxable": true,
+    "treatment": "taxable"
+  },
+  {
+    "state": "OH",
+    "category": "publications.magazines",
+    "taxable": true,
+    "treatment": "taxable"
+  },
+  {
+    "state": "OH",
+    "category": "publications.newspapers",
+    "taxable": false,
+    "treatment": "exempt"
+  },
+  {
+    "state": "OH",
+    "category": "services.ai_api",
+    "taxable": true,
+    "treatment": "taxable"
+  },
+  {
+    "state": "OH",
+    "category": "services.data_processing",
+    "taxable": true,
+    "treatment": "taxable"
+  },
+  {
+    "state": "OH",
+    "category": "services.personal_care",
+    "taxable": true,
+    "treatment": "taxable"
+  },
+  {
+    "state": "OH",
+    "category": "services.professional",
+    "taxable": false,
+    "treatment": "exempt"
+  },
+  {
+    "state": "OH",
+    "category": "services.repair",
+    "taxable": true,
+    "treatment": "taxable"
+  },
+  {
+    "state": "OH",
+    "category": "services.web_hosting",
+    "taxable": true,
+    "treatment": "taxable"
+  },
+  {
+    "state": "OH",
+    "category": "software.custom",
+    "taxable": true,
+    "treatment": "taxable"
+  },
+  {
+    "state": "OH",
+    "category": "software.prewritten",
+    "taxable": true,
+    "treatment": "taxable"
+  },
+  {
+    "state": "OH",
+    "category": "software.saas",
+    "taxable": true,
+    "treatment": "taxable"
+  },
+  {
+    "state": "OK",
+    "category": "clothing.accessories",
+    "taxable": true,
+    "treatment": "taxable"
+  },
+  {
+    "state": "OK",
+    "category": "clothing.general",
+    "taxable": true,
+    "treatment": "taxable"
+  },
+  {
+    "state": "OK",
+    "category": "clothing.protective",
+    "taxable": true,
+    "treatment": "taxable"
+  },
+  {
+    "state": "OK",
+    "category": "digital_products.ebook",
+    "taxable": false,
+    "treatment": "exempt"
+  },
+  {
+    "state": "OK",
+    "category": "digital_products.music",
+    "taxable": false,
+    "treatment": "exempt"
+  },
+  {
+    "state": "OK",
+    "category": "digital_products.streaming",
+    "taxable": false,
+    "treatment": "exempt"
+  },
+  {
+    "state": "OK",
+    "category": "digital_products.video",
+    "taxable": false,
+    "treatment": "exempt"
+  },
+  {
+    "state": "OK",
+    "category": "food.candy",
+    "taxable": true,
+    "treatment": "taxable"
+  },
+  {
+    "state": "OK",
+    "category": "food.dietary_supplements",
+    "taxable": true,
+    "treatment": "taxable"
+  },
+  {
+    "state": "OK",
+    "category": "food.grocery",
+    "taxable": false,
+    "treatment": "exempt"
+  },
+  {
+    "state": "OK",
+    "category": "food.prepared",
+    "taxable": true,
+    "treatment": "taxable"
+  },
+  {
+    "state": "OK",
+    "category": "food.soft_drinks",
+    "taxable": true,
+    "treatment": "taxable"
+  },
+  {
+    "state": "OK",
+    "category": "goods.electronics",
+    "taxable": true,
+    "treatment": "taxable"
+  },
+  {
+    "state": "OK",
+    "category": "goods.furniture",
+    "taxable": true,
+    "treatment": "taxable"
+  },
+  {
+    "state": "OK",
+    "category": "goods.general",
+    "taxable": true,
+    "treatment": "taxable"
+  },
+  {
+    "state": "OK",
+    "category": "medical.devices",
+    "taxable": false,
+    "treatment": "exempt"
+  },
+  {
+    "state": "OK",
+    "category": "medical.otc_drugs",
+    "taxable": true,
+    "treatment": "taxable"
+  },
+  {
+    "state": "OK",
+    "category": "medical.prescription_drugs",
+    "taxable": false,
+    "treatment": "exempt"
+  },
+  {
+    "state": "OK",
+    "category": "publications.books",
+    "taxable": true,
+    "treatment": "taxable"
+  },
+  {
+    "state": "OK",
+    "category": "publications.magazines",
+    "taxable": true,
+    "treatment": "taxable"
+  },
+  {
+    "state": "OK",
+    "category": "publications.newspapers",
+    "taxable": false,
+    "treatment": "exempt"
+  },
+  {
+    "state": "OK",
+    "category": "services.ai_api",
+    "taxable": false,
+    "treatment": "exempt"
+  },
+  {
+    "state": "OK",
+    "category": "services.data_processing",
+    "taxable": false,
+    "treatment": "exempt"
+  },
+  {
+    "state": "OK",
+    "category": "services.personal_care",
+    "taxable": false,
+    "treatment": "exempt"
+  },
+  {
+    "state": "OK",
+    "category": "services.professional",
+    "taxable": false,
+    "treatment": "exempt"
+  },
+  {
+    "state": "OK",
+    "category": "services.repair",
+    "taxable": true,
+    "treatment": "taxable"
+  },
+  {
+    "state": "OK",
+    "category": "services.web_hosting",
+    "taxable": false,
+    "treatment": "exempt"
+  },
+  {
+    "state": "OK",
+    "category": "software.custom",
+    "taxable": false,
+    "treatment": "exempt"
+  },
+  {
+    "state": "OK",
+    "category": "software.prewritten",
+    "taxable": true,
+    "treatment": "taxable"
+  },
+  {
+    "state": "OK",
+    "category": "software.saas",
+    "taxable": false,
+    "treatment": "exempt"
+  },
+  {
+    "state": "PA",
+    "category": "clothing.accessories",
+    "taxable": true,
+    "treatment": "taxable"
+  },
+  {
+    "state": "PA",
+    "category": "clothing.general",
+    "taxable": false,
+    "treatment": "exempt"
+  },
+  {
+    "state": "PA",
+    "category": "clothing.protective",
+    "taxable": true,
+    "treatment": "taxable"
+  },
+  {
+    "state": "PA",
+    "category": "digital_products.ebook",
+    "taxable": true,
+    "treatment": "taxable"
+  },
+  {
+    "state": "PA",
+    "category": "digital_products.music",
+    "taxable": true,
+    "treatment": "taxable"
+  },
+  {
+    "state": "PA",
+    "category": "digital_products.streaming",
+    "taxable": true,
+    "treatment": "taxable"
+  },
+  {
+    "state": "PA",
+    "category": "digital_products.video",
+    "taxable": true,
+    "treatment": "taxable"
+  },
+  {
+    "state": "PA",
+    "category": "food.candy",
+    "taxable": false,
+    "treatment": "exempt"
+  },
+  {
+    "state": "PA",
+    "category": "food.dietary_supplements",
+    "taxable": false,
+    "treatment": "exempt"
+  },
+  {
+    "state": "PA",
+    "category": "food.grocery",
+    "taxable": false,
+    "treatment": "exempt"
+  },
+  {
+    "state": "PA",
+    "category": "food.prepared",
+    "taxable": true,
+    "treatment": "taxable"
+  },
+  {
+    "state": "PA",
+    "category": "food.soft_drinks",
+    "taxable": true,
+    "treatment": "taxable"
+  },
+  {
+    "state": "PA",
+    "category": "goods.electronics",
+    "taxable": true,
+    "treatment": "taxable"
+  },
+  {
+    "state": "PA",
+    "category": "goods.furniture",
+    "taxable": true,
+    "treatment": "taxable"
+  },
+  {
+    "state": "PA",
+    "category": "goods.general",
+    "taxable": true,
+    "treatment": "taxable"
+  },
+  {
+    "state": "PA",
+    "category": "medical.devices",
+    "taxable": false,
+    "treatment": "exempt"
+  },
+  {
+    "state": "PA",
+    "category": "medical.otc_drugs",
+    "taxable": false,
+    "treatment": "exempt"
+  },
+  {
+    "state": "PA",
+    "category": "medical.prescription_drugs",
+    "taxable": false,
+    "treatment": "exempt"
+  },
+  {
+    "state": "PA",
+    "category": "publications.books",
+    "taxable": true,
+    "treatment": "taxable"
+  },
+  {
+    "state": "PA",
+    "category": "publications.magazines",
+    "taxable": true,
+    "treatment": "taxable"
+  },
+  {
+    "state": "PA",
+    "category": "publications.newspapers",
+    "taxable": false,
+    "treatment": "exempt"
+  },
+  {
+    "state": "PA",
+    "category": "services.ai_api",
+    "taxable": true,
+    "treatment": "taxable"
+  },
+  {
+    "state": "PA",
+    "category": "services.data_processing",
+    "taxable": false,
+    "treatment": "exempt"
+  },
+  {
+    "state": "PA",
+    "category": "services.personal_care",
+    "taxable": false,
+    "treatment": "exempt"
+  },
+  {
+    "state": "PA",
+    "category": "services.professional",
+    "taxable": false,
+    "treatment": "exempt"
+  },
+  {
+    "state": "PA",
+    "category": "services.repair",
+    "taxable": true,
+    "treatment": "taxable"
+  },
+  {
+    "state": "PA",
+    "category": "services.web_hosting",
+    "taxable": true,
+    "treatment": "taxable"
+  },
+  {
+    "state": "PA",
+    "category": "software.custom",
+    "taxable": false,
+    "treatment": "exempt"
+  },
+  {
+    "state": "PA",
+    "category": "software.prewritten",
+    "taxable": true,
+    "treatment": "taxable"
+  },
+  {
+    "state": "PA",
+    "category": "software.saas",
+    "taxable": true,
+    "treatment": "taxable"
+  },
+  {
+    "state": "RI",
+    "category": "clothing.accessories",
+    "taxable": true,
+    "treatment": "taxable"
+  },
+  {
+    "state": "RI",
+    "category": "clothing.general",
+    "taxable": false,
+    "treatment": "exempt"
+  },
+  {
+    "state": "RI",
+    "category": "clothing.protective",
+    "taxable": true,
+    "treatment": "taxable"
+  },
+  {
+    "state": "RI",
+    "category": "digital_products.ebook",
+    "taxable": true,
+    "treatment": "taxable"
+  },
+  {
+    "state": "RI",
+    "category": "digital_products.music",
+    "taxable": true,
+    "treatment": "taxable"
+  },
+  {
+    "state": "RI",
+    "category": "digital_products.streaming",
+    "taxable": true,
+    "treatment": "taxable"
+  },
+  {
+    "state": "RI",
+    "category": "digital_products.video",
+    "taxable": true,
+    "treatment": "taxable"
+  },
+  {
+    "state": "RI",
+    "category": "food.candy",
+    "taxable": true,
+    "treatment": "taxable"
+  },
+  {
+    "state": "RI",
+    "category": "food.dietary_supplements",
+    "taxable": true,
+    "treatment": "taxable"
+  },
+  {
+    "state": "RI",
+    "category": "food.grocery",
+    "taxable": false,
+    "treatment": "exempt"
+  },
+  {
+    "state": "RI",
+    "category": "food.prepared",
+    "taxable": true,
+    "treatment": "taxable"
+  },
+  {
+    "state": "RI",
+    "category": "food.soft_drinks",
+    "taxable": true,
+    "treatment": "taxable"
+  },
+  {
+    "state": "RI",
+    "category": "goods.electronics",
+    "taxable": true,
+    "treatment": "taxable"
+  },
+  {
+    "state": "RI",
+    "category": "goods.furniture",
+    "taxable": true,
+    "treatment": "taxable"
+  },
+  {
+    "state": "RI",
+    "category": "goods.general",
+    "taxable": true,
+    "treatment": "taxable"
+  },
+  {
+    "state": "RI",
+    "category": "medical.devices",
+    "taxable": false,
+    "treatment": "exempt"
+  },
+  {
+    "state": "RI",
+    "category": "medical.otc_drugs",
+    "taxable": true,
+    "treatment": "taxable"
+  },
+  {
+    "state": "RI",
+    "category": "medical.prescription_drugs",
+    "taxable": false,
+    "treatment": "exempt"
+  },
+  {
+    "state": "RI",
+    "category": "publications.books",
+    "taxable": true,
+    "treatment": "taxable"
+  },
+  {
+    "state": "RI",
+    "category": "publications.magazines",
+    "taxable": true,
+    "treatment": "taxable"
+  },
+  {
+    "state": "RI",
+    "category": "publications.newspapers",
+    "taxable": false,
+    "treatment": "exempt"
+  },
+  {
+    "state": "RI",
+    "category": "services.ai_api",
+    "taxable": true,
+    "treatment": "taxable"
+  },
+  {
+    "state": "RI",
+    "category": "services.data_processing",
+    "taxable": false,
+    "treatment": "exempt"
+  },
+  {
+    "state": "RI",
+    "category": "services.personal_care",
+    "taxable": false,
+    "treatment": "exempt"
+  },
+  {
+    "state": "RI",
+    "category": "services.professional",
+    "taxable": false,
+    "treatment": "exempt"
+  },
+  {
+    "state": "RI",
+    "category": "services.repair",
+    "taxable": true,
+    "treatment": "taxable"
+  },
+  {
+    "state": "RI",
+    "category": "services.web_hosting",
+    "taxable": false,
+    "treatment": "exempt"
+  },
+  {
+    "state": "RI",
+    "category": "software.custom",
+    "taxable": false,
+    "treatment": "exempt"
+  },
+  {
+    "state": "RI",
+    "category": "software.prewritten",
+    "taxable": true,
+    "treatment": "taxable"
+  },
+  {
+    "state": "RI",
+    "category": "software.saas",
+    "taxable": true,
+    "treatment": "taxable"
+  },
+  {
+    "state": "SC",
+    "category": "clothing.accessories",
+    "taxable": true,
+    "treatment": "taxable"
+  },
+  {
+    "state": "SC",
+    "category": "clothing.general",
+    "taxable": true,
+    "treatment": "taxable"
+  },
+  {
+    "state": "SC",
+    "category": "clothing.protective",
+    "taxable": true,
+    "treatment": "taxable"
+  },
+  {
+    "state": "SC",
+    "category": "digital_products.ebook",
+    "taxable": false,
+    "treatment": "exempt"
+  },
+  {
+    "state": "SC",
+    "category": "digital_products.music",
+    "taxable": false,
+    "treatment": "exempt"
+  },
+  {
+    "state": "SC",
+    "category": "digital_products.streaming",
+    "taxable": false,
+    "treatment": "exempt"
+  },
+  {
+    "state": "SC",
+    "category": "digital_products.video",
+    "taxable": false,
+    "treatment": "exempt"
+  },
+  {
+    "state": "SC",
+    "category": "food.candy",
+    "taxable": false,
+    "treatment": "exempt"
+  },
+  {
+    "state": "SC",
+    "category": "food.dietary_supplements",
+    "taxable": true,
+    "treatment": "taxable"
+  },
+  {
+    "state": "SC",
+    "category": "food.grocery",
+    "taxable": false,
+    "treatment": "exempt"
+  },
+  {
+    "state": "SC",
+    "category": "food.prepared",
+    "taxable": true,
+    "treatment": "taxable"
+  },
+  {
+    "state": "SC",
+    "category": "food.soft_drinks",
+    "taxable": false,
+    "treatment": "exempt"
+  },
+  {
+    "state": "SC",
+    "category": "goods.electronics",
+    "taxable": true,
+    "treatment": "taxable"
+  },
+  {
+    "state": "SC",
+    "category": "goods.furniture",
+    "taxable": true,
+    "treatment": "taxable"
+  },
+  {
+    "state": "SC",
+    "category": "goods.general",
+    "taxable": true,
+    "treatment": "taxable"
+  },
+  {
+    "state": "SC",
+    "category": "medical.devices",
+    "taxable": false,
+    "treatment": "exempt"
+  },
+  {
+    "state": "SC",
+    "category": "medical.otc_drugs",
+    "taxable": true,
+    "treatment": "taxable"
+  },
+  {
+    "state": "SC",
+    "category": "medical.prescription_drugs",
+    "taxable": false,
+    "treatment": "exempt"
+  },
+  {
+    "state": "SC",
+    "category": "publications.books",
+    "taxable": true,
+    "treatment": "taxable"
+  },
+  {
+    "state": "SC",
+    "category": "publications.magazines",
+    "taxable": true,
+    "treatment": "taxable"
+  },
+  {
+    "state": "SC",
+    "category": "publications.newspapers",
+    "taxable": false,
+    "treatment": "exempt"
+  },
+  {
+    "state": "SC",
+    "category": "services.ai_api",
+    "taxable": true,
+    "treatment": "taxable"
+  },
+  {
+    "state": "SC",
+    "category": "services.data_processing",
+    "taxable": false,
+    "treatment": "exempt"
+  },
+  {
+    "state": "SC",
+    "category": "services.personal_care",
+    "taxable": false,
+    "treatment": "exempt"
+  },
+  {
+    "state": "SC",
+    "category": "services.professional",
+    "taxable": false,
+    "treatment": "exempt"
+  },
+  {
+    "state": "SC",
+    "category": "services.repair",
+    "taxable": true,
+    "treatment": "taxable"
+  },
+  {
+    "state": "SC",
+    "category": "services.web_hosting",
+    "taxable": false,
+    "treatment": "exempt"
+  },
+  {
+    "state": "SC",
+    "category": "software.custom",
+    "taxable": false,
+    "treatment": "exempt"
+  },
+  {
+    "state": "SC",
+    "category": "software.prewritten",
+    "taxable": true,
+    "treatment": "taxable"
+  },
+  {
+    "state": "SC",
+    "category": "software.saas",
+    "taxable": true,
+    "treatment": "taxable"
+  },
+  {
+    "state": "SD",
+    "category": "clothing.accessories",
+    "taxable": true,
+    "treatment": "taxable"
+  },
+  {
+    "state": "SD",
+    "category": "clothing.general",
+    "taxable": true,
+    "treatment": "taxable"
+  },
+  {
+    "state": "SD",
+    "category": "clothing.protective",
+    "taxable": true,
+    "treatment": "taxable"
+  },
+  {
+    "state": "SD",
+    "category": "digital_products.ebook",
+    "taxable": true,
+    "treatment": "taxable"
+  },
+  {
+    "state": "SD",
+    "category": "digital_products.music",
+    "taxable": true,
+    "treatment": "taxable"
+  },
+  {
+    "state": "SD",
+    "category": "digital_products.streaming",
+    "taxable": true,
+    "treatment": "taxable"
+  },
+  {
+    "state": "SD",
+    "category": "digital_products.video",
+    "taxable": true,
+    "treatment": "taxable"
+  },
+  {
+    "state": "SD",
+    "category": "food.candy",
+    "taxable": true,
+    "treatment": "taxable"
+  },
+  {
+    "state": "SD",
+    "category": "food.dietary_supplements",
+    "taxable": true,
+    "treatment": "taxable"
+  },
+  {
+    "state": "SD",
+    "category": "food.grocery",
+    "taxable": true,
+    "treatment": "taxable"
+  },
+  {
+    "state": "SD",
+    "category": "food.prepared",
+    "taxable": true,
+    "treatment": "taxable"
+  },
+  {
+    "state": "SD",
+    "category": "food.soft_drinks",
+    "taxable": true,
+    "treatment": "taxable"
+  },
+  {
+    "state": "SD",
+    "category": "goods.electronics",
+    "taxable": true,
+    "treatment": "taxable"
+  },
+  {
+    "state": "SD",
+    "category": "goods.furniture",
+    "taxable": true,
+    "treatment": "taxable"
+  },
+  {
+    "state": "SD",
+    "category": "goods.general",
+    "taxable": true,
+    "treatment": "taxable"
+  },
+  {
+    "state": "SD",
+    "category": "medical.devices",
+    "taxable": false,
+    "treatment": "exempt"
+  },
+  {
+    "state": "SD",
+    "category": "medical.otc_drugs",
+    "taxable": true,
+    "treatment": "taxable"
+  },
+  {
+    "state": "SD",
+    "category": "medical.prescription_drugs",
+    "taxable": false,
+    "treatment": "exempt"
+  },
+  {
+    "state": "SD",
+    "category": "publications.books",
+    "taxable": true,
+    "treatment": "taxable"
+  },
+  {
+    "state": "SD",
+    "category": "publications.magazines",
+    "taxable": true,
+    "treatment": "taxable"
+  },
+  {
+    "state": "SD",
+    "category": "publications.newspapers",
+    "taxable": false,
+    "treatment": "exempt"
+  },
+  {
+    "state": "SD",
+    "category": "services.ai_api",
+    "taxable": true,
+    "treatment": "taxable"
+  },
+  {
+    "state": "SD",
+    "category": "services.data_processing",
+    "taxable": true,
+    "treatment": "taxable"
+  },
+  {
+    "state": "SD",
+    "category": "services.personal_care",
+    "taxable": true,
+    "treatment": "taxable"
+  },
+  {
+    "state": "SD",
+    "category": "services.professional",
+    "taxable": true,
+    "treatment": "taxable"
+  },
+  {
+    "state": "SD",
+    "category": "services.repair",
+    "taxable": true,
+    "treatment": "taxable"
+  },
+  {
+    "state": "SD",
+    "category": "services.web_hosting",
+    "taxable": true,
+    "treatment": "taxable"
+  },
+  {
+    "state": "SD",
+    "category": "software.custom",
+    "taxable": true,
+    "treatment": "taxable"
+  },
+  {
+    "state": "SD",
+    "category": "software.prewritten",
+    "taxable": true,
+    "treatment": "taxable"
+  },
+  {
+    "state": "SD",
+    "category": "software.saas",
+    "taxable": true,
+    "treatment": "taxable"
+  },
+  {
+    "state": "TN",
+    "category": "clothing.accessories",
+    "taxable": true,
+    "treatment": "taxable"
+  },
+  {
+    "state": "TN",
+    "category": "clothing.general",
+    "taxable": true,
+    "treatment": "taxable"
+  },
+  {
+    "state": "TN",
+    "category": "clothing.protective",
+    "taxable": true,
+    "treatment": "taxable"
+  },
+  {
+    "state": "TN",
+    "category": "digital_products.ebook",
+    "taxable": true,
+    "treatment": "taxable"
+  },
+  {
+    "state": "TN",
+    "category": "digital_products.music",
+    "taxable": true,
+    "treatment": "taxable"
+  },
+  {
+    "state": "TN",
+    "category": "digital_products.streaming",
+    "taxable": true,
+    "treatment": "taxable"
+  },
+  {
+    "state": "TN",
+    "category": "digital_products.video",
+    "taxable": true,
+    "treatment": "taxable"
+  },
+  {
+    "state": "TN",
+    "category": "food.candy",
+    "taxable": true,
+    "treatment": "taxable"
+  },
+  {
+    "state": "TN",
+    "category": "food.dietary_supplements",
+    "taxable": true,
+    "treatment": "taxable"
+  },
+  {
+    "state": "TN",
+    "category": "food.grocery",
+    "taxable": true,
+    "treatment": "reduced_rate"
+  },
+  {
+    "state": "TN",
+    "category": "food.prepared",
+    "taxable": true,
+    "treatment": "taxable"
+  },
+  {
+    "state": "TN",
+    "category": "food.soft_drinks",
+    "taxable": true,
+    "treatment": "taxable"
+  },
+  {
+    "state": "TN",
+    "category": "goods.electronics",
+    "taxable": true,
+    "treatment": "taxable"
+  },
+  {
+    "state": "TN",
+    "category": "goods.furniture",
+    "taxable": true,
+    "treatment": "taxable"
+  },
+  {
+    "state": "TN",
+    "category": "goods.general",
+    "taxable": true,
+    "treatment": "taxable"
+  },
+  {
+    "state": "TN",
+    "category": "medical.devices",
+    "taxable": false,
+    "treatment": "exempt"
+  },
+  {
+    "state": "TN",
+    "category": "medical.otc_drugs",
+    "taxable": true,
+    "treatment": "taxable"
+  },
+  {
+    "state": "TN",
+    "category": "medical.prescription_drugs",
+    "taxable": false,
+    "treatment": "exempt"
+  },
+  {
+    "state": "TN",
+    "category": "publications.books",
+    "taxable": true,
+    "treatment": "taxable"
+  },
+  {
+    "state": "TN",
+    "category": "publications.magazines",
+    "taxable": true,
+    "treatment": "taxable"
+  },
+  {
+    "state": "TN",
+    "category": "publications.newspapers",
+    "taxable": false,
+    "treatment": "exempt"
+  },
+  {
+    "state": "TN",
+    "category": "services.ai_api",
+    "taxable": true,
+    "treatment": "taxable"
+  },
+  {
+    "state": "TN",
+    "category": "services.data_processing",
+    "taxable": false,
+    "treatment": "exempt"
+  },
+  {
+    "state": "TN",
+    "category": "services.personal_care",
+    "taxable": false,
+    "treatment": "exempt"
+  },
+  {
+    "state": "TN",
+    "category": "services.professional",
+    "taxable": false,
+    "treatment": "exempt"
+  },
+  {
+    "state": "TN",
+    "category": "services.repair",
+    "taxable": true,
+    "treatment": "taxable"
+  },
+  {
+    "state": "TN",
+    "category": "services.web_hosting",
+    "taxable": false,
+    "treatment": "exempt"
+  },
+  {
+    "state": "TN",
+    "category": "software.custom",
+    "taxable": true,
+    "treatment": "taxable"
+  },
+  {
+    "state": "TN",
+    "category": "software.prewritten",
+    "taxable": true,
+    "treatment": "taxable"
+  },
+  {
+    "state": "TN",
+    "category": "software.saas",
+    "taxable": true,
+    "treatment": "taxable"
+  },
+  {
+    "state": "TX",
+    "category": "clothing.accessories",
+    "taxable": true,
+    "treatment": "taxable"
+  },
+  {
+    "state": "TX",
+    "category": "clothing.general",
+    "taxable": true,
+    "treatment": "taxable"
+  },
+  {
+    "state": "TX",
+    "category": "clothing.protective",
+    "taxable": true,
+    "treatment": "taxable"
+  },
+  {
+    "state": "TX",
+    "category": "digital_products.ebook",
+    "taxable": true,
+    "treatment": "taxable"
+  },
+  {
+    "state": "TX",
+    "category": "digital_products.music",
+    "taxable": true,
+    "treatment": "taxable"
+  },
+  {
+    "state": "TX",
+    "category": "digital_products.streaming",
+    "taxable": true,
+    "treatment": "taxable"
+  },
+  {
+    "state": "TX",
+    "category": "digital_products.video",
+    "taxable": true,
+    "treatment": "taxable"
+  },
+  {
+    "state": "TX",
+    "category": "food.candy",
+    "taxable": true,
+    "treatment": "taxable"
+  },
+  {
+    "state": "TX",
+    "category": "food.dietary_supplements",
+    "taxable": false,
+    "treatment": "exempt"
+  },
+  {
+    "state": "TX",
+    "category": "food.grocery",
+    "taxable": false,
+    "treatment": "exempt"
+  },
+  {
+    "state": "TX",
+    "category": "food.prepared",
+    "taxable": true,
+    "treatment": "taxable"
+  },
+  {
+    "state": "TX",
+    "category": "food.soft_drinks",
+    "taxable": true,
+    "treatment": "taxable"
+  },
+  {
+    "state": "TX",
+    "category": "goods.electronics",
+    "taxable": true,
+    "treatment": "taxable"
+  },
+  {
+    "state": "TX",
+    "category": "goods.furniture",
+    "taxable": true,
+    "treatment": "taxable"
+  },
+  {
+    "state": "TX",
+    "category": "goods.general",
+    "taxable": true,
+    "treatment": "taxable"
+  },
+  {
+    "state": "TX",
+    "category": "medical.devices",
+    "taxable": false,
+    "treatment": "exempt"
+  },
+  {
+    "state": "TX",
+    "category": "medical.otc_drugs",
+    "taxable": false,
+    "treatment": "exempt"
+  },
+  {
+    "state": "TX",
+    "category": "medical.prescription_drugs",
+    "taxable": false,
+    "treatment": "exempt"
+  },
+  {
+    "state": "TX",
+    "category": "publications.books",
+    "taxable": true,
+    "treatment": "taxable"
+  },
+  {
+    "state": "TX",
+    "category": "publications.magazines",
+    "taxable": true,
+    "treatment": "taxable"
+  },
+  {
+    "state": "TX",
+    "category": "publications.newspapers",
+    "taxable": false,
+    "treatment": "exempt"
+  },
+  {
+    "state": "TX",
+    "category": "services.ai_api",
+    "taxable": true,
+    "treatment": "taxable"
+  },
+  {
+    "state": "TX",
+    "category": "services.data_processing",
+    "taxable": true,
+    "treatment": "taxable"
+  },
+  {
+    "state": "TX",
+    "category": "services.personal_care",
+    "taxable": true,
+    "treatment": "taxable"
+  },
+  {
+    "state": "TX",
+    "category": "services.professional",
+    "taxable": false,
+    "treatment": "exempt"
+  },
+  {
+    "state": "TX",
+    "category": "services.repair",
+    "taxable": true,
+    "treatment": "taxable"
+  },
+  {
+    "state": "TX",
+    "category": "services.web_hosting",
+    "taxable": true,
+    "treatment": "taxable"
+  },
+  {
+    "state": "TX",
+    "category": "software.custom",
+    "taxable": false,
+    "treatment": "exempt"
+  },
+  {
+    "state": "TX",
+    "category": "software.prewritten",
+    "taxable": true,
+    "treatment": "taxable"
+  },
+  {
+    "state": "TX",
+    "category": "software.saas",
+    "taxable": true,
+    "treatment": "taxable"
+  },
+  {
+    "state": "UT",
+    "category": "clothing.accessories",
+    "taxable": true,
+    "treatment": "taxable"
+  },
+  {
+    "state": "UT",
+    "category": "clothing.general",
+    "taxable": true,
+    "treatment": "taxable"
+  },
+  {
+    "state": "UT",
+    "category": "clothing.protective",
+    "taxable": true,
+    "treatment": "taxable"
+  },
+  {
+    "state": "UT",
+    "category": "digital_products.ebook",
+    "taxable": true,
+    "treatment": "taxable"
+  },
+  {
+    "state": "UT",
+    "category": "digital_products.music",
+    "taxable": true,
+    "treatment": "taxable"
+  },
+  {
+    "state": "UT",
+    "category": "digital_products.streaming",
+    "taxable": true,
+    "treatment": "taxable"
+  },
+  {
+    "state": "UT",
+    "category": "digital_products.video",
+    "taxable": true,
+    "treatment": "taxable"
+  },
+  {
+    "state": "UT",
+    "category": "food.candy",
+    "taxable": true,
+    "treatment": "taxable"
+  },
+  {
+    "state": "UT",
+    "category": "food.dietary_supplements",
+    "taxable": true,
+    "treatment": "taxable"
+  },
+  {
+    "state": "UT",
+    "category": "food.grocery",
+    "taxable": true,
+    "treatment": "reduced_rate"
+  },
+  {
+    "state": "UT",
+    "category": "food.prepared",
+    "taxable": true,
+    "treatment": "taxable"
+  },
+  {
+    "state": "UT",
+    "category": "food.soft_drinks",
+    "taxable": true,
+    "treatment": "taxable"
+  },
+  {
+    "state": "UT",
+    "category": "goods.electronics",
+    "taxable": true,
+    "treatment": "taxable"
+  },
+  {
+    "state": "UT",
+    "category": "goods.furniture",
+    "taxable": true,
+    "treatment": "taxable"
+  },
+  {
+    "state": "UT",
+    "category": "goods.general",
+    "taxable": true,
+    "treatment": "taxable"
+  },
+  {
+    "state": "UT",
+    "category": "medical.devices",
+    "taxable": false,
+    "treatment": "exempt"
+  },
+  {
+    "state": "UT",
+    "category": "medical.otc_drugs",
+    "taxable": true,
+    "treatment": "taxable"
+  },
+  {
+    "state": "UT",
+    "category": "medical.prescription_drugs",
+    "taxable": false,
+    "treatment": "exempt"
+  },
+  {
+    "state": "UT",
+    "category": "publications.books",
+    "taxable": true,
+    "treatment": "taxable"
+  },
+  {
+    "state": "UT",
+    "category": "publications.magazines",
+    "taxable": true,
+    "treatment": "taxable"
+  },
+  {
+    "state": "UT",
+    "category": "publications.newspapers",
+    "taxable": false,
+    "treatment": "exempt"
+  },
+  {
+    "state": "UT",
+    "category": "services.ai_api",
+    "taxable": true,
+    "treatment": "taxable"
+  },
+  {
+    "state": "UT",
+    "category": "services.data_processing",
+    "taxable": false,
+    "treatment": "exempt"
+  },
+  {
+    "state": "UT",
+    "category": "services.personal_care",
+    "taxable": false,
+    "treatment": "exempt"
+  },
+  {
+    "state": "UT",
+    "category": "services.professional",
+    "taxable": false,
+    "treatment": "exempt"
+  },
+  {
+    "state": "UT",
+    "category": "services.repair",
+    "taxable": true,
+    "treatment": "taxable"
+  },
+  {
+    "state": "UT",
+    "category": "services.web_hosting",
+    "taxable": false,
+    "treatment": "exempt"
+  },
+  {
+    "state": "UT",
+    "category": "software.custom",
+    "taxable": false,
+    "treatment": "exempt"
+  },
+  {
+    "state": "UT",
+    "category": "software.prewritten",
+    "taxable": true,
+    "treatment": "taxable"
+  },
+  {
+    "state": "UT",
+    "category": "software.saas",
+    "taxable": true,
+    "treatment": "taxable"
+  },
+  {
+    "state": "VA",
+    "category": "clothing.accessories",
+    "taxable": true,
+    "treatment": "taxable"
+  },
+  {
+    "state": "VA",
+    "category": "clothing.general",
+    "taxable": true,
+    "treatment": "taxable"
+  },
+  {
+    "state": "VA",
+    "category": "clothing.protective",
+    "taxable": true,
+    "treatment": "taxable"
+  },
+  {
+    "state": "VA",
+    "category": "digital_products.ebook",
+    "taxable": false,
+    "treatment": "exempt"
+  },
+  {
+    "state": "VA",
+    "category": "digital_products.music",
+    "taxable": false,
+    "treatment": "exempt"
+  },
+  {
+    "state": "VA",
+    "category": "digital_products.streaming",
+    "taxable": false,
+    "treatment": "exempt"
+  },
+  {
+    "state": "VA",
+    "category": "digital_products.video",
+    "taxable": false,
+    "treatment": "exempt"
+  },
+  {
+    "state": "VA",
+    "category": "food.candy",
+    "taxable": true,
+    "treatment": "taxable"
+  },
+  {
+    "state": "VA",
+    "category": "food.dietary_supplements",
+    "taxable": true,
+    "treatment": "taxable"
+  },
+  {
+    "state": "VA",
+    "category": "food.grocery",
+    "taxable": true,
+    "treatment": "reduced_rate"
+  },
+  {
+    "state": "VA",
+    "category": "food.prepared",
+    "taxable": true,
+    "treatment": "taxable"
+  },
+  {
+    "state": "VA",
+    "category": "food.soft_drinks",
+    "taxable": true,
+    "treatment": "taxable"
+  },
+  {
+    "state": "VA",
+    "category": "goods.electronics",
+    "taxable": true,
+    "treatment": "taxable"
+  },
+  {
+    "state": "VA",
+    "category": "goods.furniture",
+    "taxable": true,
+    "treatment": "taxable"
+  },
+  {
+    "state": "VA",
+    "category": "goods.general",
+    "taxable": true,
+    "treatment": "taxable"
+  },
+  {
+    "state": "VA",
+    "category": "medical.devices",
+    "taxable": false,
+    "treatment": "exempt"
+  },
+  {
+    "state": "VA",
+    "category": "medical.otc_drugs",
+    "taxable": false,
+    "treatment": "exempt"
+  },
+  {
+    "state": "VA",
+    "category": "medical.prescription_drugs",
+    "taxable": false,
+    "treatment": "exempt"
+  },
+  {
+    "state": "VA",
+    "category": "publications.books",
+    "taxable": true,
+    "treatment": "taxable"
+  },
+  {
+    "state": "VA",
+    "category": "publications.magazines",
+    "taxable": true,
+    "treatment": "taxable"
+  },
+  {
+    "state": "VA",
+    "category": "publications.newspapers",
+    "taxable": false,
+    "treatment": "exempt"
+  },
+  {
+    "state": "VA",
+    "category": "services.ai_api",
+    "taxable": false,
+    "treatment": "exempt"
+  },
+  {
+    "state": "VA",
+    "category": "services.data_processing",
+    "taxable": false,
+    "treatment": "exempt"
+  },
+  {
+    "state": "VA",
+    "category": "services.personal_care",
+    "taxable": false,
+    "treatment": "exempt"
+  },
+  {
+    "state": "VA",
+    "category": "services.professional",
+    "taxable": false,
+    "treatment": "exempt"
+  },
+  {
+    "state": "VA",
+    "category": "services.repair",
+    "taxable": false,
+    "treatment": "exempt"
+  },
+  {
+    "state": "VA",
+    "category": "services.web_hosting",
+    "taxable": false,
+    "treatment": "exempt"
+  },
+  {
+    "state": "VA",
+    "category": "software.custom",
+    "taxable": false,
+    "treatment": "exempt"
+  },
+  {
+    "state": "VA",
+    "category": "software.prewritten",
+    "taxable": false,
+    "treatment": "exempt"
+  },
+  {
+    "state": "VA",
+    "category": "software.saas",
+    "taxable": false,
+    "treatment": "exempt"
+  },
+  {
+    "state": "VT",
+    "category": "clothing.accessories",
+    "taxable": true,
+    "treatment": "taxable"
+  },
+  {
+    "state": "VT",
+    "category": "clothing.general",
+    "taxable": false,
+    "treatment": "exempt"
+  },
+  {
+    "state": "VT",
+    "category": "clothing.protective",
+    "taxable": true,
+    "treatment": "taxable"
+  },
+  {
+    "state": "VT",
+    "category": "digital_products.ebook",
+    "taxable": true,
+    "treatment": "taxable"
+  },
+  {
+    "state": "VT",
+    "category": "digital_products.music",
+    "taxable": true,
+    "treatment": "taxable"
+  },
+  {
+    "state": "VT",
+    "category": "digital_products.streaming",
+    "taxable": true,
+    "treatment": "taxable"
+  },
+  {
+    "state": "VT",
+    "category": "digital_products.video",
+    "taxable": true,
+    "treatment": "taxable"
+  },
+  {
+    "state": "VT",
+    "category": "food.candy",
+    "taxable": false,
+    "treatment": "exempt"
+  },
+  {
+    "state": "VT",
+    "category": "food.dietary_supplements",
+    "taxable": false,
+    "treatment": "exempt"
+  },
+  {
+    "state": "VT",
+    "category": "food.grocery",
+    "taxable": false,
+    "treatment": "exempt"
+  },
+  {
+    "state": "VT",
+    "category": "food.prepared",
+    "taxable": true,
+    "treatment": "taxable"
+  },
+  {
+    "state": "VT",
+    "category": "food.soft_drinks",
+    "taxable": false,
+    "treatment": "exempt"
+  },
+  {
+    "state": "VT",
+    "category": "goods.electronics",
+    "taxable": true,
+    "treatment": "taxable"
+  },
+  {
+    "state": "VT",
+    "category": "goods.furniture",
+    "taxable": true,
+    "treatment": "taxable"
+  },
+  {
+    "state": "VT",
+    "category": "goods.general",
+    "taxable": true,
+    "treatment": "taxable"
+  },
+  {
+    "state": "VT",
+    "category": "medical.devices",
+    "taxable": false,
+    "treatment": "exempt"
+  },
+  {
+    "state": "VT",
+    "category": "medical.otc_drugs",
+    "taxable": false,
+    "treatment": "exempt"
+  },
+  {
+    "state": "VT",
+    "category": "medical.prescription_drugs",
+    "taxable": false,
+    "treatment": "exempt"
+  },
+  {
+    "state": "VT",
+    "category": "publications.books",
+    "taxable": true,
+    "treatment": "taxable"
+  },
+  {
+    "state": "VT",
+    "category": "publications.magazines",
+    "taxable": true,
+    "treatment": "taxable"
+  },
+  {
+    "state": "VT",
+    "category": "publications.newspapers",
+    "taxable": false,
+    "treatment": "exempt"
+  },
+  {
+    "state": "VT",
+    "category": "services.ai_api",
+    "taxable": true,
+    "treatment": "taxable"
+  },
+  {
+    "state": "VT",
+    "category": "services.data_processing",
+    "taxable": false,
+    "treatment": "exempt"
+  },
+  {
+    "state": "VT",
+    "category": "services.personal_care",
+    "taxable": false,
+    "treatment": "exempt"
+  },
+  {
+    "state": "VT",
+    "category": "services.professional",
+    "taxable": false,
+    "treatment": "exempt"
+  },
+  {
+    "state": "VT",
+    "category": "services.repair",
+    "taxable": true,
+    "treatment": "taxable"
+  },
+  {
+    "state": "VT",
+    "category": "services.web_hosting",
+    "taxable": false,
+    "treatment": "exempt"
+  },
+  {
+    "state": "VT",
+    "category": "software.custom",
+    "taxable": false,
+    "treatment": "exempt"
+  },
+  {
+    "state": "VT",
+    "category": "software.prewritten",
+    "taxable": true,
+    "treatment": "taxable"
+  },
+  {
+    "state": "VT",
+    "category": "software.saas",
+    "taxable": true,
+    "treatment": "taxable"
+  },
+  {
+    "state": "WA",
+    "category": "clothing.accessories",
+    "taxable": true,
+    "treatment": "taxable"
+  },
+  {
+    "state": "WA",
+    "category": "clothing.general",
+    "taxable": true,
+    "treatment": "taxable"
+  },
+  {
+    "state": "WA",
+    "category": "clothing.protective",
+    "taxable": true,
+    "treatment": "taxable"
+  },
+  {
+    "state": "WA",
+    "category": "digital_products.ebook",
+    "taxable": true,
+    "treatment": "taxable"
+  },
+  {
+    "state": "WA",
+    "category": "digital_products.music",
+    "taxable": true,
+    "treatment": "taxable"
+  },
+  {
+    "state": "WA",
+    "category": "digital_products.streaming",
+    "taxable": true,
+    "treatment": "taxable"
+  },
+  {
+    "state": "WA",
+    "category": "digital_products.video",
+    "taxable": true,
+    "treatment": "taxable"
+  },
+  {
+    "state": "WA",
+    "category": "food.candy",
+    "taxable": false,
+    "treatment": "exempt"
+  },
+  {
+    "state": "WA",
+    "category": "food.dietary_supplements",
+    "taxable": true,
+    "treatment": "taxable"
+  },
+  {
+    "state": "WA",
+    "category": "food.grocery",
+    "taxable": false,
+    "treatment": "exempt"
+  },
+  {
+    "state": "WA",
+    "category": "food.prepared",
+    "taxable": true,
+    "treatment": "taxable"
+  },
+  {
+    "state": "WA",
+    "category": "food.soft_drinks",
+    "taxable": true,
+    "treatment": "taxable"
+  },
+  {
+    "state": "WA",
+    "category": "goods.electronics",
+    "taxable": true,
+    "treatment": "taxable"
+  },
+  {
+    "state": "WA",
+    "category": "goods.furniture",
+    "taxable": true,
+    "treatment": "taxable"
+  },
+  {
+    "state": "WA",
+    "category": "goods.general",
+    "taxable": true,
+    "treatment": "taxable"
+  },
+  {
+    "state": "WA",
+    "category": "medical.devices",
+    "taxable": false,
+    "treatment": "exempt"
+  },
+  {
+    "state": "WA",
+    "category": "medical.otc_drugs",
+    "taxable": true,
+    "treatment": "taxable"
+  },
+  {
+    "state": "WA",
+    "category": "medical.prescription_drugs",
+    "taxable": false,
+    "treatment": "exempt"
+  },
+  {
+    "state": "WA",
+    "category": "publications.books",
+    "taxable": true,
+    "treatment": "taxable"
+  },
+  {
+    "state": "WA",
+    "category": "publications.magazines",
+    "taxable": true,
+    "treatment": "taxable"
+  },
+  {
+    "state": "WA",
+    "category": "publications.newspapers",
+    "taxable": false,
+    "treatment": "exempt"
+  },
+  {
+    "state": "WA",
+    "category": "services.ai_api",
+    "taxable": true,
+    "treatment": "taxable"
+  },
+  {
+    "state": "WA",
+    "category": "services.data_processing",
+    "taxable": false,
+    "treatment": "exempt"
+  },
+  {
+    "state": "WA",
+    "category": "services.personal_care",
+    "taxable": true,
+    "treatment": "taxable"
+  },
+  {
+    "state": "WA",
+    "category": "services.professional",
+    "taxable": false,
+    "treatment": "exempt"
+  },
+  {
+    "state": "WA",
+    "category": "services.repair",
+    "taxable": true,
+    "treatment": "taxable"
+  },
+  {
+    "state": "WA",
+    "category": "services.web_hosting",
+    "taxable": true,
+    "treatment": "taxable"
+  },
+  {
+    "state": "WA",
+    "category": "software.custom",
+    "taxable": false,
+    "treatment": "exempt"
+  },
+  {
+    "state": "WA",
+    "category": "software.prewritten",
+    "taxable": true,
+    "treatment": "taxable"
+  },
+  {
+    "state": "WA",
+    "category": "software.saas",
+    "taxable": true,
+    "treatment": "taxable"
+  },
+  {
+    "state": "WI",
+    "category": "clothing.accessories",
+    "taxable": true,
+    "treatment": "taxable"
+  },
+  {
+    "state": "WI",
+    "category": "clothing.general",
+    "taxable": true,
+    "treatment": "taxable"
+  },
+  {
+    "state": "WI",
+    "category": "clothing.protective",
+    "taxable": true,
+    "treatment": "taxable"
+  },
+  {
+    "state": "WI",
+    "category": "digital_products.ebook",
+    "taxable": true,
+    "treatment": "taxable"
+  },
+  {
+    "state": "WI",
+    "category": "digital_products.music",
+    "taxable": true,
+    "treatment": "taxable"
+  },
+  {
+    "state": "WI",
+    "category": "digital_products.streaming",
+    "taxable": true,
+    "treatment": "taxable"
+  },
+  {
+    "state": "WI",
+    "category": "digital_products.video",
+    "taxable": true,
+    "treatment": "taxable"
+  },
+  {
+    "state": "WI",
+    "category": "food.candy",
+    "taxable": true,
+    "treatment": "taxable"
+  },
+  {
+    "state": "WI",
+    "category": "food.dietary_supplements",
+    "taxable": true,
+    "treatment": "taxable"
+  },
+  {
+    "state": "WI",
+    "category": "food.grocery",
+    "taxable": false,
+    "treatment": "exempt"
+  },
+  {
+    "state": "WI",
+    "category": "food.prepared",
+    "taxable": true,
+    "treatment": "taxable"
+  },
+  {
+    "state": "WI",
+    "category": "food.soft_drinks",
+    "taxable": true,
+    "treatment": "taxable"
+  },
+  {
+    "state": "WI",
+    "category": "goods.electronics",
+    "taxable": true,
+    "treatment": "taxable"
+  },
+  {
+    "state": "WI",
+    "category": "goods.furniture",
+    "taxable": true,
+    "treatment": "taxable"
+  },
+  {
+    "state": "WI",
+    "category": "goods.general",
+    "taxable": true,
+    "treatment": "taxable"
+  },
+  {
+    "state": "WI",
+    "category": "medical.devices",
+    "taxable": false,
+    "treatment": "exempt"
+  },
+  {
+    "state": "WI",
+    "category": "medical.otc_drugs",
+    "taxable": true,
+    "treatment": "taxable"
+  },
+  {
+    "state": "WI",
+    "category": "medical.prescription_drugs",
+    "taxable": false,
+    "treatment": "exempt"
+  },
+  {
+    "state": "WI",
+    "category": "publications.books",
+    "taxable": true,
+    "treatment": "taxable"
+  },
+  {
+    "state": "WI",
+    "category": "publications.magazines",
+    "taxable": true,
+    "treatment": "taxable"
+  },
+  {
+    "state": "WI",
+    "category": "publications.newspapers",
+    "taxable": false,
+    "treatment": "exempt"
+  },
+  {
+    "state": "WI",
+    "category": "services.ai_api",
+    "taxable": false,
+    "treatment": "exempt"
+  },
+  {
+    "state": "WI",
+    "category": "services.data_processing",
+    "taxable": false,
+    "treatment": "exempt"
+  },
+  {
+    "state": "WI",
+    "category": "services.personal_care",
+    "taxable": false,
+    "treatment": "exempt"
+  },
+  {
+    "state": "WI",
+    "category": "services.professional",
+    "taxable": false,
+    "treatment": "exempt"
+  },
+  {
+    "state": "WI",
+    "category": "services.repair",
+    "taxable": true,
+    "treatment": "taxable"
+  },
+  {
+    "state": "WI",
+    "category": "services.web_hosting",
+    "taxable": false,
+    "treatment": "exempt"
+  },
+  {
+    "state": "WI",
+    "category": "software.custom",
+    "taxable": false,
+    "treatment": "exempt"
+  },
+  {
+    "state": "WI",
+    "category": "software.prewritten",
+    "taxable": true,
+    "treatment": "taxable"
+  },
+  {
+    "state": "WI",
+    "category": "software.saas",
+    "taxable": false,
+    "treatment": "exempt"
+  },
+  {
+    "state": "WV",
+    "category": "clothing.accessories",
+    "taxable": true,
+    "treatment": "taxable"
+  },
+  {
+    "state": "WV",
+    "category": "clothing.general",
+    "taxable": true,
+    "treatment": "taxable"
+  },
+  {
+    "state": "WV",
+    "category": "clothing.protective",
+    "taxable": true,
+    "treatment": "taxable"
+  },
+  {
+    "state": "WV",
+    "category": "digital_products.ebook",
+    "taxable": false,
+    "treatment": "exempt"
+  },
+  {
+    "state": "WV",
+    "category": "digital_products.music",
+    "taxable": false,
+    "treatment": "exempt"
+  },
+  {
+    "state": "WV",
+    "category": "digital_products.streaming",
+    "taxable": false,
+    "treatment": "exempt"
+  },
+  {
+    "state": "WV",
+    "category": "digital_products.video",
+    "taxable": false,
+    "treatment": "exempt"
+  },
+  {
+    "state": "WV",
+    "category": "food.candy",
+    "taxable": false,
+    "treatment": "exempt"
+  },
+  {
+    "state": "WV",
+    "category": "food.dietary_supplements",
+    "taxable": false,
+    "treatment": "exempt"
+  },
+  {
+    "state": "WV",
+    "category": "food.grocery",
+    "taxable": false,
+    "treatment": "exempt"
+  },
+  {
+    "state": "WV",
+    "category": "food.prepared",
+    "taxable": true,
+    "treatment": "taxable"
+  },
+  {
+    "state": "WV",
+    "category": "food.soft_drinks",
+    "taxable": true,
+    "treatment": "taxable"
+  },
+  {
+    "state": "WV",
+    "category": "goods.electronics",
+    "taxable": true,
+    "treatment": "taxable"
+  },
+  {
+    "state": "WV",
+    "category": "goods.furniture",
+    "taxable": true,
+    "treatment": "taxable"
+  },
+  {
+    "state": "WV",
+    "category": "goods.general",
+    "taxable": true,
+    "treatment": "taxable"
+  },
+  {
+    "state": "WV",
+    "category": "medical.devices",
+    "taxable": false,
+    "treatment": "exempt"
+  },
+  {
+    "state": "WV",
+    "category": "medical.otc_drugs",
+    "taxable": true,
+    "treatment": "taxable"
+  },
+  {
+    "state": "WV",
+    "category": "medical.prescription_drugs",
+    "taxable": false,
+    "treatment": "exempt"
+  },
+  {
+    "state": "WV",
+    "category": "publications.books",
+    "taxable": true,
+    "treatment": "taxable"
+  },
+  {
+    "state": "WV",
+    "category": "publications.magazines",
+    "taxable": true,
+    "treatment": "taxable"
+  },
+  {
+    "state": "WV",
+    "category": "publications.newspapers",
+    "taxable": false,
+    "treatment": "exempt"
+  },
+  {
+    "state": "WV",
+    "category": "services.ai_api",
+    "taxable": true,
+    "treatment": "taxable"
+  },
+  {
+    "state": "WV",
+    "category": "services.data_processing",
+    "taxable": true,
+    "treatment": "taxable"
+  },
+  {
+    "state": "WV",
+    "category": "services.personal_care",
+    "taxable": true,
+    "treatment": "taxable"
+  },
+  {
+    "state": "WV",
+    "category": "services.professional",
+    "taxable": true,
+    "treatment": "taxable"
+  },
+  {
+    "state": "WV",
+    "category": "services.repair",
+    "taxable": true,
+    "treatment": "taxable"
+  },
+  {
+    "state": "WV",
+    "category": "services.web_hosting",
+    "taxable": true,
+    "treatment": "taxable"
+  },
+  {
+    "state": "WV",
+    "category": "software.custom",
+    "taxable": true,
+    "treatment": "taxable"
+  },
+  {
+    "state": "WV",
+    "category": "software.prewritten",
+    "taxable": true,
+    "treatment": "taxable"
+  },
+  {
+    "state": "WV",
+    "category": "software.saas",
+    "taxable": true,
+    "treatment": "taxable"
+  },
+  {
+    "state": "WY",
+    "category": "clothing.accessories",
+    "taxable": true,
+    "treatment": "taxable"
+  },
+  {
+    "state": "WY",
+    "category": "clothing.general",
+    "taxable": true,
+    "treatment": "taxable"
+  },
+  {
+    "state": "WY",
+    "category": "clothing.protective",
+    "taxable": true,
+    "treatment": "taxable"
+  },
+  {
+    "state": "WY",
+    "category": "digital_products.ebook",
+    "taxable": true,
+    "treatment": "taxable"
+  },
+  {
+    "state": "WY",
+    "category": "digital_products.music",
+    "taxable": true,
+    "treatment": "taxable"
+  },
+  {
+    "state": "WY",
+    "category": "digital_products.streaming",
+    "taxable": true,
+    "treatment": "taxable"
+  },
+  {
+    "state": "WY",
+    "category": "digital_products.video",
+    "taxable": true,
+    "treatment": "taxable"
+  },
+  {
+    "state": "WY",
+    "category": "food.candy",
+    "taxable": false,
+    "treatment": "exempt"
+  },
+  {
+    "state": "WY",
+    "category": "food.dietary_supplements",
+    "taxable": false,
+    "treatment": "exempt"
+  },
+  {
+    "state": "WY",
+    "category": "food.grocery",
+    "taxable": false,
+    "treatment": "exempt"
+  },
+  {
+    "state": "WY",
+    "category": "food.prepared",
+    "taxable": true,
+    "treatment": "taxable"
+  },
+  {
+    "state": "WY",
+    "category": "food.soft_drinks",
+    "taxable": false,
+    "treatment": "exempt"
+  },
+  {
+    "state": "WY",
+    "category": "goods.electronics",
+    "taxable": true,
+    "treatment": "taxable"
+  },
+  {
+    "state": "WY",
+    "category": "goods.furniture",
+    "taxable": true,
+    "treatment": "taxable"
+  },
+  {
+    "state": "WY",
+    "category": "goods.general",
+    "taxable": true,
+    "treatment": "taxable"
+  },
+  {
+    "state": "WY",
+    "category": "medical.devices",
+    "taxable": false,
+    "treatment": "exempt"
+  },
+  {
+    "state": "WY",
+    "category": "medical.otc_drugs",
+    "taxable": true,
+    "treatment": "taxable"
+  },
+  {
+    "state": "WY",
+    "category": "medical.prescription_drugs",
+    "taxable": false,
+    "treatment": "exempt"
+  },
+  {
+    "state": "WY",
+    "category": "publications.books",
+    "taxable": true,
+    "treatment": "taxable"
+  },
+  {
+    "state": "WY",
+    "category": "publications.magazines",
+    "taxable": true,
+    "treatment": "taxable"
+  },
+  {
+    "state": "WY",
+    "category": "publications.newspapers",
+    "taxable": false,
+    "treatment": "exempt"
+  },
+  {
+    "state": "WY",
+    "category": "services.ai_api",
+    "taxable": false,
+    "treatment": "exempt"
+  },
+  {
+    "state": "WY",
+    "category": "services.data_processing",
+    "taxable": false,
+    "treatment": "exempt"
+  },
+  {
+    "state": "WY",
+    "category": "services.personal_care",
+    "taxable": false,
+    "treatment": "exempt"
+  },
+  {
+    "state": "WY",
+    "category": "services.professional",
+    "taxable": false,
+    "treatment": "exempt"
+  },
+  {
+    "state": "WY",
+    "category": "services.repair",
+    "taxable": true,
+    "treatment": "taxable"
+  },
+  {
+    "state": "WY",
+    "category": "services.web_hosting",
+    "taxable": false,
+    "treatment": "exempt"
+  },
+  {
+    "state": "WY",
+    "category": "software.custom",
+    "taxable": false,
+    "treatment": "exempt"
+  },
+  {
+    "state": "WY",
+    "category": "software.prewritten",
+    "taxable": true,
+    "treatment": "taxable"
+  },
+  {
+    "state": "WY",
+    "category": "software.saas",
+    "taxable": false,
+    "treatment": "exempt"
+  }
+]

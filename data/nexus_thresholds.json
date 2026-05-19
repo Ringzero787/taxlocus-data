@@ -1,0 +1,331 @@
+[
+  {
+    "state": "AK",
+    "sales_threshold": 100000.0,
+    "transaction_threshold": null,
+    "logic": "sales_only",
+    "measurement_period": "current_or_prior_cy"
+  },
+  {
+    "state": "AL",
+    "sales_threshold": 250000.0,
+    "transaction_threshold": null,
+    "logic": "sales_only",
+    "measurement_period": "current_or_prior_cy"
+  },
+  {
+    "state": "AR",
+    "sales_threshold": 100000.0,
+    "transaction_threshold": 200,
+    "logic": "sales_or_count",
+    "measurement_period": "current_or_prior_cy"
+  },
+  {
+    "state": "AZ",
+    "sales_threshold": 100000.0,
+    "transaction_threshold": null,
+    "logic": "sales_only",
+    "measurement_period": "current_or_prior_cy"
+  },
+  {
+    "state": "CA",
+    "sales_threshold": 500000.0,
+    "transaction_threshold": null,
+    "logic": "sales_only",
+    "measurement_period": "current_or_prior_cy"
+  },
+  {
+    "state": "CO",
+    "sales_threshold": 100000.0,
+    "transaction_threshold": null,
+    "logic": "sales_only",
+    "measurement_period": "current_or_prior_cy"
+  },
+  {
+    "state": "CT",
+    "sales_threshold": 100000.0,
+    "transaction_threshold": 200,
+    "logic": "sales_and_count",
+    "measurement_period": "current_or_prior_cy"
+  },
+  {
+    "state": "DC",
+    "sales_threshold": 100000.0,
+    "transaction_threshold": 200,
+    "logic": "sales_or_count",
+    "measurement_period": "current_or_prior_cy"
+  },
+  {
+    "state": "FL",
+    "sales_threshold": 100000.0,
+    "transaction_threshold": null,
+    "logic": "sales_only",
+    "measurement_period": "current_or_prior_cy"
+  },
+  {
+    "state": "GA",
+    "sales_threshold": 100000.0,
+    "transaction_threshold": 200,
+    "logic": "sales_or_count",
+    "measurement_period": "current_or_prior_cy"
+  },
+  {
+    "state": "HI",
+    "sales_threshold": 100000.0,
+    "transaction_threshold": 200,
+    "logic": "sales_or_count",
+    "measurement_period": "current_or_prior_cy"
+  },
+  {
+    "state": "IA",
+    "sales_threshold": 100000.0,
+    "transaction_threshold": null,
+    "logic": "sales_only",
+    "measurement_period": "current_or_prior_cy"
+  },
+  {
+    "state": "ID",
+    "sales_threshold": 100000.0,
+    "transaction_threshold": null,
+    "logic": "sales_only",
+    "measurement_period": "current_or_prior_cy"
+  },
+  {
+    "state": "IL",
+    "sales_threshold": 100000.0,
+    "transaction_threshold": null,
+    "logic": "sales_only",
+    "measurement_period": "current_or_prior_cy"
+  },
+  {
+    "state": "IN",
+    "sales_threshold": 100000.0,
+    "transaction_threshold": null,
+    "logic": "sales_only",
+    "measurement_period": "current_or_prior_cy"
+  },
+  {
+    "state": "KS",
+    "sales_threshold": 100000.0,
+    "transaction_threshold": null,
+    "logic": "sales_only",
+    "measurement_period": "current_or_prior_cy"
+  },
+  {
+    "state": "KY",
+    "sales_threshold": 100000.0,
+    "transaction_threshold": 200,
+    "logic": "sales_or_count",
+    "measurement_period": "current_or_prior_cy"
+  },
+  {
+    "state": "LA",
+    "sales_threshold": 100000.0,
+    "transaction_threshold": null,
+    "logic": "sales_only",
+    "measurement_period": "current_or_prior_cy"
+  },
+  {
+    "state": "MA",
+    "sales_threshold": 100000.0,
+    "transaction_threshold": null,
+    "logic": "sales_only",
+    "measurement_period": "current_or_prior_cy"
+  },
+  {
+    "state": "MD",
+    "sales_threshold": 100000.0,
+    "transaction_threshold": 200,
+    "logic": "sales_or_count",
+    "measurement_period": "current_or_prior_cy"
+  },
+  {
+    "state": "ME",
+    "sales_threshold": 100000.0,
+    "transaction_threshold": null,
+    "logic": "sales_only",
+    "measurement_period": "current_or_prior_cy"
+  },
+  {
+    "state": "MI",
+    "sales_threshold": 100000.0,
+    "transaction_threshold": 200,
+    "logic": "sales_or_count",
+    "measurement_period": "current_or_prior_cy"
+  },
+  {
+    "state": "MN",
+    "sales_threshold": 100000.0,
+    "transaction_threshold": 200,
+    "logic": "sales_or_count",
+    "measurement_period": "current_or_prior_cy"
+  },
+  {
+    "state": "MO",
+    "sales_threshold": 100000.0,
+    "transaction_threshold": null,
+    "logic": "sales_only",
+    "measurement_period": "current_or_prior_cy"
+  },
+  {
+    "state": "MS",
+    "sales_threshold": 250000.0,
+    "transaction_threshold": null,
+    "logic": "sales_only",
+    "measurement_period": "current_or_prior_cy"
+  },
+  {
+    "state": "NC",
+    "sales_threshold": 100000.0,
+    "transaction_threshold": null,
+    "logic": "sales_only",
+    "measurement_period": "current_or_prior_cy"
+  },
+  {
+    "state": "ND",
+    "sales_threshold": 100000.0,
+    "transaction_threshold": null,
+    "logic": "sales_only",
+    "measurement_period": "current_or_prior_cy"
+  },
+  {
+    "state": "NE",
+    "sales_threshold": 100000.0,
+    "transaction_threshold": 200,
+    "logic": "sales_or_count",
+    "measurement_period": "current_or_prior_cy"
+  },
+  {
+    "state": "NJ",
+    "sales_threshold": 100000.0,
+    "transaction_threshold": 200,
+    "logic": "sales_or_count",
+    "measurement_period": "current_or_prior_cy"
+  },
+  {
+    "state": "NM",
+    "sales_threshold": 100000.0,
+    "transaction_threshold": null,
+    "logic": "sales_only",
+    "measurement_period": "current_or_prior_cy"
+  },
+  {
+    "state": "NV",
+    "sales_threshold": 100000.0,
+    "transaction_threshold": 200,
+    "logic": "sales_or_count",
+    "measurement_period": "current_or_prior_cy"
+  },
+  {
+    "state": "NY",
+    "sales_threshold": 500000.0,
+    "transaction_threshold": 100,
+    "logic": "sales_and_count",
+    "measurement_period": "prior_4_quarters"
+  },
+  {
+    "state": "OH",
+    "sales_threshold": 100000.0,
+    "transaction_threshold": 200,
+    "logic": "sales_or_count",
+    "measurement_period": "current_or_prior_cy"
+  },
+  {
+    "state": "OK",
+    "sales_threshold": 100000.0,
+    "transaction_threshold": null,
+    "logic": "sales_only",
+    "measurement_period": "current_or_prior_cy"
+  },
+  {
+    "state": "PA",
+    "sales_threshold": 100000.0,
+    "transaction_threshold": null,
+    "logic": "sales_only",
+    "measurement_period": "current_or_prior_cy"
+  },
+  {
+    "state": "RI",
+    "sales_threshold": 100000.0,
+    "transaction_threshold": 200,
+    "logic": "sales_or_count",
+    "measurement_period": "current_or_prior_cy"
+  },
+  {
+    "state": "SC",
+    "sales_threshold": 100000.0,
+    "transaction_threshold": null,
+    "logic": "sales_only",
+    "measurement_period": "current_or_prior_cy"
+  },
+  {
+    "state": "SD",
+    "sales_threshold": 100000.0,
+    "transaction_threshold": null,
+    "logic": "sales_only",
+    "measurement_period": "current_or_prior_cy"
+  },
+  {
+    "state": "TN",
+    "sales_threshold": 100000.0,
+    "transaction_threshold": null,
+    "logic": "sales_only",
+    "measurement_period": "current_or_prior_cy"
+  },
+  {
+    "state": "TX",
+    "sales_threshold": 500000.0,
+    "transaction_threshold": null,
+    "logic": "sales_only",
+    "measurement_period": "rolling_12_month"
+  },
+  {
+    "state": "UT",
+    "sales_threshold": 100000.0,
+    "transaction_threshold": 200,
+    "logic": "sales_or_count",
+    "measurement_period": "current_or_prior_cy"
+  },
+  {
+    "state": "VA",
+    "sales_threshold": 100000.0,
+    "transaction_threshold": 200,
+    "logic": "sales_or_count",
+    "measurement_period": "current_or_prior_cy"
+  },
+  {
+    "state": "VT",
+    "sales_threshold": 100000.0,
+    "transaction_threshold": 200,
+    "logic": "sales_or_count",
+    "measurement_period": "current_or_prior_cy"
+  },
+  {
+    "state": "WA",
+    "sales_threshold": 100000.0,
+    "transaction_threshold": null,
+    "logic": "sales_only",
+    "measurement_period": "current_or_prior_cy"
+  },
+  {
+    "state": "WI",
+    "sales_threshold": 100000.0,
+    "transaction_threshold": null,
+    "logic": "sales_only",
+    "measurement_period": "current_or_prior_cy"
+  },
+  {
+    "state": "WV",
+    "sales_threshold": 100000.0,
+    "transaction_threshold": 200,
+    "logic": "sales_or_count",
+    "measurement_period": "current_or_prior_cy"
+  },
+  {
+    "state": "WY",
+    "sales_threshold": 100000.0,
+    "transaction_threshold": null,
+    "logic": "sales_only",
+    "measurement_period": "current_or_prior_cy"
+  }
+]

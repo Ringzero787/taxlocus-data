@@ -1,0 +1,186 @@
+[
+  {
+    "state": "AL",
+    "rate": 0.04
+  },
+  {
+    "state": "AR",
+    "rate": 0.065
+  },
+  {
+    "state": "AZ",
+    "rate": 0.056
+  },
+  {
+    "state": "CA",
+    "rate": 0.0725
+  },
+  {
+    "state": "CO",
+    "rate": 0.029
+  },
+  {
+    "state": "CT",
+    "rate": 0.0635
+  },
+  {
+    "state": "DC",
+    "rate": 0.06
+  },
+  {
+    "state": "FL",
+    "rate": 0.06
+  },
+  {
+    "state": "GA",
+    "rate": 0.04
+  },
+  {
+    "state": "HI",
+    "rate": 0.04
+  },
+  {
+    "state": "IA",
+    "rate": 0.06
+  },
+  {
+    "state": "ID",
+    "rate": 0.06
+  },
+  {
+    "state": "IL",
+    "rate": 0.0625
+  },
+  {
+    "state": "IN",
+    "rate": 0.07
+  },
+  {
+    "state": "KS",
+    "rate": 0.065
+  },
+  {
+    "state": "KY",
+    "rate": 0.06
+  },
+  {
+    "state": "LA",
+    "rate": 0.05
+  },
+  {
+    "state": "MA",
+    "rate": 0.0625
+  },
+  {
+    "state": "MD",
+    "rate": 0.06
+  },
+  {
+    "state": "ME",
+    "rate": 0.055
+  },
+  {
+    "state": "MI",
+    "rate": 0.06
+  },
+  {
+    "state": "MN",
+    "rate": 0.06875
+  },
+  {
+    "state": "MO",
+    "rate": 0.04225
+  },
+  {
+    "state": "MS",
+    "rate": 0.07
+  },
+  {
+    "state": "NC",
+    "rate": 0.0475
+  },
+  {
+    "state": "ND",
+    "rate": 0.05
+  },
+  {
+    "state": "NE",
+    "rate": 0.055
+  },
+  {
+    "state": "NJ",
+    "rate": 0.06625
+  },
+  {
+    "state": "NM",
+    "rate": 0.04875
+  },
+  {
+    "state": "NV",
+    "rate": 0.0685
+  },
+  {
+    "state": "NY",
+    "rate": 0.04
+  },
+  {
+    "state": "OH",
+    "rate": 0.0575
+  },
+  {
+    "state": "OK",
+    "rate": 0.045
+  },
+  {
+    "state": "PA",
+    "rate": 0.06
+  },
+  {
+    "state": "RI",
+    "rate": 0.07
+  },
+  {
+    "state": "SC",
+    "rate": 0.06
+  },
+  {
+    "state": "SD",
+    "rate": 0.042
+  },
+  {
+    "state": "TN",
+    "rate": 0.07
+  },
+  {
+    "state": "TX",
+    "rate": 0.0625
+  },
+  {
+    "state": "UT",
+    "rate": 0.0485
+  },
+  {
+    "state": "VA",
+    "rate": 0.053
+  },
+  {
+    "state": "VT",
+    "rate": 0.06
+  },
+  {
+    "state": "WA",
+    "rate": 0.065
+  },
+  {
+    "state": "WI",
+    "rate": 0.05
+  },
+  {
+    "state": "WV",
+    "rate": 0.06
+  },
+  {
+    "state": "WY",
+    "rate": 0.04
+  }
+]
