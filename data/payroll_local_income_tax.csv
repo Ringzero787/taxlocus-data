@@ -1,1 +1,28 @@
 year,state,jurisdiction_type,jurisdiction_name,geoid,resident_rate,non_resident_rate,courtesy_withholding,citation_url,notes,as_of
+2025,DE,city,Wilmington,,0.0125,0.0125,False,https://www.wilmingtonde.gov/government/finance,Wilmington Earned Income Tax — 1.25% on residents and on anyone working in Wilmington.,2026-05-26
+2025,MI,city,Albion,,0.01,0.005,False,https://www.michigan.gov/taxes/city-tax,Standard 1.0%/0.5%.,2026-05-26
+2025,MI,city,Battle Creek,,0.01,0.005,False,https://www.michigan.gov/taxes/city-tax,Standard 1.0%/0.5%.,2026-05-26
+2025,MI,city,Big Rapids,,0.01,0.005,False,https://www.michigan.gov/taxes/city-tax,Standard 1.0%/0.5%.,2026-05-26
+2025,MI,city,Detroit,,0.024,0.012,False,https://www.michigan.gov/taxes/city-tax,Detroit resident 2.4% / non-resident 1.2%.,2026-05-26
+2025,MI,city,East Lansing,,0.01,0.005,False,https://www.michigan.gov/taxes/city-tax,Standard 1.0%/0.5%.,2026-05-26
+2025,MI,city,Flint,,0.01,0.005,False,https://www.michigan.gov/taxes/city-tax,Standard 1.0%/0.5%.,2026-05-26
+2025,MI,city,Grand Rapids,,0.015,0.0075,False,https://www.michigan.gov/taxes/city-tax,Grand Rapids resident 1.5% / non-resident 0.75%.,2026-05-26
+2025,MI,city,Hamtramck,,0.01,0.005,False,https://www.michigan.gov/taxes/city-tax,Standard 1.0%/0.5%.,2026-05-26
+2025,MI,city,Highland Park,,0.02,0.01,False,https://www.michigan.gov/taxes/city-tax,Highland Park resident 2.0% / non-resident 1.0%.,2026-05-26
+2025,MI,city,Hudson,,0.01,0.005,False,https://www.michigan.gov/taxes/city-tax,Standard 1.0%/0.5%.,2026-05-26
+2025,MI,city,Ionia,,0.01,0.005,False,https://www.michigan.gov/taxes/city-tax,Standard 1.0%/0.5%.,2026-05-26
+2025,MI,city,Jackson,,0.01,0.005,False,https://www.michigan.gov/taxes/city-tax,Standard 1.0%/0.5%.,2026-05-26
+2025,MI,city,Lansing,,0.01,0.005,False,https://www.michigan.gov/taxes/city-tax,Standard 1.0%/0.5%.,2026-05-26
+2025,MI,city,Lapeer,,0.01,0.005,False,https://www.michigan.gov/taxes/city-tax,Standard 1.0%/0.5%.,2026-05-26
+2025,MI,city,Muskegon,,0.01,0.005,False,https://www.michigan.gov/taxes/city-tax,Standard 1.0%/0.5%.,2026-05-26
+2025,MI,city,Muskegon Heights,,0.01,0.005,False,https://www.michigan.gov/taxes/city-tax,Standard 1.0%/0.5%.,2026-05-26
+2025,MI,city,Pontiac,,0.01,0.005,False,https://www.michigan.gov/taxes/city-tax,Standard 1.0%/0.5%.,2026-05-26
+2025,MI,city,Port Huron,,0.01,0.005,False,https://www.michigan.gov/taxes/city-tax,Standard 1.0%/0.5%.,2026-05-26
+2025,MI,city,Portland,,0.01,0.005,False,https://www.michigan.gov/taxes/city-tax,Standard 1.0%/0.5%.,2026-05-26
+2025,MI,city,Saginaw,,0.015,0.0075,False,https://www.michigan.gov/taxes/city-tax,Saginaw resident 1.5% / non-resident 0.75%.,2026-05-26
+2025,MI,city,Springfield,,0.01,0.005,False,https://www.michigan.gov/taxes/city-tax,Standard 1.0%/0.5%.,2026-05-26
+2025,MI,city,Walker,,0.01,0.005,False,https://www.michigan.gov/taxes/city-tax,Standard 1.0%/0.5%.,2026-05-26
+2025,MO,city,Kansas City,,0.01,0.01,False,https://www.kcmo.gov/city-hall/departments/finance/revenue/earnings-and-profits-tax,Kansas City earnings tax — 1% on residents and on non-residents working in KC.,2026-05-26
+2025,MO,city,St. Louis,,0.01,0.01,False,https://www.stlouis-mo.gov/government/departments/collector/earnings-tax/,St. Louis earnings tax — 1% on residents and on non-residents working in STL.,2026-05-26
+2025,NY,city,New York City,,0.03876,,False,https://www.tax.ny.gov/forms/nys-50-t-nyc.htm,NYC personal income tax (residents only); top bracket 3.876%. Administered by NYS DOR (NYS-50-T-NYC).,2026-05-26
+2025,NY,city,Yonkers,,0.0162,0.005,False,https://www.tax.ny.gov/forms/nys-50-t-y.htm,Yonkers resident income tax surcharge ~16.75% of NY state tax (effective ~1.62%); non-resident earnings tax 0.5%. (NYS-50-T-Y).,2026-05-26
