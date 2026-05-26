@@ -1,0 +1,425 @@
+[
+  {
+    "state": "AK",
+    "facilitator_collects": true,
+    "seller_still_files": false,
+    "counts_toward_seller_nexus": false,
+    "threshold_usd": 100000.0,
+    "effective_date": "2020-01-06",
+    "citation_url": "https://arsstc.org/"
+  },
+  {
+    "state": "AL",
+    "facilitator_collects": true,
+    "seller_still_files": false,
+    "counts_toward_seller_nexus": false,
+    "threshold_usd": 250000.0,
+    "effective_date": "2019-01-01",
+    "citation_url": "https://www.revenue.alabama.gov/sales-use/marketplace-facilitator/"
+  },
+  {
+    "state": "AR",
+    "facilitator_collects": true,
+    "seller_still_files": false,
+    "counts_toward_seller_nexus": false,
+    "threshold_usd": 100000.0,
+    "effective_date": "2019-07-01",
+    "citation_url": "https://www.dfa.arkansas.gov/excise-tax/sales-and-use-tax/remote-sellers/"
+  },
+  {
+    "state": "AZ",
+    "facilitator_collects": true,
+    "seller_still_files": false,
+    "counts_toward_seller_nexus": false,
+    "threshold_usd": 100000.0,
+    "effective_date": "2019-10-01",
+    "citation_url": "https://azdor.gov/transaction-privilege-tax/out-state-sellers-and-marketplace-facilitators"
+  },
+  {
+    "state": "CA",
+    "facilitator_collects": true,
+    "seller_still_files": false,
+    "counts_toward_seller_nexus": true,
+    "threshold_usd": 500000.0,
+    "effective_date": "2019-10-01",
+    "citation_url": "https://www.cdtfa.ca.gov/industry/MPFAct.htm"
+  },
+  {
+    "state": "CO",
+    "facilitator_collects": true,
+    "seller_still_files": false,
+    "counts_toward_seller_nexus": false,
+    "threshold_usd": 100000.0,
+    "effective_date": "2019-10-01",
+    "citation_url": "https://tax.colorado.gov/marketplace-sales-information"
+  },
+  {
+    "state": "CT",
+    "facilitator_collects": true,
+    "seller_still_files": false,
+    "counts_toward_seller_nexus": false,
+    "threshold_usd": 100000.0,
+    "effective_date": "2018-12-01",
+    "citation_url": "https://portal.ct.gov/DRS/Sales-Tax/Marketplace-Facilitators"
+  },
+  {
+    "state": "DC",
+    "facilitator_collects": true,
+    "seller_still_files": false,
+    "counts_toward_seller_nexus": false,
+    "threshold_usd": 100000.0,
+    "effective_date": "2019-04-01",
+    "citation_url": "https://otr.cfo.dc.gov/page/marketplace-facilitators"
+  },
+  {
+    "state": "FL",
+    "facilitator_collects": true,
+    "seller_still_files": false,
+    "counts_toward_seller_nexus": false,
+    "threshold_usd": 100000.0,
+    "effective_date": "2021-07-01",
+    "citation_url": "https://floridarevenue.com/taxes/Pages/marketplace_providers.aspx"
+  },
+  {
+    "state": "GA",
+    "facilitator_collects": true,
+    "seller_still_files": false,
+    "counts_toward_seller_nexus": false,
+    "threshold_usd": 100000.0,
+    "effective_date": "2020-04-01",
+    "citation_url": "https://dor.georgia.gov/marketplace-facilitators"
+  },
+  {
+    "state": "HI",
+    "facilitator_collects": true,
+    "seller_still_files": false,
+    "counts_toward_seller_nexus": false,
+    "threshold_usd": 100000.0,
+    "effective_date": "2020-01-01",
+    "citation_url": "https://tax.hawaii.gov/geninfo/marketplacefacilitators/"
+  },
+  {
+    "state": "IA",
+    "facilitator_collects": true,
+    "seller_still_files": false,
+    "counts_toward_seller_nexus": false,
+    "threshold_usd": 100000.0,
+    "effective_date": "2019-01-01",
+    "citation_url": "https://tax.iowa.gov/marketplace-facilitators"
+  },
+  {
+    "state": "ID",
+    "facilitator_collects": true,
+    "seller_still_files": false,
+    "counts_toward_seller_nexus": false,
+    "threshold_usd": 100000.0,
+    "effective_date": "2019-06-01",
+    "citation_url": "https://tax.idaho.gov/taxes/sales-use/online-out-of-state-sellers/marketplace-facilitator-laws/"
+  },
+  {
+    "state": "IL",
+    "facilitator_collects": true,
+    "seller_still_files": false,
+    "counts_toward_seller_nexus": true,
+    "threshold_usd": 100000.0,
+    "effective_date": "2020-01-01",
+    "citation_url": "https://tax.illinois.gov/research/legalinformation/regs/marketplace.html"
+  },
+  {
+    "state": "IN",
+    "facilitator_collects": true,
+    "seller_still_files": false,
+    "counts_toward_seller_nexus": false,
+    "threshold_usd": 100000.0,
+    "effective_date": "2019-07-01",
+    "citation_url": "https://www.in.gov/dor/business-tax/marketplace-facilitators/"
+  },
+  {
+    "state": "KS",
+    "facilitator_collects": true,
+    "seller_still_files": false,
+    "counts_toward_seller_nexus": false,
+    "threshold_usd": 100000.0,
+    "effective_date": "2021-07-01",
+    "citation_url": "https://www.ksrevenue.gov/marketplacefacilitators.html"
+  },
+  {
+    "state": "KY",
+    "facilitator_collects": true,
+    "seller_still_files": false,
+    "counts_toward_seller_nexus": false,
+    "threshold_usd": 100000.0,
+    "effective_date": "2019-07-01",
+    "citation_url": "https://revenue.ky.gov/Business/Sales-Use-Tax/Pages/Marketplace-Providers.aspx"
+  },
+  {
+    "state": "LA",
+    "facilitator_collects": true,
+    "seller_still_files": false,
+    "counts_toward_seller_nexus": false,
+    "threshold_usd": 100000.0,
+    "effective_date": "2020-07-01",
+    "citation_url": "https://revenue.louisiana.gov/Faq/FaqCategoryDetails?Category=Sales+%26+Use+Tax"
+  },
+  {
+    "state": "MA",
+    "facilitator_collects": true,
+    "seller_still_files": false,
+    "counts_toward_seller_nexus": false,
+    "threshold_usd": 100000.0,
+    "effective_date": "2019-10-01",
+    "citation_url": "https://www.mass.gov/info-details/remote-and-marketplace-sellers"
+  },
+  {
+    "state": "MD",
+    "facilitator_collects": true,
+    "seller_still_files": false,
+    "counts_toward_seller_nexus": false,
+    "threshold_usd": 100000.0,
+    "effective_date": "2019-10-01",
+    "citation_url": "https://www.marylandtaxes.gov/forms/business_tax_tips/bustip29.pdf"
+  },
+  {
+    "state": "ME",
+    "facilitator_collects": true,
+    "seller_still_files": false,
+    "counts_toward_seller_nexus": false,
+    "threshold_usd": 100000.0,
+    "effective_date": "2019-10-01",
+    "citation_url": "https://www.maine.gov/revenue/taxes/sales-use-service-provider-tax/marketplace-facilitators"
+  },
+  {
+    "state": "MI",
+    "facilitator_collects": true,
+    "seller_still_files": false,
+    "counts_toward_seller_nexus": false,
+    "threshold_usd": 100000.0,
+    "effective_date": "2020-01-01",
+    "citation_url": "https://www.michigan.gov/taxes/business-taxes/sales-use-tax/remote-sales-tax"
+  },
+  {
+    "state": "MN",
+    "facilitator_collects": true,
+    "seller_still_files": false,
+    "counts_toward_seller_nexus": false,
+    "threshold_usd": 100000.0,
+    "effective_date": "2019-10-01",
+    "citation_url": "https://www.revenue.state.mn.us/marketplace-providers-and-sellers"
+  },
+  {
+    "state": "MO",
+    "facilitator_collects": true,
+    "seller_still_files": false,
+    "counts_toward_seller_nexus": false,
+    "threshold_usd": 100000.0,
+    "effective_date": "2023-01-01",
+    "citation_url": "https://dor.mo.gov/taxation/business/tax-types/sales-use/marketplace-facilitators.html"
+  },
+  {
+    "state": "MS",
+    "facilitator_collects": true,
+    "seller_still_files": false,
+    "counts_toward_seller_nexus": false,
+    "threshold_usd": 250000.0,
+    "effective_date": "2020-07-01",
+    "citation_url": "https://www.dor.ms.gov/business/marketplace-facilitators"
+  },
+  {
+    "state": "NC",
+    "facilitator_collects": true,
+    "seller_still_files": false,
+    "counts_toward_seller_nexus": false,
+    "threshold_usd": 100000.0,
+    "effective_date": "2020-02-01",
+    "citation_url": "https://www.ncdor.gov/taxes-forms/sales-and-use-tax/remote-sales/marketplace-facilitators"
+  },
+  {
+    "state": "ND",
+    "facilitator_collects": true,
+    "seller_still_files": false,
+    "counts_toward_seller_nexus": false,
+    "threshold_usd": 100000.0,
+    "effective_date": "2019-10-01",
+    "citation_url": "https://www.tax.nd.gov/business/sales-and-use-tax/remote-sellers-and-marketplace-facilitators"
+  },
+  {
+    "state": "NE",
+    "facilitator_collects": true,
+    "seller_still_files": false,
+    "counts_toward_seller_nexus": false,
+    "threshold_usd": 100000.0,
+    "effective_date": "2019-04-01",
+    "citation_url": "https://revenue.nebraska.gov/businesses/marketplace-facilitator-information"
+  },
+  {
+    "state": "NJ",
+    "facilitator_collects": true,
+    "seller_still_files": false,
+    "counts_toward_seller_nexus": true,
+    "threshold_usd": 100000.0,
+    "effective_date": "2018-11-01",
+    "citation_url": "https://www.nj.gov/treasury/taxation/marketplaces.shtml"
+  },
+  {
+    "state": "NM",
+    "facilitator_collects": true,
+    "seller_still_files": false,
+    "counts_toward_seller_nexus": false,
+    "threshold_usd": 100000.0,
+    "effective_date": "2019-07-01",
+    "citation_url": "https://www.tax.newmexico.gov/businesses/marketplace-providers/"
+  },
+  {
+    "state": "NV",
+    "facilitator_collects": true,
+    "seller_still_files": false,
+    "counts_toward_seller_nexus": false,
+    "threshold_usd": 100000.0,
+    "effective_date": "2019-10-01",
+    "citation_url": "https://tax.nv.gov/Publications/Marketplace_Facilitators_FAQs/"
+  },
+  {
+    "state": "NY",
+    "facilitator_collects": true,
+    "seller_still_files": false,
+    "counts_toward_seller_nexus": true,
+    "threshold_usd": 500000.0,
+    "effective_date": "2019-06-01",
+    "citation_url": "https://www.tax.ny.gov/pdf/memos/sales/m19_2s.pdf"
+  },
+  {
+    "state": "OH",
+    "facilitator_collects": true,
+    "seller_still_files": false,
+    "counts_toward_seller_nexus": false,
+    "threshold_usd": 100000.0,
+    "effective_date": "2019-09-01",
+    "citation_url": "https://tax.ohio.gov/business/ohio-business-taxes/sales-and-use/general-information/marketplace-facilitators"
+  },
+  {
+    "state": "OK",
+    "facilitator_collects": true,
+    "seller_still_files": false,
+    "counts_toward_seller_nexus": false,
+    "threshold_usd": 100000.0,
+    "effective_date": "2018-07-01",
+    "citation_url": "https://oklahoma.gov/tax/businesses/tax-types/business-sales-tax.html"
+  },
+  {
+    "state": "PA",
+    "facilitator_collects": true,
+    "seller_still_files": false,
+    "counts_toward_seller_nexus": false,
+    "threshold_usd": 100000.0,
+    "effective_date": "2019-07-01",
+    "citation_url": "https://www.revenue.pa.gov/TaxTypes/SUT/Pages/Marketplace-Sales.aspx"
+  },
+  {
+    "state": "RI",
+    "facilitator_collects": true,
+    "seller_still_files": false,
+    "counts_toward_seller_nexus": false,
+    "threshold_usd": 100000.0,
+    "effective_date": "2019-07-01",
+    "citation_url": "https://tax.ri.gov/business/marketplace-facilitator"
+  },
+  {
+    "state": "SC",
+    "facilitator_collects": true,
+    "seller_still_files": false,
+    "counts_toward_seller_nexus": false,
+    "threshold_usd": 100000.0,
+    "effective_date": "2019-04-26",
+    "citation_url": "https://dor.sc.gov/tax-index/sales-and-use/marketplace-facilitators"
+  },
+  {
+    "state": "SD",
+    "facilitator_collects": true,
+    "seller_still_files": false,
+    "counts_toward_seller_nexus": false,
+    "threshold_usd": 100000.0,
+    "effective_date": "2019-03-01",
+    "citation_url": "https://dor.sd.gov/businesses/taxes/sales-use-tax/marketplace-providers/"
+  },
+  {
+    "state": "TN",
+    "facilitator_collects": true,
+    "seller_still_files": false,
+    "counts_toward_seller_nexus": false,
+    "threshold_usd": 100000.0,
+    "effective_date": "2020-10-01",
+    "citation_url": "https://www.tn.gov/revenue/taxes/sales-and-use-tax/marketplace-facilitators.html"
+  },
+  {
+    "state": "TX",
+    "facilitator_collects": true,
+    "seller_still_files": false,
+    "counts_toward_seller_nexus": false,
+    "threshold_usd": 500000.0,
+    "effective_date": "2019-10-01",
+    "citation_url": "https://comptroller.texas.gov/taxes/sales/remote-sellers.php"
+  },
+  {
+    "state": "UT",
+    "facilitator_collects": true,
+    "seller_still_files": false,
+    "counts_toward_seller_nexus": false,
+    "threshold_usd": 100000.0,
+    "effective_date": "2019-10-01",
+    "citation_url": "https://tax.utah.gov/sales/marketplace"
+  },
+  {
+    "state": "VA",
+    "facilitator_collects": true,
+    "seller_still_files": false,
+    "counts_toward_seller_nexus": false,
+    "threshold_usd": 100000.0,
+    "effective_date": "2019-07-01",
+    "citation_url": "https://www.tax.virginia.gov/remote-sellers-marketplace-facilitators-and-economic-nexus"
+  },
+  {
+    "state": "VT",
+    "facilitator_collects": true,
+    "seller_still_files": false,
+    "counts_toward_seller_nexus": false,
+    "threshold_usd": 100000.0,
+    "effective_date": "2019-06-07",
+    "citation_url": "https://tax.vermont.gov/business/sales-and-use-tax/marketplace-facilitators"
+  },
+  {
+    "state": "WA",
+    "facilitator_collects": true,
+    "seller_still_files": false,
+    "counts_toward_seller_nexus": false,
+    "threshold_usd": 100000.0,
+    "effective_date": "2018-01-01",
+    "citation_url": "https://dor.wa.gov/find-taxes-rates/retail-sales-tax/marketplace-fairness-leveling-playing-field"
+  },
+  {
+    "state": "WI",
+    "facilitator_collects": true,
+    "seller_still_files": false,
+    "counts_toward_seller_nexus": false,
+    "threshold_usd": 100000.0,
+    "effective_date": "2020-01-01",
+    "citation_url": "https://www.revenue.wi.gov/Pages/FAQS/pcs-marketplaceproviders.aspx"
+  },
+  {
+    "state": "WV",
+    "facilitator_collects": true,
+    "seller_still_files": false,
+    "counts_toward_seller_nexus": false,
+    "threshold_usd": 100000.0,
+    "effective_date": "2019-07-01",
+    "citation_url": "https://tax.wv.gov/Documents/TSD/tsd435.pdf"
+  },
+  {
+    "state": "WY",
+    "facilitator_collects": true,
+    "seller_still_files": false,
+    "counts_toward_seller_nexus": false,
+    "threshold_usd": 100000.0,
+    "effective_date": "2019-07-01",
+    "citation_url": "https://revenue.wyo.gov/excise-tax-division/marketplace-facilitators"
+  }
+]

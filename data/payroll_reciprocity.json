@@ -1,0 +1,226 @@
+[
+  {
+    "state_a": "DC",
+    "state_b": "VA",
+    "direction": "mutual",
+    "citation_url": "https://otr.cfo.dc.gov/",
+    "notes": null,
+    "as_of": "2026-05-26"
+  },
+  {
+    "state_a": "IL",
+    "state_b": "IA",
+    "direction": "mutual",
+    "citation_url": "https://tax.illinois.gov/",
+    "notes": null,
+    "as_of": "2026-05-26"
+  },
+  {
+    "state_a": "IL",
+    "state_b": "KY",
+    "direction": "mutual",
+    "citation_url": "https://tax.illinois.gov/",
+    "notes": null,
+    "as_of": "2026-05-26"
+  },
+  {
+    "state_a": "IL",
+    "state_b": "MI",
+    "direction": "mutual",
+    "citation_url": "https://tax.illinois.gov/",
+    "notes": null,
+    "as_of": "2026-05-26"
+  },
+  {
+    "state_a": "IL",
+    "state_b": "WI",
+    "direction": "mutual",
+    "citation_url": "https://tax.illinois.gov/",
+    "notes": null,
+    "as_of": "2026-05-26"
+  },
+  {
+    "state_a": "IN",
+    "state_b": "KY",
+    "direction": "mutual",
+    "citation_url": "https://www.in.gov/dor/",
+    "notes": null,
+    "as_of": "2026-05-26"
+  },
+  {
+    "state_a": "IN",
+    "state_b": "MI",
+    "direction": "mutual",
+    "citation_url": "https://www.in.gov/dor/",
+    "notes": null,
+    "as_of": "2026-05-26"
+  },
+  {
+    "state_a": "IN",
+    "state_b": "WI",
+    "direction": "mutual",
+    "citation_url": "https://www.in.gov/dor/",
+    "notes": null,
+    "as_of": "2026-05-26"
+  },
+  {
+    "state_a": "KY",
+    "state_b": "MI",
+    "direction": "mutual",
+    "citation_url": "https://revenue.ky.gov/",
+    "notes": null,
+    "as_of": "2026-05-26"
+  },
+  {
+    "state_a": "KY",
+    "state_b": "VA",
+    "direction": "mutual",
+    "citation_url": "https://revenue.ky.gov/",
+    "notes": null,
+    "as_of": "2026-05-26"
+  },
+  {
+    "state_a": "KY",
+    "state_b": "WI",
+    "direction": "mutual",
+    "citation_url": "https://revenue.ky.gov/",
+    "notes": null,
+    "as_of": "2026-05-26"
+  },
+  {
+    "state_a": "KY",
+    "state_b": "WV",
+    "direction": "mutual",
+    "citation_url": "https://revenue.ky.gov/",
+    "notes": null,
+    "as_of": "2026-05-26"
+  },
+  {
+    "state_a": "MD",
+    "state_b": "DC",
+    "direction": "mutual",
+    "citation_url": "https://www.marylandtaxes.gov/",
+    "notes": null,
+    "as_of": "2026-05-26"
+  },
+  {
+    "state_a": "MD",
+    "state_b": "VA",
+    "direction": "mutual",
+    "citation_url": "https://www.marylandtaxes.gov/",
+    "notes": null,
+    "as_of": "2026-05-26"
+  },
+  {
+    "state_a": "MD",
+    "state_b": "WV",
+    "direction": "mutual",
+    "citation_url": "https://www.marylandtaxes.gov/",
+    "notes": null,
+    "as_of": "2026-05-26"
+  },
+  {
+    "state_a": "MI",
+    "state_b": "MN",
+    "direction": "mutual",
+    "citation_url": "https://www.michigan.gov/treasury",
+    "notes": null,
+    "as_of": "2026-05-26"
+  },
+  {
+    "state_a": "MI",
+    "state_b": "WI",
+    "direction": "mutual",
+    "citation_url": "https://www.michigan.gov/treasury",
+    "notes": null,
+    "as_of": "2026-05-26"
+  },
+  {
+    "state_a": "OH",
+    "state_b": "IN",
+    "direction": "mutual",
+    "citation_url": "https://tax.ohio.gov/",
+    "notes": null,
+    "as_of": "2026-05-26"
+  },
+  {
+    "state_a": "OH",
+    "state_b": "KY",
+    "direction": "mutual",
+    "citation_url": "https://tax.ohio.gov/",
+    "notes": null,
+    "as_of": "2026-05-26"
+  },
+  {
+    "state_a": "OH",
+    "state_b": "MI",
+    "direction": "mutual",
+    "citation_url": "https://tax.ohio.gov/",
+    "notes": null,
+    "as_of": "2026-05-26"
+  },
+  {
+    "state_a": "OH",
+    "state_b": "WV",
+    "direction": "mutual",
+    "citation_url": "https://tax.ohio.gov/",
+    "notes": null,
+    "as_of": "2026-05-26"
+  },
+  {
+    "state_a": "PA",
+    "state_b": "IN",
+    "direction": "mutual",
+    "citation_url": "https://www.revenue.pa.gov/",
+    "notes": null,
+    "as_of": "2026-05-26"
+  },
+  {
+    "state_a": "PA",
+    "state_b": "MD",
+    "direction": "mutual",
+    "citation_url": "https://www.revenue.pa.gov/",
+    "notes": null,
+    "as_of": "2026-05-26"
+  },
+  {
+    "state_a": "PA",
+    "state_b": "NJ",
+    "direction": "mutual",
+    "citation_url": "https://www.revenue.pa.gov/",
+    "notes": null,
+    "as_of": "2026-05-26"
+  },
+  {
+    "state_a": "PA",
+    "state_b": "OH",
+    "direction": "mutual",
+    "citation_url": "https://www.revenue.pa.gov/",
+    "notes": null,
+    "as_of": "2026-05-26"
+  },
+  {
+    "state_a": "PA",
+    "state_b": "VA",
+    "direction": "mutual",
+    "citation_url": "https://www.revenue.pa.gov/",
+    "notes": null,
+    "as_of": "2026-05-26"
+  },
+  {
+    "state_a": "PA",
+    "state_b": "WV",
+    "direction": "mutual",
+    "citation_url": "https://www.revenue.pa.gov/",
+    "notes": null,
+    "as_of": "2026-05-26"
+  },
+  {
+    "state_a": "VA",
+    "state_b": "WV",
+    "direction": "mutual",
+    "citation_url": "https://www.tax.virginia.gov/",
+    "notes": null,
+    "as_of": "2026-05-26"
+  }
+]
