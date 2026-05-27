@@ -125,7 +125,14 @@ experience-rated and assigned by the state UI agency annually.
 | `courtesy_withholding` | whether the state publishes a courtesy-withholding flag |
 | `citation_url` | state DOR / local agency |
 
-Coverage rolls out in phases — PA, MD, IN, NYC, DC first; OH / MI / KY / MO / DE next.
+**Local income tax coverage (3,662 rows, 8 states):** PA (2,627 PSDs) ·
+OH (890 munis: RITA + CCA + DOR self-administered) · IN (92 counties) ·
+MD (24 counties) · MI (24 cities) · NY (NYC + Yonkers) · MO (KC + STL) ·
+DE (Wilmington). **The remaining ~8 states with some local income tax are
+not yet covered** (KY, IA, OR, AL, CO, WV, KS, NJ-Newark); the other ~34
+states have no local income tax at all. **Read [`PAYROLL-COVERAGE.md`](./PAYROLL-COVERAGE.md)
+before relying on this data for withholding** — it documents every gap and
+the disclaimer in detail.
 
 ### `payroll_reciprocity` — state income-tax reciprocity agreements
 | column | description |
