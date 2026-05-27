@@ -1,52 +1,52 @@
 year,state,tax_type,flat_rate,top_marginal,bracket_summary,supplemental_rate,citation_url,notes,as_of
-2025,AK,none,,,,,https://tax.alaska.gov/,Alaska has no state personal income tax.,2026-05-26
-2025,AL,progressive,,0.05,,0.05,https://www.revenue.alabama.gov/,Alabama 2/4/5% brackets (top 5%).,2026-05-26
-2025,AR,progressive,,0.039,,0.039,https://www.dfa.arkansas.gov/,Arkansas top marginal 3.9% in 2025 (reduced from 4.4%).,2026-05-26
-2025,AZ,flat,0.025,,,0.025,https://azdor.gov/,Arizona flat 2.5% since 2023.,2026-05-26
-2025,CA,progressive,,0.133,,0.066,https://www.ftb.ca.gov/,California 1–12.3% + 1% Mental Health Services surcharge above $1M (top effective 13.3% / 14.4% with 1.1% SDI).,2026-05-26
-2025,CO,flat,0.044,,,0.044,https://tax.colorado.gov/,Colorado flat 4.40% (Prop 121 reduction).,2026-05-26
-2025,CT,progressive,,0.0699,,0.0699,https://portal.ct.gov/drs,Connecticut top marginal 6.99%.,2026-05-26
-2025,DC,progressive,,0.1075,,0.1075,https://otr.cfo.dc.gov/,District of Columbia top marginal 10.75%.,2026-05-26
-2025,DE,progressive,,0.066,,0.066,https://revenue.delaware.gov/,Delaware top marginal 6.6%.,2026-05-26
-2025,FL,none,,,,,https://floridarevenue.com/,Florida has no state personal income tax.,2026-05-26
-2025,GA,flat,0.0539,,,0.0539,https://dor.georgia.gov/,Georgia flat 5.39% in 2025; scheduled to drop toward 4.99%.,2026-05-26
-2025,HI,progressive,,0.11,,0.11,https://tax.hawaii.gov/,Hawaii top marginal 11.0%.,2026-05-26
-2025,IA,flat,0.038,,,0.06,https://tax.iowa.gov/,Iowa flat 3.80% in 2025 (HF 2317 transition; previously progressive).,2026-05-26
-2025,ID,flat,0.05695,,,0.05695,https://tax.idaho.gov/,Idaho flat 5.695% since 2023.,2026-05-26
-2025,IL,flat,0.0495,,,0.0495,https://tax.illinois.gov/,Illinois flat 4.95%.,2026-05-26
-2025,IN,flat,0.03,,,0.03,https://www.in.gov/dor/,Indiana flat 3.00% in 2025 (dropping per HB 1001 schedule). Counties add separately — see payroll_local_income_tax.,2026-05-26
-2025,KS,progressive,,0.0558,,0.05,https://www.ksrevenue.gov/,Kansas 5.20%/5.58% brackets (recent reform).,2026-05-26
-2025,KY,flat,0.04,,,0.04,https://revenue.ky.gov/,Kentucky flat 4.0% in 2025 (down from 4.5%).,2026-05-26
-2025,LA,flat,0.03,,,0.03,https://revenue.louisiana.gov/,"Louisiana converted to flat 3.0% effective 2025 (HB 10, 2024).",2026-05-26
-2025,MA,progressive,,0.09,,0.05,https://www.mass.gov/orgs/massachusetts-department-of-revenue,Massachusetts 5% flat + 4% surtax on income > $1M = top 9%.,2026-05-26
-2025,MD,progressive,,0.0575,,0.0575,https://www.marylandtaxes.gov/,Maryland state 2–5.75%; counties add piggyback rates (see payroll_local_income_tax).,2026-05-26
-2025,ME,progressive,,0.0715,,0.0715,https://www.maine.gov/revenue,Maine top marginal 7.15%.,2026-05-26
-2025,MI,flat,0.0425,,,0.0425,https://www.michigan.gov/treasury,Michigan flat 4.25%.,2026-05-26
-2025,MN,progressive,,0.0985,,0.0625,https://www.revenue.state.mn.us/,Minnesota top marginal 9.85%.,2026-05-26
-2025,MO,progressive,,0.047,,0.047,https://dor.mo.gov/,Missouri top marginal 4.7% in 2025 (reduced from 4.95%).,2026-05-26
-2025,MS,flat,0.047,,,0.047,https://www.dor.ms.gov/,Mississippi flat 4.7% in 2025 (transitioning to lower rates).,2026-05-26
-2025,MT,progressive,,0.059,,0.059,https://mtrevenue.gov/,Montana top marginal 5.9% (two-bracket structure as of 2024).,2026-05-26
-2025,NC,flat,0.045,,,0.045,https://www.ncdor.gov/,North Carolina flat 4.5% in 2025 (dropping to 4.25% in 2026).,2026-05-26
-2025,ND,progressive,,0.025,,0.025,https://www.tax.nd.gov/,North Dakota top marginal 2.50% (lowest progressive).,2026-05-26
-2025,NE,progressive,,0.052,,0.052,https://revenue.nebraska.gov/,Nebraska top marginal 5.20% in 2025 (LB 873 transition toward flat 3.99%).,2026-05-26
-2025,NH,none,,,,,https://www.revenue.nh.gov/,New Hampshire's Interest & Dividends Tax was repealed effective 2025; no state wage tax.,2026-05-26
-2025,NJ,progressive,,0.1075,,0.1075,https://www.state.nj.us/treasury/taxation/,New Jersey top marginal 10.75%.,2026-05-26
-2025,NM,progressive,,0.059,,0.059,https://www.tax.newmexico.gov/,New Mexico top marginal 5.9%.,2026-05-26
-2025,NV,none,,,,,https://tax.nv.gov/,Nevada has no state personal income tax.,2026-05-26
-2025,NY,progressive,,0.109,,0.117,https://www.tax.ny.gov/,New York top marginal 10.9% (millionaires' tax). NYC and Yonkers add separately — see payroll_local_income_tax.,2026-05-26
-2025,OH,progressive,,0.035,,0.035,https://tax.ohio.gov/,Ohio top marginal 3.5% (recent reductions). Municipalities add separately — see payroll_local_income_tax (Phase 3).,2026-05-26
-2025,OK,progressive,,0.0475,,0.0475,https://oklahoma.gov/tax.html,Oklahoma top marginal 4.75%.,2026-05-26
-2025,OR,progressive,,0.099,,0.08,https://www.oregon.gov/dor,Oregon top marginal 9.9%.,2026-05-26
-2025,PA,flat,0.0307,,,0.0307,https://www.revenue.pa.gov/,Pennsylvania flat 3.07% (long-standing). Local EIT/LST add separately — see payroll_local_income_tax.,2026-05-26
-2025,RI,progressive,,0.0599,,0.0599,https://tax.ri.gov/,Rhode Island top marginal 5.99%.,2026-05-26
-2025,SC,progressive,,0.062,,0.062,https://dor.sc.gov/,South Carolina top marginal 6.2% in 2025 (reduced from 7%).,2026-05-26
-2025,SD,none,,,,,https://dor.sd.gov/,South Dakota has no state personal income tax.,2026-05-26
-2025,TN,none,,,,,https://www.tn.gov/revenue.html,Tennessee has no state personal income tax (Hall tax repealed 2021).,2026-05-26
-2025,TX,none,,,,,https://comptroller.texas.gov/,Texas has no state personal income tax.,2026-05-26
-2025,UT,flat,0.0455,,,0.0455,https://tax.utah.gov/,Utah flat 4.55% in 2025 (down from 4.65%).,2026-05-26
-2025,VA,progressive,,0.0575,,0.0575,https://www.tax.virginia.gov/,Virginia top marginal 5.75%.,2026-05-26
-2025,VT,progressive,,0.0875,,0.0875,https://tax.vermont.gov/,Vermont top marginal 8.75%.,2026-05-26
-2025,WA,none,,,,,https://dor.wa.gov/,Washington has no state personal income tax (capital-gains tax only).,2026-05-26
-2025,WI,progressive,,0.0765,,0.0765,https://www.revenue.wi.gov/,Wisconsin top marginal 7.65%.,2026-05-26
-2025,WV,progressive,,0.0482,,0.0482,https://tax.wv.gov/,West Virginia top marginal 4.82% in 2025 (reduced from 6.5%).,2026-05-26
-2025,WY,none,,,,,https://revenue.wyo.gov/,Wyoming has no state personal income tax.,2026-05-26
+2025,AK,none,,,,,https://tax.alaska.gov/,Alaska has no state personal income tax.,2026-05-27
+2025,AL,progressive,,0.05,,0.05,https://www.revenue.alabama.gov/,Alabama 2/4/5% brackets (top 5%).,2026-05-27
+2025,AR,progressive,,0.039,,0.039,https://www.dfa.arkansas.gov/,Arkansas top marginal 3.9% in 2025 (reduced from 4.4%).,2026-05-27
+2025,AZ,flat,0.025,,,0.025,https://azdor.gov/,Arizona flat 2.5% since 2023.,2026-05-27
+2025,CA,progressive,,0.133,,0.066,https://www.ftb.ca.gov/,California 1–12.3% + 1% Mental Health Services surcharge above $1M (top effective 13.3% / 14.4% with 1.1% SDI).,2026-05-27
+2025,CO,flat,0.044,,,0.044,https://tax.colorado.gov/,Colorado flat 4.40% (Prop 121 reduction).,2026-05-27
+2025,CT,progressive,,0.0699,,0.0699,https://portal.ct.gov/drs,Connecticut top marginal 6.99%.,2026-05-27
+2025,DC,progressive,,0.1075,,0.1075,https://otr.cfo.dc.gov/,District of Columbia top marginal 10.75%.,2026-05-27
+2025,DE,progressive,,0.066,,0.066,https://revenue.delaware.gov/,Delaware top marginal 6.6%.,2026-05-27
+2025,FL,none,,,,,https://floridarevenue.com/,Florida has no state personal income tax.,2026-05-27
+2025,GA,flat,0.0539,,,0.0539,https://dor.georgia.gov/,Georgia flat 5.39% in 2025; scheduled to drop toward 4.99%.,2026-05-27
+2025,HI,progressive,,0.11,,0.11,https://tax.hawaii.gov/,Hawaii top marginal 11.0%.,2026-05-27
+2025,IA,flat,0.038,,,0.06,https://tax.iowa.gov/,Iowa flat 3.80% in 2025 (HF 2317 transition; previously progressive).,2026-05-27
+2025,ID,flat,0.05695,,,0.05695,https://tax.idaho.gov/,Idaho flat 5.695% since 2023.,2026-05-27
+2025,IL,flat,0.0495,,,0.0495,https://tax.illinois.gov/,Illinois flat 4.95%.,2026-05-27
+2025,IN,flat,0.03,,,0.03,https://www.in.gov/dor/,Indiana flat 3.00% in 2025 (dropping per HB 1001 schedule). Counties add separately — see payroll_local_income_tax.,2026-05-27
+2025,KS,progressive,,0.0558,,0.05,https://www.ksrevenue.gov/,Kansas 5.20%/5.58% brackets (recent reform).,2026-05-27
+2025,KY,flat,0.04,,,0.04,https://revenue.ky.gov/,Kentucky flat 4.0% in 2025 (down from 4.5%).,2026-05-27
+2025,LA,flat,0.03,,,0.03,https://revenue.louisiana.gov/,"Louisiana converted to flat 3.0% effective 2025 (HB 10, 2024).",2026-05-27
+2025,MA,progressive,,0.09,,0.05,https://www.mass.gov/orgs/massachusetts-department-of-revenue,Massachusetts 5% flat + 4% surtax on income > $1M = top 9%.,2026-05-27
+2025,MD,progressive,,0.0575,,0.0575,https://www.marylandtaxes.gov/,Maryland state 2–5.75%; counties add piggyback rates (see payroll_local_income_tax).,2026-05-27
+2025,ME,progressive,,0.0715,,0.0715,https://www.maine.gov/revenue,Maine top marginal 7.15%.,2026-05-27
+2025,MI,flat,0.0425,,,0.0425,https://www.michigan.gov/treasury,Michigan flat 4.25%.,2026-05-27
+2025,MN,progressive,,0.0985,,0.0625,https://www.revenue.state.mn.us/,Minnesota top marginal 9.85%.,2026-05-27
+2025,MO,progressive,,0.047,,0.047,https://dor.mo.gov/,Missouri top marginal 4.7% in 2025 (reduced from 4.95%).,2026-05-27
+2025,MS,flat,0.047,,,0.047,https://www.dor.ms.gov/,Mississippi flat 4.7% in 2025 (transitioning to lower rates).,2026-05-27
+2025,MT,progressive,,0.059,,0.059,https://mtrevenue.gov/,Montana top marginal 5.9% (two-bracket structure as of 2024).,2026-05-27
+2025,NC,flat,0.045,,,0.045,https://www.ncdor.gov/,North Carolina flat 4.5% in 2025 (dropping to 4.25% in 2026).,2026-05-27
+2025,ND,progressive,,0.025,,0.025,https://www.tax.nd.gov/,North Dakota top marginal 2.50% (lowest progressive).,2026-05-27
+2025,NE,progressive,,0.052,,0.052,https://revenue.nebraska.gov/,Nebraska top marginal 5.20% in 2025 (LB 873 transition toward flat 3.99%).,2026-05-27
+2025,NH,none,,,,,https://www.revenue.nh.gov/,New Hampshire's Interest & Dividends Tax was repealed effective 2025; no state wage tax.,2026-05-27
+2025,NJ,progressive,,0.1075,,0.1075,https://www.state.nj.us/treasury/taxation/,New Jersey top marginal 10.75%.,2026-05-27
+2025,NM,progressive,,0.059,,0.059,https://www.tax.newmexico.gov/,New Mexico top marginal 5.9%.,2026-05-27
+2025,NV,none,,,,,https://tax.nv.gov/,Nevada has no state personal income tax.,2026-05-27
+2025,NY,progressive,,0.109,,0.117,https://www.tax.ny.gov/,New York top marginal 10.9% (millionaires' tax). NYC and Yonkers add separately — see payroll_local_income_tax.,2026-05-27
+2025,OH,progressive,,0.035,,0.035,https://tax.ohio.gov/,Ohio top marginal 3.5% (recent reductions). Municipalities add separately — see payroll_local_income_tax (Phase 3).,2026-05-27
+2025,OK,progressive,,0.0475,,0.0475,https://oklahoma.gov/tax.html,Oklahoma top marginal 4.75%.,2026-05-27
+2025,OR,progressive,,0.099,,0.08,https://www.oregon.gov/dor,Oregon top marginal 9.9%.,2026-05-27
+2025,PA,flat,0.0307,,,0.0307,https://www.revenue.pa.gov/,Pennsylvania flat 3.07% (long-standing). Local EIT/LST add separately — see payroll_local_income_tax.,2026-05-27
+2025,RI,progressive,,0.0599,,0.0599,https://tax.ri.gov/,Rhode Island top marginal 5.99%.,2026-05-27
+2025,SC,progressive,,0.062,,0.062,https://dor.sc.gov/,South Carolina top marginal 6.2% in 2025 (reduced from 7%).,2026-05-27
+2025,SD,none,,,,,https://dor.sd.gov/,South Dakota has no state personal income tax.,2026-05-27
+2025,TN,none,,,,,https://www.tn.gov/revenue.html,Tennessee has no state personal income tax (Hall tax repealed 2021).,2026-05-27
+2025,TX,none,,,,,https://comptroller.texas.gov/,Texas has no state personal income tax.,2026-05-27
+2025,UT,flat,0.0455,,,0.0455,https://tax.utah.gov/,Utah flat 4.55% in 2025 (down from 4.65%).,2026-05-27
+2025,VA,progressive,,0.0575,,0.0575,https://www.tax.virginia.gov/,Virginia top marginal 5.75%.,2026-05-27
+2025,VT,progressive,,0.0875,,0.0875,https://tax.vermont.gov/,Vermont top marginal 8.75%.,2026-05-27
+2025,WA,none,,,,,https://dor.wa.gov/,Washington has no state personal income tax (capital-gains tax only).,2026-05-27
+2025,WI,progressive,,0.0765,,0.0765,https://www.revenue.wi.gov/,Wisconsin top marginal 7.65%.,2026-05-27
+2025,WV,progressive,,0.0482,,0.0482,https://tax.wv.gov/,West Virginia top marginal 4.82% in 2025 (reduced from 6.5%).,2026-05-27
+2025,WY,none,,,,,https://revenue.wyo.gov/,Wyoming has no state personal income tax.,2026-05-27

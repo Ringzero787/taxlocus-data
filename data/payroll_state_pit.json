@@ -9,7 +9,7 @@
     "supplemental_rate": null,
     "citation_url": "https://tax.alaska.gov/",
     "notes": "Alaska has no state personal income tax.",
-    "as_of": "2026-05-26"
+    "as_of": "2026-05-27"
   },
   {
     "year": 2025,
@@ -21,7 +21,7 @@
     "supplemental_rate": 0.05,
     "citation_url": "https://www.revenue.alabama.gov/",
     "notes": "Alabama 2/4/5% brackets (top 5%).",
-    "as_of": "2026-05-26"
+    "as_of": "2026-05-27"
   },
   {
     "year": 2025,
@@ -33,7 +33,7 @@
     "supplemental_rate": 0.039,
     "citation_url": "https://www.dfa.arkansas.gov/",
     "notes": "Arkansas top marginal 3.9% in 2025 (reduced from 4.4%).",
-    "as_of": "2026-05-26"
+    "as_of": "2026-05-27"
   },
   {
     "year": 2025,
@@ -45,7 +45,7 @@
     "supplemental_rate": 0.025,
     "citation_url": "https://azdor.gov/",
     "notes": "Arizona flat 2.5% since 2023.",
-    "as_of": "2026-05-26"
+    "as_of": "2026-05-27"
   },
   {
     "year": 2025,
@@ -57,7 +57,7 @@
     "supplemental_rate": 0.066,
     "citation_url": "https://www.ftb.ca.gov/",
     "notes": "California 1–12.3% + 1% Mental Health Services surcharge above $1M (top effective 13.3% / 14.4% with 1.1% SDI).",
-    "as_of": "2026-05-26"
+    "as_of": "2026-05-27"
   },
   {
     "year": 2025,
@@ -69,7 +69,7 @@
     "supplemental_rate": 0.044,
     "citation_url": "https://tax.colorado.gov/",
     "notes": "Colorado flat 4.40% (Prop 121 reduction).",
-    "as_of": "2026-05-26"
+    "as_of": "2026-05-27"
   },
   {
     "year": 2025,
@@ -81,7 +81,7 @@
     "supplemental_rate": 0.0699,
     "citation_url": "https://portal.ct.gov/drs",
     "notes": "Connecticut top marginal 6.99%.",
-    "as_of": "2026-05-26"
+    "as_of": "2026-05-27"
   },
   {
     "year": 2025,
@@ -93,7 +93,7 @@
     "supplemental_rate": 0.1075,
     "citation_url": "https://otr.cfo.dc.gov/",
     "notes": "District of Columbia top marginal 10.75%.",
-    "as_of": "2026-05-26"
+    "as_of": "2026-05-27"
   },
   {
     "year": 2025,
@@ -105,7 +105,7 @@
     "supplemental_rate": 0.066,
     "citation_url": "https://revenue.delaware.gov/",
     "notes": "Delaware top marginal 6.6%.",
-    "as_of": "2026-05-26"
+    "as_of": "2026-05-27"
   },
   {
     "year": 2025,
@@ -117,7 +117,7 @@
     "supplemental_rate": null,
     "citation_url": "https://floridarevenue.com/",
     "notes": "Florida has no state personal income tax.",
-    "as_of": "2026-05-26"
+    "as_of": "2026-05-27"
   },
   {
     "year": 2025,
@@ -129,7 +129,7 @@
     "supplemental_rate": 0.0539,
     "citation_url": "https://dor.georgia.gov/",
     "notes": "Georgia flat 5.39% in 2025; scheduled to drop toward 4.99%.",
-    "as_of": "2026-05-26"
+    "as_of": "2026-05-27"
   },
   {
     "year": 2025,
@@ -141,7 +141,7 @@
     "supplemental_rate": 0.11,
     "citation_url": "https://tax.hawaii.gov/",
     "notes": "Hawaii top marginal 11.0%.",
-    "as_of": "2026-05-26"
+    "as_of": "2026-05-27"
   },
   {
     "year": 2025,
@@ -153,7 +153,7 @@
     "supplemental_rate": 0.06,
     "citation_url": "https://tax.iowa.gov/",
     "notes": "Iowa flat 3.80% in 2025 (HF 2317 transition; previously progressive).",
-    "as_of": "2026-05-26"
+    "as_of": "2026-05-27"
   },
   {
     "year": 2025,
@@ -165,7 +165,7 @@
     "supplemental_rate": 0.05695,
     "citation_url": "https://tax.idaho.gov/",
     "notes": "Idaho flat 5.695% since 2023.",
-    "as_of": "2026-05-26"
+    "as_of": "2026-05-27"
   },
   {
     "year": 2025,
@@ -177,7 +177,7 @@
     "supplemental_rate": 0.0495,
     "citation_url": "https://tax.illinois.gov/",
     "notes": "Illinois flat 4.95%.",
-    "as_of": "2026-05-26"
+    "as_of": "2026-05-27"
   },
   {
     "year": 2025,
@@ -189,7 +189,7 @@
     "supplemental_rate": 0.03,
     "citation_url": "https://www.in.gov/dor/",
     "notes": "Indiana flat 3.00% in 2025 (dropping per HB 1001 schedule). Counties add separately — see payroll_local_income_tax.",
-    "as_of": "2026-05-26"
+    "as_of": "2026-05-27"
   },
   {
     "year": 2025,
@@ -201,7 +201,7 @@
     "supplemental_rate": 0.05,
     "citation_url": "https://www.ksrevenue.gov/",
     "notes": "Kansas 5.20%/5.58% brackets (recent reform).",
-    "as_of": "2026-05-26"
+    "as_of": "2026-05-27"
   },
   {
     "year": 2025,
@@ -213,7 +213,7 @@
     "supplemental_rate": 0.04,
     "citation_url": "https://revenue.ky.gov/",
     "notes": "Kentucky flat 4.0% in 2025 (down from 4.5%).",
-    "as_of": "2026-05-26"
+    "as_of": "2026-05-27"
   },
   {
     "year": 2025,
@@ -225,7 +225,7 @@
     "supplemental_rate": 0.03,
     "citation_url": "https://revenue.louisiana.gov/",
     "notes": "Louisiana converted to flat 3.0% effective 2025 (HB 10, 2024).",
-    "as_of": "2026-05-26"
+    "as_of": "2026-05-27"
   },
   {
     "year": 2025,
@@ -237,7 +237,7 @@
     "supplemental_rate": 0.05,
     "citation_url": "https://www.mass.gov/orgs/massachusetts-department-of-revenue",
     "notes": "Massachusetts 5% flat + 4% surtax on income > $1M = top 9%.",
-    "as_of": "2026-05-26"
+    "as_of": "2026-05-27"
   },
   {
     "year": 2025,
@@ -249,7 +249,7 @@
     "supplemental_rate": 0.0575,
     "citation_url": "https://www.marylandtaxes.gov/",
     "notes": "Maryland state 2–5.75%; counties add piggyback rates (see payroll_local_income_tax).",
-    "as_of": "2026-05-26"
+    "as_of": "2026-05-27"
   },
   {
     "year": 2025,
@@ -261,7 +261,7 @@
     "supplemental_rate": 0.0715,
     "citation_url": "https://www.maine.gov/revenue",
     "notes": "Maine top marginal 7.15%.",
-    "as_of": "2026-05-26"
+    "as_of": "2026-05-27"
   },
   {
     "year": 2025,
@@ -273,7 +273,7 @@
     "supplemental_rate": 0.0425,
     "citation_url": "https://www.michigan.gov/treasury",
     "notes": "Michigan flat 4.25%.",
-    "as_of": "2026-05-26"
+    "as_of": "2026-05-27"
   },
   {
     "year": 2025,
@@ -285,7 +285,7 @@
     "supplemental_rate": 0.0625,
     "citation_url": "https://www.revenue.state.mn.us/",
     "notes": "Minnesota top marginal 9.85%.",
-    "as_of": "2026-05-26"
+    "as_of": "2026-05-27"
   },
   {
     "year": 2025,
@@ -297,7 +297,7 @@
     "supplemental_rate": 0.047,
     "citation_url": "https://dor.mo.gov/",
     "notes": "Missouri top marginal 4.7% in 2025 (reduced from 4.95%).",
-    "as_of": "2026-05-26"
+    "as_of": "2026-05-27"
   },
   {
     "year": 2025,
@@ -309,7 +309,7 @@
     "supplemental_rate": 0.047,
     "citation_url": "https://www.dor.ms.gov/",
     "notes": "Mississippi flat 4.7% in 2025 (transitioning to lower rates).",
-    "as_of": "2026-05-26"
+    "as_of": "2026-05-27"
   },
   {
     "year": 2025,
@@ -321,7 +321,7 @@
     "supplemental_rate": 0.059,
     "citation_url": "https://mtrevenue.gov/",
     "notes": "Montana top marginal 5.9% (two-bracket structure as of 2024).",
-    "as_of": "2026-05-26"
+    "as_of": "2026-05-27"
   },
   {
     "year": 2025,
@@ -333,7 +333,7 @@
     "supplemental_rate": 0.045,
     "citation_url": "https://www.ncdor.gov/",
     "notes": "North Carolina flat 4.5% in 2025 (dropping to 4.25% in 2026).",
-    "as_of": "2026-05-26"
+    "as_of": "2026-05-27"
   },
   {
     "year": 2025,
@@ -345,7 +345,7 @@
     "supplemental_rate": 0.025,
     "citation_url": "https://www.tax.nd.gov/",
     "notes": "North Dakota top marginal 2.50% (lowest progressive).",
-    "as_of": "2026-05-26"
+    "as_of": "2026-05-27"
   },
   {
     "year": 2025,
@@ -357,7 +357,7 @@
     "supplemental_rate": 0.052,
     "citation_url": "https://revenue.nebraska.gov/",
     "notes": "Nebraska top marginal 5.20% in 2025 (LB 873 transition toward flat 3.99%).",
-    "as_of": "2026-05-26"
+    "as_of": "2026-05-27"
   },
   {
     "year": 2025,
@@ -369,7 +369,7 @@
     "supplemental_rate": null,
     "citation_url": "https://www.revenue.nh.gov/",
     "notes": "New Hampshire's Interest & Dividends Tax was repealed effective 2025; no state wage tax.",
-    "as_of": "2026-05-26"
+    "as_of": "2026-05-27"
   },
   {
     "year": 2025,
@@ -381,7 +381,7 @@
     "supplemental_rate": 0.1075,
     "citation_url": "https://www.state.nj.us/treasury/taxation/",
     "notes": "New Jersey top marginal 10.75%.",
-    "as_of": "2026-05-26"
+    "as_of": "2026-05-27"
   },
   {
     "year": 2025,
@@ -393,7 +393,7 @@
     "supplemental_rate": 0.059,
     "citation_url": "https://www.tax.newmexico.gov/",
     "notes": "New Mexico top marginal 5.9%.",
-    "as_of": "2026-05-26"
+    "as_of": "2026-05-27"
   },
   {
     "year": 2025,
@@ -405,7 +405,7 @@
     "supplemental_rate": null,
     "citation_url": "https://tax.nv.gov/",
     "notes": "Nevada has no state personal income tax.",
-    "as_of": "2026-05-26"
+    "as_of": "2026-05-27"
   },
   {
     "year": 2025,
@@ -417,7 +417,7 @@
     "supplemental_rate": 0.117,
     "citation_url": "https://www.tax.ny.gov/",
     "notes": "New York top marginal 10.9% (millionaires' tax). NYC and Yonkers add separately — see payroll_local_income_tax.",
-    "as_of": "2026-05-26"
+    "as_of": "2026-05-27"
   },
   {
     "year": 2025,
@@ -429,7 +429,7 @@
     "supplemental_rate": 0.035,
     "citation_url": "https://tax.ohio.gov/",
     "notes": "Ohio top marginal 3.5% (recent reductions). Municipalities add separately — see payroll_local_income_tax (Phase 3).",
-    "as_of": "2026-05-26"
+    "as_of": "2026-05-27"
   },
   {
     "year": 2025,
@@ -441,7 +441,7 @@
     "supplemental_rate": 0.0475,
     "citation_url": "https://oklahoma.gov/tax.html",
     "notes": "Oklahoma top marginal 4.75%.",
-    "as_of": "2026-05-26"
+    "as_of": "2026-05-27"
   },
   {
     "year": 2025,
@@ -453,7 +453,7 @@
     "supplemental_rate": 0.08,
     "citation_url": "https://www.oregon.gov/dor",
     "notes": "Oregon top marginal 9.9%.",
-    "as_of": "2026-05-26"
+    "as_of": "2026-05-27"
   },
   {
     "year": 2025,
@@ -465,7 +465,7 @@
     "supplemental_rate": 0.0307,
     "citation_url": "https://www.revenue.pa.gov/",
     "notes": "Pennsylvania flat 3.07% (long-standing). Local EIT/LST add separately — see payroll_local_income_tax.",
-    "as_of": "2026-05-26"
+    "as_of": "2026-05-27"
   },
   {
     "year": 2025,
@@ -477,7 +477,7 @@
     "supplemental_rate": 0.0599,
     "citation_url": "https://tax.ri.gov/",
     "notes": "Rhode Island top marginal 5.99%.",
-    "as_of": "2026-05-26"
+    "as_of": "2026-05-27"
   },
   {
     "year": 2025,
@@ -489,7 +489,7 @@
     "supplemental_rate": 0.062,
     "citation_url": "https://dor.sc.gov/",
     "notes": "South Carolina top marginal 6.2% in 2025 (reduced from 7%).",
-    "as_of": "2026-05-26"
+    "as_of": "2026-05-27"
   },
   {
     "year": 2025,
@@ -501,7 +501,7 @@
     "supplemental_rate": null,
     "citation_url": "https://dor.sd.gov/",
     "notes": "South Dakota has no state personal income tax.",
-    "as_of": "2026-05-26"
+    "as_of": "2026-05-27"
   },
   {
     "year": 2025,
@@ -513,7 +513,7 @@
     "supplemental_rate": null,
     "citation_url": "https://www.tn.gov/revenue.html",
     "notes": "Tennessee has no state personal income tax (Hall tax repealed 2021).",
-    "as_of": "2026-05-26"
+    "as_of": "2026-05-27"
   },
   {
     "year": 2025,
@@ -525,7 +525,7 @@
     "supplemental_rate": null,
     "citation_url": "https://comptroller.texas.gov/",
     "notes": "Texas has no state personal income tax.",
-    "as_of": "2026-05-26"
+    "as_of": "2026-05-27"
   },
   {
     "year": 2025,
@@ -537,7 +537,7 @@
     "supplemental_rate": 0.0455,
     "citation_url": "https://tax.utah.gov/",
     "notes": "Utah flat 4.55% in 2025 (down from 4.65%).",
-    "as_of": "2026-05-26"
+    "as_of": "2026-05-27"
   },
   {
     "year": 2025,
@@ -549,7 +549,7 @@
     "supplemental_rate": 0.0575,
     "citation_url": "https://www.tax.virginia.gov/",
     "notes": "Virginia top marginal 5.75%.",
-    "as_of": "2026-05-26"
+    "as_of": "2026-05-27"
   },
   {
     "year": 2025,
@@ -561,7 +561,7 @@
     "supplemental_rate": 0.0875,
     "citation_url": "https://tax.vermont.gov/",
     "notes": "Vermont top marginal 8.75%.",
-    "as_of": "2026-05-26"
+    "as_of": "2026-05-27"
   },
   {
     "year": 2025,
@@ -573,7 +573,7 @@
     "supplemental_rate": null,
     "citation_url": "https://dor.wa.gov/",
     "notes": "Washington has no state personal income tax (capital-gains tax only).",
-    "as_of": "2026-05-26"
+    "as_of": "2026-05-27"
   },
   {
     "year": 2025,
@@ -585,7 +585,7 @@
     "supplemental_rate": 0.0765,
     "citation_url": "https://www.revenue.wi.gov/",
     "notes": "Wisconsin top marginal 7.65%.",
-    "as_of": "2026-05-26"
+    "as_of": "2026-05-27"
   },
   {
     "year": 2025,
@@ -597,7 +597,7 @@
     "supplemental_rate": 0.0482,
     "citation_url": "https://tax.wv.gov/",
     "notes": "West Virginia top marginal 4.82% in 2025 (reduced from 6.5%).",
-    "as_of": "2026-05-26"
+    "as_of": "2026-05-27"
   },
   {
     "year": 2025,
@@ -609,6 +609,6 @@
     "supplemental_rate": null,
     "citation_url": "https://revenue.wyo.gov/",
     "notes": "Wyoming has no state personal income tax.",
-    "as_of": "2026-05-26"
+    "as_of": "2026-05-27"
   }
 ]
