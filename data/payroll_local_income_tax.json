@@ -42338,7 +42338,7 @@
     "courtesy_withholding": false,
     "citation_url": "https://www.wilmingtonde.gov/government/finance",
     "notes": "Wilmington Earned Income Tax — 1.25% on residents and on anyone working in Wilmington.",
-    "as_of": "2026-05-26"
+    "as_of": "2026-05-27"
   },
   {
     "year": 2025,
@@ -42351,7 +42351,7 @@
     "courtesy_withholding": false,
     "citation_url": "https://www.michigan.gov/taxes/city-tax",
     "notes": "Standard 1.0%/0.5%.",
-    "as_of": "2026-05-26"
+    "as_of": "2026-05-27"
   },
   {
     "year": 2025,
@@ -42364,7 +42364,7 @@
     "courtesy_withholding": false,
     "citation_url": "https://www.michigan.gov/taxes/city-tax",
     "notes": "Standard 1.0%/0.5%.",
-    "as_of": "2026-05-26"
+    "as_of": "2026-05-27"
   },
   {
     "year": 2025,
@@ -42377,7 +42377,7 @@
     "courtesy_withholding": false,
     "citation_url": "https://www.michigan.gov/taxes/city-tax",
     "notes": "Standard 1.0%/0.5%.",
-    "as_of": "2026-05-26"
+    "as_of": "2026-05-27"
   },
   {
     "year": 2025,
@@ -42390,7 +42390,7 @@
     "courtesy_withholding": false,
     "citation_url": "https://www.michigan.gov/taxes/city-tax",
     "notes": "Detroit resident 2.4% / non-resident 1.2%.",
-    "as_of": "2026-05-26"
+    "as_of": "2026-05-27"
   },
   {
     "year": 2025,
@@ -42403,7 +42403,7 @@
     "courtesy_withholding": false,
     "citation_url": "https://www.michigan.gov/taxes/city-tax",
     "notes": "Standard 1.0%/0.5%.",
-    "as_of": "2026-05-26"
+    "as_of": "2026-05-27"
   },
   {
     "year": 2025,
@@ -42416,7 +42416,7 @@
     "courtesy_withholding": false,
     "citation_url": "https://www.michigan.gov/taxes/city-tax",
     "notes": "Standard 1.0%/0.5%.",
-    "as_of": "2026-05-26"
+    "as_of": "2026-05-27"
   },
   {
     "year": 2025,
@@ -42429,7 +42429,20 @@
     "courtesy_withholding": false,
     "citation_url": "https://www.michigan.gov/taxes/city-tax",
     "notes": "Grand Rapids resident 1.5% / non-resident 0.75%.",
-    "as_of": "2026-05-26"
+    "as_of": "2026-05-27"
+  },
+  {
+    "year": 2025,
+    "state": "MI",
+    "jurisdiction_type": "city",
+    "jurisdiction_name": "Grayling",
+    "geoid": null,
+    "resident_rate": 0.01,
+    "non_resident_rate": 0.005,
+    "courtesy_withholding": false,
+    "citation_url": "https://www.michigan.gov/taxes/city-tax",
+    "notes": "Standard 1.0%/0.5%.",
+    "as_of": "2026-05-27"
   },
   {
     "year": 2025,
@@ -42442,7 +42455,7 @@
     "courtesy_withholding": false,
     "citation_url": "https://www.michigan.gov/taxes/city-tax",
     "notes": "Standard 1.0%/0.5%.",
-    "as_of": "2026-05-26"
+    "as_of": "2026-05-27"
   },
   {
     "year": 2025,
@@ -42455,7 +42468,7 @@
     "courtesy_withholding": false,
     "citation_url": "https://www.michigan.gov/taxes/city-tax",
     "notes": "Highland Park resident 2.0% / non-resident 1.0%.",
-    "as_of": "2026-05-26"
+    "as_of": "2026-05-27"
   },
   {
     "year": 2025,
@@ -42468,7 +42481,7 @@
     "courtesy_withholding": false,
     "citation_url": "https://www.michigan.gov/taxes/city-tax",
     "notes": "Standard 1.0%/0.5%.",
-    "as_of": "2026-05-26"
+    "as_of": "2026-05-27"
   },
   {
     "year": 2025,
@@ -42481,7 +42494,20 @@
     "courtesy_withholding": false,
     "citation_url": "https://www.michigan.gov/taxes/city-tax",
     "notes": "Standard 1.0%/0.5%.",
-    "as_of": "2026-05-26"
+    "as_of": "2026-05-27"
+  },
+  {
+    "year": 2025,
+    "state": "MI",
+    "jurisdiction_type": "city",
+    "jurisdiction_name": "Ithaca",
+    "geoid": null,
+    "resident_rate": 0.01,
+    "non_resident_rate": 0.005,
+    "courtesy_withholding": false,
+    "citation_url": "https://www.michigan.gov/taxes/city-tax",
+    "notes": "Standard 1.0%/0.5%.",
+    "as_of": "2026-05-27"
   },
   {
     "year": 2025,
@@ -42494,7 +42520,7 @@
     "courtesy_withholding": false,
     "citation_url": "https://www.michigan.gov/taxes/city-tax",
     "notes": "Standard 1.0%/0.5%.",
-    "as_of": "2026-05-26"
+    "as_of": "2026-05-27"
   },
   {
     "year": 2025,
@@ -42507,7 +42533,7 @@
     "courtesy_withholding": false,
     "citation_url": "https://www.michigan.gov/taxes/city-tax",
     "notes": "Standard 1.0%/0.5%.",
-    "as_of": "2026-05-26"
+    "as_of": "2026-05-27"
   },
   {
     "year": 2025,
@@ -42520,7 +42546,7 @@
     "courtesy_withholding": false,
     "citation_url": "https://www.michigan.gov/taxes/city-tax",
     "notes": "Standard 1.0%/0.5%.",
-    "as_of": "2026-05-26"
+    "as_of": "2026-05-27"
   },
   {
     "year": 2025,
@@ -42533,7 +42559,7 @@
     "courtesy_withholding": false,
     "citation_url": "https://www.michigan.gov/taxes/city-tax",
     "notes": "Standard 1.0%/0.5%.",
-    "as_of": "2026-05-26"
+    "as_of": "2026-05-27"
   },
   {
     "year": 2025,
@@ -42546,7 +42572,7 @@
     "courtesy_withholding": false,
     "citation_url": "https://www.michigan.gov/taxes/city-tax",
     "notes": "Standard 1.0%/0.5%.",
-    "as_of": "2026-05-26"
+    "as_of": "2026-05-27"
   },
   {
     "year": 2025,
@@ -42559,7 +42585,7 @@
     "courtesy_withholding": false,
     "citation_url": "https://www.michigan.gov/taxes/city-tax",
     "notes": "Standard 1.0%/0.5%.",
-    "as_of": "2026-05-26"
+    "as_of": "2026-05-27"
   },
   {
     "year": 2025,
@@ -42572,7 +42598,7 @@
     "courtesy_withholding": false,
     "citation_url": "https://www.michigan.gov/taxes/city-tax",
     "notes": "Standard 1.0%/0.5%.",
-    "as_of": "2026-05-26"
+    "as_of": "2026-05-27"
   },
   {
     "year": 2025,
@@ -42585,7 +42611,7 @@
     "courtesy_withholding": false,
     "citation_url": "https://www.michigan.gov/taxes/city-tax",
     "notes": "Standard 1.0%/0.5%.",
-    "as_of": "2026-05-26"
+    "as_of": "2026-05-27"
   },
   {
     "year": 2025,
@@ -42598,7 +42624,7 @@
     "courtesy_withholding": false,
     "citation_url": "https://www.michigan.gov/taxes/city-tax",
     "notes": "Saginaw resident 1.5% / non-resident 0.75%.",
-    "as_of": "2026-05-26"
+    "as_of": "2026-05-27"
   },
   {
     "year": 2025,
@@ -42611,7 +42637,7 @@
     "courtesy_withholding": false,
     "citation_url": "https://www.michigan.gov/taxes/city-tax",
     "notes": "Standard 1.0%/0.5%.",
-    "as_of": "2026-05-26"
+    "as_of": "2026-05-27"
   },
   {
     "year": 2025,
@@ -42624,7 +42650,7 @@
     "courtesy_withholding": false,
     "citation_url": "https://www.michigan.gov/taxes/city-tax",
     "notes": "Standard 1.0%/0.5%.",
-    "as_of": "2026-05-26"
+    "as_of": "2026-05-27"
   },
   {
     "year": 2025,
@@ -42637,7 +42663,7 @@
     "courtesy_withholding": false,
     "citation_url": "https://www.kcmo.gov/city-hall/departments/finance/revenue/earnings-and-profits-tax",
     "notes": "Kansas City earnings tax — 1% on residents and on non-residents working in KC.",
-    "as_of": "2026-05-26"
+    "as_of": "2026-05-27"
   },
   {
     "year": 2025,
@@ -42650,7 +42676,7 @@
     "courtesy_withholding": false,
     "citation_url": "https://www.stlouis-mo.gov/government/departments/collector/earnings-tax/",
     "notes": "St. Louis earnings tax — 1% on residents and on non-residents working in STL.",
-    "as_of": "2026-05-26"
+    "as_of": "2026-05-27"
   },
   {
     "year": 2025,
@@ -42663,7 +42689,7 @@
     "courtesy_withholding": false,
     "citation_url": "https://www.tax.ny.gov/forms/nys-50-t-nyc.htm",
     "notes": "NYC personal income tax (residents only); top bracket 3.876%. Administered by NYS DOR (NYS-50-T-NYC).",
-    "as_of": "2026-05-26"
+    "as_of": "2026-05-27"
   },
   {
     "year": 2025,
@@ -42676,6 +42702,6 @@
     "courtesy_withholding": false,
     "citation_url": "https://www.tax.ny.gov/forms/nys-50-t-y.htm",
     "notes": "Yonkers resident income tax surcharge ~16.75% of NY state tax (effective ~1.62%); non-resident earnings tax 0.5%. (NYS-50-T-Y).",
-    "as_of": "2026-05-26"
+    "as_of": "2026-05-27"
   }
 ]
