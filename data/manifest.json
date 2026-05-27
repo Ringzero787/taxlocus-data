@@ -2,7 +2,7 @@
   "dataset": "TaxLocus Open Sales-Tax Dataset",
   "source": "https://taxlocus.com",
   "license": "CC-BY-4.0",
-  "generated_at": "2026-05-26",
+  "generated_at": "2026-05-27",
   "row_counts": {
     "state_rates": 46,
     "jurisdiction_rates": 14276,
@@ -13,7 +13,7 @@
     "payroll_federal_rates": 2,
     "payroll_state_pit": 51,
     "payroll_state_suta": 51,
-    "payroll_local_income_tax": 2654,
+    "payroll_local_income_tax": 2770,
     "payroll_reciprocity": 28
   }
 }
