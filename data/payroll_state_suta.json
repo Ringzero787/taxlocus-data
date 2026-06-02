@@ -1,5 +1,566 @@
 [
   {
+    "year": 2026,
+    "state": "AK",
+    "wage_base": 54200.0,
+    "new_employer_rate": null,
+    "min_rate": null,
+    "max_rate": null,
+    "citation_url": "https://labor.alaska.gov/estax/",
+    "notes": null,
+    "as_of": "2026-06-02"
+  },
+  {
+    "year": 2026,
+    "state": "AL",
+    "wage_base": 8000.0,
+    "new_employer_rate": null,
+    "min_rate": null,
+    "max_rate": null,
+    "citation_url": "https://labor.alabama.gov/",
+    "notes": null,
+    "as_of": "2026-06-02"
+  },
+  {
+    "year": 2026,
+    "state": "AR",
+    "wage_base": 7000.0,
+    "new_employer_rate": null,
+    "min_rate": null,
+    "max_rate": null,
+    "citation_url": "https://www.dws.arkansas.gov/",
+    "notes": null,
+    "as_of": "2026-06-02"
+  },
+  {
+    "year": 2026,
+    "state": "AZ",
+    "wage_base": 8000.0,
+    "new_employer_rate": null,
+    "min_rate": null,
+    "max_rate": null,
+    "citation_url": "https://des.az.gov/services/employment/unemployment-employer",
+    "notes": null,
+    "as_of": "2026-06-02"
+  },
+  {
+    "year": 2026,
+    "state": "CA",
+    "wage_base": 7000.0,
+    "new_employer_rate": null,
+    "min_rate": null,
+    "max_rate": null,
+    "citation_url": "https://edd.ca.gov/en/payroll_taxes/",
+    "notes": "CA wage base unchanged since 1983.",
+    "as_of": "2026-06-02"
+  },
+  {
+    "year": 2026,
+    "state": "CO",
+    "wage_base": 30600.0,
+    "new_employer_rate": null,
+    "min_rate": null,
+    "max_rate": null,
+    "citation_url": "https://cdle.colorado.gov/employers",
+    "notes": null,
+    "as_of": "2026-06-02"
+  },
+  {
+    "year": 2026,
+    "state": "CT",
+    "wage_base": 27000.0,
+    "new_employer_rate": null,
+    "min_rate": null,
+    "max_rate": null,
+    "citation_url": "https://portal.ct.gov/dol",
+    "notes": null,
+    "as_of": "2026-06-02"
+  },
+  {
+    "year": 2026,
+    "state": "DC",
+    "wage_base": 9000.0,
+    "new_employer_rate": null,
+    "min_rate": null,
+    "max_rate": null,
+    "citation_url": "https://does.dc.gov/",
+    "notes": null,
+    "as_of": "2026-06-02"
+  },
+  {
+    "year": 2026,
+    "state": "DE",
+    "wage_base": 14500.0,
+    "new_employer_rate": null,
+    "min_rate": null,
+    "max_rate": null,
+    "citation_url": "https://labor.delaware.gov/divisions/unemployment-insurance/",
+    "notes": null,
+    "as_of": "2026-06-02"
+  },
+  {
+    "year": 2026,
+    "state": "FL",
+    "wage_base": 7000.0,
+    "new_employer_rate": null,
+    "min_rate": null,
+    "max_rate": null,
+    "citation_url": "https://floridarevenue.com/taxes/taxesfees/Pages/rt.aspx",
+    "notes": null,
+    "as_of": "2026-06-02"
+  },
+  {
+    "year": 2026,
+    "state": "GA",
+    "wage_base": 9500.0,
+    "new_employer_rate": null,
+    "min_rate": null,
+    "max_rate": null,
+    "citation_url": "https://dol.georgia.gov/",
+    "notes": null,
+    "as_of": "2026-06-02"
+  },
+  {
+    "year": 2026,
+    "state": "HI",
+    "wage_base": 64500.0,
+    "new_employer_rate": null,
+    "min_rate": null,
+    "max_rate": null,
+    "citation_url": "https://labor.hawaii.gov/ui/",
+    "notes": null,
+    "as_of": "2026-06-02"
+  },
+  {
+    "year": 2026,
+    "state": "IA",
+    "wage_base": 20400.0,
+    "new_employer_rate": null,
+    "min_rate": null,
+    "max_rate": null,
+    "citation_url": "https://www.iowaworkforcedevelopment.gov/",
+    "notes": "Iowa base roughly halved for 2026 (SF 607).",
+    "as_of": "2026-06-02"
+  },
+  {
+    "year": 2026,
+    "state": "ID",
+    "wage_base": 58300.0,
+    "new_employer_rate": null,
+    "min_rate": null,
+    "max_rate": null,
+    "citation_url": "https://www.labor.idaho.gov/",
+    "notes": null,
+    "as_of": "2026-06-02"
+  },
+  {
+    "year": 2026,
+    "state": "IL",
+    "wage_base": 14250.0,
+    "new_employer_rate": null,
+    "min_rate": null,
+    "max_rate": null,
+    "citation_url": "https://ides.illinois.gov/",
+    "notes": null,
+    "as_of": "2026-06-02"
+  },
+  {
+    "year": 2026,
+    "state": "IN",
+    "wage_base": 9500.0,
+    "new_employer_rate": null,
+    "min_rate": null,
+    "max_rate": null,
+    "citation_url": "https://www.in.gov/dwd/",
+    "notes": null,
+    "as_of": "2026-06-02"
+  },
+  {
+    "year": 2026,
+    "state": "KS",
+    "wage_base": 15100.0,
+    "new_employer_rate": null,
+    "min_rate": null,
+    "max_rate": null,
+    "citation_url": "https://www.dol.ks.gov/",
+    "notes": null,
+    "as_of": "2026-06-02"
+  },
+  {
+    "year": 2026,
+    "state": "KY",
+    "wage_base": 12000.0,
+    "new_employer_rate": null,
+    "min_rate": null,
+    "max_rate": null,
+    "citation_url": "https://kcc.ky.gov/",
+    "notes": null,
+    "as_of": "2026-06-02"
+  },
+  {
+    "year": 2026,
+    "state": "LA",
+    "wage_base": 7000.0,
+    "new_employer_rate": null,
+    "min_rate": null,
+    "max_rate": null,
+    "citation_url": "https://www.laworks.net/",
+    "notes": "Louisiana lowered the base for 2026.",
+    "as_of": "2026-06-02"
+  },
+  {
+    "year": 2026,
+    "state": "MA",
+    "wage_base": 15000.0,
+    "new_employer_rate": null,
+    "min_rate": null,
+    "max_rate": null,
+    "citation_url": "https://www.mass.gov/orgs/department-of-unemployment-assistance",
+    "notes": null,
+    "as_of": "2026-06-02"
+  },
+  {
+    "year": 2026,
+    "state": "MD",
+    "wage_base": 8500.0,
+    "new_employer_rate": null,
+    "min_rate": null,
+    "max_rate": null,
+    "citation_url": "https://www.dllr.state.md.us/employment/unemployment.shtml",
+    "notes": null,
+    "as_of": "2026-06-02"
+  },
+  {
+    "year": 2026,
+    "state": "ME",
+    "wage_base": 12000.0,
+    "new_employer_rate": null,
+    "min_rate": null,
+    "max_rate": null,
+    "citation_url": "https://www.maine.gov/labor/cwri/",
+    "notes": null,
+    "as_of": "2026-06-02"
+  },
+  {
+    "year": 2026,
+    "state": "MI",
+    "wage_base": 9000.0,
+    "new_employer_rate": null,
+    "min_rate": null,
+    "max_rate": null,
+    "citation_url": "https://www.michigan.gov/leo/",
+    "notes": "Standard 2026 base $9,000 (UI trust fund ≥ $2.5B); delinquent employers use $9,500.",
+    "as_of": "2026-06-02"
+  },
+  {
+    "year": 2026,
+    "state": "MN",
+    "wage_base": 44000.0,
+    "new_employer_rate": null,
+    "min_rate": null,
+    "max_rate": null,
+    "citation_url": "https://uimn.org/employers/",
+    "notes": null,
+    "as_of": "2026-06-02"
+  },
+  {
+    "year": 2026,
+    "state": "MO",
+    "wage_base": 9000.0,
+    "new_employer_rate": null,
+    "min_rate": null,
+    "max_rate": null,
+    "citation_url": "https://labor.mo.gov/des/",
+    "notes": "Missouri lowered the base for 2026.",
+    "as_of": "2026-06-02"
+  },
+  {
+    "year": 2026,
+    "state": "MS",
+    "wage_base": 14000.0,
+    "new_employer_rate": null,
+    "min_rate": null,
+    "max_rate": null,
+    "citation_url": "https://mdes.ms.gov/employers/",
+    "notes": null,
+    "as_of": "2026-06-02"
+  },
+  {
+    "year": 2026,
+    "state": "MT",
+    "wage_base": 47300.0,
+    "new_employer_rate": null,
+    "min_rate": null,
+    "max_rate": null,
+    "citation_url": "https://dli.mt.gov/uid",
+    "notes": null,
+    "as_of": "2026-06-02"
+  },
+  {
+    "year": 2026,
+    "state": "NC",
+    "wage_base": 34200.0,
+    "new_employer_rate": null,
+    "min_rate": null,
+    "max_rate": null,
+    "citation_url": "https://des.nc.gov/employers",
+    "notes": null,
+    "as_of": "2026-06-02"
+  },
+  {
+    "year": 2026,
+    "state": "ND",
+    "wage_base": 46600.0,
+    "new_employer_rate": null,
+    "min_rate": null,
+    "max_rate": null,
+    "citation_url": "https://www.jobsnd.com/employers/",
+    "notes": null,
+    "as_of": "2026-06-02"
+  },
+  {
+    "year": 2026,
+    "state": "NE",
+    "wage_base": 9000.0,
+    "new_employer_rate": null,
+    "min_rate": null,
+    "max_rate": null,
+    "citation_url": "https://dol.nebraska.gov/",
+    "notes": null,
+    "as_of": "2026-06-02"
+  },
+  {
+    "year": 2026,
+    "state": "NH",
+    "wage_base": 14000.0,
+    "new_employer_rate": null,
+    "min_rate": null,
+    "max_rate": null,
+    "citation_url": "https://www.nhes.nh.gov/",
+    "notes": null,
+    "as_of": "2026-06-02"
+  },
+  {
+    "year": 2026,
+    "state": "NJ",
+    "wage_base": 44800.0,
+    "new_employer_rate": null,
+    "min_rate": null,
+    "max_rate": null,
+    "citation_url": "https://www.nj.gov/labor/",
+    "notes": null,
+    "as_of": "2026-06-02"
+  },
+  {
+    "year": 2026,
+    "state": "NM",
+    "wage_base": 34800.0,
+    "new_employer_rate": null,
+    "min_rate": null,
+    "max_rate": null,
+    "citation_url": "https://www.dws.state.nm.us/",
+    "notes": null,
+    "as_of": "2026-06-02"
+  },
+  {
+    "year": 2026,
+    "state": "NV",
+    "wage_base": 43700.0,
+    "new_employer_rate": null,
+    "min_rate": null,
+    "max_rate": null,
+    "citation_url": "https://detr.nv.gov/",
+    "notes": null,
+    "as_of": "2026-06-02"
+  },
+  {
+    "year": 2026,
+    "state": "NY",
+    "wage_base": 13000.0,
+    "new_employer_rate": null,
+    "min_rate": null,
+    "max_rate": null,
+    "citation_url": "https://dol.ny.gov/unemployment-insurance",
+    "notes": null,
+    "as_of": "2026-06-02"
+  },
+  {
+    "year": 2026,
+    "state": "OH",
+    "wage_base": 9000.0,
+    "new_employer_rate": null,
+    "min_rate": null,
+    "max_rate": null,
+    "citation_url": "https://jfs.ohio.gov/ouio/",
+    "notes": null,
+    "as_of": "2026-06-02"
+  },
+  {
+    "year": 2026,
+    "state": "OK",
+    "wage_base": 25000.0,
+    "new_employer_rate": null,
+    "min_rate": null,
+    "max_rate": null,
+    "citation_url": "https://oklahoma.gov/oesc.html",
+    "notes": "Oklahoma lowered the base for 2026.",
+    "as_of": "2026-06-02"
+  },
+  {
+    "year": 2026,
+    "state": "OR",
+    "wage_base": 56700.0,
+    "new_employer_rate": null,
+    "min_rate": null,
+    "max_rate": null,
+    "citation_url": "https://www.oregon.gov/employ/Pages/default.aspx",
+    "notes": null,
+    "as_of": "2026-06-02"
+  },
+  {
+    "year": 2026,
+    "state": "PA",
+    "wage_base": 10000.0,
+    "new_employer_rate": null,
+    "min_rate": null,
+    "max_rate": null,
+    "citation_url": "https://www.dli.pa.gov/employers/",
+    "notes": null,
+    "as_of": "2026-06-02"
+  },
+  {
+    "year": 2026,
+    "state": "RI",
+    "wage_base": 30800.0,
+    "new_employer_rate": null,
+    "min_rate": null,
+    "max_rate": null,
+    "citation_url": "https://dlt.ri.gov/employers",
+    "notes": "Standard 2026 base $30,800; highest-rate employers use $32,300.",
+    "as_of": "2026-06-02"
+  },
+  {
+    "year": 2026,
+    "state": "SC",
+    "wage_base": 14000.0,
+    "new_employer_rate": null,
+    "min_rate": null,
+    "max_rate": null,
+    "citation_url": "https://dew.sc.gov/employers",
+    "notes": null,
+    "as_of": "2026-06-02"
+  },
+  {
+    "year": 2026,
+    "state": "SD",
+    "wage_base": 15000.0,
+    "new_employer_rate": null,
+    "min_rate": null,
+    "max_rate": null,
+    "citation_url": "https://dlr.sd.gov/ra/",
+    "notes": null,
+    "as_of": "2026-06-02"
+  },
+  {
+    "year": 2026,
+    "state": "TN",
+    "wage_base": 7000.0,
+    "new_employer_rate": null,
+    "min_rate": null,
+    "max_rate": null,
+    "citation_url": "https://www.tn.gov/workforce/employers.html",
+    "notes": null,
+    "as_of": "2026-06-02"
+  },
+  {
+    "year": 2026,
+    "state": "TX",
+    "wage_base": 9000.0,
+    "new_employer_rate": null,
+    "min_rate": null,
+    "max_rate": null,
+    "citation_url": "https://www.twc.texas.gov/businesses/",
+    "notes": null,
+    "as_of": "2026-06-02"
+  },
+  {
+    "year": 2026,
+    "state": "UT",
+    "wage_base": 50700.0,
+    "new_employer_rate": null,
+    "min_rate": null,
+    "max_rate": null,
+    "citation_url": "https://jobs.utah.gov/ui/employer/",
+    "notes": null,
+    "as_of": "2026-06-02"
+  },
+  {
+    "year": 2026,
+    "state": "VA",
+    "wage_base": 8000.0,
+    "new_employer_rate": null,
+    "min_rate": null,
+    "max_rate": null,
+    "citation_url": "https://www.vec.virginia.gov/employers",
+    "notes": null,
+    "as_of": "2026-06-02"
+  },
+  {
+    "year": 2026,
+    "state": "VT",
+    "wage_base": 15400.0,
+    "new_employer_rate": null,
+    "min_rate": null,
+    "max_rate": null,
+    "citation_url": "https://labor.vermont.gov/",
+    "notes": null,
+    "as_of": "2026-06-02"
+  },
+  {
+    "year": 2026,
+    "state": "WA",
+    "wage_base": 78200.0,
+    "new_employer_rate": null,
+    "min_rate": null,
+    "max_rate": null,
+    "citation_url": "https://esd.wa.gov/employer-taxes",
+    "notes": null,
+    "as_of": "2026-06-02"
+  },
+  {
+    "year": 2026,
+    "state": "WI",
+    "wage_base": 14000.0,
+    "new_employer_rate": null,
+    "min_rate": null,
+    "max_rate": null,
+    "citation_url": "https://dwd.wisconsin.gov/ui/",
+    "notes": null,
+    "as_of": "2026-06-02"
+  },
+  {
+    "year": 2026,
+    "state": "WV",
+    "wage_base": 9521.0,
+    "new_employer_rate": null,
+    "min_rate": null,
+    "max_rate": null,
+    "citation_url": "https://workforcewv.org/employers/",
+    "notes": null,
+    "as_of": "2026-06-02"
+  },
+  {
+    "year": 2026,
+    "state": "WY",
+    "wage_base": 33800.0,
+    "new_employer_rate": null,
+    "min_rate": null,
+    "max_rate": null,
+    "citation_url": "https://wyomingworkforce.org/businesses/ui/",
+    "notes": null,
+    "as_of": "2026-06-02"
+  },
+  {
     "year": 2025,
     "state": "AK",
     "wage_base": 49700.0,
@@ -8,7 +569,7 @@
     "max_rate": null,
     "citation_url": "https://labor.alaska.gov/estax/",
     "notes": null,
-    "as_of": "2026-05-27"
+    "as_of": "2026-06-02"
   },
   {
     "year": 2025,
@@ -19,7 +580,7 @@
     "max_rate": null,
     "citation_url": "https://labor.alabama.gov/",
     "notes": null,
-    "as_of": "2026-05-27"
+    "as_of": "2026-06-02"
   },
   {
     "year": 2025,
@@ -30,7 +591,7 @@
     "max_rate": null,
     "citation_url": "https://www.dws.arkansas.gov/",
     "notes": null,
-    "as_of": "2026-05-27"
+    "as_of": "2026-06-02"
   },
   {
     "year": 2025,
@@ -41,7 +602,7 @@
     "max_rate": null,
     "citation_url": "https://des.az.gov/services/employment/unemployment-employer",
     "notes": null,
-    "as_of": "2026-05-27"
+    "as_of": "2026-06-02"
   },
   {
     "year": 2025,
@@ -52,7 +613,7 @@
     "max_rate": null,
     "citation_url": "https://edd.ca.gov/en/payroll_taxes/",
     "notes": "CA wage base unchanged since 1983.",
-    "as_of": "2026-05-27"
+    "as_of": "2026-06-02"
   },
   {
     "year": 2025,
@@ -63,7 +624,7 @@
     "max_rate": null,
     "citation_url": "https://cdle.colorado.gov/employers",
     "notes": null,
-    "as_of": "2026-05-27"
+    "as_of": "2026-06-02"
   },
   {
     "year": 2025,
@@ -74,7 +635,7 @@
     "max_rate": null,
     "citation_url": "https://portal.ct.gov/dol",
     "notes": null,
-    "as_of": "2026-05-27"
+    "as_of": "2026-06-02"
   },
   {
     "year": 2025,
@@ -85,7 +646,7 @@
     "max_rate": null,
     "citation_url": "https://does.dc.gov/",
     "notes": null,
-    "as_of": "2026-05-27"
+    "as_of": "2026-06-02"
   },
   {
     "year": 2025,
@@ -96,7 +657,7 @@
     "max_rate": null,
     "citation_url": "https://labor.delaware.gov/divisions/unemployment-insurance/",
     "notes": null,
-    "as_of": "2026-05-27"
+    "as_of": "2026-06-02"
   },
   {
     "year": 2025,
@@ -107,7 +668,7 @@
     "max_rate": null,
     "citation_url": "https://floridarevenue.com/taxes/taxesfees/Pages/rt.aspx",
     "notes": null,
-    "as_of": "2026-05-27"
+    "as_of": "2026-06-02"
   },
   {
     "year": 2025,
@@ -118,7 +679,7 @@
     "max_rate": null,
     "citation_url": "https://dol.georgia.gov/",
     "notes": null,
-    "as_of": "2026-05-27"
+    "as_of": "2026-06-02"
   },
   {
     "year": 2025,
@@ -129,7 +690,7 @@
     "max_rate": null,
     "citation_url": "https://labor.hawaii.gov/ui/",
     "notes": null,
-    "as_of": "2026-05-27"
+    "as_of": "2026-06-02"
   },
   {
     "year": 2025,
@@ -140,7 +701,7 @@
     "max_rate": null,
     "citation_url": "https://www.iowaworkforcedevelopment.gov/",
     "notes": null,
-    "as_of": "2026-05-27"
+    "as_of": "2026-06-02"
   },
   {
     "year": 2025,
@@ -151,7 +712,7 @@
     "max_rate": null,
     "citation_url": "https://www.labor.idaho.gov/",
     "notes": null,
-    "as_of": "2026-05-27"
+    "as_of": "2026-06-02"
   },
   {
     "year": 2025,
@@ -162,7 +723,7 @@
     "max_rate": null,
     "citation_url": "https://ides.illinois.gov/",
     "notes": null,
-    "as_of": "2026-05-27"
+    "as_of": "2026-06-02"
   },
   {
     "year": 2025,
@@ -173,7 +734,7 @@
     "max_rate": null,
     "citation_url": "https://www.in.gov/dwd/",
     "notes": null,
-    "as_of": "2026-05-27"
+    "as_of": "2026-06-02"
   },
   {
     "year": 2025,
@@ -184,7 +745,7 @@
     "max_rate": null,
     "citation_url": "https://www.dol.ks.gov/",
     "notes": null,
-    "as_of": "2026-05-27"
+    "as_of": "2026-06-02"
   },
   {
     "year": 2025,
@@ -195,7 +756,7 @@
     "max_rate": null,
     "citation_url": "https://kcc.ky.gov/",
     "notes": null,
-    "as_of": "2026-05-27"
+    "as_of": "2026-06-02"
   },
   {
     "year": 2025,
@@ -206,7 +767,7 @@
     "max_rate": null,
     "citation_url": "https://www.laworks.net/",
     "notes": null,
-    "as_of": "2026-05-27"
+    "as_of": "2026-06-02"
   },
   {
     "year": 2025,
@@ -217,7 +778,7 @@
     "max_rate": null,
     "citation_url": "https://www.mass.gov/orgs/department-of-unemployment-assistance",
     "notes": null,
-    "as_of": "2026-05-27"
+    "as_of": "2026-06-02"
   },
   {
     "year": 2025,
@@ -228,7 +789,7 @@
     "max_rate": null,
     "citation_url": "https://www.dllr.state.md.us/employment/unemployment.shtml",
     "notes": null,
-    "as_of": "2026-05-27"
+    "as_of": "2026-06-02"
   },
   {
     "year": 2025,
@@ -239,7 +800,7 @@
     "max_rate": null,
     "citation_url": "https://www.maine.gov/labor/cwri/",
     "notes": null,
-    "as_of": "2026-05-27"
+    "as_of": "2026-06-02"
   },
   {
     "year": 2025,
@@ -250,7 +811,7 @@
     "max_rate": null,
     "citation_url": "https://www.michigan.gov/leo/",
     "notes": null,
-    "as_of": "2026-05-27"
+    "as_of": "2026-06-02"
   },
   {
     "year": 2025,
@@ -261,7 +822,7 @@
     "max_rate": null,
     "citation_url": "https://uimn.org/employers/",
     "notes": null,
-    "as_of": "2026-05-27"
+    "as_of": "2026-06-02"
   },
   {
     "year": 2025,
@@ -272,7 +833,7 @@
     "max_rate": null,
     "citation_url": "https://labor.mo.gov/des/",
     "notes": null,
-    "as_of": "2026-05-27"
+    "as_of": "2026-06-02"
   },
   {
     "year": 2025,
@@ -283,7 +844,7 @@
     "max_rate": null,
     "citation_url": "https://mdes.ms.gov/employers/",
     "notes": null,
-    "as_of": "2026-05-27"
+    "as_of": "2026-06-02"
   },
   {
     "year": 2025,
@@ -294,7 +855,7 @@
     "max_rate": null,
     "citation_url": "https://dli.mt.gov/uid",
     "notes": null,
-    "as_of": "2026-05-27"
+    "as_of": "2026-06-02"
   },
   {
     "year": 2025,
@@ -305,7 +866,7 @@
     "max_rate": null,
     "citation_url": "https://des.nc.gov/employers",
     "notes": null,
-    "as_of": "2026-05-27"
+    "as_of": "2026-06-02"
   },
   {
     "year": 2025,
@@ -316,7 +877,7 @@
     "max_rate": null,
     "citation_url": "https://www.jobsnd.com/employers/",
     "notes": null,
-    "as_of": "2026-05-27"
+    "as_of": "2026-06-02"
   },
   {
     "year": 2025,
@@ -327,7 +888,7 @@
     "max_rate": null,
     "citation_url": "https://dol.nebraska.gov/",
     "notes": null,
-    "as_of": "2026-05-27"
+    "as_of": "2026-06-02"
   },
   {
     "year": 2025,
@@ -338,7 +899,7 @@
     "max_rate": null,
     "citation_url": "https://www.nhes.nh.gov/",
     "notes": null,
-    "as_of": "2026-05-27"
+    "as_of": "2026-06-02"
   },
   {
     "year": 2025,
@@ -349,7 +910,7 @@
     "max_rate": null,
     "citation_url": "https://www.nj.gov/labor/",
     "notes": null,
-    "as_of": "2026-05-27"
+    "as_of": "2026-06-02"
   },
   {
     "year": 2025,
@@ -360,7 +921,7 @@
     "max_rate": null,
     "citation_url": "https://www.dws.state.nm.us/",
     "notes": null,
-    "as_of": "2026-05-27"
+    "as_of": "2026-06-02"
   },
   {
     "year": 2025,
@@ -371,7 +932,7 @@
     "max_rate": null,
     "citation_url": "https://detr.nv.gov/",
     "notes": null,
-    "as_of": "2026-05-27"
+    "as_of": "2026-06-02"
   },
   {
     "year": 2025,
@@ -382,7 +943,7 @@
     "max_rate": null,
     "citation_url": "https://dol.ny.gov/unemployment-insurance",
     "notes": null,
-    "as_of": "2026-05-27"
+    "as_of": "2026-06-02"
   },
   {
     "year": 2025,
@@ -393,7 +954,7 @@
     "max_rate": null,
     "citation_url": "https://jfs.ohio.gov/ouio/",
     "notes": null,
-    "as_of": "2026-05-27"
+    "as_of": "2026-06-02"
   },
   {
     "year": 2025,
@@ -404,7 +965,7 @@
     "max_rate": null,
     "citation_url": "https://oklahoma.gov/oesc.html",
     "notes": null,
-    "as_of": "2026-05-27"
+    "as_of": "2026-06-02"
   },
   {
     "year": 2025,
@@ -415,7 +976,7 @@
     "max_rate": null,
     "citation_url": "https://www.oregon.gov/employ/Pages/default.aspx",
     "notes": null,
-    "as_of": "2026-05-27"
+    "as_of": "2026-06-02"
   },
   {
     "year": 2025,
@@ -426,7 +987,7 @@
     "max_rate": null,
     "citation_url": "https://www.dli.pa.gov/employers/",
     "notes": null,
-    "as_of": "2026-05-27"
+    "as_of": "2026-06-02"
   },
   {
     "year": 2025,
@@ -437,7 +998,7 @@
     "max_rate": null,
     "citation_url": "https://dlt.ri.gov/employers",
     "notes": null,
-    "as_of": "2026-05-27"
+    "as_of": "2026-06-02"
   },
   {
     "year": 2025,
@@ -448,7 +1009,7 @@
     "max_rate": null,
     "citation_url": "https://dew.sc.gov/employers",
     "notes": null,
-    "as_of": "2026-05-27"
+    "as_of": "2026-06-02"
   },
   {
     "year": 2025,
@@ -459,7 +1020,7 @@
     "max_rate": null,
     "citation_url": "https://dlr.sd.gov/ra/",
     "notes": null,
-    "as_of": "2026-05-27"
+    "as_of": "2026-06-02"
   },
   {
     "year": 2025,
@@ -470,7 +1031,7 @@
     "max_rate": null,
     "citation_url": "https://www.tn.gov/workforce/employers.html",
     "notes": null,
-    "as_of": "2026-05-27"
+    "as_of": "2026-06-02"
   },
   {
     "year": 2025,
@@ -481,7 +1042,7 @@
     "max_rate": null,
     "citation_url": "https://www.twc.texas.gov/businesses/",
     "notes": null,
-    "as_of": "2026-05-27"
+    "as_of": "2026-06-02"
   },
   {
     "year": 2025,
@@ -492,7 +1053,7 @@
     "max_rate": null,
     "citation_url": "https://jobs.utah.gov/ui/employer/",
     "notes": null,
-    "as_of": "2026-05-27"
+    "as_of": "2026-06-02"
   },
   {
     "year": 2025,
@@ -503,7 +1064,7 @@
     "max_rate": null,
     "citation_url": "https://www.vec.virginia.gov/employers",
     "notes": null,
-    "as_of": "2026-05-27"
+    "as_of": "2026-06-02"
   },
   {
     "year": 2025,
@@ -514,7 +1075,7 @@
     "max_rate": null,
     "citation_url": "https://labor.vermont.gov/",
     "notes": null,
-    "as_of": "2026-05-27"
+    "as_of": "2026-06-02"
   },
   {
     "year": 2025,
@@ -525,7 +1086,7 @@
     "max_rate": null,
     "citation_url": "https://esd.wa.gov/employer-taxes",
     "notes": null,
-    "as_of": "2026-05-27"
+    "as_of": "2026-06-02"
   },
   {
     "year": 2025,
@@ -536,7 +1097,7 @@
     "max_rate": null,
     "citation_url": "https://dwd.wisconsin.gov/ui/",
     "notes": null,
-    "as_of": "2026-05-27"
+    "as_of": "2026-06-02"
   },
   {
     "year": 2025,
@@ -547,7 +1108,7 @@
     "max_rate": null,
     "citation_url": "https://workforcewv.org/employers/",
     "notes": null,
-    "as_of": "2026-05-27"
+    "as_of": "2026-06-02"
   },
   {
     "year": 2025,
@@ -558,6 +1119,6 @@
     "max_rate": null,
     "citation_url": "https://wyomingworkforce.org/businesses/ui/",
     "notes": null,
-    "as_of": "2026-05-27"
+    "as_of": "2026-06-02"
   }
 ]

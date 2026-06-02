@@ -1,5 +1,18 @@
 [
   {
+    "year": 2026,
+    "ss_rate": 0.062,
+    "ss_wage_base": 184500.0,
+    "medicare_rate": 0.0145,
+    "addl_medicare_rate": 0.009,
+    "addl_medicare_threshold": 200000.0,
+    "futa_rate_gross": 0.06,
+    "futa_credit_max": 0.054,
+    "futa_wage_base": 7000.0,
+    "citation_url": "https://www.ssa.gov/oact/cola/cbb.html",
+    "as_of": "2026-06-02"
+  },
+  {
     "year": 2025,
     "ss_rate": 0.062,
     "ss_wage_base": 176100.0,
@@ -10,7 +23,7 @@
     "futa_credit_max": 0.054,
     "futa_wage_base": 7000.0,
     "citation_url": "https://www.ssa.gov/oact/cola/cbb.html",
-    "as_of": "2026-05-27"
+    "as_of": "2026-06-02"
   },
   {
     "year": 2024,
@@ -23,6 +36,6 @@
     "futa_credit_max": 0.054,
     "futa_wage_base": 7000.0,
     "citation_url": "https://www.ssa.gov/oact/cola/cbb.html",
-    "as_of": "2026-05-27"
+    "as_of": "2026-06-02"
   }
 ]

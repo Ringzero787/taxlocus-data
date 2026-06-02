@@ -2,18 +2,18 @@
   "dataset": "TaxLocus Open Sales-Tax Dataset",
   "source": "https://taxlocus.com",
   "license": "CC-BY-4.0",
-  "generated_at": "2026-05-27",
+  "generated_at": "2026-06-02",
   "row_counts": {
     "state_rates": 46,
-    "jurisdiction_rates": 14277,
+    "jurisdiction_rates": 14282,
     "nexus_thresholds": 47,
     "taxability": 1792,
     "marketplace_facilitator_rules": 47,
     "filing_forms": 46,
-    "payroll_federal_rates": 2,
-    "payroll_state_pit": 51,
-    "payroll_state_suta": 51,
-    "payroll_local_income_tax": 3662,
+    "payroll_federal_rates": 3,
+    "payroll_state_pit": 102,
+    "payroll_state_suta": 102,
+    "payroll_local_income_tax": 3663,
     "payroll_reciprocity": 28
   }
 }
