@@ -694,6 +694,7 @@ AR,city,Centerton,12820,0.02
 AR,city,Charleston,13300,0.015
 AR,city,Cherokee Village,13450,0.01
 AR,city,Cherry Valley,13540,0.01
+AR,city,Chester,13570,0.01
 AR,city,Chidester,13750,0.02
 AR,city,City 05740,05740,0.025
 AR,city,Clarendon,13990,0.04
@@ -728,7 +729,7 @@ AR,city,Dumas,19990,0.03
 AR,city,Dyer,20200,0.01
 AR,city,Earle,20320,0.02
 AR,city,East Camden,20440,0.01
-AR,city,El Dorado,21070,0.0125
+AR,city,El Dorado,21070,0.0175
 AR,city,Elkins,21190,0.0275
 AR,city,Elm Springs,21430,0.01
 AR,city,Emerson,21580,0.01
@@ -893,6 +894,7 @@ AR,city,Patmos,53900,0.01
 AR,city,Patterson,53990,0.01
 AR,city,Pea Ridge,54200,0.02
 AR,city,Perla,54620,0.01
+AR,city,Perry,54650,0.01
 AR,city,Perryville,54710,0.01
 AR,city,Piggott,55130,0.02
 AR,city,Pine Bluff,55310,0.01625
@@ -955,7 +957,7 @@ AR,city,Trumann,70010,0.02
 AR,city,Tuckerman,70100,0.0125
 AR,city,Turrell,70430,0.02
 AR,city,Tyronza,70700,0.01
-AR,city,Van Buren,71480,0.015
+AR,city,Van Buren,71480,0.025
 AR,city,Vandervoort,71510,0.01
 AR,city,Vilonia,71960,0.0275
 AR,city,Viola,72140,0.02
@@ -1000,7 +1002,7 @@ AR,county,Conway,029,0.0175
 AR,county,Craighead,031,0.01
 AR,county,Crawford,033,0.0125
 AR,county,Crittenden,035,0.0175
-AR,county,Cross,037,0.03
+AR,county,Cross,037,0.02125
 AR,county,Dallas,039,0.02
 AR,county,Desha,041,0.015
 AR,county,Drew,043,0.0225
@@ -1015,7 +1017,7 @@ AR,county,Hot Spring,059,0.015
 AR,county,Howard,061,0.0275
 AR,county,Independence,063,0.015
 AR,county,Izard,065,0.005
-AR,county,Jackson,067,0.0225
+AR,county,Jackson,067,0.01875
 AR,county,Jefferson,069,0.0125
 AR,county,Johnson,071,0.01
 AR,county,Lafayette,073,0.0225
@@ -1080,7 +1082,7 @@ AZ,city,Eagar,,0.03
 AZ,city,El Mirage,,0.03
 AZ,city,Eloy,,0.03
 AZ,city,Flagstaff,,0.02486
-AZ,city,Florence,,0.02
+AZ,city,Florence,,0.035
 AZ,city,Fountain Hills,,0.029
 AZ,city,Fredonia,,0.04
 AZ,city,Gila Bend,,0.035
@@ -1152,7 +1154,7 @@ AZ,city,Winslow,,0.03
 AZ,city,Youngtown,,0.03
 AZ,city,Yuma,,0.017
 AZ,county,Apache,,0.005
-AZ,county,Cochise,,0.005
+AZ,county,Cochise,,0.01
 AZ,county,Coconino,,0.013
 AZ,county,Gila,,0.01
 AZ,county,Graham,,0.01
@@ -1627,22 +1629,18 @@ CA,special_district,Turlock (CDTFA tax area),,0.01375
 CA,special_district,Tustin (CDTFA tax area),,0.005
 CA,special_district,Twentynine Palms (CDTFA tax area),,0.005
 CA,special_district,Ukiah (CDTFA tax area),,0.01625
-CA,special_district,Unincorporated (CDTFA tax area),,0.005
-CA,special_district,Unincorporated (CDTFA tax area),,0.0
+CA,special_district,Unincorporated (CDTFA tax area),,0.01
 CA,special_district,Unincorporated (CDTFA tax area),,0.03
-CA,special_district,Unincorporated (CDTFA tax area),,0.005
+CA,special_district,Unincorporated (CDTFA tax area),,0.0
 CA,special_district,Unincorporated (CDTFA tax area),,0.005
 CA,special_district,Unincorporated (CDTFA tax area),,0.01
 CA,special_district,Unincorporated (CDTFA tax area),,0.01
-CA,special_district,Unincorporated (CDTFA tax area),,0.005
 CA,special_district,Unincorporated (CDTFA tax area),,0.005
 CA,special_district,Unincorporated (CDTFA tax area),,0.015
 CA,special_district,Unincorporated (CDTFA tax area),,0.01
-CA,special_district,Unincorporated (CDTFA tax area),,0.0
 CA,special_district,Unincorporated (CDTFA tax area),,0.0
 CA,special_district,Unincorporated (CDTFA tax area),,0.00725
 CA,special_district,Unincorporated (CDTFA tax area),,0.0
-CA,special_district,Unincorporated (CDTFA tax area),,0.02125
 CA,special_district,Unincorporated (CDTFA tax area),,0.015
 CA,special_district,Unincorporated (CDTFA tax area),,0.005
 CA,special_district,Unincorporated (CDTFA tax area),,0.005
@@ -1650,40 +1648,44 @@ CA,special_district,Unincorporated (CDTFA tax area),,0.01
 CA,special_district,Unincorporated (CDTFA tax area),,0.0
 CA,special_district,Unincorporated (CDTFA tax area),,0.0
 CA,special_district,Unincorporated (CDTFA tax area),,0.0
-CA,special_district,Unincorporated (CDTFA tax area),,0.005
 CA,special_district,Unincorporated (CDTFA tax area),,0.025
-CA,special_district,Unincorporated (CDTFA tax area),,0.0225
-CA,special_district,Unincorporated (CDTFA tax area),,0.0
-CA,special_district,Unincorporated (CDTFA tax area),,0.025
-CA,special_district,Unincorporated (CDTFA tax area),,0.0
 CA,special_district,Unincorporated (CDTFA tax area),,0.005
-CA,special_district,Unincorporated (CDTFA tax area),,0.0
 CA,special_district,Unincorporated (CDTFA tax area),,0.01
 CA,special_district,Unincorporated (CDTFA tax area),,0.01
 CA,special_district,Unincorporated (CDTFA tax area),,0.00625
-CA,special_district,Unincorporated (CDTFA tax area),,0.00125
 CA,special_district,Unincorporated (CDTFA tax area),,0.005
 CA,special_district,Unincorporated (CDTFA tax area),,0.0
 CA,special_district,Unincorporated (CDTFA tax area),,0.0
 CA,special_district,Unincorporated (CDTFA tax area),,0.015
 CA,special_district,Unincorporated (CDTFA tax area),,0.005
 CA,special_district,Unincorporated (CDTFA tax area),,0.0025
+CA,special_district,Unincorporated (CDTFA tax area),,0.005
+CA,special_district,Unincorporated (CDTFA tax area),,0.0
+CA,special_district,Unincorporated (CDTFA tax area),,0.0
+CA,special_district,Unincorporated (CDTFA tax area),,0.005
+CA,special_district,Unincorporated (CDTFA tax area),,0.005
+CA,special_district,Unincorporated (CDTFA tax area),,0.01
+CA,special_district,Unincorporated (CDTFA tax area),,0.005
+CA,special_district,Unincorporated (CDTFA tax area),,0.005
+CA,special_district,Unincorporated (CDTFA tax area),,0.005
+CA,special_district,Unincorporated (CDTFA tax area),,0.0
+CA,special_district,Unincorporated (CDTFA tax area),,0.02125
+CA,special_district,Unincorporated (CDTFA tax area),,0.005
+CA,special_district,Unincorporated (CDTFA tax area),,0.025
+CA,special_district,Unincorporated (CDTFA tax area),,0.0225
+CA,special_district,Unincorporated (CDTFA tax area),,0.0
+CA,special_district,Unincorporated (CDTFA tax area),,0.0
+CA,special_district,Unincorporated (CDTFA tax area),,0.0
+CA,special_district,Unincorporated (CDTFA tax area),,0.00125
 CA,special_district,Unincorporated (CDTFA tax area),,0.02
 CA,special_district,Unincorporated (CDTFA tax area),,0.00625
-CA,special_district,Unincorporated (CDTFA tax area),,0.005
-CA,special_district,Unincorporated (CDTFA tax area),,0.0
-CA,special_district,Unincorporated (CDTFA tax area),,0.0
-CA,special_district,Unincorporated (CDTFA tax area),,0.0
 CA,special_district,Unincorporated (CDTFA tax area),,0.0
 CA,special_district,Unincorporated (CDTFA tax area),,0.0
 CA,special_district,Unincorporated (CDTFA tax area),,0.0
 CA,special_district,Unincorporated (CDTFA tax area),,0.005
-CA,special_district,Unincorporated (CDTFA tax area),,0.005
-CA,special_district,Unincorporated (CDTFA tax area),,0.005
-CA,special_district,Unincorporated (CDTFA tax area),,0.01
 CA,special_district,Unincorporated (CDTFA tax area),,0.0
 CA,special_district,Unincorporated (CDTFA tax area),,0.0
-CA,special_district,Unincorporated (CDTFA tax area),,0.01
+CA,special_district,Unincorporated (CDTFA tax area),,0.0
 CA,special_district,Union City (CDTFA tax area),,0.035
 CA,special_district,Upland (CDTFA tax area),,0.005
 CA,special_district,Vacaville (CDTFA tax area),,0.00875
@@ -1751,8 +1753,8 @@ CO,city,Blue River (Mail Via Breckenridge),,0.05975
 CO,city,Bonanza (Mail Via Villa Grove),,0.025
 CO,city,Boone,,0.01
 CO,city,Boulder,,0.06295
-CO,city,Bow Mar (Mail Via Littleton),,0.0135
 CO,city,Bow Mar (Mail Via Littleton),,0.016
+CO,city,Bow Mar (Mail Via Littleton),,0.0135
 CO,city,Branson,,0.015
 CO,city,Breckenridge,,0.05975
 CO,city,Brighton,,0.0375
@@ -2038,24 +2040,7 @@ CO,city,Thornton,,0.056
 CO,city,Timnath,,0.0425
 CO,city,Trinidad,,0.055
 CO,city,Two Buttes,,0.0
-CO,city,Unincorporated,,0.025
-CO,city,Unincorporated,,0.0
-CO,city,Unincorporated,,0.03
-CO,city,Unincorporated,,0.01
-CO,city,Unincorporated,,0.036
-CO,city,Unincorporated,,0.0
-CO,city,Unincorporated,,0.03
-CO,city,Unincorporated,,0.0175
-CO,city,Unincorporated,,0.0
-CO,city,Unincorporated,,0.026
 CO,city,Unincorporated,,0.0125
-CO,city,Unincorporated,,0.02
-CO,city,Unincorporated,,0.0
-CO,city,Unincorporated,,0.015
-CO,city,Unincorporated,,0.01
-CO,city,Unincorporated,,0.01
-CO,city,Unincorporated,,0.03
-CO,city,Unincorporated,,0.0275
 CO,city,Unincorporated,,0.05
 CO,city,Unincorporated,,0.026
 CO,city,Unincorporated,,0.03475
@@ -2085,25 +2070,42 @@ CO,city,Unincorporated,,0.02
 CO,city,Unincorporated,,0.01
 CO,city,Unincorporated,,0.02
 CO,city,Unincorporated,,0.025
+CO,city,Unincorporated,,0.01
 CO,city,Unincorporated,,0.02
+CO,city,Unincorporated,,0.0275
+CO,city,Unincorporated,,0.03
 CO,city,Unincorporated,,0.01
 CO,city,Unincorporated,,0.01
-CO,city,Unincorporated,,0.0
-CO,city,Unincorporated,,0.0223
 CO,city,Unincorporated,,0.015
-CO,city,Unincorporated,,0.0105
-CO,city,Unincorporated,,0.02435
-CO,city,Unincorporated,,0.0237
+CO,city,Unincorporated,,0.0
+CO,city,Unincorporated,,0.02
+CO,city,Unincorporated,,0.026
+CO,city,Unincorporated,,0.0
+CO,city,Unincorporated,,0.0175
+CO,city,Unincorporated,,0.03
+CO,city,Unincorporated,,0.0
+CO,city,Unincorporated,,0.036
 CO,city,Unincorporated,,0.01
-CO,city,Unincorporated,,0.0135
-CO,city,Unincorporated,,0.016
+CO,city,Unincorporated,,0.03
+CO,city,Unincorporated,,0.0
+CO,city,Unincorporated,,0.025
+CO,city,Unincorporated,,0.01
 CO,city,Unincorporated,,0.0185
+CO,city,Unincorporated,,0.016
+CO,city,Unincorporated,,0.0135
+CO,city,Unincorporated,,0.01
+CO,city,Unincorporated,,0.0237
+CO,city,Unincorporated,,0.02435
+CO,city,Unincorporated,,0.0105
+CO,city,Unincorporated,,0.015
+CO,city,Unincorporated,,0.0223
+CO,city,Unincorporated,,0.0
 CO,city,Unincorporated,,0.01
 CO,city,Unincorporated (Berthoud Fpd),,0.01
-CO,city,Unincorporated (Berthoud Fpd),,0.03435
 CO,city,Unincorporated (Berthoud Fpd),,0.0205
-CO,city,Unincorporated (Cd Only),,0.011
+CO,city,Unincorporated (Berthoud Fpd),,0.03435
 CO,city,Unincorporated (Cd Only),,0.0085
+CO,city,Unincorporated (Cd Only),,0.011
 CO,city,Unincorporated (Cimarron Hills Fpd),,0.0323
 CO,city,Unincorporated (Clifton Fpd),,0.0337
 CO,city,Unincorporated (Dove Creek Ad),,0.02
@@ -2268,8 +2270,8 @@ FL,county,Putnam,,0.01
 FL,county,Santa Rosa,,0.01
 FL,county,Sarasota,,0.01
 FL,county,Seminole,,0.01
-FL,county,St Johns,,0.005
-FL,county,St Lucie,,0.01
+FL,county,St. Johns,,0.005
+FL,county,St. Lucie,,0.01
 FL,county,Sumter,,0.01
 FL,county,Suwannee,,0.01
 FL,county,Taylor,,0.01
@@ -2378,7 +2380,7 @@ GA,county,Long,183,0.05
 GA,county,Lowndes,185,0.04
 GA,county,Lumpkin,187,0.04
 GA,county,Macon,193,0.04
-GA,county,Madison,195,0.04
+GA,county,Madison,195,0.03
 GA,county,Marion,197,0.04
 GA,county,McDuffie,189,0.05
 GA,county,McIntosh,191,0.04
@@ -2605,20 +2607,20 @@ IL,city,Ashton,,0.015
 IL,city,Assumption,,0.02
 IL,city,Astoria,,0.015
 IL,city,Atkinson,,0.015
-IL,city,Auburn,,0.01
+IL,city,Auburn,,0.015
 IL,city,Aurora,,0.02
 IL,city,Ava,,0.01
 IL,city,Avon,,0.015
 IL,city,Baldwin,,0.01
 IL,city,Banner,,0.015
-IL,city,Bannockburn,,0.0125
-IL,city,Barclay,,0.01
+IL,city,Bannockburn,,0.0175
+IL,city,Barclay,,0.015
 IL,city,Bardolph,,0.0175
 IL,city,Barrington,,0.0375
 IL,city,Barrington Hills,,0.0275
 IL,city,Barry,,0.015
 IL,city,Bartlett,,0.025
-IL,city,Batavia,,0.0175
+IL,city,Batavia,,0.0225
 IL,city,Batchtown,,0.0175
 IL,city,Bath,,0.01
 IL,city,Bay View Gardens,,0.02
@@ -2637,12 +2639,12 @@ IL,city,Bellflower,,0.01
 IL,city,Bellmont,,0.01
 IL,city,Belvidere,,0.02
 IL,city,Bement,,0.01
-IL,city,Benld,,0.01
+IL,city,Benld,,0.02
 IL,city,Bensenville,,0.0175
 IL,city,Benson,,0.02
-IL,city,Benton,,0.0425
+IL,city,Benton,,0.0325
 IL,city,Berkeley,,0.0375
-IL,city,Berlin,,0.01
+IL,city,Berlin,,0.015
 IL,city,Berwyn,,0.045
 IL,city,Bethany,,0.005
 IL,city,Big Rock,,0.0075
@@ -2679,14 +2681,14 @@ IL,city,Brownstown,,0.01
 IL,city,Brussels,,0.0175
 IL,city,Bryant,,0.015
 IL,city,Buckley,,0.0025
-IL,city,Buckner,,0.02
+IL,city,Buckner,,0.01
 IL,city,Buda,,0.01
-IL,city,Buffalo,,0.01
+IL,city,Buffalo,,0.015
 IL,city,Buffalo Grove,,0.0175
 IL,city,Bull Valley,,0.02
 IL,city,Bulpitt,,0.01
 IL,city,Buncombe,,0.015
-IL,city,Bunker Hill,,0.01
+IL,city,Bunker Hill,,0.02
 IL,city,Burbank,,0.035
 IL,city,Bureau,,0.02
 IL,city,Burlington,,0.0075
@@ -2709,7 +2711,7 @@ IL,city,Camp Point,,0.0025
 IL,city,Campbell Hill,,0.01
 IL,city,Campton Hills,,0.0075
 IL,city,Campus,,0.01
-IL,city,Cantrall,,0.01
+IL,city,Cantrall,,0.015
 IL,city,Capron,,0.015
 IL,city,Carbon Cliff,,0.02
 IL,city,Carbondale,,0.035
@@ -2737,7 +2739,7 @@ IL,city,Chandlerville,,0.02
 IL,city,Channahon,,0.01
 IL,city,Chapin,,0.01
 IL,city,Charleston,,0.02
-IL,city,Chatham,,0.02
+IL,city,Chatham,,0.025
 IL,city,Chatsworth,,0.02
 IL,city,Chebanse,,0.0025
 IL,city,Cherry,,0.01
@@ -2748,7 +2750,7 @@ IL,city,Chicago,,0.04
 IL,city,Chicago Heights,,0.0375
 IL,city,Chillicothe,,0.015
 IL,city,Chrisman,,0.02
-IL,city,Christopher,,0.03
+IL,city,Christopher,,0.02
 IL,city,Cicero,,0.045
 IL,city,Cisco,,0.01
 IL,city,Cisne,,0.0075
@@ -2768,7 +2770,7 @@ IL,city,Cobden,,0.0225
 IL,city,Coffeen,,0.02
 IL,city,Colchester,,0.0175
 IL,city,Coleta,,0.015
-IL,city,Colona,,0.0225
+IL,city,Colona,,0.025
 IL,city,Colp,,0.02
 IL,city,Columbus,,0.0025
 IL,city,Compton,,0.015
@@ -2776,7 +2778,7 @@ IL,city,Concord,,0.01
 IL,city,Congerville,,0.02
 IL,city,Cooksville,,0.01
 IL,city,Cordova,,0.01
-IL,city,Cornell,,0.02
+IL,city,Cornell,,0.01
 IL,city,Cortland,,0.01
 IL,city,Coulterville,,0.015
 IL,city,Country Club Hills,,0.04
@@ -2792,7 +2794,7 @@ IL,city,Crossville,,0.01
 IL,city,Crystal Lake,,0.0225
 IL,city,Cuba,,0.02
 IL,city,Cullom,,0.01
-IL,city,Curran,,0.01
+IL,city,Curran,,0.015
 IL,city,Cutler,,0.015
 IL,city,Cypress,,0.015
 IL,city,Dahlgren,,0.02
@@ -2805,7 +2807,7 @@ IL,city,Danforth,,0.0025
 IL,city,Danville,,0.03
 IL,city,Darien,,0.02
 IL,city,Davis,,0.005
-IL,city,Dawson,,0.01
+IL,city,Dawson,,0.015
 IL,city,Decatur,,0.03
 IL,city,Deer Creek,,0.015
 IL,city,Deer Grove,,0.015
@@ -2845,7 +2847,7 @@ IL,city,East Galesburg,,0.015
 IL,city,East Gillespie,,0.01
 IL,city,East Hazel Crest,,0.0325
 IL,city,Easton,,0.01
-IL,city,Edgewood,,0.0025
+IL,city,Edgewood,,0.0125
 IL,city,Edinburg,,0.01
 IL,city,El Dara,,0.015
 IL,city,El Paso,,0.02
@@ -2871,7 +2873,7 @@ IL,city,Equality,,0.01
 IL,city,Eureka,,0.02
 IL,city,Evanston,,0.04
 IL,city,Evansville,,0.01
-IL,city,Ewing,,0.02
+IL,city,Ewing,,0.01
 IL,city,Exeter,,0.01
 IL,city,Fairbury,,0.01
 IL,city,Fairmount,,0.0025
@@ -2920,7 +2922,7 @@ IL,city,German Valley,,0.005
 IL,city,Gibson City,,0.01
 IL,city,Gifford,,0.0125
 IL,city,Gilberts,,0.0175
-IL,city,Gillespie,,0.01
+IL,city,Gillespie,,0.02
 IL,city,Gilman,,0.0025
 IL,city,Girard,,0.02
 IL,city,Gladstone,,0.01
@@ -2928,7 +2930,7 @@ IL,city,Glasford,,0.01
 IL,city,Glasgow,,0.01
 IL,city,Glen Ellyn,,0.02
 IL,city,Glen View,,0.011
-IL,city,Glencoe,,0.0275
+IL,city,Glencoe,,0.0375
 IL,city,Glendale Heights,,0.0225
 IL,city,Glenwood,,0.0475
 IL,city,Godley,,0.0075
@@ -2942,13 +2944,13 @@ IL,city,Goreville,,0.015
 IL,city,Gorham,,0.01
 IL,city,Grand Ridge,,0.0025
 IL,city,Grand Tower,,0.01
-IL,city,Grandview,,0.01
+IL,city,Grandview,,0.015
 IL,city,Grant Park,,0.01
 IL,city,Grantfork,,0.006
 IL,city,Grayslake,,0.0075
 IL,city,Green Oaks,,0.0175
 IL,city,Green Valley,,0.015
-IL,city,Greenfield,,0.01
+IL,city,Greenfield,,0.02
 IL,city,Greenup,,0.015
 IL,city,Greenview,,0.02
 IL,city,Greenwood,,0.01
@@ -2961,7 +2963,7 @@ IL,city,Hamburg,,0.0175
 IL,city,Hammond,,0.01
 IL,city,Hampshire,,0.0175
 IL,city,Hampton,,0.015
-IL,city,Hanaford,,0.02
+IL,city,Hanaford,,0.01
 IL,city,Hanover,,0.01
 IL,city,Hanover Park,,0.0175
 IL,city,Harmon,,0.015
@@ -3055,6 +3057,7 @@ IL,city,Kincaid,,0.01
 IL,city,Kinderhook,,0.015
 IL,city,Kingston Mines,,0.01
 IL,city,Kinmundy,,0.0125
+IL,city,Kirkland,,0.01
 IL,city,Kirkwood,,0.0175
 IL,city,Knoxville,,0.025
 IL,city,La Prairie,,0.0025
@@ -3076,7 +3079,7 @@ IL,city,Latham,,0.02
 IL,city,Lawrenceville,,0.01
 IL,city,Lee,,0.015
 IL,city,Leland,,0.0025
-IL,city,Leland Grove,,0.02
+IL,city,Leland Grove,,0.025
 IL,city,Lemont,,0.0375
 IL,city,Lena,,0.015
 IL,city,Lenzburg,,0.0035
@@ -3099,7 +3102,7 @@ IL,city,Little York,,0.0175
 IL,city,Littleton,,0.02
 IL,city,Liverpool,,0.015
 IL,city,Livingston,,0.0135
-IL,city,Loami,,0.01
+IL,city,Loami,,0.015
 IL,city,Lockport,,0.0275
 IL,city,Loda,,0.0025
 IL,city,Lomax,,0.01
@@ -3110,7 +3113,7 @@ IL,city,Longview,,0.0125
 IL,city,Loraine,,0.0025
 IL,city,Lostant,,0.0025
 IL,city,Loves Park,,0.025
-IL,city,Lovington,,0.005
+IL,city,Lovington,,0.0075
 IL,city,Ludlow,,0.0125
 IL,city,Lyndon,,0.015
 IL,city,Lynnville,,0.01
@@ -3149,7 +3152,7 @@ IL,city,Mccook,,0.0375
 IL,city,Mccullom Lake,,0.02
 IL,city,Mchenry,,0.0175
 IL,city,Mcleansboro,,0.02
-IL,city,Mechanicsburg,,0.01
+IL,city,Mechanicsburg,,0.015
 IL,city,Media,,0.01
 IL,city,Medora,,0.01
 IL,city,Melrose Park,,0.0425
@@ -3158,7 +3161,7 @@ IL,city,Mendota,,0.0125
 IL,city,Menominee,,0.01
 IL,city,Meredosia,,0.01
 IL,city,Merrionette Park,,0.0375
-IL,city,Metamora,,0.02
+IL,city,Metamora,,0.03
 IL,city,Metcalf,,0.02
 IL,city,Mettawa,,0.0075
 IL,city,Middletown,,0.02
@@ -3175,7 +3178,7 @@ IL,city,Minier,,0.005
 IL,city,Minonk,,0.02
 IL,city,Minooka,,0.01
 IL,city,Modesto,,0.01
-IL,city,Mokena,,0.0125
+IL,city,Mokena,,0.0175
 IL,city,Monee,,0.0175
 IL,city,Monroe Center,,0.01
 IL,city,Montgomery,,0.0175
@@ -3204,7 +3207,7 @@ IL,city,Nebo,,0.015
 IL,city,Nelson,,0.015
 IL,city,Neponset,,0.02
 IL,city,New Bedford,,0.01
-IL,city,New Berlin,,0.01
+IL,city,New Berlin,,0.015
 IL,city,New Boston,,0.01
 IL,city,New Burnside,,0.015
 IL,city,New Canton,,0.015
@@ -3228,7 +3231,7 @@ IL,city,Norris City,,0.01
 IL,city,North Aurora,,0.0175
 IL,city,North Barrington,,0.0075
 IL,city,North Chicago,,0.0175
-IL,city,North City,,0.02
+IL,city,North City,,0.01
 IL,city,North Henderson,,0.01
 IL,city,North Pekin,,0.005
 IL,city,North Riverside,,0.0375
@@ -3264,7 +3267,7 @@ IL,city,Oquawka,,0.01
 IL,city,Orangeville,,0.005
 IL,city,Oreana,,0.015
 IL,city,Oregon,,0.01
-IL,city,Orient,,0.02
+IL,city,Orient,,0.01
 IL,city,Orion,,0.015
 IL,city,Orland Hills,,0.0375
 IL,city,Orland Park,,0.04
@@ -3282,12 +3285,12 @@ IL,city,Panola,,0.02
 IL,city,Papineau,,0.0025
 IL,city,Paris,,0.025
 IL,city,Park City,,0.0175
-IL,city,Park Forest,,0.0275
+IL,city,Park Forest,,0.0375
 IL,city,Park Ridge,,0.0375
 IL,city,Parkersburg,,0.015
 IL,city,Patoka,,0.0125
 IL,city,Paw Paw,,0.015
-IL,city,Pawnee,,0.01
+IL,city,Pawnee,,0.015
 IL,city,Payson,,0.0025
 IL,city,Pearl,,0.015
 IL,city,Pearl City,,0.005
@@ -3309,7 +3312,7 @@ IL,city,Plainville,,0.0025
 IL,city,Plano,,0.01
 IL,city,Plattville,,0.01
 IL,city,Pleasant Hill,,0.015
-IL,city,Pleasant Plains,,0.02
+IL,city,Pleasant Plains,,0.025
 IL,city,Plymouth,,0.0175
 IL,city,Poplar Grove,,0.015
 IL,city,Port Barrington,,0.0075
@@ -3343,12 +3346,12 @@ IL,city,Ripley,,0.0125
 IL,city,River Forest,,0.0375
 IL,city,River Grove,,0.0475
 IL,city,Riverdale,,0.0375
-IL,city,Riverton,,0.01
+IL,city,Riverton,,0.015
 IL,city,Riverwoods,,0.0175
-IL,city,Roanoke,,0.02
+IL,city,Roanoke,,0.03
 IL,city,Robbins,,0.0425
 IL,city,Rochelle,,0.01
-IL,city,Rochester,,0.01
+IL,city,Rochester,,0.015
 IL,city,Rock City,,0.005
 IL,city,Rock Falls,,0.025
 IL,city,Rockbridge,,0.01
@@ -3372,7 +3375,7 @@ IL,city,Round Lake Park,,0.0075
 IL,city,Roxana,,0.006
 IL,city,Royal,,0.0125
 IL,city,Royal Lakes,,0.01
-IL,city,Royalton,,0.02
+IL,city,Royalton,,0.01
 IL,city,Ruma,,0.01
 IL,city,Rushville,,0.02
 IL,city,Russellville,,0.01
@@ -3400,7 +3403,7 @@ IL,city,Sawyerville,,0.01
 IL,city,Saybrook,,0.01
 IL,city,Scales Mound,,0.01
 IL,city,Schaumburg,,0.0375
-IL,city,Schiller Park,,0.035
+IL,city,Schiller Park,,0.0425
 IL,city,Schram City,,0.01
 IL,city,Sciota,,0.0175
 IL,city,Scottville,,0.01
@@ -3408,7 +3411,7 @@ IL,city,Seaton,,0.01
 IL,city,Seatonville,,0.01
 IL,city,Secor,,0.02
 IL,city,Seneca,,0.0025
-IL,city,Sesser,,0.0325
+IL,city,Sesser,,0.0225
 IL,city,Shabbona,,0.01
 IL,city,Shannon,,0.0025
 IL,city,Shawneetown,,0.01
@@ -3438,9 +3441,9 @@ IL,city,South Elgin,,0.0175
 IL,city,South Holland,,0.0325
 IL,city,South Jacksonville,,0.01
 IL,city,South Pekin,,0.01
-IL,city,Southern View,,0.01
+IL,city,Southern View,,0.015
 IL,city,Sparta,,0.02
-IL,city,Spaulding,,0.01
+IL,city,Spaulding,,0.015
 IL,city,Spillertown,,0.02
 IL,city,Spring Bay,,0.02
 IL,city,Spring Grove,,0.02
@@ -3476,10 +3479,10 @@ IL,city,Taylor Springs,,0.01
 IL,city,Tennessee,,0.0175
 IL,city,Teutopolis,,0.0025
 IL,city,Thawville,,0.0025
-IL,city,Thayer,,0.01
+IL,city,Thayer,,0.015
 IL,city,Third Lake,,0.0075
 IL,city,Thomasboro,,0.0125
-IL,city,Thompsonville,,0.02
+IL,city,Thompsonville,,0.01
 IL,city,Thornton,,0.0375
 IL,city,Tilden,,0.01
 IL,city,Tilton,,0.0275
@@ -3495,7 +3498,7 @@ IL,city,Toulon,,0.0125
 IL,city,Tovey,,0.01
 IL,city,Towanda,,0.01
 IL,city,Tower Hill,,0.01
-IL,city,Tower Lakes,,0.0075
+IL,city,Tower Lakes,,0.0175
 IL,city,Trout Valley,,0.01
 IL,city,Troy Grove,,0.0025
 IL,city,Tuscola,,0.015
@@ -3503,7 +3506,7 @@ IL,city,Union,,0.01
 IL,city,University Park,,0.0175
 IL,city,Urbana,,0.0275
 IL,city,Ursa,,0.0025
-IL,city,Valier,,0.03
+IL,city,Valier,,0.02
 IL,city,Valley City,,0.015
 IL,city,Valmeyer,,0.0125
 IL,city,Vergennes,,0.01
@@ -3546,22 +3549,22 @@ IL,city,Wenona,,0.0025
 IL,city,Wenonah,,0.01
 IL,city,West Brooklyn,,0.015
 IL,city,West Chicago,,0.0225
-IL,city,West City,,0.03
-IL,city,West Frankfort,,0.03
+IL,city,West City,,0.02
+IL,city,West Frankfort,,0.02
 IL,city,West Peoria,,0.015
 IL,city,West Salem,,0.01
 IL,city,Westchester,,0.0375
-IL,city,Western Springs,,0.0275
+IL,city,Western Springs,,0.0375
 IL,city,Westfield,,0.01
 IL,city,Westmont,,0.0175
-IL,city,Wheaton,,0.0175
+IL,city,Wheaton,,0.02
 IL,city,Wheeler,,0.01
 IL,city,Wheeling,,0.0375
 IL,city,White City,,0.01
-IL,city,White Hall,,0.01
+IL,city,White Hall,,0.02
 IL,city,Williamsfield,,0.025
 IL,city,Williamson,,0.0035
-IL,city,Williamsville,,0.025
+IL,city,Williamsville,,0.03
 IL,city,Willisville,,0.025
 IL,city,Willow Hill,,0.01
 IL,city,Willow Springs,,0.0375
@@ -3572,7 +3575,7 @@ IL,city,Winchester,,0.01
 IL,city,Windsor,,0.01
 IL,city,Winfield,,0.0175
 IL,city,Winnebago,,0.025
-IL,city,Winnetka,,0.0275
+IL,city,Winnetka,,0.0375
 IL,city,Winslow,,0.005
 IL,city,Winthrop Harbor,,0.0075
 IL,city,Witt,,0.02
@@ -3591,7 +3594,7 @@ IL,city,Wyoming,,0.0125
 IL,city,Xenia,,0.005
 IL,city,Yale,,0.01
 IL,city,Yates City,,0.015
-IL,city,Zeigler,,0.02
+IL,city,Zeigler,,0.01
 IL,city,Zion,,0.0075
 IL,county,Adams County,,0.0025
 IL,county,Bond County,,0.01
@@ -3614,7 +3617,7 @@ IL,county,Edgar County,,0.02
 IL,county,Edwards County,,0.01
 IL,county,Effingham County,,0.0025
 IL,county,Fayette County,,0.01
-IL,county,Franklin County,,0.02
+IL,county,Franklin County,,0.01
 IL,county,Fulton County,,0.015
 IL,county,Gallatin County,,0.01
 IL,county,Greene County,,0.01
@@ -3661,7 +3664,7 @@ IL,county,Richland County,,0.015
 IL,county,Rock Island County,,0.01
 IL,county,Saint Clair County,,0.011
 IL,county,Saline County,,0.0175
-IL,county,Sangamon County,,0.01
+IL,county,Sangamon County,,0.015
 IL,county,Schuyler County,,0.02
 IL,county,Scott County,,0.01
 IL,county,Shelby County,,0.01
@@ -3684,6 +3687,7 @@ KS,city,Alden,00950,0.01
 KS,city,Alma,01350,0.01
 KS,city,Almena,01425,0.005
 KS,city,Altamont,01550,0.015
+KS,city,Altoona,01625,0.02
 KS,city,Americus,01675,0.01
 KS,city,Andover,01800,0.02
 KS,city,Anthony,01975,0.005
@@ -3779,7 +3783,7 @@ KS,city,Fort Scott,24000,0.015
 KS,city,Fowler,24175,0.01
 KS,city,Frankfort,24275,0.015
 KS,city,Fredonia,24575,0.025
-KS,city,Frontenac,24850,0.0125
+KS,city,Frontenac,24850,0.02
 KS,city,Galena,25100,0.01
 KS,city,Garden City,25325,0.0115
 KS,city,Garden Plain,25375,0.01
@@ -3802,7 +3806,7 @@ KS,city,Harper,30175,0.02
 KS,city,Hartford,30475,0.01
 KS,city,Hays,31100,0.0225
 KS,city,Haysville,31125,0.01
-KS,city,Herington,31400,0.01
+KS,city,Herington,31400,0.02
 KS,city,Hiawatha,31675,0.015
 KS,city,Highland,31850,0.01
 KS,city,Hill City,32175,0.01
@@ -3932,7 +3936,7 @@ KS,city,Potwin,57300,0.01
 KS,city,Prairie Village,57575,0.01
 KS,city,Pratt,57625,0.0075
 KS,city,Pretty Prairie,57700,0.01
-KS,city,Princeton,57725,0.015
+KS,city,Princeton,57725,0.02
 KS,city,Protection,57850,0.015
 KS,city,Quinter,58250,0.01
 KS,city,Randolph,58475,0.01
@@ -4070,7 +4074,7 @@ KS,county,Morton,129,0.01
 KS,county,Nemaha,131,0.015
 KS,county,Neosho,133,0.0175
 KS,county,Norton,137,0.0175
-KS,county,Osage,139,0.015
+KS,county,Osage,139,0.01
 KS,county,Osborne,141,0.015
 KS,county,Ottawa,143,0.01
 KS,county,Pawnee,145,0.02
@@ -4323,6 +4327,7 @@ KS,special_district,Special District 21144,21144,0.0125
 KS,special_district,Special District 21145,21145,0.02
 KS,special_district,Special District 21146,21146,0.01
 KS,special_district,Special District 21147,21147,0.01
+KS,special_district,Special District 21148,21148,0.015
 KS,special_district,Special District 21149,21149,0.02
 KS,special_district,Special District 21150,21150,0.02
 KS,special_district,Special District 21151,21151,0.015
@@ -4396,6 +4401,18 @@ KS,special_district,Special District 21218,21218,0.02
 KS,special_district,Special District 21219,21219,0.015
 KS,special_district,Special District 21220,21220,0.02
 KS,special_district,Special District 21221,21221,0.02
+KS,special_district,Special District 21222,21222,0.01
+KS,special_district,Special District 21223,21223,0.02
+KS,special_district,Special District 21224,21224,0.01
+KS,special_district,Special District 21225,21225,0.01
+KS,special_district,Special District 21226,21226,0.02
+KS,special_district,Special District 21227,21227,0.02
+KS,special_district,Special District 21228,21228,0.02
+KS,special_district,Special District 21229,21229,0.0075
+KS,special_district,Special District 21230,21230,0.02
+KS,special_district,Special District 21231,21231,0.015
+KS,special_district,Special District 21232,21232,0.02
+KS,special_district,Special District 21233,21233,0.02
 KS,special_district,Special District AEATC,AEATC,0.02
 KS,special_district,Special District ALBAS,ALBAS,0.0125
 KS,special_district,Special District ALELS,ALELS,0.0125
@@ -4467,11 +4484,13 @@ KS,special_district,Special District C10HA,C10HA,0.0425
 KS,special_district,Special District C10LE,C10LE,0.0385
 KS,special_district,Special District C10OL,C10OL,0.04975
 KS,special_district,Special District C10OV,C10OV,0.0385
+KS,special_district,Special District C10TO,C10TO,0.0435
 KS,special_district,Special District C10WI,C10WI,0.03
 KS,special_district,Special District C11DO,C11DO,0.045
 KS,special_district,Special District C11LE,C11LE,0.0385
 KS,special_district,Special District C11OL,C11OL,0.04975
 KS,special_district,Special District C11OV,C11OV,0.0385
+KS,special_district,Special District C11TO,C11TO,0.0485
 KS,special_district,Special District C11WI,C11WI,0.03
 KS,special_district,Special District C12DO,C12DO,0.035
 KS,special_district,Special District C12LE,C12LE,0.0385
@@ -4479,9 +4498,11 @@ KS,special_district,Special District C12OL,C12OL,0.03975
 KS,special_district,Special District C12OV,C12OV,0.0385
 KS,special_district,Special District C12WI,C12WI,0.03
 KS,special_district,Special District C13LE,C13LE,0.0385
+KS,special_district,Special District C13OL,C13OL,0.04975
 KS,special_district,Special District C13OV,C13OV,0.0385
 KS,special_district,Special District C13WI,C13WI,0.03
 KS,special_district,Special District C14LE,C14LE,0.0385
+KS,special_district,Special District C14OL,C14OL,0.04975
 KS,special_district,Special District C14OV,C14OV,0.0385
 KS,special_district,Special District C14WI,C14WI,0.03
 KS,special_district,Special District C15LE,C15LE,0.0385
@@ -4520,7 +4541,7 @@ KS,special_district,Special District C1EMP,C1EMP,0.03
 KS,special_district,Special District C1FAI,C1FAI,0.04975
 KS,special_district,Special District C1FAR,C1FAR,0.03
 KS,special_district,Special District C1FOR,C1FOR,0.0415
-KS,special_district,Special District C1FRO,C1FRO,0.035
+KS,special_district,Special District C1FRO,C1FRO,0.0425
 KS,special_district,Special District C1GAD,C1GAD,0.03975
 KS,special_district,Special District C1GAN,C1GAN,0.045
 KS,special_district,Special District C1GAR,C1GAR,0.0395
@@ -4557,11 +4578,13 @@ KS,special_district,Special District C1PAK,C1PAK,0.04
 KS,special_district,Special District C1PAO,C1PAO,0.04
 KS,special_district,Special District C1PAR,C1PAR,0.0475
 KS,special_district,Special District C1PIT,C1PIT,0.034
+KS,special_district,Special District C1POT,C1POT,0.0175
 KS,special_district,Special District C1PRA,C1PRA,0.03475
 KS,special_district,Special District C1ROE,C1ROE,0.03975
 KS,special_district,Special District C1RUS,C1RUS,0.0475
 KS,special_district,Special District C1SAL,C1SAL,0.0475
 KS,special_district,Special District C1SHA,C1SHA,0.036
+KS,special_district,Special District C1SNC,C1SNC,0.0485
 KS,special_district,Special District C1SOU,C1SOU,0.0275
 KS,special_district,Special District C1TOP,C1TOP,0.0385
 KS,special_district,Special District C1WAB,C1WAB,0.035
@@ -4570,9 +4593,10 @@ KS,special_district,Special District C1WEL,C1WEL,0.0425
 KS,special_district,Special District C1WES,C1WES,0.04075
 KS,special_district,Special District C1WIC,C1WIC,0.03
 KS,special_district,Special District C20LE,C20LE,0.0385
-KS,special_district,Special District C20OV,C20OV,0.0285
+KS,special_district,Special District C20OV,C20OV,0.0435
 KS,special_district,Special District C20WI,C20WI,0.03
 KS,special_district,Special District C21OV,C21OV,0.0385
+KS,special_district,Special District C21WI,C21WI,0.03
 KS,special_district,Special District C22OV,C22OV,0.0435
 KS,special_district,Special District C23OV,C23OV,0.0385
 KS,special_district,Special District C2ABI,C2ABI,0.0485
@@ -4609,6 +4633,7 @@ KS,special_district,Special District C2MIS,C2MIS,0.04225
 KS,special_district,Special District C2OLA,C2OLA,0.03975
 KS,special_district,Special District C2OTT,C2OTT,0.0375
 KS,special_district,Special District C2OVE,C2OVE,0.0385
+KS,special_district,Special District C2PAR,C2PAR,0.0475
 KS,special_district,Special District C2PIT,C2PIT,0.035
 KS,special_district,Special District C2PRA,C2PRA,0.03475
 KS,special_district,Special District C2ROE,C2ROE,0.04975
@@ -4680,6 +4705,7 @@ KS,special_district,Special District C5OVE,C5OVE,0.0435
 KS,special_district,Special District C5SAL,C5SAL,0.0475
 KS,special_district,Special District C5TOP,C5TOP,0.0485
 KS,special_district,Special District C5WIC,C5WIC,0.03
+KS,special_district,Special District C6ABI,C6ABI,0.0385
 KS,special_district,Special District C6DOD,C6DOD,0.045
 KS,special_district,Special District C6ELD,C6ELD,0.02
 KS,special_district,Special District C6GAR,C6GAR,0.0395
@@ -4810,7 +4836,7 @@ KS,special_district,Special District COMOT,COMOT,0.01
 KS,special_district,Special District CONEM,CONEM,0.015
 KS,special_district,Special District CONEO,CONEO,0.0175
 KS,special_district,Special District CONOR,CONOR,0.0175
-KS,special_district,Special District COOSA,COOSA,0.015
+KS,special_district,Special District COOSA,COOSA,0.01
 KS,special_district,Special District COOSB,COOSB,0.015
 KS,special_district,Special District COOTT,COOTT,0.01
 KS,special_district,Special District COPAW,COPAW,0.02
@@ -4855,7 +4881,7 @@ KS,special_district,Special District CQSED,CQSED,0.025
 KS,special_district,Special District CRARC,CRARC,0.01
 KS,special_district,Special District CRARM,CRARM,0.02
 KS,special_district,Special District CRCHE,CRCHE,0.025
-KS,special_district,Special District CRFRO,CRFRO,0.0225
+KS,special_district,Special District CRFRO,CRFRO,0.03
 KS,special_district,Special District CRGIR,CRGIR,0.025
 KS,special_district,Special District CRHEP,CRHEP,0.01
 KS,special_district,Special District CRMCC,CRMCC,0.02
@@ -4891,7 +4917,7 @@ KS,special_district,Special District DKABI,DKABI,0.0285
 KS,special_district,Special District DKCAR,DKCAR,0.0175
 KS,special_district,Special District DKCHA,DKCHA,0.0275
 KS,special_district,Special District DKENT,DKENT,0.0175
-KS,special_district,Special District DKHER,DKHER,0.0275
+KS,special_district,Special District DKHER,DKHER,0.0375
 KS,special_district,Special District DKHOP,DKHOP,0.0175
 KS,special_district,Special District DKMAN,DKMAN,0.0175
 KS,special_district,Special District DKSOL,DKSOL,0.0275
@@ -4933,7 +4959,7 @@ KS,special_district,Special District FOSPE,FOSPE,0.01
 KS,special_district,Special District FRLAN,FRLAN,0.025
 KS,special_district,Special District FROTT,FROTT,0.03
 KS,special_district,Special District FRPOM,FRPOM,0.035
-KS,special_district,Special District FRPRI,FRPRI,0.03
+KS,special_district,Special District FRPRI,FRPRI,0.035
 KS,special_district,Special District FRRAN,FRRAN,0.015
 KS,special_district,Special District FRRIC,FRRIC,0.0175
 KS,special_district,Special District FRWEL,FRWEL,0.03
@@ -5130,7 +5156,7 @@ KS,special_district,Special District MPWIN,MPWIN,0.02
 KS,special_district,Special District MRCOU,MRCOU,0.027
 KS,special_district,Special District MRDUN,MRDUN,0.01
 KS,special_district,Special District MRDWI,MRDWI,0.01
-KS,special_district,Special District MRHER,MRHER,0.02
+KS,special_district,Special District MRHER,MRHER,0.03
 KS,special_district,Special District MRLAT,MRLAT,0.01
 KS,special_district,Special District MRPAR,MRPAR,0.01
 KS,special_district,Special District MRWHI,MRWHI,0.01
@@ -5149,6 +5175,9 @@ KS,special_district,Special District MTRIC,MTRIC,0.01
 KS,special_district,Special District MTROL,MTROL,0.03
 KS,special_district,Special District N12KA,N12KA,0.02625
 KS,special_district,Special District N13KA,N13KA,0.02625
+KS,special_district,Special District N17KA,N17KA,0.04625
+KS,special_district,Special District N18KA,N18KA,0.03625
+KS,special_district,Special District N19KA,N19KA,0.03625
 KS,special_district,Special District NMBER,NMBER,0.015
 KS,special_district,Special District NMCEN,NMCEN,0.015
 KS,special_district,Special District NMCOR,NMCOR,0.015
@@ -5178,15 +5207,15 @@ KS,special_district,Special District OBNAT,OBNAT,0.015
 KS,special_district,Special District OBOSB,OBOSB,0.015
 KS,special_district,Special District OBPOR,OBPOR,0.015
 KS,special_district,Special District OPGOD,OPGOD,0.02
-KS,special_district,Special District OSBUR,OSBUR,0.03
-KS,special_district,Special District OSCAR,OSCAR,0.035
-KS,special_district,Special District OSLYN,OSLYN,0.03
-KS,special_district,Special District OSMEL,OSMEL,0.025
-KS,special_district,Special District OSOLI,OSOLI,0.015
-KS,special_district,Special District OSOSA,OSOSA,0.03
-KS,special_district,Special District OSOVE,OSOVE,0.025
-KS,special_district,Special District OSQUE,OSQUE,0.015
-KS,special_district,Special District OSSCR,OSSCR,0.025
+KS,special_district,Special District OSBUR,OSBUR,0.025
+KS,special_district,Special District OSCAR,OSCAR,0.03
+KS,special_district,Special District OSLYN,OSLYN,0.025
+KS,special_district,Special District OSMEL,OSMEL,0.02
+KS,special_district,Special District OSOLI,OSOLI,0.01
+KS,special_district,Special District OSOSA,OSOSA,0.025
+KS,special_district,Special District OSOVE,OSOVE,0.02
+KS,special_district,Special District OSQUE,OSQUE,0.01
+KS,special_district,Special District OSSCR,OSSCR,0.02
 KS,special_district,Special District OTBEN,OTBEN,0.02
 KS,special_district,Special District OTCUL,OTCUL,0.01
 KS,special_district,Special District OTDEL,OTDEL,0.02
@@ -5428,7 +5457,7 @@ KS,special_district,Special District WBSAM,WBSAM,0.025
 KS,special_district,Special District WBWIL,WBWIL,0.0225
 KS,special_district,Special District WCKAN,WCKAN,0.04625
 KS,special_district,Special District WHLEO,WHLEO,0.02
-KS,special_district,Special District WLALT,WLALT,0.01
+KS,special_district,Special District WLALT,WLALT,0.03
 KS,special_district,Special District WLBEN,WLBEN,0.01
 KS,special_district,Special District WLBUF,WLBUF,0.01
 KS,special_district,Special District WLCOY,WLCOY,0.01
@@ -5517,10 +5546,10 @@ LA,parish,Balance of Bienville Parish,0700,0.03
 LA,parish,General Sales,2600,0.0475
 LA,parish,Outside Incorporated Municipality Areas,4700,0.035
 LA,parish,Parish Sales,1300,0.06
-LA,parish,Parish Wide,4800,0.0525
+LA,parish,Parish Wide,4400,0.05
 LA,parish,Parish Wide,1900,0.05
 LA,parish,Parish Wide,3800,0.0475
-LA,parish,Parish Wide,4400,0.05
+LA,parish,Parish Wide,4800,0.0525
 LA,parish,Parish Wide,4500,0.05
 LA,parish,Parish of  Terrebonne,5500,0.055
 LA,parish,Parish of  W.B.R.,6100,0.0525
@@ -5665,6 +5694,7 @@ MN,special_district,Special District 80009,80009,0.0025
 MN,special_district,Special District 80011,80011,0.00625
 MN,special_district,Special District 80012,80012,0.00375
 MN,special_district,Special District 80013,80013,0.0025
+MN,special_district,Special District 80054,80054,0.005
 MN,transit,Hennepin County transit tax,,0.005
 MN,transit,Twin Cities metro transportation tax,,0.0075
 MO,city,Adrian,,0.0375
@@ -7352,6 +7382,7 @@ NC,county,Wilkes,193,0.0225
 NC,county,Wilson,195,0.02
 NC,county,Yadkin,197,0.02
 NC,county,Yancey,199,0.02
+NC,special_district,Special District 98119,98119,0.01
 NC,special_district,Special District 99063,99063,0.005
 NC,special_district,Special District 99119,99119,0.005
 NC,special_district,Special District 99135,99135,0.005
@@ -7385,7 +7416,7 @@ ND,city,Crosby,16940,0.03
 ND,city,Devils Lake,19420,0.025
 ND,city,Dickinson,19620,0.015
 ND,city,Drake,20300,0.02
-ND,city,Drayton,20340,0.015
+ND,city,Drayton,20340,0.035
 ND,city,Dunseith,21020,0.02
 ND,city,Edgeley,22140,0.03
 ND,city,Edinburg,22260,0.01
@@ -7479,7 +7510,7 @@ ND,city,Richardton,66500,0.025
 ND,city,Rolette,67780,0.02
 ND,city,Rolla,67820,0.03
 ND,city,Rugby,68860,0.02
-ND,city,Scranton,71500,0.01
+ND,city,Scranton,71500,0.02
 ND,city,Sherwood,72540,0.02
 ND,city,South Heart,74185,0.02
 ND,city,St. John,69980,0.01
@@ -7596,7 +7627,7 @@ NE,city,Dorchester,13435,0.015
 NE,city,Douglas,13505,0.015
 NE,city,Duncan,13890,0.015
 NE,city,Eagle,14100,0.01
-NE,city,Edgar,14450,0.01
+NE,city,Edgar,14450,0.015
 NE,city,Edison,14520,0.01
 NE,city,Elgin,14730,0.01
 NE,city,Elm Creek,15360,0.015
@@ -8275,7 +8306,7 @@ OK,city,Caney,11550,0.02
 OK,city,Canton,11600,0.04
 OK,city,Canute,11650,0.04
 OK,city,Carlton Landing,11990,0.03
-OK,city,Carmen,12000,0.03
+OK,city,Carmen,12000,0.035
 OK,city,Carnegie,12050,0.04
 OK,city,Carney,12100,0.04
 OK,city,Carter,12300,0.04
@@ -8303,7 +8334,7 @@ OK,city,Cleo Springs,15300,0.05
 OK,city,Cleora,15250,0.02
 OK,city,Cleveland,15350,0.035
 OK,city,Clinton,15400,0.045
-OK,city,Coalgate,15800,0.03
+OK,city,Coalgate,15800,0.04
 OK,city,Colbert,16050,0.04
 OK,city,Colcord,16100,0.04
 OK,city,Cole,16200,0.04
@@ -8426,7 +8457,7 @@ OK,city,Hochatown,35030,0.03
 OK,city,Holdenville,35400,0.05
 OK,city,Hollis,35500,0.03
 OK,city,Hollister,35550,0.03
-OK,city,Hominy,35850,0.035
+OK,city,Hominy,35850,0.03
 OK,city,Hooker,36000,0.04
 OK,city,Howe,36150,0.03
 OK,city,Hugo,36300,0.035
@@ -8550,7 +8581,7 @@ OK,city,Okemah,54200,0.035
 OK,city,Oklahoma City,55000,0.04125
 OK,city,Okmulgee,55150,0.04
 OK,city,Oktaha,55200,0.04
-OK,city,Olustee,55450,0.01
+OK,city,Olustee,55450,0.03
 OK,city,Oologah,55750,0.03
 OK,city,Orlando,56050,0.04
 OK,city,Owasso,56650,0.0405
@@ -8586,7 +8617,7 @@ OK,city,Ramona,61700,0.02
 OK,city,Ratliff City,61900,0.035
 OK,city,Rattan,61950,0.035
 OK,city,Ravia,62000,0.03
-OK,city,Red Oak,62550,0.03
+OK,city,Red Oak,62550,0.0375
 OK,city,Red Rock,62650,0.05
 OK,city,Renfrow,62900,0.04
 OK,city,Rentiesville,62950,0.04
@@ -8624,7 +8655,7 @@ OK,city,Slick,68000,0.03
 OK,city,Smithville,68250,0.005
 OK,city,Snyder,68400,0.04
 OK,city,Soper,68500,0.02
-OK,city,South Coffeyville,68600,0.02
+OK,city,South Coffeyville,68600,0.035
 OK,city,Sparks,68950,0.04
 OK,city,Spavinaw,69050,0.04
 OK,city,Spencer,69200,0.05
@@ -8673,7 +8704,7 @@ OK,city,Tushka,75250,0.035
 OK,city,Tuttle,75450,0.045
 OK,city,Tyrone,75750,0.03
 OK,city,Union City,75950,0.045
-OK,city,Valley Brook,76500,0.03
+OK,city,Valley Brook,76500,0.045
 OK,city,Valliant,76650,0.03
 OK,city,Velma,76900,0.04
 OK,city,Vera,76950,0.02
@@ -8930,7 +8961,7 @@ OK,special_district,Special District 98239,98239,0.015
 OK,special_district,Special District 98240,98240,0.02
 OK,special_district,Special District 98241,98241,0.02
 OK,special_district,Special District 98242,98242,0.0125
-OK,special_district,Special District 98243,98243,0.045
+OK,special_district,Special District 98243,98243,0.015
 OK,special_district,Special District 98244,98244,0.02
 OK,special_district,Special District 98245,98245,0.02
 OK,special_district,Special District 98246,98246,0.02
@@ -9036,7 +9067,7 @@ OK,special_district,Special District 98359,98359,0.04
 OK,special_district,Special District 98361,98361,0.04
 OK,special_district,Special District 98362,98362,0.04
 OK,special_district,Special District 98363,98363,0.04125
-OK,special_district,Special District 98364,98364,0.03
+OK,special_district,Special District 98364,98364,0.04125
 OK,special_district,Special District 98365,98365,0.04125
 OK,special_district,Special District 98366,98366,0.0375
 OK,special_district,Special District 98367,98367,0.04
@@ -9044,7 +9075,7 @@ OK,special_district,Special District 98368,98368,0.04125
 OK,special_district,Special District 98369,98369,0.03875
 OK,special_district,Special District 98371,98371,0.04125
 OK,special_district,Special District 98372,98372,0.04125
-OK,special_district,Special District 98373,98373,0.03
+OK,special_district,Special District 98373,98373,0.04125
 OK,special_district,Special District 98374,98374,0.04125
 OK,special_district,Special District 98375,98375,0.04125
 OK,special_district,Special District 98376,98376,0.00125
@@ -9769,7 +9800,7 @@ SD,city,Selby,58140,0.02
 SD,city,Sherman,58580,0.01
 SD,city,Sioux Falls,59020,0.02
 SD,city,Sisseton,59260,0.02
-SD,city,South Shore,59940,0.01
+SD,city,South Shore,59940,0.02
 SD,city,Spearfish,60020,0.02
 SD,city,Spencer,60060,0.02
 SD,city,Springfield,60660,0.02
@@ -11155,8 +11186,8 @@ TX,city,O Brien,,0.01
 TX,city,ODonnell,,0.01
 TX,city,Oak Leaf,,0.0175
 TX,city,Oak Point,,0.0175
-TX,city,Oak Ridge,,0.02
 TX,city,Oak Ridge,,0.015
+TX,city,Oak Ridge,,0.02
 TX,city,Oak Ridge N/Mont Co ESD 8,,0.02
 TX,city,Oak Ridge North,,0.02
 TX,city,Oak Valley,,0.01
@@ -12270,6 +12301,7 @@ UT,city,City 02301,02301,0.003
 UT,city,City 02504,02504,0.003
 UT,city,City 03301,03301,0.003
 UT,city,City 04501,04501,0.003
+UT,city,City 07501,07501,0.004
 UT,city,City 11301,11301,0.001
 UT,city,City 11502,11502,0.001
 UT,city,City 11503,11503,0.001
@@ -12278,6 +12310,7 @@ UT,city,City 14501,14501,0.004
 UT,city,City 18602,18602,0.01
 UT,city,City 18604,18604,0.01
 UT,city,City 18705,18705,0.01
+UT,city,City 19501,19501,0.004
 UT,city,City 20301,20301,0.003
 UT,city,City 20302,20302,0.004
 UT,city,City 20501,20501,0.004
@@ -12292,12 +12325,14 @@ UT,city,City 25305,25305,0.001
 UT,city,City 25306,25306,0.001
 UT,city,City 25307,25307,0.001
 UT,city,City 25504,25504,0.001
+UT,city,City 25505,25505,0.001
 UT,city,City 27301,27301,0.003
 UT,city,City 44975,44975,0.003
 UT,city,City 72720,72720,0.003
+UT,city,City 97012,97012,0.001
 UT,city,City 97014,97014,0.002
 UT,city,City 97018,97018,0.019
-UT,city,City 97019,97019,0.0035
+UT,city,City 97019,97019,0.001
 UT,city,City 97020,97020,0.011
 UT,city,City 97022,97022,0.011
 UT,city,City 97024,97024,0.011
@@ -12400,6 +12435,7 @@ UT,city,Santa Clara,67660,0.003
 UT,city,Santaquin,67770,0.001
 UT,city,Saratoga Springs,67825,0.001
 UT,city,Scipio,67880,0.003
+UT,city,Sigurd,68650,0.003
 UT,city,Smithfield,69640,0.003
 UT,city,Snowville,69970,0.01
 UT,city,South Salt Lake,71070,0.002
@@ -12409,6 +12445,7 @@ UT,city,Springdale,71840,0.0193
 UT,city,Springville,72280,0.001
 UT,city,St. George,65330,0.003
 UT,city,Sterling,72940,0.003
+UT,city,Stockton,73050,0.01
 UT,city,Syracuse,74810,0.001
 UT,city,Tooele,76680,0.004
 UT,city,Toquerville,76900,0.0033
@@ -12589,18 +12626,25 @@ VT,city,Burlington,10675,0.01
 VT,city,City 05650,05650,0.01
 VT,city,City 07750,07750,0.01
 VT,city,City 07900,07900,0.01
+VT,city,City 09025,09025,0.01
 VT,city,City 14875,14875,0.01
 VT,city,City 17875,17875,0.01
+VT,city,City 25375,25375,0.01
 VT,city,City 32275,32275,0.01
 VT,city,City 41275,41275,0.01
 VT,city,City 42850,42850,0.01
 VT,city,City 43375,43375,0.01
+VT,city,City 44125,44125,0.01
 VT,city,City 44350,44350,0.01
+VT,city,City 46675,46675,0.01
+VT,city,City 56350,56350,0.01
 VT,city,City 61300,61300,0.01
 VT,city,City 61750,61750,0.01
 VT,city,City 64300,64300,0.01
 VT,city,City 70525,70525,0.01
 VT,city,City 70750,70750,0.01
+VT,city,City 71725,71725,0.01
+VT,city,City 75325,75325,0.01
 VT,city,City 76975,76975,0.01
 VT,city,City 84475,84475,0.01
 VT,city,City 84700,84700,0.01
@@ -12611,10 +12655,11 @@ VT,city,Montpelier,46000,0.01
 VT,city,Rutland,61225,0.01
 VT,city,South Burlington,66175,0.01
 VT,city,St. Albans,61675,0.01
+VT,city,Vergennes,74650,0.01
 VT,city,Winooski,85150,0.01
 WA,city,Aberdeen,00100,0.0258
 WA,city,Airway Heights,00905,0.027
-WA,city,Albion,01010,0.014
+WA,city,Albion,01010,0.015
 WA,city,Algona,01290,0.039
 WA,city,Almira,01500,0.015
 WA,city,Anacortes,01990,0.024
@@ -12624,37 +12669,37 @@ WA,city,Bainbridge Island,03736,0.027
 WA,city,Battle Ground,04475,0.024
 WA,city,Beaux Arts Village,04895,0.038
 WA,city,Bellevue,05210,0.038
-WA,city,Bellingham,05280,0.026
+WA,city,Bellingham,05280,0.027
 WA,city,Benton City,05560,0.022
 WA,city,Bingen,06085,0.012
 WA,city,Black Diamond,06330,0.025
-WA,city,Blaine,06505,0.025
-WA,city,Bonney Lake,07170,0.03
+WA,city,Blaine,06505,0.026
+WA,city,Bonney Lake,07170,0.031
 WA,city,Bremerton,07695,0.027
 WA,city,Brewster,07835,0.019
-WA,city,Bridgeport,07870,0.013
+WA,city,Bridgeport,07870,0.014
 WA,city,Brier,07940,0.04
-WA,city,Buckley,08570,0.017
-WA,city,Bucoda,08605,0.018
-WA,city,Burien,08850,0.038
+WA,city,Buckley,08570,0.018
+WA,city,Bucoda,08605,0.019
+WA,city,Burien,08850,0.039
 WA,city,Burlington,08920,0.024
 WA,city,Camas,09480,0.023
-WA,city,Carbonado,09970,0.016
+WA,city,Carbonado,09970,0.017
 WA,city,Carnation,10215,0.024
-WA,city,Cashmere,10495,0.02
+WA,city,Cashmere,10495,0.021
 WA,city,Castle Rock,10565,0.014
 WA,city,Cathlamet,10635,0.013
 WA,city,Centralia,11160,0.019
 WA,city,Chehalis,11475,0.019
-WA,city,Chelan,11615,0.022
+WA,city,Chelan,11615,0.023
 WA,city,Cheney,11825,0.024
 WA,city,Chewelah,12140,0.015
 WA,city,Clarkston,12630,0.02
 WA,city,Cle Elum,12945,0.02
 WA,city,Clyde Hill,13365,0.038
-WA,city,Colfax,13785,0.014
+WA,city,Colfax,13785,0.015
 WA,city,College Place,13855,0.025
-WA,city,Colton,13890,0.014
+WA,city,Colton,13890,0.015
 WA,city,Colville,14170,0.015
 WA,city,Conconully,14310,0.019
 WA,city,Concrete,14380,0.022
@@ -12662,8 +12707,8 @@ WA,city,Connell,14485,0.018
 WA,city,Cosmopolis,14870,0.024
 WA,city,Coulee City,15080,0.017
 WA,city,Coulee Dam,15115,0.015
-WA,city,Coupeville,15185,0.025
-WA,city,Covington,15290,0.027
+WA,city,Coupeville,15185,0.026
+WA,city,Covington,15290,0.028
 WA,city,Creston,15710,0.015
 WA,city,Cusick,16340,0.012
 WA,city,Darrington,16690,0.026
@@ -12671,33 +12716,33 @@ WA,city,Davenport,16795,0.015
 WA,city,Dayton,16970,0.019
 WA,city,Deer Park,17320,0.016
 WA,city,Des Moines,17635,0.039
-WA,city,DuPont,18965,0.031
+WA,city,DuPont,18965,0.032
 WA,city,Duvall,19035,0.027
-WA,city,East Wenatchee,20155,0.022
-WA,city,Eatonville,20260,0.016
-WA,city,Edgewood,20645,0.036
+WA,city,East Wenatchee,20155,0.023
+WA,city,Eatonville,20260,0.017
+WA,city,Edgewood,20645,0.037
 WA,city,Edmonds,20750,0.042
 WA,city,Electric City,21030,0.017
 WA,city,Ellensburg,21240,0.021
 WA,city,Elma,21450,0.025
 WA,city,Elmer City,21485,0.015
-WA,city,Endicott,21730,0.014
-WA,city,Entiat,22010,0.019
+WA,city,Endicott,21730,0.015
+WA,city,Entiat,22010,0.02
 WA,city,Enumclaw,22045,0.025
 WA,city,Ephrata,22080,0.019
 WA,city,Everett,22640,0.034
-WA,city,Everson,22745,0.023
+WA,city,Everson,22745,0.024
 WA,city,Fairfield,22990,0.016
-WA,city,Farmington,23340,0.014
-WA,city,Federal Way,23515,0.038
-WA,city,Ferndale,23620,0.025
-WA,city,Fife,23795,0.036
-WA,city,Fircrest,23970,0.036
+WA,city,Farmington,23340,0.015
+WA,city,Federal Way,23515,0.039
+WA,city,Ferndale,23620,0.026
+WA,city,Fife,23795,0.037
+WA,city,Fircrest,23970,0.037
 WA,city,Forks,24810,0.021
 WA,city,Friday Harbor,25615,0.0215
-WA,city,Garfield,26140,0.014
+WA,city,Garfield,26140,0.015
 WA,city,George,26455,0.019
-WA,city,Gig Harbor,26735,0.026
+WA,city,Gig Harbor,26735,0.027
 WA,city,Gold Bar,27365,0.026
 WA,city,Goldendale,27435,0.012
 WA,city,Grand Coulee,27855,0.019
@@ -12727,32 +12772,32 @@ WA,city,Kittitas,36045,0.018
 WA,city,Krupp,36395,0.017
 WA,city,La Center,36710,0.023
 WA,city,La Conner,36780,0.023
-WA,city,LaCrosse,36850,0.014
-WA,city,Lacey,36745,0.032
+WA,city,LaCrosse,36850,0.015
+WA,city,Lacey,36745,0.033
 WA,city,Lake Forest Park,37270,0.039
 WA,city,Lake Stevens,37900,0.028
-WA,city,Lakewood,38038,0.036
-WA,city,Lamont,38215,0.014
-WA,city,Langley,38355,0.027
+WA,city,Lakewood,38038,0.038
+WA,city,Lamont,38215,0.015
+WA,city,Langley,38355,0.028
 WA,city,Latah,38495,0.016
-WA,city,Leavenworth,38845,0.021
+WA,city,Leavenworth,38845,0.022
 WA,city,Liberty Lake,39335,0.025
 WA,city,Lind,39510,0.015
 WA,city,Long Beach,40070,0.019
 WA,city,Longview,40245,0.017
 WA,city,Lyman,40770,0.022
-WA,city,Lynden,40805,0.027
+WA,city,Lynden,40805,0.028
 WA,city,Lynnwood,40840,0.042
 WA,city,Mabton,40980,0.017
-WA,city,Malden,42275,0.014
-WA,city,Mansfield,42800,0.012
-WA,city,Maple Valley,43150,0.025
+WA,city,Malden,42275,0.015
+WA,city,Mansfield,42800,0.014
+WA,city,Maple Valley,43150,0.026
 WA,city,Marcus,43395,0.015
 WA,city,Marysville,43955,0.029
 WA,city,Mattawa,44165,0.019
 WA,city,McCleary,41225,0.024
 WA,city,Medical Lake,44690,0.024
-WA,city,Medina,44725,0.038
+WA,city,Medina,44725,0.039
 WA,city,Mercer Island,45005,0.038
 WA,city,Mesa,45180,0.016
 WA,city,Metaline,45285,0.012
@@ -12764,7 +12809,7 @@ WA,city,Montesano,46895,0.024
 WA,city,Morton,47175,0.015
 WA,city,Moses Lake,47245,0.02
 WA,city,Mossyrock,47315,0.015
-WA,city,Mount Vernon,47560,0.024
+WA,city,Mount Vernon,47560,0.025
 WA,city,Mountlake Terrace,47490,0.04
 WA,city,Moxee,47665,0.017
 WA,city,Mukilteo,47735,0.041
@@ -12773,23 +12818,23 @@ WA,city,Napavine,47980,0.016
 WA,city,Nespelem,48540,0.015
 WA,city,Newcastle,48645,0.038
 WA,city,Newport,48820,0.012
-WA,city,Nooksack,49275,0.023
+WA,city,Nooksack,49275,0.024
 WA,city,Normandy Park,49415,0.038
 WA,city,North Bend,49485,0.027
 WA,city,North Bonneville,49555,0.012
 WA,city,Northport,50045,0.015
-WA,city,Oak Harbor,50360,0.027
-WA,city,Oakesdale,50325,0.014
+WA,city,Oak Harbor,50360,0.028
+WA,city,Oakesdale,50325,0.015
 WA,city,Oakville,50430,0.024
 WA,city,Ocean Shores,50570,0.026
 WA,city,Odessa,50745,0.015
 WA,city,Okanogan,50920,0.02
-WA,city,Olympia,51300,0.033
+WA,city,Olympia,51300,0.035
 WA,city,Omak,51340,0.02
 WA,city,Oroville,51970,0.019
-WA,city,Orting,52005,0.03
+WA,city,Orting,52005,0.031
 WA,city,Othello,52215,0.017
-WA,city,Palouse,52950,0.014
+WA,city,Palouse,52950,0.015
 WA,city,Pasco,53545,0.024
 WA,city,Pateros,53720,0.021
 WA,city,Pe Ell,53930,0.015
@@ -12800,10 +12845,10 @@ WA,city,Port Townsend,55855,0.03
 WA,city,Poulsbo,55995,0.028
 WA,city,Prescott,56240,0.018
 WA,city,Prosser,56450,0.022
-WA,city,Pullman,56625,0.015
-WA,city,Puyallup,56695,0.037
+WA,city,Pullman,56625,0.017
+WA,city,Puyallup,56695,0.038
 WA,city,Quincy,57115,0.017
-WA,city,Rainier,57220,0.018
+WA,city,Rainier,57220,0.019
 WA,city,Raymond,57430,0.017
 WA,city,Reardan,57465,0.015
 WA,city,Redmond,57535,0.039
@@ -12813,13 +12858,13 @@ WA,city,Richland,58235,0.023
 WA,city,Ridgefield,58410,0.025
 WA,city,Ritzville,58725,0.016
 WA,city,Riverside,58795,0.019
-WA,city,Rock Island,59180,0.019
+WA,city,Rock Island,59180,0.02
 WA,city,Rockford,59145,0.016
-WA,city,Rosalia,59775,0.014
+WA,city,Rosalia,59775,0.015
 WA,city,Roslyn,60055,0.018
-WA,city,Roy,60160,0.017
+WA,city,Roy,60160,0.018
 WA,city,Royal City,60230,0.017
-WA,city,Ruston,60510,0.036
+WA,city,Ruston,60510,0.037
 WA,city,Sammamish,61115,0.038
 WA,city,SeaTac,62288,0.039
 WA,city,Seattle,63000,0.0405
@@ -12834,81 +12879,81 @@ WA,city,Snoqualmie,65205,0.028
 WA,city,Soap Lake,65345,0.019
 WA,city,South Bend,65625,0.017
 WA,city,South Cle Elum,65765,0.018
-WA,city,South Prairie,66045,0.016
+WA,city,South Prairie,66045,0.017
 WA,city,Spangle,66290,0.016
 WA,city,Spokane,67000,0.026
 WA,city,Spokane Valley,67167,0.025
 WA,city,Sprague,67175,0.015
 WA,city,Springdale,67210,0.015
-WA,city,St. John,60860,0.014
+WA,city,St. John,60860,0.015
 WA,city,Stanwood,67455,0.028
 WA,city,Starbuck,67490,0.017
-WA,city,Steilacoom,67770,0.036
+WA,city,Steilacoom,67770,0.037
 WA,city,Stevenson,67875,0.015
 WA,city,Sultan,68260,0.026
-WA,city,Sumas,68330,0.023
-WA,city,Sumner,68435,0.031
+WA,city,Sumas,68330,0.024
+WA,city,Sumner,68435,0.032
 WA,city,Sunnyside,68750,0.019
-WA,city,Tacoma,70000,0.039
-WA,city,Tekoa,70560,0.014
-WA,city,Tenino,70630,0.018
-WA,city,Tieton,71400,0.017
+WA,city,Tacoma,70000,0.04
+WA,city,Tekoa,70560,0.015
+WA,city,Tenino,70630,0.019
+WA,city,Tieton,71400,0.018
 WA,city,Toledo,71785,0.015
 WA,city,Tonasket,71890,0.02
 WA,city,Toppenish,71960,0.018
 WA,city,Tukwila,72625,0.039
-WA,city,Tumwater,72905,0.032
+WA,city,Tumwater,72905,0.033
 WA,city,Twisp,73080,0.022
 WA,city,Union Gap,73290,0.019
-WA,city,Uniontown,73360,0.014
-WA,city,University Place,73465,0.036
+WA,city,Uniontown,73360,0.015
+WA,city,University Place,73465,0.037
 WA,city,Vader,73780,0.015
 WA,city,Vancouver,74060,0.024
 WA,city,Waitsburg,75565,0.02
 WA,city,Walla Walla,75775,0.026
 WA,city,Wapato,76125,0.017
 WA,city,Warden,76160,0.017
-WA,city,Washougal,76405,0.023
+WA,city,Washougal,76405,0.024
 WA,city,Washtucna,76440,0.015
-WA,city,Waterville,76510,0.019
+WA,city,Waterville,76510,0.02
 WA,city,Waverly,76720,0.016
-WA,city,Wenatchee,77105,0.024
+WA,city,Wenatchee,77105,0.025
 WA,city,West Richland,77665,0.022
 WA,city,Westport,77630,0.024
 WA,city,White Salmon,78330,0.012
 WA,city,Wilbur,78680,0.015
-WA,city,Wilkeson,78925,0.016
+WA,city,Wilkeson,78925,0.017
 WA,city,Wilson Creek,79135,0.017
 WA,city,Winlock,79275,0.015
 WA,city,Winthrop,79380,0.021
-WA,city,Woodinville,79590,0.038
+WA,city,Woodinville,79590,0.039
 WA,city,Woodland,79625,0.014
 WA,city,Woodway,79835,0.041
 WA,city,Yacolt,79975,0.022
-WA,city,Yakima,80010,0.02
+WA,city,Yakima,80010,0.021
 WA,city,Yarrow Point,80150,0.039
-WA,city,Yelm,80220,0.03
+WA,city,Yelm,80220,0.031
 WA,city,Zillah,80500,0.017
 WA,county,Adams,001,0.015
 WA,county,Asotin,003,0.018
 WA,county,Benton,005,0.016
-WA,county,Chelan,007,0.019
+WA,county,Chelan,007,0.02
 WA,county,Clallam,009,0.021
 WA,county,Clark,011,0.015
 WA,county,Columbia,013,0.017
 WA,county,County 079,079,0.024
-WA,county,County 081,081,0.016
+WA,county,County 081,081,0.017
 WA,county,County 083,083,0.014
 WA,county,County 085,085,0.024
 WA,county,County 087,087,0.014
 WA,county,Cowlitz,015,0.012
-WA,county,Douglas,017,0.013
+WA,county,Douglas,017,0.014
 WA,county,Ferry,019,0.015
 WA,county,Franklin,021,0.016
 WA,county,Garfield,023,0.016
 WA,county,Grant,025,0.017
 WA,county,Grays Harbor,027,0.024
-WA,county,Island,029,0.025
+WA,county,Island,029,0.026
 WA,county,Jefferson,031,0.03
 WA,county,King,033,0.038
 WA,county,Kitsap,035,0.027
@@ -12920,18 +12965,18 @@ WA,county,Mason,045,0.021
 WA,county,Okanogan,047,0.015
 WA,county,Pacific,049,0.017
 WA,county,Pend Oreille,051,0.012
-WA,county,Pierce,053,0.03
+WA,county,Pierce,053,0.031
 WA,county,San Juan,055,0.0185
 WA,county,Skagit,057,0.018
 WA,county,Skamania,059,0.012
 WA,county,Snohomish,061,0.028
 WA,county,Spokane,063,0.016
 WA,county,Stevens,065,0.015
-WA,county,Thurston,067,0.018
+WA,county,Thurston,067,0.019
 WA,county,Wahkiakum,069,0.013
 WA,county,Walla Walla,071,0.018
-WA,county,Whatcom,073,0.017
-WA,county,Whitman,075,0.014
+WA,county,Whatcom,073,0.018
+WA,county,Whitman,075,0.015
 WA,county,Yakima,077,0.017
 WA,special_district,Special District L0100,L0100,0.015
 WA,special_district,Special District L0101,L0101,0.015
@@ -12949,24 +12994,25 @@ WA,special_district,Special District L0303,L0303,0.022
 WA,special_district,Special District L0304,L0304,0.023
 WA,special_district,Special District L0305,L0305,0.022
 WA,special_district,Special District L0333,L0333,0.006
-WA,special_district,Special District L0400,L0400,0.019
-WA,special_district,Special District L0401,L0401,0.02
-WA,special_district,Special District L0402,L0402,0.022
-WA,special_district,Special District L0403,L0403,0.019
-WA,special_district,Special District L0404,L0404,0.021
-WA,special_district,Special District L0405,L0405,0.024
+WA,special_district,Special District L0400,L0400,0.02
+WA,special_district,Special District L0401,L0401,0.021
+WA,special_district,Special District L0402,L0402,0.023
+WA,special_district,Special District L0403,L0403,0.02
+WA,special_district,Special District L0404,L0404,0.022
+WA,special_district,Special District L0405,L0405,0.025
 WA,special_district,Special District L0407,L0407,0.019
 WA,special_district,Special District L0500,L0500,0.021
 WA,special_district,Special District L0501,L0501,0.021
 WA,special_district,Special District L0502,L0502,0.024
 WA,special_district,Special District L0503,L0503,0.024
+WA,special_district,Special District L0507,L0507,0.021
 WA,special_district,Special District L0600,L0600,0.015
 WA,special_district,Special District L0601,L0601,0.024
 WA,special_district,Special District L0602,L0602,0.023
 WA,special_district,Special District L0603,L0603,0.023
 WA,special_district,Special District L0604,L0604,0.025
 WA,special_district,Special District L0605,L0605,0.024
-WA,special_district,Special District L0606,L0606,0.023
+WA,special_district,Special District L0606,L0606,0.024
 WA,special_district,Special District L0607,L0607,0.022
 WA,special_district,Special District L0609,L0609,0.015
 WA,special_district,Special District L0611,L0611,0.023
@@ -12982,12 +13028,12 @@ WA,special_district,Special District L0802,L0802,0.017
 WA,special_district,Special District L0803,L0803,0.016
 WA,special_district,Special District L0804,L0804,0.017
 WA,special_district,Special District L0805,L0805,0.014
-WA,special_district,Special District L0900,L0900,0.013
-WA,special_district,Special District L0901,L0901,0.013
-WA,special_district,Special District L0902,L0902,0.022
-WA,special_district,Special District L0903,L0903,0.012
-WA,special_district,Special District L0904,L0904,0.019
-WA,special_district,Special District L0905,L0905,0.019
+WA,special_district,Special District L0900,L0900,0.014
+WA,special_district,Special District L0901,L0901,0.014
+WA,special_district,Special District L0902,L0902,0.023
+WA,special_district,Special District L0903,L0903,0.014
+WA,special_district,Special District L0904,L0904,0.02
+WA,special_district,Special District L0905,L0905,0.02
 WA,special_district,Special District L0909,L0909,0.006
 WA,special_district,Special District L1000,L1000,0.015
 WA,special_district,Special District L1001,L1001,0.015
@@ -13030,17 +13076,19 @@ WA,special_district,Special District L1408,L1408,0.024
 WA,special_district,Special District L1409,L1409,0.026
 WA,special_district,Special District L1411,L1411,0.024
 WA,special_district,Special District L1413,L1413,0.024
-WA,special_district,Special District L1500,L1500,0.025
-WA,special_district,Special District L1501,L1501,0.025
-WA,special_district,Special District L1502,L1502,0.027
-WA,special_district,Special District L1503,L1503,0.027
+WA,special_district,Special District L1500,L1500,0.026
+WA,special_district,Special District L1501,L1501,0.026
+WA,special_district,Special District L1502,L1502,0.028
+WA,special_district,Special District L1503,L1503,0.028
 WA,special_district,Special District L1600,L1600,0.03
 WA,special_district,Special District L1601,L1601,0.03
 WA,special_district,Special District L1603,L1603,0.03
+WA,special_district,Special District L1605,L1605,0.03
 WA,special_district,Special District L1653,L1653,0.027
+WA,special_district,Special District L1655,L1655,0.027
 WA,special_district,Special District L1700,L1700,0.038
 WA,special_district,Special District L1701,L1701,0.039
-WA,special_district,Special District L1702,L1702,0.039
+WA,special_district,Special District L1702,L1702,0.04
 WA,special_district,Special District L1703,L1703,0.038
 WA,special_district,Special District L1704,L1704,0.038
 WA,special_district,Special District L1705,L1705,0.025
@@ -13050,15 +13098,15 @@ WA,special_district,Special District L1708,L1708,0.038
 WA,special_district,Special District L1709,L1709,0.039
 WA,special_district,Special District L1710,L1710,0.027
 WA,special_district,Special District L1711,L1711,0.025
-WA,special_district,Special District L1712,L1712,0.027
+WA,special_district,Special District L1712,L1712,0.028
 WA,special_district,Special District L1713,L1713,0.038
 WA,special_district,Special District L1714,L1714,0.04
 WA,special_district,Special District L1715,L1715,0.039
 WA,special_district,Special District L1716,L1716,0.039
 WA,special_district,Special District L1717,L1717,0.039
-WA,special_district,Special District L1718,L1718,0.038
+WA,special_district,Special District L1718,L1718,0.039
 WA,special_district,Special District L1719,L1719,0.038
-WA,special_district,Special District L1720,L1720,0.025
+WA,special_district,Special District L1720,L1720,0.026
 WA,special_district,Special District L1721,L1721,0.038
 WA,special_district,Special District L1722,L1722,0.027
 WA,special_district,Special District L1723,L1723,0.039
@@ -13070,15 +13118,15 @@ WA,special_district,Special District L1728,L1728,0.028
 WA,special_district,Special District L1729,L1729,0.039
 WA,special_district,Special District L1730,L1730,0.039
 WA,special_district,Special District L1731,L1731,0.038
-WA,special_district,Special District L1732,L1732,0.038
+WA,special_district,Special District L1732,L1732,0.039
 WA,special_district,Special District L1733,L1733,0.039
-WA,special_district,Special District L1734,L1734,0.038
-WA,special_district,Special District L1735,L1735,0.038
+WA,special_district,Special District L1734,L1734,0.039
+WA,special_district,Special District L1735,L1735,0.039
 WA,special_district,Special District L1736,L1736,0.038
 WA,special_district,Special District L1737,L1737,0.04
 WA,special_district,Special District L1738,L1738,0.038
 WA,special_district,Special District L1739,L1739,0.038
-WA,special_district,Special District L1741,L1741,0.038
+WA,special_district,Special District L1741,L1741,0.039
 WA,special_district,Special District L1800,L1800,0.027
 WA,special_district,Special District L1801,L1801,0.027
 WA,special_district,Special District L1802,L1802,0.028
@@ -13154,42 +13202,42 @@ WA,special_district,Special District L2603,L2603,0.012
 WA,special_district,Special District L2604,L2604,0.012
 WA,special_district,Special District L2605,L2605,0.012
 WA,special_district,Special District L2607,L2607,0.012
-WA,special_district,Special District L2700,L2700,0.03
-WA,special_district,Special District L2701,L2701,0.03
-WA,special_district,Special District L2702,L2702,0.017
-WA,special_district,Special District L2703,L2703,0.016
-WA,special_district,Special District L2704,L2704,0.031
-WA,special_district,Special District L2705,L2705,0.016
-WA,special_district,Special District L2706,L2706,0.036
-WA,special_district,Special District L2707,L2707,0.036
-WA,special_district,Special District L2708,L2708,0.026
-WA,special_district,Special District L2709,L2709,0.036
-WA,special_district,Special District L2710,L2710,0.03
-WA,special_district,Special District L2711,L2711,0.037
-WA,special_district,Special District L2712,L2712,0.017
-WA,special_district,Special District L2713,L2713,0.036
-WA,special_district,Special District L2714,L2714,0.016
-WA,special_district,Special District L2715,L2715,0.036
-WA,special_district,Special District L2716,L2716,0.031
-WA,special_district,Special District L2717,L2717,0.039
-WA,special_district,Special District L2718,L2718,0.016
-WA,special_district,Special District L2719,L2719,0.036
-WA,special_district,Special District L2720,L2720,0.036
-WA,special_district,Special District L2721,L2721,0.036
-WA,special_district,Special District L2723,L2723,0.037
-WA,special_district,Special District L2724,L2724,0.037
-WA,special_district,Special District L2725,L2725,0.03
+WA,special_district,Special District L2700,L2700,0.031
+WA,special_district,Special District L2701,L2701,0.031
+WA,special_district,Special District L2702,L2702,0.018
+WA,special_district,Special District L2703,L2703,0.017
+WA,special_district,Special District L2704,L2704,0.032
+WA,special_district,Special District L2705,L2705,0.017
+WA,special_district,Special District L2706,L2706,0.037
+WA,special_district,Special District L2707,L2707,0.037
+WA,special_district,Special District L2708,L2708,0.027
+WA,special_district,Special District L2709,L2709,0.037
+WA,special_district,Special District L2710,L2710,0.031
+WA,special_district,Special District L2711,L2711,0.038
+WA,special_district,Special District L2712,L2712,0.018
+WA,special_district,Special District L2713,L2713,0.037
+WA,special_district,Special District L2714,L2714,0.017
+WA,special_district,Special District L2715,L2715,0.037
+WA,special_district,Special District L2716,L2716,0.032
+WA,special_district,Special District L2717,L2717,0.04
+WA,special_district,Special District L2718,L2718,0.017
+WA,special_district,Special District L2719,L2719,0.037
+WA,special_district,Special District L2720,L2720,0.037
+WA,special_district,Special District L2721,L2721,0.038
+WA,special_district,Special District L2723,L2723,0.038
+WA,special_district,Special District L2724,L2724,0.039
+WA,special_district,Special District L2725,L2725,0.031
 WA,special_district,Special District L2727,L2727,0.006
-WA,special_district,Special District L2731,L2731,0.036
-WA,special_district,Special District L2733,L2733,0.037
-WA,special_district,Special District L2735,L2735,0.036
-WA,special_district,Special District L2737,L2737,0.036
-WA,special_district,Special District L2739,L2739,0.036
-WA,special_district,Special District L2741,L2741,0.039
+WA,special_district,Special District L2731,L2731,0.038
+WA,special_district,Special District L2733,L2733,0.038
+WA,special_district,Special District L2735,L2735,0.037
+WA,special_district,Special District L2737,L2737,0.037
+WA,special_district,Special District L2739,L2739,0.037
+WA,special_district,Special District L2741,L2741,0.04
 WA,special_district,Special District L2745,L2745,0.006
-WA,special_district,Special District L2787,L2787,0.022
-WA,special_district,Special District L2788,L2788,0.026
-WA,special_district,Special District L2789,L2789,0.016
+WA,special_district,Special District L2787,L2787,0.023
+WA,special_district,Special District L2788,L2788,0.027
+WA,special_district,Special District L2789,L2789,0.017
 WA,special_district,Special District L2800,L2800,0.0185
 WA,special_district,Special District L2801,L2801,0.0215
 WA,special_district,Special District L2803,L2803,0.0185
@@ -13201,7 +13249,7 @@ WA,special_district,Special District L2903,L2903,0.022
 WA,special_district,Special District L2904,L2904,0.022
 WA,special_district,Special District L2905,L2905,0.023
 WA,special_district,Special District L2906,L2906,0.022
-WA,special_district,Special District L2907,L2907,0.024
+WA,special_district,Special District L2907,L2907,0.025
 WA,special_district,Special District L2908,L2908,0.022
 WA,special_district,Special District L2909,L2909,0.018
 WA,special_district,Special District L2911,L2911,0.023
@@ -13264,27 +13312,27 @@ WA,special_district,Special District L3303,L3303,0.015
 WA,special_district,Special District L3304,L3304,0.015
 WA,special_district,Special District L3305,L3305,0.015
 WA,special_district,Special District L3306,L3306,0.015
-WA,special_district,Special District L3400,L3400,0.018
-WA,special_district,Special District L3401,L3401,0.018
-WA,special_district,Special District L3402,L3402,0.032
-WA,special_district,Special District L3403,L3403,0.033
-WA,special_district,Special District L3404,L3404,0.018
-WA,special_district,Special District L3405,L3405,0.018
-WA,special_district,Special District L3406,L3406,0.032
-WA,special_district,Special District L3407,L3407,0.03
-WA,special_district,Special District L3409,L3409,0.018
-WA,special_district,Special District L3411,L3411,0.032
-WA,special_district,Special District L3413,L3413,0.018
-WA,special_district,Special District L3415,L3415,0.018
+WA,special_district,Special District L3400,L3400,0.019
+WA,special_district,Special District L3401,L3401,0.019
+WA,special_district,Special District L3402,L3402,0.033
+WA,special_district,Special District L3403,L3403,0.035
+WA,special_district,Special District L3404,L3404,0.019
+WA,special_district,Special District L3405,L3405,0.019
+WA,special_district,Special District L3406,L3406,0.033
+WA,special_district,Special District L3407,L3407,0.031
+WA,special_district,Special District L3409,L3409,0.019
+WA,special_district,Special District L3411,L3411,0.033
+WA,special_district,Special District L3413,L3413,0.019
+WA,special_district,Special District L3415,L3415,0.019
 WA,special_district,Special District L3417,L3417,0.012
-WA,special_district,Special District L3419,L3419,0.032
-WA,special_district,Special District L3421,L3421,0.032
+WA,special_district,Special District L3419,L3419,0.033
+WA,special_district,Special District L3421,L3421,0.033
 WA,special_district,Special District L3434,L3434,0.012
-WA,special_district,Special District L3459,L3459,0.016
-WA,special_district,Special District L3463,L3463,0.016
-WA,special_district,Special District L3465,L3465,0.016
+WA,special_district,Special District L3459,L3459,0.017
+WA,special_district,Special District L3463,L3463,0.017
+WA,special_district,Special District L3465,L3465,0.017
 WA,special_district,Special District L3467,L3467,0.01
-WA,special_district,Special District L3469,L3469,0.03
+WA,special_district,Special District L3469,L3469,0.031
 WA,special_district,Special District L3500,L3500,0.013
 WA,special_district,Special District L3501,L3501,0.013
 WA,special_district,Special District L3600,L3600,0.018
@@ -13293,39 +13341,39 @@ WA,special_district,Special District L3602,L3602,0.018
 WA,special_district,Special District L3603,L3603,0.02
 WA,special_district,Special District L3604,L3604,0.026
 WA,special_district,Special District L3636,L3636,0.006
-WA,special_district,Special District L3700,L3700,0.017
-WA,special_district,Special District L3701,L3701,0.026
-WA,special_district,Special District L3702,L3702,0.025
-WA,special_district,Special District L3703,L3703,0.023
-WA,special_district,Special District L3704,L3704,0.025
-WA,special_district,Special District L3705,L3705,0.027
-WA,special_district,Special District L3706,L3706,0.023
-WA,special_district,Special District L3707,L3707,0.023
-WA,special_district,Special District L3709,L3709,0.025
-WA,special_district,Special District L3711,L3711,0.017
-WA,special_district,Special District L3713,L3713,0.026
+WA,special_district,Special District L3700,L3700,0.018
+WA,special_district,Special District L3701,L3701,0.027
+WA,special_district,Special District L3702,L3702,0.026
+WA,special_district,Special District L3703,L3703,0.024
+WA,special_district,Special District L3704,L3704,0.026
+WA,special_district,Special District L3705,L3705,0.028
+WA,special_district,Special District L3706,L3706,0.024
+WA,special_district,Special District L3707,L3707,0.024
+WA,special_district,Special District L3709,L3709,0.026
+WA,special_district,Special District L3711,L3711,0.018
+WA,special_district,Special District L3713,L3713,0.027
 WA,special_district,Special District L3737,L3737,0.006
 WA,special_district,Special District L3739,L3739,0.006
-WA,special_district,Special District L3759,L3759,0.022
-WA,special_district,Special District L3767,L3767,0.014
-WA,special_district,Special District L3773,L3773,0.023
-WA,special_district,Special District L3800,L3800,0.014
-WA,special_district,Special District L3801,L3801,0.014
-WA,special_district,Special District L3802,L3802,0.014
-WA,special_district,Special District L3803,L3803,0.014
-WA,special_district,Special District L3804,L3804,0.014
-WA,special_district,Special District L3805,L3805,0.014
-WA,special_district,Special District L3806,L3806,0.014
-WA,special_district,Special District L3807,L3807,0.014
-WA,special_district,Special District L3808,L3808,0.014
-WA,special_district,Special District L3809,L3809,0.014
-WA,special_district,Special District L3810,L3810,0.014
-WA,special_district,Special District L3811,L3811,0.014
-WA,special_district,Special District L3812,L3812,0.015
-WA,special_district,Special District L3813,L3813,0.014
-WA,special_district,Special District L3814,L3814,0.014
-WA,special_district,Special District L3815,L3815,0.014
-WA,special_district,Special District L3816,L3816,0.014
+WA,special_district,Special District L3759,L3759,0.023
+WA,special_district,Special District L3767,L3767,0.015
+WA,special_district,Special District L3773,L3773,0.024
+WA,special_district,Special District L3800,L3800,0.015
+WA,special_district,Special District L3801,L3801,0.015
+WA,special_district,Special District L3802,L3802,0.015
+WA,special_district,Special District L3803,L3803,0.015
+WA,special_district,Special District L3804,L3804,0.015
+WA,special_district,Special District L3805,L3805,0.015
+WA,special_district,Special District L3806,L3806,0.015
+WA,special_district,Special District L3807,L3807,0.015
+WA,special_district,Special District L3808,L3808,0.015
+WA,special_district,Special District L3809,L3809,0.015
+WA,special_district,Special District L3810,L3810,0.015
+WA,special_district,Special District L3811,L3811,0.015
+WA,special_district,Special District L3812,L3812,0.017
+WA,special_district,Special District L3813,L3813,0.015
+WA,special_district,Special District L3814,L3814,0.015
+WA,special_district,Special District L3815,L3815,0.015
+WA,special_district,Special District L3816,L3816,0.015
 WA,special_district,Special District L3900,L3900,0.017
 WA,special_district,Special District L3901,L3901,0.017
 WA,special_district,Special District L3902,L3902,0.017
@@ -13335,27 +13383,27 @@ WA,special_district,Special District L3905,L3905,0.017
 WA,special_district,Special District L3906,L3906,0.017
 WA,special_district,Special District L3907,L3907,0.02
 WA,special_district,Special District L3908,L3908,0.019
-WA,special_district,Special District L3909,L3909,0.017
+WA,special_district,Special District L3909,L3909,0.018
 WA,special_district,Special District L3910,L3910,0.018
 WA,special_district,Special District L3911,L3911,0.019
 WA,special_district,Special District L3912,L3912,0.017
-WA,special_district,Special District L3913,L3913,0.02
+WA,special_district,Special District L3913,L3913,0.021
 WA,special_district,Special District L3914,L3914,0.017
 WA,special_district,Special District L4000,L4000,0.024
-WA,special_district,Special District L4002,L4002,0.025
+WA,special_district,Special District L4002,L4002,0.026
 WA,special_district,Special District L4004,L4004,0.024
 WA,special_district,Special District L4014,L4014,0.026
 WA,special_district,Special District L4015,L4015,0.025
 WA,special_district,Special District L4024,L4024,0.025
 WA,special_district,Special District L4025,L4025,0.026
-WA,special_district,Special District L4035,L4035,0.024
+WA,special_district,Special District L4035,L4035,0.025
 WA,special_district,Special District L4036,L4036,0.024
 WA,special_district,Special District L4039,L4039,0.024
-WA,special_district,Special District L4100,L4100,0.016
-WA,special_district,Special District L4101,L4101,0.016
-WA,special_district,Special District L4103,L4103,0.016
-WA,special_district,Special District L4105,L4105,0.016
-WA,special_district,Special District L4127,L4127,0.022
+WA,special_district,Special District L4100,L4100,0.017
+WA,special_district,Special District L4101,L4101,0.017
+WA,special_district,Special District L4103,L4103,0.017
+WA,special_district,Special District L4105,L4105,0.017
+WA,special_district,Special District L4127,L4127,0.023
 WA,special_district,Special District L4200,L4200,0.014
 WA,special_district,Special District L4201,L4201,0.014
 WA,special_district,Special District L4205,L4205,0.02
@@ -13378,7 +13426,7 @@ WA,special_district,Special District L4403,L4403,0.014
 WA,special_district,Special District L4405,L4405,0.014
 WA,special_district,Special District L4427,L4427,0.017
 WA,special_district,Special District L9000,L9000,0.039
-WA,special_district,Special District L9001,L9001,0.039
+WA,special_district,Special District L9001,L9001,0.024
 WA,special_district,Special District L9002,L9002,0.038
 WA,special_district,Special District L9003,L9003,0.038
 WA,special_district,Special District L9004,L9004,0.038
@@ -13393,49 +13441,49 @@ WA,special_district,Special District L9012,L9012,0.027
 WA,special_district,Special District L9013,L9013,0.042
 WA,special_district,Special District L9014,L9014,0.038
 WA,special_district,Special District L9015,L9015,0.025
-WA,special_district,Special District L9016,L9016,0.038
+WA,special_district,Special District L9016,L9016,0.039
 WA,special_district,Special District L9017,L9017,0.024
 WA,special_district,Special District L9018,L9018,0.04
 WA,special_district,Special District L9019,L9019,0.04
 WA,special_district,Special District L9020,L9020,0.038
 WA,special_district,Special District L9021,L9021,0.038
-WA,special_district,Special District L9022,L9022,0.039
+WA,special_district,Special District L9022,L9022,0.04
 WA,special_district,Special District L9023,L9023,0.039
 WA,special_district,Special District L9024,L9024,0.039
-WA,special_district,Special District L9025,L9025,0.039
+WA,special_district,Special District L9025,L9025,0.038
 WA,special_district,Special District L9026,L9026,0.038
 WA,special_district,Special District L9027,L9027,0.039
 WA,special_district,Special District L9028,L9028,0.042
 WA,special_district,Special District L9029,L9029,0.025
-WA,special_district,Special District L9030,L9030,0.038
+WA,special_district,Special District L9030,L9030,0.039
 WA,special_district,Special District L9031,L9031,0.038
-WA,special_district,Special District L9032,L9032,0.025
+WA,special_district,Special District L9032,L9032,0.028
 WA,special_district,Special District L9033,L9033,0.04
 WA,special_district,Special District L9034,L9034,0.027
-WA,special_district,Special District L9035,L9035,0.037
+WA,special_district,Special District L9035,L9035,0.032
 WA,special_district,Special District L9036,L9036,0.024
-WA,special_district,Special District L9037,L9037,0.038
-WA,special_district,Special District L9038,L9038,0.039
+WA,special_district,Special District L9037,L9037,0.025
+WA,special_district,Special District L9038,L9038,0.024
 WA,special_district,Special District L9039,L9039,0.04
 WA,special_district,Special District L9040,L9040,0.038
 WA,special_district,Special District L9041,L9041,0.026
 WA,special_district,Special District L9042,L9042,0.024
 WA,special_district,Special District L9043,L9043,0.024
 WA,special_district,Special District L9044,L9044,0.024
-WA,special_district,Special District L9045,L9045,0.028
+WA,special_district,Special District L9045,L9045,0.04
 WA,special_district,Special District L9046,L9046,0.038
 WA,special_district,Special District L9047,L9047,0.024
-WA,special_district,Special District L9048,L9048,0.014
-WA,special_district,Special District L9049,L9049,0.04
-WA,special_district,Special District L9050,L9050,0.031
+WA,special_district,Special District L9048,L9048,0.024
+WA,special_district,Special District L9049,L9049,0.042
+WA,special_district,Special District L9050,L9050,0.039
 WA,special_district,Special District L9051,L9051,0.0405
 WA,special_district,Special District L9052,L9052,0.0405
 WA,special_district,Special District L9053,L9053,0.04
 WA,special_district,Special District L9054,L9054,0.0405
 WA,special_district,Special District L9055,L9055,0.0405
-WA,special_district,Special District L9056,L9056,0.0405
+WA,special_district,Special District L9056,L9056,0.038
 WA,special_district,Special District L9057,L9057,0.0405
-WA,special_district,Special District L9058,L9058,0.039
+WA,special_district,Special District L9058,L9058,0.038
 WA,special_district,Special District L9059,L9059,0.0405
 WA,special_district,Special District L9060,L9060,0.0405
 WA,special_district,Special District L9061,L9061,0.0405
@@ -13447,19 +13495,19 @@ WA,special_district,Special District L9066,L9066,0.0405
 WA,special_district,Special District L9067,L9067,0.0405
 WA,special_district,Special District L9068,L9068,0.0405
 WA,special_district,Special District L9069,L9069,0.0405
-WA,special_district,Special District L9070,L9070,0.038
+WA,special_district,Special District L9070,L9070,0.0405
 WA,special_district,Special District L9071,L9071,0.04
 WA,special_district,Special District L9072,L9072,0.0405
 WA,special_district,Special District L9073,L9073,0.0405
 WA,special_district,Special District L9074,L9074,0.0405
-WA,special_district,Special District L9075,L9075,0.038
-WA,special_district,Special District L9076,L9076,0.038
+WA,special_district,Special District L9075,L9075,0.039
+WA,special_district,Special District L9076,L9076,0.039
 WA,special_district,Special District L9077,L9077,0.038
 WA,special_district,Special District L9078,L9078,0.039
-WA,special_district,Special District L9079,L9079,0.038
+WA,special_district,Special District L9079,L9079,0.039
 WA,special_district,Special District L9080,L9080,0.039
 WA,special_district,Special District L9081,L9081,0.041
-WA,special_district,Special District L9082,L9082,0.039
+WA,special_district,Special District L9082,L9082,0.0405
 WA,special_district,Special District L9083,L9083,0.039
 WA,special_district,Special District L9084,L9084,0.0405
 WA,special_district,Special District L9085,L9085,0.0405
@@ -13468,59 +13516,59 @@ WA,special_district,Special District L9087,L9087,0.0405
 WA,special_district,Special District L9088,L9088,0.034
 WA,special_district,Special District L9089,L9089,0.034
 WA,special_district,Special District L9090,L9090,0.034
-WA,special_district,Special District L9092,L9092,0.034
-WA,special_district,Special District L9093,L9093,0.023
+WA,special_district,Special District L9092,L9092,0.026
+WA,special_district,Special District L9093,L9093,0.024
 WA,special_district,Special District L9094,L9094,0.018
 WA,special_district,Special District L9095,L9095,0.026
-WA,special_district,Special District L9096,L9096,0.026
-WA,special_district,Special District L9097,L9097,0.017
-WA,special_district,Special District L9098,L9098,0.022
-WA,special_district,Special District L9099,L9099,0.023
+WA,special_district,Special District L9096,L9096,0.027
+WA,special_district,Special District L9097,L9097,0.027
+WA,special_district,Special District L9098,L9098,0.024
+WA,special_district,Special District L9099,L9099,0.024
 WA,special_district,Special District L9100,L9100,0.022
 WA,special_district,Special District L9101,L9101,0.018
-WA,special_district,Special District L9102,L9102,0.025
-WA,special_district,Special District L9103,L9103,0.022
-WA,special_district,Special District L9104,L9104,0.025
-WA,special_district,Special District L9105,L9105,0.023
-WA,special_district,Special District L9106,L9106,0.018
-WA,special_district,Special District L9107,L9107,0.023
+WA,special_district,Special District L9102,L9102,0.026
+WA,special_district,Special District L9103,L9103,0.018
+WA,special_district,Special District L9104,L9104,0.026
+WA,special_district,Special District L9105,L9105,0.024
+WA,special_district,Special District L9106,L9106,0.026
+WA,special_district,Special District L9107,L9107,0.018
 WA,special_district,Special District L9108,L9108,0.0185
-WA,special_district,Special District L9109,L9109,0.023
-WA,special_district,Special District L9110,L9110,0.025
-WA,special_district,Special District L9111,L9111,0.025
-WA,special_district,Special District L9112,L9112,0.0215
-WA,special_district,Special District L9113,L9113,0.024
+WA,special_district,Special District L9109,L9109,0.024
+WA,special_district,Special District L9110,L9110,0.026
+WA,special_district,Special District L9111,L9111,0.026
+WA,special_district,Special District L9112,L9112,0.0185
+WA,special_district,Special District L9113,L9113,0.026
 WA,special_district,Special District L9114,L9114,0.014
-WA,special_district,Special District L9115,L9115,0.025
-WA,special_district,Special District L9116,L9116,0.018
+WA,special_district,Special District L9115,L9115,0.026
+WA,special_district,Special District L9116,L9116,0.022
 WA,special_district,Special District L9117,L9117,0.028
-WA,special_district,Special District L9118,L9118,0.025
+WA,special_district,Special District L9118,L9118,0.026
 WA,special_district,Special District L9119,L9119,0.0185
-WA,special_district,Special District L9120,L9120,0.023
-WA,special_district,Special District L9121,L9121,0.027
-WA,special_district,Special District L9122,L9122,0.023
+WA,special_district,Special District L9120,L9120,0.024
+WA,special_district,Special District L9121,L9121,0.028
+WA,special_district,Special District L9122,L9122,0.024
 WA,special_district,Special District L9123,L9123,0.022
-WA,special_district,Special District L9124,L9124,0.029
+WA,special_district,Special District L9124,L9124,0.026
 WA,special_district,Special District L9125,L9125,0.026
-WA,special_district,Special District L9126,L9126,0.026
+WA,special_district,Special District L9126,L9126,0.029
 WA,special_district,Special District L9127,L9127,0.022
-WA,special_district,Special District L9128,L9128,0.024
+WA,special_district,Special District L9128,L9128,0.025
 WA,special_district,Special District L9129,L9129,0.041
-WA,special_district,Special District L9130,L9130,0.027
-WA,special_district,Special District L9131,L9131,0.027
+WA,special_district,Special District L9130,L9130,0.028
+WA,special_district,Special District L9131,L9131,0.026
 WA,special_district,Special District L9132,L9132,0.0185
-WA,special_district,Special District L9133,L9133,0.023
+WA,special_district,Special District L9133,L9133,0.024
 WA,special_district,Special District L9134,L9134,0.014
 WA,special_district,Special District L9135,L9135,0.022
 WA,special_district,Special District L9136,L9136,0.022
 WA,special_district,Special District L9137,L9137,0.024
 WA,special_district,Special District L9138,L9138,0.026
-WA,special_district,Special District L9139,L9139,0.026
+WA,special_district,Special District L9139,L9139,0.014
 WA,special_district,Special District L9140,L9140,0.026
-WA,special_district,Special District L9141,L9141,0.023
-WA,special_district,Special District L9142,L9142,0.014
-WA,special_district,Special District L9143,L9143,0.016
-WA,special_district,Special District L9144,L9144,0.016
+WA,special_district,Special District L9141,L9141,0.024
+WA,special_district,Special District L9142,L9142,0.041
+WA,special_district,Special District L9143,L9143,0.017
+WA,special_district,Special District L9144,L9144,0.015
 WA,special_district,Special District L9145,L9145,0.021
 WA,special_district,Special District L9146,L9146,0.027
 WA,special_district,Special District L9147,L9147,0.027
@@ -13528,34 +13576,34 @@ WA,special_district,Special District L9148,L9148,0.027
 WA,special_district,Special District L9149,L9149,0.027
 WA,special_district,Special District L9150,L9150,0.027
 WA,special_district,Special District L9151,L9151,0.021
-WA,special_district,Special District L9152,L9152,0.016
-WA,special_district,Special District L9153,L9153,0.016
+WA,special_district,Special District L9152,L9152,0.017
+WA,special_district,Special District L9153,L9153,0.017
 WA,special_district,Special District L9154,L9154,0.03
 WA,special_district,Special District L9155,L9155,0.021
-WA,special_district,Special District L9156,L9156,0.03
-WA,special_district,Special District L9157,L9157,0.016
-WA,special_district,Special District L9158,L9158,0.016
-WA,special_district,Special District L9159,L9159,0.016
+WA,special_district,Special District L9156,L9156,0.031
+WA,special_district,Special District L9157,L9157,0.017
+WA,special_district,Special District L9158,L9158,0.017
+WA,special_district,Special District L9159,L9159,0.015
 WA,special_district,Special District L9160,L9160,0.021
-WA,special_district,Special District L9161,L9161,0.026
-WA,special_district,Special District L9162,L9162,0.016
-WA,special_district,Special District L9163,L9163,0.026
+WA,special_district,Special District L9161,L9161,0.027
+WA,special_district,Special District L9162,L9162,0.017
+WA,special_district,Special District L9163,L9163,0.017
 WA,special_district,Special District L9164,L9164,0.015
 WA,special_district,Special District L9165,L9165,0.027
-WA,special_district,Special District L9166,L9166,0.016
+WA,special_district,Special District L9166,L9166,0.017
 WA,special_district,Special District L9167,L9167,0.03
 WA,special_district,Special District L9168,L9168,0.027
 WA,special_district,Special District L9169,L9169,0.027
 WA,special_district,Special District L9170,L9170,0.027
 WA,special_district,Special District L9171,L9171,0.027
-WA,special_district,Special District L9172,L9172,0.016
-WA,special_district,Special District L9173,L9173,0.016
-WA,special_district,Special District L9174,L9174,0.036
-WA,special_district,Special District L9175,L9175,0.018
+WA,special_district,Special District L9172,L9172,0.017
+WA,special_district,Special District L9173,L9173,0.017
+WA,special_district,Special District L9174,L9174,0.037
+WA,special_district,Special District L9175,L9175,0.019
 WA,special_district,Special District L9176,L9176,0.015
 WA,special_district,Special District L9177,L9177,0.03
-WA,special_district,Special District L9178,L9178,0.016
-WA,special_district,Special District L9179,L9179,0.03
+WA,special_district,Special District L9178,L9178,0.027
+WA,special_district,Special District L9179,L9179,0.031
 WA,special_district,Special District L9180,L9180,0.015
 WA,special_district,Special District L9181,L9181,0.024
 WA,special_district,Special District L9182,L9182,0.021
@@ -13563,61 +13611,61 @@ WA,special_district,Special District L9183,L9183,0.03
 WA,special_district,Special District L9184,L9184,0.027
 WA,special_district,Special District L9185,L9185,0.027
 WA,special_district,Special District L9186,L9186,0.03
-WA,special_district,Special District L9187,L9187,0.027
-WA,special_district,Special District L9188,L9188,0.036
-WA,special_district,Special District L9189,L9189,0.031
+WA,special_district,Special District L9187,L9187,0.028
+WA,special_district,Special District L9188,L9188,0.037
+WA,special_district,Special District L9189,L9189,0.037
 WA,special_district,Special District L9190,L9190,0.037
-WA,special_district,Special District L9191,L9191,0.036
-WA,special_district,Special District L9192,L9192,0.03
+WA,special_district,Special District L9191,L9191,0.037
+WA,special_district,Special District L9192,L9192,0.031
 WA,special_district,Special District L9193,L9193,0.03
 WA,special_district,Special District L9194,L9194,0.015
-WA,special_district,Special District L9195,L9195,0.027
+WA,special_district,Special District L9195,L9195,0.021
 WA,special_district,Special District L9196,L9196,0.021
 WA,special_district,Special District L9197,L9197,0.024
 WA,special_district,Special District L9198,L9198,0.027
-WA,special_district,Special District L9199,L9199,0.03
-WA,special_district,Special District L9200,L9200,0.036
+WA,special_district,Special District L9199,L9199,0.031
+WA,special_district,Special District L9200,L9200,0.037
 WA,special_district,Special District L9201,L9201,0.031
 WA,special_district,Special District L9202,L9202,0.031
 WA,special_district,Special District L9203,L9203,0.027
-WA,special_district,Special District L9204,L9204,0.036
-WA,special_district,Special District L9205,L9205,0.039
-WA,special_district,Special District L9206,L9206,0.039
-WA,special_district,Special District L9207,L9207,0.039
-WA,special_district,Special District L9208,L9208,0.039
-WA,special_district,Special District L9209,L9209,0.036
-WA,special_district,Special District L9210,L9210,0.039
-WA,special_district,Special District L9211,L9211,0.039
-WA,special_district,Special District L9212,L9212,0.039
-WA,special_district,Special District L9213,L9213,0.039
-WA,special_district,Special District L9214,L9214,0.039
-WA,special_district,Special District L9215,L9215,0.038
-WA,special_district,Special District L9216,L9216,0.036
-WA,special_district,Special District L9217,L9217,0.03
-WA,special_district,Special District L9218,L9218,0.03
-WA,special_district,Special District L9219,L9219,0.03
-WA,special_district,Special District L9220,L9220,0.036
-WA,special_district,Special District L9221,L9221,0.036
-WA,special_district,Special District L9222,L9222,0.036
-WA,special_district,Special District L9223,L9223,0.036
-WA,special_district,Special District L9224,L9224,0.03
-WA,special_district,Special District L9225,L9225,0.036
-WA,special_district,Special District L9226,L9226,0.036
-WA,special_district,Special District L9227,L9227,0.036
-WA,special_district,Special District L9228,L9228,0.036
-WA,special_district,Special District L9229,L9229,0.036
-WA,special_district,Special District L9230,L9230,0.036
-WA,special_district,Special District L9231,L9231,0.033
-WA,special_district,Special District L9232,L9232,0.033
-WA,special_district,Special District L9233,L9233,0.033
-WA,special_district,Special District L9234,L9234,0.018
-WA,special_district,Special District L9235,L9235,0.032
-WA,special_district,Special District L9236,L9236,0.03
-WA,special_district,Special District L9237,L9237,0.018
+WA,special_district,Special District L9204,L9204,0.04
+WA,special_district,Special District L9205,L9205,0.04
+WA,special_district,Special District L9206,L9206,0.04
+WA,special_district,Special District L9207,L9207,0.04
+WA,special_district,Special District L9208,L9208,0.04
+WA,special_district,Special District L9209,L9209,0.04
+WA,special_district,Special District L9210,L9210,0.04
+WA,special_district,Special District L9211,L9211,0.04
+WA,special_district,Special District L9212,L9212,0.04
+WA,special_district,Special District L9213,L9213,0.04
+WA,special_district,Special District L9214,L9214,0.04
+WA,special_district,Special District L9215,L9215,0.04
+WA,special_district,Special District L9216,L9216,0.037
+WA,special_district,Special District L9217,L9217,0.031
+WA,special_district,Special District L9218,L9218,0.031
+WA,special_district,Special District L9219,L9219,0.031
+WA,special_district,Special District L9220,L9220,0.038
+WA,special_district,Special District L9221,L9221,0.037
+WA,special_district,Special District L9222,L9222,0.037
+WA,special_district,Special District L9223,L9223,0.037
+WA,special_district,Special District L9224,L9224,0.017
+WA,special_district,Special District L9225,L9225,0.037
+WA,special_district,Special District L9226,L9226,0.037
+WA,special_district,Special District L9227,L9227,0.037
+WA,special_district,Special District L9228,L9228,0.037
+WA,special_district,Special District L9229,L9229,0.031
+WA,special_district,Special District L9230,L9230,0.04
+WA,special_district,Special District L9231,L9231,0.035
+WA,special_district,Special District L9232,L9232,0.035
+WA,special_district,Special District L9233,L9233,0.035
+WA,special_district,Special District L9234,L9234,0.031
+WA,special_district,Special District L9235,L9235,0.035
+WA,special_district,Special District L9236,L9236,0.031
+WA,special_district,Special District L9237,L9237,0.035
 WA,special_district,Special District L9238,L9238,0.024
 WA,special_district,Special District L9239,L9239,0.021
 WA,special_district,Special District L9240,L9240,0.024
-WA,special_district,Special District L9241,L9241,0.021
+WA,special_district,Special District L9241,L9241,0.017
 WA,special_district,Special District L9242,L9242,0.019
 WA,special_district,Special District L9243,L9243,0.019
 WA,special_district,Special District L9244,L9244,0.015
@@ -13642,10 +13690,10 @@ WA,special_district,Special District L9262,L9262,0.026
 WA,special_district,Special District L9263,L9263,0.015
 WA,special_district,Special District L9264,L9264,0.015
 WA,special_district,Special District L9265,L9265,0.024
-WA,special_district,Special District L9266,L9266,0.018
+WA,special_district,Special District L9266,L9266,0.019
 WA,special_district,Special District L9267,L9267,0.017
-WA,special_district,Special District L9268,L9268,0.018
-WA,special_district,Special District L9269,L9269,0.016
+WA,special_district,Special District L9268,L9268,0.019
+WA,special_district,Special District L9269,L9269,0.018
 WA,special_district,Special District L9270,L9270,0.012
 WA,special_district,Special District L9271,L9271,0.015
 WA,special_district,Special District L9272,L9272,0.021
@@ -13653,15 +13701,15 @@ WA,special_district,Special District L9273,L9273,0.015
 WA,special_district,Special District L9274,L9274,0.017
 WA,special_district,Special District L9275,L9275,0.024
 WA,special_district,Special District L9276,L9276,0.021
-WA,special_district,Special District L9277,L9277,0.018
+WA,special_district,Special District L9277,L9277,0.019
 WA,special_district,Special District L9278,L9278,0.017
 WA,special_district,Special District L9279,L9279,0.015
 WA,special_district,Special District L9280,L9280,0.021
 WA,special_district,Special District L9281,L9281,0.015
 WA,special_district,Special District L9282,L9282,0.024
 WA,special_district,Special District L9283,L9283,0.015
-WA,special_district,Special District L9284,L9284,0.018
-WA,special_district,Special District L9285,L9285,0.015
+WA,special_district,Special District L9284,L9284,0.031
+WA,special_district,Special District L9285,L9285,0.012
 WA,special_district,Special District L9286,L9286,0.011
 WA,special_district,Special District L9287,L9287,0.012
 WA,special_district,Special District L9288,L9288,0.024
@@ -13682,84 +13730,84 @@ WA,special_district,Special District L9302,L9302,0.012
 WA,special_district,Special District L9303,L9303,0.016
 WA,special_district,Special District L9304,L9304,0.015
 WA,special_district,Special District L9305,L9305,0.017
-WA,special_district,Special District L9306,L9306,0.012
+WA,special_district,Special District L9306,L9306,0.013
 WA,special_district,Special District L9307,L9307,0.011
-WA,special_district,Special District L9308,L9308,0.013
+WA,special_district,Special District L9308,L9308,0.017
 WA,special_district,Special District L9309,L9309,0.017
-WA,special_district,Special District L9310,L9310,0.023
+WA,special_district,Special District L9310,L9310,0.025
 WA,special_district,Special District L9311,L9311,0.013
 WA,special_district,Special District L9312,L9312,0.012
 WA,special_district,Special District L9313,L9313,0.013
-WA,special_district,Special District L9314,L9314,0.012
+WA,special_district,Special District L9314,L9314,0.015
 WA,special_district,Special District L9315,L9315,0.012
 WA,special_district,Special District L9316,L9316,0.011
 WA,special_district,Special District L9317,L9317,0.012
 WA,special_district,Special District L9318,L9318,0.015
 WA,special_district,Special District L9319,L9319,0.024
 WA,special_district,Special District L9320,L9320,0.015
-WA,special_district,Special District L9321,L9321,0.022
+WA,special_district,Special District L9321,L9321,0.024
 WA,special_district,Special District L9322,L9322,0.024
 WA,special_district,Special District L9323,L9323,0.022
-WA,special_district,Special District L9324,L9324,0.023
+WA,special_district,Special District L9324,L9324,0.024
 WA,special_district,Special District L9325,L9325,0.011
 WA,special_district,Special District L9326,L9326,0.015
 WA,special_district,Special District L9327,L9327,0.015
 WA,special_district,Special District L9328,L9328,0.024
 WA,special_district,Special District L9329,L9329,0.024
-WA,special_district,Special District L9330,L9330,0.022
+WA,special_district,Special District L9330,L9330,0.024
 WA,special_district,Special District L9331,L9331,0.022
 WA,special_district,Special District L9332,L9332,0.022
-WA,special_district,Special District L9333,L9333,0.024
-WA,special_district,Special District L9334,L9334,0.019
+WA,special_district,Special District L9333,L9333,0.025
+WA,special_district,Special District L9334,L9334,0.02
 WA,special_district,Special District L9335,L9335,0.019
-WA,special_district,Special District L9336,L9336,0.013
+WA,special_district,Special District L9336,L9336,0.014
 WA,special_district,Special District L9337,L9337,0.019
-WA,special_district,Special District L9338,L9338,0.02
-WA,special_district,Special District L9339,L9339,0.022
-WA,special_district,Special District L9340,L9340,0.019
+WA,special_district,Special District L9338,L9338,0.021
+WA,special_district,Special District L9339,L9339,0.023
+WA,special_district,Special District L9340,L9340,0.02
 WA,special_district,Special District L9341,L9341,0.019
-WA,special_district,Special District L9342,L9342,0.019
+WA,special_district,Special District L9342,L9342,0.02
 WA,special_district,Special District L9343,L9343,0.019
-WA,special_district,Special District L9344,L9344,0.019
-WA,special_district,Special District L9345,L9345,0.012
-WA,special_district,Special District L9346,L9346,0.019
+WA,special_district,Special District L9344,L9344,0.02
+WA,special_district,Special District L9345,L9345,0.014
+WA,special_district,Special District L9346,L9346,0.02
 WA,special_district,Special District L9347,L9347,0.017
 WA,special_district,Special District L9348,L9348,0.019
 WA,special_district,Special District L9349,L9349,0.019
 WA,special_district,Special District L9350,L9350,0.02
 WA,special_district,Special District L9351,L9351,0.019
-WA,special_district,Special District L9352,L9352,0.02
-WA,special_district,Special District L9353,L9353,0.019
+WA,special_district,Special District L9352,L9352,0.019
+WA,special_district,Special District L9353,L9353,0.014
 WA,special_district,Special District L9354,L9354,0.019
-WA,special_district,Special District L9355,L9355,0.013
+WA,special_district,Special District L9355,L9355,0.014
 WA,special_district,Special District L9356,L9356,0.019
-WA,special_district,Special District L9357,L9357,0.019
+WA,special_district,Special District L9357,L9357,0.02
 WA,special_district,Special District L9358,L9358,0.019
 WA,special_district,Special District L9359,L9359,0.019
-WA,special_district,Special District L9360,L9360,0.019
-WA,special_district,Special District L9361,L9361,0.019
+WA,special_district,Special District L9360,L9360,0.014
+WA,special_district,Special District L9361,L9361,0.017
 WA,special_district,Special District L9362,L9362,0.019
 WA,special_district,Special District L9363,L9363,0.022
-WA,special_district,Special District L9364,L9364,0.017
-WA,special_district,Special District L9365,L9365,0.019
+WA,special_district,Special District L9364,L9364,0.015
+WA,special_district,Special District L9365,L9365,0.014
 WA,special_district,Special District L9366,L9366,0.019
 WA,special_district,Special District L9367,L9367,0.019
 WA,special_district,Special District L9368,L9368,0.017
-WA,special_district,Special District L9369,L9369,0.02
+WA,special_district,Special District L9369,L9369,0.021
 WA,special_district,Special District L9370,L9370,0.017
-WA,special_district,Special District L9371,L9371,0.02
+WA,special_district,Special District L9371,L9371,0.021
 WA,special_district,Special District L9372,L9372,0.02
 WA,special_district,Special District L9373,L9373,0.017
 WA,special_district,Special District L9374,L9374,0.018
-WA,special_district,Special District L9375,L9375,0.017
+WA,special_district,Special District L9375,L9375,0.016
 WA,special_district,Special District L9376,L9376,0.017
 WA,special_district,Special District L9377,L9377,0.017
-WA,special_district,Special District L9378,L9378,0.011
+WA,special_district,Special District L9378,L9378,0.017
 WA,special_district,Special District L9379,L9379,0.017
 WA,special_district,Special District L9380,L9380,0.017
 WA,special_district,Special District L9381,L9381,0.017
 WA,special_district,Special District L9382,L9382,0.017
-WA,special_district,Special District L9383,L9383,0.019
+WA,special_district,Special District L9383,L9383,0.017
 WA,special_district,Special District L9384,L9384,0.018
 WA,special_district,Special District L9385,L9385,0.017
 WA,special_district,Special District L9386,L9386,0.017
@@ -13768,9 +13816,9 @@ WA,special_district,Special District L9388,L9388,0.017
 WA,special_district,Special District L9389,L9389,0.017
 WA,special_district,Special District L9390,L9390,0.027
 WA,special_district,Special District L9391,L9391,0.016
-WA,special_district,Special District L9392,L9392,0.014
+WA,special_district,Special District L9392,L9392,0.015
 WA,special_district,Special District L9393,L9393,0.016
-WA,special_district,Special District L9394,L9394,0.015
+WA,special_district,Special District L9394,L9394,0.016
 WA,special_district,Special District L9395,L9395,0.015
 WA,special_district,Special District L9396,L9396,0.016
 WA,special_district,Special District L9397,L9397,0.024
@@ -13790,18 +13838,18 @@ WA,special_district,Special District L9410,L9410,0.015
 WA,special_district,Special District L9411,L9411,0.016
 WA,special_district,Special District L9412,L9412,0.016
 WA,special_district,Special District L9413,L9413,0.015
-WA,special_district,Special District L9414,L9414,0.014
+WA,special_district,Special District L9414,L9414,0.015
 WA,special_district,Special District L9415,L9415,0.015
 WA,special_district,Special District L9416,L9416,0.016
-WA,special_district,Special District L9417,L9417,0.024
+WA,special_district,Special District L9417,L9417,0.016
 WA,special_district,Special District L9418,L9418,0.015
 WA,special_district,Special District L9419,L9419,0.015
 WA,special_district,Special District L9420,L9420,0.015
 WA,special_district,Special District L9421,L9421,0.015
 WA,special_district,Special District L9422,L9422,0.015
 WA,special_district,Special District L9423,L9423,0.015
-WA,special_district,Special District L9424,L9424,0.014
-WA,special_district,Special District L9425,L9425,0.014
+WA,special_district,Special District L9424,L9424,0.015
+WA,special_district,Special District L9425,L9425,0.015
 WA,special_district,Special District L9426,L9426,0.012
 WA,special_district,Special District L9427,L9427,0.017
 WA,special_district,Special District L9428,L9428,0.015
@@ -13811,59 +13859,59 @@ WA,special_district,Special District L9431,L9431,0.012
 WA,special_district,Special District L9432,L9432,0.015
 WA,special_district,Special District L9433,L9433,0.015
 WA,special_district,Special District L9434,L9434,0.017
-WA,special_district,Special District L9435,L9435,0.014
+WA,special_district,Special District L9435,L9435,0.015
 WA,special_district,Special District L9436,L9436,0.015
-WA,special_district,Special District L9437,L9437,0.014
+WA,special_district,Special District L9437,L9437,0.015
 WA,special_district,Special District L9438,L9438,0.015
-WA,special_district,Special District L9439,L9439,0.014
+WA,special_district,Special District L9439,L9439,0.015
 WA,special_district,Special District L9440,L9440,0.015
-WA,special_district,Special District L9441,L9441,0.013
+WA,special_district,Special District L9441,L9441,0.014
 WA,special_district,Special District L9442,L9442,0.015
 WA,special_district,Special District L9443,L9443,0.017
-WA,special_district,Special District L9444,L9444,0.014
+WA,special_district,Special District L9444,L9444,0.015
 WA,special_district,Special District L9445,L9445,0.015
 WA,special_district,Special District L9446,L9446,0.015
 WA,special_district,Special District L9447,L9447,0.012
 WA,special_district,Special District L9448,L9448,0.015
 WA,special_district,Special District L9449,L9449,0.015
-WA,special_district,Special District L9450,L9450,0.014
+WA,special_district,Special District L9450,L9450,0.017
 WA,special_district,Special District L9451,L9451,0.015
 WA,special_district,Special District L9452,L9452,0.015
 WA,special_district,Special District L9453,L9453,0.015
 WA,special_district,Special District L9454,L9454,0.012
 WA,special_district,Special District L9455,L9455,0.012
 WA,special_district,Special District L9456,L9456,0.015
-WA,special_district,Special District L9457,L9457,0.014
+WA,special_district,Special District L9457,L9457,0.015
 WA,special_district,Special District L9458,L9458,0.015
-WA,special_district,Special District L9459,L9459,0.014
+WA,special_district,Special District L9459,L9459,0.015
 WA,special_district,Special District L9460,L9460,0.015
 WA,special_district,Special District L9461,L9461,0.015
 WA,special_district,Special District L9462,L9462,0.015
 WA,special_district,Special District L9463,L9463,0.015
-WA,special_district,Special District L9464,L9464,0.016
-WA,special_district,Special District L9465,L9465,0.014
+WA,special_district,Special District L9464,L9464,0.015
+WA,special_district,Special District L9465,L9465,0.015
 WA,special_district,Special District L9466,L9466,0.015
-WA,special_district,Special District L9467,L9467,0.014
-WA,special_district,Special District L9468,L9468,0.014
+WA,special_district,Special District L9467,L9467,0.015
+WA,special_district,Special District L9468,L9468,0.015
 WA,special_district,Special District L9469,L9469,0.012
 WA,special_district,Special District L9470,L9470,0.015
 WA,special_district,Special District L9471,L9471,0.015
 WA,special_district,Special District L9472,L9472,0.026
-WA,special_district,Special District L9473,L9473,0.025
+WA,special_district,Special District L9473,L9473,0.024
 WA,special_district,Special District L9474,L9474,0.026
 WA,special_district,Special District L9475,L9475,0.026
 WA,special_district,Special District L9476,L9476,0.024
-WA,special_district,Special District L9477,L9477,0.025
+WA,special_district,Special District L9477,L9477,0.024
 WA,special_district,Special District L9478,L9478,0.026
 WA,special_district,Special District L9479,L9479,0.024
-WA,special_district,Special District L9480,L9480,0.016
+WA,special_district,Special District L9480,L9480,0.026
 WA,special_district,Special District L9481,L9481,0.025
-WA,special_district,Special District L9482,L9482,0.024
+WA,special_district,Special District L9482,L9482,0.026
 WA,special_district,Special District L9483,L9483,0.026
-WA,special_district,Special District L9484,L9484,0.016
-WA,special_district,Special District L9485,L9485,0.016
+WA,special_district,Special District L9484,L9484,0.026
+WA,special_district,Special District L9485,L9485,0.027
 WA,special_district,Special District L9486,L9486,0.024
-WA,special_district,Special District L9487,L9487,0.023
+WA,special_district,Special District L9487,L9487,0.022
 WA,special_district,Special District L9488,L9488,0.022
 WA,special_district,Special District L9489,L9489,0.017
 WA,special_district,Special District L9490,L9490,0.011
@@ -13883,20 +13931,20 @@ WA,special_district,Special District L9503,L9503,0.018
 WA,special_district,Special District L9504,L9504,0.017
 WA,special_district,Special District L9505,L9505,0.022
 WA,special_district,Special District L9506,L9506,0.023
-WA,special_district,Special District L9507,L9507,0.016
-WA,special_district,Special District L9508,L9508,0.023
+WA,special_district,Special District L9507,L9507,0.022
+WA,special_district,Special District L9508,L9508,0.022
 WA,special_district,Special District L9509,L9509,0.011
 WA,special_district,Special District L9510,L9510,0.017
 WA,special_district,Special District L9511,L9511,0.024
 WA,special_district,Special District L9512,L9512,0.02
-WA,special_district,Special District L9513,L9513,0.018
-WA,special_district,Special District L9514,L9514,0.014
+WA,special_district,Special District L9513,L9513,0.026
+WA,special_district,Special District L9514,L9514,0.016
 WA,special_district,Special District L9515,L9515,0.018
 WA,special_district,Special District L9516,L9516,0.018
 WA,special_district,Special District L9517,L9517,0.018
 WA,special_district,Special District L9518,L9518,0.039
 WA,special_district,Special District L9519,L9519,0.011
-WA,special_district,Special District L9520,L9520,0.016
+WA,special_district,Special District L9520,L9520,0.017
 WA,special_district,Special District L9521,L9521,0.024
 WA,special_district,Special District L9523,L9523,0.038
 WA,special_district,Special District L9524,L9524,0.024
@@ -13907,16 +13955,16 @@ WA,special_district,Special District L9528,L9528,0.038
 WA,special_district,Special District L9529,L9529,0.042
 WA,special_district,Special District L9530,L9530,0.024
 WA,special_district,Special District L9532,L9532,0.027
-WA,special_district,Special District L9533,L9533,0.038
-WA,special_district,Special District L9534,L9534,0.038
+WA,special_district,Special District L9533,L9533,0.039
+WA,special_district,Special District L9534,L9534,0.039
 WA,special_district,Special District L9535,L9535,0.039
 WA,special_district,Special District L9536,L9536,0.024
-WA,special_district,Special District L9537,L9537,0.039
+WA,special_district,Special District L9537,L9537,0.04
 WA,special_district,Special District L9538,L9538,0.039
 WA,special_district,Special District L9539,L9539,0.041
 WA,special_district,Special District L9540,L9540,0.039
 WA,special_district,Special District L9541,L9541,0.039
-WA,special_district,Special District L9542,L9542,0.038
+WA,special_district,Special District L9542,L9542,0.039
 WA,special_district,Special District L9543,L9543,0.0405
 WA,special_district,Special District L9544,L9544,0.0405
 WA,special_district,Special District L9545,L9545,0.0405
@@ -13945,9 +13993,9 @@ WA,special_district,Special District L9571,L9571,0.034
 WA,special_district,Special District L9572,L9572,0.034
 WA,special_district,Special District L9573,L9573,0.0185
 WA,special_district,Special District L9574,L9574,0.024
-WA,special_district,Special District L9575,L9575,0.026
-WA,special_district,Special District L9576,L9576,0.026
-WA,special_district,Special District L9577,L9577,0.025
+WA,special_district,Special District L9575,L9575,0.027
+WA,special_district,Special District L9576,L9576,0.027
+WA,special_district,Special District L9577,L9577,0.026
 WA,special_district,Special District L9578,L9578,0.022
 WA,special_district,Special District L9579,L9579,0.018
 WA,special_district,Special District L9580,L9580,0.0185
@@ -13955,7 +14003,7 @@ WA,special_district,Special District L9581,L9581,0.022
 WA,special_district,Special District L9582,L9582,0.026
 WA,special_district,Special District L9583,L9583,0.029
 WA,special_district,Special District L9584,L9584,0.022
-WA,special_district,Special District L9585,L9585,0.023
+WA,special_district,Special District L9585,L9585,0.024
 WA,special_district,Special District L9586,L9586,0.0185
 WA,special_district,Special District L9587,L9587,0.0185
 WA,special_district,Special District L9588,L9588,0.026
@@ -13965,55 +14013,55 @@ WA,special_district,Special District L9591,L9591,0.0185
 WA,special_district,Special District L9592,L9592,0.027
 WA,special_district,Special District L9593,L9593,0.021
 WA,special_district,Special District L9594,L9594,0.021
-WA,special_district,Special District L9595,L9595,0.016
-WA,special_district,Special District L9596,L9596,0.016
+WA,special_district,Special District L9595,L9595,0.017
+WA,special_district,Special District L9596,L9596,0.017
 WA,special_district,Special District L9597,L9597,0.021
-WA,special_district,Special District L9598,L9598,0.031
+WA,special_district,Special District L9598,L9598,0.032
 WA,special_district,Special District L9599,L9599,0.027
 WA,special_district,Special District L9600,L9600,0.021
 WA,special_district,Special District L9601,L9601,0.027
 WA,special_district,Special District L9602,L9602,0.028
 WA,special_district,Special District L9603,L9603,0.027
-WA,special_district,Special District L9604,L9604,0.016
+WA,special_district,Special District L9604,L9604,0.017
 WA,special_district,Special District L9605,L9605,0.027
 WA,special_district,Special District L9606,L9606,0.027
-WA,special_district,Special District L9607,L9607,0.016
-WA,special_district,Special District L9608,L9608,0.016
-WA,special_district,Special District L9609,L9609,0.016
-WA,special_district,Special District L9610,L9610,0.016
-WA,special_district,Special District L9611,L9611,0.039
-WA,special_district,Special District L9612,L9612,0.039
-WA,special_district,Special District L9613,L9613,0.039
-WA,special_district,Special District L9614,L9614,0.039
-WA,special_district,Special District L9615,L9615,0.039
-WA,special_district,Special District L9616,L9616,0.03
-WA,special_district,Special District L9621,L9621,0.036
-WA,special_district,Special District L9622,L9622,0.039
-WA,special_district,Special District L9624,L9624,0.039
-WA,special_district,Special District L9626,L9626,0.036
-WA,special_district,Special District L9627,L9627,0.036
-WA,special_district,Special District L9628,L9628,0.033
-WA,special_district,Special District L9629,L9629,0.03
-WA,special_district,Special District L9630,L9630,0.033
-WA,special_district,Special District L9631,L9631,0.033
-WA,special_district,Special District L9632,L9632,0.032
-WA,special_district,Special District L9633,L9633,0.032
+WA,special_district,Special District L9607,L9607,0.017
+WA,special_district,Special District L9608,L9608,0.017
+WA,special_district,Special District L9609,L9609,0.017
+WA,special_district,Special District L9610,L9610,0.017
+WA,special_district,Special District L9611,L9611,0.04
+WA,special_district,Special District L9612,L9612,0.04
+WA,special_district,Special District L9613,L9613,0.04
+WA,special_district,Special District L9614,L9614,0.04
+WA,special_district,Special District L9615,L9615,0.04
+WA,special_district,Special District L9616,L9616,0.031
+WA,special_district,Special District L9621,L9621,0.037
+WA,special_district,Special District L9622,L9622,0.04
+WA,special_district,Special District L9624,L9624,0.04
+WA,special_district,Special District L9626,L9626,0.038
+WA,special_district,Special District L9627,L9627,0.038
+WA,special_district,Special District L9628,L9628,0.035
+WA,special_district,Special District L9629,L9629,0.031
+WA,special_district,Special District L9630,L9630,0.035
+WA,special_district,Special District L9631,L9631,0.035
+WA,special_district,Special District L9632,L9632,0.033
+WA,special_district,Special District L9633,L9633,0.033
 WA,special_district,Special District L9634,L9634,0.015
 WA,special_district,Special District L9635,L9635,0.017
-WA,special_district,Special District L9636,L9636,0.018
+WA,special_district,Special District L9636,L9636,0.019
 WA,special_district,Special District L9637,L9637,0.015
-WA,special_district,Special District L9638,L9638,0.018
+WA,special_district,Special District L9638,L9638,0.019
 WA,special_district,Special District L9639,L9639,0.015
 WA,special_district,Special District L9640,L9640,0.017
-WA,special_district,Special District L9641,L9641,0.018
-WA,special_district,Special District L9642,L9642,0.016
+WA,special_district,Special District L9641,L9641,0.019
+WA,special_district,Special District L9642,L9642,0.017
 WA,special_district,Special District L9643,L9643,0.024
 WA,special_district,Special District L9644,L9644,0.017
 WA,special_district,Special District L9645,L9645,0.016
 WA,special_district,Special District L9646,L9646,0.024
 WA,special_district,Special District L9647,L9647,0.024
 WA,special_district,Special District L9648,L9648,0.024
-WA,special_district,Special District L9649,L9649,0.033
+WA,special_district,Special District L9649,L9649,0.035
 WA,special_district,Special District L9650,L9650,0.012
 WA,special_district,Special District L9651,L9651,0.017
 WA,special_district,Special District L9652,L9652,0.024
@@ -14027,19 +14075,19 @@ WA,special_district,Special District L9660,L9660,0.024
 WA,special_district,Special District L9661,L9661,0.011
 WA,special_district,Special District L9662,L9662,0.011
 WA,special_district,Special District L9663,L9663,0.024
-WA,special_district,Special District L9664,L9664,0.024
-WA,special_district,Special District L9665,L9665,0.019
-WA,special_district,Special District L9666,L9666,0.019
+WA,special_district,Special District L9664,L9664,0.025
+WA,special_district,Special District L9665,L9665,0.02
+WA,special_district,Special District L9666,L9666,0.02
 WA,special_district,Special District L9667,L9667,0.019
-WA,special_district,Special District L9668,L9668,0.019
+WA,special_district,Special District L9668,L9668,0.02
 WA,special_district,Special District L9669,L9669,0.019
 WA,special_district,Special District L9670,L9670,0.019
-WA,special_district,Special District L9671,L9671,0.019
-WA,special_district,Special District L9672,L9672,0.019
+WA,special_district,Special District L9671,L9671,0.02
+WA,special_district,Special District L9672,L9672,0.02
 WA,special_district,Special District L9673,L9673,0.017
 WA,special_district,Special District L9674,L9674,0.017
 WA,special_district,Special District L9675,L9675,0.017
-WA,special_district,Special District L9676,L9676,0.02
+WA,special_district,Special District L9676,L9676,0.021
 WA,special_district,Special District L9677,L9677,0.019
 WA,special_district,Special District L9678,L9678,0.017
 WA,special_district,Special District L9679,L9679,0.017
@@ -14053,19 +14101,19 @@ WA,special_district,Special District L9687,L9687,0.018
 WA,special_district,Special District L9688,L9688,0.024
 WA,special_district,Special District L9690,L9690,0.016
 WA,special_district,Special District L9691,L9691,0.016
-WA,special_district,Special District L9692,L9692,0.014
-WA,special_district,Special District L9693,L9693,0.014
+WA,special_district,Special District L9692,L9692,0.015
+WA,special_district,Special District L9693,L9693,0.015
 WA,special_district,Special District L9694,L9694,0.015
 WA,special_district,Special District L9696,L9696,0.015
 WA,special_district,Special District L9697,L9697,0.015
-WA,special_district,Special District L9698,L9698,0.014
+WA,special_district,Special District L9698,L9698,0.015
 WA,special_district,Special District L9699,L9699,0.015
 WA,special_district,Special District L9700,L9700,0.012
 WA,special_district,Special District L9701,L9701,0.015
 WA,special_district,Special District L9702,L9702,0.015
 WA,special_district,Special District L9703,L9703,0.015
-WA,special_district,Special District L9704,L9704,0.015
-WA,special_district,Special District L9706,L9706,0.014
+WA,special_district,Special District L9704,L9704,0.017
+WA,special_district,Special District L9706,L9706,0.015
 WA,special_district,Special District L9707,L9707,0.026
 WA,special_district,Special District L9708,L9708,0.026
 WA,special_district,Special District L9709,L9709,0.025
@@ -14081,17 +14129,17 @@ WA,special_district,Special District L9718,L9718,0.026
 WA,special_district,Special District L9719,L9719,0.026
 WA,special_district,Special District L9721,L9721,0.024
 WA,special_district,Special District L9723,L9723,0.018
-WA,special_district,Special District L9725,L9725,0.014
+WA,special_district,Special District L9725,L9725,0.015
 WA,special_district,Special District L9726,L9726,0.016
 WA,special_district,Special District L9727,L9727,0.016
 WA,special_district,Special District L9728,L9728,0.016
 WA,special_district,Special District L9729,L9729,0.017
 WA,special_district,Special District L9730,L9730,0.018
-WA,special_district,Special District L9734,L9734,0.036
-WA,special_district,Special District L9735,L9735,0.039
-WA,special_district,Special District L9736,L9736,0.039
-WA,special_district,Special District L9738,L9738,0.039
-WA,special_district,Special District L9739,L9739,0.036
+WA,special_district,Special District L9734,L9734,0.038
+WA,special_district,Special District L9735,L9735,0.04
+WA,special_district,Special District L9736,L9736,0.04
+WA,special_district,Special District L9738,L9738,0.04
+WA,special_district,Special District L9739,L9739,0.037
 WI,city,Milwaukee,53000,0.02
 WI,county,Adams,001,0.005
 WI,county,Ashland,003,0.005
@@ -14194,6 +14242,7 @@ WV,city,Follansbee,28204,0.01
 WV,city,Franklin,29044,0.01
 WV,city,Glenville,32044,0.01
 WV,city,Grafton,32716,0.01
+WV,city,Granville,32932,0.01
 WV,city,Harpers Ferry,35284,0.01
 WV,city,Harrisville,35428,0.01
 WV,city,Hinton,37636,0.01
@@ -14234,6 +14283,7 @@ WV,city,Reedsville,67636,0.01
 WV,city,Richwood,68116,0.01
 WV,city,Ripley,68596,0.01
 WV,city,Romney,70084,0.01
+WV,city,Ronceverte,70156,0.01
 WV,city,Rowlesburg,70588,0.01
 WV,city,Rupert,70828,0.01
 WV,city,Shepherdstown,73468,0.01
@@ -14254,6 +14304,7 @@ WV,city,Vienna,83500,0.01
 WV,city,Wardensville,84580,0.01
 WV,city,Wayne,84940,0.01
 WV,city,Weirton,85156,0.01
+WV,city,Welch,85228,0.01
 WV,city,West Union,86116,0.01
 WV,city,Weston,85972,0.01
 WV,city,Westover,85996,0.01
@@ -14262,7 +14313,7 @@ WV,city,White Hall,86620,0.01
 WV,city,Williamstown,87556,0.01
 WV,city,Winfield,87988,0.01
 WY,city,Casper,13150,0.01
-WY,county,Albany,001,0.02
+WY,county,Albany,001,0.01
 WY,county,Big Horn,003,0.01
 WY,county,Campbell,005,0.01
 WY,county,Carbon,007,0.02

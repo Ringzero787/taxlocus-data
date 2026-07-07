@@ -4867,6 +4867,13 @@
   {
     "state": "AR",
     "jurisdiction_type": "city",
+    "name": "Chester",
+    "fips_code": "13570",
+    "rate": 0.01
+  },
+  {
+    "state": "AR",
+    "jurisdiction_type": "city",
     "name": "Chidester",
     "fips_code": "13750",
     "rate": 0.02
@@ -5107,7 +5114,7 @@
     "jurisdiction_type": "city",
     "name": "El Dorado",
     "fips_code": "21070",
-    "rate": 0.0125
+    "rate": 0.0175
   },
   {
     "state": "AR",
@@ -6260,6 +6267,13 @@
   {
     "state": "AR",
     "jurisdiction_type": "city",
+    "name": "Perry",
+    "fips_code": "54650",
+    "rate": 0.01
+  },
+  {
+    "state": "AR",
+    "jurisdiction_type": "city",
     "name": "Perryville",
     "fips_code": "54710",
     "rate": 0.01
@@ -6696,7 +6710,7 @@
     "jurisdiction_type": "city",
     "name": "Van Buren",
     "fips_code": "71480",
-    "rate": 0.015
+    "rate": 0.025
   },
   {
     "state": "AR",
@@ -7011,7 +7025,7 @@
     "jurisdiction_type": "county",
     "name": "Cross",
     "fips_code": "037",
-    "rate": 0.03
+    "rate": 0.02125
   },
   {
     "state": "AR",
@@ -7116,7 +7130,7 @@
     "jurisdiction_type": "county",
     "name": "Jackson",
     "fips_code": "067",
-    "rate": 0.0225
+    "rate": 0.01875
   },
   {
     "state": "AR",
@@ -7571,7 +7585,7 @@
     "jurisdiction_type": "city",
     "name": "Florence",
     "fips_code": null,
-    "rate": 0.02
+    "rate": 0.035
   },
   {
     "state": "AZ",
@@ -8075,7 +8089,7 @@
     "jurisdiction_type": "county",
     "name": "Cochise",
     "fips_code": null,
-    "rate": 0.005
+    "rate": 0.01
   },
   {
     "state": "AZ",
@@ -11400,14 +11414,7 @@
     "jurisdiction_type": "special_district",
     "name": "Unincorporated (CDTFA tax area)",
     "fips_code": null,
-    "rate": 0.005
-  },
-  {
-    "state": "CA",
-    "jurisdiction_type": "special_district",
-    "name": "Unincorporated (CDTFA tax area)",
-    "fips_code": null,
-    "rate": 0.0
+    "rate": 0.01
   },
   {
     "state": "CA",
@@ -11421,7 +11428,7 @@
     "jurisdiction_type": "special_district",
     "name": "Unincorporated (CDTFA tax area)",
     "fips_code": null,
-    "rate": 0.005
+    "rate": 0.0
   },
   {
     "state": "CA",
@@ -11443,13 +11450,6 @@
     "name": "Unincorporated (CDTFA tax area)",
     "fips_code": null,
     "rate": 0.01
-  },
-  {
-    "state": "CA",
-    "jurisdiction_type": "special_district",
-    "name": "Unincorporated (CDTFA tax area)",
-    "fips_code": null,
-    "rate": 0.005
   },
   {
     "state": "CA",
@@ -11471,13 +11471,6 @@
     "name": "Unincorporated (CDTFA tax area)",
     "fips_code": null,
     "rate": 0.01
-  },
-  {
-    "state": "CA",
-    "jurisdiction_type": "special_district",
-    "name": "Unincorporated (CDTFA tax area)",
-    "fips_code": null,
-    "rate": 0.0
   },
   {
     "state": "CA",
@@ -11505,13 +11498,6 @@
     "jurisdiction_type": "special_district",
     "name": "Unincorporated (CDTFA tax area)",
     "fips_code": null,
-    "rate": 0.02125
-  },
-  {
-    "state": "CA",
-    "jurisdiction_type": "special_district",
-    "name": "Unincorporated (CDTFA tax area)",
-    "fips_code": null,
     "rate": 0.015
   },
   {
@@ -11561,13 +11547,6 @@
     "jurisdiction_type": "special_district",
     "name": "Unincorporated (CDTFA tax area)",
     "fips_code": null,
-    "rate": 0.005
-  },
-  {
-    "state": "CA",
-    "jurisdiction_type": "special_district",
-    "name": "Unincorporated (CDTFA tax area)",
-    "fips_code": null,
     "rate": 0.025
   },
   {
@@ -11575,42 +11554,7 @@
     "jurisdiction_type": "special_district",
     "name": "Unincorporated (CDTFA tax area)",
     "fips_code": null,
-    "rate": 0.0225
-  },
-  {
-    "state": "CA",
-    "jurisdiction_type": "special_district",
-    "name": "Unincorporated (CDTFA tax area)",
-    "fips_code": null,
-    "rate": 0.0
-  },
-  {
-    "state": "CA",
-    "jurisdiction_type": "special_district",
-    "name": "Unincorporated (CDTFA tax area)",
-    "fips_code": null,
-    "rate": 0.025
-  },
-  {
-    "state": "CA",
-    "jurisdiction_type": "special_district",
-    "name": "Unincorporated (CDTFA tax area)",
-    "fips_code": null,
-    "rate": 0.0
-  },
-  {
-    "state": "CA",
-    "jurisdiction_type": "special_district",
-    "name": "Unincorporated (CDTFA tax area)",
-    "fips_code": null,
     "rate": 0.005
-  },
-  {
-    "state": "CA",
-    "jurisdiction_type": "special_district",
-    "name": "Unincorporated (CDTFA tax area)",
-    "fips_code": null,
-    "rate": 0.0
   },
   {
     "state": "CA",
@@ -11632,13 +11576,6 @@
     "name": "Unincorporated (CDTFA tax area)",
     "fips_code": null,
     "rate": 0.00625
-  },
-  {
-    "state": "CA",
-    "jurisdiction_type": "special_district",
-    "name": "Unincorporated (CDTFA tax area)",
-    "fips_code": null,
-    "rate": 0.00125
   },
   {
     "state": "CA",
@@ -11687,6 +11624,132 @@
     "jurisdiction_type": "special_district",
     "name": "Unincorporated (CDTFA tax area)",
     "fips_code": null,
+    "rate": 0.005
+  },
+  {
+    "state": "CA",
+    "jurisdiction_type": "special_district",
+    "name": "Unincorporated (CDTFA tax area)",
+    "fips_code": null,
+    "rate": 0.0
+  },
+  {
+    "state": "CA",
+    "jurisdiction_type": "special_district",
+    "name": "Unincorporated (CDTFA tax area)",
+    "fips_code": null,
+    "rate": 0.0
+  },
+  {
+    "state": "CA",
+    "jurisdiction_type": "special_district",
+    "name": "Unincorporated (CDTFA tax area)",
+    "fips_code": null,
+    "rate": 0.005
+  },
+  {
+    "state": "CA",
+    "jurisdiction_type": "special_district",
+    "name": "Unincorporated (CDTFA tax area)",
+    "fips_code": null,
+    "rate": 0.005
+  },
+  {
+    "state": "CA",
+    "jurisdiction_type": "special_district",
+    "name": "Unincorporated (CDTFA tax area)",
+    "fips_code": null,
+    "rate": 0.01
+  },
+  {
+    "state": "CA",
+    "jurisdiction_type": "special_district",
+    "name": "Unincorporated (CDTFA tax area)",
+    "fips_code": null,
+    "rate": 0.005
+  },
+  {
+    "state": "CA",
+    "jurisdiction_type": "special_district",
+    "name": "Unincorporated (CDTFA tax area)",
+    "fips_code": null,
+    "rate": 0.005
+  },
+  {
+    "state": "CA",
+    "jurisdiction_type": "special_district",
+    "name": "Unincorporated (CDTFA tax area)",
+    "fips_code": null,
+    "rate": 0.005
+  },
+  {
+    "state": "CA",
+    "jurisdiction_type": "special_district",
+    "name": "Unincorporated (CDTFA tax area)",
+    "fips_code": null,
+    "rate": 0.0
+  },
+  {
+    "state": "CA",
+    "jurisdiction_type": "special_district",
+    "name": "Unincorporated (CDTFA tax area)",
+    "fips_code": null,
+    "rate": 0.02125
+  },
+  {
+    "state": "CA",
+    "jurisdiction_type": "special_district",
+    "name": "Unincorporated (CDTFA tax area)",
+    "fips_code": null,
+    "rate": 0.005
+  },
+  {
+    "state": "CA",
+    "jurisdiction_type": "special_district",
+    "name": "Unincorporated (CDTFA tax area)",
+    "fips_code": null,
+    "rate": 0.025
+  },
+  {
+    "state": "CA",
+    "jurisdiction_type": "special_district",
+    "name": "Unincorporated (CDTFA tax area)",
+    "fips_code": null,
+    "rate": 0.0225
+  },
+  {
+    "state": "CA",
+    "jurisdiction_type": "special_district",
+    "name": "Unincorporated (CDTFA tax area)",
+    "fips_code": null,
+    "rate": 0.0
+  },
+  {
+    "state": "CA",
+    "jurisdiction_type": "special_district",
+    "name": "Unincorporated (CDTFA tax area)",
+    "fips_code": null,
+    "rate": 0.0
+  },
+  {
+    "state": "CA",
+    "jurisdiction_type": "special_district",
+    "name": "Unincorporated (CDTFA tax area)",
+    "fips_code": null,
+    "rate": 0.0
+  },
+  {
+    "state": "CA",
+    "jurisdiction_type": "special_district",
+    "name": "Unincorporated (CDTFA tax area)",
+    "fips_code": null,
+    "rate": 0.00125
+  },
+  {
+    "state": "CA",
+    "jurisdiction_type": "special_district",
+    "name": "Unincorporated (CDTFA tax area)",
+    "fips_code": null,
     "rate": 0.02
   },
   {
@@ -11701,34 +11764,6 @@
     "jurisdiction_type": "special_district",
     "name": "Unincorporated (CDTFA tax area)",
     "fips_code": null,
-    "rate": 0.005
-  },
-  {
-    "state": "CA",
-    "jurisdiction_type": "special_district",
-    "name": "Unincorporated (CDTFA tax area)",
-    "fips_code": null,
-    "rate": 0.0
-  },
-  {
-    "state": "CA",
-    "jurisdiction_type": "special_district",
-    "name": "Unincorporated (CDTFA tax area)",
-    "fips_code": null,
-    "rate": 0.0
-  },
-  {
-    "state": "CA",
-    "jurisdiction_type": "special_district",
-    "name": "Unincorporated (CDTFA tax area)",
-    "fips_code": null,
-    "rate": 0.0
-  },
-  {
-    "state": "CA",
-    "jurisdiction_type": "special_district",
-    "name": "Unincorporated (CDTFA tax area)",
-    "fips_code": null,
     "rate": 0.0
   },
   {
@@ -11757,27 +11792,6 @@
     "jurisdiction_type": "special_district",
     "name": "Unincorporated (CDTFA tax area)",
     "fips_code": null,
-    "rate": 0.005
-  },
-  {
-    "state": "CA",
-    "jurisdiction_type": "special_district",
-    "name": "Unincorporated (CDTFA tax area)",
-    "fips_code": null,
-    "rate": 0.005
-  },
-  {
-    "state": "CA",
-    "jurisdiction_type": "special_district",
-    "name": "Unincorporated (CDTFA tax area)",
-    "fips_code": null,
-    "rate": 0.01
-  },
-  {
-    "state": "CA",
-    "jurisdiction_type": "special_district",
-    "name": "Unincorporated (CDTFA tax area)",
-    "fips_code": null,
     "rate": 0.0
   },
   {
@@ -11792,7 +11806,7 @@
     "jurisdiction_type": "special_district",
     "name": "Unincorporated (CDTFA tax area)",
     "fips_code": null,
-    "rate": 0.01
+    "rate": 0.0
   },
   {
     "state": "CA",
@@ -12268,14 +12282,14 @@
     "jurisdiction_type": "city",
     "name": "Bow Mar (Mail Via Littleton)",
     "fips_code": null,
-    "rate": 0.0135
+    "rate": 0.016
   },
   {
     "state": "CO",
     "jurisdiction_type": "city",
     "name": "Bow Mar (Mail Via Littleton)",
     "fips_code": null,
-    "rate": 0.016
+    "rate": 0.0135
   },
   {
     "state": "CO",
@@ -14277,126 +14291,7 @@
     "jurisdiction_type": "city",
     "name": "Unincorporated",
     "fips_code": null,
-    "rate": 0.025
-  },
-  {
-    "state": "CO",
-    "jurisdiction_type": "city",
-    "name": "Unincorporated",
-    "fips_code": null,
-    "rate": 0.0
-  },
-  {
-    "state": "CO",
-    "jurisdiction_type": "city",
-    "name": "Unincorporated",
-    "fips_code": null,
-    "rate": 0.03
-  },
-  {
-    "state": "CO",
-    "jurisdiction_type": "city",
-    "name": "Unincorporated",
-    "fips_code": null,
-    "rate": 0.01
-  },
-  {
-    "state": "CO",
-    "jurisdiction_type": "city",
-    "name": "Unincorporated",
-    "fips_code": null,
-    "rate": 0.036
-  },
-  {
-    "state": "CO",
-    "jurisdiction_type": "city",
-    "name": "Unincorporated",
-    "fips_code": null,
-    "rate": 0.0
-  },
-  {
-    "state": "CO",
-    "jurisdiction_type": "city",
-    "name": "Unincorporated",
-    "fips_code": null,
-    "rate": 0.03
-  },
-  {
-    "state": "CO",
-    "jurisdiction_type": "city",
-    "name": "Unincorporated",
-    "fips_code": null,
-    "rate": 0.0175
-  },
-  {
-    "state": "CO",
-    "jurisdiction_type": "city",
-    "name": "Unincorporated",
-    "fips_code": null,
-    "rate": 0.0
-  },
-  {
-    "state": "CO",
-    "jurisdiction_type": "city",
-    "name": "Unincorporated",
-    "fips_code": null,
-    "rate": 0.026
-  },
-  {
-    "state": "CO",
-    "jurisdiction_type": "city",
-    "name": "Unincorporated",
-    "fips_code": null,
     "rate": 0.0125
-  },
-  {
-    "state": "CO",
-    "jurisdiction_type": "city",
-    "name": "Unincorporated",
-    "fips_code": null,
-    "rate": 0.02
-  },
-  {
-    "state": "CO",
-    "jurisdiction_type": "city",
-    "name": "Unincorporated",
-    "fips_code": null,
-    "rate": 0.0
-  },
-  {
-    "state": "CO",
-    "jurisdiction_type": "city",
-    "name": "Unincorporated",
-    "fips_code": null,
-    "rate": 0.015
-  },
-  {
-    "state": "CO",
-    "jurisdiction_type": "city",
-    "name": "Unincorporated",
-    "fips_code": null,
-    "rate": 0.01
-  },
-  {
-    "state": "CO",
-    "jurisdiction_type": "city",
-    "name": "Unincorporated",
-    "fips_code": null,
-    "rate": 0.01
-  },
-  {
-    "state": "CO",
-    "jurisdiction_type": "city",
-    "name": "Unincorporated",
-    "fips_code": null,
-    "rate": 0.03
-  },
-  {
-    "state": "CO",
-    "jurisdiction_type": "city",
-    "name": "Unincorporated",
-    "fips_code": null,
-    "rate": 0.0275
   },
   {
     "state": "CO",
@@ -14606,6 +14501,13 @@
     "jurisdiction_type": "city",
     "name": "Unincorporated",
     "fips_code": null,
+    "rate": 0.01
+  },
+  {
+    "state": "CO",
+    "jurisdiction_type": "city",
+    "name": "Unincorporated",
+    "fips_code": null,
     "rate": 0.02
   },
   {
@@ -14613,7 +14515,14 @@
     "jurisdiction_type": "city",
     "name": "Unincorporated",
     "fips_code": null,
-    "rate": 0.01
+    "rate": 0.0275
+  },
+  {
+    "state": "CO",
+    "jurisdiction_type": "city",
+    "name": "Unincorporated",
+    "fips_code": null,
+    "rate": 0.03
   },
   {
     "state": "CO",
@@ -14627,14 +14536,7 @@
     "jurisdiction_type": "city",
     "name": "Unincorporated",
     "fips_code": null,
-    "rate": 0.0
-  },
-  {
-    "state": "CO",
-    "jurisdiction_type": "city",
-    "name": "Unincorporated",
-    "fips_code": null,
-    "rate": 0.0223
+    "rate": 0.01
   },
   {
     "state": "CO",
@@ -14648,21 +14550,56 @@
     "jurisdiction_type": "city",
     "name": "Unincorporated",
     "fips_code": null,
-    "rate": 0.0105
+    "rate": 0.0
   },
   {
     "state": "CO",
     "jurisdiction_type": "city",
     "name": "Unincorporated",
     "fips_code": null,
-    "rate": 0.02435
+    "rate": 0.02
   },
   {
     "state": "CO",
     "jurisdiction_type": "city",
     "name": "Unincorporated",
     "fips_code": null,
-    "rate": 0.0237
+    "rate": 0.026
+  },
+  {
+    "state": "CO",
+    "jurisdiction_type": "city",
+    "name": "Unincorporated",
+    "fips_code": null,
+    "rate": 0.0
+  },
+  {
+    "state": "CO",
+    "jurisdiction_type": "city",
+    "name": "Unincorporated",
+    "fips_code": null,
+    "rate": 0.0175
+  },
+  {
+    "state": "CO",
+    "jurisdiction_type": "city",
+    "name": "Unincorporated",
+    "fips_code": null,
+    "rate": 0.03
+  },
+  {
+    "state": "CO",
+    "jurisdiction_type": "city",
+    "name": "Unincorporated",
+    "fips_code": null,
+    "rate": 0.0
+  },
+  {
+    "state": "CO",
+    "jurisdiction_type": "city",
+    "name": "Unincorporated",
+    "fips_code": null,
+    "rate": 0.036
   },
   {
     "state": "CO",
@@ -14676,14 +14613,28 @@
     "jurisdiction_type": "city",
     "name": "Unincorporated",
     "fips_code": null,
-    "rate": 0.0135
+    "rate": 0.03
   },
   {
     "state": "CO",
     "jurisdiction_type": "city",
     "name": "Unincorporated",
     "fips_code": null,
-    "rate": 0.016
+    "rate": 0.0
+  },
+  {
+    "state": "CO",
+    "jurisdiction_type": "city",
+    "name": "Unincorporated",
+    "fips_code": null,
+    "rate": 0.025
+  },
+  {
+    "state": "CO",
+    "jurisdiction_type": "city",
+    "name": "Unincorporated",
+    "fips_code": null,
+    "rate": 0.01
   },
   {
     "state": "CO",
@@ -14697,12 +14648,68 @@
     "jurisdiction_type": "city",
     "name": "Unincorporated",
     "fips_code": null,
+    "rate": 0.016
+  },
+  {
+    "state": "CO",
+    "jurisdiction_type": "city",
+    "name": "Unincorporated",
+    "fips_code": null,
+    "rate": 0.0135
+  },
+  {
+    "state": "CO",
+    "jurisdiction_type": "city",
+    "name": "Unincorporated",
+    "fips_code": null,
     "rate": 0.01
   },
   {
     "state": "CO",
     "jurisdiction_type": "city",
-    "name": "Unincorporated (Berthoud Fpd)",
+    "name": "Unincorporated",
+    "fips_code": null,
+    "rate": 0.0237
+  },
+  {
+    "state": "CO",
+    "jurisdiction_type": "city",
+    "name": "Unincorporated",
+    "fips_code": null,
+    "rate": 0.02435
+  },
+  {
+    "state": "CO",
+    "jurisdiction_type": "city",
+    "name": "Unincorporated",
+    "fips_code": null,
+    "rate": 0.0105
+  },
+  {
+    "state": "CO",
+    "jurisdiction_type": "city",
+    "name": "Unincorporated",
+    "fips_code": null,
+    "rate": 0.015
+  },
+  {
+    "state": "CO",
+    "jurisdiction_type": "city",
+    "name": "Unincorporated",
+    "fips_code": null,
+    "rate": 0.0223
+  },
+  {
+    "state": "CO",
+    "jurisdiction_type": "city",
+    "name": "Unincorporated",
+    "fips_code": null,
+    "rate": 0.0
+  },
+  {
+    "state": "CO",
+    "jurisdiction_type": "city",
+    "name": "Unincorporated",
     "fips_code": null,
     "rate": 0.01
   },
@@ -14711,7 +14718,7 @@
     "jurisdiction_type": "city",
     "name": "Unincorporated (Berthoud Fpd)",
     "fips_code": null,
-    "rate": 0.03435
+    "rate": 0.01
   },
   {
     "state": "CO",
@@ -14723,9 +14730,9 @@
   {
     "state": "CO",
     "jurisdiction_type": "city",
-    "name": "Unincorporated (Cd Only)",
+    "name": "Unincorporated (Berthoud Fpd)",
     "fips_code": null,
-    "rate": 0.011
+    "rate": 0.03435
   },
   {
     "state": "CO",
@@ -14733,6 +14740,13 @@
     "name": "Unincorporated (Cd Only)",
     "fips_code": null,
     "rate": 0.0085
+  },
+  {
+    "state": "CO",
+    "jurisdiction_type": "city",
+    "name": "Unincorporated (Cd Only)",
+    "fips_code": null,
+    "rate": 0.011
   },
   {
     "state": "CO",
@@ -15885,14 +15899,14 @@
   {
     "state": "FL",
     "jurisdiction_type": "county",
-    "name": "St Johns",
+    "name": "St. Johns",
     "fips_code": null,
     "rate": 0.005
   },
   {
     "state": "FL",
     "jurisdiction_type": "county",
-    "name": "St Lucie",
+    "name": "St. Lucie",
     "fips_code": null,
     "rate": 0.01
   },
@@ -16657,7 +16671,7 @@
     "jurisdiction_type": "county",
     "name": "Madison",
     "fips_code": "195",
-    "rate": 0.04
+    "rate": 0.03
   },
   {
     "state": "GA",
@@ -18246,7 +18260,7 @@
     "jurisdiction_type": "city",
     "name": "Auburn",
     "fips_code": null,
-    "rate": 0.01
+    "rate": 0.015
   },
   {
     "state": "IL",
@@ -18288,14 +18302,14 @@
     "jurisdiction_type": "city",
     "name": "Bannockburn",
     "fips_code": null,
-    "rate": 0.0125
+    "rate": 0.0175
   },
   {
     "state": "IL",
     "jurisdiction_type": "city",
     "name": "Barclay",
     "fips_code": null,
-    "rate": 0.01
+    "rate": 0.015
   },
   {
     "state": "IL",
@@ -18337,7 +18351,7 @@
     "jurisdiction_type": "city",
     "name": "Batavia",
     "fips_code": null,
-    "rate": 0.0175
+    "rate": 0.0225
   },
   {
     "state": "IL",
@@ -18470,7 +18484,7 @@
     "jurisdiction_type": "city",
     "name": "Benld",
     "fips_code": null,
-    "rate": 0.01
+    "rate": 0.02
   },
   {
     "state": "IL",
@@ -18491,7 +18505,7 @@
     "jurisdiction_type": "city",
     "name": "Benton",
     "fips_code": null,
-    "rate": 0.0425
+    "rate": 0.0325
   },
   {
     "state": "IL",
@@ -18505,7 +18519,7 @@
     "jurisdiction_type": "city",
     "name": "Berlin",
     "fips_code": null,
-    "rate": 0.01
+    "rate": 0.015
   },
   {
     "state": "IL",
@@ -18764,7 +18778,7 @@
     "jurisdiction_type": "city",
     "name": "Buckner",
     "fips_code": null,
-    "rate": 0.02
+    "rate": 0.01
   },
   {
     "state": "IL",
@@ -18778,7 +18792,7 @@
     "jurisdiction_type": "city",
     "name": "Buffalo",
     "fips_code": null,
-    "rate": 0.01
+    "rate": 0.015
   },
   {
     "state": "IL",
@@ -18813,7 +18827,7 @@
     "jurisdiction_type": "city",
     "name": "Bunker Hill",
     "fips_code": null,
-    "rate": 0.01
+    "rate": 0.02
   },
   {
     "state": "IL",
@@ -18974,7 +18988,7 @@
     "jurisdiction_type": "city",
     "name": "Cantrall",
     "fips_code": null,
-    "rate": 0.01
+    "rate": 0.015
   },
   {
     "state": "IL",
@@ -19170,7 +19184,7 @@
     "jurisdiction_type": "city",
     "name": "Chatham",
     "fips_code": null,
-    "rate": 0.02
+    "rate": 0.025
   },
   {
     "state": "IL",
@@ -19247,7 +19261,7 @@
     "jurisdiction_type": "city",
     "name": "Christopher",
     "fips_code": null,
-    "rate": 0.03
+    "rate": 0.02
   },
   {
     "state": "IL",
@@ -19387,7 +19401,7 @@
     "jurisdiction_type": "city",
     "name": "Colona",
     "fips_code": null,
-    "rate": 0.0225
+    "rate": 0.025
   },
   {
     "state": "IL",
@@ -19443,7 +19457,7 @@
     "jurisdiction_type": "city",
     "name": "Cornell",
     "fips_code": null,
-    "rate": 0.02
+    "rate": 0.01
   },
   {
     "state": "IL",
@@ -19555,7 +19569,7 @@
     "jurisdiction_type": "city",
     "name": "Curran",
     "fips_code": null,
-    "rate": 0.01
+    "rate": 0.015
   },
   {
     "state": "IL",
@@ -19646,7 +19660,7 @@
     "jurisdiction_type": "city",
     "name": "Dawson",
     "fips_code": null,
-    "rate": 0.01
+    "rate": 0.015
   },
   {
     "state": "IL",
@@ -19926,7 +19940,7 @@
     "jurisdiction_type": "city",
     "name": "Edgewood",
     "fips_code": null,
-    "rate": 0.0025
+    "rate": 0.0125
   },
   {
     "state": "IL",
@@ -20108,7 +20122,7 @@
     "jurisdiction_type": "city",
     "name": "Ewing",
     "fips_code": null,
-    "rate": 0.02
+    "rate": 0.01
   },
   {
     "state": "IL",
@@ -20451,7 +20465,7 @@
     "jurisdiction_type": "city",
     "name": "Gillespie",
     "fips_code": null,
-    "rate": 0.01
+    "rate": 0.02
   },
   {
     "state": "IL",
@@ -20507,7 +20521,7 @@
     "jurisdiction_type": "city",
     "name": "Glencoe",
     "fips_code": null,
-    "rate": 0.0275
+    "rate": 0.0375
   },
   {
     "state": "IL",
@@ -20605,7 +20619,7 @@
     "jurisdiction_type": "city",
     "name": "Grandview",
     "fips_code": null,
-    "rate": 0.01
+    "rate": 0.015
   },
   {
     "state": "IL",
@@ -20647,7 +20661,7 @@
     "jurisdiction_type": "city",
     "name": "Greenfield",
     "fips_code": null,
-    "rate": 0.01
+    "rate": 0.02
   },
   {
     "state": "IL",
@@ -20738,7 +20752,7 @@
     "jurisdiction_type": "city",
     "name": "Hanaford",
     "fips_code": null,
-    "rate": 0.02
+    "rate": 0.01
   },
   {
     "state": "IL",
@@ -21394,6 +21408,13 @@
   {
     "state": "IL",
     "jurisdiction_type": "city",
+    "name": "Kirkland",
+    "fips_code": null,
+    "rate": 0.01
+  },
+  {
+    "state": "IL",
+    "jurisdiction_type": "city",
     "name": "Kirkwood",
     "fips_code": null,
     "rate": 0.0175
@@ -21543,7 +21564,7 @@
     "jurisdiction_type": "city",
     "name": "Leland Grove",
     "fips_code": null,
-    "rate": 0.02
+    "rate": 0.025
   },
   {
     "state": "IL",
@@ -21704,7 +21725,7 @@
     "jurisdiction_type": "city",
     "name": "Loami",
     "fips_code": null,
-    "rate": 0.01
+    "rate": 0.015
   },
   {
     "state": "IL",
@@ -21781,7 +21802,7 @@
     "jurisdiction_type": "city",
     "name": "Lovington",
     "fips_code": null,
-    "rate": 0.005
+    "rate": 0.0075
   },
   {
     "state": "IL",
@@ -22054,7 +22075,7 @@
     "jurisdiction_type": "city",
     "name": "Mechanicsburg",
     "fips_code": null,
-    "rate": 0.01
+    "rate": 0.015
   },
   {
     "state": "IL",
@@ -22117,7 +22138,7 @@
     "jurisdiction_type": "city",
     "name": "Metamora",
     "fips_code": null,
-    "rate": 0.02
+    "rate": 0.03
   },
   {
     "state": "IL",
@@ -22236,7 +22257,7 @@
     "jurisdiction_type": "city",
     "name": "Mokena",
     "fips_code": null,
-    "rate": 0.0125
+    "rate": 0.0175
   },
   {
     "state": "IL",
@@ -22439,7 +22460,7 @@
     "jurisdiction_type": "city",
     "name": "New Berlin",
     "fips_code": null,
-    "rate": 0.01
+    "rate": 0.015
   },
   {
     "state": "IL",
@@ -22607,7 +22628,7 @@
     "jurisdiction_type": "city",
     "name": "North City",
     "fips_code": null,
-    "rate": 0.02
+    "rate": 0.01
   },
   {
     "state": "IL",
@@ -22859,7 +22880,7 @@
     "jurisdiction_type": "city",
     "name": "Orient",
     "fips_code": null,
-    "rate": 0.02
+    "rate": 0.01
   },
   {
     "state": "IL",
@@ -22985,7 +23006,7 @@
     "jurisdiction_type": "city",
     "name": "Park Forest",
     "fips_code": null,
-    "rate": 0.0275
+    "rate": 0.0375
   },
   {
     "state": "IL",
@@ -23020,7 +23041,7 @@
     "jurisdiction_type": "city",
     "name": "Pawnee",
     "fips_code": null,
-    "rate": 0.01
+    "rate": 0.015
   },
   {
     "state": "IL",
@@ -23174,7 +23195,7 @@
     "jurisdiction_type": "city",
     "name": "Pleasant Plains",
     "fips_code": null,
-    "rate": 0.02
+    "rate": 0.025
   },
   {
     "state": "IL",
@@ -23412,7 +23433,7 @@
     "jurisdiction_type": "city",
     "name": "Riverton",
     "fips_code": null,
-    "rate": 0.01
+    "rate": 0.015
   },
   {
     "state": "IL",
@@ -23426,7 +23447,7 @@
     "jurisdiction_type": "city",
     "name": "Roanoke",
     "fips_code": null,
-    "rate": 0.02
+    "rate": 0.03
   },
   {
     "state": "IL",
@@ -23447,7 +23468,7 @@
     "jurisdiction_type": "city",
     "name": "Rochester",
     "fips_code": null,
-    "rate": 0.01
+    "rate": 0.015
   },
   {
     "state": "IL",
@@ -23615,7 +23636,7 @@
     "jurisdiction_type": "city",
     "name": "Royalton",
     "fips_code": null,
-    "rate": 0.02
+    "rate": 0.01
   },
   {
     "state": "IL",
@@ -23811,7 +23832,7 @@
     "jurisdiction_type": "city",
     "name": "Schiller Park",
     "fips_code": null,
-    "rate": 0.035
+    "rate": 0.0425
   },
   {
     "state": "IL",
@@ -23867,7 +23888,7 @@
     "jurisdiction_type": "city",
     "name": "Sesser",
     "fips_code": null,
-    "rate": 0.0325
+    "rate": 0.0225
   },
   {
     "state": "IL",
@@ -24077,7 +24098,7 @@
     "jurisdiction_type": "city",
     "name": "Southern View",
     "fips_code": null,
-    "rate": 0.01
+    "rate": 0.015
   },
   {
     "state": "IL",
@@ -24091,7 +24112,7 @@
     "jurisdiction_type": "city",
     "name": "Spaulding",
     "fips_code": null,
-    "rate": 0.01
+    "rate": 0.015
   },
   {
     "state": "IL",
@@ -24343,7 +24364,7 @@
     "jurisdiction_type": "city",
     "name": "Thayer",
     "fips_code": null,
-    "rate": 0.01
+    "rate": 0.015
   },
   {
     "state": "IL",
@@ -24364,7 +24385,7 @@
     "jurisdiction_type": "city",
     "name": "Thompsonville",
     "fips_code": null,
-    "rate": 0.02
+    "rate": 0.01
   },
   {
     "state": "IL",
@@ -24476,7 +24497,7 @@
     "jurisdiction_type": "city",
     "name": "Tower Lakes",
     "fips_code": null,
-    "rate": 0.0075
+    "rate": 0.0175
   },
   {
     "state": "IL",
@@ -24532,7 +24553,7 @@
     "jurisdiction_type": "city",
     "name": "Valier",
     "fips_code": null,
-    "rate": 0.03
+    "rate": 0.02
   },
   {
     "state": "IL",
@@ -24833,14 +24854,14 @@
     "jurisdiction_type": "city",
     "name": "West City",
     "fips_code": null,
-    "rate": 0.03
+    "rate": 0.02
   },
   {
     "state": "IL",
     "jurisdiction_type": "city",
     "name": "West Frankfort",
     "fips_code": null,
-    "rate": 0.03
+    "rate": 0.02
   },
   {
     "state": "IL",
@@ -24868,7 +24889,7 @@
     "jurisdiction_type": "city",
     "name": "Western Springs",
     "fips_code": null,
-    "rate": 0.0275
+    "rate": 0.0375
   },
   {
     "state": "IL",
@@ -24889,7 +24910,7 @@
     "jurisdiction_type": "city",
     "name": "Wheaton",
     "fips_code": null,
-    "rate": 0.0175
+    "rate": 0.02
   },
   {
     "state": "IL",
@@ -24917,7 +24938,7 @@
     "jurisdiction_type": "city",
     "name": "White Hall",
     "fips_code": null,
-    "rate": 0.01
+    "rate": 0.02
   },
   {
     "state": "IL",
@@ -24938,7 +24959,7 @@
     "jurisdiction_type": "city",
     "name": "Williamsville",
     "fips_code": null,
-    "rate": 0.025
+    "rate": 0.03
   },
   {
     "state": "IL",
@@ -25015,7 +25036,7 @@
     "jurisdiction_type": "city",
     "name": "Winnetka",
     "fips_code": null,
-    "rate": 0.0275
+    "rate": 0.0375
   },
   {
     "state": "IL",
@@ -25148,7 +25169,7 @@
     "jurisdiction_type": "city",
     "name": "Zeigler",
     "fips_code": null,
-    "rate": 0.02
+    "rate": 0.01
   },
   {
     "state": "IL",
@@ -25309,7 +25330,7 @@
     "jurisdiction_type": "county",
     "name": "Franklin County",
     "fips_code": null,
-    "rate": 0.02
+    "rate": 0.01
   },
   {
     "state": "IL",
@@ -25638,7 +25659,7 @@
     "jurisdiction_type": "county",
     "name": "Sangamon County",
     "fips_code": null,
-    "rate": 0.01
+    "rate": 0.015
   },
   {
     "state": "IL",
@@ -25793,6 +25814,13 @@
     "name": "Altamont",
     "fips_code": "01550",
     "rate": 0.015
+  },
+  {
+    "state": "KS",
+    "jurisdiction_type": "city",
+    "name": "Altoona",
+    "fips_code": "01625",
+    "rate": 0.02
   },
   {
     "state": "KS",
@@ -26464,7 +26492,7 @@
     "jurisdiction_type": "city",
     "name": "Frontenac",
     "fips_code": "24850",
-    "rate": 0.0125
+    "rate": 0.02
   },
   {
     "state": "KS",
@@ -26625,7 +26653,7 @@
     "jurisdiction_type": "city",
     "name": "Herington",
     "fips_code": "31400",
-    "rate": 0.01
+    "rate": 0.02
   },
   {
     "state": "KS",
@@ -27535,7 +27563,7 @@
     "jurisdiction_type": "city",
     "name": "Princeton",
     "fips_code": "57725",
-    "rate": 0.015
+    "rate": 0.02
   },
   {
     "state": "KS",
@@ -28501,7 +28529,7 @@
     "jurisdiction_type": "county",
     "name": "Osage",
     "fips_code": "139",
-    "rate": 0.015
+    "rate": 0.01
   },
   {
     "state": "KS",
@@ -30270,6 +30298,13 @@
   {
     "state": "KS",
     "jurisdiction_type": "special_district",
+    "name": "Special District 21148",
+    "fips_code": "21148",
+    "rate": 0.015
+  },
+  {
+    "state": "KS",
+    "jurisdiction_type": "special_district",
     "name": "Special District 21149",
     "fips_code": "21149",
     "rate": 0.02
@@ -30781,6 +30816,90 @@
   {
     "state": "KS",
     "jurisdiction_type": "special_district",
+    "name": "Special District 21222",
+    "fips_code": "21222",
+    "rate": 0.01
+  },
+  {
+    "state": "KS",
+    "jurisdiction_type": "special_district",
+    "name": "Special District 21223",
+    "fips_code": "21223",
+    "rate": 0.02
+  },
+  {
+    "state": "KS",
+    "jurisdiction_type": "special_district",
+    "name": "Special District 21224",
+    "fips_code": "21224",
+    "rate": 0.01
+  },
+  {
+    "state": "KS",
+    "jurisdiction_type": "special_district",
+    "name": "Special District 21225",
+    "fips_code": "21225",
+    "rate": 0.01
+  },
+  {
+    "state": "KS",
+    "jurisdiction_type": "special_district",
+    "name": "Special District 21226",
+    "fips_code": "21226",
+    "rate": 0.02
+  },
+  {
+    "state": "KS",
+    "jurisdiction_type": "special_district",
+    "name": "Special District 21227",
+    "fips_code": "21227",
+    "rate": 0.02
+  },
+  {
+    "state": "KS",
+    "jurisdiction_type": "special_district",
+    "name": "Special District 21228",
+    "fips_code": "21228",
+    "rate": 0.02
+  },
+  {
+    "state": "KS",
+    "jurisdiction_type": "special_district",
+    "name": "Special District 21229",
+    "fips_code": "21229",
+    "rate": 0.0075
+  },
+  {
+    "state": "KS",
+    "jurisdiction_type": "special_district",
+    "name": "Special District 21230",
+    "fips_code": "21230",
+    "rate": 0.02
+  },
+  {
+    "state": "KS",
+    "jurisdiction_type": "special_district",
+    "name": "Special District 21231",
+    "fips_code": "21231",
+    "rate": 0.015
+  },
+  {
+    "state": "KS",
+    "jurisdiction_type": "special_district",
+    "name": "Special District 21232",
+    "fips_code": "21232",
+    "rate": 0.02
+  },
+  {
+    "state": "KS",
+    "jurisdiction_type": "special_district",
+    "name": "Special District 21233",
+    "fips_code": "21233",
+    "rate": 0.02
+  },
+  {
+    "state": "KS",
+    "jurisdiction_type": "special_district",
     "name": "Special District AEATC",
     "fips_code": "AEATC",
     "rate": 0.02
@@ -31278,6 +31397,13 @@
   {
     "state": "KS",
     "jurisdiction_type": "special_district",
+    "name": "Special District C10TO",
+    "fips_code": "C10TO",
+    "rate": 0.0435
+  },
+  {
+    "state": "KS",
+    "jurisdiction_type": "special_district",
     "name": "Special District C10WI",
     "fips_code": "C10WI",
     "rate": 0.03
@@ -31309,6 +31435,13 @@
     "name": "Special District C11OV",
     "fips_code": "C11OV",
     "rate": 0.0385
+  },
+  {
+    "state": "KS",
+    "jurisdiction_type": "special_district",
+    "name": "Special District C11TO",
+    "fips_code": "C11TO",
+    "rate": 0.0485
   },
   {
     "state": "KS",
@@ -31362,6 +31495,13 @@
   {
     "state": "KS",
     "jurisdiction_type": "special_district",
+    "name": "Special District C13OL",
+    "fips_code": "C13OL",
+    "rate": 0.04975
+  },
+  {
+    "state": "KS",
+    "jurisdiction_type": "special_district",
     "name": "Special District C13OV",
     "fips_code": "C13OV",
     "rate": 0.0385
@@ -31379,6 +31519,13 @@
     "name": "Special District C14LE",
     "fips_code": "C14LE",
     "rate": 0.0385
+  },
+  {
+    "state": "KS",
+    "jurisdiction_type": "special_district",
+    "name": "Special District C14OL",
+    "fips_code": "C14OL",
+    "rate": 0.04975
   },
   {
     "state": "KS",
@@ -31651,7 +31798,7 @@
     "jurisdiction_type": "special_district",
     "name": "Special District C1FRO",
     "fips_code": "C1FRO",
-    "rate": 0.035
+    "rate": 0.0425
   },
   {
     "state": "KS",
@@ -31908,6 +32055,13 @@
   {
     "state": "KS",
     "jurisdiction_type": "special_district",
+    "name": "Special District C1POT",
+    "fips_code": "C1POT",
+    "rate": 0.0175
+  },
+  {
+    "state": "KS",
+    "jurisdiction_type": "special_district",
     "name": "Special District C1PRA",
     "fips_code": "C1PRA",
     "rate": 0.03475
@@ -31939,6 +32093,13 @@
     "name": "Special District C1SHA",
     "fips_code": "C1SHA",
     "rate": 0.036
+  },
+  {
+    "state": "KS",
+    "jurisdiction_type": "special_district",
+    "name": "Special District C1SNC",
+    "fips_code": "C1SNC",
+    "rate": 0.0485
   },
   {
     "state": "KS",
@@ -32001,7 +32162,7 @@
     "jurisdiction_type": "special_district",
     "name": "Special District C20OV",
     "fips_code": "C20OV",
-    "rate": 0.0285
+    "rate": 0.0435
   },
   {
     "state": "KS",
@@ -32016,6 +32177,13 @@
     "name": "Special District C21OV",
     "fips_code": "C21OV",
     "rate": 0.0385
+  },
+  {
+    "state": "KS",
+    "jurisdiction_type": "special_district",
+    "name": "Special District C21WI",
+    "fips_code": "C21WI",
+    "rate": 0.03
   },
   {
     "state": "KS",
@@ -32268,6 +32436,13 @@
     "name": "Special District C2OVE",
     "fips_code": "C2OVE",
     "rate": 0.0385
+  },
+  {
+    "state": "KS",
+    "jurisdiction_type": "special_district",
+    "name": "Special District C2PAR",
+    "fips_code": "C2PAR",
+    "rate": 0.0475
   },
   {
     "state": "KS",
@@ -32765,6 +32940,13 @@
     "name": "Special District C5WIC",
     "fips_code": "C5WIC",
     "rate": 0.03
+  },
+  {
+    "state": "KS",
+    "jurisdiction_type": "special_district",
+    "name": "Special District C6ABI",
+    "fips_code": "C6ABI",
+    "rate": 0.0385
   },
   {
     "state": "KS",
@@ -33681,7 +33863,7 @@
     "jurisdiction_type": "special_district",
     "name": "Special District COOSA",
     "fips_code": "COOSA",
-    "rate": 0.015
+    "rate": 0.01
   },
   {
     "state": "KS",
@@ -33996,7 +34178,7 @@
     "jurisdiction_type": "special_district",
     "name": "Special District CRFRO",
     "fips_code": "CRFRO",
-    "rate": 0.0225
+    "rate": 0.03
   },
   {
     "state": "KS",
@@ -34248,7 +34430,7 @@
     "jurisdiction_type": "special_district",
     "name": "Special District DKHER",
     "fips_code": "DKHER",
-    "rate": 0.0275
+    "rate": 0.0375
   },
   {
     "state": "KS",
@@ -34542,7 +34724,7 @@
     "jurisdiction_type": "special_district",
     "name": "Special District FRPRI",
     "fips_code": "FRPRI",
-    "rate": 0.03
+    "rate": 0.035
   },
   {
     "state": "KS",
@@ -35921,7 +36103,7 @@
     "jurisdiction_type": "special_district",
     "name": "Special District MRHER",
     "fips_code": "MRHER",
-    "rate": 0.02
+    "rate": 0.03
   },
   {
     "state": "KS",
@@ -36048,6 +36230,27 @@
     "name": "Special District N13KA",
     "fips_code": "N13KA",
     "rate": 0.02625
+  },
+  {
+    "state": "KS",
+    "jurisdiction_type": "special_district",
+    "name": "Special District N17KA",
+    "fips_code": "N17KA",
+    "rate": 0.04625
+  },
+  {
+    "state": "KS",
+    "jurisdiction_type": "special_district",
+    "name": "Special District N18KA",
+    "fips_code": "N18KA",
+    "rate": 0.03625
+  },
+  {
+    "state": "KS",
+    "jurisdiction_type": "special_district",
+    "name": "Special District N19KA",
+    "fips_code": "N19KA",
+    "rate": 0.03625
   },
   {
     "state": "KS",
@@ -36257,63 +36460,63 @@
     "jurisdiction_type": "special_district",
     "name": "Special District OSBUR",
     "fips_code": "OSBUR",
-    "rate": 0.03
+    "rate": 0.025
   },
   {
     "state": "KS",
     "jurisdiction_type": "special_district",
     "name": "Special District OSCAR",
     "fips_code": "OSCAR",
-    "rate": 0.035
+    "rate": 0.03
   },
   {
     "state": "KS",
     "jurisdiction_type": "special_district",
     "name": "Special District OSLYN",
     "fips_code": "OSLYN",
-    "rate": 0.03
+    "rate": 0.025
   },
   {
     "state": "KS",
     "jurisdiction_type": "special_district",
     "name": "Special District OSMEL",
     "fips_code": "OSMEL",
-    "rate": 0.025
+    "rate": 0.02
   },
   {
     "state": "KS",
     "jurisdiction_type": "special_district",
     "name": "Special District OSOLI",
     "fips_code": "OSOLI",
-    "rate": 0.015
+    "rate": 0.01
   },
   {
     "state": "KS",
     "jurisdiction_type": "special_district",
     "name": "Special District OSOSA",
     "fips_code": "OSOSA",
-    "rate": 0.03
+    "rate": 0.025
   },
   {
     "state": "KS",
     "jurisdiction_type": "special_district",
     "name": "Special District OSOVE",
     "fips_code": "OSOVE",
-    "rate": 0.025
+    "rate": 0.02
   },
   {
     "state": "KS",
     "jurisdiction_type": "special_district",
     "name": "Special District OSQUE",
     "fips_code": "OSQUE",
-    "rate": 0.015
+    "rate": 0.01
   },
   {
     "state": "KS",
     "jurisdiction_type": "special_district",
     "name": "Special District OSSCR",
     "fips_code": "OSSCR",
-    "rate": 0.025
+    "rate": 0.02
   },
   {
     "state": "KS",
@@ -38007,7 +38210,7 @@
     "jurisdiction_type": "special_district",
     "name": "Special District WLALT",
     "fips_code": "WLALT",
-    "rate": 0.01
+    "rate": 0.03
   },
   {
     "state": "KS",
@@ -38629,8 +38832,8 @@
     "state": "LA",
     "jurisdiction_type": "parish",
     "name": "Parish Wide",
-    "fips_code": "4800",
-    "rate": 0.0525
+    "fips_code": "4400",
+    "rate": 0.05
   },
   {
     "state": "LA",
@@ -38650,8 +38853,8 @@
     "state": "LA",
     "jurisdiction_type": "parish",
     "name": "Parish Wide",
-    "fips_code": "4400",
-    "rate": 0.05
+    "fips_code": "4800",
+    "rate": 0.0525
   },
   {
     "state": "LA",
@@ -39660,6 +39863,13 @@
     "name": "Special District 80013",
     "fips_code": "80013",
     "rate": 0.0025
+  },
+  {
+    "state": "MN",
+    "jurisdiction_type": "special_district",
+    "name": "Special District 80054",
+    "fips_code": "80054",
+    "rate": 0.005
   },
   {
     "state": "MN",
@@ -51473,6 +51683,13 @@
   {
     "state": "NC",
     "jurisdiction_type": "special_district",
+    "name": "Special District 98119",
+    "fips_code": "98119",
+    "rate": 0.01
+  },
+  {
+    "state": "NC",
+    "jurisdiction_type": "special_district",
     "name": "Special District 99063",
     "fips_code": "99063",
     "rate": 0.005
@@ -51706,7 +51923,7 @@
     "jurisdiction_type": "city",
     "name": "Drayton",
     "fips_code": "20340",
-    "rate": 0.015
+    "rate": 0.035
   },
   {
     "state": "ND",
@@ -52364,7 +52581,7 @@
     "jurisdiction_type": "city",
     "name": "Scranton",
     "fips_code": "71500",
-    "rate": 0.01
+    "rate": 0.02
   },
   {
     "state": "ND",
@@ -53183,7 +53400,7 @@
     "jurisdiction_type": "city",
     "name": "Edgar",
     "fips_code": "14450",
-    "rate": 0.01
+    "rate": 0.015
   },
   {
     "state": "NE",
@@ -57936,7 +58153,7 @@
     "jurisdiction_type": "city",
     "name": "Carmen",
     "fips_code": "12000",
-    "rate": 0.03
+    "rate": 0.035
   },
   {
     "state": "OK",
@@ -58132,7 +58349,7 @@
     "jurisdiction_type": "city",
     "name": "Coalgate",
     "fips_code": "15800",
-    "rate": 0.03
+    "rate": 0.04
   },
   {
     "state": "OK",
@@ -58993,7 +59210,7 @@
     "jurisdiction_type": "city",
     "name": "Hominy",
     "fips_code": "35850",
-    "rate": 0.035
+    "rate": 0.03
   },
   {
     "state": "OK",
@@ -59861,7 +60078,7 @@
     "jurisdiction_type": "city",
     "name": "Olustee",
     "fips_code": "55450",
-    "rate": 0.01
+    "rate": 0.03
   },
   {
     "state": "OK",
@@ -60113,7 +60330,7 @@
     "jurisdiction_type": "city",
     "name": "Red Oak",
     "fips_code": "62550",
-    "rate": 0.03
+    "rate": 0.0375
   },
   {
     "state": "OK",
@@ -60379,7 +60596,7 @@
     "jurisdiction_type": "city",
     "name": "South Coffeyville",
     "fips_code": "68600",
-    "rate": 0.02
+    "rate": 0.035
   },
   {
     "state": "OK",
@@ -60722,7 +60939,7 @@
     "jurisdiction_type": "city",
     "name": "Valley Brook",
     "fips_code": "76500",
-    "rate": 0.03
+    "rate": 0.045
   },
   {
     "state": "OK",
@@ -62521,7 +62738,7 @@
     "jurisdiction_type": "special_district",
     "name": "Special District 98243",
     "fips_code": "98243",
-    "rate": 0.045
+    "rate": 0.015
   },
   {
     "state": "OK",
@@ -63263,7 +63480,7 @@
     "jurisdiction_type": "special_district",
     "name": "Special District 98364",
     "fips_code": "98364",
-    "rate": 0.03
+    "rate": 0.04125
   },
   {
     "state": "OK",
@@ -63319,7 +63536,7 @@
     "jurisdiction_type": "special_district",
     "name": "Special District 98373",
     "fips_code": "98373",
-    "rate": 0.03
+    "rate": 0.04125
   },
   {
     "state": "OK",
@@ -68394,7 +68611,7 @@
     "jurisdiction_type": "city",
     "name": "South Shore",
     "fips_code": "59940",
-    "rate": 0.01
+    "rate": 0.02
   },
   {
     "state": "SD",
@@ -78096,14 +78313,14 @@
     "jurisdiction_type": "city",
     "name": "Oak Ridge",
     "fips_code": null,
-    "rate": 0.02
+    "rate": 0.015
   },
   {
     "state": "TX",
     "jurisdiction_type": "city",
     "name": "Oak Ridge",
     "fips_code": null,
-    "rate": 0.015
+    "rate": 0.02
   },
   {
     "state": "TX",
@@ -85899,6 +86116,13 @@
   {
     "state": "UT",
     "jurisdiction_type": "city",
+    "name": "City 07501",
+    "fips_code": "07501",
+    "rate": 0.004
+  },
+  {
+    "state": "UT",
+    "jurisdiction_type": "city",
     "name": "City 11301",
     "fips_code": "11301",
     "rate": 0.001
@@ -85951,6 +86175,13 @@
     "name": "City 18705",
     "fips_code": "18705",
     "rate": 0.01
+  },
+  {
+    "state": "UT",
+    "jurisdiction_type": "city",
+    "name": "City 19501",
+    "fips_code": "19501",
+    "rate": 0.004
   },
   {
     "state": "UT",
@@ -86053,6 +86284,13 @@
   {
     "state": "UT",
     "jurisdiction_type": "city",
+    "name": "City 25505",
+    "fips_code": "25505",
+    "rate": 0.001
+  },
+  {
+    "state": "UT",
+    "jurisdiction_type": "city",
     "name": "City 27301",
     "fips_code": "27301",
     "rate": 0.003
@@ -86074,6 +86312,13 @@
   {
     "state": "UT",
     "jurisdiction_type": "city",
+    "name": "City 97012",
+    "fips_code": "97012",
+    "rate": 0.001
+  },
+  {
+    "state": "UT",
+    "jurisdiction_type": "city",
     "name": "City 97014",
     "fips_code": "97014",
     "rate": 0.002
@@ -86090,7 +86335,7 @@
     "jurisdiction_type": "city",
     "name": "City 97019",
     "fips_code": "97019",
-    "rate": 0.0035
+    "rate": 0.001
   },
   {
     "state": "UT",
@@ -86809,6 +87054,13 @@
   {
     "state": "UT",
     "jurisdiction_type": "city",
+    "name": "Sigurd",
+    "fips_code": "68650",
+    "rate": 0.003
+  },
+  {
+    "state": "UT",
+    "jurisdiction_type": "city",
     "name": "Smithfield",
     "fips_code": "69640",
     "rate": 0.003
@@ -86868,6 +87120,13 @@
     "name": "Sterling",
     "fips_code": "72940",
     "rate": 0.003
+  },
+  {
+    "state": "UT",
+    "jurisdiction_type": "city",
+    "name": "Stockton",
+    "fips_code": "73050",
+    "rate": 0.01
   },
   {
     "state": "UT",
@@ -88132,6 +88391,13 @@
   {
     "state": "VT",
     "jurisdiction_type": "city",
+    "name": "City 09025",
+    "fips_code": "09025",
+    "rate": 0.01
+  },
+  {
+    "state": "VT",
+    "jurisdiction_type": "city",
     "name": "City 14875",
     "fips_code": "14875",
     "rate": 0.01
@@ -88141,6 +88407,13 @@
     "jurisdiction_type": "city",
     "name": "City 17875",
     "fips_code": "17875",
+    "rate": 0.01
+  },
+  {
+    "state": "VT",
+    "jurisdiction_type": "city",
+    "name": "City 25375",
+    "fips_code": "25375",
     "rate": 0.01
   },
   {
@@ -88174,8 +88447,29 @@
   {
     "state": "VT",
     "jurisdiction_type": "city",
+    "name": "City 44125",
+    "fips_code": "44125",
+    "rate": 0.01
+  },
+  {
+    "state": "VT",
+    "jurisdiction_type": "city",
     "name": "City 44350",
     "fips_code": "44350",
+    "rate": 0.01
+  },
+  {
+    "state": "VT",
+    "jurisdiction_type": "city",
+    "name": "City 46675",
+    "fips_code": "46675",
+    "rate": 0.01
+  },
+  {
+    "state": "VT",
+    "jurisdiction_type": "city",
+    "name": "City 56350",
+    "fips_code": "56350",
     "rate": 0.01
   },
   {
@@ -88211,6 +88505,20 @@
     "jurisdiction_type": "city",
     "name": "City 70750",
     "fips_code": "70750",
+    "rate": 0.01
+  },
+  {
+    "state": "VT",
+    "jurisdiction_type": "city",
+    "name": "City 71725",
+    "fips_code": "71725",
+    "rate": 0.01
+  },
+  {
+    "state": "VT",
+    "jurisdiction_type": "city",
+    "name": "City 75325",
+    "fips_code": "75325",
     "rate": 0.01
   },
   {
@@ -88286,6 +88594,13 @@
   {
     "state": "VT",
     "jurisdiction_type": "city",
+    "name": "Vergennes",
+    "fips_code": "74650",
+    "rate": 0.01
+  },
+  {
+    "state": "VT",
+    "jurisdiction_type": "city",
     "name": "Winooski",
     "fips_code": "85150",
     "rate": 0.01
@@ -88309,7 +88624,7 @@
     "jurisdiction_type": "city",
     "name": "Albion",
     "fips_code": "01010",
-    "rate": 0.014
+    "rate": 0.015
   },
   {
     "state": "WA",
@@ -88379,7 +88694,7 @@
     "jurisdiction_type": "city",
     "name": "Bellingham",
     "fips_code": "05280",
-    "rate": 0.026
+    "rate": 0.027
   },
   {
     "state": "WA",
@@ -88407,14 +88722,14 @@
     "jurisdiction_type": "city",
     "name": "Blaine",
     "fips_code": "06505",
-    "rate": 0.025
+    "rate": 0.026
   },
   {
     "state": "WA",
     "jurisdiction_type": "city",
     "name": "Bonney Lake",
     "fips_code": "07170",
-    "rate": 0.03
+    "rate": 0.031
   },
   {
     "state": "WA",
@@ -88435,7 +88750,7 @@
     "jurisdiction_type": "city",
     "name": "Bridgeport",
     "fips_code": "07870",
-    "rate": 0.013
+    "rate": 0.014
   },
   {
     "state": "WA",
@@ -88449,21 +88764,21 @@
     "jurisdiction_type": "city",
     "name": "Buckley",
     "fips_code": "08570",
-    "rate": 0.017
+    "rate": 0.018
   },
   {
     "state": "WA",
     "jurisdiction_type": "city",
     "name": "Bucoda",
     "fips_code": "08605",
-    "rate": 0.018
+    "rate": 0.019
   },
   {
     "state": "WA",
     "jurisdiction_type": "city",
     "name": "Burien",
     "fips_code": "08850",
-    "rate": 0.038
+    "rate": 0.039
   },
   {
     "state": "WA",
@@ -88484,7 +88799,7 @@
     "jurisdiction_type": "city",
     "name": "Carbonado",
     "fips_code": "09970",
-    "rate": 0.016
+    "rate": 0.017
   },
   {
     "state": "WA",
@@ -88498,7 +88813,7 @@
     "jurisdiction_type": "city",
     "name": "Cashmere",
     "fips_code": "10495",
-    "rate": 0.02
+    "rate": 0.021
   },
   {
     "state": "WA",
@@ -88533,7 +88848,7 @@
     "jurisdiction_type": "city",
     "name": "Chelan",
     "fips_code": "11615",
-    "rate": 0.022
+    "rate": 0.023
   },
   {
     "state": "WA",
@@ -88575,7 +88890,7 @@
     "jurisdiction_type": "city",
     "name": "Colfax",
     "fips_code": "13785",
-    "rate": 0.014
+    "rate": 0.015
   },
   {
     "state": "WA",
@@ -88589,7 +88904,7 @@
     "jurisdiction_type": "city",
     "name": "Colton",
     "fips_code": "13890",
-    "rate": 0.014
+    "rate": 0.015
   },
   {
     "state": "WA",
@@ -88645,14 +88960,14 @@
     "jurisdiction_type": "city",
     "name": "Coupeville",
     "fips_code": "15185",
-    "rate": 0.025
+    "rate": 0.026
   },
   {
     "state": "WA",
     "jurisdiction_type": "city",
     "name": "Covington",
     "fips_code": "15290",
-    "rate": 0.027
+    "rate": 0.028
   },
   {
     "state": "WA",
@@ -88708,7 +89023,7 @@
     "jurisdiction_type": "city",
     "name": "DuPont",
     "fips_code": "18965",
-    "rate": 0.031
+    "rate": 0.032
   },
   {
     "state": "WA",
@@ -88722,21 +89037,21 @@
     "jurisdiction_type": "city",
     "name": "East Wenatchee",
     "fips_code": "20155",
-    "rate": 0.022
+    "rate": 0.023
   },
   {
     "state": "WA",
     "jurisdiction_type": "city",
     "name": "Eatonville",
     "fips_code": "20260",
-    "rate": 0.016
+    "rate": 0.017
   },
   {
     "state": "WA",
     "jurisdiction_type": "city",
     "name": "Edgewood",
     "fips_code": "20645",
-    "rate": 0.036
+    "rate": 0.037
   },
   {
     "state": "WA",
@@ -88778,14 +89093,14 @@
     "jurisdiction_type": "city",
     "name": "Endicott",
     "fips_code": "21730",
-    "rate": 0.014
+    "rate": 0.015
   },
   {
     "state": "WA",
     "jurisdiction_type": "city",
     "name": "Entiat",
     "fips_code": "22010",
-    "rate": 0.019
+    "rate": 0.02
   },
   {
     "state": "WA",
@@ -88813,7 +89128,7 @@
     "jurisdiction_type": "city",
     "name": "Everson",
     "fips_code": "22745",
-    "rate": 0.023
+    "rate": 0.024
   },
   {
     "state": "WA",
@@ -88827,35 +89142,35 @@
     "jurisdiction_type": "city",
     "name": "Farmington",
     "fips_code": "23340",
-    "rate": 0.014
+    "rate": 0.015
   },
   {
     "state": "WA",
     "jurisdiction_type": "city",
     "name": "Federal Way",
     "fips_code": "23515",
-    "rate": 0.038
+    "rate": 0.039
   },
   {
     "state": "WA",
     "jurisdiction_type": "city",
     "name": "Ferndale",
     "fips_code": "23620",
-    "rate": 0.025
+    "rate": 0.026
   },
   {
     "state": "WA",
     "jurisdiction_type": "city",
     "name": "Fife",
     "fips_code": "23795",
-    "rate": 0.036
+    "rate": 0.037
   },
   {
     "state": "WA",
     "jurisdiction_type": "city",
     "name": "Fircrest",
     "fips_code": "23970",
-    "rate": 0.036
+    "rate": 0.037
   },
   {
     "state": "WA",
@@ -88876,7 +89191,7 @@
     "jurisdiction_type": "city",
     "name": "Garfield",
     "fips_code": "26140",
-    "rate": 0.014
+    "rate": 0.015
   },
   {
     "state": "WA",
@@ -88890,7 +89205,7 @@
     "jurisdiction_type": "city",
     "name": "Gig Harbor",
     "fips_code": "26735",
-    "rate": 0.026
+    "rate": 0.027
   },
   {
     "state": "WA",
@@ -89100,14 +89415,14 @@
     "jurisdiction_type": "city",
     "name": "LaCrosse",
     "fips_code": "36850",
-    "rate": 0.014
+    "rate": 0.015
   },
   {
     "state": "WA",
     "jurisdiction_type": "city",
     "name": "Lacey",
     "fips_code": "36745",
-    "rate": 0.032
+    "rate": 0.033
   },
   {
     "state": "WA",
@@ -89128,21 +89443,21 @@
     "jurisdiction_type": "city",
     "name": "Lakewood",
     "fips_code": "38038",
-    "rate": 0.036
+    "rate": 0.038
   },
   {
     "state": "WA",
     "jurisdiction_type": "city",
     "name": "Lamont",
     "fips_code": "38215",
-    "rate": 0.014
+    "rate": 0.015
   },
   {
     "state": "WA",
     "jurisdiction_type": "city",
     "name": "Langley",
     "fips_code": "38355",
-    "rate": 0.027
+    "rate": 0.028
   },
   {
     "state": "WA",
@@ -89156,7 +89471,7 @@
     "jurisdiction_type": "city",
     "name": "Leavenworth",
     "fips_code": "38845",
-    "rate": 0.021
+    "rate": 0.022
   },
   {
     "state": "WA",
@@ -89198,7 +89513,7 @@
     "jurisdiction_type": "city",
     "name": "Lynden",
     "fips_code": "40805",
-    "rate": 0.027
+    "rate": 0.028
   },
   {
     "state": "WA",
@@ -89219,21 +89534,21 @@
     "jurisdiction_type": "city",
     "name": "Malden",
     "fips_code": "42275",
-    "rate": 0.014
+    "rate": 0.015
   },
   {
     "state": "WA",
     "jurisdiction_type": "city",
     "name": "Mansfield",
     "fips_code": "42800",
-    "rate": 0.012
+    "rate": 0.014
   },
   {
     "state": "WA",
     "jurisdiction_type": "city",
     "name": "Maple Valley",
     "fips_code": "43150",
-    "rate": 0.025
+    "rate": 0.026
   },
   {
     "state": "WA",
@@ -89275,7 +89590,7 @@
     "jurisdiction_type": "city",
     "name": "Medina",
     "fips_code": "44725",
-    "rate": 0.038
+    "rate": 0.039
   },
   {
     "state": "WA",
@@ -89359,7 +89674,7 @@
     "jurisdiction_type": "city",
     "name": "Mount Vernon",
     "fips_code": "47560",
-    "rate": 0.024
+    "rate": 0.025
   },
   {
     "state": "WA",
@@ -89422,7 +89737,7 @@
     "jurisdiction_type": "city",
     "name": "Nooksack",
     "fips_code": "49275",
-    "rate": 0.023
+    "rate": 0.024
   },
   {
     "state": "WA",
@@ -89457,14 +89772,14 @@
     "jurisdiction_type": "city",
     "name": "Oak Harbor",
     "fips_code": "50360",
-    "rate": 0.027
+    "rate": 0.028
   },
   {
     "state": "WA",
     "jurisdiction_type": "city",
     "name": "Oakesdale",
     "fips_code": "50325",
-    "rate": 0.014
+    "rate": 0.015
   },
   {
     "state": "WA",
@@ -89499,7 +89814,7 @@
     "jurisdiction_type": "city",
     "name": "Olympia",
     "fips_code": "51300",
-    "rate": 0.033
+    "rate": 0.035
   },
   {
     "state": "WA",
@@ -89520,7 +89835,7 @@
     "jurisdiction_type": "city",
     "name": "Orting",
     "fips_code": "52005",
-    "rate": 0.03
+    "rate": 0.031
   },
   {
     "state": "WA",
@@ -89534,7 +89849,7 @@
     "jurisdiction_type": "city",
     "name": "Palouse",
     "fips_code": "52950",
-    "rate": 0.014
+    "rate": 0.015
   },
   {
     "state": "WA",
@@ -89611,14 +89926,14 @@
     "jurisdiction_type": "city",
     "name": "Pullman",
     "fips_code": "56625",
-    "rate": 0.015
+    "rate": 0.017
   },
   {
     "state": "WA",
     "jurisdiction_type": "city",
     "name": "Puyallup",
     "fips_code": "56695",
-    "rate": 0.037
+    "rate": 0.038
   },
   {
     "state": "WA",
@@ -89632,7 +89947,7 @@
     "jurisdiction_type": "city",
     "name": "Rainier",
     "fips_code": "57220",
-    "rate": 0.018
+    "rate": 0.019
   },
   {
     "state": "WA",
@@ -89702,7 +90017,7 @@
     "jurisdiction_type": "city",
     "name": "Rock Island",
     "fips_code": "59180",
-    "rate": 0.019
+    "rate": 0.02
   },
   {
     "state": "WA",
@@ -89716,7 +90031,7 @@
     "jurisdiction_type": "city",
     "name": "Rosalia",
     "fips_code": "59775",
-    "rate": 0.014
+    "rate": 0.015
   },
   {
     "state": "WA",
@@ -89730,7 +90045,7 @@
     "jurisdiction_type": "city",
     "name": "Roy",
     "fips_code": "60160",
-    "rate": 0.017
+    "rate": 0.018
   },
   {
     "state": "WA",
@@ -89744,7 +90059,7 @@
     "jurisdiction_type": "city",
     "name": "Ruston",
     "fips_code": "60510",
-    "rate": 0.036
+    "rate": 0.037
   },
   {
     "state": "WA",
@@ -89849,7 +90164,7 @@
     "jurisdiction_type": "city",
     "name": "South Prairie",
     "fips_code": "66045",
-    "rate": 0.016
+    "rate": 0.017
   },
   {
     "state": "WA",
@@ -89891,7 +90206,7 @@
     "jurisdiction_type": "city",
     "name": "St. John",
     "fips_code": "60860",
-    "rate": 0.014
+    "rate": 0.015
   },
   {
     "state": "WA",
@@ -89912,7 +90227,7 @@
     "jurisdiction_type": "city",
     "name": "Steilacoom",
     "fips_code": "67770",
-    "rate": 0.036
+    "rate": 0.037
   },
   {
     "state": "WA",
@@ -89933,14 +90248,14 @@
     "jurisdiction_type": "city",
     "name": "Sumas",
     "fips_code": "68330",
-    "rate": 0.023
+    "rate": 0.024
   },
   {
     "state": "WA",
     "jurisdiction_type": "city",
     "name": "Sumner",
     "fips_code": "68435",
-    "rate": 0.031
+    "rate": 0.032
   },
   {
     "state": "WA",
@@ -89954,28 +90269,28 @@
     "jurisdiction_type": "city",
     "name": "Tacoma",
     "fips_code": "70000",
-    "rate": 0.039
+    "rate": 0.04
   },
   {
     "state": "WA",
     "jurisdiction_type": "city",
     "name": "Tekoa",
     "fips_code": "70560",
-    "rate": 0.014
+    "rate": 0.015
   },
   {
     "state": "WA",
     "jurisdiction_type": "city",
     "name": "Tenino",
     "fips_code": "70630",
-    "rate": 0.018
+    "rate": 0.019
   },
   {
     "state": "WA",
     "jurisdiction_type": "city",
     "name": "Tieton",
     "fips_code": "71400",
-    "rate": 0.017
+    "rate": 0.018
   },
   {
     "state": "WA",
@@ -90010,7 +90325,7 @@
     "jurisdiction_type": "city",
     "name": "Tumwater",
     "fips_code": "72905",
-    "rate": 0.032
+    "rate": 0.033
   },
   {
     "state": "WA",
@@ -90031,14 +90346,14 @@
     "jurisdiction_type": "city",
     "name": "Uniontown",
     "fips_code": "73360",
-    "rate": 0.014
+    "rate": 0.015
   },
   {
     "state": "WA",
     "jurisdiction_type": "city",
     "name": "University Place",
     "fips_code": "73465",
-    "rate": 0.036
+    "rate": 0.037
   },
   {
     "state": "WA",
@@ -90087,7 +90402,7 @@
     "jurisdiction_type": "city",
     "name": "Washougal",
     "fips_code": "76405",
-    "rate": 0.023
+    "rate": 0.024
   },
   {
     "state": "WA",
@@ -90101,7 +90416,7 @@
     "jurisdiction_type": "city",
     "name": "Waterville",
     "fips_code": "76510",
-    "rate": 0.019
+    "rate": 0.02
   },
   {
     "state": "WA",
@@ -90115,7 +90430,7 @@
     "jurisdiction_type": "city",
     "name": "Wenatchee",
     "fips_code": "77105",
-    "rate": 0.024
+    "rate": 0.025
   },
   {
     "state": "WA",
@@ -90150,7 +90465,7 @@
     "jurisdiction_type": "city",
     "name": "Wilkeson",
     "fips_code": "78925",
-    "rate": 0.016
+    "rate": 0.017
   },
   {
     "state": "WA",
@@ -90178,7 +90493,7 @@
     "jurisdiction_type": "city",
     "name": "Woodinville",
     "fips_code": "79590",
-    "rate": 0.038
+    "rate": 0.039
   },
   {
     "state": "WA",
@@ -90206,7 +90521,7 @@
     "jurisdiction_type": "city",
     "name": "Yakima",
     "fips_code": "80010",
-    "rate": 0.02
+    "rate": 0.021
   },
   {
     "state": "WA",
@@ -90220,7 +90535,7 @@
     "jurisdiction_type": "city",
     "name": "Yelm",
     "fips_code": "80220",
-    "rate": 0.03
+    "rate": 0.031
   },
   {
     "state": "WA",
@@ -90255,7 +90570,7 @@
     "jurisdiction_type": "county",
     "name": "Chelan",
     "fips_code": "007",
-    "rate": 0.019
+    "rate": 0.02
   },
   {
     "state": "WA",
@@ -90290,7 +90605,7 @@
     "jurisdiction_type": "county",
     "name": "County 081",
     "fips_code": "081",
-    "rate": 0.016
+    "rate": 0.017
   },
   {
     "state": "WA",
@@ -90325,7 +90640,7 @@
     "jurisdiction_type": "county",
     "name": "Douglas",
     "fips_code": "017",
-    "rate": 0.013
+    "rate": 0.014
   },
   {
     "state": "WA",
@@ -90367,7 +90682,7 @@
     "jurisdiction_type": "county",
     "name": "Island",
     "fips_code": "029",
-    "rate": 0.025
+    "rate": 0.026
   },
   {
     "state": "WA",
@@ -90451,7 +90766,7 @@
     "jurisdiction_type": "county",
     "name": "Pierce",
     "fips_code": "053",
-    "rate": 0.03
+    "rate": 0.031
   },
   {
     "state": "WA",
@@ -90500,7 +90815,7 @@
     "jurisdiction_type": "county",
     "name": "Thurston",
     "fips_code": "067",
-    "rate": 0.018
+    "rate": 0.019
   },
   {
     "state": "WA",
@@ -90521,14 +90836,14 @@
     "jurisdiction_type": "county",
     "name": "Whatcom",
     "fips_code": "073",
-    "rate": 0.017
+    "rate": 0.018
   },
   {
     "state": "WA",
     "jurisdiction_type": "county",
     "name": "Whitman",
     "fips_code": "075",
-    "rate": 0.014
+    "rate": 0.015
   },
   {
     "state": "WA",
@@ -90654,42 +90969,42 @@
     "jurisdiction_type": "special_district",
     "name": "Special District L0400",
     "fips_code": "L0400",
-    "rate": 0.019
+    "rate": 0.02
   },
   {
     "state": "WA",
     "jurisdiction_type": "special_district",
     "name": "Special District L0401",
     "fips_code": "L0401",
-    "rate": 0.02
+    "rate": 0.021
   },
   {
     "state": "WA",
     "jurisdiction_type": "special_district",
     "name": "Special District L0402",
     "fips_code": "L0402",
-    "rate": 0.022
+    "rate": 0.023
   },
   {
     "state": "WA",
     "jurisdiction_type": "special_district",
     "name": "Special District L0403",
     "fips_code": "L0403",
-    "rate": 0.019
+    "rate": 0.02
   },
   {
     "state": "WA",
     "jurisdiction_type": "special_district",
     "name": "Special District L0404",
     "fips_code": "L0404",
-    "rate": 0.021
+    "rate": 0.022
   },
   {
     "state": "WA",
     "jurisdiction_type": "special_district",
     "name": "Special District L0405",
     "fips_code": "L0405",
-    "rate": 0.024
+    "rate": 0.025
   },
   {
     "state": "WA",
@@ -90725,6 +91040,13 @@
     "name": "Special District L0503",
     "fips_code": "L0503",
     "rate": 0.024
+  },
+  {
+    "state": "WA",
+    "jurisdiction_type": "special_district",
+    "name": "Special District L0507",
+    "fips_code": "L0507",
+    "rate": 0.021
   },
   {
     "state": "WA",
@@ -90773,7 +91095,7 @@
     "jurisdiction_type": "special_district",
     "name": "Special District L0606",
     "fips_code": "L0606",
-    "rate": 0.023
+    "rate": 0.024
   },
   {
     "state": "WA",
@@ -90885,42 +91207,42 @@
     "jurisdiction_type": "special_district",
     "name": "Special District L0900",
     "fips_code": "L0900",
-    "rate": 0.013
+    "rate": 0.014
   },
   {
     "state": "WA",
     "jurisdiction_type": "special_district",
     "name": "Special District L0901",
     "fips_code": "L0901",
-    "rate": 0.013
+    "rate": 0.014
   },
   {
     "state": "WA",
     "jurisdiction_type": "special_district",
     "name": "Special District L0902",
     "fips_code": "L0902",
-    "rate": 0.022
+    "rate": 0.023
   },
   {
     "state": "WA",
     "jurisdiction_type": "special_district",
     "name": "Special District L0903",
     "fips_code": "L0903",
-    "rate": 0.012
+    "rate": 0.014
   },
   {
     "state": "WA",
     "jurisdiction_type": "special_district",
     "name": "Special District L0904",
     "fips_code": "L0904",
-    "rate": 0.019
+    "rate": 0.02
   },
   {
     "state": "WA",
     "jurisdiction_type": "special_district",
     "name": "Special District L0905",
     "fips_code": "L0905",
-    "rate": 0.019
+    "rate": 0.02
   },
   {
     "state": "WA",
@@ -91221,28 +91543,28 @@
     "jurisdiction_type": "special_district",
     "name": "Special District L1500",
     "fips_code": "L1500",
-    "rate": 0.025
+    "rate": 0.026
   },
   {
     "state": "WA",
     "jurisdiction_type": "special_district",
     "name": "Special District L1501",
     "fips_code": "L1501",
-    "rate": 0.025
+    "rate": 0.026
   },
   {
     "state": "WA",
     "jurisdiction_type": "special_district",
     "name": "Special District L1502",
     "fips_code": "L1502",
-    "rate": 0.027
+    "rate": 0.028
   },
   {
     "state": "WA",
     "jurisdiction_type": "special_district",
     "name": "Special District L1503",
     "fips_code": "L1503",
-    "rate": 0.027
+    "rate": 0.028
   },
   {
     "state": "WA",
@@ -91268,8 +91590,22 @@
   {
     "state": "WA",
     "jurisdiction_type": "special_district",
+    "name": "Special District L1605",
+    "fips_code": "L1605",
+    "rate": 0.03
+  },
+  {
+    "state": "WA",
+    "jurisdiction_type": "special_district",
     "name": "Special District L1653",
     "fips_code": "L1653",
+    "rate": 0.027
+  },
+  {
+    "state": "WA",
+    "jurisdiction_type": "special_district",
+    "name": "Special District L1655",
+    "fips_code": "L1655",
     "rate": 0.027
   },
   {
@@ -91291,7 +91627,7 @@
     "jurisdiction_type": "special_district",
     "name": "Special District L1702",
     "fips_code": "L1702",
-    "rate": 0.039
+    "rate": 0.04
   },
   {
     "state": "WA",
@@ -91361,7 +91697,7 @@
     "jurisdiction_type": "special_district",
     "name": "Special District L1712",
     "fips_code": "L1712",
-    "rate": 0.027
+    "rate": 0.028
   },
   {
     "state": "WA",
@@ -91403,7 +91739,7 @@
     "jurisdiction_type": "special_district",
     "name": "Special District L1718",
     "fips_code": "L1718",
-    "rate": 0.038
+    "rate": 0.039
   },
   {
     "state": "WA",
@@ -91417,7 +91753,7 @@
     "jurisdiction_type": "special_district",
     "name": "Special District L1720",
     "fips_code": "L1720",
-    "rate": 0.025
+    "rate": 0.026
   },
   {
     "state": "WA",
@@ -91501,7 +91837,7 @@
     "jurisdiction_type": "special_district",
     "name": "Special District L1732",
     "fips_code": "L1732",
-    "rate": 0.038
+    "rate": 0.039
   },
   {
     "state": "WA",
@@ -91515,14 +91851,14 @@
     "jurisdiction_type": "special_district",
     "name": "Special District L1734",
     "fips_code": "L1734",
-    "rate": 0.038
+    "rate": 0.039
   },
   {
     "state": "WA",
     "jurisdiction_type": "special_district",
     "name": "Special District L1735",
     "fips_code": "L1735",
-    "rate": 0.038
+    "rate": 0.039
   },
   {
     "state": "WA",
@@ -91557,7 +91893,7 @@
     "jurisdiction_type": "special_district",
     "name": "Special District L1741",
     "fips_code": "L1741",
-    "rate": 0.038
+    "rate": 0.039
   },
   {
     "state": "WA",
@@ -92089,175 +92425,175 @@
     "jurisdiction_type": "special_district",
     "name": "Special District L2700",
     "fips_code": "L2700",
-    "rate": 0.03
+    "rate": 0.031
   },
   {
     "state": "WA",
     "jurisdiction_type": "special_district",
     "name": "Special District L2701",
     "fips_code": "L2701",
-    "rate": 0.03
+    "rate": 0.031
   },
   {
     "state": "WA",
     "jurisdiction_type": "special_district",
     "name": "Special District L2702",
     "fips_code": "L2702",
-    "rate": 0.017
+    "rate": 0.018
   },
   {
     "state": "WA",
     "jurisdiction_type": "special_district",
     "name": "Special District L2703",
     "fips_code": "L2703",
-    "rate": 0.016
+    "rate": 0.017
   },
   {
     "state": "WA",
     "jurisdiction_type": "special_district",
     "name": "Special District L2704",
     "fips_code": "L2704",
-    "rate": 0.031
+    "rate": 0.032
   },
   {
     "state": "WA",
     "jurisdiction_type": "special_district",
     "name": "Special District L2705",
     "fips_code": "L2705",
-    "rate": 0.016
+    "rate": 0.017
   },
   {
     "state": "WA",
     "jurisdiction_type": "special_district",
     "name": "Special District L2706",
     "fips_code": "L2706",
-    "rate": 0.036
+    "rate": 0.037
   },
   {
     "state": "WA",
     "jurisdiction_type": "special_district",
     "name": "Special District L2707",
     "fips_code": "L2707",
-    "rate": 0.036
+    "rate": 0.037
   },
   {
     "state": "WA",
     "jurisdiction_type": "special_district",
     "name": "Special District L2708",
     "fips_code": "L2708",
-    "rate": 0.026
+    "rate": 0.027
   },
   {
     "state": "WA",
     "jurisdiction_type": "special_district",
     "name": "Special District L2709",
     "fips_code": "L2709",
-    "rate": 0.036
+    "rate": 0.037
   },
   {
     "state": "WA",
     "jurisdiction_type": "special_district",
     "name": "Special District L2710",
     "fips_code": "L2710",
-    "rate": 0.03
+    "rate": 0.031
   },
   {
     "state": "WA",
     "jurisdiction_type": "special_district",
     "name": "Special District L2711",
     "fips_code": "L2711",
-    "rate": 0.037
+    "rate": 0.038
   },
   {
     "state": "WA",
     "jurisdiction_type": "special_district",
     "name": "Special District L2712",
     "fips_code": "L2712",
-    "rate": 0.017
+    "rate": 0.018
   },
   {
     "state": "WA",
     "jurisdiction_type": "special_district",
     "name": "Special District L2713",
     "fips_code": "L2713",
-    "rate": 0.036
+    "rate": 0.037
   },
   {
     "state": "WA",
     "jurisdiction_type": "special_district",
     "name": "Special District L2714",
     "fips_code": "L2714",
-    "rate": 0.016
+    "rate": 0.017
   },
   {
     "state": "WA",
     "jurisdiction_type": "special_district",
     "name": "Special District L2715",
     "fips_code": "L2715",
-    "rate": 0.036
+    "rate": 0.037
   },
   {
     "state": "WA",
     "jurisdiction_type": "special_district",
     "name": "Special District L2716",
     "fips_code": "L2716",
-    "rate": 0.031
+    "rate": 0.032
   },
   {
     "state": "WA",
     "jurisdiction_type": "special_district",
     "name": "Special District L2717",
     "fips_code": "L2717",
-    "rate": 0.039
+    "rate": 0.04
   },
   {
     "state": "WA",
     "jurisdiction_type": "special_district",
     "name": "Special District L2718",
     "fips_code": "L2718",
-    "rate": 0.016
+    "rate": 0.017
   },
   {
     "state": "WA",
     "jurisdiction_type": "special_district",
     "name": "Special District L2719",
     "fips_code": "L2719",
-    "rate": 0.036
+    "rate": 0.037
   },
   {
     "state": "WA",
     "jurisdiction_type": "special_district",
     "name": "Special District L2720",
     "fips_code": "L2720",
-    "rate": 0.036
+    "rate": 0.037
   },
   {
     "state": "WA",
     "jurisdiction_type": "special_district",
     "name": "Special District L2721",
     "fips_code": "L2721",
-    "rate": 0.036
+    "rate": 0.038
   },
   {
     "state": "WA",
     "jurisdiction_type": "special_district",
     "name": "Special District L2723",
     "fips_code": "L2723",
-    "rate": 0.037
+    "rate": 0.038
   },
   {
     "state": "WA",
     "jurisdiction_type": "special_district",
     "name": "Special District L2724",
     "fips_code": "L2724",
-    "rate": 0.037
+    "rate": 0.039
   },
   {
     "state": "WA",
     "jurisdiction_type": "special_district",
     "name": "Special District L2725",
     "fips_code": "L2725",
-    "rate": 0.03
+    "rate": 0.031
   },
   {
     "state": "WA",
@@ -92271,42 +92607,42 @@
     "jurisdiction_type": "special_district",
     "name": "Special District L2731",
     "fips_code": "L2731",
-    "rate": 0.036
+    "rate": 0.038
   },
   {
     "state": "WA",
     "jurisdiction_type": "special_district",
     "name": "Special District L2733",
     "fips_code": "L2733",
-    "rate": 0.037
+    "rate": 0.038
   },
   {
     "state": "WA",
     "jurisdiction_type": "special_district",
     "name": "Special District L2735",
     "fips_code": "L2735",
-    "rate": 0.036
+    "rate": 0.037
   },
   {
     "state": "WA",
     "jurisdiction_type": "special_district",
     "name": "Special District L2737",
     "fips_code": "L2737",
-    "rate": 0.036
+    "rate": 0.037
   },
   {
     "state": "WA",
     "jurisdiction_type": "special_district",
     "name": "Special District L2739",
     "fips_code": "L2739",
-    "rate": 0.036
+    "rate": 0.037
   },
   {
     "state": "WA",
     "jurisdiction_type": "special_district",
     "name": "Special District L2741",
     "fips_code": "L2741",
-    "rate": 0.039
+    "rate": 0.04
   },
   {
     "state": "WA",
@@ -92320,21 +92656,21 @@
     "jurisdiction_type": "special_district",
     "name": "Special District L2787",
     "fips_code": "L2787",
-    "rate": 0.022
+    "rate": 0.023
   },
   {
     "state": "WA",
     "jurisdiction_type": "special_district",
     "name": "Special District L2788",
     "fips_code": "L2788",
-    "rate": 0.026
+    "rate": 0.027
   },
   {
     "state": "WA",
     "jurisdiction_type": "special_district",
     "name": "Special District L2789",
     "fips_code": "L2789",
-    "rate": 0.016
+    "rate": 0.017
   },
   {
     "state": "WA",
@@ -92418,7 +92754,7 @@
     "jurisdiction_type": "special_district",
     "name": "Special District L2907",
     "fips_code": "L2907",
-    "rate": 0.024
+    "rate": 0.025
   },
   {
     "state": "WA",
@@ -92859,84 +93195,84 @@
     "jurisdiction_type": "special_district",
     "name": "Special District L3400",
     "fips_code": "L3400",
-    "rate": 0.018
+    "rate": 0.019
   },
   {
     "state": "WA",
     "jurisdiction_type": "special_district",
     "name": "Special District L3401",
     "fips_code": "L3401",
-    "rate": 0.018
+    "rate": 0.019
   },
   {
     "state": "WA",
     "jurisdiction_type": "special_district",
     "name": "Special District L3402",
     "fips_code": "L3402",
-    "rate": 0.032
+    "rate": 0.033
   },
   {
     "state": "WA",
     "jurisdiction_type": "special_district",
     "name": "Special District L3403",
     "fips_code": "L3403",
-    "rate": 0.033
+    "rate": 0.035
   },
   {
     "state": "WA",
     "jurisdiction_type": "special_district",
     "name": "Special District L3404",
     "fips_code": "L3404",
-    "rate": 0.018
+    "rate": 0.019
   },
   {
     "state": "WA",
     "jurisdiction_type": "special_district",
     "name": "Special District L3405",
     "fips_code": "L3405",
-    "rate": 0.018
+    "rate": 0.019
   },
   {
     "state": "WA",
     "jurisdiction_type": "special_district",
     "name": "Special District L3406",
     "fips_code": "L3406",
-    "rate": 0.032
+    "rate": 0.033
   },
   {
     "state": "WA",
     "jurisdiction_type": "special_district",
     "name": "Special District L3407",
     "fips_code": "L3407",
-    "rate": 0.03
+    "rate": 0.031
   },
   {
     "state": "WA",
     "jurisdiction_type": "special_district",
     "name": "Special District L3409",
     "fips_code": "L3409",
-    "rate": 0.018
+    "rate": 0.019
   },
   {
     "state": "WA",
     "jurisdiction_type": "special_district",
     "name": "Special District L3411",
     "fips_code": "L3411",
-    "rate": 0.032
+    "rate": 0.033
   },
   {
     "state": "WA",
     "jurisdiction_type": "special_district",
     "name": "Special District L3413",
     "fips_code": "L3413",
-    "rate": 0.018
+    "rate": 0.019
   },
   {
     "state": "WA",
     "jurisdiction_type": "special_district",
     "name": "Special District L3415",
     "fips_code": "L3415",
-    "rate": 0.018
+    "rate": 0.019
   },
   {
     "state": "WA",
@@ -92950,14 +93286,14 @@
     "jurisdiction_type": "special_district",
     "name": "Special District L3419",
     "fips_code": "L3419",
-    "rate": 0.032
+    "rate": 0.033
   },
   {
     "state": "WA",
     "jurisdiction_type": "special_district",
     "name": "Special District L3421",
     "fips_code": "L3421",
-    "rate": 0.032
+    "rate": 0.033
   },
   {
     "state": "WA",
@@ -92971,21 +93307,21 @@
     "jurisdiction_type": "special_district",
     "name": "Special District L3459",
     "fips_code": "L3459",
-    "rate": 0.016
+    "rate": 0.017
   },
   {
     "state": "WA",
     "jurisdiction_type": "special_district",
     "name": "Special District L3463",
     "fips_code": "L3463",
-    "rate": 0.016
+    "rate": 0.017
   },
   {
     "state": "WA",
     "jurisdiction_type": "special_district",
     "name": "Special District L3465",
     "fips_code": "L3465",
-    "rate": 0.016
+    "rate": 0.017
   },
   {
     "state": "WA",
@@ -92999,7 +93335,7 @@
     "jurisdiction_type": "special_district",
     "name": "Special District L3469",
     "fips_code": "L3469",
-    "rate": 0.03
+    "rate": 0.031
   },
   {
     "state": "WA",
@@ -93062,77 +93398,77 @@
     "jurisdiction_type": "special_district",
     "name": "Special District L3700",
     "fips_code": "L3700",
-    "rate": 0.017
+    "rate": 0.018
   },
   {
     "state": "WA",
     "jurisdiction_type": "special_district",
     "name": "Special District L3701",
     "fips_code": "L3701",
-    "rate": 0.026
+    "rate": 0.027
   },
   {
     "state": "WA",
     "jurisdiction_type": "special_district",
     "name": "Special District L3702",
     "fips_code": "L3702",
-    "rate": 0.025
+    "rate": 0.026
   },
   {
     "state": "WA",
     "jurisdiction_type": "special_district",
     "name": "Special District L3703",
     "fips_code": "L3703",
-    "rate": 0.023
+    "rate": 0.024
   },
   {
     "state": "WA",
     "jurisdiction_type": "special_district",
     "name": "Special District L3704",
     "fips_code": "L3704",
-    "rate": 0.025
+    "rate": 0.026
   },
   {
     "state": "WA",
     "jurisdiction_type": "special_district",
     "name": "Special District L3705",
     "fips_code": "L3705",
-    "rate": 0.027
+    "rate": 0.028
   },
   {
     "state": "WA",
     "jurisdiction_type": "special_district",
     "name": "Special District L3706",
     "fips_code": "L3706",
-    "rate": 0.023
+    "rate": 0.024
   },
   {
     "state": "WA",
     "jurisdiction_type": "special_district",
     "name": "Special District L3707",
     "fips_code": "L3707",
-    "rate": 0.023
+    "rate": 0.024
   },
   {
     "state": "WA",
     "jurisdiction_type": "special_district",
     "name": "Special District L3709",
     "fips_code": "L3709",
-    "rate": 0.025
+    "rate": 0.026
   },
   {
     "state": "WA",
     "jurisdiction_type": "special_district",
     "name": "Special District L3711",
     "fips_code": "L3711",
-    "rate": 0.017
+    "rate": 0.018
   },
   {
     "state": "WA",
     "jurisdiction_type": "special_district",
     "name": "Special District L3713",
     "fips_code": "L3713",
-    "rate": 0.026
+    "rate": 0.027
   },
   {
     "state": "WA",
@@ -93153,140 +93489,140 @@
     "jurisdiction_type": "special_district",
     "name": "Special District L3759",
     "fips_code": "L3759",
-    "rate": 0.022
+    "rate": 0.023
   },
   {
     "state": "WA",
     "jurisdiction_type": "special_district",
     "name": "Special District L3767",
     "fips_code": "L3767",
-    "rate": 0.014
+    "rate": 0.015
   },
   {
     "state": "WA",
     "jurisdiction_type": "special_district",
     "name": "Special District L3773",
     "fips_code": "L3773",
-    "rate": 0.023
+    "rate": 0.024
   },
   {
     "state": "WA",
     "jurisdiction_type": "special_district",
     "name": "Special District L3800",
     "fips_code": "L3800",
-    "rate": 0.014
+    "rate": 0.015
   },
   {
     "state": "WA",
     "jurisdiction_type": "special_district",
     "name": "Special District L3801",
     "fips_code": "L3801",
-    "rate": 0.014
+    "rate": 0.015
   },
   {
     "state": "WA",
     "jurisdiction_type": "special_district",
     "name": "Special District L3802",
     "fips_code": "L3802",
-    "rate": 0.014
+    "rate": 0.015
   },
   {
     "state": "WA",
     "jurisdiction_type": "special_district",
     "name": "Special District L3803",
     "fips_code": "L3803",
-    "rate": 0.014
+    "rate": 0.015
   },
   {
     "state": "WA",
     "jurisdiction_type": "special_district",
     "name": "Special District L3804",
     "fips_code": "L3804",
-    "rate": 0.014
+    "rate": 0.015
   },
   {
     "state": "WA",
     "jurisdiction_type": "special_district",
     "name": "Special District L3805",
     "fips_code": "L3805",
-    "rate": 0.014
+    "rate": 0.015
   },
   {
     "state": "WA",
     "jurisdiction_type": "special_district",
     "name": "Special District L3806",
     "fips_code": "L3806",
-    "rate": 0.014
+    "rate": 0.015
   },
   {
     "state": "WA",
     "jurisdiction_type": "special_district",
     "name": "Special District L3807",
     "fips_code": "L3807",
-    "rate": 0.014
+    "rate": 0.015
   },
   {
     "state": "WA",
     "jurisdiction_type": "special_district",
     "name": "Special District L3808",
     "fips_code": "L3808",
-    "rate": 0.014
+    "rate": 0.015
   },
   {
     "state": "WA",
     "jurisdiction_type": "special_district",
     "name": "Special District L3809",
     "fips_code": "L3809",
-    "rate": 0.014
+    "rate": 0.015
   },
   {
     "state": "WA",
     "jurisdiction_type": "special_district",
     "name": "Special District L3810",
     "fips_code": "L3810",
-    "rate": 0.014
+    "rate": 0.015
   },
   {
     "state": "WA",
     "jurisdiction_type": "special_district",
     "name": "Special District L3811",
     "fips_code": "L3811",
-    "rate": 0.014
+    "rate": 0.015
   },
   {
     "state": "WA",
     "jurisdiction_type": "special_district",
     "name": "Special District L3812",
     "fips_code": "L3812",
-    "rate": 0.015
+    "rate": 0.017
   },
   {
     "state": "WA",
     "jurisdiction_type": "special_district",
     "name": "Special District L3813",
     "fips_code": "L3813",
-    "rate": 0.014
+    "rate": 0.015
   },
   {
     "state": "WA",
     "jurisdiction_type": "special_district",
     "name": "Special District L3814",
     "fips_code": "L3814",
-    "rate": 0.014
+    "rate": 0.015
   },
   {
     "state": "WA",
     "jurisdiction_type": "special_district",
     "name": "Special District L3815",
     "fips_code": "L3815",
-    "rate": 0.014
+    "rate": 0.015
   },
   {
     "state": "WA",
     "jurisdiction_type": "special_district",
     "name": "Special District L3816",
     "fips_code": "L3816",
-    "rate": 0.014
+    "rate": 0.015
   },
   {
     "state": "WA",
@@ -93356,7 +93692,7 @@
     "jurisdiction_type": "special_district",
     "name": "Special District L3909",
     "fips_code": "L3909",
-    "rate": 0.017
+    "rate": 0.018
   },
   {
     "state": "WA",
@@ -93384,7 +93720,7 @@
     "jurisdiction_type": "special_district",
     "name": "Special District L3913",
     "fips_code": "L3913",
-    "rate": 0.02
+    "rate": 0.021
   },
   {
     "state": "WA",
@@ -93405,7 +93741,7 @@
     "jurisdiction_type": "special_district",
     "name": "Special District L4002",
     "fips_code": "L4002",
-    "rate": 0.025
+    "rate": 0.026
   },
   {
     "state": "WA",
@@ -93447,7 +93783,7 @@
     "jurisdiction_type": "special_district",
     "name": "Special District L4035",
     "fips_code": "L4035",
-    "rate": 0.024
+    "rate": 0.025
   },
   {
     "state": "WA",
@@ -93468,35 +93804,35 @@
     "jurisdiction_type": "special_district",
     "name": "Special District L4100",
     "fips_code": "L4100",
-    "rate": 0.016
+    "rate": 0.017
   },
   {
     "state": "WA",
     "jurisdiction_type": "special_district",
     "name": "Special District L4101",
     "fips_code": "L4101",
-    "rate": 0.016
+    "rate": 0.017
   },
   {
     "state": "WA",
     "jurisdiction_type": "special_district",
     "name": "Special District L4103",
     "fips_code": "L4103",
-    "rate": 0.016
+    "rate": 0.017
   },
   {
     "state": "WA",
     "jurisdiction_type": "special_district",
     "name": "Special District L4105",
     "fips_code": "L4105",
-    "rate": 0.016
+    "rate": 0.017
   },
   {
     "state": "WA",
     "jurisdiction_type": "special_district",
     "name": "Special District L4127",
     "fips_code": "L4127",
-    "rate": 0.022
+    "rate": 0.023
   },
   {
     "state": "WA",
@@ -93657,7 +93993,7 @@
     "jurisdiction_type": "special_district",
     "name": "Special District L9001",
     "fips_code": "L9001",
-    "rate": 0.039
+    "rate": 0.024
   },
   {
     "state": "WA",
@@ -93762,7 +94098,7 @@
     "jurisdiction_type": "special_district",
     "name": "Special District L9016",
     "fips_code": "L9016",
-    "rate": 0.038
+    "rate": 0.039
   },
   {
     "state": "WA",
@@ -93804,7 +94140,7 @@
     "jurisdiction_type": "special_district",
     "name": "Special District L9022",
     "fips_code": "L9022",
-    "rate": 0.039
+    "rate": 0.04
   },
   {
     "state": "WA",
@@ -93825,7 +94161,7 @@
     "jurisdiction_type": "special_district",
     "name": "Special District L9025",
     "fips_code": "L9025",
-    "rate": 0.039
+    "rate": 0.038
   },
   {
     "state": "WA",
@@ -93860,7 +94196,7 @@
     "jurisdiction_type": "special_district",
     "name": "Special District L9030",
     "fips_code": "L9030",
-    "rate": 0.038
+    "rate": 0.039
   },
   {
     "state": "WA",
@@ -93874,7 +94210,7 @@
     "jurisdiction_type": "special_district",
     "name": "Special District L9032",
     "fips_code": "L9032",
-    "rate": 0.025
+    "rate": 0.028
   },
   {
     "state": "WA",
@@ -93895,7 +94231,7 @@
     "jurisdiction_type": "special_district",
     "name": "Special District L9035",
     "fips_code": "L9035",
-    "rate": 0.037
+    "rate": 0.032
   },
   {
     "state": "WA",
@@ -93909,14 +94245,14 @@
     "jurisdiction_type": "special_district",
     "name": "Special District L9037",
     "fips_code": "L9037",
-    "rate": 0.038
+    "rate": 0.025
   },
   {
     "state": "WA",
     "jurisdiction_type": "special_district",
     "name": "Special District L9038",
     "fips_code": "L9038",
-    "rate": 0.039
+    "rate": 0.024
   },
   {
     "state": "WA",
@@ -93965,7 +94301,7 @@
     "jurisdiction_type": "special_district",
     "name": "Special District L9045",
     "fips_code": "L9045",
-    "rate": 0.028
+    "rate": 0.04
   },
   {
     "state": "WA",
@@ -93986,21 +94322,21 @@
     "jurisdiction_type": "special_district",
     "name": "Special District L9048",
     "fips_code": "L9048",
-    "rate": 0.014
+    "rate": 0.024
   },
   {
     "state": "WA",
     "jurisdiction_type": "special_district",
     "name": "Special District L9049",
     "fips_code": "L9049",
-    "rate": 0.04
+    "rate": 0.042
   },
   {
     "state": "WA",
     "jurisdiction_type": "special_district",
     "name": "Special District L9050",
     "fips_code": "L9050",
-    "rate": 0.031
+    "rate": 0.039
   },
   {
     "state": "WA",
@@ -94042,7 +94378,7 @@
     "jurisdiction_type": "special_district",
     "name": "Special District L9056",
     "fips_code": "L9056",
-    "rate": 0.0405
+    "rate": 0.038
   },
   {
     "state": "WA",
@@ -94056,7 +94392,7 @@
     "jurisdiction_type": "special_district",
     "name": "Special District L9058",
     "fips_code": "L9058",
-    "rate": 0.039
+    "rate": 0.038
   },
   {
     "state": "WA",
@@ -94140,7 +94476,7 @@
     "jurisdiction_type": "special_district",
     "name": "Special District L9070",
     "fips_code": "L9070",
-    "rate": 0.038
+    "rate": 0.0405
   },
   {
     "state": "WA",
@@ -94175,14 +94511,14 @@
     "jurisdiction_type": "special_district",
     "name": "Special District L9075",
     "fips_code": "L9075",
-    "rate": 0.038
+    "rate": 0.039
   },
   {
     "state": "WA",
     "jurisdiction_type": "special_district",
     "name": "Special District L9076",
     "fips_code": "L9076",
-    "rate": 0.038
+    "rate": 0.039
   },
   {
     "state": "WA",
@@ -94203,7 +94539,7 @@
     "jurisdiction_type": "special_district",
     "name": "Special District L9079",
     "fips_code": "L9079",
-    "rate": 0.038
+    "rate": 0.039
   },
   {
     "state": "WA",
@@ -94224,7 +94560,7 @@
     "jurisdiction_type": "special_district",
     "name": "Special District L9082",
     "fips_code": "L9082",
-    "rate": 0.039
+    "rate": 0.0405
   },
   {
     "state": "WA",
@@ -94287,14 +94623,14 @@
     "jurisdiction_type": "special_district",
     "name": "Special District L9092",
     "fips_code": "L9092",
-    "rate": 0.034
+    "rate": 0.026
   },
   {
     "state": "WA",
     "jurisdiction_type": "special_district",
     "name": "Special District L9093",
     "fips_code": "L9093",
-    "rate": 0.023
+    "rate": 0.024
   },
   {
     "state": "WA",
@@ -94315,28 +94651,28 @@
     "jurisdiction_type": "special_district",
     "name": "Special District L9096",
     "fips_code": "L9096",
-    "rate": 0.026
+    "rate": 0.027
   },
   {
     "state": "WA",
     "jurisdiction_type": "special_district",
     "name": "Special District L9097",
     "fips_code": "L9097",
-    "rate": 0.017
+    "rate": 0.027
   },
   {
     "state": "WA",
     "jurisdiction_type": "special_district",
     "name": "Special District L9098",
     "fips_code": "L9098",
-    "rate": 0.022
+    "rate": 0.024
   },
   {
     "state": "WA",
     "jurisdiction_type": "special_district",
     "name": "Special District L9099",
     "fips_code": "L9099",
-    "rate": 0.023
+    "rate": 0.024
   },
   {
     "state": "WA",
@@ -94357,42 +94693,42 @@
     "jurisdiction_type": "special_district",
     "name": "Special District L9102",
     "fips_code": "L9102",
-    "rate": 0.025
+    "rate": 0.026
   },
   {
     "state": "WA",
     "jurisdiction_type": "special_district",
     "name": "Special District L9103",
     "fips_code": "L9103",
-    "rate": 0.022
+    "rate": 0.018
   },
   {
     "state": "WA",
     "jurisdiction_type": "special_district",
     "name": "Special District L9104",
     "fips_code": "L9104",
-    "rate": 0.025
+    "rate": 0.026
   },
   {
     "state": "WA",
     "jurisdiction_type": "special_district",
     "name": "Special District L9105",
     "fips_code": "L9105",
-    "rate": 0.023
+    "rate": 0.024
   },
   {
     "state": "WA",
     "jurisdiction_type": "special_district",
     "name": "Special District L9106",
     "fips_code": "L9106",
-    "rate": 0.018
+    "rate": 0.026
   },
   {
     "state": "WA",
     "jurisdiction_type": "special_district",
     "name": "Special District L9107",
     "fips_code": "L9107",
-    "rate": 0.023
+    "rate": 0.018
   },
   {
     "state": "WA",
@@ -94406,35 +94742,35 @@
     "jurisdiction_type": "special_district",
     "name": "Special District L9109",
     "fips_code": "L9109",
-    "rate": 0.023
+    "rate": 0.024
   },
   {
     "state": "WA",
     "jurisdiction_type": "special_district",
     "name": "Special District L9110",
     "fips_code": "L9110",
-    "rate": 0.025
+    "rate": 0.026
   },
   {
     "state": "WA",
     "jurisdiction_type": "special_district",
     "name": "Special District L9111",
     "fips_code": "L9111",
-    "rate": 0.025
+    "rate": 0.026
   },
   {
     "state": "WA",
     "jurisdiction_type": "special_district",
     "name": "Special District L9112",
     "fips_code": "L9112",
-    "rate": 0.0215
+    "rate": 0.0185
   },
   {
     "state": "WA",
     "jurisdiction_type": "special_district",
     "name": "Special District L9113",
     "fips_code": "L9113",
-    "rate": 0.024
+    "rate": 0.026
   },
   {
     "state": "WA",
@@ -94448,14 +94784,14 @@
     "jurisdiction_type": "special_district",
     "name": "Special District L9115",
     "fips_code": "L9115",
-    "rate": 0.025
+    "rate": 0.026
   },
   {
     "state": "WA",
     "jurisdiction_type": "special_district",
     "name": "Special District L9116",
     "fips_code": "L9116",
-    "rate": 0.018
+    "rate": 0.022
   },
   {
     "state": "WA",
@@ -94469,7 +94805,7 @@
     "jurisdiction_type": "special_district",
     "name": "Special District L9118",
     "fips_code": "L9118",
-    "rate": 0.025
+    "rate": 0.026
   },
   {
     "state": "WA",
@@ -94483,21 +94819,21 @@
     "jurisdiction_type": "special_district",
     "name": "Special District L9120",
     "fips_code": "L9120",
-    "rate": 0.023
+    "rate": 0.024
   },
   {
     "state": "WA",
     "jurisdiction_type": "special_district",
     "name": "Special District L9121",
     "fips_code": "L9121",
-    "rate": 0.027
+    "rate": 0.028
   },
   {
     "state": "WA",
     "jurisdiction_type": "special_district",
     "name": "Special District L9122",
     "fips_code": "L9122",
-    "rate": 0.023
+    "rate": 0.024
   },
   {
     "state": "WA",
@@ -94511,7 +94847,7 @@
     "jurisdiction_type": "special_district",
     "name": "Special District L9124",
     "fips_code": "L9124",
-    "rate": 0.029
+    "rate": 0.026
   },
   {
     "state": "WA",
@@ -94525,7 +94861,7 @@
     "jurisdiction_type": "special_district",
     "name": "Special District L9126",
     "fips_code": "L9126",
-    "rate": 0.026
+    "rate": 0.029
   },
   {
     "state": "WA",
@@ -94539,7 +94875,7 @@
     "jurisdiction_type": "special_district",
     "name": "Special District L9128",
     "fips_code": "L9128",
-    "rate": 0.024
+    "rate": 0.025
   },
   {
     "state": "WA",
@@ -94553,14 +94889,14 @@
     "jurisdiction_type": "special_district",
     "name": "Special District L9130",
     "fips_code": "L9130",
-    "rate": 0.027
+    "rate": 0.028
   },
   {
     "state": "WA",
     "jurisdiction_type": "special_district",
     "name": "Special District L9131",
     "fips_code": "L9131",
-    "rate": 0.027
+    "rate": 0.026
   },
   {
     "state": "WA",
@@ -94574,7 +94910,7 @@
     "jurisdiction_type": "special_district",
     "name": "Special District L9133",
     "fips_code": "L9133",
-    "rate": 0.023
+    "rate": 0.024
   },
   {
     "state": "WA",
@@ -94616,7 +94952,7 @@
     "jurisdiction_type": "special_district",
     "name": "Special District L9139",
     "fips_code": "L9139",
-    "rate": 0.026
+    "rate": 0.014
   },
   {
     "state": "WA",
@@ -94630,28 +94966,28 @@
     "jurisdiction_type": "special_district",
     "name": "Special District L9141",
     "fips_code": "L9141",
-    "rate": 0.023
+    "rate": 0.024
   },
   {
     "state": "WA",
     "jurisdiction_type": "special_district",
     "name": "Special District L9142",
     "fips_code": "L9142",
-    "rate": 0.014
+    "rate": 0.041
   },
   {
     "state": "WA",
     "jurisdiction_type": "special_district",
     "name": "Special District L9143",
     "fips_code": "L9143",
-    "rate": 0.016
+    "rate": 0.017
   },
   {
     "state": "WA",
     "jurisdiction_type": "special_district",
     "name": "Special District L9144",
     "fips_code": "L9144",
-    "rate": 0.016
+    "rate": 0.015
   },
   {
     "state": "WA",
@@ -94707,14 +95043,14 @@
     "jurisdiction_type": "special_district",
     "name": "Special District L9152",
     "fips_code": "L9152",
-    "rate": 0.016
+    "rate": 0.017
   },
   {
     "state": "WA",
     "jurisdiction_type": "special_district",
     "name": "Special District L9153",
     "fips_code": "L9153",
-    "rate": 0.016
+    "rate": 0.017
   },
   {
     "state": "WA",
@@ -94735,28 +95071,28 @@
     "jurisdiction_type": "special_district",
     "name": "Special District L9156",
     "fips_code": "L9156",
-    "rate": 0.03
+    "rate": 0.031
   },
   {
     "state": "WA",
     "jurisdiction_type": "special_district",
     "name": "Special District L9157",
     "fips_code": "L9157",
-    "rate": 0.016
+    "rate": 0.017
   },
   {
     "state": "WA",
     "jurisdiction_type": "special_district",
     "name": "Special District L9158",
     "fips_code": "L9158",
-    "rate": 0.016
+    "rate": 0.017
   },
   {
     "state": "WA",
     "jurisdiction_type": "special_district",
     "name": "Special District L9159",
     "fips_code": "L9159",
-    "rate": 0.016
+    "rate": 0.015
   },
   {
     "state": "WA",
@@ -94770,21 +95106,21 @@
     "jurisdiction_type": "special_district",
     "name": "Special District L9161",
     "fips_code": "L9161",
-    "rate": 0.026
+    "rate": 0.027
   },
   {
     "state": "WA",
     "jurisdiction_type": "special_district",
     "name": "Special District L9162",
     "fips_code": "L9162",
-    "rate": 0.016
+    "rate": 0.017
   },
   {
     "state": "WA",
     "jurisdiction_type": "special_district",
     "name": "Special District L9163",
     "fips_code": "L9163",
-    "rate": 0.026
+    "rate": 0.017
   },
   {
     "state": "WA",
@@ -94805,7 +95141,7 @@
     "jurisdiction_type": "special_district",
     "name": "Special District L9166",
     "fips_code": "L9166",
-    "rate": 0.016
+    "rate": 0.017
   },
   {
     "state": "WA",
@@ -94847,28 +95183,28 @@
     "jurisdiction_type": "special_district",
     "name": "Special District L9172",
     "fips_code": "L9172",
-    "rate": 0.016
+    "rate": 0.017
   },
   {
     "state": "WA",
     "jurisdiction_type": "special_district",
     "name": "Special District L9173",
     "fips_code": "L9173",
-    "rate": 0.016
+    "rate": 0.017
   },
   {
     "state": "WA",
     "jurisdiction_type": "special_district",
     "name": "Special District L9174",
     "fips_code": "L9174",
-    "rate": 0.036
+    "rate": 0.037
   },
   {
     "state": "WA",
     "jurisdiction_type": "special_district",
     "name": "Special District L9175",
     "fips_code": "L9175",
-    "rate": 0.018
+    "rate": 0.019
   },
   {
     "state": "WA",
@@ -94889,14 +95225,14 @@
     "jurisdiction_type": "special_district",
     "name": "Special District L9178",
     "fips_code": "L9178",
-    "rate": 0.016
+    "rate": 0.027
   },
   {
     "state": "WA",
     "jurisdiction_type": "special_district",
     "name": "Special District L9179",
     "fips_code": "L9179",
-    "rate": 0.03
+    "rate": 0.031
   },
   {
     "state": "WA",
@@ -94952,21 +95288,21 @@
     "jurisdiction_type": "special_district",
     "name": "Special District L9187",
     "fips_code": "L9187",
-    "rate": 0.027
+    "rate": 0.028
   },
   {
     "state": "WA",
     "jurisdiction_type": "special_district",
     "name": "Special District L9188",
     "fips_code": "L9188",
-    "rate": 0.036
+    "rate": 0.037
   },
   {
     "state": "WA",
     "jurisdiction_type": "special_district",
     "name": "Special District L9189",
     "fips_code": "L9189",
-    "rate": 0.031
+    "rate": 0.037
   },
   {
     "state": "WA",
@@ -94980,14 +95316,14 @@
     "jurisdiction_type": "special_district",
     "name": "Special District L9191",
     "fips_code": "L9191",
-    "rate": 0.036
+    "rate": 0.037
   },
   {
     "state": "WA",
     "jurisdiction_type": "special_district",
     "name": "Special District L9192",
     "fips_code": "L9192",
-    "rate": 0.03
+    "rate": 0.031
   },
   {
     "state": "WA",
@@ -95008,7 +95344,7 @@
     "jurisdiction_type": "special_district",
     "name": "Special District L9195",
     "fips_code": "L9195",
-    "rate": 0.027
+    "rate": 0.021
   },
   {
     "state": "WA",
@@ -95036,14 +95372,14 @@
     "jurisdiction_type": "special_district",
     "name": "Special District L9199",
     "fips_code": "L9199",
-    "rate": 0.03
+    "rate": 0.031
   },
   {
     "state": "WA",
     "jurisdiction_type": "special_district",
     "name": "Special District L9200",
     "fips_code": "L9200",
-    "rate": 0.036
+    "rate": 0.037
   },
   {
     "state": "WA",
@@ -95071,238 +95407,238 @@
     "jurisdiction_type": "special_district",
     "name": "Special District L9204",
     "fips_code": "L9204",
-    "rate": 0.036
+    "rate": 0.04
   },
   {
     "state": "WA",
     "jurisdiction_type": "special_district",
     "name": "Special District L9205",
     "fips_code": "L9205",
-    "rate": 0.039
+    "rate": 0.04
   },
   {
     "state": "WA",
     "jurisdiction_type": "special_district",
     "name": "Special District L9206",
     "fips_code": "L9206",
-    "rate": 0.039
+    "rate": 0.04
   },
   {
     "state": "WA",
     "jurisdiction_type": "special_district",
     "name": "Special District L9207",
     "fips_code": "L9207",
-    "rate": 0.039
+    "rate": 0.04
   },
   {
     "state": "WA",
     "jurisdiction_type": "special_district",
     "name": "Special District L9208",
     "fips_code": "L9208",
-    "rate": 0.039
+    "rate": 0.04
   },
   {
     "state": "WA",
     "jurisdiction_type": "special_district",
     "name": "Special District L9209",
     "fips_code": "L9209",
-    "rate": 0.036
+    "rate": 0.04
   },
   {
     "state": "WA",
     "jurisdiction_type": "special_district",
     "name": "Special District L9210",
     "fips_code": "L9210",
-    "rate": 0.039
+    "rate": 0.04
   },
   {
     "state": "WA",
     "jurisdiction_type": "special_district",
     "name": "Special District L9211",
     "fips_code": "L9211",
-    "rate": 0.039
+    "rate": 0.04
   },
   {
     "state": "WA",
     "jurisdiction_type": "special_district",
     "name": "Special District L9212",
     "fips_code": "L9212",
-    "rate": 0.039
+    "rate": 0.04
   },
   {
     "state": "WA",
     "jurisdiction_type": "special_district",
     "name": "Special District L9213",
     "fips_code": "L9213",
-    "rate": 0.039
+    "rate": 0.04
   },
   {
     "state": "WA",
     "jurisdiction_type": "special_district",
     "name": "Special District L9214",
     "fips_code": "L9214",
-    "rate": 0.039
+    "rate": 0.04
   },
   {
     "state": "WA",
     "jurisdiction_type": "special_district",
     "name": "Special District L9215",
     "fips_code": "L9215",
-    "rate": 0.038
+    "rate": 0.04
   },
   {
     "state": "WA",
     "jurisdiction_type": "special_district",
     "name": "Special District L9216",
     "fips_code": "L9216",
-    "rate": 0.036
+    "rate": 0.037
   },
   {
     "state": "WA",
     "jurisdiction_type": "special_district",
     "name": "Special District L9217",
     "fips_code": "L9217",
-    "rate": 0.03
+    "rate": 0.031
   },
   {
     "state": "WA",
     "jurisdiction_type": "special_district",
     "name": "Special District L9218",
     "fips_code": "L9218",
-    "rate": 0.03
+    "rate": 0.031
   },
   {
     "state": "WA",
     "jurisdiction_type": "special_district",
     "name": "Special District L9219",
     "fips_code": "L9219",
-    "rate": 0.03
+    "rate": 0.031
   },
   {
     "state": "WA",
     "jurisdiction_type": "special_district",
     "name": "Special District L9220",
     "fips_code": "L9220",
-    "rate": 0.036
+    "rate": 0.038
   },
   {
     "state": "WA",
     "jurisdiction_type": "special_district",
     "name": "Special District L9221",
     "fips_code": "L9221",
-    "rate": 0.036
+    "rate": 0.037
   },
   {
     "state": "WA",
     "jurisdiction_type": "special_district",
     "name": "Special District L9222",
     "fips_code": "L9222",
-    "rate": 0.036
+    "rate": 0.037
   },
   {
     "state": "WA",
     "jurisdiction_type": "special_district",
     "name": "Special District L9223",
     "fips_code": "L9223",
-    "rate": 0.036
+    "rate": 0.037
   },
   {
     "state": "WA",
     "jurisdiction_type": "special_district",
     "name": "Special District L9224",
     "fips_code": "L9224",
-    "rate": 0.03
+    "rate": 0.017
   },
   {
     "state": "WA",
     "jurisdiction_type": "special_district",
     "name": "Special District L9225",
     "fips_code": "L9225",
-    "rate": 0.036
+    "rate": 0.037
   },
   {
     "state": "WA",
     "jurisdiction_type": "special_district",
     "name": "Special District L9226",
     "fips_code": "L9226",
-    "rate": 0.036
+    "rate": 0.037
   },
   {
     "state": "WA",
     "jurisdiction_type": "special_district",
     "name": "Special District L9227",
     "fips_code": "L9227",
-    "rate": 0.036
+    "rate": 0.037
   },
   {
     "state": "WA",
     "jurisdiction_type": "special_district",
     "name": "Special District L9228",
     "fips_code": "L9228",
-    "rate": 0.036
+    "rate": 0.037
   },
   {
     "state": "WA",
     "jurisdiction_type": "special_district",
     "name": "Special District L9229",
     "fips_code": "L9229",
-    "rate": 0.036
+    "rate": 0.031
   },
   {
     "state": "WA",
     "jurisdiction_type": "special_district",
     "name": "Special District L9230",
     "fips_code": "L9230",
-    "rate": 0.036
+    "rate": 0.04
   },
   {
     "state": "WA",
     "jurisdiction_type": "special_district",
     "name": "Special District L9231",
     "fips_code": "L9231",
-    "rate": 0.033
+    "rate": 0.035
   },
   {
     "state": "WA",
     "jurisdiction_type": "special_district",
     "name": "Special District L9232",
     "fips_code": "L9232",
-    "rate": 0.033
+    "rate": 0.035
   },
   {
     "state": "WA",
     "jurisdiction_type": "special_district",
     "name": "Special District L9233",
     "fips_code": "L9233",
-    "rate": 0.033
+    "rate": 0.035
   },
   {
     "state": "WA",
     "jurisdiction_type": "special_district",
     "name": "Special District L9234",
     "fips_code": "L9234",
-    "rate": 0.018
+    "rate": 0.031
   },
   {
     "state": "WA",
     "jurisdiction_type": "special_district",
     "name": "Special District L9235",
     "fips_code": "L9235",
-    "rate": 0.032
+    "rate": 0.035
   },
   {
     "state": "WA",
     "jurisdiction_type": "special_district",
     "name": "Special District L9236",
     "fips_code": "L9236",
-    "rate": 0.03
+    "rate": 0.031
   },
   {
     "state": "WA",
     "jurisdiction_type": "special_district",
     "name": "Special District L9237",
     "fips_code": "L9237",
-    "rate": 0.018
+    "rate": 0.035
   },
   {
     "state": "WA",
@@ -95330,7 +95666,7 @@
     "jurisdiction_type": "special_district",
     "name": "Special District L9241",
     "fips_code": "L9241",
-    "rate": 0.021
+    "rate": 0.017
   },
   {
     "state": "WA",
@@ -95505,7 +95841,7 @@
     "jurisdiction_type": "special_district",
     "name": "Special District L9266",
     "fips_code": "L9266",
-    "rate": 0.018
+    "rate": 0.019
   },
   {
     "state": "WA",
@@ -95519,14 +95855,14 @@
     "jurisdiction_type": "special_district",
     "name": "Special District L9268",
     "fips_code": "L9268",
-    "rate": 0.018
+    "rate": 0.019
   },
   {
     "state": "WA",
     "jurisdiction_type": "special_district",
     "name": "Special District L9269",
     "fips_code": "L9269",
-    "rate": 0.016
+    "rate": 0.018
   },
   {
     "state": "WA",
@@ -95582,7 +95918,7 @@
     "jurisdiction_type": "special_district",
     "name": "Special District L9277",
     "fips_code": "L9277",
-    "rate": 0.018
+    "rate": 0.019
   },
   {
     "state": "WA",
@@ -95631,14 +95967,14 @@
     "jurisdiction_type": "special_district",
     "name": "Special District L9284",
     "fips_code": "L9284",
-    "rate": 0.018
+    "rate": 0.031
   },
   {
     "state": "WA",
     "jurisdiction_type": "special_district",
     "name": "Special District L9285",
     "fips_code": "L9285",
-    "rate": 0.015
+    "rate": 0.012
   },
   {
     "state": "WA",
@@ -95785,7 +96121,7 @@
     "jurisdiction_type": "special_district",
     "name": "Special District L9306",
     "fips_code": "L9306",
-    "rate": 0.012
+    "rate": 0.013
   },
   {
     "state": "WA",
@@ -95799,7 +96135,7 @@
     "jurisdiction_type": "special_district",
     "name": "Special District L9308",
     "fips_code": "L9308",
-    "rate": 0.013
+    "rate": 0.017
   },
   {
     "state": "WA",
@@ -95813,7 +96149,7 @@
     "jurisdiction_type": "special_district",
     "name": "Special District L9310",
     "fips_code": "L9310",
-    "rate": 0.023
+    "rate": 0.025
   },
   {
     "state": "WA",
@@ -95841,7 +96177,7 @@
     "jurisdiction_type": "special_district",
     "name": "Special District L9314",
     "fips_code": "L9314",
-    "rate": 0.012
+    "rate": 0.015
   },
   {
     "state": "WA",
@@ -95890,7 +96226,7 @@
     "jurisdiction_type": "special_district",
     "name": "Special District L9321",
     "fips_code": "L9321",
-    "rate": 0.022
+    "rate": 0.024
   },
   {
     "state": "WA",
@@ -95911,7 +96247,7 @@
     "jurisdiction_type": "special_district",
     "name": "Special District L9324",
     "fips_code": "L9324",
-    "rate": 0.023
+    "rate": 0.024
   },
   {
     "state": "WA",
@@ -95953,7 +96289,7 @@
     "jurisdiction_type": "special_district",
     "name": "Special District L9330",
     "fips_code": "L9330",
-    "rate": 0.022
+    "rate": 0.024
   },
   {
     "state": "WA",
@@ -95974,14 +96310,14 @@
     "jurisdiction_type": "special_district",
     "name": "Special District L9333",
     "fips_code": "L9333",
-    "rate": 0.024
+    "rate": 0.025
   },
   {
     "state": "WA",
     "jurisdiction_type": "special_district",
     "name": "Special District L9334",
     "fips_code": "L9334",
-    "rate": 0.019
+    "rate": 0.02
   },
   {
     "state": "WA",
@@ -95995,7 +96331,7 @@
     "jurisdiction_type": "special_district",
     "name": "Special District L9336",
     "fips_code": "L9336",
-    "rate": 0.013
+    "rate": 0.014
   },
   {
     "state": "WA",
@@ -96009,21 +96345,21 @@
     "jurisdiction_type": "special_district",
     "name": "Special District L9338",
     "fips_code": "L9338",
-    "rate": 0.02
+    "rate": 0.021
   },
   {
     "state": "WA",
     "jurisdiction_type": "special_district",
     "name": "Special District L9339",
     "fips_code": "L9339",
-    "rate": 0.022
+    "rate": 0.023
   },
   {
     "state": "WA",
     "jurisdiction_type": "special_district",
     "name": "Special District L9340",
     "fips_code": "L9340",
-    "rate": 0.019
+    "rate": 0.02
   },
   {
     "state": "WA",
@@ -96037,7 +96373,7 @@
     "jurisdiction_type": "special_district",
     "name": "Special District L9342",
     "fips_code": "L9342",
-    "rate": 0.019
+    "rate": 0.02
   },
   {
     "state": "WA",
@@ -96051,21 +96387,21 @@
     "jurisdiction_type": "special_district",
     "name": "Special District L9344",
     "fips_code": "L9344",
-    "rate": 0.019
+    "rate": 0.02
   },
   {
     "state": "WA",
     "jurisdiction_type": "special_district",
     "name": "Special District L9345",
     "fips_code": "L9345",
-    "rate": 0.012
+    "rate": 0.014
   },
   {
     "state": "WA",
     "jurisdiction_type": "special_district",
     "name": "Special District L9346",
     "fips_code": "L9346",
-    "rate": 0.019
+    "rate": 0.02
   },
   {
     "state": "WA",
@@ -96107,14 +96443,14 @@
     "jurisdiction_type": "special_district",
     "name": "Special District L9352",
     "fips_code": "L9352",
-    "rate": 0.02
+    "rate": 0.019
   },
   {
     "state": "WA",
     "jurisdiction_type": "special_district",
     "name": "Special District L9353",
     "fips_code": "L9353",
-    "rate": 0.019
+    "rate": 0.014
   },
   {
     "state": "WA",
@@ -96128,7 +96464,7 @@
     "jurisdiction_type": "special_district",
     "name": "Special District L9355",
     "fips_code": "L9355",
-    "rate": 0.013
+    "rate": 0.014
   },
   {
     "state": "WA",
@@ -96142,7 +96478,7 @@
     "jurisdiction_type": "special_district",
     "name": "Special District L9357",
     "fips_code": "L9357",
-    "rate": 0.019
+    "rate": 0.02
   },
   {
     "state": "WA",
@@ -96163,14 +96499,14 @@
     "jurisdiction_type": "special_district",
     "name": "Special District L9360",
     "fips_code": "L9360",
-    "rate": 0.019
+    "rate": 0.014
   },
   {
     "state": "WA",
     "jurisdiction_type": "special_district",
     "name": "Special District L9361",
     "fips_code": "L9361",
-    "rate": 0.019
+    "rate": 0.017
   },
   {
     "state": "WA",
@@ -96191,14 +96527,14 @@
     "jurisdiction_type": "special_district",
     "name": "Special District L9364",
     "fips_code": "L9364",
-    "rate": 0.017
+    "rate": 0.015
   },
   {
     "state": "WA",
     "jurisdiction_type": "special_district",
     "name": "Special District L9365",
     "fips_code": "L9365",
-    "rate": 0.019
+    "rate": 0.014
   },
   {
     "state": "WA",
@@ -96226,7 +96562,7 @@
     "jurisdiction_type": "special_district",
     "name": "Special District L9369",
     "fips_code": "L9369",
-    "rate": 0.02
+    "rate": 0.021
   },
   {
     "state": "WA",
@@ -96240,7 +96576,7 @@
     "jurisdiction_type": "special_district",
     "name": "Special District L9371",
     "fips_code": "L9371",
-    "rate": 0.02
+    "rate": 0.021
   },
   {
     "state": "WA",
@@ -96268,7 +96604,7 @@
     "jurisdiction_type": "special_district",
     "name": "Special District L9375",
     "fips_code": "L9375",
-    "rate": 0.017
+    "rate": 0.016
   },
   {
     "state": "WA",
@@ -96289,7 +96625,7 @@
     "jurisdiction_type": "special_district",
     "name": "Special District L9378",
     "fips_code": "L9378",
-    "rate": 0.011
+    "rate": 0.017
   },
   {
     "state": "WA",
@@ -96324,7 +96660,7 @@
     "jurisdiction_type": "special_district",
     "name": "Special District L9383",
     "fips_code": "L9383",
-    "rate": 0.019
+    "rate": 0.017
   },
   {
     "state": "WA",
@@ -96387,7 +96723,7 @@
     "jurisdiction_type": "special_district",
     "name": "Special District L9392",
     "fips_code": "L9392",
-    "rate": 0.014
+    "rate": 0.015
   },
   {
     "state": "WA",
@@ -96401,7 +96737,7 @@
     "jurisdiction_type": "special_district",
     "name": "Special District L9394",
     "fips_code": "L9394",
-    "rate": 0.015
+    "rate": 0.016
   },
   {
     "state": "WA",
@@ -96541,7 +96877,7 @@
     "jurisdiction_type": "special_district",
     "name": "Special District L9414",
     "fips_code": "L9414",
-    "rate": 0.014
+    "rate": 0.015
   },
   {
     "state": "WA",
@@ -96562,7 +96898,7 @@
     "jurisdiction_type": "special_district",
     "name": "Special District L9417",
     "fips_code": "L9417",
-    "rate": 0.024
+    "rate": 0.016
   },
   {
     "state": "WA",
@@ -96611,14 +96947,14 @@
     "jurisdiction_type": "special_district",
     "name": "Special District L9424",
     "fips_code": "L9424",
-    "rate": 0.014
+    "rate": 0.015
   },
   {
     "state": "WA",
     "jurisdiction_type": "special_district",
     "name": "Special District L9425",
     "fips_code": "L9425",
-    "rate": 0.014
+    "rate": 0.015
   },
   {
     "state": "WA",
@@ -96688,7 +97024,7 @@
     "jurisdiction_type": "special_district",
     "name": "Special District L9435",
     "fips_code": "L9435",
-    "rate": 0.014
+    "rate": 0.015
   },
   {
     "state": "WA",
@@ -96702,7 +97038,7 @@
     "jurisdiction_type": "special_district",
     "name": "Special District L9437",
     "fips_code": "L9437",
-    "rate": 0.014
+    "rate": 0.015
   },
   {
     "state": "WA",
@@ -96716,7 +97052,7 @@
     "jurisdiction_type": "special_district",
     "name": "Special District L9439",
     "fips_code": "L9439",
-    "rate": 0.014
+    "rate": 0.015
   },
   {
     "state": "WA",
@@ -96730,7 +97066,7 @@
     "jurisdiction_type": "special_district",
     "name": "Special District L9441",
     "fips_code": "L9441",
-    "rate": 0.013
+    "rate": 0.014
   },
   {
     "state": "WA",
@@ -96751,7 +97087,7 @@
     "jurisdiction_type": "special_district",
     "name": "Special District L9444",
     "fips_code": "L9444",
-    "rate": 0.014
+    "rate": 0.015
   },
   {
     "state": "WA",
@@ -96793,7 +97129,7 @@
     "jurisdiction_type": "special_district",
     "name": "Special District L9450",
     "fips_code": "L9450",
-    "rate": 0.014
+    "rate": 0.017
   },
   {
     "state": "WA",
@@ -96842,7 +97178,7 @@
     "jurisdiction_type": "special_district",
     "name": "Special District L9457",
     "fips_code": "L9457",
-    "rate": 0.014
+    "rate": 0.015
   },
   {
     "state": "WA",
@@ -96856,7 +97192,7 @@
     "jurisdiction_type": "special_district",
     "name": "Special District L9459",
     "fips_code": "L9459",
-    "rate": 0.014
+    "rate": 0.015
   },
   {
     "state": "WA",
@@ -96891,14 +97227,14 @@
     "jurisdiction_type": "special_district",
     "name": "Special District L9464",
     "fips_code": "L9464",
-    "rate": 0.016
+    "rate": 0.015
   },
   {
     "state": "WA",
     "jurisdiction_type": "special_district",
     "name": "Special District L9465",
     "fips_code": "L9465",
-    "rate": 0.014
+    "rate": 0.015
   },
   {
     "state": "WA",
@@ -96912,14 +97248,14 @@
     "jurisdiction_type": "special_district",
     "name": "Special District L9467",
     "fips_code": "L9467",
-    "rate": 0.014
+    "rate": 0.015
   },
   {
     "state": "WA",
     "jurisdiction_type": "special_district",
     "name": "Special District L9468",
     "fips_code": "L9468",
-    "rate": 0.014
+    "rate": 0.015
   },
   {
     "state": "WA",
@@ -96954,7 +97290,7 @@
     "jurisdiction_type": "special_district",
     "name": "Special District L9473",
     "fips_code": "L9473",
-    "rate": 0.025
+    "rate": 0.024
   },
   {
     "state": "WA",
@@ -96982,7 +97318,7 @@
     "jurisdiction_type": "special_district",
     "name": "Special District L9477",
     "fips_code": "L9477",
-    "rate": 0.025
+    "rate": 0.024
   },
   {
     "state": "WA",
@@ -97003,7 +97339,7 @@
     "jurisdiction_type": "special_district",
     "name": "Special District L9480",
     "fips_code": "L9480",
-    "rate": 0.016
+    "rate": 0.026
   },
   {
     "state": "WA",
@@ -97017,7 +97353,7 @@
     "jurisdiction_type": "special_district",
     "name": "Special District L9482",
     "fips_code": "L9482",
-    "rate": 0.024
+    "rate": 0.026
   },
   {
     "state": "WA",
@@ -97031,14 +97367,14 @@
     "jurisdiction_type": "special_district",
     "name": "Special District L9484",
     "fips_code": "L9484",
-    "rate": 0.016
+    "rate": 0.026
   },
   {
     "state": "WA",
     "jurisdiction_type": "special_district",
     "name": "Special District L9485",
     "fips_code": "L9485",
-    "rate": 0.016
+    "rate": 0.027
   },
   {
     "state": "WA",
@@ -97052,7 +97388,7 @@
     "jurisdiction_type": "special_district",
     "name": "Special District L9487",
     "fips_code": "L9487",
-    "rate": 0.023
+    "rate": 0.022
   },
   {
     "state": "WA",
@@ -97192,14 +97528,14 @@
     "jurisdiction_type": "special_district",
     "name": "Special District L9507",
     "fips_code": "L9507",
-    "rate": 0.016
+    "rate": 0.022
   },
   {
     "state": "WA",
     "jurisdiction_type": "special_district",
     "name": "Special District L9508",
     "fips_code": "L9508",
-    "rate": 0.023
+    "rate": 0.022
   },
   {
     "state": "WA",
@@ -97234,14 +97570,14 @@
     "jurisdiction_type": "special_district",
     "name": "Special District L9513",
     "fips_code": "L9513",
-    "rate": 0.018
+    "rate": 0.026
   },
   {
     "state": "WA",
     "jurisdiction_type": "special_district",
     "name": "Special District L9514",
     "fips_code": "L9514",
-    "rate": 0.014
+    "rate": 0.016
   },
   {
     "state": "WA",
@@ -97283,7 +97619,7 @@
     "jurisdiction_type": "special_district",
     "name": "Special District L9520",
     "fips_code": "L9520",
-    "rate": 0.016
+    "rate": 0.017
   },
   {
     "state": "WA",
@@ -97360,14 +97696,14 @@
     "jurisdiction_type": "special_district",
     "name": "Special District L9533",
     "fips_code": "L9533",
-    "rate": 0.038
+    "rate": 0.039
   },
   {
     "state": "WA",
     "jurisdiction_type": "special_district",
     "name": "Special District L9534",
     "fips_code": "L9534",
-    "rate": 0.038
+    "rate": 0.039
   },
   {
     "state": "WA",
@@ -97388,7 +97724,7 @@
     "jurisdiction_type": "special_district",
     "name": "Special District L9537",
     "fips_code": "L9537",
-    "rate": 0.039
+    "rate": 0.04
   },
   {
     "state": "WA",
@@ -97423,7 +97759,7 @@
     "jurisdiction_type": "special_district",
     "name": "Special District L9542",
     "fips_code": "L9542",
-    "rate": 0.038
+    "rate": 0.039
   },
   {
     "state": "WA",
@@ -97626,21 +97962,21 @@
     "jurisdiction_type": "special_district",
     "name": "Special District L9575",
     "fips_code": "L9575",
-    "rate": 0.026
+    "rate": 0.027
   },
   {
     "state": "WA",
     "jurisdiction_type": "special_district",
     "name": "Special District L9576",
     "fips_code": "L9576",
-    "rate": 0.026
+    "rate": 0.027
   },
   {
     "state": "WA",
     "jurisdiction_type": "special_district",
     "name": "Special District L9577",
     "fips_code": "L9577",
-    "rate": 0.025
+    "rate": 0.026
   },
   {
     "state": "WA",
@@ -97696,7 +98032,7 @@
     "jurisdiction_type": "special_district",
     "name": "Special District L9585",
     "fips_code": "L9585",
-    "rate": 0.023
+    "rate": 0.024
   },
   {
     "state": "WA",
@@ -97766,14 +98102,14 @@
     "jurisdiction_type": "special_district",
     "name": "Special District L9595",
     "fips_code": "L9595",
-    "rate": 0.016
+    "rate": 0.017
   },
   {
     "state": "WA",
     "jurisdiction_type": "special_district",
     "name": "Special District L9596",
     "fips_code": "L9596",
-    "rate": 0.016
+    "rate": 0.017
   },
   {
     "state": "WA",
@@ -97787,7 +98123,7 @@
     "jurisdiction_type": "special_district",
     "name": "Special District L9598",
     "fips_code": "L9598",
-    "rate": 0.031
+    "rate": 0.032
   },
   {
     "state": "WA",
@@ -97829,7 +98165,7 @@
     "jurisdiction_type": "special_district",
     "name": "Special District L9604",
     "fips_code": "L9604",
-    "rate": 0.016
+    "rate": 0.017
   },
   {
     "state": "WA",
@@ -97850,147 +98186,147 @@
     "jurisdiction_type": "special_district",
     "name": "Special District L9607",
     "fips_code": "L9607",
-    "rate": 0.016
+    "rate": 0.017
   },
   {
     "state": "WA",
     "jurisdiction_type": "special_district",
     "name": "Special District L9608",
     "fips_code": "L9608",
-    "rate": 0.016
+    "rate": 0.017
   },
   {
     "state": "WA",
     "jurisdiction_type": "special_district",
     "name": "Special District L9609",
     "fips_code": "L9609",
-    "rate": 0.016
+    "rate": 0.017
   },
   {
     "state": "WA",
     "jurisdiction_type": "special_district",
     "name": "Special District L9610",
     "fips_code": "L9610",
-    "rate": 0.016
+    "rate": 0.017
   },
   {
     "state": "WA",
     "jurisdiction_type": "special_district",
     "name": "Special District L9611",
     "fips_code": "L9611",
-    "rate": 0.039
+    "rate": 0.04
   },
   {
     "state": "WA",
     "jurisdiction_type": "special_district",
     "name": "Special District L9612",
     "fips_code": "L9612",
-    "rate": 0.039
+    "rate": 0.04
   },
   {
     "state": "WA",
     "jurisdiction_type": "special_district",
     "name": "Special District L9613",
     "fips_code": "L9613",
-    "rate": 0.039
+    "rate": 0.04
   },
   {
     "state": "WA",
     "jurisdiction_type": "special_district",
     "name": "Special District L9614",
     "fips_code": "L9614",
-    "rate": 0.039
+    "rate": 0.04
   },
   {
     "state": "WA",
     "jurisdiction_type": "special_district",
     "name": "Special District L9615",
     "fips_code": "L9615",
-    "rate": 0.039
+    "rate": 0.04
   },
   {
     "state": "WA",
     "jurisdiction_type": "special_district",
     "name": "Special District L9616",
     "fips_code": "L9616",
-    "rate": 0.03
+    "rate": 0.031
   },
   {
     "state": "WA",
     "jurisdiction_type": "special_district",
     "name": "Special District L9621",
     "fips_code": "L9621",
-    "rate": 0.036
+    "rate": 0.037
   },
   {
     "state": "WA",
     "jurisdiction_type": "special_district",
     "name": "Special District L9622",
     "fips_code": "L9622",
-    "rate": 0.039
+    "rate": 0.04
   },
   {
     "state": "WA",
     "jurisdiction_type": "special_district",
     "name": "Special District L9624",
     "fips_code": "L9624",
-    "rate": 0.039
+    "rate": 0.04
   },
   {
     "state": "WA",
     "jurisdiction_type": "special_district",
     "name": "Special District L9626",
     "fips_code": "L9626",
-    "rate": 0.036
+    "rate": 0.038
   },
   {
     "state": "WA",
     "jurisdiction_type": "special_district",
     "name": "Special District L9627",
     "fips_code": "L9627",
-    "rate": 0.036
+    "rate": 0.038
   },
   {
     "state": "WA",
     "jurisdiction_type": "special_district",
     "name": "Special District L9628",
     "fips_code": "L9628",
-    "rate": 0.033
+    "rate": 0.035
   },
   {
     "state": "WA",
     "jurisdiction_type": "special_district",
     "name": "Special District L9629",
     "fips_code": "L9629",
-    "rate": 0.03
+    "rate": 0.031
   },
   {
     "state": "WA",
     "jurisdiction_type": "special_district",
     "name": "Special District L9630",
     "fips_code": "L9630",
-    "rate": 0.033
+    "rate": 0.035
   },
   {
     "state": "WA",
     "jurisdiction_type": "special_district",
     "name": "Special District L9631",
     "fips_code": "L9631",
-    "rate": 0.033
+    "rate": 0.035
   },
   {
     "state": "WA",
     "jurisdiction_type": "special_district",
     "name": "Special District L9632",
     "fips_code": "L9632",
-    "rate": 0.032
+    "rate": 0.033
   },
   {
     "state": "WA",
     "jurisdiction_type": "special_district",
     "name": "Special District L9633",
     "fips_code": "L9633",
-    "rate": 0.032
+    "rate": 0.033
   },
   {
     "state": "WA",
@@ -98011,7 +98347,7 @@
     "jurisdiction_type": "special_district",
     "name": "Special District L9636",
     "fips_code": "L9636",
-    "rate": 0.018
+    "rate": 0.019
   },
   {
     "state": "WA",
@@ -98025,7 +98361,7 @@
     "jurisdiction_type": "special_district",
     "name": "Special District L9638",
     "fips_code": "L9638",
-    "rate": 0.018
+    "rate": 0.019
   },
   {
     "state": "WA",
@@ -98046,14 +98382,14 @@
     "jurisdiction_type": "special_district",
     "name": "Special District L9641",
     "fips_code": "L9641",
-    "rate": 0.018
+    "rate": 0.019
   },
   {
     "state": "WA",
     "jurisdiction_type": "special_district",
     "name": "Special District L9642",
     "fips_code": "L9642",
-    "rate": 0.016
+    "rate": 0.017
   },
   {
     "state": "WA",
@@ -98102,7 +98438,7 @@
     "jurisdiction_type": "special_district",
     "name": "Special District L9649",
     "fips_code": "L9649",
-    "rate": 0.033
+    "rate": 0.035
   },
   {
     "state": "WA",
@@ -98200,21 +98536,21 @@
     "jurisdiction_type": "special_district",
     "name": "Special District L9664",
     "fips_code": "L9664",
-    "rate": 0.024
+    "rate": 0.025
   },
   {
     "state": "WA",
     "jurisdiction_type": "special_district",
     "name": "Special District L9665",
     "fips_code": "L9665",
-    "rate": 0.019
+    "rate": 0.02
   },
   {
     "state": "WA",
     "jurisdiction_type": "special_district",
     "name": "Special District L9666",
     "fips_code": "L9666",
-    "rate": 0.019
+    "rate": 0.02
   },
   {
     "state": "WA",
@@ -98228,7 +98564,7 @@
     "jurisdiction_type": "special_district",
     "name": "Special District L9668",
     "fips_code": "L9668",
-    "rate": 0.019
+    "rate": 0.02
   },
   {
     "state": "WA",
@@ -98249,14 +98585,14 @@
     "jurisdiction_type": "special_district",
     "name": "Special District L9671",
     "fips_code": "L9671",
-    "rate": 0.019
+    "rate": 0.02
   },
   {
     "state": "WA",
     "jurisdiction_type": "special_district",
     "name": "Special District L9672",
     "fips_code": "L9672",
-    "rate": 0.019
+    "rate": 0.02
   },
   {
     "state": "WA",
@@ -98284,7 +98620,7 @@
     "jurisdiction_type": "special_district",
     "name": "Special District L9676",
     "fips_code": "L9676",
-    "rate": 0.02
+    "rate": 0.021
   },
   {
     "state": "WA",
@@ -98382,14 +98718,14 @@
     "jurisdiction_type": "special_district",
     "name": "Special District L9692",
     "fips_code": "L9692",
-    "rate": 0.014
+    "rate": 0.015
   },
   {
     "state": "WA",
     "jurisdiction_type": "special_district",
     "name": "Special District L9693",
     "fips_code": "L9693",
-    "rate": 0.014
+    "rate": 0.015
   },
   {
     "state": "WA",
@@ -98417,7 +98753,7 @@
     "jurisdiction_type": "special_district",
     "name": "Special District L9698",
     "fips_code": "L9698",
-    "rate": 0.014
+    "rate": 0.015
   },
   {
     "state": "WA",
@@ -98459,14 +98795,14 @@
     "jurisdiction_type": "special_district",
     "name": "Special District L9704",
     "fips_code": "L9704",
-    "rate": 0.015
+    "rate": 0.017
   },
   {
     "state": "WA",
     "jurisdiction_type": "special_district",
     "name": "Special District L9706",
     "fips_code": "L9706",
-    "rate": 0.014
+    "rate": 0.015
   },
   {
     "state": "WA",
@@ -98578,7 +98914,7 @@
     "jurisdiction_type": "special_district",
     "name": "Special District L9725",
     "fips_code": "L9725",
-    "rate": 0.014
+    "rate": 0.015
   },
   {
     "state": "WA",
@@ -98620,35 +98956,35 @@
     "jurisdiction_type": "special_district",
     "name": "Special District L9734",
     "fips_code": "L9734",
-    "rate": 0.036
+    "rate": 0.038
   },
   {
     "state": "WA",
     "jurisdiction_type": "special_district",
     "name": "Special District L9735",
     "fips_code": "L9735",
-    "rate": 0.039
+    "rate": 0.04
   },
   {
     "state": "WA",
     "jurisdiction_type": "special_district",
     "name": "Special District L9736",
     "fips_code": "L9736",
-    "rate": 0.039
+    "rate": 0.04
   },
   {
     "state": "WA",
     "jurisdiction_type": "special_district",
     "name": "Special District L9738",
     "fips_code": "L9738",
-    "rate": 0.039
+    "rate": 0.04
   },
   {
     "state": "WA",
     "jurisdiction_type": "special_district",
     "name": "Special District L9739",
     "fips_code": "L9739",
-    "rate": 0.036
+    "rate": 0.037
   },
   {
     "state": "WI",
@@ -99367,6 +99703,13 @@
   {
     "state": "WV",
     "jurisdiction_type": "city",
+    "name": "Granville",
+    "fips_code": "32932",
+    "rate": 0.01
+  },
+  {
+    "state": "WV",
+    "jurisdiction_type": "city",
     "name": "Harpers Ferry",
     "fips_code": "35284",
     "rate": 0.01
@@ -99647,6 +99990,13 @@
   {
     "state": "WV",
     "jurisdiction_type": "city",
+    "name": "Ronceverte",
+    "fips_code": "70156",
+    "rate": 0.01
+  },
+  {
+    "state": "WV",
+    "jurisdiction_type": "city",
     "name": "Rowlesburg",
     "fips_code": "70588",
     "rate": 0.01
@@ -99787,6 +100137,13 @@
   {
     "state": "WV",
     "jurisdiction_type": "city",
+    "name": "Welch",
+    "fips_code": "85228",
+    "rate": 0.01
+  },
+  {
+    "state": "WV",
+    "jurisdiction_type": "city",
     "name": "West Union",
     "fips_code": "86116",
     "rate": 0.01
@@ -99845,7 +100202,7 @@
     "jurisdiction_type": "county",
     "name": "Albany",
     "fips_code": "001",
-    "rate": 0.02
+    "rate": 0.01
   },
   {
     "state": "WY",
