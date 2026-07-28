@@ -29,7 +29,7 @@
       },
       {
         "label": "Net taxable sales",
-        "notes": "Gross minus deductions — the base for the 4.0% general state rate.",
+        "notes": "Gross minus deductions: the base for the 4.0% general state rate.",
         "metric": "taxable_sales",
         "operands": [
           "gross_sales",
@@ -40,7 +40,7 @@
       },
       {
         "label": "State sales tax (general rate 4.0%)",
-        "notes": "Alabama's general state rate is 4.0%. Reduced STATE rates apply to categories v1 does not split out — food/groceries (3.0% in 2025, scheduled to fall further), automotive vehicles (2.0%), and farm/manufacturing machinery (1.5%); report those at their reduced rates. Alabama also has extensive LOCAL (city/county) taxes, many self-administered: state and state-administered locals are filed via My Alabama Taxes / ONE SPOT, self-administered localities separately. v1 reports the 4.0% state portion only. A timely-filing discount on state sales tax is available — apply per the MAT instructions.",
+        "notes": "Alabama's general state rate is 4.0%. Reduced STATE rates apply to categories v1 does not split out: food/groceries (3.0% in 2025, scheduled to fall further), automotive vehicles (2.0%), and farm/manufacturing machinery (1.5%); report those at their reduced rates. Alabama also has extensive LOCAL (city/county) taxes, many self-administered: state and state-administered locals are filed via My Alabama Taxes / ONE SPOT, self-administered localities separately. v1 reports the 4.0% state portion only. A timely-filing discount on state sales tax is available; apply per the MAT instructions.",
         "metric": "computed",
         "operands": [
           "taxable_sales",
@@ -50,7 +50,7 @@
         "computation": "percent_of"
       }
     ],
-    "notes": "Alabama files via My Alabama Taxes (MAT) / ONE SPOT (paper Form 2100 is retired). General state rate 4.0%. Reduced state rates (food 3.0%, automotive 2.0%, machinery 1.5%) and the many self-administered local jurisdictions are NOT split by v1 — it reports the 4.0% general state portion only; complete reduced-rate categories and local lines from your category/jurisdiction detail. A timely-filing vendor discount on state sales tax is available; apply per the MAT instructions."
+    "notes": "Alabama files via My Alabama Taxes (MAT) / ONE SPOT (paper Form 2100 is retired). General state rate 4.0%. Reduced state rates (food 3.0%, automotive 2.0%, machinery 1.5%) and the many self-administered local jurisdictions are NOT split by v1. It reports the 4.0% general state portion only; complete reduced-rate categories and local lines from your category/jurisdiction detail. A timely-filing vendor discount on state sales tax is available; apply per the MAT instructions."
   },
   {
     "state_code": "AR",
@@ -82,7 +82,7 @@
       },
       {
         "label": "Net taxable",
-        "notes": "Gross minus exempt — the base for the 6.5% state rate.",
+        "notes": "Gross minus exempt: the base for the 6.5% state rate.",
         "metric": "taxable_sales",
         "operands": [
           "gross_sales",
@@ -93,7 +93,7 @@
       },
       {
         "label": "State tax (6.5%)",
-        "notes": "Arkansas state rate is 6.5%. County and city taxes are reported per jurisdiction on the local tax schedule at each jurisdiction's combined rate — TaxLocus v1 does not split taxable sales by AR county/city.",
+        "notes": "Arkansas state rate is 6.5%. County and city taxes are reported per jurisdiction on the local tax schedule at each jurisdiction's combined rate; TaxLocus v1 does not split taxable sales by AR county/city.",
         "metric": "computed",
         "operands": [
           "taxable_sales",
@@ -135,7 +135,7 @@
       },
       {
         "label": "Net taxable",
-        "notes": "Gross minus deductions — the base for the 5.6% state retail TPT.",
+        "notes": "Gross minus deductions: the base for the 5.6% state retail TPT.",
         "metric": "taxable_sales",
         "operands": [
           "gross_sales",
@@ -146,7 +146,7 @@
       },
       {
         "label": "State TPT, retail (5.6%)",
-        "notes": "Arizona state retail TPT rate is 5.6%. City and county TPT are reported per region/location code on the TPT-EZ at each jurisdiction's combined rate — TaxLocus v1 does not split taxable sales by AZ city/county, so complete the region lines from your location-level sales.",
+        "notes": "Arizona state retail TPT rate is 5.6%. City and county TPT are reported per region/location code on the TPT-EZ at each jurisdiction's combined rate; TaxLocus v1 does not split taxable sales by AZ city/county, so complete the region lines from your location-level sales.",
         "metric": "computed",
         "operands": [
           "taxable_sales",
@@ -156,7 +156,7 @@
         "computation": "percent_of"
       }
     ],
-    "notes": "AZ TPT is a transaction privilege (seller) tax reported by business class (retail = 017) and by region/location code on Form TPT-EZ (or TPT-2 for multi-location). State retail rate is 5.6%; city (1.5%-4%) and county (0.5%-1.1%) TPT are reported per region and are not split by v1. Arizona exempts food for home consumption from the state rate but many cities tax it. The accounting/vendor credit on TPT is small and tiered — not modeled in v1."
+    "notes": "AZ TPT is a transaction privilege (seller) tax reported by business class (retail = 017) and by region/location code on Form TPT-EZ (or TPT-2 for multi-location). State retail rate is 5.6%; city (1.5%-4%) and county (0.5%-1.1%) TPT are reported per region and are not split by v1. Arizona exempts food for home consumption from the state rate but many cities tax it. The accounting/vendor credit on TPT is small and tiered; it is not modeled in v1."
   },
   {
     "state_code": "CA",
@@ -178,7 +178,7 @@
       },
       {
         "label": "Purchases subject to use tax",
-        "notes": "Use-tax on out-of-state untaxed purchases — TaxLocus cannot infer from the sales ledger. Defaults to 0; override before filing if you owe.",
+        "notes": "Use-tax on out-of-state untaxed purchases, which TaxLocus cannot infer from the sales ledger. Defaults to 0; override before filing if you owe.",
         "metric": "constant",
         "operands": [
           "0"
@@ -230,7 +230,7 @@
       },
       {
         "label": "County tax (0.25%)",
-        "notes": "Multiply line 12 by 0.0025 — the statewide county portion.",
+        "notes": "Multiply line 12 by 0.0025 (the statewide county portion).",
         "metric": "computed",
         "operands": [
           "taxable_sales",
@@ -241,7 +241,7 @@
       },
       {
         "label": "Local tax (1.00%)",
-        "notes": "Multiply line 12 by 0.01 — the statewide local Bradley-Burns portion.",
+        "notes": "Multiply line 12 by 0.01 (the statewide local Bradley-Burns portion).",
         "metric": "computed",
         "operands": [
           "taxable_sales",
@@ -252,7 +252,7 @@
       },
       {
         "label": "District tax",
-        "notes": "District-tax computation requires CDTFA-531-A2 (Schedule A2) — per-district allocations TaxLocus does not yet produce. Defaults to 0; complete Schedule A2 separately. Filers with no district-tax engagement leave this 0.",
+        "notes": "District-tax computation requires CDTFA-531-A2 (Schedule A2), with per-district allocations TaxLocus does not yet produce. Defaults to 0; complete Schedule A2 separately. Filers with no district-tax engagement leave this 0.",
         "metric": "constant",
         "operands": [
           "0"
@@ -272,7 +272,7 @@
         "computation": "percent_of"
       }
     ],
-    "notes": "CDTFA-401-A is quarterly. Line 16 (district tax) requires CDTFA-531-A2 Schedule — TaxLocus defaults it to 0; merchants engaged in district-tax districts must complete the schedule. Sections A/B (deductions breakdown) on page 3 must be filled out before filing if line 11 > 0. v1 reports the total only; per-reason breakouts deferred."
+    "notes": "CDTFA-401-A is quarterly. Line 16 (district tax) requires CDTFA-531-A2 Schedule; TaxLocus defaults it to 0, and merchants engaged in district-tax districts must complete the schedule. Sections A/B (deductions breakdown) on page 3 must be filled out before filing if line 11 > 0. v1 reports the total only; per-reason breakouts deferred."
   },
   {
     "state_code": "CO",
@@ -304,7 +304,7 @@
       },
       {
         "label": "Net taxable sales",
-        "notes": "Gross minus deductions — the base for the 2.9% state rate.",
+        "notes": "Gross minus deductions: the base for the 2.9% state rate.",
         "metric": "taxable_sales",
         "operands": [
           "gross_sales",
@@ -325,7 +325,7 @@
         "computation": "percent_of"
       }
     ],
-    "notes": "CO Form DR 0100 reports the 2.9% state rate plus state-collected local taxes per jurisdiction. Colorado has ~70 self-collecting home-rule cities that administer and file their own sales tax separately from the state return — those are out of scope for v1, which reports the state portion only. Groceries are exempt from the state tax but many home-rule cities tax them."
+    "notes": "CO Form DR 0100 reports the 2.9% state rate plus state-collected local taxes per jurisdiction. Colorado has ~70 self-collecting home-rule cities that administer and file their own sales tax separately from the state return; those are out of scope for v1, which reports the state portion only. Groceries are exempt from the state tax but many home-rule cities tax them."
   },
   {
     "state_code": "CT",
@@ -357,7 +357,7 @@
       },
       {
         "label": "Taxable receipts",
-        "notes": "Gross minus deductions — the base for the 6.35% rate.",
+        "notes": "Gross minus deductions: the base for the 6.35% rate.",
         "metric": "taxable_sales",
         "operands": [
           "gross_sales",
@@ -368,7 +368,7 @@
       },
       {
         "label": "Sales tax (6.35%)",
-        "notes": "Connecticut's general rate is 6.35% with no local sales tax, so this is the tax due for nearly all filers. Special rates apply separately: 7.75% on luxury goods (single items over $1,000), 1% on computer and data processing services (SaaS), and 7.35% on meals — adjust manually if those apply.",
+        "notes": "Connecticut's general rate is 6.35% with no local sales tax, so this is the tax due for nearly all filers. Special rates apply separately: 7.75% on luxury goods (single items over $1,000), 1% on computer and data processing services (SaaS), and 7.35% on meals; adjust manually if those apply.",
         "metric": "computed",
         "operands": [
           "taxable_sales",
@@ -410,7 +410,7 @@
       },
       {
         "label": "Net taxable sales",
-        "notes": "Gross minus exempt — the base for the 6.0% general rate.",
+        "notes": "Gross minus exempt: the base for the 6.0% general rate.",
         "metric": "taxable_sales",
         "operands": [
           "gross_sales",
@@ -443,7 +443,7 @@
     "lines": [
       {
         "label": "Gross sales (Sales/Services/Electricity)",
-        "notes": "Row A column 1 — Sales/Services/Electricity gross. Florida uses a per-category matrix (rows A-E) on the return; TaxLocus's v1 reports total gross under row A. Reclassify commercial-rental (C), transient-rental (D), and vending (E) amounts before filing if applicable.",
+        "notes": "Row A column 1: Sales/Services/Electricity gross. Florida uses a per-category matrix (rows A-E) on the return; TaxLocus's v1 reports total gross under row A. Reclassify commercial-rental (C), transient-rental (D), and vending (E) amounts before filing if applicable.",
         "metric": "gross_sales",
         "operands": [
           "gross_sales"
@@ -453,7 +453,7 @@
       },
       {
         "label": "Exempt sales",
-        "notes": "Row A column 2 — exempt portion of gross. Includes resale, government, and other exempt categories.",
+        "notes": "Row A column 2: exempt portion of gross. Includes resale, government, and other exempt categories.",
         "metric": "exempt_sales",
         "operands": [
           "exempt_sales"
@@ -463,7 +463,7 @@
       },
       {
         "label": "Taxable amount",
-        "notes": "Row A column 3 — line A1 minus line A2.",
+        "notes": "Row A column 3: line A1 minus line A2.",
         "metric": "taxable_sales",
         "operands": [
           "gross_sales",
@@ -474,7 +474,7 @@
       },
       {
         "label": "Tax due (6.0%)",
-        "notes": "Row A column 4 — Florida state rate is 6.0%. County discretionary sales surtax (0.5%–2.5% depending on county) is added on the DR-15DSS surtax line and varies per delivery county — TaxLocus does not yet compute the per-county surtax split here.",
+        "notes": "Row A column 4: Florida state rate is 6.0%. County discretionary sales surtax (0.5%–2.5% depending on county) is added on the DR-15DSS surtax line and varies per delivery county; TaxLocus does not yet compute the per-county surtax split here.",
         "metric": "computed",
         "operands": [
           "taxable_sales",
@@ -527,7 +527,7 @@
         "computation": "percent_of"
       }
     ],
-    "notes": "FL DR-15 has a per-category matrix (rows A through E: sales/services/electricity, taxable purchases, commercial rentals, transient rentals, food & beverage vending). v1 maps the full gross/exempt/taxable to row A; merchants with rental or vending revenue must reclassify before filing. The discretionary county surtax (DR-15DSS schedule) varies by delivery county (0.5–2.5%) and is not yet computed per-row — add the surtax separately if your delivery counties impose one."
+    "notes": "FL DR-15 has a per-category matrix (rows A through E: sales/services/electricity, taxable purchases, commercial rentals, transient rentals, food & beverage vending). v1 maps the full gross/exempt/taxable to row A; merchants with rental or vending revenue must reclassify before filing. The discretionary county surtax (DR-15DSS schedule) varies by delivery county (0.5–2.5%) and is not yet computed per-row; add the surtax separately if your delivery counties impose one."
   },
   {
     "state_code": "GA",
@@ -549,7 +549,7 @@
       },
       {
         "label": "Total exempt state sales",
-        "notes": "Total exempt sales (resale, exempt organizations, state grocery exemption, prescription drugs, etc.). Georgia exempts groceries from the 4% state tax but local jurisdictions may still tax them — see the per-county note on the state-tax line.",
+        "notes": "Total exempt sales (resale, exempt organizations, state grocery exemption, prescription drugs, etc.). Georgia exempts groceries from the 4% state tax but local jurisdictions may still tax them; see the per-county note on the state-tax line.",
         "metric": "exempt_sales",
         "operands": [
           "exempt_sales"
@@ -559,7 +559,7 @@
       },
       {
         "label": "Taxable state sales",
-        "notes": "Line 1 minus line 2 — the base for the 4% state tax.",
+        "notes": "Line 1 minus line 2: the base for the 4% state tax.",
         "metric": "taxable_sales",
         "operands": [
           "gross_sales",
@@ -570,7 +570,7 @@
       },
       {
         "label": "State tax (4.0%)",
-        "notes": "Georgia state rate is 4.0%. The local taxes (LOST, SPLOST, ELOST, TSPLOST, MOST, and the local education tax) are computed per-county on the Part B Sales and Use Tax Distribution Table at each county's combined local rate — TaxLocus v1 does not split taxable sales by Georgia county, so complete Part B from your county-level sales. Note: groceries are exempt from this 4% state tax but remain subject to local tax in most counties (O.C.G.A. § 48-8-3(57)).",
+        "notes": "Georgia state rate is 4.0%. The local taxes (LOST, SPLOST, ELOST, TSPLOST, MOST, and the local education tax) are computed per-county on the Part B Sales and Use Tax Distribution Table at each county's combined local rate; TaxLocus v1 does not split taxable sales by Georgia county, so complete Part B from your county-level sales. Note: groceries are exempt from this 4% state tax but remain subject to local tax in most counties (O.C.G.A. § 48-8-3(57)).",
         "metric": "computed",
         "operands": [
           "taxable_sales",
@@ -591,7 +591,7 @@
         "computation": "percent_of"
       }
     ],
-    "notes": "GA ST-3 is filed through the Georgia Tax Center (monthly/quarterly/annual by volume). State rate is 4.0%; local taxes (LOST/SPLOST/ELOST/TSPLOST/MOST + education) are allocated per-county on the Part B distribution table at each county's combined local rate — TaxLocus v1 reports the 4.0% state portion only and does not split taxable sales by county. Groceries are exempt from the 4% state tax but generally remain locally taxable. Vendor's compensation (3% of the first $3,000 of combined tax, 0.5% above, timely filers only) is approximated on the state portion and must be recomputed on the combined tax with the $3,000 breakpoint applied by hand."
+    "notes": "GA ST-3 is filed through the Georgia Tax Center (monthly/quarterly/annual by volume). State rate is 4.0%; local taxes (LOST/SPLOST/ELOST/TSPLOST/MOST + education) are allocated per-county on the Part B distribution table at each county's combined local rate; TaxLocus v1 reports the 4.0% state portion only and does not split taxable sales by county. Groceries are exempt from the 4% state tax but generally remain locally taxable. Vendor's compensation (3% of the first $3,000 of combined tax, 0.5% above, timely filers only) is approximated on the state portion and must be recomputed on the combined tax with the $3,000 breakpoint applied by hand."
   },
   {
     "state_code": "HI",
@@ -603,7 +603,7 @@
     "lines": [
       {
         "label": "Gross income (retailing)",
-        "notes": "Total gross income from retailing, including marketplace-facilitated sales. Hawaii's GET applies broadly — groceries, services, and SaaS are all in the base.",
+        "notes": "Total gross income from retailing, including marketplace-facilitated sales. Hawaii's GET applies broadly: groceries, services, and SaaS are all in the base.",
         "metric": "gross_sales",
         "operands": [
           "gross_sales"
@@ -613,7 +613,7 @@
       },
       {
         "label": "Exemptions/deductions",
-        "notes": "Total exemptions/deductions (resale at the wholesale rate, prescription drugs, etc.). Hawaii has very few exemptions — most receipts are taxable.",
+        "notes": "Total exemptions/deductions (resale at the wholesale rate, prescription drugs, etc.). Hawaii has very few exemptions; most receipts are taxable.",
         "metric": "exempt_sales",
         "operands": [
           "exempt_sales"
@@ -623,7 +623,7 @@
       },
       {
         "label": "Taxable income",
-        "notes": "Gross income minus exemptions — the base for the 4.0% GET.",
+        "notes": "Gross income minus exemptions: the base for the 4.0% GET.",
         "metric": "taxable_sales",
         "operands": [
           "gross_sales",
@@ -634,7 +634,7 @@
       },
       {
         "label": "GET (4.0%)",
-        "notes": "Hawaii GET state rate is 4.0% for retailing. A 0.5% county surcharge applies on Oahu (Honolulu), Kauai, Hawaii, and Maui counties and is reported per county — TaxLocus v1 does not split by county. Note: GET is technically on the seller; many sellers pass it through at an effective 4.166%/4.712% to recover the tax-on-tax, but the return is filed on the 4.0%/4.5% rate.",
+        "notes": "Hawaii GET state rate is 4.0% for retailing. A 0.5% county surcharge applies on Oahu (Honolulu), Kauai, Hawaii, and Maui counties and is reported per county; TaxLocus v1 does not split by county. Note: GET is technically on the seller; many sellers pass it through at an effective 4.166%/4.712% to recover the tax-on-tax, but the return is filed on the 4.0%/4.5% rate.",
         "metric": "computed",
         "operands": [
           "taxable_sales",
@@ -644,15 +644,15 @@
         "computation": "percent_of"
       }
     ],
-    "notes": "HI Form G-45 is the periodic General Excise/Use Tax Return. GET is a broad gross-income tax on the seller (retailing classification 4.0%); groceries, services, and SaaS are all taxable. A 0.5% county surcharge (Oahu, Kauai, Hawaii, Maui) applies on top and is reported per county — not split by v1. GET differs from a true sales tax; sellers commonly pass it through at 4.166% (4.712% with surcharge), but the return computes on the 4.0% base."
+    "notes": "HI Form G-45 is the periodic General Excise/Use Tax Return. GET is a broad gross-income tax on the seller (retailing classification 4.0%); groceries, services, and SaaS are all taxable. A 0.5% county surcharge (Oahu, Kauai, Hawaii, Maui) applies on top and is reported per county; it is not split by v1. GET differs from a true sales tax; sellers commonly pass it through at 4.166% (4.712% with surcharge), but the return computes on the 4.0% base."
   },
   {
     "state_code": "IA",
-    "form_name": "IA-SUT",
-    "form_title": "Iowa Sales and Use Tax Return",
-    "authority_url": "https://tax.iowa.gov/iowa-sales-and-use-tax-guide",
+    "form_name": "32-022",
+    "form_title": "Iowa Sales/Retailer's Use Tax and Surcharge Return",
+    "authority_url": "https://tax.iowa.gov/forms/iowa-salesretailers-use-tax-and-surcharge-return-32-022",
     "effective_from": "2026-01-01",
-    "version": "v1",
+    "version": "v2",
     "lines": [
       {
         "label": "Gross sales",
@@ -676,7 +676,7 @@
       },
       {
         "label": "Taxable sales",
-        "notes": "Gross minus exemptions — the base for the 6.0% state rate.",
+        "notes": "Gross minus exemptions: the base for the 6.0% state rate.",
         "metric": "taxable_sales",
         "operands": [
           "gross_sales",
@@ -687,7 +687,7 @@
       },
       {
         "label": "State sales tax (6.0%)",
-        "notes": "Iowa state rate is 6.0%. A 1% Local Option Sales Tax (LOST) applies in most Iowa jurisdictions and is reported separately by jurisdiction — TaxLocus v1 does not split taxable sales by Iowa locality.",
+        "notes": "Iowa state rate is 6.0%. A 1% Local Option Sales Tax (LOST) applies in most Iowa jurisdictions and is reported separately by jurisdiction; TaxLocus v1 does not split taxable sales by Iowa locality.",
         "metric": "computed",
         "operands": [
           "taxable_sales",
@@ -697,7 +697,7 @@
         "computation": "percent_of"
       }
     ],
-    "notes": "IA files the Sales and Use Tax Return through GovConnectIowa. State rate is 6.0%; a 1% Local Option Sales Tax applies in most jurisdictions and is reported per locality, not split by v1. Iowa exempts groceries; candy and soft drinks are taxable. SaaS is taxable with a B2B exemption for commercial enterprises."
+    "notes": "IA Form 32-022 (Iowa Sales/Retailer's Use Tax and Surcharge Return) is filed through GovConnectIowa. State rate is 6.0%; a 1% Local Option Sales Tax applies in most jurisdictions and is reported per locality, not split by v1. Iowa exempts groceries; candy and soft drinks are taxable. SaaS is taxable with a B2B exemption for commercial enterprises. Re-verified 2026-06 against https://tax.iowa.gov/forms/iowa-salesretailers-use-tax-and-surcharge-return-32-022."
   },
   {
     "state_code": "ID",
@@ -729,7 +729,7 @@
       },
       {
         "label": "Net taxable sales",
-        "notes": "Total sales minus exempt sales — the base for the 6.0% rate.",
+        "notes": "Total sales minus exempt sales: the base for the 6.0% rate.",
         "metric": "taxable_sales",
         "operands": [
           "gross_sales",
@@ -750,7 +750,7 @@
         "computation": "percent_of"
       }
     ],
-    "notes": "ID Form 850 reports the 6.0% state rate, which is the tax due for nearly all filers — Idaho has no general local sales tax, only resort-city and auditorium-district local taxes in a handful of jurisdictions (not split by v1). Idaho taxes groceries at the full rate (offset by an income-tax grocery credit)."
+    "notes": "ID Form 850 reports the 6.0% state rate, which is the tax due for nearly all filers; Idaho has no general local sales tax, only resort-city and auditorium-district local taxes in a handful of jurisdictions (not split by v1). Idaho taxes groceries at the full rate (offset by an income-tax grocery credit)."
   },
   {
     "state_code": "IL",
@@ -762,7 +762,7 @@
     "lines": [
       {
         "label": "Total receipts",
-        "notes": "Step 1, Line 1 — total receipts (gross sales) for the month, including marketplace-facilitated sales. Whole dollars.",
+        "notes": "Step 1, Line 1: total receipts (gross sales) for the month, including marketplace-facilitated sales. Whole dollars.",
         "metric": "gross_sales",
         "operands": [
           "gross_sales"
@@ -772,7 +772,7 @@
       },
       {
         "label": "Total deductions",
-        "notes": "Step 2, Line 4 — total deductions (resale, sales to exempt organizations, sales in interstate commerce, etc.). On the filed return these are itemized on Lines 4a–4f; TaxLocus reports the total exempt amount only.",
+        "notes": "Step 2, Line 4: total deductions (resale, sales to exempt organizations, sales in interstate commerce, etc.). On the filed return these are itemized on Lines 4a–4f; TaxLocus reports the total exempt amount only.",
         "metric": "exempt_sales",
         "operands": [
           "exempt_sales"
@@ -782,7 +782,7 @@
       },
       {
         "label": "Taxable receipts",
-        "notes": "Step 3 — receipts subject to tax (Line 1 minus Line 4).",
+        "notes": "Step 3: receipts subject to tax (Line 1 minus Line 4).",
         "metric": "taxable_sales",
         "operands": [
           "gross_sales",
@@ -793,7 +793,7 @@
       },
       {
         "label": "General merchandise tax (6.25%)",
-        "notes": "Step 4 — general-merchandise base × 6.25% (the combined state ROT rate; the state retains 5.0% and remits 1.25% to local governments, but you report the full 6.25% here). Receipts from qualifying food, drugs, and medical appliances are taxed at 1.0% on a separate line (Line 6b / 7b) — TaxLocus v1 does not split the 1% food/drug base out of taxable receipts, so reclassify those before filing. Locally imposed home-rule and business-district taxes (Schedule GT / locations on Form ST-2) are also not computed here.",
+        "notes": "Step 4: general-merchandise base × 6.25% (the combined state ROT rate; the state retains 5.0% and remits 1.25% to local governments, but you report the full 6.25% here). Receipts from qualifying food, drugs, and medical appliances are taxed at 1.0% on a separate line (Line 6b / 7b); TaxLocus v1 does not split the 1% food/drug base out of taxable receipts, so reclassify those before filing. Locally imposed home-rule and business-district taxes (Schedule GT / locations on Form ST-2) are also not computed here.",
         "metric": "computed",
         "operands": [
           "taxable_sales",
@@ -804,7 +804,7 @@
       },
       {
         "label": "Retailer's discount (1.75%, $5 min/month cap)",
-        "notes": "Illinois retailer's discount is 1.75% of the tax due if filed and paid on time (1.75% × 6.25% ≈ 0.109375% of taxable sales). The discount is subject to a $1,000/month aggregate cap across all returns — apply the cap by hand. Forfeited if late.",
+        "notes": "Illinois retailer's discount is 1.75% of the tax due if filed and paid on time (1.75% × 6.25% ≈ 0.109375% of taxable sales). The discount is subject to a $1,000/month aggregate cap across all returns; apply the cap by hand. Forfeited if late.",
         "metric": "computed",
         "operands": [
           "taxable_sales",
@@ -846,7 +846,7 @@
       },
       {
         "label": "Taxable sales",
-        "notes": "Total sales minus exempt sales — the base for the 7.0% rate.",
+        "notes": "Total sales minus exempt sales: the base for the 7.0% rate.",
         "metric": "taxable_sales",
         "operands": [
           "gross_sales",
@@ -899,7 +899,7 @@
       },
       {
         "label": "Net taxable sales",
-        "notes": "Gross minus deductions — the base for the 6.5% state rate.",
+        "notes": "Gross minus deductions: the base for the 6.5% state rate.",
         "metric": "taxable_sales",
         "operands": [
           "gross_sales",
@@ -910,7 +910,7 @@
       },
       {
         "label": "State sales tax (6.5%)",
-        "notes": "Kansas state rate is 6.5%. County and city taxes are reported per jurisdiction on the ST-36 at each jurisdiction's combined rate — TaxLocus v1 does not split taxable sales by Kansas locality.",
+        "notes": "Kansas state rate is 6.5%. County and city taxes are reported per jurisdiction on the ST-36 at each jurisdiction's combined rate; TaxLocus v1 does not split taxable sales by Kansas locality.",
         "metric": "computed",
         "operands": [
           "taxable_sales",
@@ -952,7 +952,7 @@
       },
       {
         "label": "Net taxable receipts",
-        "notes": "Gross minus exemptions — the base for the 6.0% rate.",
+        "notes": "Gross minus exemptions: the base for the 6.0% rate.",
         "metric": "taxable_sales",
         "operands": [
           "gross_sales",
@@ -1005,7 +1005,7 @@
       },
       {
         "label": "Taxable sales",
-        "notes": "Gross minus deductions — the base for the 5.0% state rate.",
+        "notes": "Gross minus deductions: the base for the 5.0% state rate.",
         "metric": "taxable_sales",
         "operands": [
           "gross_sales",
@@ -1016,7 +1016,7 @@
       },
       {
         "label": "State sales tax (5.0%)",
-        "notes": "Louisiana state rate is 5.0% (raised from 4.45% effective Jan 1, 2025). Parish and local sales taxes (often 4-7%) are filed separately with the local collector — TaxLocus v1 reports the state portion only and does not split by parish.",
+        "notes": "Louisiana state rate is 5.0% (raised from 4.45% effective Jan 1, 2025). Parish and local sales taxes (often 4-7%) are filed separately with the local collector; TaxLocus v1 reports the state portion only and does not split by parish.",
         "metric": "computed",
         "operands": [
           "taxable_sales",
@@ -1026,7 +1026,7 @@
         "computation": "percent_of"
       }
     ],
-    "notes": "LA Form R-1029 reports the state sales tax. The state rate rose to 5.0% on Jan 1, 2025 (from 4.45%). Louisiana has high parish/local rates that are administered and filed separately with parish collectors — not split by v1. Louisiana began taxing digital products and SaaS on Jan 1, 2025 (Act 11, 2024). Food for home consumption is exempt from the state rate but locally taxable."
+    "notes": "LA Form R-1029 reports the state sales tax. The state rate rose to 5.0% on Jan 1, 2025 (from 4.45%). Louisiana has high parish/local rates that are administered and filed separately with parish collectors; they are not split by v1. Louisiana began taxing digital products and SaaS on Jan 1, 2025 (Act 11, 2024). Food for home consumption is exempt from the state rate but locally taxable."
   },
   {
     "state_code": "MA",
@@ -1058,7 +1058,7 @@
       },
       {
         "label": "Taxable sales",
-        "notes": "Gross minus exempt — the base for the 6.25% rate.",
+        "notes": "Gross minus exempt: the base for the 6.25% rate.",
         "metric": "taxable_sales",
         "operands": [
           "gross_sales",
@@ -1069,7 +1069,7 @@
       },
       {
         "label": "Sales tax (6.25%)",
-        "notes": "Massachusetts' rate is a flat 6.25% with no local sales tax. Meals carry an optional 0.75% local meals tax filed separately on Form ST-MAB — not modeled here.",
+        "notes": "Massachusetts' rate is a flat 6.25% with no local sales tax. Meals carry an optional 0.75% local meals tax filed separately on Form ST-MAB, which is not modeled here.",
         "metric": "computed",
         "operands": [
           "taxable_sales",
@@ -1111,7 +1111,7 @@
       },
       {
         "label": "Net taxable sales",
-        "notes": "Gross minus exempt — the base for the 6.0% rate.",
+        "notes": "Gross minus exempt: the base for the 6.0% rate.",
         "metric": "taxable_sales",
         "operands": [
           "gross_sales",
@@ -1122,7 +1122,7 @@
       },
       {
         "label": "Sales tax (6.0%)",
-        "notes": "Maryland's general rate is 6.0% with no local sales tax. Alcoholic beverages are taxed at 9% on a separate line — not modeled here.",
+        "notes": "Maryland's general rate is 6.0% with no local sales tax. Alcoholic beverages are taxed at 9% on a separate line, which is not modeled here.",
         "metric": "computed",
         "operands": [
           "taxable_sales",
@@ -1136,11 +1136,11 @@
   },
   {
     "state_code": "ME",
-    "form_name": "ME-SUT",
+    "form_name": "ST-7",
     "form_title": "Maine Sales and Use Tax Return",
-    "authority_url": "https://www.maine.gov/revenue/taxes/sales-use-service-provider-tax",
+    "authority_url": "https://www.maine.gov/revenue/tax-return-forms/sales-use-tax-forms",
     "effective_from": "2026-01-01",
-    "version": "v1",
+    "version": "v2",
     "lines": [
       {
         "label": "Gross sales",
@@ -1164,7 +1164,7 @@
       },
       {
         "label": "Taxable sales",
-        "notes": "Gross minus exempt — the base for the 5.5% general rate.",
+        "notes": "Gross minus exempt: the base for the 5.5% general rate.",
         "metric": "taxable_sales",
         "operands": [
           "gross_sales",
@@ -1185,7 +1185,7 @@
         "computation": "percent_of"
       }
     ],
-    "notes": "ME files the Sales and Use Tax Return through the Maine Tax Portal. General rate is 5.5% with no local sales tax. Maine charges higher special rates on prepared food (8%), lodging (9%), and short-term auto rentals (10%) — not split by v1. Grocery staples are exempt; candy and soft drinks are taxable."
+    "notes": "ME Form ST-7 is the Sales and Use Tax Return filed through the Maine Tax Portal. General rate is 5.5% with no local sales tax. Maine charges higher special rates on prepared food (8%), lodging (9%), and short-term auto rentals (10%), not split by v1. Grocery staples are exempt; candy and soft drinks are taxable. Re-verified 2026-06 against https://www.maine.gov/revenue/tax-return-forms/sales-use-tax-forms."
   },
   {
     "state_code": "MI",
@@ -1217,7 +1217,7 @@
       },
       {
         "label": "Taxable balance",
-        "notes": "Gross sales minus allowable deductions — the base for the 6% tax.",
+        "notes": "Gross sales minus allowable deductions: the base for the 6% tax.",
         "metric": "taxable_sales",
         "operands": [
           "gross_sales",
@@ -1249,7 +1249,7 @@
         "computation": "percent_of"
       }
     ],
-    "notes": "MI Form 5080 is the combined Sales, Use and Withholding monthly/quarterly return (Form 5081 is the annual reconciliation); only the sales-tax section is mapped. Michigan has a flat 6.0% rate and no general local sales tax, so the tax line equals the amount due for nearly all filers. The timely-filing discount uses a tiered, capped schedule (Form 5080 instructions) — approximated here as ~0.5% of tax and must be recomputed and capped by hand. Use tax on purchases and withholding are separate sections of the same form, out of scope for v1."
+    "notes": "MI Form 5080 is the combined Sales, Use and Withholding monthly/quarterly return (Form 5081 is the annual reconciliation); only the sales-tax section is mapped. Michigan has a flat 6.0% rate and no general local sales tax, so the tax line equals the amount due for nearly all filers. The timely-filing discount uses a tiered, capped schedule (Form 5080 instructions); it is approximated here as ~0.5% of tax and must be recomputed and capped by hand. Use tax on purchases and withholding are separate sections of the same form, out of scope for v1."
   },
   {
     "state_code": "MN",
@@ -1281,7 +1281,7 @@
       },
       {
         "label": "Taxable receipts",
-        "notes": "Gross minus exempt — the base for the 6.875% state rate.",
+        "notes": "Gross minus exempt: the base for the 6.875% state rate.",
         "metric": "taxable_sales",
         "operands": [
           "gross_sales",
@@ -1292,7 +1292,7 @@
       },
       {
         "label": "State general rate tax (6.875%)",
-        "notes": "Minnesota state rate is 6.875%. Local taxes (city/county/transit) are reported per jurisdiction in e-Services at each jurisdiction's rate — TaxLocus v1 does not split taxable sales by Minnesota locality.",
+        "notes": "Minnesota state rate is 6.875%. Local taxes (city/county/transit) are reported per jurisdiction in e-Services at each jurisdiction's rate; TaxLocus v1 does not split taxable sales by Minnesota locality.",
         "metric": "computed",
         "operands": [
           "taxable_sales",
@@ -1334,7 +1334,7 @@
       },
       {
         "label": "Taxable sales",
-        "notes": "Gross minus exemptions — the base for the 4.225% state rate.",
+        "notes": "Gross minus exemptions: the base for the 4.225% state rate.",
         "metric": "taxable_sales",
         "operands": [
           "gross_sales",
@@ -1345,7 +1345,7 @@
       },
       {
         "label": "State sales tax (4.225%)",
-        "notes": "Missouri state rate is 4.225%. County, city, and special-district taxes are reported per location on Form 53-1 at each location's combined rate — TaxLocus v1 does not split taxable sales by Missouri locality.",
+        "notes": "Missouri state rate is 4.225%. County, city, and special-district taxes are reported per location on Form 53-1 at each location's combined rate; TaxLocus v1 does not split taxable sales by Missouri locality.",
         "metric": "computed",
         "operands": [
           "taxable_sales",
@@ -1387,7 +1387,7 @@
       },
       {
         "label": "Net taxable sales",
-        "notes": "Gross minus exempt — the base for the 7.0% rate.",
+        "notes": "Gross minus exempt: the base for the 7.0% rate.",
         "metric": "taxable_sales",
         "operands": [
           "gross_sales",
@@ -1398,7 +1398,7 @@
       },
       {
         "label": "Sales tax (7.0%)",
-        "notes": "Mississippi's general rate is 7.0%. Local sales taxes are limited to a few cities (tourism/special levies) and are reported separately — not split by v1.",
+        "notes": "Mississippi's general rate is 7.0%. Local sales taxes are limited to a few cities (tourism/special levies) and are reported separately; they are not split by v1.",
         "metric": "computed",
         "operands": [
           "taxable_sales",
@@ -1408,7 +1408,7 @@
         "computation": "percent_of"
       }
     ],
-    "notes": "MS Form 72-010 reports the 7.0% general rate, which is the tax due for nearly all filers — Mississippi has very limited local sales tax. Groceries are taxed (reduced from 7% to 5% effective July 1, 2025) and reported at the reduced rate on a separate line; candy and soft drinks are at the full rate. Mississippi taxes computer software services (SaaS)."
+    "notes": "MS Form 72-010 reports the 7.0% general rate, which is the tax due for nearly all filers; Mississippi has very limited local sales tax. Groceries are taxed (reduced from 7% to 5% effective July 1, 2025) and reported at the reduced rate on a separate line; candy and soft drinks are at the full rate. Mississippi taxes computer software services (SaaS)."
   },
   {
     "state_code": "NC",
@@ -1440,7 +1440,7 @@
       },
       {
         "label": "Receipts subject to the General State rate",
-        "notes": "Gross receipts less exempt receipts — the base for the 4.75% General State rate.",
+        "notes": "Gross receipts less exempt receipts: the base for the 4.75% General State rate.",
         "metric": "taxable_sales",
         "operands": [
           "gross_sales",
@@ -1451,7 +1451,7 @@
       },
       {
         "label": "General State rate tax (4.75%)",
-        "notes": "North Carolina's General State rate is 4.75%. The county 2.00% local tax plus any applicable transit tax (0.25%/0.50%) is computed per county on the E-500 county breakdown at each county's combined local rate — TaxLocus v1 does not split taxable sales by NC county, so complete the county lines from your county-level sales. Groceries are exempt from this 4.75% State rate but subject to the separate 2% local food tax.",
+        "notes": "North Carolina's General State rate is 4.75%. The county 2.00% local tax plus any applicable transit tax (0.25%/0.50%) is computed per county on the E-500 county breakdown at each county's combined local rate; TaxLocus v1 does not split taxable sales by NC county, so complete the county lines from your county-level sales. Groceries are exempt from this 4.75% State rate but subject to the separate 2% local food tax.",
         "metric": "computed",
         "operands": [
           "taxable_sales",
@@ -1461,7 +1461,7 @@
         "computation": "percent_of"
       }
     ],
-    "notes": "NC Form E-500 is the Sales and Use Tax Return (monthly/quarterly by volume). General State rate is 4.75%; the county 2.00% local tax plus transit taxes (0.25%/0.50% in some counties) are reported per county on the E-500 breakdown, and v1 reports the 4.75% State portion only — complete the county lines from your county-level sales. Groceries are exempt from the State rate but subject to the 2% local food tax (a separate line). Prepared food is taxed at the full combined rate. North Carolina does not offer a timely-filing vendor discount."
+    "notes": "NC Form E-500 is the Sales and Use Tax Return (monthly/quarterly by volume). General State rate is 4.75%; the county 2.00% local tax plus transit taxes (0.25%/0.50% in some counties) are reported per county on the E-500 breakdown, and v1 reports the 4.75% State portion only; complete the county lines from your county-level sales. Groceries are exempt from the State rate but subject to the 2% local food tax (a separate line). Prepared food is taxed at the full combined rate. North Carolina does not offer a timely-filing vendor discount."
   },
   {
     "state_code": "ND",
@@ -1493,7 +1493,7 @@
       },
       {
         "label": "Net taxable sales",
-        "notes": "Total minus nontaxable — the base for the 5.0% state rate.",
+        "notes": "Total minus nontaxable: the base for the 5.0% state rate.",
         "metric": "taxable_sales",
         "operands": [
           "gross_sales",
@@ -1504,7 +1504,7 @@
       },
       {
         "label": "State sales tax (5.0%)",
-        "notes": "North Dakota state rate is 5.0%. City and county local taxes are reported per jurisdiction on the local schedule — TaxLocus v1 does not split taxable sales by North Dakota locality.",
+        "notes": "North Dakota state rate is 5.0%. City and county local taxes are reported per jurisdiction on the local schedule; TaxLocus v1 does not split taxable sales by North Dakota locality.",
         "metric": "computed",
         "operands": [
           "taxable_sales",
@@ -1546,7 +1546,7 @@
       },
       {
         "label": "Net taxable sales",
-        "notes": "Gross minus exempt — the base for the 5.5% state rate.",
+        "notes": "Gross minus exempt: the base for the 5.5% state rate.",
         "metric": "taxable_sales",
         "operands": [
           "gross_sales",
@@ -1557,7 +1557,7 @@
       },
       {
         "label": "State sales tax (5.5%)",
-        "notes": "Nebraska state rate is 5.5%. City and county local taxes (up to 2%) are reported per jurisdiction on Form 10 — TaxLocus v1 does not split taxable sales by Nebraska locality.",
+        "notes": "Nebraska state rate is 5.5%. City and county local taxes (up to 2%) are reported per jurisdiction on Form 10; TaxLocus v1 does not split taxable sales by Nebraska locality.",
         "metric": "computed",
         "operands": [
           "taxable_sales",
@@ -1589,7 +1589,7 @@
       },
       {
         "label": "Deductions (exempt receipts)",
-        "notes": "Total exempt receipts (resale, exempt clothing/footwear, groceries, prescription drugs, exempt-org sales, etc.). New Jersey broadly exempts clothing and most groceries — verify your taxability mapping reflects those exemptions.",
+        "notes": "Total exempt receipts (resale, exempt clothing/footwear, groceries, prescription drugs, exempt-org sales, etc.). New Jersey broadly exempts clothing and most groceries; verify your taxability mapping reflects those exemptions.",
         "metric": "exempt_sales",
         "operands": [
           "exempt_sales"
@@ -1599,7 +1599,7 @@
       },
       {
         "label": "Receipts subject to Sales Tax",
-        "notes": "Line 1 minus line 2 — the base for the 6.625% tax.",
+        "notes": "Line 1 minus line 2: the base for the 6.625% tax.",
         "metric": "taxable_sales",
         "operands": [
           "gross_sales",
@@ -1610,7 +1610,7 @@
       },
       {
         "label": "Sales Tax due (6.625%)",
-        "notes": "New Jersey's single statewide rate is 6.625% — there is no general local sales tax, so for most filers this is the actual tax due. Two exceptions TaxLocus v1 does not split out: certified Urban Enterprise Zone (UEZ) businesses charge half the rate (3.3125%) on qualifying in-zone retail sales, and Salem County applies a 3.5% rate. Adjust manually if either applies to your sales. NJ also has no timely-filing vendor discount.",
+        "notes": "New Jersey's single statewide rate is 6.625%; there is no general local sales tax, so for most filers this is the actual tax due. Two exceptions TaxLocus v1 does not split out: certified Urban Enterprise Zone (UEZ) businesses charge half the rate (3.3125%) on qualifying in-zone retail sales, and Salem County applies a 3.5% rate. Adjust manually if either applies to your sales. NJ also has no timely-filing vendor discount.",
         "metric": "computed",
         "operands": [
           "taxable_sales",
@@ -1620,7 +1620,7 @@
         "computation": "percent_of"
       }
     ],
-    "notes": "NJ ST-50 is the quarterly return; ST-51 is the monthly remittance for the first two months of a quarter. New Jersey has a single statewide 6.625% rate and no general local sales tax, so the state-portion line is the actual tax due for nearly all filers. Narrow exceptions not computed in v1: Urban Enterprise Zone certified businesses charge a half rate (3.3125%) on qualifying in-zone sales, and Salem County uses a 3.5% rate. New Jersey offers no vendor/timely-filing discount. NJ broadly exempts clothing and footwear and most groceries — confirm the taxability mapping covers these before relying on the deductions figure."
+    "notes": "NJ ST-50 is the quarterly return; ST-51 is the monthly remittance for the first two months of a quarter. New Jersey has a single statewide 6.625% rate and no general local sales tax, so the state-portion line is the actual tax due for nearly all filers. Narrow exceptions not computed in v1: Urban Enterprise Zone certified businesses charge a half rate (3.3125%) on qualifying in-zone sales, and Salem County uses a 3.5% rate. New Jersey offers no vendor/timely-filing discount. NJ broadly exempts clothing and footwear and most groceries; confirm the taxability mapping covers these before relying on the deductions figure."
   },
   {
     "state_code": "NM",
@@ -1632,7 +1632,7 @@
     "lines": [
       {
         "label": "Gross receipts",
-        "notes": "Total gross receipts for the period, including marketplace-facilitated sales. GRT is broad — services and SaaS are in the base.",
+        "notes": "Total gross receipts for the period, including marketplace-facilitated sales. GRT is broad: services and SaaS are in the base.",
         "metric": "gross_sales",
         "operands": [
           "gross_sales"
@@ -1652,7 +1652,7 @@
       },
       {
         "label": "Taxable gross receipts",
-        "notes": "Gross minus deductions — the base for the 4.875% state GRT.",
+        "notes": "Gross minus deductions: the base for the 4.875% state GRT.",
         "metric": "taxable_sales",
         "operands": [
           "gross_sales",
@@ -1663,7 +1663,7 @@
       },
       {
         "label": "State GRT (4.875%)",
-        "notes": "New Mexico's state GRT rate is 4.875%. Local-option GRT increments are reported per location/business-location code at each location's combined rate — TaxLocus v1 does not split by NM location code.",
+        "notes": "New Mexico's state GRT rate is 4.875%. Local-option GRT increments are reported per location/business-location code at each location's combined rate; TaxLocus v1 does not split by NM location code.",
         "metric": "computed",
         "operands": [
           "taxable_sales",
@@ -1677,11 +1677,11 @@
   },
   {
     "state_code": "NV",
-    "form_name": "TXR-01.01",
+    "form_name": "REV-F013",
     "form_title": "Nevada Combined Sales and Use Tax Return",
-    "authority_url": "https://tax.nv.gov/",
+    "authority_url": "https://tax.nv.gov/tax-types/tax-forms/",
     "effective_from": "2026-01-01",
-    "version": "v1",
+    "version": "v2",
     "lines": [
       {
         "label": "Total sales",
@@ -1705,7 +1705,7 @@
       },
       {
         "label": "Taxable sales",
-        "notes": "Total sales minus exempt — the base for tax.",
+        "notes": "Total sales minus exempt: the base for tax.",
         "metric": "taxable_sales",
         "operands": [
           "gross_sales",
@@ -1716,7 +1716,7 @@
       },
       {
         "label": "State-imposed tax (4.6%)",
-        "notes": "Nevada's state-imposed components are 2.0% Sales Tax + 2.6% Local School Support Tax = 4.6%. Additional mandatory and optional county taxes bring every county to at least a 6.85% combined minimum (Clark County is 8.375%). The return is filed per county at the county's combined rate — TaxLocus v1 does not split taxable sales by Nevada county, so use the county's full combined rate when filing.",
+        "notes": "Nevada's state-imposed components are 2.0% Sales Tax + 2.6% Local School Support Tax = 4.6%. Additional mandatory and optional county taxes bring every county to at least a 6.85% combined minimum (Clark County is 8.375%). The return is filed per county at the county's combined rate; TaxLocus v1 does not split taxable sales by Nevada county, so use the county's full combined rate when filing.",
         "metric": "computed",
         "operands": [
           "taxable_sales",
@@ -1726,7 +1726,7 @@
         "computation": "percent_of"
       }
     ],
-    "notes": "NV Form TXR-01.01 is the Combined Sales and Use Tax Return, filed per county. The state-imposed rate (2.0% Sales Tax + 2.6% LSST) is 4.6%; mandatory + optional county taxes bring every county to at least 6.85% combined. v1 reports the 4.6% state portion only and does not split by county — use the destination county's full combined rate for the actual tax due. Nevada exempts groceries and does not tax SaaS or digital products."
+    "notes": "NV Form REV-F013 is the Combined Sales and Use Tax Return (replaces TXR-01.01, revised December 2024). Filed per county. The state-imposed rate (2.0% Sales Tax + 2.6% LSST) is 4.6%; mandatory + optional county taxes bring every county to at least 6.85% combined. v1 reports the 4.6% state portion only and does not split by county. Use the destination county's full combined rate for the actual tax due. Nevada exempts groceries and does not tax SaaS or digital products. Re-verified 2026-06 against https://tax.nv.gov/tax-types/tax-forms/."
   },
   {
     "state_code": "NY",
@@ -1738,7 +1738,7 @@
     "lines": [
       {
         "label": "Gross sales and services",
-        "notes": "Step 1 — total gross sales and services for the quarter, including marketplace-facilitated sales. Whole dollars.",
+        "notes": "Step 1: total gross sales and services for the quarter, including marketplace-facilitated sales. Whole dollars.",
         "metric": "gross_sales",
         "operands": [
           "gross_sales"
@@ -1759,7 +1759,7 @@
       },
       {
         "label": "State portion (4.0%)",
-        "notes": "Informational only. New York's 4.0% state rate × taxable sales. NY does NOT report a standalone state line on ST-100 — each jurisdiction line on the return applies the combined state + local + MCTD rate for that jurisdiction. Use this as a reconciliation check; the actual tax due is the sum of the jurisdiction schedules, which TaxLocus does not yet compute per-jurisdiction.",
+        "notes": "Informational only. New York's 4.0% state rate × taxable sales. NY does NOT report a standalone state line on ST-100; each jurisdiction line on the return applies the combined state + local + MCTD rate for that jurisdiction. Use this as a reconciliation check; the actual tax due is the sum of the jurisdiction schedules, which TaxLocus does not yet compute per-jurisdiction.",
         "metric": "computed",
         "operands": [
           "taxable_sales",
@@ -1792,7 +1792,7 @@
     "lines": [
       {
         "label": "Gross sales",
-        "notes": "Line 1 — total gross sales for the period, including marketplace-facilitated sales.",
+        "notes": "Line 1: total gross sales for the period, including marketplace-facilitated sales.",
         "metric": "gross_sales",
         "operands": [
           "gross_sales"
@@ -1802,7 +1802,7 @@
       },
       {
         "label": "Exempt sales",
-        "notes": "Line 2 — exempt sales (resale, sales to exempt entities, exempt food for off-premises consumption, etc.).",
+        "notes": "Line 2: exempt sales (resale, sales to exempt entities, exempt food for off-premises consumption, etc.).",
         "metric": "exempt_sales",
         "operands": [
           "exempt_sales"
@@ -1812,7 +1812,7 @@
       },
       {
         "label": "Net taxable sales",
-        "notes": "Line 3 — reportable taxable sales (Line 1 minus Line 2).",
+        "notes": "Line 3: reportable taxable sales (Line 1 minus Line 2).",
         "metric": "taxable_sales",
         "operands": [
           "gross_sales",
@@ -1823,7 +1823,7 @@
       },
       {
         "label": "Tax liability (state portion, 5.75%)",
-        "notes": "Ohio is destination-based: the tax actually due is the combined state (5.75%) + county (and transit-authority) rate at each buyer's address, broken out by county on Schedule UST-1C. This line shows the 5.75% state portion only. Filers MUST complete UST-1C to allocate taxable sales across counties — the county tax will increase the total above this state-only figure. TaxLocus v1 does not yet split taxable sales by Ohio county.",
+        "notes": "Ohio is destination-based: the tax actually due is the combined state (5.75%) + county (and transit-authority) rate at each buyer's address, broken out by county on Schedule UST-1C. This line shows the 5.75% state portion only. Filers MUST complete UST-1C to allocate taxable sales across counties; the county tax will increase the total above this state-only figure. TaxLocus v1 does not yet split taxable sales by Ohio county.",
         "metric": "computed",
         "operands": [
           "taxable_sales",
@@ -1844,7 +1844,7 @@
         "computation": "percent_of"
       }
     ],
-    "notes": "OH UST-1 is filed semi-monthly or monthly through the Ohio Business Gateway. Ohio sales tax is destination-based: the combined state (5.75%) + county + transit-authority rate at the buyer's address, allocated per county on Schedule UST-1C. v1 reports gross, exempt, taxable, and the 5.75% state portion only — the per-county allocation on UST-1C must be completed before filing, and it raises the total tax above the state-only figure shown here. The 0.75% discount (max $750/period) is approximated on the state portion and must be capped by hand."
+    "notes": "OH UST-1 is filed semi-monthly or monthly through the Ohio Business Gateway. Ohio sales tax is destination-based: the combined state (5.75%) + county + transit-authority rate at the buyer's address, allocated per county on Schedule UST-1C. v1 reports gross, exempt, taxable, and the 5.75% state portion only; the per-county allocation on UST-1C must be completed before filing, and it raises the total tax above the state-only figure shown here. The 0.75% discount (max $750/period) is approximated on the state portion and must be capped by hand."
   },
   {
     "state_code": "OK",
@@ -1876,7 +1876,7 @@
       },
       {
         "label": "Net taxable sales",
-        "notes": "Gross minus exempt — the base for the 4.5% state rate.",
+        "notes": "Gross minus exempt: the base for the 4.5% state rate.",
         "metric": "taxable_sales",
         "operands": [
           "gross_sales",
@@ -1887,7 +1887,7 @@
       },
       {
         "label": "State sales tax (4.5%)",
-        "notes": "Oklahoma state rate is 4.5%. County and city taxes are reported per jurisdiction at each jurisdiction's combined rate — TaxLocus v1 does not split taxable sales by Oklahoma locality.",
+        "notes": "Oklahoma state rate is 4.5%. County and city taxes are reported per jurisdiction at each jurisdiction's combined rate; TaxLocus v1 does not split taxable sales by Oklahoma locality.",
         "metric": "computed",
         "operands": [
           "taxable_sales",
@@ -1941,7 +1941,7 @@
       },
       {
         "label": "Allegheny County local tax (1.0%)",
-        "notes": "Allegheny County imposes an additional 1.0% local sales tax on sales sourced there. Defaults to 0 — TaxLocus v1 does not split taxable sales by delivery county. If you have Allegheny-sourced sales, compute 1.0% of that portion and enter it here.",
+        "notes": "Allegheny County imposes an additional 1.0% local sales tax on sales sourced there. Defaults to 0 because TaxLocus v1 does not split taxable sales by delivery county. If you have Allegheny-sourced sales, compute 1.0% of that portion and enter it here.",
         "metric": "constant",
         "operands": [
           "0"
@@ -1951,7 +1951,7 @@
       },
       {
         "label": "Philadelphia local tax (2.0%)",
-        "notes": "Philadelphia imposes an additional 2.0% local sales tax on sales sourced there. Defaults to 0 — TaxLocus v1 does not split taxable sales by delivery jurisdiction. If you have Philadelphia-sourced sales, compute 2.0% of that portion and enter it here.",
+        "notes": "Philadelphia imposes an additional 2.0% local sales tax on sales sourced there. Defaults to 0 because TaxLocus v1 does not split taxable sales by delivery jurisdiction. If you have Philadelphia-sourced sales, compute 2.0% of that portion and enter it here.",
         "metric": "constant",
         "operands": [
           "0"
@@ -1971,15 +1971,15 @@
         "computation": "percent_of"
       }
     ],
-    "notes": "PA-3 is filed through myPATH (monthly/quarterly/semi-annual by volume). State rate is 6.0%; Allegheny County adds 1.0% and Philadelphia adds 2.0% on sales sourced to those jurisdictions — both default to 0 here because TaxLocus v1 does not split taxable sales by delivery county/city. The 1% vendor discount is capped ($25/month, $75/quarter) and must be applied by hand. Pennsylvania broadly exempts clothing and most groceries — verify your taxability mapping reflects these before relying on the net-taxable figure."
+    "notes": "PA-3 is filed through myPATH (monthly/quarterly/semi-annual by volume). State rate is 6.0%; Allegheny County adds 1.0% and Philadelphia adds 2.0% on sales sourced to those jurisdictions, and both default to 0 here because TaxLocus v1 does not split taxable sales by delivery county/city. The 1% vendor discount is capped ($25/month, $75/quarter) and must be applied by hand. Pennsylvania broadly exempts clothing and most groceries, so verify your taxability mapping reflects these before relying on the net-taxable figure."
   },
   {
     "state_code": "RI",
-    "form_name": "T-204",
+    "form_name": "RI-STR",
     "form_title": "Rhode Island Sales and Use Tax Return",
-    "authority_url": "https://tax.ri.gov/tax-sections/sales-excise/sales-use-tax",
+    "authority_url": "https://tax.ri.gov/forms/business-tax-forms/sales-excise-forms",
     "effective_from": "2026-01-01",
-    "version": "v1",
+    "version": "v2",
     "lines": [
       {
         "label": "Gross sales",
@@ -2003,7 +2003,7 @@
       },
       {
         "label": "Net taxable sales",
-        "notes": "Gross minus exempt — the base for the 7.0% rate.",
+        "notes": "Gross minus exempt: the base for the 7.0% rate.",
         "metric": "taxable_sales",
         "operands": [
           "gross_sales",
@@ -2024,7 +2024,7 @@
         "computation": "percent_of"
       }
     ],
-    "notes": "RI Form T-204 reports the flat 7.0% rate. Rhode Island has no local sales tax. Clothing is exempt up to $250 per item (only the excess is taxable); food and prescription drugs are exempt; candy and soft drinks are taxable. SaaS (vendor-hosted prewritten software) is taxable."
+    "notes": "RI Form RI-STR (Sales and Use Tax Return) replaces the former T-204 series (effective January 2023 periods, per ADV 2023-04). Rhode Island has a flat 7.0% rate with no local sales tax. Clothing is exempt up to $250 per item (only the excess is taxable); food and prescription drugs are exempt; candy and soft drinks are taxable. SaaS (vendor-hosted prewritten software) is taxable. Re-verified 2026-06 against https://tax.ri.gov/forms/business-tax-forms/sales-excise-forms."
   },
   {
     "state_code": "SC",
@@ -2056,7 +2056,7 @@
       },
       {
         "label": "Net taxable sales",
-        "notes": "Gross minus deductions — the base for the 6.0% state rate.",
+        "notes": "Gross minus deductions: the base for the 6.0% state rate.",
         "metric": "taxable_sales",
         "operands": [
           "gross_sales",
@@ -2067,7 +2067,7 @@
       },
       {
         "label": "State sales tax (6.0%)",
-        "notes": "South Carolina state rate is 6.0%. Local option taxes (typically 1-2%) are reported per county on the ST-389 schedule — TaxLocus v1 does not split taxable sales by South Carolina county.",
+        "notes": "South Carolina state rate is 6.0%. Local option taxes (typically 1-2%) are reported per county on the ST-389 schedule; TaxLocus v1 does not split taxable sales by South Carolina county.",
         "metric": "computed",
         "operands": [
           "taxable_sales",
@@ -2089,7 +2089,7 @@
     "lines": [
       {
         "label": "Gross sales",
-        "notes": "Total gross sales for the period, including marketplace-facilitated sales. South Dakota has a broad base — services and groceries are taxable.",
+        "notes": "Total gross sales for the period, including marketplace-facilitated sales. South Dakota has a broad base: services and groceries are taxable.",
         "metric": "gross_sales",
         "operands": [
           "gross_sales"
@@ -2109,7 +2109,7 @@
       },
       {
         "label": "Net taxable sales",
-        "notes": "Gross minus exempt — the base for the 4.2% state rate.",
+        "notes": "Gross minus exempt: the base for the 4.2% state rate.",
         "metric": "taxable_sales",
         "operands": [
           "gross_sales",
@@ -2120,7 +2120,7 @@
       },
       {
         "label": "State sales tax (4.2%)",
-        "notes": "South Dakota state rate is 4.2% (reduced from 4.5% through 2027). Municipal taxes (up to 2%) are reported per jurisdiction — TaxLocus v1 does not split taxable sales by South Dakota municipality.",
+        "notes": "South Dakota state rate is 4.2% (reduced from 4.5% through 2027). Municipal taxes (up to 2%) are reported per jurisdiction; TaxLocus v1 does not split taxable sales by South Dakota municipality.",
         "metric": "computed",
         "operands": [
           "taxable_sales",
@@ -2130,7 +2130,7 @@
         "computation": "percent_of"
       }
     ],
-    "notes": "SD files the Sales and Use Tax Return through SD EPath. State rate is 4.2% (a temporary reduction from 4.5%, scheduled to expire after 2026). Municipal taxes are reported per jurisdiction and not split by v1. South Dakota has a broad base — services, SaaS, and groceries are all taxable (the IM 28 grocery exemption failed in Nov 2024)."
+    "notes": "SD files the Sales and Use Tax Return through SD EPath. State rate is 4.2% (a temporary reduction from 4.5%, scheduled to expire after 2026). Municipal taxes are reported per jurisdiction and not split by v1. South Dakota has a broad base: services, SaaS, and groceries are all taxable (the IM 28 grocery exemption failed in Nov 2024)."
   },
   {
     "state_code": "TN",
@@ -2162,7 +2162,7 @@
       },
       {
         "label": "Net taxable sales",
-        "notes": "Gross minus exempt — the base for the 7.0% state rate.",
+        "notes": "Gross minus exempt: the base for the 7.0% state rate.",
         "metric": "taxable_sales",
         "operands": [
           "gross_sales",
@@ -2173,7 +2173,7 @@
       },
       {
         "label": "State sales tax (7.0%)",
-        "notes": "Tennessee state rate is 7.0%. Local option taxes (2.25%-2.75%, capped on the first $1,600 per single article) are reported per jurisdiction on Form SLS-450 — TaxLocus v1 does not split taxable sales by Tennessee locality.",
+        "notes": "Tennessee state rate is 7.0%. Local option taxes (2.25%-2.75%, capped on the first $1,600 per single article) are reported per jurisdiction on Form SLS-450; TaxLocus v1 does not split taxable sales by Tennessee locality.",
         "metric": "computed",
         "operands": [
           "taxable_sales",
@@ -2195,7 +2195,7 @@
     "lines": [
       {
         "label": "Total Texas sales",
-        "notes": "Whole dollars only. Includes marketplace-facilitated sales — the marketplace facilitator remits the tax but the sale still flows on line 1 (see Form 01-922 instructions). Subtract marketplace sales on Form 01-148 if claiming a credit.",
+        "notes": "Whole dollars only. Includes marketplace-facilitated sales: the marketplace facilitator remits the tax, but the sale still flows on line 1 (see Form 01-922 instructions). Subtract marketplace sales on Form 01-148 if claiming a credit.",
         "metric": "gross_sales",
         "operands": [
           "gross_sales"
@@ -2215,7 +2215,7 @@
       },
       {
         "label": "Taxable purchases",
-        "notes": "Use-tax purchases TaxLocus cannot infer from the sales ledger — your own purchase records. Defaults to 0; override before filing if you owe use tax on out-of-state purchases.",
+        "notes": "Use-tax purchases TaxLocus cannot infer from the sales ledger; these come from your own purchase records. Defaults to 0; override before filing if you owe use tax on out-of-state purchases.",
         "metric": "constant",
         "operands": [
           "0"
@@ -2235,7 +2235,7 @@
       },
       {
         "label": "State tax due (6.25%)",
-        "notes": "State rate is 6.25% (0.062500). Multiply line 4 by 0.0625 — Texas does not allow rounding the rate.",
+        "notes": "State rate is 6.25% (0.062500). Multiply line 4 by 0.0625; Texas does not allow rounding the rate.",
         "metric": "computed",
         "operands": [
           "taxable_sales",
@@ -2267,7 +2267,7 @@
         "computation": "percent_of"
       }
     ],
-    "notes": "Texas marketplace-facilitator rule: marketplace-facilitated sales flow through line 1 (gross) but the facilitator remits the tax; claim credit via Form 01-148. Local tax (line 5/7b/8b) is omitted from v1 — TaxLocus does not yet aggregate local-rate splits per transaction (see plan 05 v2). Single state-rate filers cover the vast majority of TX returns."
+    "notes": "Texas marketplace-facilitator rule: marketplace-facilitated sales flow through line 1 (gross) but the facilitator remits the tax; claim credit via Form 01-148. Local tax (line 5/7b/8b) is omitted from v1 because TaxLocus does not yet aggregate local-rate splits per transaction (see plan 05 v2). Single state-rate filers cover the vast majority of TX returns."
   },
   {
     "state_code": "UT",
@@ -2299,7 +2299,7 @@
       },
       {
         "label": "Taxable sales",
-        "notes": "Total minus exempt — the base for the 4.85% state rate.",
+        "notes": "Total minus exempt: the base for the 4.85% state rate.",
         "metric": "taxable_sales",
         "operands": [
           "gross_sales",
@@ -2310,7 +2310,7 @@
       },
       {
         "label": "State sales tax (4.85%)",
-        "notes": "Utah state rate is 4.85%. Uniform local (1.0%), county (0.25%), and additional local taxes bring the combined statewide minimum to ~6.1%; these are reported per jurisdiction on Form TC-62S — TaxLocus v1 does not split taxable sales by Utah locality.",
+        "notes": "Utah state rate is 4.85%. Uniform local (1.0%), county (0.25%), and additional local taxes bring the combined statewide minimum to ~6.1%; these are reported per jurisdiction on Form TC-62S, and TaxLocus v1 does not split taxable sales by Utah locality.",
         "metric": "computed",
         "operands": [
           "taxable_sales",
@@ -2324,11 +2324,11 @@
   },
   {
     "state_code": "VA",
-    "form_name": "ST-9",
+    "form_name": "ST-1",
     "form_title": "Virginia Retail Sales and Use Tax Return",
-    "authority_url": "https://www.tax.virginia.gov/retail-sales-and-use-tax",
+    "authority_url": "https://www.tax.virginia.gov/sites/default/files/taxforms/sales-use-tax/any/st-1-any.pdf",
     "effective_from": "2026-01-01",
-    "version": "v1",
+    "version": "v2",
     "lines": [
       {
         "label": "Gross sales",
@@ -2352,7 +2352,7 @@
       },
       {
         "label": "Taxable sales",
-        "notes": "Gross sales minus exempt sales — the base for the state and local tax.",
+        "notes": "Gross sales minus exempt sales: the base for the state and local tax.",
         "metric": "taxable_sales",
         "operands": [
           "gross_sales",
@@ -2374,7 +2374,7 @@
       },
       {
         "label": "Local tax (1.0%)",
-        "notes": "Uniform 1.0% statewide local tax. Combined state + local minimum is 5.3%. Regional add-on taxes (Hampton Roads, Northern Virginia, Central Virginia, etc., +0.7% to +1.0%) apply on top in those regions and are reported separately — TaxLocus v1 does not split taxable sales by region.",
+        "notes": "Uniform 1.0% statewide local tax. Combined state + local minimum is 5.3%. Regional add-on taxes (Hampton Roads, Northern Virginia, Central Virginia, etc., +0.7% to +1.0%) apply on top in those regions and are reported separately; TaxLocus v1 does not split taxable sales by region.",
         "metric": "computed",
         "operands": [
           "taxable_sales",
@@ -2384,7 +2384,7 @@
         "computation": "percent_of"
       }
     ],
-    "notes": "VA Form ST-9 is the Retail Sales and Use Tax Return. The state rate is 4.3% plus a uniform 1.0% statewide local tax (5.3% combined minimum), both modeled here. Regional add-on transportation taxes (Hampton Roads, Northern Virginia, Central Virginia, etc.) apply in those regions on top of the 5.3% and are not split by v1. Virginia eliminated the state tax on groceries in 2023; groceries and essential personal hygiene products are taxed at the 1% reduced rate, reported separately. No timely-filing dealer discount is modeled (Virginia's dealer discount is volume-tiered and phased out for larger filers)."
+    "notes": "VA Form ST-1 replaces the former ST-9 (effective April 2025 filing periods). The state rate is 4.3% plus a uniform 1.0% statewide local tax (5.3% combined minimum), both modeled here. Regional add-on transportation taxes (Hampton Roads, Northern Virginia, Central Virginia, etc.) apply in those regions on top of the 5.3% and are not split by v1. Virginia eliminated the state tax on groceries in 2023; groceries and essential personal hygiene products are taxed at the 1% reduced rate, reported separately. No timely-filing dealer discount is modeled (Virginia's dealer discount is volume-tiered and phased out for larger filers). Re-verified 2026-06 against https://www.tax.virginia.gov/news/coming-soon-new-look-sales-tax-filing."
   },
   {
     "state_code": "VT",
@@ -2416,7 +2416,7 @@
       },
       {
         "label": "Net taxable sales",
-        "notes": "Gross minus exempt — the base for the 6.0% state rate.",
+        "notes": "Gross minus exempt: the base for the 6.0% state rate.",
         "metric": "taxable_sales",
         "operands": [
           "gross_sales",
@@ -2427,7 +2427,7 @@
       },
       {
         "label": "State sales tax (6.0%)",
-        "notes": "Vermont state rate is 6.0%. A 1% local option tax applies in some municipalities and is reported separately — TaxLocus v1 does not split taxable sales by Vermont municipality.",
+        "notes": "Vermont state rate is 6.0%. A 1% local option tax applies in some municipalities and is reported separately; TaxLocus v1 does not split taxable sales by Vermont municipality.",
         "metric": "computed",
         "operands": [
           "taxable_sales",
@@ -2442,7 +2442,7 @@
   {
     "state_code": "WA",
     "form_name": "CETR",
-    "form_title": "Washington Combined Excise Tax Return — Retail Sales Tax",
+    "form_title": "Washington Combined Excise Tax Return: Retail Sales Tax",
     "authority_url": "https://dor.wa.gov/file-pay-taxes/file-or-amend-my-return",
     "effective_from": "2026-01-01",
     "version": "v1",
@@ -2469,7 +2469,7 @@
       },
       {
         "label": "Taxable amount",
-        "notes": "Gross amount minus deductions — the base for the 6.5% state retail sales tax.",
+        "notes": "Gross amount minus deductions: the base for the 6.5% state retail sales tax.",
         "metric": "taxable_sales",
         "operands": [
           "gross_sales",
@@ -2480,7 +2480,7 @@
       },
       {
         "label": "State retail sales tax (6.5%)",
-        "notes": "Washington's state retail sales tax rate is 6.5%. The local sales tax is reported separately, per location code, on the Local Sales & Use Tax addendum at each location's combined local rate — TaxLocus v1 does not split taxable sales by WA location code, so the local addendum must be completed from your location-level sales. The state-portion figure here will be lower than the total tax once local is added.",
+        "notes": "Washington's state retail sales tax rate is 6.5%. The local sales tax is reported separately, per location code, on the Local Sales & Use Tax addendum at each location's combined local rate; TaxLocus v1 does not split taxable sales by WA location code, so the local addendum must be completed from your location-level sales. The state-portion figure here will be lower than the total tax once local is added.",
         "metric": "computed",
         "operands": [
           "taxable_sales",
@@ -2490,7 +2490,7 @@
         "computation": "percent_of"
       }
     ],
-    "notes": "WA files the Combined Excise Tax Return (CETR), which bundles Business & Occupation (B&O) tax, Retail Sales Tax, and Use Tax; only the retail-sales-tax section is mapped. Washington is destination-based: the local sales tax is reported per location code on the Local Sales & Use Tax addendum at each location's combined local rate, and v1 reports the 6.5% state portion only — complete the local addendum from your location-level sales. The B&O gross-receipts tax is a separate computation on the same return and is out of scope. Washington offers no timely-filing vendor discount for sales tax."
+    "notes": "WA files the Combined Excise Tax Return (CETR), which bundles Business & Occupation (B&O) tax, Retail Sales Tax, and Use Tax; only the retail-sales-tax section is mapped. Washington is destination-based: the local sales tax is reported per location code on the Local Sales & Use Tax addendum at each location's combined local rate, and v1 reports the 6.5% state portion only; complete the local addendum from your location-level sales. The B&O gross-receipts tax is a separate computation on the same return and is out of scope. Washington offers no timely-filing vendor discount for sales tax."
   },
   {
     "state_code": "WI",
@@ -2522,7 +2522,7 @@
       },
       {
         "label": "Taxable sales",
-        "notes": "Total minus exempt — the base for the 5.0% state rate.",
+        "notes": "Total minus exempt: the base for the 5.0% state rate.",
         "metric": "taxable_sales",
         "operands": [
           "gross_sales",
@@ -2533,7 +2533,7 @@
       },
       {
         "label": "State sales tax (5.0%)",
-        "notes": "Wisconsin state rate is 5.0%. County (0.5%) and special-district taxes (e.g. the Milwaukee local taxes) are reported per county on the ST-12 — TaxLocus v1 does not split taxable sales by Wisconsin county.",
+        "notes": "Wisconsin state rate is 5.0%. County (0.5%) and special-district taxes (e.g. the Milwaukee local taxes) are reported per county on the ST-12; TaxLocus v1 does not split taxable sales by Wisconsin county.",
         "metric": "computed",
         "operands": [
           "taxable_sales",
@@ -2575,7 +2575,7 @@
       },
       {
         "label": "Net taxable sales",
-        "notes": "Gross minus exemptions — the base for the 6.0% state rate.",
+        "notes": "Gross minus exemptions: the base for the 6.0% state rate.",
         "metric": "taxable_sales",
         "operands": [
           "gross_sales",
@@ -2586,7 +2586,7 @@
       },
       {
         "label": "State sales tax (6.0%)",
-        "notes": "West Virginia state rate is 6.0%. Municipal sales taxes (typically 1%) apply in many cities and are reported per municipality on the CST-200CU — TaxLocus v1 does not split taxable sales by West Virginia municipality.",
+        "notes": "West Virginia state rate is 6.0%. Municipal sales taxes (typically 1%) apply in many cities and are reported per municipality on the CST-200CU; TaxLocus v1 does not split taxable sales by West Virginia municipality.",
         "metric": "computed",
         "operands": [
           "taxable_sales",
@@ -2600,11 +2600,11 @@
   },
   {
     "state_code": "WY",
-    "form_name": "WY-SUT",
+    "form_name": "41-1",
     "form_title": "Wyoming Sales and Use Tax Return",
-    "authority_url": "https://revenue.wyo.gov/divisions/excise-tax-division",
+    "authority_url": "https://excise-tax-div.wyo.gov/",
     "effective_from": "2026-01-01",
-    "version": "v1",
+    "version": "v2",
     "lines": [
       {
         "label": "Gross sales",
@@ -2628,7 +2628,7 @@
       },
       {
         "label": "Net taxable sales",
-        "notes": "Gross minus exempt — the base for the 4.0% state rate.",
+        "notes": "Gross minus exempt: the base for the 4.0% state rate.",
         "metric": "taxable_sales",
         "operands": [
           "gross_sales",
@@ -2639,7 +2639,7 @@
       },
       {
         "label": "State sales tax (4.0%)",
-        "notes": "Wyoming state rate is 4.0%. County option taxes (typically 1-2%) are reported per county — TaxLocus v1 does not split taxable sales by Wyoming county.",
+        "notes": "Wyoming state rate is 4.0%. County option taxes (typically 1-2%) are reported per county; TaxLocus v1 does not split taxable sales by Wyoming county.",
         "metric": "computed",
         "operands": [
           "taxable_sales",
@@ -2649,6 +2649,6 @@
         "computation": "percent_of"
       }
     ],
-    "notes": "WY files the Sales and Use Tax Return with the Excise Tax Division. State rate is 4.0%; county option taxes (typically 1-2%) are reported per county and not split by v1. Wyoming exempts groceries; prepared food is taxable. Wyoming does not tax SaaS."
+    "notes": "WY Form 41-1 is the Sales and Use Tax Return for Licensed Vendors (monthly/quarterly); annual filers use Form 42-1. Filed via WYIFS (Wyoming Internet Filing System). State rate is 4.0%; county option taxes (typically 1-2%) are reported per county on Form 41-2 and not split by v1. Wyoming exempts groceries; prepared food is taxable. Wyoming does not tax SaaS. Re-verified 2026-06 against https://excise-tax-div.wyo.gov/new-vendor-packets."
   }
 ]

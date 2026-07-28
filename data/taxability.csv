@@ -194,9 +194,9 @@ CO,software.custom,,False,exempt,{}
 CO,software.prewritten,,True,taxable,{}
 CO,software.saas,,False,exempt,{}
 CT,clothing.accessories,"Handbags, belts, jewelry, watches.",True,taxable,{}
-CT,clothing.athletic,Sports and performance apparel; team uniforms; non-protective athletic gear.,True,conditional,"{""tax_holiday"": {""scope"": ""full"", ""windows"": [{""end"": ""2026-08-22"", ""start"": ""2026-08-16""}], ""price_cap_cents"": 10000}}"
-CT,clothing.formal,"Suits, gowns, ties, dress shirts not for everyday wear.",True,conditional,"{""tax_holiday"": {""scope"": ""full"", ""windows"": [{""end"": ""2026-08-22"", ""start"": ""2026-08-16""}], ""price_cap_cents"": 10000}}"
-CT,clothing.general,"Everyday wearing apparel; t-shirts, jeans, dresses, jackets.",True,conditional,"{""tax_holiday"": {""scope"": ""full"", ""windows"": [{""end"": ""2026-08-22"", ""start"": ""2026-08-16""}], ""price_cap_cents"": 10000}}"
+CT,clothing.athletic,Sports and performance apparel; team uniforms; non-protective athletic gear.,True,conditional,"{""tax_holiday"": {""scope"": ""full"", ""windows"": [{""end"": ""2026-08-22"", ""start"": ""2026-08-16""}], ""price_cap_cents"": 30000}}"
+CT,clothing.formal,"Suits, gowns, ties, dress shirts not for everyday wear.",True,conditional,"{""tax_holiday"": {""scope"": ""full"", ""windows"": [{""end"": ""2026-08-22"", ""start"": ""2026-08-16""}], ""price_cap_cents"": 30000}}"
+CT,clothing.general,"Everyday wearing apparel; t-shirts, jeans, dresses, jackets.",True,conditional,"{""tax_holiday"": {""scope"": ""full"", ""windows"": [{""end"": ""2026-08-22"", ""start"": ""2026-08-16""}], ""price_cap_cents"": 30000}}"
 CT,clothing.protective,"Helmets, safety boots, protective work gear, hazard equipment.",True,taxable,"{""note"": ""Industrial safety apparel may qualify for the manufacturing exemption.""}"
 CT,digital.download,"Permanent-license software, e-books, music downloads, games.",True,taxable,"{""note"": ""Digital goods and electronically delivered canned software taxable at the full 6.35% (since 2019).""}"
 CT,digital.saas,"Subscription software accessed via the web; CRMs, productivity tools.",True,reduced_rate,"{""note"": ""CT taxes SaaS as a computer and data processing service at the reduced 1% rate (Conn. Gen. Stat. 12-407/12-408)."", ""reduced_rate"": 0.01}"
@@ -1090,9 +1090,9 @@ NJ,software.custom,,False,exempt,{}
 NJ,software.prewritten,,True,taxable,{}
 NJ,software.saas,,False,exempt,{}
 NM,clothing.accessories,"Handbags, belts, jewelry, watches.",True,taxable,{}
-NM,clothing.athletic,Sports and performance apparel; team uniforms; non-protective athletic gear.,True,conditional,"{""tax_holiday"": {""scope"": ""full"", ""windows"": [{""end"": ""2026-08-09"", ""start"": ""2026-08-07""}], ""price_cap_cents"": 10000}}"
-NM,clothing.formal,"Suits, gowns, ties, dress shirts not for everyday wear.",True,conditional,"{""tax_holiday"": {""scope"": ""full"", ""windows"": [{""end"": ""2026-08-09"", ""start"": ""2026-08-07""}], ""price_cap_cents"": 10000}}"
-NM,clothing.general,"Everyday wearing apparel; t-shirts, jeans, dresses, jackets.",True,conditional,"{""tax_holiday"": {""scope"": ""full"", ""windows"": [{""end"": ""2026-08-09"", ""start"": ""2026-08-07""}], ""price_cap_cents"": 10000}}"
+NM,clothing.athletic,Sports and performance apparel; team uniforms; non-protective athletic gear.,True,conditional,"{""tax_holiday"": {""scope"": ""full"", ""windows"": [{""end"": ""2026-08-02"", ""start"": ""2026-07-31""}], ""price_cap_cents"": 10000}}"
+NM,clothing.formal,"Suits, gowns, ties, dress shirts not for everyday wear.",True,conditional,"{""tax_holiday"": {""scope"": ""full"", ""windows"": [{""end"": ""2026-08-02"", ""start"": ""2026-07-31""}], ""price_cap_cents"": 10000}}"
+NM,clothing.general,"Everyday wearing apparel; t-shirts, jeans, dresses, jackets.",True,conditional,"{""tax_holiday"": {""scope"": ""full"", ""windows"": [{""end"": ""2026-08-02"", ""start"": ""2026-07-31""}], ""price_cap_cents"": 10000}}"
 NM,clothing.protective,"Helmets, safety boots, protective work gear, hazard equipment.",True,taxable,{}
 NM,digital.download,"Permanent-license software, e-books, music downloads, games.",True,taxable,"{""note"": ""NM GRT applies to digital products.""}"
 NM,digital.saas,"Subscription software accessed via the web; CRMs, productivity tools.",True,taxable,"{""note"": ""NM GRT applies to services including SaaS (broad services base).""}"

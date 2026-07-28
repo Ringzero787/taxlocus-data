@@ -1737,7 +1737,7 @@
             "start": "2026-08-16"
           }
         ],
-        "price_cap_cents": 10000
+        "price_cap_cents": 30000
       }
     }
   },
@@ -1756,7 +1756,7 @@
             "start": "2026-08-16"
           }
         ],
-        "price_cap_cents": 10000
+        "price_cap_cents": 30000
       }
     }
   },
@@ -1775,7 +1775,7 @@
             "start": "2026-08-16"
           }
         ],
-        "price_cap_cents": 10000
+        "price_cap_cents": 30000
       }
     }
   },
@@ -9550,8 +9550,8 @@
         "scope": "full",
         "windows": [
           {
-            "end": "2026-08-09",
-            "start": "2026-08-07"
+            "end": "2026-08-02",
+            "start": "2026-07-31"
           }
         ],
         "price_cap_cents": 10000
@@ -9569,8 +9569,8 @@
         "scope": "full",
         "windows": [
           {
-            "end": "2026-08-09",
-            "start": "2026-08-07"
+            "end": "2026-08-02",
+            "start": "2026-07-31"
           }
         ],
         "price_cap_cents": 10000
@@ -9588,8 +9588,8 @@
         "scope": "full",
         "windows": [
           {
-            "end": "2026-08-09",
-            "start": "2026-08-07"
+            "end": "2026-08-02",
+            "start": "2026-07-31"
           }
         ],
         "price_cap_cents": 10000
