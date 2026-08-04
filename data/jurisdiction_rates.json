@@ -3112,7 +3112,7 @@
     "jurisdiction_type": "city",
     "name": "Rogersville",
     "fips_code": null,
-    "rate": 0.02
+    "rate": 0.03
   },
   {
     "state": "AL",
@@ -7662,7 +7662,7 @@
     "jurisdiction_type": "city",
     "name": "Huachuca City",
     "fips_code": null,
-    "rate": 0.019
+    "rate": 0.029
   },
   {
     "state": "AZ",
@@ -11414,21 +11414,7 @@
     "jurisdiction_type": "special_district",
     "name": "Unincorporated (CDTFA tax area)",
     "fips_code": null,
-    "rate": 0.02
-  },
-  {
-    "state": "CA",
-    "jurisdiction_type": "special_district",
-    "name": "Unincorporated (CDTFA tax area)",
-    "fips_code": null,
-    "rate": 0.03
-  },
-  {
-    "state": "CA",
-    "jurisdiction_type": "special_district",
-    "name": "Unincorporated (CDTFA tax area)",
-    "fips_code": null,
-    "rate": 0.0
+    "rate": 0.00625
   },
   {
     "state": "CA",
@@ -11442,7 +11428,21 @@
     "jurisdiction_type": "special_district",
     "name": "Unincorporated (CDTFA tax area)",
     "fips_code": null,
+    "rate": 0.0
+  },
+  {
+    "state": "CA",
+    "jurisdiction_type": "special_district",
+    "name": "Unincorporated (CDTFA tax area)",
+    "fips_code": null,
     "rate": 0.01
+  },
+  {
+    "state": "CA",
+    "jurisdiction_type": "special_district",
+    "name": "Unincorporated (CDTFA tax area)",
+    "fips_code": null,
+    "rate": 0.03
   },
   {
     "state": "CA",
@@ -11547,195 +11547,6 @@
     "jurisdiction_type": "special_district",
     "name": "Unincorporated (CDTFA tax area)",
     "fips_code": null,
-    "rate": 0.01
-  },
-  {
-    "state": "CA",
-    "jurisdiction_type": "special_district",
-    "name": "Unincorporated (CDTFA tax area)",
-    "fips_code": null,
-    "rate": 0.0
-  },
-  {
-    "state": "CA",
-    "jurisdiction_type": "special_district",
-    "name": "Unincorporated (CDTFA tax area)",
-    "fips_code": null,
-    "rate": 0.0
-  },
-  {
-    "state": "CA",
-    "jurisdiction_type": "special_district",
-    "name": "Unincorporated (CDTFA tax area)",
-    "fips_code": null,
-    "rate": 0.0
-  },
-  {
-    "state": "CA",
-    "jurisdiction_type": "special_district",
-    "name": "Unincorporated (CDTFA tax area)",
-    "fips_code": null,
-    "rate": 0.005
-  },
-  {
-    "state": "CA",
-    "jurisdiction_type": "special_district",
-    "name": "Unincorporated (CDTFA tax area)",
-    "fips_code": null,
-    "rate": 0.0
-  },
-  {
-    "state": "CA",
-    "jurisdiction_type": "special_district",
-    "name": "Unincorporated (CDTFA tax area)",
-    "fips_code": null,
-    "rate": 0.0
-  },
-  {
-    "state": "CA",
-    "jurisdiction_type": "special_district",
-    "name": "Unincorporated (CDTFA tax area)",
-    "fips_code": null,
-    "rate": 0.0
-  },
-  {
-    "state": "CA",
-    "jurisdiction_type": "special_district",
-    "name": "Unincorporated (CDTFA tax area)",
-    "fips_code": null,
-    "rate": 0.00625
-  },
-  {
-    "state": "CA",
-    "jurisdiction_type": "special_district",
-    "name": "Unincorporated (CDTFA tax area)",
-    "fips_code": null,
-    "rate": 0.00125
-  },
-  {
-    "state": "CA",
-    "jurisdiction_type": "special_district",
-    "name": "Unincorporated (CDTFA tax area)",
-    "fips_code": null,
-    "rate": 0.0
-  },
-  {
-    "state": "CA",
-    "jurisdiction_type": "special_district",
-    "name": "Unincorporated (CDTFA tax area)",
-    "fips_code": null,
-    "rate": 0.0
-  },
-  {
-    "state": "CA",
-    "jurisdiction_type": "special_district",
-    "name": "Unincorporated (CDTFA tax area)",
-    "fips_code": null,
-    "rate": 0.0
-  },
-  {
-    "state": "CA",
-    "jurisdiction_type": "special_district",
-    "name": "Unincorporated (CDTFA tax area)",
-    "fips_code": null,
-    "rate": 0.0225
-  },
-  {
-    "state": "CA",
-    "jurisdiction_type": "special_district",
-    "name": "Unincorporated (CDTFA tax area)",
-    "fips_code": null,
-    "rate": 0.025
-  },
-  {
-    "state": "CA",
-    "jurisdiction_type": "special_district",
-    "name": "Unincorporated (CDTFA tax area)",
-    "fips_code": null,
-    "rate": 0.005
-  },
-  {
-    "state": "CA",
-    "jurisdiction_type": "special_district",
-    "name": "Unincorporated (CDTFA tax area)",
-    "fips_code": null,
-    "rate": 0.02125
-  },
-  {
-    "state": "CA",
-    "jurisdiction_type": "special_district",
-    "name": "Unincorporated (CDTFA tax area)",
-    "fips_code": null,
-    "rate": 0.0
-  },
-  {
-    "state": "CA",
-    "jurisdiction_type": "special_district",
-    "name": "Unincorporated (CDTFA tax area)",
-    "fips_code": null,
-    "rate": 0.005
-  },
-  {
-    "state": "CA",
-    "jurisdiction_type": "special_district",
-    "name": "Unincorporated (CDTFA tax area)",
-    "fips_code": null,
-    "rate": 0.005
-  },
-  {
-    "state": "CA",
-    "jurisdiction_type": "special_district",
-    "name": "Unincorporated (CDTFA tax area)",
-    "fips_code": null,
-    "rate": 0.005
-  },
-  {
-    "state": "CA",
-    "jurisdiction_type": "special_district",
-    "name": "Unincorporated (CDTFA tax area)",
-    "fips_code": null,
-    "rate": 0.01
-  },
-  {
-    "state": "CA",
-    "jurisdiction_type": "special_district",
-    "name": "Unincorporated (CDTFA tax area)",
-    "fips_code": null,
-    "rate": 0.005
-  },
-  {
-    "state": "CA",
-    "jurisdiction_type": "special_district",
-    "name": "Unincorporated (CDTFA tax area)",
-    "fips_code": null,
-    "rate": 0.005
-  },
-  {
-    "state": "CA",
-    "jurisdiction_type": "special_district",
-    "name": "Unincorporated (CDTFA tax area)",
-    "fips_code": null,
-    "rate": 0.0
-  },
-  {
-    "state": "CA",
-    "jurisdiction_type": "special_district",
-    "name": "Unincorporated (CDTFA tax area)",
-    "fips_code": null,
-    "rate": 0.0
-  },
-  {
-    "state": "CA",
-    "jurisdiction_type": "special_district",
-    "name": "Unincorporated (CDTFA tax area)",
-    "fips_code": null,
-    "rate": 0.005
-  },
-  {
-    "state": "CA",
-    "jurisdiction_type": "special_district",
-    "name": "Unincorporated (CDTFA tax area)",
-    "fips_code": null,
     "rate": 0.025
   },
   {
@@ -11758,13 +11569,6 @@
     "name": "Unincorporated (CDTFA tax area)",
     "fips_code": null,
     "rate": 0.01
-  },
-  {
-    "state": "CA",
-    "jurisdiction_type": "special_district",
-    "name": "Unincorporated (CDTFA tax area)",
-    "fips_code": null,
-    "rate": 0.00625
   },
   {
     "state": "CA",
@@ -11807,6 +11611,202 @@
     "name": "Unincorporated (CDTFA tax area)",
     "fips_code": null,
     "rate": 0.0025
+  },
+  {
+    "state": "CA",
+    "jurisdiction_type": "special_district",
+    "name": "Unincorporated (CDTFA tax area)",
+    "fips_code": null,
+    "rate": 0.005
+  },
+  {
+    "state": "CA",
+    "jurisdiction_type": "special_district",
+    "name": "Unincorporated (CDTFA tax area)",
+    "fips_code": null,
+    "rate": 0.0
+  },
+  {
+    "state": "CA",
+    "jurisdiction_type": "special_district",
+    "name": "Unincorporated (CDTFA tax area)",
+    "fips_code": null,
+    "rate": 0.0
+  },
+  {
+    "state": "CA",
+    "jurisdiction_type": "special_district",
+    "name": "Unincorporated (CDTFA tax area)",
+    "fips_code": null,
+    "rate": 0.005
+  },
+  {
+    "state": "CA",
+    "jurisdiction_type": "special_district",
+    "name": "Unincorporated (CDTFA tax area)",
+    "fips_code": null,
+    "rate": 0.005
+  },
+  {
+    "state": "CA",
+    "jurisdiction_type": "special_district",
+    "name": "Unincorporated (CDTFA tax area)",
+    "fips_code": null,
+    "rate": 0.01
+  },
+  {
+    "state": "CA",
+    "jurisdiction_type": "special_district",
+    "name": "Unincorporated (CDTFA tax area)",
+    "fips_code": null,
+    "rate": 0.005
+  },
+  {
+    "state": "CA",
+    "jurisdiction_type": "special_district",
+    "name": "Unincorporated (CDTFA tax area)",
+    "fips_code": null,
+    "rate": 0.005
+  },
+  {
+    "state": "CA",
+    "jurisdiction_type": "special_district",
+    "name": "Unincorporated (CDTFA tax area)",
+    "fips_code": null,
+    "rate": 0.005
+  },
+  {
+    "state": "CA",
+    "jurisdiction_type": "special_district",
+    "name": "Unincorporated (CDTFA tax area)",
+    "fips_code": null,
+    "rate": 0.0
+  },
+  {
+    "state": "CA",
+    "jurisdiction_type": "special_district",
+    "name": "Unincorporated (CDTFA tax area)",
+    "fips_code": null,
+    "rate": 0.02125
+  },
+  {
+    "state": "CA",
+    "jurisdiction_type": "special_district",
+    "name": "Unincorporated (CDTFA tax area)",
+    "fips_code": null,
+    "rate": 0.005
+  },
+  {
+    "state": "CA",
+    "jurisdiction_type": "special_district",
+    "name": "Unincorporated (CDTFA tax area)",
+    "fips_code": null,
+    "rate": 0.025
+  },
+  {
+    "state": "CA",
+    "jurisdiction_type": "special_district",
+    "name": "Unincorporated (CDTFA tax area)",
+    "fips_code": null,
+    "rate": 0.0225
+  },
+  {
+    "state": "CA",
+    "jurisdiction_type": "special_district",
+    "name": "Unincorporated (CDTFA tax area)",
+    "fips_code": null,
+    "rate": 0.0
+  },
+  {
+    "state": "CA",
+    "jurisdiction_type": "special_district",
+    "name": "Unincorporated (CDTFA tax area)",
+    "fips_code": null,
+    "rate": 0.0
+  },
+  {
+    "state": "CA",
+    "jurisdiction_type": "special_district",
+    "name": "Unincorporated (CDTFA tax area)",
+    "fips_code": null,
+    "rate": 0.0
+  },
+  {
+    "state": "CA",
+    "jurisdiction_type": "special_district",
+    "name": "Unincorporated (CDTFA tax area)",
+    "fips_code": null,
+    "rate": 0.00125
+  },
+  {
+    "state": "CA",
+    "jurisdiction_type": "special_district",
+    "name": "Unincorporated (CDTFA tax area)",
+    "fips_code": null,
+    "rate": 0.02
+  },
+  {
+    "state": "CA",
+    "jurisdiction_type": "special_district",
+    "name": "Unincorporated (CDTFA tax area)",
+    "fips_code": null,
+    "rate": 0.00625
+  },
+  {
+    "state": "CA",
+    "jurisdiction_type": "special_district",
+    "name": "Unincorporated (CDTFA tax area)",
+    "fips_code": null,
+    "rate": 0.0
+  },
+  {
+    "state": "CA",
+    "jurisdiction_type": "special_district",
+    "name": "Unincorporated (CDTFA tax area)",
+    "fips_code": null,
+    "rate": 0.0
+  },
+  {
+    "state": "CA",
+    "jurisdiction_type": "special_district",
+    "name": "Unincorporated (CDTFA tax area)",
+    "fips_code": null,
+    "rate": 0.0
+  },
+  {
+    "state": "CA",
+    "jurisdiction_type": "special_district",
+    "name": "Unincorporated (CDTFA tax area)",
+    "fips_code": null,
+    "rate": 0.005
+  },
+  {
+    "state": "CA",
+    "jurisdiction_type": "special_district",
+    "name": "Unincorporated (CDTFA tax area)",
+    "fips_code": null,
+    "rate": 0.01
+  },
+  {
+    "state": "CA",
+    "jurisdiction_type": "special_district",
+    "name": "Unincorporated (CDTFA tax area)",
+    "fips_code": null,
+    "rate": 0.0
+  },
+  {
+    "state": "CA",
+    "jurisdiction_type": "special_district",
+    "name": "Unincorporated (CDTFA tax area)",
+    "fips_code": null,
+    "rate": 0.0
+  },
+  {
+    "state": "CA",
+    "jurisdiction_type": "special_district",
+    "name": "Unincorporated (CDTFA tax area)",
+    "fips_code": null,
+    "rate": 0.0
   },
   {
     "state": "CA",
@@ -12282,14 +12282,14 @@
     "jurisdiction_type": "city",
     "name": "Bow Mar (Mail Via Littleton)",
     "fips_code": null,
-    "rate": 0.016
+    "rate": 0.0135
   },
   {
     "state": "CO",
     "jurisdiction_type": "city",
     "name": "Bow Mar (Mail Via Littleton)",
     "fips_code": null,
-    "rate": 0.0135
+    "rate": 0.016
   },
   {
     "state": "CO",
@@ -14235,14 +14235,14 @@
     "jurisdiction_type": "city",
     "name": "Superior (Mail Via Louisville)",
     "fips_code": null,
-    "rate": 0.0538
+    "rate": 0.06215
   },
   {
     "state": "CO",
     "jurisdiction_type": "city",
     "name": "Superior (Mail Via Louisville)",
     "fips_code": null,
-    "rate": 0.06215
+    "rate": 0.0538
   },
   {
     "state": "CO",
@@ -14291,41 +14291,6 @@
     "jurisdiction_type": "city",
     "name": "Unincorporated",
     "fips_code": null,
-    "rate": 0.02
-  },
-  {
-    "state": "CO",
-    "jurisdiction_type": "city",
-    "name": "Unincorporated",
-    "fips_code": null,
-    "rate": 0.01
-  },
-  {
-    "state": "CO",
-    "jurisdiction_type": "city",
-    "name": "Unincorporated",
-    "fips_code": null,
-    "rate": 0.0
-  },
-  {
-    "state": "CO",
-    "jurisdiction_type": "city",
-    "name": "Unincorporated",
-    "fips_code": null,
-    "rate": 0.0223
-  },
-  {
-    "state": "CO",
-    "jurisdiction_type": "city",
-    "name": "Unincorporated",
-    "fips_code": null,
-    "rate": 0.015
-  },
-  {
-    "state": "CO",
-    "jurisdiction_type": "city",
-    "name": "Unincorporated",
-    "fips_code": null,
     "rate": 0.0105
   },
   {
@@ -14333,112 +14298,7 @@
     "jurisdiction_type": "city",
     "name": "Unincorporated",
     "fips_code": null,
-    "rate": 0.02435
-  },
-  {
-    "state": "CO",
-    "jurisdiction_type": "city",
-    "name": "Unincorporated",
-    "fips_code": null,
-    "rate": 0.0237
-  },
-  {
-    "state": "CO",
-    "jurisdiction_type": "city",
-    "name": "Unincorporated",
-    "fips_code": null,
-    "rate": 0.01
-  },
-  {
-    "state": "CO",
-    "jurisdiction_type": "city",
-    "name": "Unincorporated",
-    "fips_code": null,
-    "rate": 0.0135
-  },
-  {
-    "state": "CO",
-    "jurisdiction_type": "city",
-    "name": "Unincorporated",
-    "fips_code": null,
-    "rate": 0.016
-  },
-  {
-    "state": "CO",
-    "jurisdiction_type": "city",
-    "name": "Unincorporated",
-    "fips_code": null,
-    "rate": 0.0185
-  },
-  {
-    "state": "CO",
-    "jurisdiction_type": "city",
-    "name": "Unincorporated",
-    "fips_code": null,
-    "rate": 0.01
-  },
-  {
-    "state": "CO",
-    "jurisdiction_type": "city",
-    "name": "Unincorporated",
-    "fips_code": null,
-    "rate": 0.025
-  },
-  {
-    "state": "CO",
-    "jurisdiction_type": "city",
-    "name": "Unincorporated",
-    "fips_code": null,
-    "rate": 0.0
-  },
-  {
-    "state": "CO",
-    "jurisdiction_type": "city",
-    "name": "Unincorporated",
-    "fips_code": null,
-    "rate": 0.03
-  },
-  {
-    "state": "CO",
-    "jurisdiction_type": "city",
-    "name": "Unincorporated",
-    "fips_code": null,
-    "rate": 0.01
-  },
-  {
-    "state": "CO",
-    "jurisdiction_type": "city",
-    "name": "Unincorporated",
-    "fips_code": null,
-    "rate": 0.036
-  },
-  {
-    "state": "CO",
-    "jurisdiction_type": "city",
-    "name": "Unincorporated",
-    "fips_code": null,
-    "rate": 0.0
-  },
-  {
-    "state": "CO",
-    "jurisdiction_type": "city",
-    "name": "Unincorporated",
-    "fips_code": null,
-    "rate": 0.03
-  },
-  {
-    "state": "CO",
-    "jurisdiction_type": "city",
-    "name": "Unincorporated",
-    "fips_code": null,
-    "rate": 0.0175
-  },
-  {
-    "state": "CO",
-    "jurisdiction_type": "city",
-    "name": "Unincorporated",
-    "fips_code": null,
-    "rate": 0.0
+    "rate": 0.05
   },
   {
     "state": "CO",
@@ -14446,251 +14306,6 @@
     "name": "Unincorporated",
     "fips_code": null,
     "rate": 0.026
-  },
-  {
-    "state": "CO",
-    "jurisdiction_type": "city",
-    "name": "Unincorporated",
-    "fips_code": null,
-    "rate": 0.0125
-  },
-  {
-    "state": "CO",
-    "jurisdiction_type": "city",
-    "name": "Unincorporated",
-    "fips_code": null,
-    "rate": 0.02
-  },
-  {
-    "state": "CO",
-    "jurisdiction_type": "city",
-    "name": "Unincorporated",
-    "fips_code": null,
-    "rate": 0.0
-  },
-  {
-    "state": "CO",
-    "jurisdiction_type": "city",
-    "name": "Unincorporated",
-    "fips_code": null,
-    "rate": 0.015
-  },
-  {
-    "state": "CO",
-    "jurisdiction_type": "city",
-    "name": "Unincorporated",
-    "fips_code": null,
-    "rate": 0.01
-  },
-  {
-    "state": "CO",
-    "jurisdiction_type": "city",
-    "name": "Unincorporated",
-    "fips_code": null,
-    "rate": 0.01
-  },
-  {
-    "state": "CO",
-    "jurisdiction_type": "city",
-    "name": "Unincorporated",
-    "fips_code": null,
-    "rate": 0.03
-  },
-  {
-    "state": "CO",
-    "jurisdiction_type": "city",
-    "name": "Unincorporated",
-    "fips_code": null,
-    "rate": 0.0275
-  },
-  {
-    "state": "CO",
-    "jurisdiction_type": "city",
-    "name": "Unincorporated",
-    "fips_code": null,
-    "rate": 0.01
-  },
-  {
-    "state": "CO",
-    "jurisdiction_type": "city",
-    "name": "Unincorporated",
-    "fips_code": null,
-    "rate": 0.025
-  },
-  {
-    "state": "CO",
-    "jurisdiction_type": "city",
-    "name": "Unincorporated",
-    "fips_code": null,
-    "rate": 0.02
-  },
-  {
-    "state": "CO",
-    "jurisdiction_type": "city",
-    "name": "Unincorporated",
-    "fips_code": null,
-    "rate": 0.01
-  },
-  {
-    "state": "CO",
-    "jurisdiction_type": "city",
-    "name": "Unincorporated",
-    "fips_code": null,
-    "rate": 0.02
-  },
-  {
-    "state": "CO",
-    "jurisdiction_type": "city",
-    "name": "Unincorporated",
-    "fips_code": null,
-    "rate": 0.03
-  },
-  {
-    "state": "CO",
-    "jurisdiction_type": "city",
-    "name": "Unincorporated",
-    "fips_code": null,
-    "rate": 0.02
-  },
-  {
-    "state": "CO",
-    "jurisdiction_type": "city",
-    "name": "Unincorporated",
-    "fips_code": null,
-    "rate": 0.035
-  },
-  {
-    "state": "CO",
-    "jurisdiction_type": "city",
-    "name": "Unincorporated",
-    "fips_code": null,
-    "rate": 0.04
-  },
-  {
-    "state": "CO",
-    "jurisdiction_type": "city",
-    "name": "Unincorporated",
-    "fips_code": null,
-    "rate": 0.02
-  },
-  {
-    "state": "CO",
-    "jurisdiction_type": "city",
-    "name": "Unincorporated",
-    "fips_code": null,
-    "rate": 0.01
-  },
-  {
-    "state": "CO",
-    "jurisdiction_type": "city",
-    "name": "Unincorporated",
-    "fips_code": null,
-    "rate": 0.02
-  },
-  {
-    "state": "CO",
-    "jurisdiction_type": "city",
-    "name": "Unincorporated",
-    "fips_code": null,
-    "rate": 0.0
-  },
-  {
-    "state": "CO",
-    "jurisdiction_type": "city",
-    "name": "Unincorporated",
-    "fips_code": null,
-    "rate": 0.0
-  },
-  {
-    "state": "CO",
-    "jurisdiction_type": "city",
-    "name": "Unincorporated",
-    "fips_code": null,
-    "rate": 0.021
-  },
-  {
-    "state": "CO",
-    "jurisdiction_type": "city",
-    "name": "Unincorporated",
-    "fips_code": null,
-    "rate": 0.04
-  },
-  {
-    "state": "CO",
-    "jurisdiction_type": "city",
-    "name": "Unincorporated",
-    "fips_code": null,
-    "rate": 0.036
-  },
-  {
-    "state": "CO",
-    "jurisdiction_type": "city",
-    "name": "Unincorporated",
-    "fips_code": null,
-    "rate": 0.0207
-  },
-  {
-    "state": "CO",
-    "jurisdiction_type": "city",
-    "name": "Unincorporated",
-    "fips_code": null,
-    "rate": 0.0265
-  },
-  {
-    "state": "CO",
-    "jurisdiction_type": "city",
-    "name": "Unincorporated",
-    "fips_code": null,
-    "rate": 0.02
-  },
-  {
-    "state": "CO",
-    "jurisdiction_type": "city",
-    "name": "Unincorporated",
-    "fips_code": null,
-    "rate": 0.013
-  },
-  {
-    "state": "CO",
-    "jurisdiction_type": "city",
-    "name": "Unincorporated",
-    "fips_code": null,
-    "rate": 0.065
-  },
-  {
-    "state": "CO",
-    "jurisdiction_type": "city",
-    "name": "Unincorporated",
-    "fips_code": null,
-    "rate": 0.0255
-  },
-  {
-    "state": "CO",
-    "jurisdiction_type": "city",
-    "name": "Unincorporated",
-    "fips_code": null,
-    "rate": 0.0425
-  },
-  {
-    "state": "CO",
-    "jurisdiction_type": "city",
-    "name": "Unincorporated",
-    "fips_code": null,
-    "rate": 0.0
-  },
-  {
-    "state": "CO",
-    "jurisdiction_type": "city",
-    "name": "Unincorporated",
-    "fips_code": null,
-    "rate": 0.04
-  },
-  {
-    "state": "CO",
-    "jurisdiction_type": "city",
-    "name": "Unincorporated",
-    "fips_code": null,
-    "rate": 0.0
   },
   {
     "state": "CO",
@@ -14704,6 +14319,258 @@
     "jurisdiction_type": "city",
     "name": "Unincorporated",
     "fips_code": null,
+    "rate": 0.0
+  },
+  {
+    "state": "CO",
+    "jurisdiction_type": "city",
+    "name": "Unincorporated",
+    "fips_code": null,
+    "rate": 0.04
+  },
+  {
+    "state": "CO",
+    "jurisdiction_type": "city",
+    "name": "Unincorporated",
+    "fips_code": null,
+    "rate": 0.0
+  },
+  {
+    "state": "CO",
+    "jurisdiction_type": "city",
+    "name": "Unincorporated",
+    "fips_code": null,
+    "rate": 0.0425
+  },
+  {
+    "state": "CO",
+    "jurisdiction_type": "city",
+    "name": "Unincorporated",
+    "fips_code": null,
+    "rate": 0.0255
+  },
+  {
+    "state": "CO",
+    "jurisdiction_type": "city",
+    "name": "Unincorporated",
+    "fips_code": null,
+    "rate": 0.065
+  },
+  {
+    "state": "CO",
+    "jurisdiction_type": "city",
+    "name": "Unincorporated",
+    "fips_code": null,
+    "rate": 0.013
+  },
+  {
+    "state": "CO",
+    "jurisdiction_type": "city",
+    "name": "Unincorporated",
+    "fips_code": null,
+    "rate": 0.02
+  },
+  {
+    "state": "CO",
+    "jurisdiction_type": "city",
+    "name": "Unincorporated",
+    "fips_code": null,
+    "rate": 0.0265
+  },
+  {
+    "state": "CO",
+    "jurisdiction_type": "city",
+    "name": "Unincorporated",
+    "fips_code": null,
+    "rate": 0.0207
+  },
+  {
+    "state": "CO",
+    "jurisdiction_type": "city",
+    "name": "Unincorporated",
+    "fips_code": null,
+    "rate": 0.036
+  },
+  {
+    "state": "CO",
+    "jurisdiction_type": "city",
+    "name": "Unincorporated",
+    "fips_code": null,
+    "rate": 0.04
+  },
+  {
+    "state": "CO",
+    "jurisdiction_type": "city",
+    "name": "Unincorporated",
+    "fips_code": null,
+    "rate": 0.021
+  },
+  {
+    "state": "CO",
+    "jurisdiction_type": "city",
+    "name": "Unincorporated",
+    "fips_code": null,
+    "rate": 0.0
+  },
+  {
+    "state": "CO",
+    "jurisdiction_type": "city",
+    "name": "Unincorporated",
+    "fips_code": null,
+    "rate": 0.0
+  },
+  {
+    "state": "CO",
+    "jurisdiction_type": "city",
+    "name": "Unincorporated",
+    "fips_code": null,
+    "rate": 0.02
+  },
+  {
+    "state": "CO",
+    "jurisdiction_type": "city",
+    "name": "Unincorporated",
+    "fips_code": null,
+    "rate": 0.01
+  },
+  {
+    "state": "CO",
+    "jurisdiction_type": "city",
+    "name": "Unincorporated",
+    "fips_code": null,
+    "rate": 0.02
+  },
+  {
+    "state": "CO",
+    "jurisdiction_type": "city",
+    "name": "Unincorporated",
+    "fips_code": null,
+    "rate": 0.04
+  },
+  {
+    "state": "CO",
+    "jurisdiction_type": "city",
+    "name": "Unincorporated",
+    "fips_code": null,
+    "rate": 0.035
+  },
+  {
+    "state": "CO",
+    "jurisdiction_type": "city",
+    "name": "Unincorporated",
+    "fips_code": null,
+    "rate": 0.02
+  },
+  {
+    "state": "CO",
+    "jurisdiction_type": "city",
+    "name": "Unincorporated",
+    "fips_code": null,
+    "rate": 0.03
+  },
+  {
+    "state": "CO",
+    "jurisdiction_type": "city",
+    "name": "Unincorporated",
+    "fips_code": null,
+    "rate": 0.02
+  },
+  {
+    "state": "CO",
+    "jurisdiction_type": "city",
+    "name": "Unincorporated",
+    "fips_code": null,
+    "rate": 0.01
+  },
+  {
+    "state": "CO",
+    "jurisdiction_type": "city",
+    "name": "Unincorporated",
+    "fips_code": null,
+    "rate": 0.02
+  },
+  {
+    "state": "CO",
+    "jurisdiction_type": "city",
+    "name": "Unincorporated",
+    "fips_code": null,
+    "rate": 0.025
+  },
+  {
+    "state": "CO",
+    "jurisdiction_type": "city",
+    "name": "Unincorporated",
+    "fips_code": null,
+    "rate": 0.01
+  },
+  {
+    "state": "CO",
+    "jurisdiction_type": "city",
+    "name": "Unincorporated",
+    "fips_code": null,
+    "rate": 0.02
+  },
+  {
+    "state": "CO",
+    "jurisdiction_type": "city",
+    "name": "Unincorporated",
+    "fips_code": null,
+    "rate": 0.0275
+  },
+  {
+    "state": "CO",
+    "jurisdiction_type": "city",
+    "name": "Unincorporated",
+    "fips_code": null,
+    "rate": 0.03
+  },
+  {
+    "state": "CO",
+    "jurisdiction_type": "city",
+    "name": "Unincorporated",
+    "fips_code": null,
+    "rate": 0.01
+  },
+  {
+    "state": "CO",
+    "jurisdiction_type": "city",
+    "name": "Unincorporated",
+    "fips_code": null,
+    "rate": 0.01
+  },
+  {
+    "state": "CO",
+    "jurisdiction_type": "city",
+    "name": "Unincorporated",
+    "fips_code": null,
+    "rate": 0.015
+  },
+  {
+    "state": "CO",
+    "jurisdiction_type": "city",
+    "name": "Unincorporated",
+    "fips_code": null,
+    "rate": 0.0
+  },
+  {
+    "state": "CO",
+    "jurisdiction_type": "city",
+    "name": "Unincorporated",
+    "fips_code": null,
+    "rate": 0.02
+  },
+  {
+    "state": "CO",
+    "jurisdiction_type": "city",
+    "name": "Unincorporated",
+    "fips_code": null,
+    "rate": 0.0125
+  },
+  {
+    "state": "CO",
+    "jurisdiction_type": "city",
+    "name": "Unincorporated",
+    "fips_code": null,
     "rate": 0.026
   },
   {
@@ -14711,7 +14578,140 @@
     "jurisdiction_type": "city",
     "name": "Unincorporated",
     "fips_code": null,
-    "rate": 0.05
+    "rate": 0.0
+  },
+  {
+    "state": "CO",
+    "jurisdiction_type": "city",
+    "name": "Unincorporated",
+    "fips_code": null,
+    "rate": 0.0175
+  },
+  {
+    "state": "CO",
+    "jurisdiction_type": "city",
+    "name": "Unincorporated",
+    "fips_code": null,
+    "rate": 0.03
+  },
+  {
+    "state": "CO",
+    "jurisdiction_type": "city",
+    "name": "Unincorporated",
+    "fips_code": null,
+    "rate": 0.0
+  },
+  {
+    "state": "CO",
+    "jurisdiction_type": "city",
+    "name": "Unincorporated",
+    "fips_code": null,
+    "rate": 0.036
+  },
+  {
+    "state": "CO",
+    "jurisdiction_type": "city",
+    "name": "Unincorporated",
+    "fips_code": null,
+    "rate": 0.01
+  },
+  {
+    "state": "CO",
+    "jurisdiction_type": "city",
+    "name": "Unincorporated",
+    "fips_code": null,
+    "rate": 0.03
+  },
+  {
+    "state": "CO",
+    "jurisdiction_type": "city",
+    "name": "Unincorporated",
+    "fips_code": null,
+    "rate": 0.0
+  },
+  {
+    "state": "CO",
+    "jurisdiction_type": "city",
+    "name": "Unincorporated",
+    "fips_code": null,
+    "rate": 0.025
+  },
+  {
+    "state": "CO",
+    "jurisdiction_type": "city",
+    "name": "Unincorporated",
+    "fips_code": null,
+    "rate": 0.01
+  },
+  {
+    "state": "CO",
+    "jurisdiction_type": "city",
+    "name": "Unincorporated",
+    "fips_code": null,
+    "rate": 0.0185
+  },
+  {
+    "state": "CO",
+    "jurisdiction_type": "city",
+    "name": "Unincorporated",
+    "fips_code": null,
+    "rate": 0.016
+  },
+  {
+    "state": "CO",
+    "jurisdiction_type": "city",
+    "name": "Unincorporated",
+    "fips_code": null,
+    "rate": 0.0135
+  },
+  {
+    "state": "CO",
+    "jurisdiction_type": "city",
+    "name": "Unincorporated",
+    "fips_code": null,
+    "rate": 0.01
+  },
+  {
+    "state": "CO",
+    "jurisdiction_type": "city",
+    "name": "Unincorporated",
+    "fips_code": null,
+    "rate": 0.0237
+  },
+  {
+    "state": "CO",
+    "jurisdiction_type": "city",
+    "name": "Unincorporated",
+    "fips_code": null,
+    "rate": 0.02435
+  },
+  {
+    "state": "CO",
+    "jurisdiction_type": "city",
+    "name": "Unincorporated",
+    "fips_code": null,
+    "rate": 0.015
+  },
+  {
+    "state": "CO",
+    "jurisdiction_type": "city",
+    "name": "Unincorporated",
+    "fips_code": null,
+    "rate": 0.0223
+  },
+  {
+    "state": "CO",
+    "jurisdiction_type": "city",
+    "name": "Unincorporated",
+    "fips_code": null,
+    "rate": 0.0
+  },
+  {
+    "state": "CO",
+    "jurisdiction_type": "city",
+    "name": "Unincorporated",
+    "fips_code": null,
+    "rate": 0.01
   },
   {
     "state": "CO",
@@ -14725,14 +14725,14 @@
     "jurisdiction_type": "city",
     "name": "Unincorporated (Berthoud Fpd)",
     "fips_code": null,
-    "rate": 0.03435
+    "rate": 0.0205
   },
   {
     "state": "CO",
     "jurisdiction_type": "city",
     "name": "Unincorporated (Berthoud Fpd)",
     "fips_code": null,
-    "rate": 0.0205
+    "rate": 0.03435
   },
   {
     "state": "CO",
@@ -14879,14 +14879,14 @@
     "jurisdiction_type": "city",
     "name": "Unincorporated In Upper Pine River Fpd",
     "fips_code": null,
-    "rate": 0.05
+    "rate": 0.04
   },
   {
     "state": "CO",
     "jurisdiction_type": "city",
     "name": "Unincorporated In Upper Pine River Fpd",
     "fips_code": null,
-    "rate": 0.04
+    "rate": 0.05
   },
   {
     "state": "CO",
@@ -15920,14 +15920,14 @@
   {
     "state": "FL",
     "jurisdiction_type": "county",
-    "name": "St Johns",
+    "name": "St. Johns",
     "fips_code": null,
     "rate": 0.005
   },
   {
     "state": "FL",
     "jurisdiction_type": "county",
-    "name": "St Lucie",
+    "name": "St. Lucie",
     "fips_code": null,
     "rate": 0.01
   },
@@ -18001,7 +18001,7 @@
     "jurisdiction_type": "city",
     "name": "Addison",
     "fips_code": null,
-    "rate": 0.025
+    "rate": 0.0275
   },
   {
     "state": "IL",
@@ -18036,7 +18036,7 @@
     "jurisdiction_type": "city",
     "name": "Algonquin",
     "fips_code": null,
-    "rate": 0.02
+    "rate": 0.0225
   },
   {
     "state": "IL",
@@ -18099,7 +18099,7 @@
     "jurisdiction_type": "city",
     "name": "Alsip",
     "fips_code": null,
-    "rate": 0.0375
+    "rate": 0.04
   },
   {
     "state": "IL",
@@ -18197,7 +18197,7 @@
     "jurisdiction_type": "city",
     "name": "Arlington Heights",
     "fips_code": null,
-    "rate": 0.0375
+    "rate": 0.04
   },
   {
     "state": "IL",
@@ -18288,7 +18288,7 @@
     "jurisdiction_type": "city",
     "name": "Aurora",
     "fips_code": null,
-    "rate": 0.02
+    "rate": 0.0225
   },
   {
     "state": "IL",
@@ -18323,7 +18323,7 @@
     "jurisdiction_type": "city",
     "name": "Bannockburn",
     "fips_code": null,
-    "rate": 0.0175
+    "rate": 0.02
   },
   {
     "state": "IL",
@@ -18344,14 +18344,14 @@
     "jurisdiction_type": "city",
     "name": "Barrington",
     "fips_code": null,
-    "rate": 0.0375
+    "rate": 0.04
   },
   {
     "state": "IL",
     "jurisdiction_type": "city",
     "name": "Barrington Hills",
     "fips_code": null,
-    "rate": 0.0275
+    "rate": 0.03
   },
   {
     "state": "IL",
@@ -18365,14 +18365,14 @@
     "jurisdiction_type": "city",
     "name": "Bartlett",
     "fips_code": null,
-    "rate": 0.025
+    "rate": 0.0275
   },
   {
     "state": "IL",
     "jurisdiction_type": "city",
     "name": "Batavia",
     "fips_code": null,
-    "rate": 0.0225
+    "rate": 0.025
   },
   {
     "state": "IL",
@@ -18407,7 +18407,7 @@
     "jurisdiction_type": "city",
     "name": "Beach Park",
     "fips_code": null,
-    "rate": 0.0075
+    "rate": 0.01
   },
   {
     "state": "IL",
@@ -18428,14 +18428,14 @@
     "jurisdiction_type": "city",
     "name": "Bedford Park",
     "fips_code": null,
-    "rate": 0.0375
+    "rate": 0.04
   },
   {
     "state": "IL",
     "jurisdiction_type": "city",
     "name": "Beecher",
     "fips_code": null,
-    "rate": 0.0175
+    "rate": 0.02
   },
   {
     "state": "IL",
@@ -18512,7 +18512,7 @@
     "jurisdiction_type": "city",
     "name": "Bensenville",
     "fips_code": null,
-    "rate": 0.0175
+    "rate": 0.02
   },
   {
     "state": "IL",
@@ -18533,7 +18533,7 @@
     "jurisdiction_type": "city",
     "name": "Berkeley",
     "fips_code": null,
-    "rate": 0.0375
+    "rate": 0.04
   },
   {
     "state": "IL",
@@ -18547,7 +18547,7 @@
     "jurisdiction_type": "city",
     "name": "Berwyn",
     "fips_code": null,
-    "rate": 0.045
+    "rate": 0.0475
   },
   {
     "state": "IL",
@@ -18561,7 +18561,7 @@
     "jurisdiction_type": "city",
     "name": "Big Rock",
     "fips_code": null,
-    "rate": 0.0075
+    "rate": 0.01
   },
   {
     "state": "IL",
@@ -18631,7 +18631,7 @@
     "jurisdiction_type": "city",
     "name": "Bolingbrook",
     "fips_code": null,
-    "rate": 0.0225
+    "rate": 0.025
   },
   {
     "state": "IL",
@@ -18666,7 +18666,7 @@
     "jurisdiction_type": "city",
     "name": "Braceville",
     "fips_code": null,
-    "rate": 0.0075
+    "rate": 0.01
   },
   {
     "state": "IL",
@@ -18680,7 +18680,7 @@
     "jurisdiction_type": "city",
     "name": "Braidwood",
     "fips_code": null,
-    "rate": 0.0075
+    "rate": 0.01
   },
   {
     "state": "IL",
@@ -18694,7 +18694,7 @@
     "jurisdiction_type": "city",
     "name": "Bridgeview",
     "fips_code": null,
-    "rate": 0.0375
+    "rate": 0.04
   },
   {
     "state": "IL",
@@ -18715,7 +18715,7 @@
     "jurisdiction_type": "city",
     "name": "Broadview",
     "fips_code": null,
-    "rate": 0.0375
+    "rate": 0.04
   },
   {
     "state": "IL",
@@ -18736,7 +18736,7 @@
     "jurisdiction_type": "city",
     "name": "Brookfield",
     "fips_code": null,
-    "rate": 0.0375
+    "rate": 0.04
   },
   {
     "state": "IL",
@@ -18820,14 +18820,14 @@
     "jurisdiction_type": "city",
     "name": "Buffalo Grove",
     "fips_code": null,
-    "rate": 0.0175
+    "rate": 0.02
   },
   {
     "state": "IL",
     "jurisdiction_type": "city",
     "name": "Bull Valley",
     "fips_code": null,
-    "rate": 0.02
+    "rate": 0.0225
   },
   {
     "state": "IL",
@@ -18855,7 +18855,7 @@
     "jurisdiction_type": "city",
     "name": "Burbank",
     "fips_code": null,
-    "rate": 0.035
+    "rate": 0.0375
   },
   {
     "state": "IL",
@@ -18869,14 +18869,14 @@
     "jurisdiction_type": "city",
     "name": "Burlington",
     "fips_code": null,
-    "rate": 0.0075
+    "rate": 0.01
   },
   {
     "state": "IL",
     "jurisdiction_type": "city",
     "name": "Burnham",
     "fips_code": null,
-    "rate": 0.0375
+    "rate": 0.04
   },
   {
     "state": "IL",
@@ -18890,7 +18890,7 @@
     "jurisdiction_type": "city",
     "name": "Burr Ridge",
     "fips_code": null,
-    "rate": 0.01
+    "rate": 0.0125
   },
   {
     "state": "IL",
@@ -18946,7 +18946,7 @@
     "jurisdiction_type": "city",
     "name": "Calumet Park",
     "fips_code": null,
-    "rate": 0.0375
+    "rate": 0.04
   },
   {
     "state": "IL",
@@ -18995,7 +18995,7 @@
     "jurisdiction_type": "city",
     "name": "Campton Hills",
     "fips_code": null,
-    "rate": 0.0075
+    "rate": 0.01
   },
   {
     "state": "IL",
@@ -19058,14 +19058,14 @@
     "jurisdiction_type": "city",
     "name": "Carol Stream",
     "fips_code": null,
-    "rate": 0.0175
+    "rate": 0.02
   },
   {
     "state": "IL",
     "jurisdiction_type": "city",
     "name": "Carpentersville",
     "fips_code": null,
-    "rate": 0.0275
+    "rate": 0.03
   },
   {
     "state": "IL",
@@ -19100,7 +19100,7 @@
     "jurisdiction_type": "city",
     "name": "Cary",
     "fips_code": null,
-    "rate": 0.02
+    "rate": 0.0225
   },
   {
     "state": "IL",
@@ -19254,14 +19254,14 @@
     "jurisdiction_type": "city",
     "name": "Chicago",
     "fips_code": null,
-    "rate": 0.04
+    "rate": 0.0425
   },
   {
     "state": "IL",
     "jurisdiction_type": "city",
     "name": "Chicago Heights",
     "fips_code": null,
-    "rate": 0.0375
+    "rate": 0.04
   },
   {
     "state": "IL",
@@ -19289,7 +19289,7 @@
     "jurisdiction_type": "city",
     "name": "Cicero",
     "fips_code": null,
-    "rate": 0.045
+    "rate": 0.0475
   },
   {
     "state": "IL",
@@ -19324,7 +19324,7 @@
     "jurisdiction_type": "city",
     "name": "Clarendon Hills",
     "fips_code": null,
-    "rate": 0.0075
+    "rate": 0.01
   },
   {
     "state": "IL",
@@ -19366,7 +19366,7 @@
     "jurisdiction_type": "city",
     "name": "Coal City",
     "fips_code": null,
-    "rate": 0.0075
+    "rate": 0.01
   },
   {
     "state": "IL",
@@ -19499,14 +19499,14 @@
     "jurisdiction_type": "city",
     "name": "Country Club Hills",
     "fips_code": null,
-    "rate": 0.04
+    "rate": 0.0425
   },
   {
     "state": "IL",
     "jurisdiction_type": "city",
     "name": "Countryside",
     "fips_code": null,
-    "rate": 0.035
+    "rate": 0.0375
   },
   {
     "state": "IL",
@@ -19541,21 +19541,21 @@
     "jurisdiction_type": "city",
     "name": "Crest Hill",
     "fips_code": null,
-    "rate": 0.0175
+    "rate": 0.02
   },
   {
     "state": "IL",
     "jurisdiction_type": "city",
     "name": "Crestwood",
     "fips_code": null,
-    "rate": 0.0375
+    "rate": 0.04
   },
   {
     "state": "IL",
     "jurisdiction_type": "city",
     "name": "Crete",
     "fips_code": null,
-    "rate": 0.0125
+    "rate": 0.015
   },
   {
     "state": "IL",
@@ -19569,7 +19569,7 @@
     "jurisdiction_type": "city",
     "name": "Crystal Lake",
     "fips_code": null,
-    "rate": 0.0225
+    "rate": 0.025
   },
   {
     "state": "IL",
@@ -19667,7 +19667,7 @@
     "jurisdiction_type": "city",
     "name": "Darien",
     "fips_code": null,
-    "rate": 0.02
+    "rate": 0.0225
   },
   {
     "state": "IL",
@@ -19709,14 +19709,14 @@
     "jurisdiction_type": "city",
     "name": "Deer Park",
     "fips_code": null,
-    "rate": 0.0175
+    "rate": 0.02
   },
   {
     "state": "IL",
     "jurisdiction_type": "city",
     "name": "Deerfield",
     "fips_code": null,
-    "rate": 0.0175
+    "rate": 0.02
   },
   {
     "state": "IL",
@@ -19751,7 +19751,7 @@
     "jurisdiction_type": "city",
     "name": "Des Plaines",
     "fips_code": null,
-    "rate": 0.0375
+    "rate": 0.04
   },
   {
     "state": "IL",
@@ -19772,7 +19772,7 @@
     "jurisdiction_type": "city",
     "name": "Diamond",
     "fips_code": null,
-    "rate": 0.0075
+    "rate": 0.01
   },
   {
     "state": "IL",
@@ -19793,7 +19793,7 @@
     "jurisdiction_type": "city",
     "name": "Dixmoor",
     "fips_code": null,
-    "rate": 0.0275
+    "rate": 0.03
   },
   {
     "state": "IL",
@@ -19807,7 +19807,7 @@
     "jurisdiction_type": "city",
     "name": "Dolton",
     "fips_code": null,
-    "rate": 0.035
+    "rate": 0.0375
   },
   {
     "state": "IL",
@@ -19856,7 +19856,7 @@
     "jurisdiction_type": "city",
     "name": "Downers Grove",
     "fips_code": null,
-    "rate": 0.0225
+    "rate": 0.025
   },
   {
     "state": "IL",
@@ -19926,7 +19926,7 @@
     "jurisdiction_type": "city",
     "name": "East Dundee",
     "fips_code": null,
-    "rate": 0.0475
+    "rate": 0.05
   },
   {
     "state": "IL",
@@ -19947,7 +19947,7 @@
     "jurisdiction_type": "city",
     "name": "East Hazel Crest",
     "fips_code": null,
-    "rate": 0.0325
+    "rate": 0.035
   },
   {
     "state": "IL",
@@ -19989,7 +19989,7 @@
     "jurisdiction_type": "city",
     "name": "Elburn",
     "fips_code": null,
-    "rate": 0.0175
+    "rate": 0.02
   },
   {
     "state": "IL",
@@ -20010,7 +20010,7 @@
     "jurisdiction_type": "city",
     "name": "Elgin",
     "fips_code": null,
-    "rate": 0.0225
+    "rate": 0.025
   },
   {
     "state": "IL",
@@ -20024,7 +20024,7 @@
     "jurisdiction_type": "city",
     "name": "Elk Grove Village",
     "fips_code": null,
-    "rate": 0.0375
+    "rate": 0.04
   },
   {
     "state": "IL",
@@ -20066,7 +20066,7 @@
     "jurisdiction_type": "city",
     "name": "Elmhurst",
     "fips_code": null,
-    "rate": 0.0225
+    "rate": 0.025
   },
   {
     "state": "IL",
@@ -20087,7 +20087,7 @@
     "jurisdiction_type": "city",
     "name": "Elwood",
     "fips_code": null,
-    "rate": 0.0175
+    "rate": 0.02
   },
   {
     "state": "IL",
@@ -20129,7 +20129,7 @@
     "jurisdiction_type": "city",
     "name": "Evanston",
     "fips_code": null,
-    "rate": 0.04
+    "rate": 0.0425
   },
   {
     "state": "IL",
@@ -20269,7 +20269,7 @@
     "jurisdiction_type": "city",
     "name": "Flossmoor",
     "fips_code": null,
-    "rate": 0.0375
+    "rate": 0.04
   },
   {
     "state": "IL",
@@ -20283,7 +20283,7 @@
     "jurisdiction_type": "city",
     "name": "Ford Heights",
     "fips_code": null,
-    "rate": 0.0375
+    "rate": 0.04
   },
   {
     "state": "IL",
@@ -20297,14 +20297,14 @@
     "jurisdiction_type": "city",
     "name": "Forest Park",
     "fips_code": null,
-    "rate": 0.0375
+    "rate": 0.04
   },
   {
     "state": "IL",
     "jurisdiction_type": "city",
     "name": "Forest View",
     "fips_code": null,
-    "rate": 0.0375
+    "rate": 0.04
   },
   {
     "state": "IL",
@@ -20325,21 +20325,21 @@
     "jurisdiction_type": "city",
     "name": "Fox Lake",
     "fips_code": null,
-    "rate": 0.015
+    "rate": 0.0175
   },
   {
     "state": "IL",
     "jurisdiction_type": "city",
     "name": "Fox River Grove",
     "fips_code": null,
-    "rate": 0.0175
+    "rate": 0.02
   },
   {
     "state": "IL",
     "jurisdiction_type": "city",
     "name": "Frankfort",
     "fips_code": null,
-    "rate": 0.0175
+    "rate": 0.02
   },
   {
     "state": "IL",
@@ -20360,7 +20360,7 @@
     "jurisdiction_type": "city",
     "name": "Franklin Park",
     "fips_code": null,
-    "rate": 0.0375
+    "rate": 0.04
   },
   {
     "state": "IL",
@@ -20444,7 +20444,7 @@
     "jurisdiction_type": "city",
     "name": "Geneva",
     "fips_code": null,
-    "rate": 0.0175
+    "rate": 0.02
   },
   {
     "state": "IL",
@@ -20479,7 +20479,7 @@
     "jurisdiction_type": "city",
     "name": "Gilberts",
     "fips_code": null,
-    "rate": 0.0175
+    "rate": 0.02
   },
   {
     "state": "IL",
@@ -20528,7 +20528,7 @@
     "jurisdiction_type": "city",
     "name": "Glen Ellyn",
     "fips_code": null,
-    "rate": 0.02
+    "rate": 0.0225
   },
   {
     "state": "IL",
@@ -20542,28 +20542,28 @@
     "jurisdiction_type": "city",
     "name": "Glencoe",
     "fips_code": null,
-    "rate": 0.0375
+    "rate": 0.04
   },
   {
     "state": "IL",
     "jurisdiction_type": "city",
     "name": "Glendale Heights",
     "fips_code": null,
-    "rate": 0.0225
+    "rate": 0.025
   },
   {
     "state": "IL",
     "jurisdiction_type": "city",
     "name": "Glenwood",
     "fips_code": null,
-    "rate": 0.0475
+    "rate": 0.05
   },
   {
     "state": "IL",
     "jurisdiction_type": "city",
     "name": "Godley",
     "fips_code": null,
-    "rate": 0.0075
+    "rate": 0.01
   },
   {
     "state": "IL",
@@ -20591,7 +20591,7 @@
     "jurisdiction_type": "city",
     "name": "Golf",
     "fips_code": null,
-    "rate": 0.0275
+    "rate": 0.03
   },
   {
     "state": "IL",
@@ -20661,14 +20661,14 @@
     "jurisdiction_type": "city",
     "name": "Grayslake",
     "fips_code": null,
-    "rate": 0.0075
+    "rate": 0.01
   },
   {
     "state": "IL",
     "jurisdiction_type": "city",
     "name": "Green Oaks",
     "fips_code": null,
-    "rate": 0.0175
+    "rate": 0.02
   },
   {
     "state": "IL",
@@ -20703,7 +20703,7 @@
     "jurisdiction_type": "city",
     "name": "Greenwood",
     "fips_code": null,
-    "rate": 0.01
+    "rate": 0.0125
   },
   {
     "state": "IL",
@@ -20731,14 +20731,14 @@
     "jurisdiction_type": "city",
     "name": "Gurnee",
     "fips_code": null,
-    "rate": 0.0225
+    "rate": 0.025
   },
   {
     "state": "IL",
     "jurisdiction_type": "city",
     "name": "Hainesville",
     "fips_code": null,
-    "rate": 0.0075
+    "rate": 0.01
   },
   {
     "state": "IL",
@@ -20759,7 +20759,7 @@
     "jurisdiction_type": "city",
     "name": "Hampshire",
     "fips_code": null,
-    "rate": 0.0175
+    "rate": 0.02
   },
   {
     "state": "IL",
@@ -20787,7 +20787,7 @@
     "jurisdiction_type": "city",
     "name": "Hanover Park",
     "fips_code": null,
-    "rate": 0.0175
+    "rate": 0.02
   },
   {
     "state": "IL",
@@ -20808,7 +20808,7 @@
     "jurisdiction_type": "city",
     "name": "Harvard",
     "fips_code": null,
-    "rate": 0.02
+    "rate": 0.0225
   },
   {
     "state": "IL",
@@ -20822,28 +20822,28 @@
     "jurisdiction_type": "city",
     "name": "Harwood Heights",
     "fips_code": null,
-    "rate": 0.04
+    "rate": 0.0425
   },
   {
     "state": "IL",
     "jurisdiction_type": "city",
     "name": "Hawthorn Woods",
     "fips_code": null,
-    "rate": 0.0175
+    "rate": 0.02
   },
   {
     "state": "IL",
     "jurisdiction_type": "city",
     "name": "Hazel Crest",
     "fips_code": null,
-    "rate": 0.0375
+    "rate": 0.04
   },
   {
     "state": "IL",
     "jurisdiction_type": "city",
     "name": "Hebron",
     "fips_code": null,
-    "rate": 0.01
+    "rate": 0.0125
   },
   {
     "state": "IL",
@@ -20899,7 +20899,7 @@
     "jurisdiction_type": "city",
     "name": "Hickory Hills",
     "fips_code": null,
-    "rate": 0.0375
+    "rate": 0.04
   },
   {
     "state": "IL",
@@ -20913,14 +20913,14 @@
     "jurisdiction_type": "city",
     "name": "Highland Park",
     "fips_code": null,
-    "rate": 0.0175
+    "rate": 0.02
   },
   {
     "state": "IL",
     "jurisdiction_type": "city",
     "name": "Highwood",
     "fips_code": null,
-    "rate": 0.0275
+    "rate": 0.03
   },
   {
     "state": "IL",
@@ -20941,7 +20941,7 @@
     "jurisdiction_type": "city",
     "name": "Hillside",
     "fips_code": null,
-    "rate": 0.0375
+    "rate": 0.04
   },
   {
     "state": "IL",
@@ -20969,28 +20969,28 @@
     "jurisdiction_type": "city",
     "name": "Hinsdale",
     "fips_code": null,
-    "rate": 0.0175
+    "rate": 0.02
   },
   {
     "state": "IL",
     "jurisdiction_type": "city",
     "name": "Hodgkins",
     "fips_code": null,
-    "rate": 0.0375
+    "rate": 0.04
   },
   {
     "state": "IL",
     "jurisdiction_type": "city",
     "name": "Hoffman Estates",
     "fips_code": null,
-    "rate": 0.0375
+    "rate": 0.04
   },
   {
     "state": "IL",
     "jurisdiction_type": "city",
     "name": "Holiday Hills",
     "fips_code": null,
-    "rate": 0.01
+    "rate": 0.0125
   },
   {
     "state": "IL",
@@ -21004,21 +21004,21 @@
     "jurisdiction_type": "city",
     "name": "Homer Glen",
     "fips_code": null,
-    "rate": 0.0175
+    "rate": 0.02
   },
   {
     "state": "IL",
     "jurisdiction_type": "city",
     "name": "Hometown",
     "fips_code": null,
-    "rate": 0.0275
+    "rate": 0.03
   },
   {
     "state": "IL",
     "jurisdiction_type": "city",
     "name": "Homewood",
     "fips_code": null,
-    "rate": 0.0375
+    "rate": 0.04
   },
   {
     "state": "IL",
@@ -21081,7 +21081,7 @@
     "jurisdiction_type": "city",
     "name": "Huntley",
     "fips_code": null,
-    "rate": 0.02
+    "rate": 0.0225
   },
   {
     "state": "IL",
@@ -21102,7 +21102,7 @@
     "jurisdiction_type": "city",
     "name": "Indian Creek",
     "fips_code": null,
-    "rate": 0.0075
+    "rate": 0.01
   },
   {
     "state": "IL",
@@ -21123,7 +21123,7 @@
     "jurisdiction_type": "city",
     "name": "Inverness",
     "fips_code": null,
-    "rate": 0.0275
+    "rate": 0.03
   },
   {
     "state": "IL",
@@ -21158,14 +21158,14 @@
     "jurisdiction_type": "city",
     "name": "Island Lake",
     "fips_code": null,
-    "rate": 0.01
+    "rate": 0.0125
   },
   {
     "state": "IL",
     "jurisdiction_type": "city",
     "name": "Itasca",
     "fips_code": null,
-    "rate": 0.0175
+    "rate": 0.02
   },
   {
     "state": "IL",
@@ -21221,7 +21221,7 @@
     "jurisdiction_type": "city",
     "name": "Johnsburg",
     "fips_code": null,
-    "rate": 0.02
+    "rate": 0.0225
   },
   {
     "state": "IL",
@@ -21277,7 +21277,7 @@
     "jurisdiction_type": "city",
     "name": "Justice",
     "fips_code": null,
-    "rate": 0.0275
+    "rate": 0.03
   },
   {
     "state": "IL",
@@ -21298,7 +21298,7 @@
     "jurisdiction_type": "city",
     "name": "Kaneville",
     "fips_code": null,
-    "rate": 0.0075
+    "rate": 0.01
   },
   {
     "state": "IL",
@@ -21368,7 +21368,7 @@
     "jurisdiction_type": "city",
     "name": "Kenilworth",
     "fips_code": null,
-    "rate": 0.0375
+    "rate": 0.04
   },
   {
     "state": "IL",
@@ -21396,7 +21396,7 @@
     "jurisdiction_type": "city",
     "name": "Kildeer",
     "fips_code": null,
-    "rate": 0.0175
+    "rate": 0.02
   },
   {
     "state": "IL",
@@ -21480,35 +21480,35 @@
     "jurisdiction_type": "city",
     "name": "Lagrange",
     "fips_code": null,
-    "rate": 0.0375
+    "rate": 0.04
   },
   {
     "state": "IL",
     "jurisdiction_type": "city",
     "name": "Lake Barrington",
     "fips_code": null,
-    "rate": 0.0125
+    "rate": 0.015
   },
   {
     "state": "IL",
     "jurisdiction_type": "city",
     "name": "Lake Bluff",
     "fips_code": null,
-    "rate": 0.0175
+    "rate": 0.02
   },
   {
     "state": "IL",
     "jurisdiction_type": "city",
     "name": "Lake Forest",
     "fips_code": null,
-    "rate": 0.0175
+    "rate": 0.02
   },
   {
     "state": "IL",
     "jurisdiction_type": "city",
     "name": "Lake In The Hills",
     "fips_code": null,
-    "rate": 0.02
+    "rate": 0.0225
   },
   {
     "state": "IL",
@@ -21522,14 +21522,14 @@
     "jurisdiction_type": "city",
     "name": "Lake Zurich",
     "fips_code": null,
-    "rate": 0.0175
+    "rate": 0.02
   },
   {
     "state": "IL",
     "jurisdiction_type": "city",
     "name": "Lakemoor",
     "fips_code": null,
-    "rate": 0.02
+    "rate": 0.0225
   },
   {
     "state": "IL",
@@ -21550,7 +21550,7 @@
     "jurisdiction_type": "city",
     "name": "Lansing",
     "fips_code": null,
-    "rate": 0.0325
+    "rate": 0.035
   },
   {
     "state": "IL",
@@ -21592,7 +21592,7 @@
     "jurisdiction_type": "city",
     "name": "Lemont",
     "fips_code": null,
-    "rate": 0.0375
+    "rate": 0.04
   },
   {
     "state": "IL",
@@ -21648,14 +21648,14 @@
     "jurisdiction_type": "city",
     "name": "Libertyville",
     "fips_code": null,
-    "rate": 0.0225
+    "rate": 0.025
   },
   {
     "state": "IL",
     "jurisdiction_type": "city",
     "name": "Lily Lake",
     "fips_code": null,
-    "rate": 0.0075
+    "rate": 0.01
   },
   {
     "state": "IL",
@@ -21683,21 +21683,21 @@
     "jurisdiction_type": "city",
     "name": "Lincolnshire",
     "fips_code": null,
-    "rate": 0.0175
+    "rate": 0.02
   },
   {
     "state": "IL",
     "jurisdiction_type": "city",
     "name": "Lincolnwood",
     "fips_code": null,
-    "rate": 0.04
+    "rate": 0.0425
   },
   {
     "state": "IL",
     "jurisdiction_type": "city",
     "name": "Lindenhurst",
     "fips_code": null,
-    "rate": 0.0075
+    "rate": 0.01
   },
   {
     "state": "IL",
@@ -21711,7 +21711,7 @@
     "jurisdiction_type": "city",
     "name": "Lisle",
     "fips_code": null,
-    "rate": 0.0075
+    "rate": 0.01
   },
   {
     "state": "IL",
@@ -21753,7 +21753,7 @@
     "jurisdiction_type": "city",
     "name": "Lockport",
     "fips_code": null,
-    "rate": 0.0275
+    "rate": 0.03
   },
   {
     "state": "IL",
@@ -21851,14 +21851,14 @@
     "jurisdiction_type": "city",
     "name": "Lynwood",
     "fips_code": null,
-    "rate": 0.0275
+    "rate": 0.03
   },
   {
     "state": "IL",
     "jurisdiction_type": "city",
     "name": "Lyons",
     "fips_code": null,
-    "rate": 0.0375
+    "rate": 0.04
   },
   {
     "state": "IL",
@@ -21900,7 +21900,7 @@
     "jurisdiction_type": "city",
     "name": "Manhattan",
     "fips_code": null,
-    "rate": 0.0175
+    "rate": 0.02
   },
   {
     "state": "IL",
@@ -21949,7 +21949,7 @@
     "jurisdiction_type": "city",
     "name": "Marengo",
     "fips_code": null,
-    "rate": 0.02
+    "rate": 0.0225
   },
   {
     "state": "IL",
@@ -21984,7 +21984,7 @@
     "jurisdiction_type": "city",
     "name": "Markham",
     "fips_code": null,
-    "rate": 0.0375
+    "rate": 0.04
   },
   {
     "state": "IL",
@@ -22047,7 +22047,7 @@
     "jurisdiction_type": "city",
     "name": "Matteson",
     "fips_code": null,
-    "rate": 0.0375
+    "rate": 0.04
   },
   {
     "state": "IL",
@@ -22061,28 +22061,28 @@
     "jurisdiction_type": "city",
     "name": "Maywood",
     "fips_code": null,
-    "rate": 0.0375
+    "rate": 0.04
   },
   {
     "state": "IL",
     "jurisdiction_type": "city",
     "name": "Mccook",
     "fips_code": null,
-    "rate": 0.0375
+    "rate": 0.04
   },
   {
     "state": "IL",
     "jurisdiction_type": "city",
     "name": "Mccullom Lake",
     "fips_code": null,
-    "rate": 0.02
+    "rate": 0.0225
   },
   {
     "state": "IL",
     "jurisdiction_type": "city",
     "name": "Mchenry",
     "fips_code": null,
-    "rate": 0.0175
+    "rate": 0.02
   },
   {
     "state": "IL",
@@ -22117,7 +22117,7 @@
     "jurisdiction_type": "city",
     "name": "Melrose Park",
     "fips_code": null,
-    "rate": 0.0425
+    "rate": 0.045
   },
   {
     "state": "IL",
@@ -22152,7 +22152,7 @@
     "jurisdiction_type": "city",
     "name": "Merrionette Park",
     "fips_code": null,
-    "rate": 0.0375
+    "rate": 0.04
   },
   {
     "state": "IL",
@@ -22173,7 +22173,7 @@
     "jurisdiction_type": "city",
     "name": "Mettawa",
     "fips_code": null,
-    "rate": 0.0075
+    "rate": 0.01
   },
   {
     "state": "IL",
@@ -22187,7 +22187,7 @@
     "jurisdiction_type": "city",
     "name": "Midlothian",
     "fips_code": null,
-    "rate": 0.0375
+    "rate": 0.04
   },
   {
     "state": "IL",
@@ -22278,14 +22278,14 @@
     "jurisdiction_type": "city",
     "name": "Mokena",
     "fips_code": null,
-    "rate": 0.0175
+    "rate": 0.02
   },
   {
     "state": "IL",
     "jurisdiction_type": "city",
     "name": "Monee",
     "fips_code": null,
-    "rate": 0.0175
+    "rate": 0.02
   },
   {
     "state": "IL",
@@ -22299,7 +22299,7 @@
     "jurisdiction_type": "city",
     "name": "Montgomery",
     "fips_code": null,
-    "rate": 0.0175
+    "rate": 0.02
   },
   {
     "state": "IL",
@@ -22404,7 +22404,7 @@
     "jurisdiction_type": "city",
     "name": "Mundelein",
     "fips_code": null,
-    "rate": 0.02
+    "rate": 0.0225
   },
   {
     "state": "IL",
@@ -22418,7 +22418,7 @@
     "jurisdiction_type": "city",
     "name": "Naperville",
     "fips_code": null,
-    "rate": 0.015
+    "rate": 0.0175
   },
   {
     "state": "IL",
@@ -22530,7 +22530,7 @@
     "jurisdiction_type": "city",
     "name": "New Lenox",
     "fips_code": null,
-    "rate": 0.0325
+    "rate": 0.035
   },
   {
     "state": "IL",
@@ -22579,7 +22579,7 @@
     "jurisdiction_type": "city",
     "name": "Niles",
     "fips_code": null,
-    "rate": 0.04
+    "rate": 0.0425
   },
   {
     "state": "IL",
@@ -22628,21 +22628,21 @@
     "jurisdiction_type": "city",
     "name": "North Aurora",
     "fips_code": null,
-    "rate": 0.0175
+    "rate": 0.02
   },
   {
     "state": "IL",
     "jurisdiction_type": "city",
     "name": "North Barrington",
     "fips_code": null,
-    "rate": 0.0075
+    "rate": 0.01
   },
   {
     "state": "IL",
     "jurisdiction_type": "city",
     "name": "North Chicago",
     "fips_code": null,
-    "rate": 0.0175
+    "rate": 0.02
   },
   {
     "state": "IL",
@@ -22670,7 +22670,7 @@
     "jurisdiction_type": "city",
     "name": "North Riverside",
     "fips_code": null,
-    "rate": 0.0375
+    "rate": 0.04
   },
   {
     "state": "IL",
@@ -22684,21 +22684,21 @@
     "jurisdiction_type": "city",
     "name": "Northbrook",
     "fips_code": null,
-    "rate": 0.0375
+    "rate": 0.04
   },
   {
     "state": "IL",
     "jurisdiction_type": "city",
     "name": "Northfield",
     "fips_code": null,
-    "rate": 0.0375
+    "rate": 0.04
   },
   {
     "state": "IL",
     "jurisdiction_type": "city",
     "name": "Northlake",
     "fips_code": null,
-    "rate": 0.0375
+    "rate": 0.04
   },
   {
     "state": "IL",
@@ -22712,14 +22712,14 @@
     "jurisdiction_type": "city",
     "name": "Oak Brook",
     "fips_code": null,
-    "rate": 0.0125
+    "rate": 0.015
   },
   {
     "state": "IL",
     "jurisdiction_type": "city",
     "name": "Oak Forest",
     "fips_code": null,
-    "rate": 0.0375
+    "rate": 0.04
   },
   {
     "state": "IL",
@@ -22733,14 +22733,14 @@
     "jurisdiction_type": "city",
     "name": "Oak Lawn",
     "fips_code": null,
-    "rate": 0.04
+    "rate": 0.0425
   },
   {
     "state": "IL",
     "jurisdiction_type": "city",
     "name": "Oak Park",
     "fips_code": null,
-    "rate": 0.0375
+    "rate": 0.04
   },
   {
     "state": "IL",
@@ -22768,7 +22768,7 @@
     "jurisdiction_type": "city",
     "name": "Oakwood Hills",
     "fips_code": null,
-    "rate": 0.01
+    "rate": 0.0125
   },
   {
     "state": "IL",
@@ -22824,7 +22824,7 @@
     "jurisdiction_type": "city",
     "name": "Old Mill Creek",
     "fips_code": null,
-    "rate": 0.0075
+    "rate": 0.01
   },
   {
     "state": "IL",
@@ -22845,7 +22845,7 @@
     "jurisdiction_type": "city",
     "name": "Olympia Fields",
     "fips_code": null,
-    "rate": 0.0375
+    "rate": 0.04
   },
   {
     "state": "IL",
@@ -22915,14 +22915,14 @@
     "jurisdiction_type": "city",
     "name": "Orland Hills",
     "fips_code": null,
-    "rate": 0.0375
+    "rate": 0.04
   },
   {
     "state": "IL",
     "jurisdiction_type": "city",
     "name": "Orland Park",
     "fips_code": null,
-    "rate": 0.04
+    "rate": 0.0425
   },
   {
     "state": "IL",
@@ -22957,7 +22957,7 @@
     "jurisdiction_type": "city",
     "name": "Palatine",
     "fips_code": null,
-    "rate": 0.0375
+    "rate": 0.04
   },
   {
     "state": "IL",
@@ -22978,14 +22978,14 @@
     "jurisdiction_type": "city",
     "name": "Palos Hills",
     "fips_code": null,
-    "rate": 0.0275
+    "rate": 0.03
   },
   {
     "state": "IL",
     "jurisdiction_type": "city",
     "name": "Palos Park",
     "fips_code": null,
-    "rate": 0.0375
+    "rate": 0.04
   },
   {
     "state": "IL",
@@ -23020,21 +23020,21 @@
     "jurisdiction_type": "city",
     "name": "Park City",
     "fips_code": null,
-    "rate": 0.0175
+    "rate": 0.02
   },
   {
     "state": "IL",
     "jurisdiction_type": "city",
     "name": "Park Forest",
     "fips_code": null,
-    "rate": 0.0375
+    "rate": 0.04
   },
   {
     "state": "IL",
     "jurisdiction_type": "city",
     "name": "Park Ridge",
     "fips_code": null,
-    "rate": 0.0375
+    "rate": 0.04
   },
   {
     "state": "IL",
@@ -23146,7 +23146,7 @@
     "jurisdiction_type": "city",
     "name": "Phoenix",
     "fips_code": null,
-    "rate": 0.0375
+    "rate": 0.04
   },
   {
     "state": "IL",
@@ -23160,7 +23160,7 @@
     "jurisdiction_type": "city",
     "name": "Pingree Grove",
     "fips_code": null,
-    "rate": 0.0175
+    "rate": 0.02
   },
   {
     "state": "IL",
@@ -23181,7 +23181,7 @@
     "jurisdiction_type": "city",
     "name": "Plainfield",
     "fips_code": null,
-    "rate": 0.0225
+    "rate": 0.025
   },
   {
     "state": "IL",
@@ -23237,7 +23237,7 @@
     "jurisdiction_type": "city",
     "name": "Port Barrington",
     "fips_code": null,
-    "rate": 0.0075
+    "rate": 0.01
   },
   {
     "state": "IL",
@@ -23251,7 +23251,7 @@
     "jurisdiction_type": "city",
     "name": "Posen",
     "fips_code": null,
-    "rate": 0.0375
+    "rate": 0.04
   },
   {
     "state": "IL",
@@ -23279,7 +23279,7 @@
     "jurisdiction_type": "city",
     "name": "Prairie Grove",
     "fips_code": null,
-    "rate": 0.01
+    "rate": 0.0125
   },
   {
     "state": "IL",
@@ -23307,7 +23307,7 @@
     "jurisdiction_type": "city",
     "name": "Prospect Heights",
     "fips_code": null,
-    "rate": 0.0375
+    "rate": 0.04
   },
   {
     "state": "IL",
@@ -23384,7 +23384,7 @@
     "jurisdiction_type": "city",
     "name": "Richmond",
     "fips_code": null,
-    "rate": 0.02
+    "rate": 0.0225
   },
   {
     "state": "IL",
@@ -23412,7 +23412,7 @@
     "jurisdiction_type": "city",
     "name": "Ringwood",
     "fips_code": null,
-    "rate": 0.01
+    "rate": 0.0125
   },
   {
     "state": "IL",
@@ -23433,21 +23433,21 @@
     "jurisdiction_type": "city",
     "name": "River Forest",
     "fips_code": null,
-    "rate": 0.0375
+    "rate": 0.04
   },
   {
     "state": "IL",
     "jurisdiction_type": "city",
     "name": "River Grove",
     "fips_code": null,
-    "rate": 0.0475
+    "rate": 0.05
   },
   {
     "state": "IL",
     "jurisdiction_type": "city",
     "name": "Riverdale",
     "fips_code": null,
-    "rate": 0.0375
+    "rate": 0.04
   },
   {
     "state": "IL",
@@ -23461,7 +23461,7 @@
     "jurisdiction_type": "city",
     "name": "Riverwoods",
     "fips_code": null,
-    "rate": 0.0175
+    "rate": 0.02
   },
   {
     "state": "IL",
@@ -23475,7 +23475,7 @@
     "jurisdiction_type": "city",
     "name": "Robbins",
     "fips_code": null,
-    "rate": 0.0425
+    "rate": 0.045
   },
   {
     "state": "IL",
@@ -23517,7 +23517,7 @@
     "jurisdiction_type": "city",
     "name": "Rockdale",
     "fips_code": null,
-    "rate": 0.0175
+    "rate": 0.02
   },
   {
     "state": "IL",
@@ -23545,7 +23545,7 @@
     "jurisdiction_type": "city",
     "name": "Rolling Meadows",
     "fips_code": null,
-    "rate": 0.04
+    "rate": 0.0425
   },
   {
     "state": "IL",
@@ -23573,14 +23573,14 @@
     "jurisdiction_type": "city",
     "name": "Roselle",
     "fips_code": null,
-    "rate": 0.0425
+    "rate": 0.045
   },
   {
     "state": "IL",
     "jurisdiction_type": "city",
     "name": "Rosemont",
     "fips_code": null,
-    "rate": 0.04
+    "rate": 0.0425
   },
   {
     "state": "IL",
@@ -23608,28 +23608,28 @@
     "jurisdiction_type": "city",
     "name": "Round Lake",
     "fips_code": null,
-    "rate": 0.0175
+    "rate": 0.02
   },
   {
     "state": "IL",
     "jurisdiction_type": "city",
     "name": "Round Lake Beach",
     "fips_code": null,
-    "rate": 0.0175
+    "rate": 0.02
   },
   {
     "state": "IL",
     "jurisdiction_type": "city",
     "name": "Round Lake Heights",
     "fips_code": null,
-    "rate": 0.0075
+    "rate": 0.01
   },
   {
     "state": "IL",
     "jurisdiction_type": "city",
     "name": "Round Lake Park",
     "fips_code": null,
-    "rate": 0.0075
+    "rate": 0.01
   },
   {
     "state": "IL",
@@ -23720,7 +23720,7 @@
     "jurisdiction_type": "city",
     "name": "Saint Charles",
     "fips_code": null,
-    "rate": 0.0225
+    "rate": 0.025
   },
   {
     "state": "IL",
@@ -23804,7 +23804,7 @@
     "jurisdiction_type": "city",
     "name": "Sauk Village",
     "fips_code": null,
-    "rate": 0.0275
+    "rate": 0.03
   },
   {
     "state": "IL",
@@ -23846,14 +23846,14 @@
     "jurisdiction_type": "city",
     "name": "Schaumburg",
     "fips_code": null,
-    "rate": 0.0375
+    "rate": 0.04
   },
   {
     "state": "IL",
     "jurisdiction_type": "city",
     "name": "Schiller Park",
     "fips_code": null,
-    "rate": 0.0425
+    "rate": 0.045
   },
   {
     "state": "IL",
@@ -23972,7 +23972,7 @@
     "jurisdiction_type": "city",
     "name": "Shorewood",
     "fips_code": null,
-    "rate": 0.0275
+    "rate": 0.03
   },
   {
     "state": "IL",
@@ -24028,7 +24028,7 @@
     "jurisdiction_type": "city",
     "name": "Sleepy Hollow",
     "fips_code": null,
-    "rate": 0.0175
+    "rate": 0.02
   },
   {
     "state": "IL",
@@ -24070,7 +24070,7 @@
     "jurisdiction_type": "city",
     "name": "South Barrington",
     "fips_code": null,
-    "rate": 0.0375
+    "rate": 0.04
   },
   {
     "state": "IL",
@@ -24084,21 +24084,21 @@
     "jurisdiction_type": "city",
     "name": "South Chicago Heights",
     "fips_code": null,
-    "rate": 0.0375
+    "rate": 0.04
   },
   {
     "state": "IL",
     "jurisdiction_type": "city",
     "name": "South Elgin",
     "fips_code": null,
-    "rate": 0.0175
+    "rate": 0.02
   },
   {
     "state": "IL",
     "jurisdiction_type": "city",
     "name": "South Holland",
     "fips_code": null,
-    "rate": 0.0325
+    "rate": 0.035
   },
   {
     "state": "IL",
@@ -24154,7 +24154,7 @@
     "jurisdiction_type": "city",
     "name": "Spring Grove",
     "fips_code": null,
-    "rate": 0.02
+    "rate": 0.0225
   },
   {
     "state": "IL",
@@ -24189,7 +24189,7 @@
     "jurisdiction_type": "city",
     "name": "Steger",
     "fips_code": null,
-    "rate": 0.0275
+    "rate": 0.03
   },
   {
     "state": "IL",
@@ -24210,7 +24210,7 @@
     "jurisdiction_type": "city",
     "name": "Stickney",
     "fips_code": null,
-    "rate": 0.04
+    "rate": 0.0425
   },
   {
     "state": "IL",
@@ -24224,7 +24224,7 @@
     "jurisdiction_type": "city",
     "name": "Stone Park",
     "fips_code": null,
-    "rate": 0.04
+    "rate": 0.0425
   },
   {
     "state": "IL",
@@ -24259,7 +24259,7 @@
     "jurisdiction_type": "city",
     "name": "Streamwood",
     "fips_code": null,
-    "rate": 0.0375
+    "rate": 0.04
   },
   {
     "state": "IL",
@@ -24301,7 +24301,7 @@
     "jurisdiction_type": "city",
     "name": "Summit",
     "fips_code": null,
-    "rate": 0.0375
+    "rate": 0.04
   },
   {
     "state": "IL",
@@ -24322,7 +24322,7 @@
     "jurisdiction_type": "city",
     "name": "Symerton",
     "fips_code": null,
-    "rate": 0.0175
+    "rate": 0.02
   },
   {
     "state": "IL",
@@ -24392,7 +24392,7 @@
     "jurisdiction_type": "city",
     "name": "Third Lake",
     "fips_code": null,
-    "rate": 0.0075
+    "rate": 0.01
   },
   {
     "state": "IL",
@@ -24413,7 +24413,7 @@
     "jurisdiction_type": "city",
     "name": "Thornton",
     "fips_code": null,
-    "rate": 0.0375
+    "rate": 0.04
   },
   {
     "state": "IL",
@@ -24441,7 +24441,7 @@
     "jurisdiction_type": "city",
     "name": "Tinley Park",
     "fips_code": null,
-    "rate": 0.0375
+    "rate": 0.04
   },
   {
     "state": "IL",
@@ -24518,14 +24518,14 @@
     "jurisdiction_type": "city",
     "name": "Tower Lakes",
     "fips_code": null,
-    "rate": 0.0175
+    "rate": 0.02
   },
   {
     "state": "IL",
     "jurisdiction_type": "city",
     "name": "Trout Valley",
     "fips_code": null,
-    "rate": 0.01
+    "rate": 0.0125
   },
   {
     "state": "IL",
@@ -24546,14 +24546,14 @@
     "jurisdiction_type": "city",
     "name": "Union",
     "fips_code": null,
-    "rate": 0.01
+    "rate": 0.0125
   },
   {
     "state": "IL",
     "jurisdiction_type": "city",
     "name": "University Park",
     "fips_code": null,
-    "rate": 0.0175
+    "rate": 0.02
   },
   {
     "state": "IL",
@@ -24623,7 +24623,7 @@
     "jurisdiction_type": "city",
     "name": "Vernon Hills",
     "fips_code": null,
-    "rate": 0.01
+    "rate": 0.0125
   },
   {
     "state": "IL",
@@ -24658,7 +24658,7 @@
     "jurisdiction_type": "city",
     "name": "Village Of Lakewood",
     "fips_code": null,
-    "rate": 0.02
+    "rate": 0.0225
   },
   {
     "state": "IL",
@@ -24672,7 +24672,7 @@
     "jurisdiction_type": "city",
     "name": "Virgil",
     "fips_code": null,
-    "rate": 0.0075
+    "rate": 0.01
   },
   {
     "state": "IL",
@@ -24686,14 +24686,14 @@
     "jurisdiction_type": "city",
     "name": "Volo",
     "fips_code": null,
-    "rate": 0.0175
+    "rate": 0.02
   },
   {
     "state": "IL",
     "jurisdiction_type": "city",
     "name": "Wadsworth",
     "fips_code": null,
-    "rate": 0.0175
+    "rate": 0.02
   },
   {
     "state": "IL",
@@ -24749,7 +24749,7 @@
     "jurisdiction_type": "city",
     "name": "Warrenville",
     "fips_code": null,
-    "rate": 0.02
+    "rate": 0.0225
   },
   {
     "state": "IL",
@@ -24805,14 +24805,14 @@
     "jurisdiction_type": "city",
     "name": "Wauconda",
     "fips_code": null,
-    "rate": 0.0175
+    "rate": 0.02
   },
   {
     "state": "IL",
     "jurisdiction_type": "city",
     "name": "Waukegan",
     "fips_code": null,
-    "rate": 0.0225
+    "rate": 0.025
   },
   {
     "state": "IL",
@@ -24826,7 +24826,7 @@
     "jurisdiction_type": "city",
     "name": "Wayne",
     "fips_code": null,
-    "rate": 0.0075
+    "rate": 0.01
   },
   {
     "state": "IL",
@@ -24868,7 +24868,7 @@
     "jurisdiction_type": "city",
     "name": "West Chicago",
     "fips_code": null,
-    "rate": 0.0225
+    "rate": 0.025
   },
   {
     "state": "IL",
@@ -24903,14 +24903,14 @@
     "jurisdiction_type": "city",
     "name": "Westchester",
     "fips_code": null,
-    "rate": 0.0375
+    "rate": 0.04
   },
   {
     "state": "IL",
     "jurisdiction_type": "city",
     "name": "Western Springs",
     "fips_code": null,
-    "rate": 0.0375
+    "rate": 0.04
   },
   {
     "state": "IL",
@@ -24924,14 +24924,14 @@
     "jurisdiction_type": "city",
     "name": "Westmont",
     "fips_code": null,
-    "rate": 0.0175
+    "rate": 0.02
   },
   {
     "state": "IL",
     "jurisdiction_type": "city",
     "name": "Wheaton",
     "fips_code": null,
-    "rate": 0.02
+    "rate": 0.0225
   },
   {
     "state": "IL",
@@ -24945,7 +24945,7 @@
     "jurisdiction_type": "city",
     "name": "Wheeling",
     "fips_code": null,
-    "rate": 0.0375
+    "rate": 0.04
   },
   {
     "state": "IL",
@@ -25001,21 +25001,21 @@
     "jurisdiction_type": "city",
     "name": "Willow Springs",
     "fips_code": null,
-    "rate": 0.0375
+    "rate": 0.04
   },
   {
     "state": "IL",
     "jurisdiction_type": "city",
     "name": "Wilmette",
     "fips_code": null,
-    "rate": 0.0375
+    "rate": 0.04
   },
   {
     "state": "IL",
     "jurisdiction_type": "city",
     "name": "Wilmington",
     "fips_code": null,
-    "rate": 0.0075
+    "rate": 0.01
   },
   {
     "state": "IL",
@@ -25043,7 +25043,7 @@
     "jurisdiction_type": "city",
     "name": "Winfield",
     "fips_code": null,
-    "rate": 0.0175
+    "rate": 0.02
   },
   {
     "state": "IL",
@@ -25057,7 +25057,7 @@
     "jurisdiction_type": "city",
     "name": "Winnetka",
     "fips_code": null,
-    "rate": 0.0375
+    "rate": 0.04
   },
   {
     "state": "IL",
@@ -25071,7 +25071,7 @@
     "jurisdiction_type": "city",
     "name": "Winthrop Harbor",
     "fips_code": null,
-    "rate": 0.0075
+    "rate": 0.01
   },
   {
     "state": "IL",
@@ -25085,14 +25085,14 @@
     "jurisdiction_type": "city",
     "name": "Wonder Lake",
     "fips_code": null,
-    "rate": 0.02
+    "rate": 0.0225
   },
   {
     "state": "IL",
     "jurisdiction_type": "city",
     "name": "Wood Dale",
     "fips_code": null,
-    "rate": 0.0175
+    "rate": 0.02
   },
   {
     "state": "IL",
@@ -25120,7 +25120,7 @@
     "jurisdiction_type": "city",
     "name": "Woodridge",
     "fips_code": null,
-    "rate": 0.02
+    "rate": 0.0225
   },
   {
     "state": "IL",
@@ -25134,7 +25134,7 @@
     "jurisdiction_type": "city",
     "name": "Woodstock",
     "fips_code": null,
-    "rate": 0.0225
+    "rate": 0.025
   },
   {
     "state": "IL",
@@ -25148,7 +25148,7 @@
     "jurisdiction_type": "city",
     "name": "Worth",
     "fips_code": null,
-    "rate": 0.0375
+    "rate": 0.04
   },
   {
     "state": "IL",
@@ -25197,7 +25197,7 @@
     "jurisdiction_type": "city",
     "name": "Zion",
     "fips_code": null,
-    "rate": 0.0075
+    "rate": 0.01
   },
   {
     "state": "IL",
@@ -25295,7 +25295,7 @@
     "jurisdiction_type": "county",
     "name": "Cook County",
     "fips_code": null,
-    "rate": 0.0275
+    "rate": 0.03
   },
   {
     "state": "IL",
@@ -25316,7 +25316,7 @@
     "jurisdiction_type": "county",
     "name": "Dupage County",
     "fips_code": null,
-    "rate": 0.0075
+    "rate": 0.01
   },
   {
     "state": "IL",
@@ -25456,7 +25456,7 @@
     "jurisdiction_type": "county",
     "name": "Kane County",
     "fips_code": null,
-    "rate": 0.0075
+    "rate": 0.01
   },
   {
     "state": "IL",
@@ -25484,7 +25484,7 @@
     "jurisdiction_type": "county",
     "name": "Lake County",
     "fips_code": null,
-    "rate": 0.0075
+    "rate": 0.01
   },
   {
     "state": "IL",
@@ -25561,7 +25561,7 @@
     "jurisdiction_type": "county",
     "name": "Mchenry County",
     "fips_code": null,
-    "rate": 0.01
+    "rate": 0.0125
   },
   {
     "state": "IL",
@@ -25778,7 +25778,7 @@
     "jurisdiction_type": "county",
     "name": "Will County",
     "fips_code": null,
-    "rate": 0.0075
+    "rate": 0.01
   },
   {
     "state": "IL",
@@ -38853,14 +38853,7 @@
     "state": "LA",
     "jurisdiction_type": "parish",
     "name": "Parish Wide",
-    "fips_code": "4800",
-    "rate": 0.0525
-  },
-  {
-    "state": "LA",
-    "jurisdiction_type": "parish",
-    "name": "Parish Wide",
-    "fips_code": "4400",
+    "fips_code": "4500",
     "rate": 0.05
   },
   {
@@ -38874,14 +38867,21 @@
     "state": "LA",
     "jurisdiction_type": "parish",
     "name": "Parish Wide",
-    "fips_code": "4500",
+    "fips_code": "1900",
     "rate": 0.05
   },
   {
     "state": "LA",
     "jurisdiction_type": "parish",
     "name": "Parish Wide",
-    "fips_code": "1900",
+    "fips_code": "4800",
+    "rate": 0.0525
+  },
+  {
+    "state": "LA",
+    "jurisdiction_type": "parish",
+    "name": "Parish Wide",
+    "fips_code": "4400",
     "rate": 0.05
   },
   {
@@ -72363,7 +72363,7 @@
     "jurisdiction_type": "special_district",
     "name": "Special District 98303",
     "fips_code": "98303",
-    "rate": 0.0225
+    "rate": 0.0275
   },
   {
     "state": "TN",
@@ -78362,14 +78362,14 @@
     "jurisdiction_type": "city",
     "name": "Oak Ridge",
     "fips_code": null,
-    "rate": 0.015
+    "rate": 0.02
   },
   {
     "state": "TX",
     "jurisdiction_type": "city",
     "name": "Oak Ridge",
     "fips_code": null,
-    "rate": 0.02
+    "rate": 0.015
   },
   {
     "state": "TX",
@@ -79230,14 +79230,14 @@
     "jurisdiction_type": "city",
     "name": "Reno",
     "fips_code": null,
-    "rate": 0.015
+    "rate": 0.01
   },
   {
     "state": "TX",
     "jurisdiction_type": "city",
     "name": "Reno",
     "fips_code": null,
-    "rate": 0.01
+    "rate": 0.015
   },
   {
     "state": "TX",

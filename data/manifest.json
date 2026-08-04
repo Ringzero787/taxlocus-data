@@ -2,7 +2,7 @@
   "dataset": "TaxLocus Open Sales-Tax Dataset",
   "source": "https://taxlocus.com",
   "license": "CC-BY-4.0",
-  "generated_at": "2026-07-28",
+  "generated_at": "2026-08-04",
   "row_counts": {
     "state_rates": 46,
     "jurisdiction_rates": 14349,

@@ -443,7 +443,7 @@ AL,city,Riverview,,0.03
 AL,city,Roanoke,,0.035
 AL,city,Robertsdale,,0.02
 AL,city,Rockford,,0.03
-AL,city,Rogersville,,0.02
+AL,city,Rogersville,,0.03
 AL,city,Russellville,,0.03
 AL,city,Rutledge,,0.02
 AL,city,Samson Sales,,0.03
@@ -1093,7 +1093,7 @@ AZ,city,Goodyear,,0.025
 AZ,city,Guadalupe,,0.04
 AZ,city,Hayden,,0.03
 AZ,city,Holbrook,,0.03
-AZ,city,Huachuca City,,0.019
+AZ,city,Huachuca City,,0.029
 AZ,city,Jerome,,0.035
 AZ,city,Kearny,,0.04
 AZ,city,Kingman,,0.025
@@ -1629,11 +1629,11 @@ CA,special_district,Turlock (CDTFA tax area),,0.01375
 CA,special_district,Tustin (CDTFA tax area),,0.005
 CA,special_district,Twentynine Palms (CDTFA tax area),,0.005
 CA,special_district,Ukiah (CDTFA tax area),,0.01625
-CA,special_district,Unincorporated (CDTFA tax area),,0.02
-CA,special_district,Unincorporated (CDTFA tax area),,0.03
-CA,special_district,Unincorporated (CDTFA tax area),,0.0
+CA,special_district,Unincorporated (CDTFA tax area),,0.00625
 CA,special_district,Unincorporated (CDTFA tax area),,0.005
+CA,special_district,Unincorporated (CDTFA tax area),,0.0
 CA,special_district,Unincorporated (CDTFA tax area),,0.01
+CA,special_district,Unincorporated (CDTFA tax area),,0.03
 CA,special_district,Unincorporated (CDTFA tax area),,0.01
 CA,special_district,Unincorporated (CDTFA tax area),,0.005
 CA,special_district,Unincorporated (CDTFA tax area),,0.015
@@ -1648,44 +1648,44 @@ CA,special_district,Unincorporated (CDTFA tax area),,0.01
 CA,special_district,Unincorporated (CDTFA tax area),,0.0
 CA,special_district,Unincorporated (CDTFA tax area),,0.0
 CA,special_district,Unincorporated (CDTFA tax area),,0.0
-CA,special_district,Unincorporated (CDTFA tax area),,0.01
-CA,special_district,Unincorporated (CDTFA tax area),,0.0
-CA,special_district,Unincorporated (CDTFA tax area),,0.0
-CA,special_district,Unincorporated (CDTFA tax area),,0.0
-CA,special_district,Unincorporated (CDTFA tax area),,0.005
-CA,special_district,Unincorporated (CDTFA tax area),,0.0
-CA,special_district,Unincorporated (CDTFA tax area),,0.0
-CA,special_district,Unincorporated (CDTFA tax area),,0.0
-CA,special_district,Unincorporated (CDTFA tax area),,0.00625
-CA,special_district,Unincorporated (CDTFA tax area),,0.00125
-CA,special_district,Unincorporated (CDTFA tax area),,0.0
-CA,special_district,Unincorporated (CDTFA tax area),,0.0
-CA,special_district,Unincorporated (CDTFA tax area),,0.0
-CA,special_district,Unincorporated (CDTFA tax area),,0.0225
-CA,special_district,Unincorporated (CDTFA tax area),,0.025
-CA,special_district,Unincorporated (CDTFA tax area),,0.005
-CA,special_district,Unincorporated (CDTFA tax area),,0.02125
-CA,special_district,Unincorporated (CDTFA tax area),,0.0
-CA,special_district,Unincorporated (CDTFA tax area),,0.005
-CA,special_district,Unincorporated (CDTFA tax area),,0.005
-CA,special_district,Unincorporated (CDTFA tax area),,0.005
-CA,special_district,Unincorporated (CDTFA tax area),,0.01
-CA,special_district,Unincorporated (CDTFA tax area),,0.005
-CA,special_district,Unincorporated (CDTFA tax area),,0.005
-CA,special_district,Unincorporated (CDTFA tax area),,0.0
-CA,special_district,Unincorporated (CDTFA tax area),,0.0
-CA,special_district,Unincorporated (CDTFA tax area),,0.005
 CA,special_district,Unincorporated (CDTFA tax area),,0.025
 CA,special_district,Unincorporated (CDTFA tax area),,0.005
 CA,special_district,Unincorporated (CDTFA tax area),,0.01
 CA,special_district,Unincorporated (CDTFA tax area),,0.01
-CA,special_district,Unincorporated (CDTFA tax area),,0.00625
 CA,special_district,Unincorporated (CDTFA tax area),,0.005
 CA,special_district,Unincorporated (CDTFA tax area),,0.0
 CA,special_district,Unincorporated (CDTFA tax area),,0.0
 CA,special_district,Unincorporated (CDTFA tax area),,0.015
 CA,special_district,Unincorporated (CDTFA tax area),,0.005
 CA,special_district,Unincorporated (CDTFA tax area),,0.0025
+CA,special_district,Unincorporated (CDTFA tax area),,0.005
+CA,special_district,Unincorporated (CDTFA tax area),,0.0
+CA,special_district,Unincorporated (CDTFA tax area),,0.0
+CA,special_district,Unincorporated (CDTFA tax area),,0.005
+CA,special_district,Unincorporated (CDTFA tax area),,0.005
+CA,special_district,Unincorporated (CDTFA tax area),,0.01
+CA,special_district,Unincorporated (CDTFA tax area),,0.005
+CA,special_district,Unincorporated (CDTFA tax area),,0.005
+CA,special_district,Unincorporated (CDTFA tax area),,0.005
+CA,special_district,Unincorporated (CDTFA tax area),,0.0
+CA,special_district,Unincorporated (CDTFA tax area),,0.02125
+CA,special_district,Unincorporated (CDTFA tax area),,0.005
+CA,special_district,Unincorporated (CDTFA tax area),,0.025
+CA,special_district,Unincorporated (CDTFA tax area),,0.0225
+CA,special_district,Unincorporated (CDTFA tax area),,0.0
+CA,special_district,Unincorporated (CDTFA tax area),,0.0
+CA,special_district,Unincorporated (CDTFA tax area),,0.0
+CA,special_district,Unincorporated (CDTFA tax area),,0.00125
+CA,special_district,Unincorporated (CDTFA tax area),,0.02
+CA,special_district,Unincorporated (CDTFA tax area),,0.00625
+CA,special_district,Unincorporated (CDTFA tax area),,0.0
+CA,special_district,Unincorporated (CDTFA tax area),,0.0
+CA,special_district,Unincorporated (CDTFA tax area),,0.0
+CA,special_district,Unincorporated (CDTFA tax area),,0.005
+CA,special_district,Unincorporated (CDTFA tax area),,0.01
+CA,special_district,Unincorporated (CDTFA tax area),,0.0
+CA,special_district,Unincorporated (CDTFA tax area),,0.0
+CA,special_district,Unincorporated (CDTFA tax area),,0.0
 CA,special_district,Union City (CDTFA tax area),,0.035
 CA,special_district,Upland (CDTFA tax area),,0.005
 CA,special_district,Vacaville (CDTFA tax area),,0.00875
@@ -1753,8 +1753,8 @@ CO,city,Blue River (Mail Via Breckenridge),,0.05975
 CO,city,Bonanza (Mail Via Villa Grove),,0.025
 CO,city,Boone,,0.01
 CO,city,Boulder,,0.06295
-CO,city,Bow Mar (Mail Via Littleton),,0.016
 CO,city,Bow Mar (Mail Via Littleton),,0.0135
+CO,city,Bow Mar (Mail Via Littleton),,0.016
 CO,city,Branson,,0.015
 CO,city,Breckenridge,,0.05975
 CO,city,Brighton,,0.0375
@@ -2032,78 +2032,78 @@ CO,city,Steamboat Springs (Local Marketing Dist),,0.055
 CO,city,Sterling,,0.041
 CO,city,Stratton,,0.02
 CO,city,Sugar City,,0.02
-CO,city,Superior (Mail Via Louisville),,0.0538
 CO,city,Superior (Mail Via Louisville),,0.06215
+CO,city,Superior (Mail Via Louisville),,0.0538
 CO,city,Swink,,0.01
 CO,city,Telluride,,0.0657
 CO,city,Thornton,,0.056
 CO,city,Timnath,,0.0425
 CO,city,Trinidad,,0.055
 CO,city,Two Buttes,,0.0
-CO,city,Unincorporated,,0.02
-CO,city,Unincorporated,,0.01
-CO,city,Unincorporated,,0.0
-CO,city,Unincorporated,,0.0223
-CO,city,Unincorporated,,0.015
 CO,city,Unincorporated,,0.0105
-CO,city,Unincorporated,,0.02435
-CO,city,Unincorporated,,0.0237
-CO,city,Unincorporated,,0.01
-CO,city,Unincorporated,,0.0135
-CO,city,Unincorporated,,0.016
-CO,city,Unincorporated,,0.0185
-CO,city,Unincorporated,,0.01
-CO,city,Unincorporated,,0.025
-CO,city,Unincorporated,,0.0
-CO,city,Unincorporated,,0.03
-CO,city,Unincorporated,,0.01
-CO,city,Unincorporated,,0.036
-CO,city,Unincorporated,,0.0
-CO,city,Unincorporated,,0.03
-CO,city,Unincorporated,,0.0175
-CO,city,Unincorporated,,0.0
-CO,city,Unincorporated,,0.026
-CO,city,Unincorporated,,0.0125
-CO,city,Unincorporated,,0.02
-CO,city,Unincorporated,,0.0
-CO,city,Unincorporated,,0.015
-CO,city,Unincorporated,,0.01
-CO,city,Unincorporated,,0.01
-CO,city,Unincorporated,,0.03
-CO,city,Unincorporated,,0.0275
-CO,city,Unincorporated,,0.01
-CO,city,Unincorporated,,0.025
-CO,city,Unincorporated,,0.02
-CO,city,Unincorporated,,0.01
-CO,city,Unincorporated,,0.02
-CO,city,Unincorporated,,0.03
-CO,city,Unincorporated,,0.02
-CO,city,Unincorporated,,0.035
-CO,city,Unincorporated,,0.04
-CO,city,Unincorporated,,0.02
-CO,city,Unincorporated,,0.01
-CO,city,Unincorporated,,0.02
-CO,city,Unincorporated,,0.0
-CO,city,Unincorporated,,0.0
-CO,city,Unincorporated,,0.021
-CO,city,Unincorporated,,0.04
-CO,city,Unincorporated,,0.036
-CO,city,Unincorporated,,0.0207
-CO,city,Unincorporated,,0.0265
-CO,city,Unincorporated,,0.02
-CO,city,Unincorporated,,0.013
-CO,city,Unincorporated,,0.065
-CO,city,Unincorporated,,0.0255
-CO,city,Unincorporated,,0.0425
-CO,city,Unincorporated,,0.0
-CO,city,Unincorporated,,0.04
-CO,city,Unincorporated,,0.0
-CO,city,Unincorporated,,0.03475
-CO,city,Unincorporated,,0.026
 CO,city,Unincorporated,,0.05
+CO,city,Unincorporated,,0.026
+CO,city,Unincorporated,,0.03475
+CO,city,Unincorporated,,0.0
+CO,city,Unincorporated,,0.04
+CO,city,Unincorporated,,0.0
+CO,city,Unincorporated,,0.0425
+CO,city,Unincorporated,,0.0255
+CO,city,Unincorporated,,0.065
+CO,city,Unincorporated,,0.013
+CO,city,Unincorporated,,0.02
+CO,city,Unincorporated,,0.0265
+CO,city,Unincorporated,,0.0207
+CO,city,Unincorporated,,0.036
+CO,city,Unincorporated,,0.04
+CO,city,Unincorporated,,0.021
+CO,city,Unincorporated,,0.0
+CO,city,Unincorporated,,0.0
+CO,city,Unincorporated,,0.02
+CO,city,Unincorporated,,0.01
+CO,city,Unincorporated,,0.02
+CO,city,Unincorporated,,0.04
+CO,city,Unincorporated,,0.035
+CO,city,Unincorporated,,0.02
+CO,city,Unincorporated,,0.03
+CO,city,Unincorporated,,0.02
+CO,city,Unincorporated,,0.01
+CO,city,Unincorporated,,0.02
+CO,city,Unincorporated,,0.025
+CO,city,Unincorporated,,0.01
+CO,city,Unincorporated,,0.02
+CO,city,Unincorporated,,0.0275
+CO,city,Unincorporated,,0.03
+CO,city,Unincorporated,,0.01
+CO,city,Unincorporated,,0.01
+CO,city,Unincorporated,,0.015
+CO,city,Unincorporated,,0.0
+CO,city,Unincorporated,,0.02
+CO,city,Unincorporated,,0.0125
+CO,city,Unincorporated,,0.026
+CO,city,Unincorporated,,0.0
+CO,city,Unincorporated,,0.0175
+CO,city,Unincorporated,,0.03
+CO,city,Unincorporated,,0.0
+CO,city,Unincorporated,,0.036
+CO,city,Unincorporated,,0.01
+CO,city,Unincorporated,,0.03
+CO,city,Unincorporated,,0.0
+CO,city,Unincorporated,,0.025
+CO,city,Unincorporated,,0.01
+CO,city,Unincorporated,,0.0185
+CO,city,Unincorporated,,0.016
+CO,city,Unincorporated,,0.0135
+CO,city,Unincorporated,,0.01
+CO,city,Unincorporated,,0.0237
+CO,city,Unincorporated,,0.02435
+CO,city,Unincorporated,,0.015
+CO,city,Unincorporated,,0.0223
+CO,city,Unincorporated,,0.0
+CO,city,Unincorporated,,0.01
 CO,city,Unincorporated (Berthoud Fpd),,0.01
-CO,city,Unincorporated (Berthoud Fpd),,0.03435
 CO,city,Unincorporated (Berthoud Fpd),,0.0205
+CO,city,Unincorporated (Berthoud Fpd),,0.03435
 CO,city,Unincorporated (Cd Only),,0.0085
 CO,city,Unincorporated (Cd Only),,0.011
 CO,city,Unincorporated (Cimarron Hills Fpd),,0.0323
@@ -2124,8 +2124,8 @@ CO,city,Unincorporated (Wthin La Veta Fpd),,0.035
 CO,city,Unincorporated Arapahoe Cd Only,,0.0035
 CO,city,Unincorporated Eagle Within Rfrta,,0.0235
 CO,city,Unincorporated In Pueblo Rural Fpd,,0.02
-CO,city,Unincorporated In Upper Pine River Fpd,,0.05
 CO,city,Unincorporated In Upper Pine River Fpd,,0.04
+CO,city,Unincorporated In Upper Pine River Fpd,,0.05
 CO,city,Unincorporated Jefferson Within Lid,,0.021
 CO,city,Unincorporated Montezuma,,0.004
 CO,city,Unincorporated Ute And South Park Hsd,,0.025
@@ -2273,8 +2273,8 @@ FL,county,Putnam,,0.01
 FL,county,Santa Rosa,,0.01
 FL,county,Sarasota,,0.01
 FL,county,Seminole,,0.01
-FL,county,St Johns,,0.005
-FL,county,St Lucie,,0.01
+FL,county,St. Johns,,0.005
+FL,county,St. Lucie,,0.01
 FL,county,Sumter,,0.01
 FL,county,Suwannee,,0.01
 FL,county,Taylor,,0.01
@@ -2570,12 +2570,12 @@ ID,city,Sandpoint,,0.01
 ID,city,Stanley,,0.025
 ID,city,Sun Valley,,0.03
 IL,city,Abingdon,,0.015
-IL,city,Addison,,0.025
+IL,city,Addison,,0.0275
 IL,city,Albany,,0.015
 IL,city,Albion,,0.01
 IL,city,Aledo,,0.01
 IL,city,Alexis,,0.0175
-IL,city,Algonquin,,0.02
+IL,city,Algonquin,,0.0225
 IL,city,Alhambra,,0.0035
 IL,city,Allendale,,0.01
 IL,city,Allenville,,0.005
@@ -2584,7 +2584,7 @@ IL,city,Alma,,0.0125
 IL,city,Alorton,,0.021
 IL,city,Alpha,,0.015
 IL,city,Alsey,,0.01
-IL,city,Alsip,,0.0375
+IL,city,Alsip,,0.04
 IL,city,Alto Pass,,0.0225
 IL,city,Altona,,0.025
 IL,city,Alvin,,0.0025
@@ -2598,7 +2598,7 @@ IL,city,Apple River,,0.01
 IL,city,Arenzville,,0.02
 IL,city,Argenta,,0.015
 IL,city,Arlington,,0.02
-IL,city,Arlington Heights,,0.0375
+IL,city,Arlington Heights,,0.04
 IL,city,Armington,,0.005
 IL,city,Arrowsmith,,0.01
 IL,city,Arthur,,0.01
@@ -2611,28 +2611,28 @@ IL,city,Assumption,,0.02
 IL,city,Astoria,,0.015
 IL,city,Atkinson,,0.015
 IL,city,Auburn,,0.015
-IL,city,Aurora,,0.02
+IL,city,Aurora,,0.0225
 IL,city,Ava,,0.01
 IL,city,Avon,,0.015
 IL,city,Baldwin,,0.01
 IL,city,Banner,,0.015
-IL,city,Bannockburn,,0.0175
+IL,city,Bannockburn,,0.02
 IL,city,Barclay,,0.015
 IL,city,Bardolph,,0.0175
-IL,city,Barrington,,0.0375
-IL,city,Barrington Hills,,0.0275
+IL,city,Barrington,,0.04
+IL,city,Barrington Hills,,0.03
 IL,city,Barry,,0.015
-IL,city,Bartlett,,0.025
-IL,city,Batavia,,0.0225
+IL,city,Bartlett,,0.0275
+IL,city,Batavia,,0.025
 IL,city,Batchtown,,0.0175
 IL,city,Bath,,0.01
 IL,city,Bay View Gardens,,0.02
 IL,city,Baylis,,0.015
-IL,city,Beach Park,,0.0075
+IL,city,Beach Park,,0.01
 IL,city,Beardstown,,0.02
 IL,city,Beaverville,,0.0025
-IL,city,Bedford Park,,0.0375
-IL,city,Beecher,,0.0175
+IL,city,Bedford Park,,0.04
+IL,city,Beecher,,0.02
 IL,city,Beecher City,,0.0025
 IL,city,Belgium,,0.0025
 IL,city,Belknap,,0.015
@@ -2643,14 +2643,14 @@ IL,city,Bellmont,,0.01
 IL,city,Belvidere,,0.02
 IL,city,Bement,,0.01
 IL,city,Benld,,0.02
-IL,city,Bensenville,,0.0175
+IL,city,Bensenville,,0.02
 IL,city,Benson,,0.02
 IL,city,Benton,,0.0325
-IL,city,Berkeley,,0.0375
+IL,city,Berkeley,,0.04
 IL,city,Berlin,,0.015
-IL,city,Berwyn,,0.045
+IL,city,Berwyn,,0.0475
 IL,city,Bethany,,0.005
-IL,city,Big Rock,,0.0075
+IL,city,Big Rock,,0.01
 IL,city,Biggsville,,0.01
 IL,city,Bingham,,0.01
 IL,city,Bishop Hill,,0.015
@@ -2660,22 +2660,22 @@ IL,city,Bloomington,,0.035
 IL,city,Blue Mound,,0.015
 IL,city,Bluffs,,0.01
 IL,city,Bluford,,0.005
-IL,city,Bolingbrook,,0.0225
+IL,city,Bolingbrook,,0.025
 IL,city,Bondville,,0.0125
 IL,city,Bone Gap,,0.01
 IL,city,Bonnie,,0.005
 IL,city,Bowen,,0.01
-IL,city,Braceville,,0.0075
+IL,city,Braceville,,0.01
 IL,city,Bradford,,0.0125
-IL,city,Braidwood,,0.0075
+IL,city,Braidwood,,0.01
 IL,city,Bridgeport,,0.01
-IL,city,Bridgeview,,0.0375
+IL,city,Bridgeview,,0.04
 IL,city,Brimfield,,0.01
 IL,city,Broadlands,,0.0125
-IL,city,Broadview,,0.0375
+IL,city,Broadview,,0.04
 IL,city,Broadwell,,0.02
 IL,city,Brocton,,0.02
-IL,city,Brookfield,,0.0375
+IL,city,Brookfield,,0.04
 IL,city,Brooklyn,,0.011
 IL,city,Broughton,,0.02
 IL,city,Browning,,0.02
@@ -2687,17 +2687,17 @@ IL,city,Buckley,,0.0025
 IL,city,Buckner,,0.01
 IL,city,Buda,,0.01
 IL,city,Buffalo,,0.015
-IL,city,Buffalo Grove,,0.0175
-IL,city,Bull Valley,,0.02
+IL,city,Buffalo Grove,,0.02
+IL,city,Bull Valley,,0.0225
 IL,city,Bulpitt,,0.01
 IL,city,Buncombe,,0.015
 IL,city,Bunker Hill,,0.02
-IL,city,Burbank,,0.035
+IL,city,Burbank,,0.0375
 IL,city,Bureau,,0.02
-IL,city,Burlington,,0.0075
-IL,city,Burnham,,0.0375
+IL,city,Burlington,,0.01
+IL,city,Burnham,,0.04
 IL,city,Burnt Prairie,,0.01
-IL,city,Burr Ridge,,0.01
+IL,city,Burr Ridge,,0.0125
 IL,city,Bush,,0.01
 IL,city,Bushnell,,0.0225
 IL,city,Butler,,0.01
@@ -2705,14 +2705,14 @@ IL,city,Byron,,0.01
 IL,city,Cahokia,,0.021
 IL,city,Caledonia,,0.015
 IL,city,Calhoun,,0.015
-IL,city,Calumet Park,,0.0375
+IL,city,Calumet Park,,0.04
 IL,city,Camargo,,0.01
 IL,city,Cambria,,0.01
 IL,city,Cambridge,,0.015
 IL,city,Camden,,0.02
 IL,city,Camp Point,,0.0025
 IL,city,Campbell Hill,,0.01
-IL,city,Campton Hills,,0.0075
+IL,city,Campton Hills,,0.01
 IL,city,Campus,,0.01
 IL,city,Cantrall,,0.015
 IL,city,Capron,,0.015
@@ -2721,13 +2721,13 @@ IL,city,Carbondale,,0.035
 IL,city,Carlock,,0.02
 IL,city,Carlyle,,0.01
 IL,city,Carmi,,0.0175
-IL,city,Carol Stream,,0.0175
-IL,city,Carpentersville,,0.0275
+IL,city,Carol Stream,,0.02
+IL,city,Carpentersville,,0.03
 IL,city,Carrier Mills,,0.0175
 IL,city,Carrollton,,0.01
 IL,city,Carterville,,0.025
 IL,city,Carthage,,0.005
-IL,city,Cary,,0.02
+IL,city,Cary,,0.0225
 IL,city,Casey,,0.01
 IL,city,Catlin,,0.0025
 IL,city,Cave In Rock,,0.02
@@ -2749,23 +2749,23 @@ IL,city,Cherry,,0.01
 IL,city,Cherry Valley,,0.025
 IL,city,Chester,,0.01
 IL,city,Chesterfield,,0.01
-IL,city,Chicago,,0.04
-IL,city,Chicago Heights,,0.0375
+IL,city,Chicago,,0.0425
+IL,city,Chicago Heights,,0.04
 IL,city,Chillicothe,,0.015
 IL,city,Chrisman,,0.02
 IL,city,Christopher,,0.02
-IL,city,Cicero,,0.045
+IL,city,Cicero,,0.0475
 IL,city,Cisco,,0.01
 IL,city,Cisne,,0.0075
 IL,city,Cissna Park,,0.0025
 IL,city,Claremont,,0.015
-IL,city,Clarendon Hills,,0.0075
+IL,city,Clarendon Hills,,0.01
 IL,city,Clay City,,0.015
 IL,city,Clayton,,0.0025
 IL,city,Cleveland,,0.015
 IL,city,Clifton,,0.0025
 IL,city,Clinton,,0.01
-IL,city,Coal City,,0.0075
+IL,city,Coal City,,0.01
 IL,city,Coal Valley,,0.015
 IL,city,Coalton,,0.01
 IL,city,Coatsburg,,0.0025
@@ -2784,17 +2784,17 @@ IL,city,Cordova,,0.01
 IL,city,Cornell,,0.01
 IL,city,Cortland,,0.01
 IL,city,Coulterville,,0.015
-IL,city,Country Club Hills,,0.04
-IL,city,Countryside,,0.035
+IL,city,Country Club Hills,,0.0425
+IL,city,Countryside,,0.0375
 IL,city,Cowden,,0.01
 IL,city,Crainville,,0.02
 IL,city,Creal Springs,,0.01
 IL,city,Crescent City,,0.0025
-IL,city,Crest Hill,,0.0175
-IL,city,Crestwood,,0.0375
-IL,city,Crete,,0.0125
+IL,city,Crest Hill,,0.02
+IL,city,Crestwood,,0.04
+IL,city,Crete,,0.015
 IL,city,Crossville,,0.01
-IL,city,Crystal Lake,,0.0225
+IL,city,Crystal Lake,,0.025
 IL,city,Cuba,,0.02
 IL,city,Cullom,,0.01
 IL,city,Curran,,0.015
@@ -2808,34 +2808,34 @@ IL,city,Dalzell,,0.01
 IL,city,Dana,,0.0025
 IL,city,Danforth,,0.0025
 IL,city,Danville,,0.03
-IL,city,Darien,,0.02
+IL,city,Darien,,0.0225
 IL,city,Davis,,0.005
 IL,city,Dawson,,0.015
 IL,city,Decatur,,0.03
 IL,city,Deer Creek,,0.015
 IL,city,Deer Grove,,0.015
-IL,city,Deer Park,,0.0175
-IL,city,Deerfield,,0.0175
+IL,city,Deer Park,,0.02
+IL,city,Deerfield,,0.02
 IL,city,Dekalb,,0.0175
 IL,city,Deland,,0.02
 IL,city,Delavan,,0.005
 IL,city,Depue,,0.02
-IL,city,Des Plaines,,0.0375
+IL,city,Des Plaines,,0.04
 IL,city,Desoto,,0.01
 IL,city,Detroit,,0.015
-IL,city,Diamond,,0.0075
+IL,city,Diamond,,0.01
 IL,city,Dieterich,,0.0025
 IL,city,Dix,,0.015
-IL,city,Dixmoor,,0.0275
+IL,city,Dixmoor,,0.03
 IL,city,Dixon,,0.02
-IL,city,Dolton,,0.035
+IL,city,Dolton,,0.0375
 IL,city,Dongola,,0.0325
 IL,city,Donnellson,,0.01
 IL,city,Donovan,,0.0025
 IL,city,Dorchester,,0.01
 IL,city,Dover,,0.02
 IL,city,Dowell,,0.02
-IL,city,Downers Grove,,0.0225
+IL,city,Downers Grove,,0.025
 IL,city,Downs,,0.02
 IL,city,Dunfermline,,0.015
 IL,city,Dunlap,,0.01
@@ -2845,36 +2845,36 @@ IL,city,Eagarville,,0.01
 IL,city,Earlville,,0.0025
 IL,city,East Carondelet,,0.011
 IL,city,East Dubuque,,0.015
-IL,city,East Dundee,,0.0475
+IL,city,East Dundee,,0.05
 IL,city,East Galesburg,,0.015
 IL,city,East Gillespie,,0.01
-IL,city,East Hazel Crest,,0.0325
+IL,city,East Hazel Crest,,0.035
 IL,city,Easton,,0.01
 IL,city,Edgewood,,0.0125
 IL,city,Edinburg,,0.01
 IL,city,El Dara,,0.015
 IL,city,El Paso,,0.02
-IL,city,Elburn,,0.0175
+IL,city,Elburn,,0.02
 IL,city,Eldorado,,0.0175
 IL,city,Eldred,,0.01
-IL,city,Elgin,,0.0225
+IL,city,Elgin,,0.025
 IL,city,Elizabethtown,,0.02
-IL,city,Elk Grove Village,,0.0375
+IL,city,Elk Grove Village,,0.04
 IL,city,Elkhart,,0.02
 IL,city,Elkville,,0.02
 IL,city,Ellis Grove,,0.01
 IL,city,Ellisville,,0.015
 IL,city,Ellsworth,,0.01
-IL,city,Elmhurst,,0.0225
+IL,city,Elmhurst,,0.025
 IL,city,Elmwood,,0.01
 IL,city,Elsah,,0.0275
-IL,city,Elwood,,0.0175
+IL,city,Elwood,,0.02
 IL,city,Emden,,0.02
 IL,city,Emington,,0.01
 IL,city,Enfield,,0.01
 IL,city,Equality,,0.01
 IL,city,Eureka,,0.02
-IL,city,Evanston,,0.04
+IL,city,Evanston,,0.0425
 IL,city,Evansville,,0.01
 IL,city,Ewing,,0.01
 IL,city,Exeter,,0.01
@@ -2894,20 +2894,20 @@ IL,city,Fithian,,0.0025
 IL,city,Flanagan,,0.01
 IL,city,Flora,,0.015
 IL,city,Florence,,0.015
-IL,city,Flossmoor,,0.0375
+IL,city,Flossmoor,,0.04
 IL,city,Foosland,,0.0125
-IL,city,Ford Heights,,0.0375
+IL,city,Ford Heights,,0.04
 IL,city,Forest City,,0.01
-IL,city,Forest Park,,0.0375
-IL,city,Forest View,,0.0375
+IL,city,Forest Park,,0.04
+IL,city,Forest View,,0.04
 IL,city,Forrest,,0.01
 IL,city,Forsyth,,0.025
-IL,city,Fox Lake,,0.015
-IL,city,Fox River Grove,,0.0175
-IL,city,Frankfort,,0.0175
+IL,city,Fox Lake,,0.0175
+IL,city,Fox River Grove,,0.02
+IL,city,Frankfort,,0.02
 IL,city,Franklin,,0.01
 IL,city,Franklin Grove,,0.015
-IL,city,Franklin Park,,0.0375
+IL,city,Franklin Park,,0.04
 IL,city,Freeburg,,0.011
 IL,city,Freemanspur,,0.01
 IL,city,Freeport,,0.0275
@@ -2919,28 +2919,28 @@ IL,city,Galva,,0.015
 IL,city,Garrett,,0.01
 IL,city,Gays,,0.005
 IL,city,Geneseo,,0.02
-IL,city,Geneva,,0.0175
+IL,city,Geneva,,0.02
 IL,city,Genoa,,0.01
 IL,city,German Valley,,0.005
 IL,city,Gibson City,,0.01
 IL,city,Gifford,,0.0125
-IL,city,Gilberts,,0.0175
+IL,city,Gilberts,,0.02
 IL,city,Gillespie,,0.02
 IL,city,Gilman,,0.0025
 IL,city,Girard,,0.02
 IL,city,Gladstone,,0.01
 IL,city,Glasford,,0.01
 IL,city,Glasgow,,0.01
-IL,city,Glen Ellyn,,0.02
+IL,city,Glen Ellyn,,0.0225
 IL,city,Glen View,,0.011
-IL,city,Glencoe,,0.0375
-IL,city,Glendale Heights,,0.0225
-IL,city,Glenwood,,0.0475
-IL,city,Godley,,0.0075
+IL,city,Glencoe,,0.04
+IL,city,Glendale Heights,,0.025
+IL,city,Glenwood,,0.05
+IL,city,Godley,,0.01
 IL,city,Golconda,,0.01
 IL,city,Golden,,0.0025
 IL,city,Goldengate,,0.0075
-IL,city,Golf,,0.0275
+IL,city,Golf,,0.03
 IL,city,Good Hope,,0.0175
 IL,city,Goodfield,,0.02
 IL,city,Goreville,,0.015
@@ -2950,33 +2950,33 @@ IL,city,Grand Tower,,0.01
 IL,city,Grandview,,0.015
 IL,city,Grant Park,,0.01
 IL,city,Grantfork,,0.006
-IL,city,Grayslake,,0.0075
-IL,city,Green Oaks,,0.0175
+IL,city,Grayslake,,0.01
+IL,city,Green Oaks,,0.02
 IL,city,Green Valley,,0.015
 IL,city,Greenfield,,0.02
 IL,city,Greenup,,0.015
 IL,city,Greenview,,0.02
-IL,city,Greenwood,,0.01
+IL,city,Greenwood,,0.0125
 IL,city,Gridley,,0.01
 IL,city,Griggsville,,0.015
 IL,city,Gulfport,,0.01
-IL,city,Gurnee,,0.0225
-IL,city,Hainesville,,0.0075
+IL,city,Gurnee,,0.025
+IL,city,Hainesville,,0.01
 IL,city,Hamburg,,0.0175
 IL,city,Hammond,,0.01
-IL,city,Hampshire,,0.0175
+IL,city,Hampshire,,0.02
 IL,city,Hampton,,0.015
 IL,city,Hanaford,,0.01
 IL,city,Hanover,,0.01
-IL,city,Hanover Park,,0.0175
+IL,city,Hanover Park,,0.02
 IL,city,Harmon,,0.015
 IL,city,Hartsburg,,0.03
-IL,city,Harvard,,0.02
+IL,city,Harvard,,0.0225
 IL,city,Harvel,,0.01
-IL,city,Harwood Heights,,0.04
-IL,city,Hawthorn Woods,,0.0175
-IL,city,Hazel Crest,,0.0375
-IL,city,Hebron,,0.01
+IL,city,Harwood Heights,,0.0425
+IL,city,Hawthorn Woods,,0.02
+IL,city,Hazel Crest,,0.04
+IL,city,Hebron,,0.0125
 IL,city,Hecker,,0.0125
 IL,city,Henderson,,0.015
 IL,city,Henning,,0.0025
@@ -2984,24 +2984,24 @@ IL,city,Herrick,,0.01
 IL,city,Herrin,,0.03
 IL,city,Herscher,,0.01
 IL,city,Hettick,,0.01
-IL,city,Hickory Hills,,0.0375
+IL,city,Hickory Hills,,0.04
 IL,city,Hidalgo,,0.01
-IL,city,Highland Park,,0.0175
-IL,city,Highwood,,0.0275
+IL,city,Highland Park,,0.02
+IL,city,Highwood,,0.03
 IL,city,Hillcrest,,0.005
 IL,city,Hillsdale,,0.01
-IL,city,Hillside,,0.0375
+IL,city,Hillside,,0.04
 IL,city,Hillview,,0.01
 IL,city,Hinckley,,0.01
 IL,city,Hindsboro,,0.01
-IL,city,Hinsdale,,0.0175
-IL,city,Hodgkins,,0.0375
-IL,city,Hoffman Estates,,0.0375
-IL,city,Holiday Hills,,0.01
+IL,city,Hinsdale,,0.02
+IL,city,Hodgkins,,0.04
+IL,city,Hoffman Estates,,0.04
+IL,city,Holiday Hills,,0.0125
 IL,city,Hollowayville,,0.01
-IL,city,Homer Glen,,0.0175
-IL,city,Hometown,,0.0275
-IL,city,Homewood,,0.0375
+IL,city,Homer Glen,,0.02
+IL,city,Hometown,,0.03
+IL,city,Homewood,,0.04
 IL,city,Hoopeston,,0.0025
 IL,city,Hooppole,,0.015
 IL,city,Hopedale,,0.005
@@ -3010,19 +3010,19 @@ IL,city,Hudson,,0.02
 IL,city,Hull,,0.015
 IL,city,Humboldt,,0.01
 IL,city,Hume,,0.02
-IL,city,Huntley,,0.02
+IL,city,Huntley,,0.0225
 IL,city,Hurst,,0.02
 IL,city,Ina,,0.005
-IL,city,Indian Creek,,0.0075
+IL,city,Indian Creek,,0.01
 IL,city,Indianola,,0.0025
 IL,city,Industry,,0.0175
-IL,city,Inverness,,0.0275
+IL,city,Inverness,,0.03
 IL,city,Iola,,0.005
 IL,city,Ipava,,0.015
 IL,city,Iroquois,,0.0025
 IL,city,Irving,,0.01
-IL,city,Island Lake,,0.01
-IL,city,Itasca,,0.0175
+IL,city,Island Lake,,0.0125
+IL,city,Itasca,,0.02
 IL,city,Iuka,,0.0125
 IL,city,Ivesdale,,0.0125
 IL,city,Jacksonville,,0.0175
@@ -3030,7 +3030,7 @@ IL,city,Jeffersonville,,0.0075
 IL,city,Jeisyville,,0.01
 IL,city,Jerseyville,,0.0225
 IL,city,Jewett,,0.01
-IL,city,Johnsburg,,0.02
+IL,city,Johnsburg,,0.0225
 IL,city,Johnsonville,,0.0075
 IL,city,Johnston City,,0.025
 IL,city,Joliet,,0.0275
@@ -3038,10 +3038,10 @@ IL,city,Jonesboro,,0.0225
 IL,city,Joy,,0.01
 IL,city,Junction,,0.01
 IL,city,Junction City,,0.0125
-IL,city,Justice,,0.0275
+IL,city,Justice,,0.03
 IL,city,Kampsville,,0.0175
 IL,city,Kane,,0.01
-IL,city,Kaneville,,0.0075
+IL,city,Kaneville,,0.01
 IL,city,Kangley,,0.0025
 IL,city,Kankakee,,0.02
 IL,city,Kansas,,0.02
@@ -3051,11 +3051,11 @@ IL,city,Keenes,,0.0075
 IL,city,Keensburg,,0.01
 IL,city,Keithsburg,,0.01
 IL,city,Kell,,0.0125
-IL,city,Kenilworth,,0.0375
+IL,city,Kenilworth,,0.04
 IL,city,Kewanee,,0.025
 IL,city,Keyesport,,0.015
 IL,city,Kilbourne,,0.01
-IL,city,Kildeer,,0.0175
+IL,city,Kildeer,,0.02
 IL,city,Kincaid,,0.01
 IL,city,Kinderhook,,0.015
 IL,city,Kingston Mines,,0.01
@@ -3067,23 +3067,23 @@ IL,city,La Prairie,,0.0025
 IL,city,La Salle,,0.0125
 IL,city,Ladd,,0.02
 IL,city,Lafayette,,0.0125
-IL,city,Lagrange,,0.0375
-IL,city,Lake Barrington,,0.0125
-IL,city,Lake Bluff,,0.0175
-IL,city,Lake Forest,,0.0175
-IL,city,Lake In The Hills,,0.02
+IL,city,Lagrange,,0.04
+IL,city,Lake Barrington,,0.015
+IL,city,Lake Bluff,,0.02
+IL,city,Lake Forest,,0.02
+IL,city,Lake In The Hills,,0.0225
 IL,city,Lake Ka-Ho,,0.01
-IL,city,Lake Zurich,,0.0175
-IL,city,Lakemoor,,0.02
+IL,city,Lake Zurich,,0.02
+IL,city,Lakemoor,,0.0225
 IL,city,Lamoille,,0.01
 IL,city,Lanark,,0.0025
-IL,city,Lansing,,0.0325
+IL,city,Lansing,,0.035
 IL,city,Latham,,0.02
 IL,city,Lawrenceville,,0.01
 IL,city,Lee,,0.015
 IL,city,Leland,,0.0025
 IL,city,Leland Grove,,0.025
-IL,city,Lemont,,0.0375
+IL,city,Lemont,,0.04
 IL,city,Lena,,0.015
 IL,city,Lenzburg,,0.0035
 IL,city,Leonore,,0.0025
@@ -3091,22 +3091,22 @@ IL,city,Lerna,,0.01
 IL,city,Lewistown,,0.015
 IL,city,Lexington,,0.02
 IL,city,Liberty,,0.0025
-IL,city,Libertyville,,0.0225
-IL,city,Lily Lake,,0.0075
+IL,city,Libertyville,,0.025
+IL,city,Lily Lake,,0.01
 IL,city,Lima,,0.0025
 IL,city,Limestone,,0.01
 IL,city,Lincoln,,0.025
-IL,city,Lincolnshire,,0.0175
-IL,city,Lincolnwood,,0.04
-IL,city,Lindenhurst,,0.0075
+IL,city,Lincolnshire,,0.02
+IL,city,Lincolnwood,,0.0425
+IL,city,Lindenhurst,,0.01
 IL,city,Lisbon,,0.01
-IL,city,Lisle,,0.0075
+IL,city,Lisle,,0.01
 IL,city,Little York,,0.0175
 IL,city,Littleton,,0.02
 IL,city,Liverpool,,0.015
 IL,city,Livingston,,0.0135
 IL,city,Loami,,0.015
-IL,city,Lockport,,0.0275
+IL,city,Lockport,,0.03
 IL,city,Loda,,0.0025
 IL,city,Lomax,,0.01
 IL,city,London Mills,,0.015
@@ -3120,26 +3120,26 @@ IL,city,Lovington,,0.0075
 IL,city,Ludlow,,0.0125
 IL,city,Lyndon,,0.015
 IL,city,Lynnville,,0.01
-IL,city,Lynwood,,0.0275
-IL,city,Lyons,,0.0375
+IL,city,Lynwood,,0.03
+IL,city,Lyons,,0.04
 IL,city,Macedonia,,0.02
 IL,city,Maeystown,,0.0125
 IL,city,Makanda,,0.01
 IL,city,Malden,,0.02
 IL,city,Manchester,,0.01
-IL,city,Manhattan,,0.0175
+IL,city,Manhattan,,0.02
 IL,city,Manito,,0.01
 IL,city,Manlius,,0.015
 IL,city,Mansfield,,0.01
 IL,city,Maple Park,,0.01
 IL,city,Mapleton,,0.02
 IL,city,Maquon,,0.015
-IL,city,Marengo,,0.02
+IL,city,Marengo,,0.0225
 IL,city,Marietta,,0.015
 IL,city,Marine,,0.006
 IL,city,Marion,,0.0325
 IL,city,Marissa,,0.0035
-IL,city,Markham,,0.0375
+IL,city,Markham,,0.04
 IL,city,Marquette Heights,,0.005
 IL,city,Marseilles,,0.0125
 IL,city,Marshall,,0.01
@@ -3148,27 +3148,27 @@ IL,city,Martinton,,0.0025
 IL,city,Mason,,0.0025
 IL,city,Mason City,,0.01
 IL,city,Matherville,,0.01
-IL,city,Matteson,,0.0375
+IL,city,Matteson,,0.04
 IL,city,Maunie,,0.01
-IL,city,Maywood,,0.0375
-IL,city,Mccook,,0.0375
-IL,city,Mccullom Lake,,0.02
-IL,city,Mchenry,,0.0175
+IL,city,Maywood,,0.04
+IL,city,Mccook,,0.04
+IL,city,Mccullom Lake,,0.0225
+IL,city,Mchenry,,0.02
 IL,city,Mcleansboro,,0.02
 IL,city,Mechanicsburg,,0.015
 IL,city,Media,,0.01
 IL,city,Medora,,0.01
-IL,city,Melrose Park,,0.0425
+IL,city,Melrose Park,,0.045
 IL,city,Mendon,,0.0025
 IL,city,Mendota,,0.0125
 IL,city,Menominee,,0.01
 IL,city,Meredosia,,0.01
-IL,city,Merrionette Park,,0.0375
+IL,city,Merrionette Park,,0.04
 IL,city,Metamora,,0.03
 IL,city,Metcalf,,0.02
-IL,city,Mettawa,,0.0075
+IL,city,Mettawa,,0.01
 IL,city,Middletown,,0.02
-IL,city,Midlothian,,0.0375
+IL,city,Midlothian,,0.04
 IL,city,Milan,,0.02
 IL,city,Milford,,0.0025
 IL,city,Mill Creek,,0.0225
@@ -3181,10 +3181,10 @@ IL,city,Minier,,0.005
 IL,city,Minonk,,0.02
 IL,city,Minooka,,0.01
 IL,city,Modesto,,0.01
-IL,city,Mokena,,0.0175
-IL,city,Monee,,0.0175
+IL,city,Mokena,,0.02
+IL,city,Monee,,0.02
 IL,city,Monroe Center,,0.01
-IL,city,Montgomery,,0.0175
+IL,city,Montgomery,,0.02
 IL,city,Montrose,,0.01
 IL,city,Morrison,,0.025
 IL,city,Morrisonville,,0.01
@@ -3199,9 +3199,9 @@ IL,city,Mount Vernon,,0.0325
 IL,city,Muddy,,0.0175
 IL,city,Mulberry Grove,,0.01
 IL,city,Muncie,,0.0025
-IL,city,Mundelein,,0.02
+IL,city,Mundelein,,0.0225
 IL,city,Murrayville,,0.01
-IL,city,Naperville,,0.015
+IL,city,Naperville,,0.0175
 IL,city,Naplate,,0.0025
 IL,city,Naples,,0.01
 IL,city,Nason,,0.005
@@ -3217,41 +3217,41 @@ IL,city,New Canton,,0.015
 IL,city,New Douglas,,0.0035
 IL,city,New Haven,,0.01
 IL,city,New Holland,,0.02
-IL,city,New Lenox,,0.0325
+IL,city,New Lenox,,0.035
 IL,city,New Millford,,0.015
 IL,city,New Salem,,0.015
 IL,city,Newark,,0.01
 IL,city,Newman,,0.02
 IL,city,Newton,,0.01
 IL,city,Niantic,,0.015
-IL,city,Niles,,0.04
+IL,city,Niles,,0.0425
 IL,city,Nilwood,,0.01
 IL,city,Noble,,0.015
 IL,city,Nora,,0.01
 IL,city,Normal,,0.035
 IL,city,Norris,,0.015
 IL,city,Norris City,,0.01
-IL,city,North Aurora,,0.0175
-IL,city,North Barrington,,0.0075
-IL,city,North Chicago,,0.0175
+IL,city,North Aurora,,0.02
+IL,city,North Barrington,,0.01
+IL,city,North Chicago,,0.02
 IL,city,North City,,0.01
 IL,city,North Henderson,,0.01
 IL,city,North Pekin,,0.005
-IL,city,North Riverside,,0.0375
+IL,city,North Riverside,,0.04
 IL,city,North Utica,,0.0075
-IL,city,Northbrook,,0.0375
-IL,city,Northfield,,0.0375
-IL,city,Northlake,,0.0375
+IL,city,Northbrook,,0.04
+IL,city,Northfield,,0.04
+IL,city,Northlake,,0.04
 IL,city,Norwood,,0.01
-IL,city,Oak Brook,,0.0125
-IL,city,Oak Forest,,0.0375
+IL,city,Oak Brook,,0.015
+IL,city,Oak Forest,,0.04
 IL,city,Oak Grove,,0.01
-IL,city,Oak Lawn,,0.04
-IL,city,Oak Park,,0.0375
+IL,city,Oak Lawn,,0.0425
+IL,city,Oak Park,,0.04
 IL,city,Oakford,,0.02
 IL,city,Oakland,,0.01
 IL,city,Oakwood,,0.0125
-IL,city,Oakwood Hills,,0.01
+IL,city,Oakwood Hills,,0.0125
 IL,city,Oconee,,0.01
 IL,city,Odell,,0.01
 IL,city,Odin,,0.0125
@@ -3259,10 +3259,10 @@ IL,city,Ogden,,0.0225
 IL,city,Oglesby,,0.0075
 IL,city,Ohio,,0.01
 IL,city,Ohlman,,0.01
-IL,city,Old Mill Creek,,0.0075
+IL,city,Old Mill Creek,,0.01
 IL,city,Old Ripley,,0.01
 IL,city,Old Shawneetown,,0.01
-IL,city,Olympia Fields,,0.0375
+IL,city,Olympia Fields,,0.04
 IL,city,Omaha,,0.01
 IL,city,Onarga,,0.0025
 IL,city,Oneida,,0.015
@@ -3272,24 +3272,24 @@ IL,city,Oreana,,0.015
 IL,city,Oregon,,0.01
 IL,city,Orient,,0.01
 IL,city,Orion,,0.015
-IL,city,Orland Hills,,0.0375
-IL,city,Orland Park,,0.04
+IL,city,Orland Hills,,0.04
+IL,city,Orland Park,,0.0425
 IL,city,Oswego,,0.0225
 IL,city,Ottawa,,0.0125
 IL,city,Otterville,,0.0175
 IL,city,Owaneco,,0.01
-IL,city,Palatine,,0.0375
+IL,city,Palatine,,0.04
 IL,city,Palmer,,0.01
 IL,city,Palmyra,,0.01
-IL,city,Palos Hills,,0.0275
-IL,city,Palos Park,,0.0375
+IL,city,Palos Hills,,0.03
+IL,city,Palos Park,,0.04
 IL,city,Panama,,0.01
 IL,city,Panola,,0.02
 IL,city,Papineau,,0.0025
 IL,city,Paris,,0.025
-IL,city,Park City,,0.0175
-IL,city,Park Forest,,0.0375
-IL,city,Park Ridge,,0.0375
+IL,city,Park City,,0.02
+IL,city,Park Forest,,0.04
+IL,city,Park Ridge,,0.04
 IL,city,Parkersburg,,0.015
 IL,city,Patoka,,0.0125
 IL,city,Paw Paw,,0.015
@@ -3305,12 +3305,12 @@ IL,city,Peru,,0.0125
 IL,city,Pesotum,,0.0125
 IL,city,Phillipstown,,0.01
 IL,city,Philo,,0.0125
-IL,city,Phoenix,,0.0375
+IL,city,Phoenix,,0.04
 IL,city,Pierron,,0.01
-IL,city,Pingree Grove,,0.0175
+IL,city,Pingree Grove,,0.02
 IL,city,Pittsburg,,0.02
 IL,city,Pittsfield,,0.015
-IL,city,Plainfield,,0.0225
+IL,city,Plainfield,,0.025
 IL,city,Plainville,,0.0025
 IL,city,Plano,,0.01
 IL,city,Plattville,,0.01
@@ -3318,17 +3318,17 @@ IL,city,Pleasant Hill,,0.015
 IL,city,Pleasant Plains,,0.025
 IL,city,Plymouth,,0.0175
 IL,city,Poplar Grove,,0.015
-IL,city,Port Barrington,,0.0075
+IL,city,Port Barrington,,0.01
 IL,city,Port Byron,,0.01
-IL,city,Posen,,0.0375
+IL,city,Posen,,0.04
 IL,city,Potomac,,0.0125
 IL,city,Prairie City,,0.0175
 IL,city,Prairie Du Rocher,,0.01
-IL,city,Prairie Grove,,0.01
+IL,city,Prairie Grove,,0.0125
 IL,city,Princeton,,0.0175
 IL,city,Princeville,,0.01
 IL,city,Prophetstown,,0.015
-IL,city,Prospect Heights,,0.0375
+IL,city,Prospect Heights,,0.04
 IL,city,Raleigh,,0.0175
 IL,city,Rankin,,0.0025
 IL,city,Ransom,,0.0025
@@ -3339,42 +3339,42 @@ IL,city,Red Bud,,0.01
 IL,city,Reddick,,0.01
 IL,city,Redmon,,0.02
 IL,city,Reynolds,,0.01
-IL,city,Richmond,,0.02
+IL,city,Richmond,,0.0225
 IL,city,Ridge Farm,,0.0025
 IL,city,Ridgway,,0.01
 IL,city,Ridott,,0.005
-IL,city,Ringwood,,0.01
+IL,city,Ringwood,,0.0125
 IL,city,Rio,,0.015
 IL,city,Ripley,,0.0125
-IL,city,River Forest,,0.0375
-IL,city,River Grove,,0.0475
-IL,city,Riverdale,,0.0375
+IL,city,River Forest,,0.04
+IL,city,River Grove,,0.05
+IL,city,Riverdale,,0.04
 IL,city,Riverton,,0.015
-IL,city,Riverwoods,,0.0175
+IL,city,Riverwoods,,0.02
 IL,city,Roanoke,,0.03
-IL,city,Robbins,,0.0425
+IL,city,Robbins,,0.045
 IL,city,Rochelle,,0.01
 IL,city,Rochester,,0.015
 IL,city,Rock City,,0.005
 IL,city,Rock Falls,,0.025
 IL,city,Rockbridge,,0.01
-IL,city,Rockdale,,0.0175
+IL,city,Rockdale,,0.02
 IL,city,Rockford,,0.025
 IL,city,Rockton,,0.025
 IL,city,Rockwood,,0.01
-IL,city,Rolling Meadows,,0.04
+IL,city,Rolling Meadows,,0.0425
 IL,city,Roodhouse,,0.01
 IL,city,Roscoe,,0.015
 IL,city,Rose Hill,,0.01
-IL,city,Roselle,,0.0425
-IL,city,Rosemont,,0.04
+IL,city,Roselle,,0.045
+IL,city,Rosemont,,0.0425
 IL,city,Roseville,,0.0175
 IL,city,Rosiclare,,0.02
 IL,city,Rossville,,0.0025
-IL,city,Round Lake,,0.0175
-IL,city,Round Lake Beach,,0.0175
-IL,city,Round Lake Heights,,0.0075
-IL,city,Round Lake Park,,0.0075
+IL,city,Round Lake,,0.02
+IL,city,Round Lake Beach,,0.02
+IL,city,Round Lake Heights,,0.01
+IL,city,Round Lake Park,,0.01
 IL,city,Roxana,,0.006
 IL,city,Royal,,0.0125
 IL,city,Royal Lakes,,0.01
@@ -3387,7 +3387,7 @@ IL,city,Sadorus,,0.0125
 IL,city,Sailor Springs,,0.005
 IL,city,Saint Anne,,0.01
 IL,city,Saint Augustine,,0.015
-IL,city,Saint Charles,,0.0225
+IL,city,Saint Charles,,0.025
 IL,city,Saint David,,0.015
 IL,city,Saint Francisville,,0.01
 IL,city,Saint Jacob,,0.006
@@ -3399,14 +3399,14 @@ IL,city,Sainte Marie,,0.01
 IL,city,San Jose,,0.01
 IL,city,Sandwich,,0.01
 IL,city,Sauget,,0.0135
-IL,city,Sauk Village,,0.0275
+IL,city,Sauk Village,,0.03
 IL,city,Saunemin,,0.01
 IL,city,Savoy,,0.0275
 IL,city,Sawyerville,,0.01
 IL,city,Saybrook,,0.01
 IL,city,Scales Mound,,0.01
-IL,city,Schaumburg,,0.0375
-IL,city,Schiller Park,,0.0425
+IL,city,Schaumburg,,0.04
+IL,city,Schiller Park,,0.045
 IL,city,Schram City,,0.01
 IL,city,Sciota,,0.0175
 IL,city,Scottville,,0.01
@@ -3423,7 +3423,7 @@ IL,city,Sheldon,,0.0025
 IL,city,Sheridan,,0.0025
 IL,city,Sherrard,,0.01
 IL,city,Shipman,,0.01
-IL,city,Shorewood,,0.0275
+IL,city,Shorewood,,0.03
 IL,city,Shumway,,0.0025
 IL,city,Sidell,,0.0025
 IL,city,Sidney,,0.0125
@@ -3431,17 +3431,17 @@ IL,city,Sigel,,0.01
 IL,city,Silvis,,0.015
 IL,city,Simpson,,0.015
 IL,city,Sims,,0.0075
-IL,city,Sleepy Hollow,,0.0175
+IL,city,Sleepy Hollow,,0.02
 IL,city,Smithboro,,0.01
 IL,city,Smithfield,,0.015
 IL,city,Smithton,,0.011
 IL,city,Somonauk,,0.0025
 IL,city,Sorento,,0.01
-IL,city,South Barrington,,0.0375
+IL,city,South Barrington,,0.04
 IL,city,South Beloit,,0.025
-IL,city,South Chicago Heights,,0.0375
-IL,city,South Elgin,,0.0175
-IL,city,South Holland,,0.0325
+IL,city,South Chicago Heights,,0.04
+IL,city,South Elgin,,0.02
+IL,city,South Holland,,0.035
 IL,city,South Jacksonville,,0.01
 IL,city,South Pekin,,0.01
 IL,city,Southern View,,0.015
@@ -3449,31 +3449,31 @@ IL,city,Sparta,,0.02
 IL,city,Spaulding,,0.015
 IL,city,Spillertown,,0.02
 IL,city,Spring Bay,,0.02
-IL,city,Spring Grove,,0.02
+IL,city,Spring Grove,,0.0225
 IL,city,Spring Valley,,0.02
 IL,city,Springerton,,0.01
 IL,city,Standard City,,0.01
 IL,city,Steeleville,,0.01
-IL,city,Steger,,0.0275
+IL,city,Steger,,0.03
 IL,city,Steward,,0.015
 IL,city,Stewardson,,0.01
-IL,city,Stickney,,0.04
+IL,city,Stickney,,0.0425
 IL,city,Stillman Valley,,0.01
-IL,city,Stone Park,,0.04
+IL,city,Stone Park,,0.0425
 IL,city,Stonefort,,0.0175
 IL,city,Stonington,,0.01
 IL,city,Strasburg,,0.01
 IL,city,Strawn,,0.01
-IL,city,Streamwood,,0.0375
+IL,city,Streamwood,,0.04
 IL,city,Streator,,0.02
 IL,city,Stronghurst,,0.01
 IL,city,Sublette,,0.015
 IL,city,Sullivan,,0.005
 IL,city,Summerfield,,0.011
-IL,city,Summit,,0.0375
+IL,city,Summit,,0.04
 IL,city,Sumner,,0.01
 IL,city,Sycamore,,0.0175
-IL,city,Symerton,,0.0175
+IL,city,Symerton,,0.02
 IL,city,Table Grove,,0.015
 IL,city,Tallula,,0.02
 IL,city,Tamaroa,,0.02
@@ -3483,14 +3483,14 @@ IL,city,Tennessee,,0.0175
 IL,city,Teutopolis,,0.0025
 IL,city,Thawville,,0.0025
 IL,city,Thayer,,0.015
-IL,city,Third Lake,,0.0075
+IL,city,Third Lake,,0.01
 IL,city,Thomasboro,,0.0125
 IL,city,Thompsonville,,0.01
-IL,city,Thornton,,0.0375
+IL,city,Thornton,,0.04
 IL,city,Tilden,,0.01
 IL,city,Tilton,,0.0275
 IL,city,Timberlane,,0.015
-IL,city,Tinley Park,,0.0375
+IL,city,Tinley Park,,0.04
 IL,city,Tiskilwa,,0.02
 IL,city,Toledo,,0.02
 IL,city,Tolono,,0.0125
@@ -3501,12 +3501,12 @@ IL,city,Toulon,,0.0125
 IL,city,Tovey,,0.01
 IL,city,Towanda,,0.01
 IL,city,Tower Hill,,0.01
-IL,city,Tower Lakes,,0.0175
-IL,city,Trout Valley,,0.01
+IL,city,Tower Lakes,,0.02
+IL,city,Trout Valley,,0.0125
 IL,city,Troy Grove,,0.0025
 IL,city,Tuscola,,0.015
-IL,city,Union,,0.01
-IL,city,University Park,,0.0175
+IL,city,Union,,0.0125
+IL,city,University Park,,0.02
 IL,city,Urbana,,0.0275
 IL,city,Ursa,,0.0025
 IL,city,Valier,,0.02
@@ -3516,17 +3516,17 @@ IL,city,Vergennes,,0.01
 IL,city,Vermilion,,0.02
 IL,city,Vermont,,0.015
 IL,city,Vernon,,0.0125
-IL,city,Vernon Hills,,0.01
+IL,city,Vernon Hills,,0.0125
 IL,city,Versailles,,0.0125
 IL,city,Victoria,,0.015
 IL,city,Vienna,,0.015
 IL,city,Villa Grove,,0.02
-IL,city,Village Of Lakewood,,0.02
+IL,city,Village Of Lakewood,,0.0225
 IL,city,Virden,,0.01
-IL,city,Virgil,,0.0075
+IL,city,Virgil,,0.01
 IL,city,Virginia,,0.02
-IL,city,Volo,,0.0175
-IL,city,Wadsworth,,0.0175
+IL,city,Volo,,0.02
+IL,city,Wadsworth,,0.02
 IL,city,Waggoner,,0.01
 IL,city,Walnut,,0.01
 IL,city,Walnut Hill,,0.0125
@@ -3534,7 +3534,7 @@ IL,city,Walshville,,0.01
 IL,city,Waltonville,,0.005
 IL,city,Wamac,,0.0125
 IL,city,Warrensburg,,0.015
-IL,city,Warrenville,,0.02
+IL,city,Warrenville,,0.0225
 IL,city,Washburn,,0.02
 IL,city,Washington,,0.0275
 IL,city,Washington Park,,0.011
@@ -3542,27 +3542,27 @@ IL,city,Wataga,,0.015
 IL,city,Waterman,,0.01
 IL,city,Watseka,,0.01
 IL,city,Watson,,0.0025
-IL,city,Wauconda,,0.0175
-IL,city,Waukegan,,0.0225
+IL,city,Wauconda,,0.02
+IL,city,Waukegan,,0.025
 IL,city,Waverly,,0.01
-IL,city,Wayne,,0.0075
+IL,city,Wayne,,0.01
 IL,city,Wayne City,,0.0075
 IL,city,Wellington,,0.0025
 IL,city,Wenona,,0.0025
 IL,city,Wenonah,,0.01
 IL,city,West Brooklyn,,0.015
-IL,city,West Chicago,,0.0225
+IL,city,West Chicago,,0.025
 IL,city,West City,,0.02
 IL,city,West Frankfort,,0.02
 IL,city,West Peoria,,0.015
 IL,city,West Salem,,0.01
-IL,city,Westchester,,0.0375
-IL,city,Western Springs,,0.0375
+IL,city,Westchester,,0.04
+IL,city,Western Springs,,0.04
 IL,city,Westfield,,0.01
-IL,city,Westmont,,0.0175
-IL,city,Wheaton,,0.02
+IL,city,Westmont,,0.02
+IL,city,Wheaton,,0.0225
 IL,city,Wheeler,,0.01
-IL,city,Wheeling,,0.0375
+IL,city,Wheeling,,0.04
 IL,city,White City,,0.01
 IL,city,White Hall,,0.02
 IL,city,Williamsfield,,0.025
@@ -3570,35 +3570,35 @@ IL,city,Williamson,,0.0035
 IL,city,Williamsville,,0.03
 IL,city,Willisville,,0.025
 IL,city,Willow Hill,,0.01
-IL,city,Willow Springs,,0.0375
-IL,city,Wilmette,,0.0375
-IL,city,Wilmington,,0.0075
+IL,city,Willow Springs,,0.04
+IL,city,Wilmette,,0.04
+IL,city,Wilmington,,0.01
 IL,city,Wilsonville,,0.01
 IL,city,Winchester,,0.01
 IL,city,Windsor,,0.01
-IL,city,Winfield,,0.0175
+IL,city,Winfield,,0.02
 IL,city,Winnebago,,0.025
-IL,city,Winnetka,,0.0375
+IL,city,Winnetka,,0.04
 IL,city,Winslow,,0.005
-IL,city,Winthrop Harbor,,0.0075
+IL,city,Winthrop Harbor,,0.01
 IL,city,Witt,,0.02
-IL,city,Wonder Lake,,0.02
-IL,city,Wood Dale,,0.0175
+IL,city,Wonder Lake,,0.0225
+IL,city,Wood Dale,,0.02
 IL,city,Woodhull,,0.015
 IL,city,Woodland,,0.0025
 IL,city,Woodlawn,,0.005
-IL,city,Woodridge,,0.02
+IL,city,Woodridge,,0.0225
 IL,city,Woodson,,0.02
-IL,city,Woodstock,,0.0225
+IL,city,Woodstock,,0.025
 IL,city,Worden,,0.0035
-IL,city,Worth,,0.0375
+IL,city,Worth,,0.04
 IL,city,Wyanet,,0.02
 IL,city,Wyoming,,0.0125
 IL,city,Xenia,,0.005
 IL,city,Yale,,0.01
 IL,city,Yates City,,0.015
 IL,city,Zeigler,,0.01
-IL,city,Zion,,0.0075
+IL,city,Zion,,0.01
 IL,county,Adams County,,0.0025
 IL,county,Bond County,,0.01
 IL,county,Boone County,,0.015
@@ -3612,10 +3612,10 @@ IL,county,Christian County,,0.01
 IL,county,Clark County,,0.01
 IL,county,Clay County,,0.005
 IL,county,Coles County,,0.01
-IL,county,Cook County,,0.0275
+IL,county,Cook County,,0.03
 IL,county,Cumberland County,,0.01
 IL,county,Douglas County,,0.01
-IL,county,Dupage County,,0.0075
+IL,county,Dupage County,,0.01
 IL,county,Edgar County,,0.02
 IL,county,Edwards County,,0.01
 IL,county,Effingham County,,0.0025
@@ -3635,11 +3635,11 @@ IL,county,Jefferson County,,0.005
 IL,county,Jersey County,,0.0175
 IL,county,Jo Daviess County,,0.01
 IL,county,Johnson County,,0.015
-IL,county,Kane County,,0.0075
+IL,county,Kane County,,0.01
 IL,county,Kendall County,,0.01
 IL,county,Knox County,,0.015
 IL,county,La Salle County,,0.0025
-IL,county,Lake County,,0.0075
+IL,county,Lake County,,0.01
 IL,county,Lawrence County,,0.01
 IL,county,Lee County,,0.015
 IL,county,Livingston County,,0.01
@@ -3650,7 +3650,7 @@ IL,county,Madison County,,0.006
 IL,county,Marion County,,0.0125
 IL,county,Mason County,,0.01
 IL,county,Mcdonough County,,0.0175
-IL,county,Mchenry County,,0.01
+IL,county,Mchenry County,,0.0125
 IL,county,Mclean County,,0.01
 IL,county,Menard County,,0.02
 IL,county,Mercer County,,0.01
@@ -3681,7 +3681,7 @@ IL,county,Warren County,,0.0175
 IL,county,Wayne County,,0.0075
 IL,county,White County,,0.01
 IL,county,Whiteside County,,0.015
-IL,county,Will County,,0.0075
+IL,county,Will County,,0.01
 IL,county,Williamson County,,0.01
 IL,county,Winnebago County,,0.015
 IL,county,Woodford County,,0.02
@@ -5549,11 +5549,11 @@ LA,parish,Balance of Bienville Parish,0700,0.03
 LA,parish,General Sales,2600,0.0475
 LA,parish,Outside Incorporated Municipality Areas,4700,0.035
 LA,parish,Parish Sales,1300,0.06
+LA,parish,Parish Wide,4500,0.05
+LA,parish,Parish Wide,3800,0.0475
+LA,parish,Parish Wide,1900,0.05
 LA,parish,Parish Wide,4800,0.0525
 LA,parish,Parish Wide,4400,0.05
-LA,parish,Parish Wide,3800,0.0475
-LA,parish,Parish Wide,4500,0.05
-LA,parish,Parish Wide,1900,0.05
 LA,parish,Parish of  Terrebonne,5500,0.055
 LA,parish,Parish of  W.B.R.,6100,0.0525
 LA,parish,Parishwide excluding City of St. Gabriel & EDD,2400,0.0525
@@ -10336,7 +10336,7 @@ TN,special_district,Special District 97409,97409,0.0275
 TN,special_district,Special District 97411,97411,0.0275
 TN,special_district,Special District 98204,98204,0.025
 TN,special_district,Special District 98206,98206,0.0225
-TN,special_district,Special District 98303,98303,0.0225
+TN,special_district,Special District 98303,98303,0.0275
 TN,special_district,Special District 98306,98306,0.0275
 TN,special_district,Special District 98307,98307,0.0225
 TN,special_district,Special District 98308,98308,0.0225
@@ -11193,8 +11193,8 @@ TX,city,O Brien,,0.01
 TX,city,ODonnell,,0.01
 TX,city,Oak Leaf,,0.0175
 TX,city,Oak Point,,0.0175
-TX,city,Oak Ridge,,0.015
 TX,city,Oak Ridge,,0.02
+TX,city,Oak Ridge,,0.015
 TX,city,Oak Ridge N/Mont Co ESD 8,,0.02
 TX,city,Oak Ridge North,,0.02
 TX,city,Oak Valley,,0.01
@@ -11317,8 +11317,8 @@ TX,city,Redwater,,0.015
 TX,city,Refugio,,0.02
 TX,city,Reklaw,,0.01
 TX,city,Remote Seller-SLR,,0.0175
-TX,city,Reno,,0.015
 TX,city,Reno,,0.01
+TX,city,Reno,,0.015
 TX,city,Rhome,,0.015
 TX,city,Rice,,0.015
 TX,city,Richardson,,0.01
