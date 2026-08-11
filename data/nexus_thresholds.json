@@ -114,8 +114,8 @@
   {
     "state": "KY",
     "sales_threshold": 100000.0,
-    "transaction_threshold": 200,
-    "logic": "sales_or_count",
+    "transaction_threshold": null,
+    "logic": "sales_only",
     "measurement_period": "current_or_prior_cy"
   },
   {
@@ -282,8 +282,8 @@
   {
     "state": "UT",
     "sales_threshold": 100000.0,
-    "transaction_threshold": 200,
-    "logic": "sales_or_count",
+    "transaction_threshold": null,
+    "logic": "sales_only",
     "measurement_period": "current_or_prior_cy"
   },
   {

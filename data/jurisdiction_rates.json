@@ -3901,13 +3901,6 @@
   {
     "state": "AL",
     "jurisdiction_type": "city",
-    "name": "Westover",
-    "fips_code": null,
-    "rate": 0.05
-  },
-  {
-    "state": "AL",
-    "jurisdiction_type": "city",
     "name": "Westover Sales & Use",
     "fips_code": null,
     "rate": 0.05
@@ -11414,7 +11407,7 @@
     "jurisdiction_type": "special_district",
     "name": "Unincorporated (CDTFA tax area)",
     "fips_code": null,
-    "rate": 0.00625
+    "rate": 0.01
   },
   {
     "state": "CA",
@@ -11429,13 +11422,6 @@
     "name": "Unincorporated (CDTFA tax area)",
     "fips_code": null,
     "rate": 0.0
-  },
-  {
-    "state": "CA",
-    "jurisdiction_type": "special_district",
-    "name": "Unincorporated (CDTFA tax area)",
-    "fips_code": null,
-    "rate": 0.01
   },
   {
     "state": "CA",
@@ -11449,126 +11435,14 @@
     "jurisdiction_type": "special_district",
     "name": "Unincorporated (CDTFA tax area)",
     "fips_code": null,
-    "rate": 0.01
+    "rate": 0.00125
   },
   {
     "state": "CA",
     "jurisdiction_type": "special_district",
     "name": "Unincorporated (CDTFA tax area)",
     "fips_code": null,
-    "rate": 0.005
-  },
-  {
-    "state": "CA",
-    "jurisdiction_type": "special_district",
-    "name": "Unincorporated (CDTFA tax area)",
-    "fips_code": null,
-    "rate": 0.015
-  },
-  {
-    "state": "CA",
-    "jurisdiction_type": "special_district",
-    "name": "Unincorporated (CDTFA tax area)",
-    "fips_code": null,
-    "rate": 0.01
-  },
-  {
-    "state": "CA",
-    "jurisdiction_type": "special_district",
-    "name": "Unincorporated (CDTFA tax area)",
-    "fips_code": null,
-    "rate": 0.0
-  },
-  {
-    "state": "CA",
-    "jurisdiction_type": "special_district",
-    "name": "Unincorporated (CDTFA tax area)",
-    "fips_code": null,
-    "rate": 0.00725
-  },
-  {
-    "state": "CA",
-    "jurisdiction_type": "special_district",
-    "name": "Unincorporated (CDTFA tax area)",
-    "fips_code": null,
-    "rate": 0.0
-  },
-  {
-    "state": "CA",
-    "jurisdiction_type": "special_district",
-    "name": "Unincorporated (CDTFA tax area)",
-    "fips_code": null,
-    "rate": 0.015
-  },
-  {
-    "state": "CA",
-    "jurisdiction_type": "special_district",
-    "name": "Unincorporated (CDTFA tax area)",
-    "fips_code": null,
-    "rate": 0.005
-  },
-  {
-    "state": "CA",
-    "jurisdiction_type": "special_district",
-    "name": "Unincorporated (CDTFA tax area)",
-    "fips_code": null,
-    "rate": 0.005
-  },
-  {
-    "state": "CA",
-    "jurisdiction_type": "special_district",
-    "name": "Unincorporated (CDTFA tax area)",
-    "fips_code": null,
-    "rate": 0.01
-  },
-  {
-    "state": "CA",
-    "jurisdiction_type": "special_district",
-    "name": "Unincorporated (CDTFA tax area)",
-    "fips_code": null,
-    "rate": 0.0
-  },
-  {
-    "state": "CA",
-    "jurisdiction_type": "special_district",
-    "name": "Unincorporated (CDTFA tax area)",
-    "fips_code": null,
-    "rate": 0.0
-  },
-  {
-    "state": "CA",
-    "jurisdiction_type": "special_district",
-    "name": "Unincorporated (CDTFA tax area)",
-    "fips_code": null,
-    "rate": 0.0
-  },
-  {
-    "state": "CA",
-    "jurisdiction_type": "special_district",
-    "name": "Unincorporated (CDTFA tax area)",
-    "fips_code": null,
-    "rate": 0.025
-  },
-  {
-    "state": "CA",
-    "jurisdiction_type": "special_district",
-    "name": "Unincorporated (CDTFA tax area)",
-    "fips_code": null,
-    "rate": 0.005
-  },
-  {
-    "state": "CA",
-    "jurisdiction_type": "special_district",
-    "name": "Unincorporated (CDTFA tax area)",
-    "fips_code": null,
-    "rate": 0.01
-  },
-  {
-    "state": "CA",
-    "jurisdiction_type": "special_district",
-    "name": "Unincorporated (CDTFA tax area)",
-    "fips_code": null,
-    "rate": 0.01
+    "rate": 0.02
   },
   {
     "state": "CA",
@@ -11589,35 +11463,7 @@
     "jurisdiction_type": "special_district",
     "name": "Unincorporated (CDTFA tax area)",
     "fips_code": null,
-    "rate": 0.0
-  },
-  {
-    "state": "CA",
-    "jurisdiction_type": "special_district",
-    "name": "Unincorporated (CDTFA tax area)",
-    "fips_code": null,
-    "rate": 0.015
-  },
-  {
-    "state": "CA",
-    "jurisdiction_type": "special_district",
-    "name": "Unincorporated (CDTFA tax area)",
-    "fips_code": null,
-    "rate": 0.005
-  },
-  {
-    "state": "CA",
-    "jurisdiction_type": "special_district",
-    "name": "Unincorporated (CDTFA tax area)",
-    "fips_code": null,
-    "rate": 0.0025
-  },
-  {
-    "state": "CA",
-    "jurisdiction_type": "special_district",
-    "name": "Unincorporated (CDTFA tax area)",
-    "fips_code": null,
-    "rate": 0.005
+    "rate": 0.00625
   },
   {
     "state": "CA",
@@ -11632,41 +11478,6 @@
     "name": "Unincorporated (CDTFA tax area)",
     "fips_code": null,
     "rate": 0.0
-  },
-  {
-    "state": "CA",
-    "jurisdiction_type": "special_district",
-    "name": "Unincorporated (CDTFA tax area)",
-    "fips_code": null,
-    "rate": 0.005
-  },
-  {
-    "state": "CA",
-    "jurisdiction_type": "special_district",
-    "name": "Unincorporated (CDTFA tax area)",
-    "fips_code": null,
-    "rate": 0.005
-  },
-  {
-    "state": "CA",
-    "jurisdiction_type": "special_district",
-    "name": "Unincorporated (CDTFA tax area)",
-    "fips_code": null,
-    "rate": 0.01
-  },
-  {
-    "state": "CA",
-    "jurisdiction_type": "special_district",
-    "name": "Unincorporated (CDTFA tax area)",
-    "fips_code": null,
-    "rate": 0.005
-  },
-  {
-    "state": "CA",
-    "jurisdiction_type": "special_district",
-    "name": "Unincorporated (CDTFA tax area)",
-    "fips_code": null,
-    "rate": 0.005
   },
   {
     "state": "CA",
@@ -11708,42 +11519,21 @@
     "jurisdiction_type": "special_district",
     "name": "Unincorporated (CDTFA tax area)",
     "fips_code": null,
-    "rate": 0.0225
+    "rate": 0.025
   },
   {
     "state": "CA",
     "jurisdiction_type": "special_district",
     "name": "Unincorporated (CDTFA tax area)",
     "fips_code": null,
-    "rate": 0.0
+    "rate": 0.01
   },
   {
     "state": "CA",
     "jurisdiction_type": "special_district",
     "name": "Unincorporated (CDTFA tax area)",
     "fips_code": null,
-    "rate": 0.0
-  },
-  {
-    "state": "CA",
-    "jurisdiction_type": "special_district",
-    "name": "Unincorporated (CDTFA tax area)",
-    "fips_code": null,
-    "rate": 0.0
-  },
-  {
-    "state": "CA",
-    "jurisdiction_type": "special_district",
-    "name": "Unincorporated (CDTFA tax area)",
-    "fips_code": null,
-    "rate": 0.00125
-  },
-  {
-    "state": "CA",
-    "jurisdiction_type": "special_district",
-    "name": "Unincorporated (CDTFA tax area)",
-    "fips_code": null,
-    "rate": 0.02
+    "rate": 0.01
   },
   {
     "state": "CA",
@@ -11751,6 +11541,13 @@
     "name": "Unincorporated (CDTFA tax area)",
     "fips_code": null,
     "rate": 0.00625
+  },
+  {
+    "state": "CA",
+    "jurisdiction_type": "special_district",
+    "name": "Unincorporated (CDTFA tax area)",
+    "fips_code": null,
+    "rate": 0.0225
   },
   {
     "state": "CA",
@@ -11785,6 +11582,160 @@
     "jurisdiction_type": "special_district",
     "name": "Unincorporated (CDTFA tax area)",
     "fips_code": null,
+    "rate": 0.0
+  },
+  {
+    "state": "CA",
+    "jurisdiction_type": "special_district",
+    "name": "Unincorporated (CDTFA tax area)",
+    "fips_code": null,
+    "rate": 0.0
+  },
+  {
+    "state": "CA",
+    "jurisdiction_type": "special_district",
+    "name": "Unincorporated (CDTFA tax area)",
+    "fips_code": null,
+    "rate": 0.01
+  },
+  {
+    "state": "CA",
+    "jurisdiction_type": "special_district",
+    "name": "Unincorporated (CDTFA tax area)",
+    "fips_code": null,
+    "rate": 0.0
+  },
+  {
+    "state": "CA",
+    "jurisdiction_type": "special_district",
+    "name": "Unincorporated (CDTFA tax area)",
+    "fips_code": null,
+    "rate": 0.005
+  },
+  {
+    "state": "CA",
+    "jurisdiction_type": "special_district",
+    "name": "Unincorporated (CDTFA tax area)",
+    "fips_code": null,
+    "rate": 0.0
+  },
+  {
+    "state": "CA",
+    "jurisdiction_type": "special_district",
+    "name": "Unincorporated (CDTFA tax area)",
+    "fips_code": null,
+    "rate": 0.005
+  },
+  {
+    "state": "CA",
+    "jurisdiction_type": "special_district",
+    "name": "Unincorporated (CDTFA tax area)",
+    "fips_code": null,
+    "rate": 0.015
+  },
+  {
+    "state": "CA",
+    "jurisdiction_type": "special_district",
+    "name": "Unincorporated (CDTFA tax area)",
+    "fips_code": null,
+    "rate": 0.0
+  },
+  {
+    "state": "CA",
+    "jurisdiction_type": "special_district",
+    "name": "Unincorporated (CDTFA tax area)",
+    "fips_code": null,
+    "rate": 0.0
+  },
+  {
+    "state": "CA",
+    "jurisdiction_type": "special_district",
+    "name": "Unincorporated (CDTFA tax area)",
+    "fips_code": null,
+    "rate": 0.00725
+  },
+  {
+    "state": "CA",
+    "jurisdiction_type": "special_district",
+    "name": "Unincorporated (CDTFA tax area)",
+    "fips_code": null,
+    "rate": 0.0
+  },
+  {
+    "state": "CA",
+    "jurisdiction_type": "special_district",
+    "name": "Unincorporated (CDTFA tax area)",
+    "fips_code": null,
+    "rate": 0.015
+  },
+  {
+    "state": "CA",
+    "jurisdiction_type": "special_district",
+    "name": "Unincorporated (CDTFA tax area)",
+    "fips_code": null,
+    "rate": 0.01
+  },
+  {
+    "state": "CA",
+    "jurisdiction_type": "special_district",
+    "name": "Unincorporated (CDTFA tax area)",
+    "fips_code": null,
+    "rate": 0.005
+  },
+  {
+    "state": "CA",
+    "jurisdiction_type": "special_district",
+    "name": "Unincorporated (CDTFA tax area)",
+    "fips_code": null,
+    "rate": 0.0
+  },
+  {
+    "state": "CA",
+    "jurisdiction_type": "special_district",
+    "name": "Unincorporated (CDTFA tax area)",
+    "fips_code": null,
+    "rate": 0.015
+  },
+  {
+    "state": "CA",
+    "jurisdiction_type": "special_district",
+    "name": "Unincorporated (CDTFA tax area)",
+    "fips_code": null,
+    "rate": 0.005
+  },
+  {
+    "state": "CA",
+    "jurisdiction_type": "special_district",
+    "name": "Unincorporated (CDTFA tax area)",
+    "fips_code": null,
+    "rate": 0.0025
+  },
+  {
+    "state": "CA",
+    "jurisdiction_type": "special_district",
+    "name": "Unincorporated (CDTFA tax area)",
+    "fips_code": null,
+    "rate": 0.005
+  },
+  {
+    "state": "CA",
+    "jurisdiction_type": "special_district",
+    "name": "Unincorporated (CDTFA tax area)",
+    "fips_code": null,
+    "rate": 0.01
+  },
+  {
+    "state": "CA",
+    "jurisdiction_type": "special_district",
+    "name": "Unincorporated (CDTFA tax area)",
+    "fips_code": null,
+    "rate": 0.005
+  },
+  {
+    "state": "CA",
+    "jurisdiction_type": "special_district",
+    "name": "Unincorporated (CDTFA tax area)",
+    "fips_code": null,
     "rate": 0.01
   },
   {
@@ -11806,7 +11757,49 @@
     "jurisdiction_type": "special_district",
     "name": "Unincorporated (CDTFA tax area)",
     "fips_code": null,
+    "rate": 0.005
+  },
+  {
+    "state": "CA",
+    "jurisdiction_type": "special_district",
+    "name": "Unincorporated (CDTFA tax area)",
+    "fips_code": null,
     "rate": 0.0
+  },
+  {
+    "state": "CA",
+    "jurisdiction_type": "special_district",
+    "name": "Unincorporated (CDTFA tax area)",
+    "fips_code": null,
+    "rate": 0.01
+  },
+  {
+    "state": "CA",
+    "jurisdiction_type": "special_district",
+    "name": "Unincorporated (CDTFA tax area)",
+    "fips_code": null,
+    "rate": 0.005
+  },
+  {
+    "state": "CA",
+    "jurisdiction_type": "special_district",
+    "name": "Unincorporated (CDTFA tax area)",
+    "fips_code": null,
+    "rate": 0.005
+  },
+  {
+    "state": "CA",
+    "jurisdiction_type": "special_district",
+    "name": "Unincorporated (CDTFA tax area)",
+    "fips_code": null,
+    "rate": 0.0
+  },
+  {
+    "state": "CA",
+    "jurisdiction_type": "special_district",
+    "name": "Unincorporated (CDTFA tax area)",
+    "fips_code": null,
+    "rate": 0.005
   },
   {
     "state": "CA",
@@ -14235,14 +14228,14 @@
     "jurisdiction_type": "city",
     "name": "Superior (Mail Via Louisville)",
     "fips_code": null,
-    "rate": 0.06215
+    "rate": 0.0538
   },
   {
     "state": "CO",
     "jurisdiction_type": "city",
     "name": "Superior (Mail Via Louisville)",
     "fips_code": null,
-    "rate": 0.0538
+    "rate": 0.06215
   },
   {
     "state": "CO",
@@ -14291,7 +14284,7 @@
     "jurisdiction_type": "city",
     "name": "Unincorporated",
     "fips_code": null,
-    "rate": 0.0105
+    "rate": 0.01
   },
   {
     "state": "CO",
@@ -14501,13 +14494,6 @@
     "jurisdiction_type": "city",
     "name": "Unincorporated",
     "fips_code": null,
-    "rate": 0.01
-  },
-  {
-    "state": "CO",
-    "jurisdiction_type": "city",
-    "name": "Unincorporated",
-    "fips_code": null,
     "rate": 0.02
   },
   {
@@ -14690,6 +14676,13 @@
     "jurisdiction_type": "city",
     "name": "Unincorporated",
     "fips_code": null,
+    "rate": 0.0105
+  },
+  {
+    "state": "CO",
+    "jurisdiction_type": "city",
+    "name": "Unincorporated",
+    "fips_code": null,
     "rate": 0.015
   },
   {
@@ -14718,13 +14711,6 @@
     "jurisdiction_type": "city",
     "name": "Unincorporated (Berthoud Fpd)",
     "fips_code": null,
-    "rate": 0.01
-  },
-  {
-    "state": "CO",
-    "jurisdiction_type": "city",
-    "name": "Unincorporated (Berthoud Fpd)",
-    "fips_code": null,
     "rate": 0.0205
   },
   {
@@ -14737,9 +14723,9 @@
   {
     "state": "CO",
     "jurisdiction_type": "city",
-    "name": "Unincorporated (Cd Only)",
+    "name": "Unincorporated (Berthoud Fpd)",
     "fips_code": null,
-    "rate": 0.0085
+    "rate": 0.01
   },
   {
     "state": "CO",
@@ -14747,6 +14733,13 @@
     "name": "Unincorporated (Cd Only)",
     "fips_code": null,
     "rate": 0.011
+  },
+  {
+    "state": "CO",
+    "jurisdiction_type": "city",
+    "name": "Unincorporated (Cd Only)",
+    "fips_code": null,
+    "rate": 0.0085
   },
   {
     "state": "CO",
@@ -15920,14 +15913,14 @@
   {
     "state": "FL",
     "jurisdiction_type": "county",
-    "name": "St. Johns",
+    "name": "St Johns",
     "fips_code": null,
     "rate": 0.005
   },
   {
     "state": "FL",
     "jurisdiction_type": "county",
-    "name": "St. Lucie",
+    "name": "St Lucie",
     "fips_code": null,
     "rate": 0.01
   },
@@ -18653,13 +18646,6 @@
     "name": "Bonnie",
     "fips_code": null,
     "rate": 0.005
-  },
-  {
-    "state": "IL",
-    "jurisdiction_type": "city",
-    "name": "Bowen",
-    "fips_code": null,
-    "rate": 0.01
   },
   {
     "state": "IL",
@@ -23284,13 +23270,6 @@
   {
     "state": "IL",
     "jurisdiction_type": "city",
-    "name": "Princeton",
-    "fips_code": null,
-    "rate": 0.0175
-  },
-  {
-    "state": "IL",
-    "jurisdiction_type": "city",
     "name": "Princeville",
     "fips_code": null,
     "rate": 0.01
@@ -25800,6 +25779,13 @@
     "name": "Woodford County",
     "fips_code": null,
     "rate": 0.02
+  },
+  {
+    "state": "IL",
+    "jurisdiction_type": "transit",
+    "name": "Northern Illinois Transit Authority (Cook)",
+    "fips_code": "17031",
+    "rate": 0.0125
   },
   {
     "state": "KS",
@@ -38853,7 +38839,7 @@
     "state": "LA",
     "jurisdiction_type": "parish",
     "name": "Parish Wide",
-    "fips_code": "4500",
+    "fips_code": "1900",
     "rate": 0.05
   },
   {
@@ -38867,7 +38853,14 @@
     "state": "LA",
     "jurisdiction_type": "parish",
     "name": "Parish Wide",
-    "fips_code": "1900",
+    "fips_code": "4400",
+    "rate": 0.05
+  },
+  {
+    "state": "LA",
+    "jurisdiction_type": "parish",
+    "name": "Parish Wide",
+    "fips_code": "4500",
     "rate": 0.05
   },
   {
@@ -38876,13 +38869,6 @@
     "name": "Parish Wide",
     "fips_code": "4800",
     "rate": 0.0525
-  },
-  {
-    "state": "LA",
-    "jurisdiction_type": "parish",
-    "name": "Parish Wide",
-    "fips_code": "4400",
-    "rate": 0.05
   },
   {
     "state": "LA",
@@ -41323,13 +41309,6 @@
   {
     "state": "MO",
     "jurisdiction_type": "city",
-    "name": "Canaan",
-    "fips_code": null,
-    "rate": 0.02375
-  },
-  {
-    "state": "MO",
-    "jurisdiction_type": "city",
     "name": "Canalou",
     "fips_code": null,
     "rate": 0.02
@@ -41760,13 +41739,6 @@
     "name": "Coldwater",
     "fips_code": null,
     "rate": 0.0175
-  },
-  {
-    "state": "MO",
-    "jurisdiction_type": "city",
-    "name": "Cole Camp",
-    "fips_code": null,
-    "rate": 0.04
   },
   {
     "state": "MO",
@@ -44571,13 +44543,6 @@
   {
     "state": "MO",
     "jurisdiction_type": "city",
-    "name": "Ionia",
-    "fips_code": null,
-    "rate": 0.025
-  },
-  {
-    "state": "MO",
-    "jurisdiction_type": "city",
     "name": "Iron Mountain Lake",
     "fips_code": null,
     "rate": 0.04125
@@ -45141,13 +45106,6 @@
     "name": "Lakeside",
     "fips_code": null,
     "rate": 0.01375
-  },
-  {
-    "state": "MO",
-    "jurisdiction_type": "city",
-    "name": "Lakeview Heights",
-    "fips_code": null,
-    "rate": 0.025
   },
   {
     "state": "MO",
@@ -46307,13 +46265,6 @@
   {
     "state": "MO",
     "jurisdiction_type": "city",
-    "name": "Mora",
-    "fips_code": null,
-    "rate": 0.025
-  },
-  {
-    "state": "MO",
-    "jurisdiction_type": "city",
     "name": "Morehouse",
     "fips_code": null,
     "rate": 0.04
@@ -46387,13 +46338,6 @@
     "name": "Mount Leonard",
     "fips_code": null,
     "rate": 0.02
-  },
-  {
-    "state": "MO",
-    "jurisdiction_type": "city",
-    "name": "Mount Sterling",
-    "fips_code": null,
-    "rate": 0.02375
   },
   {
     "state": "MO",
@@ -47003,13 +46947,6 @@
     "name": "Overland",
     "fips_code": null,
     "rate": 0.04763
-  },
-  {
-    "state": "MO",
-    "jurisdiction_type": "city",
-    "name": "Owensville",
-    "fips_code": null,
-    "rate": 0.04875
   },
   {
     "state": "MO",
@@ -47836,13 +47773,6 @@
     "name": "Rensselaer",
     "fips_code": null,
     "rate": 0.0215
-  },
-  {
-    "state": "MO",
-    "jurisdiction_type": "city",
-    "name": "Republic",
-    "fips_code": null,
-    "rate": 0.04875
   },
   {
     "state": "MO",
@@ -50916,13 +50846,6 @@
     "name": "Stoddard County",
     "fips_code": "207",
     "rate": 0.02188
-  },
-  {
-    "state": "MO",
-    "jurisdiction_type": "county",
-    "name": "Stone County",
-    "fips_code": "209",
-    "rate": 0.0225
   },
   {
     "state": "MO",
@@ -78362,14 +78285,14 @@
     "jurisdiction_type": "city",
     "name": "Oak Ridge",
     "fips_code": null,
-    "rate": 0.02
+    "rate": 0.015
   },
   {
     "state": "TX",
     "jurisdiction_type": "city",
     "name": "Oak Ridge",
     "fips_code": null,
-    "rate": 0.015
+    "rate": 0.02
   },
   {
     "state": "TX",
@@ -100272,13 +100195,6 @@
     "jurisdiction_type": "city",
     "name": "Winfield",
     "fips_code": "87988",
-    "rate": 0.01
-  },
-  {
-    "state": "WY",
-    "jurisdiction_type": "city",
-    "name": "Casper",
-    "fips_code": "13150",
     "rate": 0.01
   },
   {

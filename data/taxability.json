@@ -139,6 +139,17 @@
   },
   {
     "state": "AL",
+    "category": "food.bottled_water",
+    "category_description": "Plain, still, unsweetened, unflavored bottled drinking water (spring, mineral, distilled, or purified) sold in a sealed retail container. Excludes flavored, sweetened, or carbonated water, which is taxed as a soft drink under food.candy_soda.",
+    "taxable": true,
+    "treatment": "reduced_rate",
+    "conditions": {
+      "note": "SNAP-eligible food (plain bottled water qualifies) taxed at the state's reduced grocery rate; water bearing a Supplement Facts label instead of a Nutrition Facts label is not SNAP-eligible and is taxed at the full 4% rate; full local sales tax still applies on top of the reduced state rate.",
+      "local_may_tax": true
+    }
+  },
+  {
+    "state": "AL",
     "category": "food.candy",
     "category_description": "",
     "taxable": true,
@@ -200,6 +211,32 @@
     "taxable": true,
     "treatment": "taxable",
     "conditions": {}
+  },
+  {
+    "state": "AL",
+    "category": "hygiene.diapers",
+    "category_description": "Infant/baby diapers and adult incontinence products (briefs, liners, underpads), cloth or disposable.",
+    "taxable": false,
+    "treatment": "exempt",
+    "conditions": {
+      "note": "State 4% exemption only, temporary (sunsets 2028-08-31); local tax may still apply.",
+      "scope": "both",
+      "local_may_tax": true,
+      "temporary_until": "2028-08-31"
+    }
+  },
+  {
+    "state": "AL",
+    "category": "hygiene.menstrual",
+    "category_description": "Menstrual and feminine hygiene products: tampons, sanitary pads, pantyliners, menstrual cups, and period underwear.",
+    "taxable": true,
+    "treatment": "conditional",
+    "conditions": {
+      "note": "Temporary state 4% exemption (sunsets 2028-08-31); local tax still applies; period underwear excluded.",
+      "local_may_tax": true,
+      "temporary_until": "2028-08-31",
+      "period_underwear_excluded": true
+    }
   },
   {
     "state": "AL",
@@ -277,6 +314,17 @@
     "taxable": false,
     "treatment": "exempt",
     "conditions": {}
+  },
+  {
+    "state": "AL",
+    "category": "publications.textbooks",
+    "category_description": "Required course and college textbooks, printed or digital, as distinct from general trade books. Many states exempt these only when sold by a school or to an enrolled student.",
+    "taxable": true,
+    "treatment": "conditional",
+    "conditions": {
+      "note": "Exempt only for books sold by K-12 public/private schools; college textbooks taxable.",
+      "exempt_if": "sold_by_k12_school"
+    }
   },
   {
     "state": "AL",
@@ -490,6 +538,17 @@
   },
   {
     "state": "AR",
+    "category": "food.bottled_water",
+    "category_description": "Plain, still, unsweetened, unflavored bottled drinking water (spring, mineral, distilled, or purified) sold in a sealed retail container. Excludes flavored, sweetened, or carbonated water, which is taxed as a soft drink under food.candy_soda.",
+    "taxable": false,
+    "treatment": "exempt",
+    "conditions": {
+      "note": "State sales tax on qualifying food/food ingredients (plain water is not a statutory soft drink) fully eliminated; local tax still applies.",
+      "local_may_tax": true
+    }
+  },
+  {
+    "state": "AR",
     "category": "food.candy",
     "category_description": "",
     "taxable": true,
@@ -567,6 +626,24 @@
   },
   {
     "state": "AR",
+    "category": "hygiene.diapers",
+    "category_description": "Infant/baby diapers and adult incontinence products (briefs, liners, underpads), cloth or disposable.",
+    "taxable": true,
+    "treatment": "taxable",
+    "conditions": {}
+  },
+  {
+    "state": "AR",
+    "category": "hygiene.menstrual",
+    "category_description": "Menstrual and feminine hygiene products: tampons, sanitary pads, pantyliners, menstrual cups, and period underwear.",
+    "taxable": true,
+    "treatment": "taxable",
+    "conditions": {
+      "note": "Not eligible for the reduced grocery rate."
+    }
+  },
+  {
+    "state": "AR",
     "category": "medical.devices",
     "category_description": "",
     "taxable": false,
@@ -641,6 +718,16 @@
     "taxable": false,
     "treatment": "exempt",
     "conditions": {}
+  },
+  {
+    "state": "AR",
+    "category": "publications.textbooks",
+    "category_description": "Required course and college textbooks, printed or digital, as distinct from general trade books. Many states exempt these only when sold by a school or to an enrolled student.",
+    "taxable": true,
+    "treatment": "taxable",
+    "conditions": {
+      "note": "Taxable except during the August back-to-school sales-tax holiday."
+    }
   },
   {
     "state": "AR",
@@ -821,6 +908,17 @@
   },
   {
     "state": "AZ",
+    "category": "food.bottled_water",
+    "category_description": "Plain, still, unsweetened, unflavored bottled drinking water (spring, mineral, distilled, or purified) sold in a sealed retail container. Excludes flavored, sweetened, or carbonated water, which is taxed as a soft drink under food.candy_soda.",
+    "taxable": false,
+    "treatment": "exempt",
+    "conditions": {
+      "note": "State TPT exempts food for home consumption incl. bottled water; individual cities may separately elect to tax food under the Model City Tax Code.",
+      "local_may_tax": true
+    }
+  },
+  {
+    "state": "AZ",
     "category": "food.candy",
     "category_description": "",
     "taxable": false,
@@ -901,6 +999,26 @@
   },
   {
     "state": "AZ",
+    "category": "hygiene.diapers",
+    "category_description": "Infant/baby diapers and adult incontinence products (briefs, liners, underpads), cloth or disposable.",
+    "taxable": true,
+    "treatment": "taxable",
+    "conditions": {
+      "note": "No exemption confirmed; AZ DOR page was unreachable at curation time."
+    }
+  },
+  {
+    "state": "AZ",
+    "category": "hygiene.menstrual",
+    "category_description": "Menstrual and feminine hygiene products: tampons, sanitary pads, pantyliners, menstrual cups, and period underwear.",
+    "taxable": true,
+    "treatment": "taxable",
+    "conditions": {
+      "note": "2026 exemption bill pending, not effective."
+    }
+  },
+  {
+    "state": "AZ",
     "category": "medical.devices",
     "category_description": "",
     "taxable": false,
@@ -975,6 +1093,18 @@
     "taxable": false,
     "treatment": "exempt",
     "conditions": {}
+  },
+  {
+    "state": "AZ",
+    "category": "publications.textbooks",
+    "category_description": "Required course and college textbooks, printed or digital, as distinct from general trade books. Many states exempt these only when sold by a school or to an enrolled student.",
+    "taxable": true,
+    "treatment": "conditional",
+    "conditions": {
+      "note": "Exempt if required by a state university/community college and sold by a bookstore; large home-rule cities may still levy TPT.",
+      "exempt_if": "required_by_university_and_bookstore_sold",
+      "local_may_tax": true
+    }
   },
   {
     "state": "AZ",
@@ -1153,6 +1283,16 @@
   },
   {
     "state": "CA",
+    "category": "food.bottled_water",
+    "category_description": "Plain, still, unsweetened, unflavored bottled drinking water (spring, mineral, distilled, or purified) sold in a sealed retail container. Excludes flavored, sweetened, or carbonated water, which is taxed as a soft drink under food.candy_soda.",
+    "taxable": false,
+    "treatment": "exempt",
+    "conditions": {
+      "note": "Applies to noncarbonated, noneffervescent bottled water regardless of container size or delivery method; carbonated/effervescent water is taxable."
+    }
+  },
+  {
+    "state": "CA",
     "category": "food.candy",
     "category_description": "",
     "taxable": false,
@@ -1235,6 +1375,25 @@
   },
   {
     "state": "CA",
+    "category": "hygiene.diapers",
+    "category_description": "Infant/baby diapers and adult incontinence products (briefs, liners, underpads), cloth or disposable.",
+    "taxable": true,
+    "treatment": "conditional",
+    "conditions": {
+      "note": "Children's diapers exempt; adult incontinence taxable.",
+      "scope": "infant_only"
+    }
+  },
+  {
+    "state": "CA",
+    "category": "hygiene.menstrual",
+    "category_description": "Menstrual and feminine hygiene products: tampons, sanitary pads, pantyliners, menstrual cups, and period underwear.",
+    "taxable": false,
+    "treatment": "exempt",
+    "conditions": {}
+  },
+  {
+    "state": "CA",
     "category": "medical.devices",
     "category_description": "",
     "taxable": false,
@@ -1306,6 +1465,14 @@
     "category_description": "",
     "taxable": false,
     "treatment": "exempt",
+    "conditions": {}
+  },
+  {
+    "state": "CA",
+    "category": "publications.textbooks",
+    "category_description": "Required course and college textbooks, printed or digital, as distinct from general trade books. Many states exempt these only when sold by a school or to an enrolled student.",
+    "taxable": true,
+    "treatment": "taxable",
     "conditions": {}
   },
   {
@@ -1487,6 +1654,16 @@
   },
   {
     "state": "CO",
+    "category": "food.bottled_water",
+    "category_description": "Plain, still, unsweetened, unflavored bottled drinking water (spring, mineral, distilled, or purified) sold in a sealed retail container. Excludes flavored, sweetened, or carbonated water, which is taxed as a soft drink under food.candy_soda.",
+    "taxable": false,
+    "treatment": "exempt",
+    "conditions": {
+      "note": "Carbonated water is excluded from the exemption; bottled water/coffee service supplied by a business to employees or customers is a taxable business supply, not home consumption."
+    }
+  },
+  {
+    "state": "CO",
     "category": "food.candy",
     "category_description": "",
     "taxable": true,
@@ -1567,6 +1744,29 @@
   },
   {
     "state": "CO",
+    "category": "hygiene.diapers",
+    "category_description": "Infant/baby diapers and adult incontinence products (briefs, liners, underpads), cloth or disposable.",
+    "taxable": false,
+    "treatment": "exempt",
+    "conditions": {
+      "note": "Incontinence products/diapers exempt (all ages); home-rule cities may differ.",
+      "scope": "both",
+      "local_may_tax": true
+    }
+  },
+  {
+    "state": "CO",
+    "category": "hygiene.menstrual",
+    "category_description": "Menstrual and feminine hygiene products: tampons, sanitary pads, pantyliners, menstrual cups, and period underwear.",
+    "taxable": false,
+    "treatment": "exempt",
+    "conditions": {
+      "note": "State exempt; some self-collecting home-rule cities may still tax.",
+      "local_may_tax": true
+    }
+  },
+  {
+    "state": "CO",
     "category": "medical.devices",
     "category_description": "",
     "taxable": false,
@@ -1641,6 +1841,19 @@
     "taxable": false,
     "treatment": "exempt",
     "conditions": {}
+  },
+  {
+    "state": "CO",
+    "category": "publications.textbooks",
+    "category_description": "Required course and college textbooks, printed or digital, as distinct from general trade books. Many states exempt these only when sold by a school or to an enrolled student.",
+    "taxable": true,
+    "treatment": "conditional",
+    "conditions": {
+      "note": "College textbooks exempt from state tax since 2024-07-01; home-rule locals tax unless they opt in.",
+      "scope": "state_tax_only",
+      "exempt_if": "college_textbook",
+      "local_may_tax": true
+    }
   },
   {
     "state": "CO",
@@ -1854,6 +2067,16 @@
   },
   {
     "state": "CT",
+    "category": "food.bottled_water",
+    "category_description": "Plain, still, unsweetened, unflavored bottled drinking water (spring, mineral, distilled, or purified) sold in a sealed retail container. Excludes flavored, sweetened, or carbonated water, which is taxed as a soft drink under food.candy_soda.",
+    "taxable": false,
+    "treatment": "exempt",
+    "conditions": {
+      "note": "Carbonated water is the specific taxable exclusion from the food-products exemption; plain, non-carbonated water is not among the enumerated taxable exclusions."
+    }
+  },
+  {
+    "state": "CT",
     "category": "food.candy",
     "category_description": "",
     "taxable": true,
@@ -1932,6 +2155,24 @@
   },
   {
     "state": "CT",
+    "category": "hygiene.diapers",
+    "category_description": "Infant/baby diapers and adult incontinence products (briefs, liners, underpads), cloth or disposable.",
+    "taxable": false,
+    "treatment": "exempt",
+    "conditions": {
+      "scope": "both"
+    }
+  },
+  {
+    "state": "CT",
+    "category": "hygiene.menstrual",
+    "category_description": "Menstrual and feminine hygiene products: tampons, sanitary pads, pantyliners, menstrual cups, and period underwear.",
+    "taxable": false,
+    "treatment": "exempt",
+    "conditions": {}
+  },
+  {
+    "state": "CT",
     "category": "medical.devices",
     "category_description": "",
     "taxable": false,
@@ -2006,6 +2247,17 @@
     "taxable": false,
     "treatment": "exempt",
     "conditions": {}
+  },
+  {
+    "state": "CT",
+    "category": "publications.textbooks",
+    "category_description": "Required course and college textbooks, printed or digital, as distinct from general trade books. Many states exempt these only when sold by a school or to an enrolled student.",
+    "taxable": true,
+    "treatment": "conditional",
+    "conditions": {
+      "note": "Exempt when sold to an enrolled higher-ed student presenting a valid student ID.",
+      "exempt_if": "enrolled_student_with_id"
+    }
   },
   {
     "state": "CT",
@@ -2183,6 +2435,16 @@
   },
   {
     "state": "DC",
+    "category": "food.bottled_water",
+    "category_description": "Plain, still, unsweetened, unflavored bottled drinking water (spring, mineral, distilled, or purified) sold in a sealed retail container. Excludes flavored, sweetened, or carbonated water, which is taxed as a soft drink under food.candy_soda.",
+    "taxable": false,
+    "treatment": "exempt",
+    "conditions": {
+      "note": "\"Water\" is expressly enumerated among the exempt \"eligible foods\" under D.C. Code 47-2001; a bottled-water delivery service selling water by the gallon for a water cooler is taxed under a separate, unrelated provision."
+    }
+  },
+  {
+    "state": "DC",
     "category": "food.candy",
     "category_description": "",
     "taxable": true,
@@ -2261,6 +2523,24 @@
   },
   {
     "state": "DC",
+    "category": "hygiene.diapers",
+    "category_description": "Infant/baby diapers and adult incontinence products (briefs, liners, underpads), cloth or disposable.",
+    "taxable": false,
+    "treatment": "exempt",
+    "conditions": {
+      "scope": "both"
+    }
+  },
+  {
+    "state": "DC",
+    "category": "hygiene.menstrual",
+    "category_description": "Menstrual and feminine hygiene products: tampons, sanitary pads, pantyliners, menstrual cups, and period underwear.",
+    "taxable": false,
+    "treatment": "exempt",
+    "conditions": {}
+  },
+  {
+    "state": "DC",
     "category": "medical.devices",
     "category_description": "",
     "taxable": false,
@@ -2334,6 +2614,14 @@
     "category_description": "",
     "taxable": false,
     "treatment": "exempt",
+    "conditions": {}
+  },
+  {
+    "state": "DC",
+    "category": "publications.textbooks",
+    "category_description": "Required course and college textbooks, printed or digital, as distinct from general trade books. Many states exempt these only when sold by a school or to an enrolled student.",
+    "taxable": true,
+    "treatment": "taxable",
     "conditions": {}
   },
   {
@@ -2551,6 +2839,16 @@
   },
   {
     "state": "FL",
+    "category": "food.bottled_water",
+    "category_description": "Plain, still, unsweetened, unflavored bottled drinking water (spring, mineral, distilled, or purified) sold in a sealed retail container. Excludes flavored, sweetened, or carbonated water, which is taxed as a soft drink under food.candy_soda.",
+    "taxable": false,
+    "treatment": "exempt",
+    "conditions": {
+      "note": "Covers plain water and water with only naturally occurring or water-treatment-facility-added minerals; loses the exemption if carbonation or flavoring is added."
+    }
+  },
+  {
+    "state": "FL",
     "category": "food.candy",
     "category_description": "",
     "taxable": true,
@@ -2627,6 +2925,24 @@
   },
   {
     "state": "FL",
+    "category": "hygiene.diapers",
+    "category_description": "Infant/baby diapers and adult incontinence products (briefs, liners, underpads), cloth or disposable.",
+    "taxable": false,
+    "treatment": "exempt",
+    "conditions": {
+      "scope": "both"
+    }
+  },
+  {
+    "state": "FL",
+    "category": "hygiene.menstrual",
+    "category_description": "Menstrual and feminine hygiene products: tampons, sanitary pads, pantyliners, menstrual cups, and period underwear.",
+    "taxable": false,
+    "treatment": "exempt",
+    "conditions": {}
+  },
+  {
+    "state": "FL",
     "category": "medical.devices",
     "category_description": "",
     "taxable": false,
@@ -2699,6 +3015,17 @@
     "taxable": false,
     "treatment": "exempt",
     "conditions": {}
+  },
+  {
+    "state": "FL",
+    "category": "publications.textbooks",
+    "category_description": "Required course and college textbooks, printed or digital, as distinct from general trade books. Many states exempt these only when sold by a school or to an enrolled student.",
+    "taxable": true,
+    "treatment": "conditional",
+    "conditions": {
+      "note": "Only K-12 school books exempt; college textbooks taxable.",
+      "exempt_if": "sold_by_k12_school"
+    }
   },
   {
     "state": "FL",
@@ -2874,6 +3201,17 @@
   },
   {
     "state": "GA",
+    "category": "food.bottled_water",
+    "category_description": "Plain, still, unsweetened, unflavored bottled drinking water (spring, mineral, distilled, or purified) sold in a sealed retail container. Excludes flavored, sweetened, or carbonated water, which is taxed as a soft drink under food.candy_soda.",
+    "taxable": false,
+    "treatment": "exempt",
+    "conditions": {
+      "note": "Calorie-free, additive-free bottled water is exempt at the state level; local sales tax still applies; bottled water given away free by a business to employees/customers is taxable at state and local level.",
+      "local_may_tax": true
+    }
+  },
+  {
+    "state": "GA",
     "category": "food.candy",
     "category_description": "",
     "taxable": false,
@@ -2952,6 +3290,26 @@
   },
   {
     "state": "GA",
+    "category": "hygiene.diapers",
+    "category_description": "Infant/baby diapers and adult incontinence products (briefs, liners, underpads), cloth or disposable.",
+    "taxable": true,
+    "treatment": "taxable",
+    "conditions": {
+      "note": "2026 exemption bill HB 1223 not enacted."
+    }
+  },
+  {
+    "state": "GA",
+    "category": "hygiene.menstrual",
+    "category_description": "Menstrual and feminine hygiene products: tampons, sanitary pads, pantyliners, menstrual cups, and period underwear.",
+    "taxable": true,
+    "treatment": "taxable",
+    "conditions": {
+      "note": "2026 exemption bill pending, not effective."
+    }
+  },
+  {
+    "state": "GA",
     "category": "medical.devices",
     "category_description": "",
     "taxable": false,
@@ -3025,6 +3383,14 @@
     "category_description": "",
     "taxable": false,
     "treatment": "exempt",
+    "conditions": {}
+  },
+  {
+    "state": "GA",
+    "category": "publications.textbooks",
+    "category_description": "Required course and college textbooks, printed or digital, as distinct from general trade books. Many states exempt these only when sold by a school or to an enrolled student.",
+    "taxable": true,
+    "treatment": "taxable",
     "conditions": {}
   },
   {
@@ -3203,6 +3569,16 @@
   },
   {
     "state": "HI",
+    "category": "food.bottled_water",
+    "category_description": "Plain, still, unsweetened, unflavored bottled drinking water (spring, mineral, distilled, or purified) sold in a sealed retail container. Excludes flavored, sweetened, or carbonated water, which is taxed as a soft drink under food.candy_soda.",
+    "taxable": true,
+    "treatment": "taxable",
+    "conditions": {
+      "note": "Hawaii's General Excise Tax has no general grocery/food exemption; only SNAP/WIC-funded purchases are exempt; county surcharges may add to the base GET rate."
+    }
+  },
+  {
+    "state": "HI",
     "category": "food.candy",
     "category_description": "",
     "taxable": true,
@@ -3274,6 +3650,26 @@
     "taxable": true,
     "treatment": "taxable",
     "conditions": {}
+  },
+  {
+    "state": "HI",
+    "category": "hygiene.diapers",
+    "category_description": "Infant/baby diapers and adult incontinence products (briefs, liners, underpads), cloth or disposable.",
+    "taxable": true,
+    "treatment": "taxable",
+    "conditions": {
+      "note": "GET applies to diaper sales; no exemption."
+    }
+  },
+  {
+    "state": "HI",
+    "category": "hygiene.menstrual",
+    "category_description": "Menstrual and feminine hygiene products: tampons, sanitary pads, pantyliners, menstrual cups, and period underwear.",
+    "taxable": true,
+    "treatment": "taxable",
+    "conditions": {
+      "note": "Subject to GET at the standard rate."
+    }
   },
   {
     "state": "HI",
@@ -3351,6 +3747,16 @@
     "taxable": false,
     "treatment": "exempt",
     "conditions": {}
+  },
+  {
+    "state": "HI",
+    "category": "publications.textbooks",
+    "category_description": "Required course and college textbooks, printed or digital, as distinct from general trade books. Many states exempt these only when sold by a school or to an enrolled student.",
+    "taxable": true,
+    "treatment": "taxable",
+    "conditions": {
+      "note": "General Excise Tax applies to seller receipts including textbooks."
+    }
   },
   {
     "state": "HI",
@@ -3565,6 +3971,16 @@
   },
   {
     "state": "IA",
+    "category": "food.bottled_water",
+    "category_description": "Plain, still, unsweetened, unflavored bottled drinking water (spring, mineral, distilled, or purified) sold in a sealed retail container. Excludes flavored, sweetened, or carbonated water, which is taxed as a soft drink under food.candy_soda.",
+    "taxable": false,
+    "treatment": "exempt",
+    "conditions": {
+      "note": "Must be non-carbonated/non-sweetened; flavored or sweetened water is taxed as a soft drink."
+    }
+  },
+  {
+    "state": "IA",
     "category": "food.candy",
     "category_description": "",
     "taxable": true,
@@ -3637,6 +4053,24 @@
     "category_description": "",
     "taxable": true,
     "treatment": "taxable",
+    "conditions": {}
+  },
+  {
+    "state": "IA",
+    "category": "hygiene.diapers",
+    "category_description": "Infant/baby diapers and adult incontinence products (briefs, liners, underpads), cloth or disposable.",
+    "taxable": false,
+    "treatment": "exempt",
+    "conditions": {
+      "scope": "both"
+    }
+  },
+  {
+    "state": "IA",
+    "category": "hygiene.menstrual",
+    "category_description": "Menstrual and feminine hygiene products: tampons, sanitary pads, pantyliners, menstrual cups, and period underwear.",
+    "taxable": false,
+    "treatment": "exempt",
     "conditions": {}
   },
   {
@@ -3714,6 +4148,14 @@
     "category_description": "",
     "taxable": false,
     "treatment": "exempt",
+    "conditions": {}
+  },
+  {
+    "state": "IA",
+    "category": "publications.textbooks",
+    "category_description": "Required course and college textbooks, printed or digital, as distinct from general trade books. Many states exempt these only when sold by a school or to an enrolled student.",
+    "taxable": true,
+    "treatment": "taxable",
     "conditions": {}
   },
   {
@@ -3894,6 +4336,16 @@
   },
   {
     "state": "ID",
+    "category": "food.bottled_water",
+    "category_description": "Plain, still, unsweetened, unflavored bottled drinking water (spring, mineral, distilled, or purified) sold in a sealed retail container. Excludes flavored, sweetened, or carbonated water, which is taxed as a soft drink under food.candy_soda.",
+    "taxable": true,
+    "treatment": "taxable",
+    "conditions": {
+      "note": "Idaho has no grocery exemption; consumers may offset via the annual grocery tax credit on their income tax return."
+    }
+  },
+  {
+    "state": "ID",
     "category": "food.candy",
     "category_description": "",
     "taxable": true,
@@ -3962,6 +4414,22 @@
     "state": "ID",
     "category": "goods.general",
     "category_description": "",
+    "taxable": true,
+    "treatment": "taxable",
+    "conditions": {}
+  },
+  {
+    "state": "ID",
+    "category": "hygiene.diapers",
+    "category_description": "Infant/baby diapers and adult incontinence products (briefs, liners, underpads), cloth or disposable.",
+    "taxable": true,
+    "treatment": "taxable",
+    "conditions": {}
+  },
+  {
+    "state": "ID",
+    "category": "hygiene.menstrual",
+    "category_description": "Menstrual and feminine hygiene products: tampons, sanitary pads, pantyliners, menstrual cups, and period underwear.",
     "taxable": true,
     "treatment": "taxable",
     "conditions": {}
@@ -4041,6 +4509,14 @@
     "category_description": "",
     "taxable": false,
     "treatment": "exempt",
+    "conditions": {}
+  },
+  {
+    "state": "ID",
+    "category": "publications.textbooks",
+    "category_description": "Required course and college textbooks, printed or digital, as distinct from general trade books. Many states exempt these only when sold by a school or to an enrolled student.",
+    "taxable": true,
+    "treatment": "taxable",
     "conditions": {}
   },
   {
@@ -4220,6 +4696,17 @@
   },
   {
     "state": "IL",
+    "category": "food.bottled_water",
+    "category_description": "Plain, still, unsweetened, unflavored bottled drinking water (spring, mineral, distilled, or purified) sold in a sealed retail container. Excludes flavored, sweetened, or carbonated water, which is taxed as a soft drink under food.candy_soda.",
+    "taxable": false,
+    "treatment": "exempt",
+    "conditions": {
+      "note": "Bottled water is statutorily defined as \"food\"; the 1% state occupation/use tax on off-premises food was eliminated 2026-01-01, but municipalities/counties may impose their own local grocery tax by ordinance (rates vary; e.g. Chicago did not adopt one).",
+      "local_may_tax": true
+    }
+  },
+  {
+    "state": "IL",
     "category": "food.candy",
     "category_description": "",
     "taxable": true,
@@ -4293,6 +4780,24 @@
     "category_description": "",
     "taxable": true,
     "treatment": "taxable",
+    "conditions": {}
+  },
+  {
+    "state": "IL",
+    "category": "hygiene.diapers",
+    "category_description": "Infant/baby diapers and adult incontinence products (briefs, liners, underpads), cloth or disposable.",
+    "taxable": true,
+    "treatment": "taxable",
+    "conditions": {
+      "note": "Diapers do NOT get the 1% low rate; full state+local rate."
+    }
+  },
+  {
+    "state": "IL",
+    "category": "hygiene.menstrual",
+    "category_description": "Menstrual and feminine hygiene products: tampons, sanitary pads, pantyliners, menstrual cups, and period underwear.",
+    "taxable": false,
+    "treatment": "exempt",
     "conditions": {}
   },
   {
@@ -4374,6 +4879,14 @@
     "category_description": "",
     "taxable": false,
     "treatment": "exempt",
+    "conditions": {}
+  },
+  {
+    "state": "IL",
+    "category": "publications.textbooks",
+    "category_description": "Required course and college textbooks, printed or digital, as distinct from general trade books. Many states exempt these only when sold by a school or to an enrolled student.",
+    "taxable": true,
+    "treatment": "taxable",
     "conditions": {}
   },
   {
@@ -4554,6 +5067,17 @@
   },
   {
     "state": "IN",
+    "category": "food.bottled_water",
+    "category_description": "Plain, still, unsweetened, unflavored bottled drinking water (spring, mineral, distilled, or purified) sold in a sealed retail container. Excludes flavored, sweetened, or carbonated water, which is taxed as a soft drink under food.candy_soda.",
+    "taxable": true,
+    "treatment": "conditional",
+    "conditions": {
+      "note": "Indiana taxes all bottled water except water whose container label specifically states \"natural spring water\" with no additives; distilled, purified, mineral, and generically labeled drinking water remain taxable.",
+      "exempt_if": "label_states_natural_spring_water_no_additives"
+    }
+  },
+  {
+    "state": "IN",
     "category": "food.candy",
     "category_description": "",
     "taxable": true,
@@ -4627,6 +5151,27 @@
     "taxable": true,
     "treatment": "taxable",
     "conditions": {}
+  },
+  {
+    "state": "IN",
+    "category": "hygiene.diapers",
+    "category_description": "Infant/baby diapers and adult incontinence products (briefs, liners, underpads), cloth or disposable.",
+    "taxable": false,
+    "treatment": "exempt",
+    "conditions": {
+      "note": "Children exempt since 2022; adult added by HEA 1001-2025 (adult scope provisional).",
+      "scope": "both"
+    }
+  },
+  {
+    "state": "IN",
+    "category": "hygiene.menstrual",
+    "category_description": "Menstrual and feminine hygiene products: tampons, sanitary pads, pantyliners, menstrual cups, and period underwear.",
+    "taxable": true,
+    "treatment": "taxable",
+    "conditions": {
+      "note": "Exemption bill in progress, not effective."
+    }
   },
   {
     "state": "IN",
@@ -4704,6 +5249,17 @@
     "taxable": false,
     "treatment": "exempt",
     "conditions": {}
+  },
+  {
+    "state": "IN",
+    "category": "publications.textbooks",
+    "category_description": "Required course and college textbooks, printed or digital, as distinct from general trade books. Many states exempt these only when sold by a school or to an enrolled student.",
+    "taxable": true,
+    "treatment": "conditional",
+    "conditions": {
+      "note": "Exempt only when sold by a school to its own grade 1-12 students; college taxable.",
+      "exempt_if": "sold_by_school_to_k12_students"
+    }
   },
   {
     "state": "IN",
@@ -4885,6 +5441,17 @@
   },
   {
     "state": "KS",
+    "category": "food.bottled_water",
+    "category_description": "Plain, still, unsweetened, unflavored bottled drinking water (spring, mineral, distilled, or purified) sold in a sealed retail container. Excludes flavored, sweetened, or carbonated water, which is taxed as a soft drink under food.candy_soda.",
+    "taxable": false,
+    "treatment": "exempt",
+    "conditions": {
+      "note": "Bottled water is statutorily defined as food and food ingredients; the state sales tax rate on food was phased to 0% effective 2025-01-01; city/county local sales tax still applies.",
+      "local_may_tax": true
+    }
+  },
+  {
+    "state": "KS",
     "category": "food.candy",
     "category_description": "",
     "taxable": true,
@@ -4965,6 +5532,24 @@
   },
   {
     "state": "KS",
+    "category": "hygiene.diapers",
+    "category_description": "Infant/baby diapers and adult incontinence products (briefs, liners, underpads), cloth or disposable.",
+    "taxable": true,
+    "treatment": "taxable",
+    "conditions": {
+      "note": "Exemption bill SB 107 died in committee."
+    }
+  },
+  {
+    "state": "KS",
+    "category": "hygiene.menstrual",
+    "category_description": "Menstrual and feminine hygiene products: tampons, sanitary pads, pantyliners, menstrual cups, and period underwear.",
+    "taxable": true,
+    "treatment": "taxable",
+    "conditions": {}
+  },
+  {
+    "state": "KS",
     "category": "medical.devices",
     "category_description": "",
     "taxable": false,
@@ -5038,6 +5623,14 @@
     "category_description": "",
     "taxable": false,
     "treatment": "exempt",
+    "conditions": {}
+  },
+  {
+    "state": "KS",
+    "category": "publications.textbooks",
+    "category_description": "Required course and college textbooks, printed or digital, as distinct from general trade books. Many states exempt these only when sold by a school or to an enrolled student.",
+    "taxable": true,
+    "treatment": "taxable",
     "conditions": {}
   },
   {
@@ -5218,6 +5811,16 @@
   },
   {
     "state": "KY",
+    "category": "food.bottled_water",
+    "category_description": "Plain, still, unsweetened, unflavored bottled drinking water (spring, mineral, distilled, or purified) sold in a sealed retail container. Excludes flavored, sweetened, or carbonated water, which is taxed as a soft drink under food.candy_soda.",
+    "taxable": false,
+    "treatment": "exempt",
+    "conditions": {
+      "note": "Unsweetened bottled water does not meet the statutory definition of a taxable \"soft drink,\" which requires an added sweetener, so it falls under the food exemption."
+    }
+  },
+  {
+    "state": "KY",
     "category": "food.candy",
     "category_description": "",
     "taxable": true,
@@ -5291,6 +5894,24 @@
     "taxable": true,
     "treatment": "taxable",
     "conditions": {}
+  },
+  {
+    "state": "KY",
+    "category": "hygiene.diapers",
+    "category_description": "Infant/baby diapers and adult incontinence products (briefs, liners, underpads), cloth or disposable.",
+    "taxable": true,
+    "treatment": "taxable",
+    "conditions": {}
+  },
+  {
+    "state": "KY",
+    "category": "hygiene.menstrual",
+    "category_description": "Menstrual and feminine hygiene products: tampons, sanitary pads, pantyliners, menstrual cups, and period underwear.",
+    "taxable": true,
+    "treatment": "taxable",
+    "conditions": {
+      "note": "2026 exemption bill pending, not effective."
+    }
   },
   {
     "state": "KY",
@@ -5368,6 +5989,17 @@
     "taxable": false,
     "treatment": "exempt",
     "conditions": {}
+  },
+  {
+    "state": "KY",
+    "category": "publications.textbooks",
+    "category_description": "Required course and college textbooks, printed or digital, as distinct from general trade books. Many states exempt these only when sold by a school or to an enrolled student.",
+    "taxable": true,
+    "treatment": "conditional",
+    "conditions": {
+      "note": "Exempt when for a course at a KRS 139.495 nonprofit institution (use-tied, certificate-driven); ordinary retail student sales default taxable.",
+      "exempt_if": "course_at_nonprofit_institution"
+    }
   },
   {
     "state": "KY",
@@ -5548,6 +6180,16 @@
   },
   {
     "state": "LA",
+    "category": "food.bottled_water",
+    "category_description": "Plain, still, unsweetened, unflavored bottled drinking water (spring, mineral, distilled, or purified) sold in a sealed retail container. Excludes flavored, sweetened, or carbonated water, which is taxed as a soft drink under food.candy_soda.",
+    "taxable": true,
+    "treatment": "taxable",
+    "conditions": {
+      "note": "Louisiana's sales tax exemption for water explicitly excludes any water sold in bottles, jugs, or containers, so bottled water is taxable even though tap/utility water is exempt."
+    }
+  },
+  {
+    "state": "LA",
     "category": "food.candy",
     "category_description": "",
     "taxable": false,
@@ -5628,6 +6270,27 @@
   },
   {
     "state": "LA",
+    "category": "hygiene.diapers",
+    "category_description": "Infant/baby diapers and adult incontinence products (briefs, liners, underpads), cloth or disposable.",
+    "taxable": false,
+    "treatment": "exempt",
+    "conditions": {
+      "scope": "both"
+    }
+  },
+  {
+    "state": "LA",
+    "category": "hygiene.menstrual",
+    "category_description": "Menstrual and feminine hygiene products: tampons, sanitary pads, pantyliners, menstrual cups, and period underwear.",
+    "taxable": false,
+    "treatment": "exempt",
+    "conditions": {
+      "note": "State exempt; a minority of local jurisdictions may still levy local tax.",
+      "local_may_tax": true
+    }
+  },
+  {
+    "state": "LA",
     "category": "medical.devices",
     "category_description": "",
     "taxable": false,
@@ -5702,6 +6365,16 @@
     "taxable": false,
     "treatment": "exempt",
     "conditions": {}
+  },
+  {
+    "state": "LA",
+    "category": "publications.textbooks",
+    "category_description": "Required course and college textbooks, printed or digital, as distinct from general trade books. Many states exempt these only when sold by a school or to an enrolled student.",
+    "taxable": true,
+    "treatment": "taxable",
+    "conditions": {
+      "note": "College textbooks fully taxable; digital textbooks taxable since 2025-01-01."
+    }
   },
   {
     "state": "LA",
@@ -5898,6 +6571,16 @@
   },
   {
     "state": "MA",
+    "category": "food.bottled_water",
+    "category_description": "Plain, still, unsweetened, unflavored bottled drinking water (spring, mineral, distilled, or purified) sold in a sealed retail container. Excludes flavored, sweetened, or carbonated water, which is taxed as a soft drink under food.candy_soda.",
+    "taxable": false,
+    "treatment": "exempt",
+    "conditions": {
+      "note": "Only unopened, original-container sales are exempt; water dispensed or poured for immediate consumption is taxable as a meal."
+    }
+  },
+  {
+    "state": "MA",
     "category": "food.candy",
     "category_description": "",
     "taxable": false,
@@ -5976,6 +6659,26 @@
   },
   {
     "state": "MA",
+    "category": "hygiene.diapers",
+    "category_description": "Infant/baby diapers and adult incontinence products (briefs, liners, underpads), cloth or disposable.",
+    "taxable": false,
+    "treatment": "exempt",
+    "conditions": {
+      "note": "Exempt as clothing under $175.",
+      "basis": "clothing",
+      "scope": "both"
+    }
+  },
+  {
+    "state": "MA",
+    "category": "hygiene.menstrual",
+    "category_description": "Menstrual and feminine hygiene products: tampons, sanitary pads, pantyliners, menstrual cups, and period underwear.",
+    "taxable": false,
+    "treatment": "exempt",
+    "conditions": {}
+  },
+  {
+    "state": "MA",
     "category": "medical.devices",
     "category_description": "",
     "taxable": false,
@@ -6049,6 +6752,17 @@
     "taxable": false,
     "treatment": "exempt",
     "conditions": {}
+  },
+  {
+    "state": "MA",
+    "category": "publications.textbooks",
+    "category_description": "Required course and college textbooks, printed or digital, as distinct from general trade books. Many states exempt these only when sold by a school or to an enrolled student.",
+    "taxable": true,
+    "treatment": "conditional",
+    "conditions": {
+      "note": "Exempt for required books sold to students in an educational institution (Form ST-8).",
+      "exempt_if": "required_and_sold_to_students_form_ST8"
+    }
   },
   {
     "state": "MA",
@@ -6261,6 +6975,16 @@
   },
   {
     "state": "MD",
+    "category": "food.bottled_water",
+    "category_description": "Plain, still, unsweetened, unflavored bottled drinking water (spring, mineral, distilled, or purified) sold in a sealed retail container. Excludes flavored, sweetened, or carbonated water, which is taxed as a soft drink under food.candy_soda.",
+    "taxable": true,
+    "treatment": "taxable",
+    "conditions": {
+      "note": "Applies to all pack sizes per official Comptroller guidance; a secondary blog claims multi-packs are exempt, but that carve-out does not appear in Business Tax Tip #5, COMAR 03.06.01.22, or Tax-General 11-206."
+    }
+  },
+  {
+    "state": "MD",
     "category": "food.candy",
     "category_description": "",
     "taxable": true,
@@ -6333,6 +7057,24 @@
     "category_description": "",
     "taxable": true,
     "treatment": "taxable",
+    "conditions": {}
+  },
+  {
+    "state": "MD",
+    "category": "hygiene.diapers",
+    "category_description": "Infant/baby diapers and adult incontinence products (briefs, liners, underpads), cloth or disposable.",
+    "taxable": false,
+    "treatment": "exempt",
+    "conditions": {
+      "scope": "both"
+    }
+  },
+  {
+    "state": "MD",
+    "category": "hygiene.menstrual",
+    "category_description": "Menstrual and feminine hygiene products: tampons, sanitary pads, pantyliners, menstrual cups, and period underwear.",
+    "taxable": false,
+    "treatment": "exempt",
     "conditions": {}
   },
   {
@@ -6410,6 +7152,16 @@
     "taxable": false,
     "treatment": "exempt",
     "conditions": {}
+  },
+  {
+    "state": "MD",
+    "category": "publications.textbooks",
+    "category_description": "Required course and college textbooks, printed or digital, as distinct from general trade books. Many states exempt these only when sold by a school or to an enrolled student.",
+    "taxable": true,
+    "treatment": "taxable",
+    "conditions": {
+      "note": "Taxable in print or electronic form; a widely-cited student exemption describes a never-enacted 2008 bill."
+    }
   },
   {
     "state": "MD",
@@ -6589,6 +7341,16 @@
   },
   {
     "state": "ME",
+    "category": "food.bottled_water",
+    "category_description": "Plain, still, unsweetened, unflavored bottled drinking water (spring, mineral, distilled, or purified) sold in a sealed retail container. Excludes flavored, sweetened, or carbonated water, which is taxed as a soft drink under food.candy_soda.",
+    "taxable": true,
+    "treatment": "taxable",
+    "conditions": {
+      "note": "Applies equally to still, mineral, and carbonated bottled water; no size or quantity exception found in statute."
+    }
+  },
+  {
+    "state": "ME",
     "category": "food.candy",
     "category_description": "",
     "taxable": true,
@@ -6667,6 +7429,24 @@
   },
   {
     "state": "ME",
+    "category": "hygiene.diapers",
+    "category_description": "Infant/baby diapers and adult incontinence products (briefs, liners, underpads), cloth or disposable.",
+    "taxable": true,
+    "treatment": "taxable",
+    "conditions": {
+      "note": "Statute shows no diaper exemption; a secondary vendor guide conflicts — flagged."
+    }
+  },
+  {
+    "state": "ME",
+    "category": "hygiene.menstrual",
+    "category_description": "Menstrual and feminine hygiene products: tampons, sanitary pads, pantyliners, menstrual cups, and period underwear.",
+    "taxable": false,
+    "treatment": "exempt",
+    "conditions": {}
+  },
+  {
+    "state": "ME",
     "category": "medical.devices",
     "category_description": "",
     "taxable": false,
@@ -6740,6 +7520,14 @@
     "category_description": "",
     "taxable": false,
     "treatment": "exempt",
+    "conditions": {}
+  },
+  {
+    "state": "ME",
+    "category": "publications.textbooks",
+    "category_description": "Required course and college textbooks, printed or digital, as distinct from general trade books. Many states exempt these only when sold by a school or to an enrolled student.",
+    "taxable": true,
+    "treatment": "taxable",
     "conditions": {}
   },
   {
@@ -6923,6 +7711,16 @@
   },
   {
     "state": "MI",
+    "category": "food.bottled_water",
+    "category_description": "Plain, still, unsweetened, unflavored bottled drinking water (spring, mineral, distilled, or purified) sold in a sealed retail container. Excludes flavored, sweetened, or carbonated water, which is taxed as a soft drink under food.candy_soda.",
+    "taxable": false,
+    "treatment": "exempt",
+    "conditions": {
+      "note": "No local sales tax in Michigan; SST-aligned statutory definition of bottled water is treated as exempt food regardless of size/brand."
+    }
+  },
+  {
+    "state": "MI",
     "category": "food.candy",
     "category_description": "",
     "taxable": false,
@@ -6995,6 +7793,24 @@
     "category_description": "",
     "taxable": true,
     "treatment": "taxable",
+    "conditions": {}
+  },
+  {
+    "state": "MI",
+    "category": "hygiene.diapers",
+    "category_description": "Infant/baby diapers and adult incontinence products (briefs, liners, underpads), cloth or disposable.",
+    "taxable": true,
+    "treatment": "taxable",
+    "conditions": {
+      "note": "Exemption bills introduced but never enacted."
+    }
+  },
+  {
+    "state": "MI",
+    "category": "hygiene.menstrual",
+    "category_description": "Menstrual and feminine hygiene products: tampons, sanitary pads, pantyliners, menstrual cups, and period underwear.",
+    "taxable": false,
+    "treatment": "exempt",
     "conditions": {}
   },
   {
@@ -7073,6 +7889,17 @@
     "taxable": false,
     "treatment": "exempt",
     "conditions": {}
+  },
+  {
+    "state": "MI",
+    "category": "publications.textbooks",
+    "category_description": "Required course and college textbooks, printed or digital, as distinct from general trade books. Many states exempt these only when sold by a school or to an enrolled student.",
+    "taxable": true,
+    "treatment": "conditional",
+    "conditions": {
+      "note": "Exempt only when sold by a school for K-12 students; college taxable.",
+      "exempt_if": "sold_by_k12_school"
+    }
   },
   {
     "state": "MI",
@@ -7262,6 +8089,16 @@
   },
   {
     "state": "MN",
+    "category": "food.bottled_water",
+    "category_description": "Plain, still, unsweetened, unflavored bottled drinking water (spring, mineral, distilled, or purified) sold in a sealed retail container. Excludes flavored, sweetened, or carbonated water, which is taxed as a soft drink under food.candy_soda.",
+    "taxable": false,
+    "treatment": "exempt",
+    "conditions": {
+      "note": "Taxable if the seller provides straws or other eating utensils with the water (treated as prepared food); local option sales taxes may still apply in some MN cities."
+    }
+  },
+  {
+    "state": "MN",
     "category": "food.candy",
     "category_description": "",
     "taxable": true,
@@ -7334,6 +8171,25 @@
     "category_description": "",
     "taxable": true,
     "treatment": "taxable",
+    "conditions": {}
+  },
+  {
+    "state": "MN",
+    "category": "hygiene.diapers",
+    "category_description": "Infant/baby diapers and adult incontinence products (briefs, liners, underpads), cloth or disposable.",
+    "taxable": false,
+    "treatment": "exempt",
+    "conditions": {
+      "basis": "clothing",
+      "scope": "both"
+    }
+  },
+  {
+    "state": "MN",
+    "category": "hygiene.menstrual",
+    "category_description": "Menstrual and feminine hygiene products: tampons, sanitary pads, pantyliners, menstrual cups, and period underwear.",
+    "taxable": false,
+    "treatment": "exempt",
     "conditions": {}
   },
   {
@@ -7412,6 +8268,17 @@
     "taxable": false,
     "treatment": "exempt",
     "conditions": {}
+  },
+  {
+    "state": "MN",
+    "category": "publications.textbooks",
+    "category_description": "Required course and college textbooks, printed or digital, as distinct from general trade books. Many states exempt these only when sold by a school or to an enrolled student.",
+    "taxable": true,
+    "treatment": "conditional",
+    "conditions": {
+      "note": "Exempt (incl. digital) for textbooks prescribed for a course for regularly enrolled students.",
+      "exempt_if": "prescribed_course_text_enrolled_student"
+    }
   },
   {
     "state": "MN",
@@ -7624,6 +8491,17 @@
   },
   {
     "state": "MO",
+    "category": "food.bottled_water",
+    "category_description": "Plain, still, unsweetened, unflavored bottled drinking water (spring, mineral, distilled, or purified) sold in a sealed retail container. Excludes flavored, sweetened, or carbonated water, which is taxed as a soft drink under food.candy_soda.",
+    "taxable": true,
+    "treatment": "reduced_rate",
+    "conditions": {
+      "note": "A DOR determination found prepackaged, non-carbonated, unflavored bottled water carrying a nutrition-facts label qualifies as SNAP-eligible food for the reduced state rate (down from 4.225%); full local sales tax still applies on top.",
+      "local_may_tax": true
+    }
+  },
+  {
+    "state": "MO",
     "category": "food.candy",
     "category_description": "",
     "taxable": true,
@@ -7704,6 +8582,26 @@
   },
   {
     "state": "MO",
+    "category": "hygiene.diapers",
+    "category_description": "Infant/baby diapers and adult incontinence products (briefs, liners, underpads), cloth or disposable.",
+    "taxable": false,
+    "treatment": "exempt",
+    "conditions": {
+      "scope": "both"
+    }
+  },
+  {
+    "state": "MO",
+    "category": "hygiene.menstrual",
+    "category_description": "Menstrual and feminine hygiene products: tampons, sanitary pads, pantyliners, menstrual cups, and period underwear.",
+    "taxable": false,
+    "treatment": "exempt",
+    "conditions": {
+      "note": "State AND local exempt; includes washable period underwear."
+    }
+  },
+  {
+    "state": "MO",
     "category": "medical.devices",
     "category_description": "",
     "taxable": false,
@@ -7778,6 +8676,19 @@
     "taxable": false,
     "treatment": "exempt",
     "conditions": {}
+  },
+  {
+    "state": "MO",
+    "category": "publications.textbooks",
+    "category_description": "Required course and college textbooks, printed or digital, as distinct from general trade books. Many states exempt these only when sold by a school or to an enrolled student.",
+    "taxable": true,
+    "treatment": "conditional",
+    "conditions": {
+      "note": "State tax only (local still applies); required/recommended texts bought by an enrolled MO postsecondary student.",
+      "scope": "state_tax_only",
+      "exempt_if": "required_text_enrolled_postsecondary",
+      "local_may_tax": true
+    }
   },
   {
     "state": "MO",
@@ -7990,6 +8901,16 @@
   },
   {
     "state": "MS",
+    "category": "food.bottled_water",
+    "category_description": "Plain, still, unsweetened, unflavored bottled drinking water (spring, mineral, distilled, or purified) sold in a sealed retail container. Excludes flavored, sweetened, or carbonated water, which is taxed as a soft drink under food.candy_soda.",
+    "taxable": true,
+    "treatment": "reduced_rate",
+    "conditions": {
+      "note": "Mississippi has no full grocery exemption; SNAP-eligible food/drink, including bottled water, is taxed at the reduced state rate (cut from 7% to 5% effective 2025-07-01); non-SNAP-eligible items remain taxable at 7%."
+    }
+  },
+  {
+    "state": "MS",
     "category": "food.candy",
     "category_description": "",
     "taxable": true,
@@ -8051,6 +8972,26 @@
     "taxable": true,
     "treatment": "taxable",
     "conditions": {}
+  },
+  {
+    "state": "MS",
+    "category": "hygiene.diapers",
+    "category_description": "Infant/baby diapers and adult incontinence products (briefs, liners, underpads), cloth or disposable.",
+    "taxable": true,
+    "treatment": "taxable",
+    "conditions": {
+      "note": "Full 7% rate; 2026 legislature declined repeal."
+    }
+  },
+  {
+    "state": "MS",
+    "category": "hygiene.menstrual",
+    "category_description": "Menstrual and feminine hygiene products: tampons, sanitary pads, pantyliners, menstrual cups, and period underwear.",
+    "taxable": true,
+    "treatment": "taxable",
+    "conditions": {
+      "note": "Standard 7% rate; 2026 bill pending."
+    }
   },
   {
     "state": "MS",
@@ -8128,6 +9069,17 @@
     "taxable": false,
     "treatment": "exempt",
     "conditions": {}
+  },
+  {
+    "state": "MS",
+    "category": "publications.textbooks",
+    "category_description": "Required course and college textbooks, printed or digital, as distinct from general trade books. Many states exempt these only when sold by a school or to an enrolled student.",
+    "taxable": true,
+    "treatment": "conditional",
+    "conditions": {
+      "note": "Required school textbooks sold to students exempt; exact subsection/higher-ed scope not primary-confirmed.",
+      "exempt_if": "required_school_textbooks_to_students"
+    }
   },
   {
     "state": "MS",
@@ -8305,6 +9257,16 @@
   },
   {
     "state": "NC",
+    "category": "food.bottled_water",
+    "category_description": "Plain, still, unsweetened, unflavored bottled drinking water (spring, mineral, distilled, or purified) sold in a sealed retail container. Excludes flavored, sweetened, or carbonated water, which is taxed as a soft drink under food.candy_soda.",
+    "taxable": true,
+    "treatment": "reduced_rate",
+    "conditions": {
+      "note": "Applies only to unsweetened bottled water, which is \"qualifying food\" subject only to the 2% local rate, with no state (4.75%) or transit-rate component. Sweetened bottled water meets the statutory definition of \"soft drink\" and is fully taxable at the combined state+local(+transit) rate (out of scope)."
+    }
+  },
+  {
+    "state": "NC",
     "category": "food.candy",
     "category_description": "",
     "taxable": true,
@@ -8382,6 +9344,27 @@
   },
   {
     "state": "NC",
+    "category": "hygiene.diapers",
+    "category_description": "Infant/baby diapers and adult incontinence products (briefs, liners, underpads), cloth or disposable.",
+    "taxable": true,
+    "treatment": "conditional",
+    "conditions": {
+      "note": "Exempt only if sold on prescription to Medicaid beneficiaries; otherwise taxable.",
+      "exempt_if": "prescription_to_medicaid_beneficiary"
+    }
+  },
+  {
+    "state": "NC",
+    "category": "hygiene.menstrual",
+    "category_description": "Menstrual and feminine hygiene products: tampons, sanitary pads, pantyliners, menstrual cups, and period underwear.",
+    "taxable": true,
+    "treatment": "taxable",
+    "conditions": {
+      "note": "SB 510 (2025) died in committee; still fully taxable."
+    }
+  },
+  {
+    "state": "NC",
     "category": "medical.devices",
     "category_description": "",
     "taxable": false,
@@ -8455,6 +9438,14 @@
     "category_description": "",
     "taxable": false,
     "treatment": "exempt",
+    "conditions": {}
+  },
+  {
+    "state": "NC",
+    "category": "publications.textbooks",
+    "category_description": "Required course and college textbooks, printed or digital, as distinct from general trade books. Many states exempt these only when sold by a school or to an enrolled student.",
+    "taxable": true,
+    "treatment": "taxable",
     "conditions": {}
   },
   {
@@ -8637,6 +9628,16 @@
   },
   {
     "state": "ND",
+    "category": "food.bottled_water",
+    "category_description": "Plain, still, unsweetened, unflavored bottled drinking water (spring, mineral, distilled, or purified) sold in a sealed retail container. Excludes flavored, sweetened, or carbonated water, which is taxed as a soft drink under food.candy_soda.",
+    "taxable": false,
+    "treatment": "exempt",
+    "conditions": {
+      "note": "Taxable if sold through a coin-operated vending machine, or if it contains added natural/artificial sweeteners (reclassified as a taxable soft drink); local option sales taxes may still apply."
+    }
+  },
+  {
+    "state": "ND",
     "category": "food.candy",
     "category_description": "",
     "taxable": true,
@@ -8707,6 +9708,24 @@
     "state": "ND",
     "category": "goods.general",
     "category_description": "",
+    "taxable": true,
+    "treatment": "taxable",
+    "conditions": {}
+  },
+  {
+    "state": "ND",
+    "category": "hygiene.diapers",
+    "category_description": "Infant/baby diapers and adult incontinence products (briefs, liners, underpads), cloth or disposable.",
+    "taxable": false,
+    "treatment": "exempt",
+    "conditions": {
+      "scope": "both"
+    }
+  },
+  {
+    "state": "ND",
+    "category": "hygiene.menstrual",
+    "category_description": "Menstrual and feminine hygiene products: tampons, sanitary pads, pantyliners, menstrual cups, and period underwear.",
     "taxable": true,
     "treatment": "taxable",
     "conditions": {}
@@ -8787,6 +9806,17 @@
     "taxable": false,
     "treatment": "exempt",
     "conditions": {}
+  },
+  {
+    "state": "ND",
+    "category": "publications.textbooks",
+    "category_description": "Required course and college textbooks, printed or digital, as distinct from general trade books. Many states exempt these only when sold by a school or to an enrolled student.",
+    "taxable": true,
+    "treatment": "conditional",
+    "conditions": {
+      "note": "Exempt when sold to regularly enrolled students of a school, or bought by a nonprofit school/college.",
+      "exempt_if": "enrolled_students_or_nonprofit_school"
+    }
   },
   {
     "state": "ND",
@@ -8967,6 +9997,16 @@
   },
   {
     "state": "NE",
+    "category": "food.bottled_water",
+    "category_description": "Plain, still, unsweetened, unflavored bottled drinking water (spring, mineral, distilled, or purified) sold in a sealed retail container. Excludes flavored, sweetened, or carbonated water, which is taxed as a soft drink under food.candy_soda.",
+    "taxable": false,
+    "treatment": "exempt",
+    "conditions": {
+      "note": "Local option sales/use taxes may still apply; taxable if sold as part of prepared food or beverage service."
+    }
+  },
+  {
+    "state": "NE",
     "category": "food.candy",
     "category_description": "",
     "taxable": false,
@@ -9039,6 +10079,24 @@
     "category_description": "",
     "taxable": true,
     "treatment": "taxable",
+    "conditions": {}
+  },
+  {
+    "state": "NE",
+    "category": "hygiene.diapers",
+    "category_description": "Infant/baby diapers and adult incontinence products (briefs, liners, underpads), cloth or disposable.",
+    "taxable": true,
+    "treatment": "taxable",
+    "conditions": {
+      "note": "Exemption enacted but not effective until 2027-07-01; taxable throughout 2026."
+    }
+  },
+  {
+    "state": "NE",
+    "category": "hygiene.menstrual",
+    "category_description": "Menstrual and feminine hygiene products: tampons, sanitary pads, pantyliners, menstrual cups, and period underwear.",
+    "taxable": false,
+    "treatment": "exempt",
     "conditions": {}
   },
   {
@@ -9117,6 +10175,16 @@
     "taxable": false,
     "treatment": "exempt",
     "conditions": {}
+  },
+  {
+    "state": "NE",
+    "category": "publications.textbooks",
+    "category_description": "Required course and college textbooks, printed or digital, as distinct from general trade books. Many states exempt these only when sold by a school or to an enrolled student.",
+    "taxable": true,
+    "treatment": "taxable",
+    "conditions": {
+      "note": "College/general textbooks taxable; only a K-12 school-store carve-out."
+    }
   },
   {
     "state": "NE",
@@ -9306,6 +10374,16 @@
   },
   {
     "state": "NJ",
+    "category": "food.bottled_water",
+    "category_description": "Plain, still, unsweetened, unflavored bottled drinking water (spring, mineral, distilled, or purified) sold in a sealed retail container. Excludes flavored, sweetened, or carbonated water, which is taxed as a soft drink under food.candy_soda.",
+    "taxable": false,
+    "treatment": "exempt",
+    "conditions": {
+      "note": "Only artificially carbonated water is taxed as a soft drink; plain still and naturally carbonated bottled water is exempt as grocery food; no general NJ local sales tax."
+    }
+  },
+  {
+    "state": "NJ",
     "category": "food.candy",
     "category_description": "",
     "taxable": true,
@@ -9384,6 +10462,25 @@
   },
   {
     "state": "NJ",
+    "category": "hygiene.diapers",
+    "category_description": "Infant/baby diapers and adult incontinence products (briefs, liners, underpads), cloth or disposable.",
+    "taxable": false,
+    "treatment": "exempt",
+    "conditions": {
+      "basis": "clothing",
+      "scope": "both"
+    }
+  },
+  {
+    "state": "NJ",
+    "category": "hygiene.menstrual",
+    "category_description": "Menstrual and feminine hygiene products: tampons, sanitary pads, pantyliners, menstrual cups, and period underwear.",
+    "taxable": false,
+    "treatment": "exempt",
+    "conditions": {}
+  },
+  {
+    "state": "NJ",
     "category": "medical.devices",
     "category_description": "",
     "taxable": false,
@@ -9458,6 +10555,17 @@
     "taxable": false,
     "treatment": "exempt",
     "conditions": {}
+  },
+  {
+    "state": "NJ",
+    "category": "publications.textbooks",
+    "category_description": "Required course and college textbooks, printed or digital, as distinct from general trade books. Many states exempt these only when sold by a school or to an enrolled student.",
+    "taxable": true,
+    "treatment": "conditional",
+    "conditions": {
+      "note": "Exempt for institution-required course textbooks when the purchaser gives the seller Form ST-16.",
+      "exempt_if": "required_text_form_ST16"
+    }
   },
   {
     "state": "NJ",
@@ -9668,6 +10776,17 @@
   },
   {
     "state": "NM",
+    "category": "food.bottled_water",
+    "category_description": "Plain, still, unsweetened, unflavored bottled drinking water (spring, mineral, distilled, or purified) sold in a sealed retail container. Excludes flavored, sweetened, or carbonated water, which is taxed as a soft drink under food.candy_soda.",
+    "taxable": true,
+    "treatment": "conditional",
+    "conditions": {
+      "note": "New Mexico's gross receipts tax deduction for food sold by a retail food store lists bottled water among qualifying items, but the deduction applies only when the seller meets the federal SNAP retail-food-store definition; sales by non-qualifying sellers, restaurants, or vending machines remain subject to GRT.",
+      "exempt_if": "sold_by_qualifying_retail_food_store"
+    }
+  },
+  {
+    "state": "NM",
     "category": "food.candy",
     "category_description": "",
     "taxable": false,
@@ -9746,6 +10865,26 @@
   },
   {
     "state": "NM",
+    "category": "hygiene.diapers",
+    "category_description": "Infant/baby diapers and adult incontinence products (briefs, liners, underpads), cloth or disposable.",
+    "taxable": true,
+    "treatment": "taxable",
+    "conditions": {
+      "note": "GRT default-taxable; no diaper deduction found."
+    }
+  },
+  {
+    "state": "NM",
+    "category": "hygiene.menstrual",
+    "category_description": "Menstrual and feminine hygiene products: tampons, sanitary pads, pantyliners, menstrual cups, and period underwear.",
+    "taxable": false,
+    "treatment": "exempt",
+    "conditions": {
+      "note": "GRT deduction — products bear no gross receipts tax."
+    }
+  },
+  {
+    "state": "NM",
     "category": "medical.devices",
     "category_description": "",
     "taxable": false,
@@ -9820,6 +10959,17 @@
     "taxable": false,
     "treatment": "exempt",
     "conditions": {}
+  },
+  {
+    "state": "NM",
+    "category": "publications.textbooks",
+    "category_description": "Required course and college textbooks, printed or digital, as distinct from general trade books. Many states exempt these only when sold by a school or to an enrolled student.",
+    "taxable": true,
+    "treatment": "conditional",
+    "conditions": {
+      "note": "GRT exempt only for on-campus bookstore sales to an enrolled student presenting a valid ID.",
+      "exempt_if": "on_campus_bookstore_enrolled_student_id"
+    }
   },
   {
     "state": "NM",
@@ -10000,6 +11150,16 @@
   },
   {
     "state": "NV",
+    "category": "food.bottled_water",
+    "category_description": "Plain, still, unsweetened, unflavored bottled drinking water (spring, mineral, distilled, or purified) sold in a sealed retail container. Excludes flavored, sweetened, or carbonated water, which is taxed as a soft drink under food.candy_soda.",
+    "taxable": true,
+    "treatment": "taxable",
+    "conditions": {
+      "note": "2011 Nevada A.B. 218 amended the food-for-human-consumption exemption statute to specifically exclude bottled water from the definition of \"food,\" effective after 2011-06-30."
+    }
+  },
+  {
+    "state": "NV",
     "category": "food.candy",
     "category_description": "",
     "taxable": false,
@@ -10073,6 +11233,28 @@
     "taxable": true,
     "treatment": "taxable",
     "conditions": {}
+  },
+  {
+    "state": "NV",
+    "category": "hygiene.diapers",
+    "category_description": "Infant/baby diapers and adult incontinence products (briefs, liners, underpads), cloth or disposable.",
+    "taxable": false,
+    "treatment": "exempt",
+    "conditions": {
+      "scope": "both",
+      "sunset": "2050-12-31"
+    }
+  },
+  {
+    "state": "NV",
+    "category": "hygiene.menstrual",
+    "category_description": "Menstrual and feminine hygiene products: tampons, sanitary pads, pantyliners, menstrual cups, and period underwear.",
+    "taxable": false,
+    "treatment": "exempt",
+    "conditions": {
+      "note": "Voter-approved; scheduled to sunset 2028-12-31.",
+      "sunset": "2028-12-31"
+    }
   },
   {
     "state": "NV",
@@ -10150,6 +11332,17 @@
     "taxable": false,
     "treatment": "exempt",
     "conditions": {}
+  },
+  {
+    "state": "NV",
+    "category": "publications.textbooks",
+    "category_description": "Required course and college textbooks, printed or digital, as distinct from general trade books. Many states exempt these only when sold by a school or to an enrolled student.",
+    "taxable": true,
+    "treatment": "conditional",
+    "conditions": {
+      "note": "Textbooks sold within the Nevada System of Higher Education exempt; third-party sales taxable.",
+      "exempt_if": "sold_within_NSHE"
+    }
   },
   {
     "state": "NV",
@@ -10344,6 +11537,16 @@
   },
   {
     "state": "NY",
+    "category": "food.bottled_water",
+    "category_description": "Plain, still, unsweetened, unflavored bottled drinking water (spring, mineral, distilled, or purified) sold in a sealed retail container. Excludes flavored, sweetened, or carbonated water, which is taxed as a soft drink under food.candy_soda.",
+    "taxable": true,
+    "treatment": "taxable",
+    "conditions": {
+      "note": "Bottled water sold at retail is taxed like ordinary tangible personal property at the standard state+local rate."
+    }
+  },
+  {
+    "state": "NY",
     "category": "food.candy",
     "category_description": "",
     "taxable": true,
@@ -10422,6 +11625,24 @@
   },
   {
     "state": "NY",
+    "category": "hygiene.diapers",
+    "category_description": "Infant/baby diapers and adult incontinence products (briefs, liners, underpads), cloth or disposable.",
+    "taxable": false,
+    "treatment": "exempt",
+    "conditions": {
+      "scope": "both"
+    }
+  },
+  {
+    "state": "NY",
+    "category": "hygiene.menstrual",
+    "category_description": "Menstrual and feminine hygiene products: tampons, sanitary pads, pantyliners, menstrual cups, and period underwear.",
+    "taxable": false,
+    "treatment": "exempt",
+    "conditions": {}
+  },
+  {
+    "state": "NY",
     "category": "medical.devices",
     "category_description": "",
     "taxable": false,
@@ -10496,6 +11717,17 @@
     "taxable": false,
     "treatment": "exempt",
     "conditions": {}
+  },
+  {
+    "state": "NY",
+    "category": "publications.textbooks",
+    "category_description": "Required course and college textbooks, printed or digital, as distinct from general trade books. Many states exempt these only when sold by a school or to an enrolled student.",
+    "taxable": true,
+    "treatment": "conditional",
+    "conditions": {
+      "note": "Exempt for required course texts bought by a college student presenting a valid student ID.",
+      "exempt_if": "college_student_with_id"
+    }
   },
   {
     "state": "NY",
@@ -10675,6 +11907,16 @@
   },
   {
     "state": "OH",
+    "category": "food.bottled_water",
+    "category_description": "Plain, still, unsweetened, unflavored bottled drinking water (spring, mineral, distilled, or purified) sold in a sealed retail container. Excludes flavored, sweetened, or carbonated water, which is taxed as a soft drink under food.candy_soda.",
+    "taxable": false,
+    "treatment": "exempt",
+    "conditions": {
+      "note": "Applies to off-premises consumption; a sweetened version would meet the statutory definition of a taxable \"soft drink.\""
+    }
+  },
+  {
+    "state": "OH",
     "category": "food.candy",
     "category_description": "",
     "taxable": false,
@@ -10747,6 +11989,25 @@
     "category_description": "",
     "taxable": true,
     "treatment": "taxable",
+    "conditions": {}
+  },
+  {
+    "state": "OH",
+    "category": "hygiene.diapers",
+    "category_description": "Infant/baby diapers and adult incontinence products (briefs, liners, underpads), cloth or disposable.",
+    "taxable": true,
+    "treatment": "conditional",
+    "conditions": {
+      "note": "Children's diapers exempt; adult incontinence taxable.",
+      "scope": "infant_only"
+    }
+  },
+  {
+    "state": "OH",
+    "category": "hygiene.menstrual",
+    "category_description": "Menstrual and feminine hygiene products: tampons, sanitary pads, pantyliners, menstrual cups, and period underwear.",
+    "taxable": false,
+    "treatment": "exempt",
     "conditions": {}
   },
   {
@@ -10825,6 +12086,16 @@
     "taxable": false,
     "treatment": "exempt",
     "conditions": {}
+  },
+  {
+    "state": "OH",
+    "category": "publications.textbooks",
+    "category_description": "Required course and college textbooks, printed or digital, as distinct from general trade books. Many states exempt these only when sold by a school or to an enrolled student.",
+    "taxable": true,
+    "treatment": "taxable",
+    "conditions": {
+      "note": "Taxable except during the back-to-school holiday (instructional materials <= $20/item)."
+    }
   },
   {
     "state": "OH",
@@ -11037,6 +12308,17 @@
   },
   {
     "state": "OK",
+    "category": "food.bottled_water",
+    "category_description": "Plain, still, unsweetened, unflavored bottled drinking water (spring, mineral, distilled, or purified) sold in a sealed retail container. Excludes flavored, sweetened, or carbonated water, which is taxed as a soft drink under food.candy_soda.",
+    "taxable": false,
+    "treatment": "exempt",
+    "conditions": {
+      "note": "State sales tax on food and food ingredients, including bottled water, was reduced to 0% effective 2024-08-29; municipal and county sales/use taxes still apply.",
+      "local_may_tax": true
+    }
+  },
+  {
+    "state": "OK",
     "category": "food.candy",
     "category_description": "",
     "taxable": true,
@@ -11117,6 +12399,22 @@
   },
   {
     "state": "OK",
+    "category": "hygiene.diapers",
+    "category_description": "Infant/baby diapers and adult incontinence products (briefs, liners, underpads), cloth or disposable.",
+    "taxable": true,
+    "treatment": "taxable",
+    "conditions": {}
+  },
+  {
+    "state": "OK",
+    "category": "hygiene.menstrual",
+    "category_description": "Menstrual and feminine hygiene products: tampons, sanitary pads, pantyliners, menstrual cups, and period underwear.",
+    "taxable": true,
+    "treatment": "taxable",
+    "conditions": {}
+  },
+  {
+    "state": "OK",
     "category": "medical.devices",
     "category_description": "",
     "taxable": false,
@@ -11191,6 +12489,17 @@
     "taxable": false,
     "treatment": "exempt",
     "conditions": {}
+  },
+  {
+    "state": "OK",
+    "category": "publications.textbooks",
+    "category_description": "Required course and college textbooks, printed or digital, as distinct from general trade books. Many states exempt these only when sold by a school or to an enrolled student.",
+    "taxable": true,
+    "treatment": "conditional",
+    "conditions": {
+      "note": "Retail student purchase taxable; exempt only via a qualifying exempt educational institution.",
+      "exempt_if": "qualifying_exempt_institution"
+    }
   },
   {
     "state": "OK",
@@ -11376,6 +12685,16 @@
   },
   {
     "state": "PA",
+    "category": "food.bottled_water",
+    "category_description": "Plain, still, unsweetened, unflavored bottled drinking water (spring, mineral, distilled, or purified) sold in a sealed retail container. Excludes flavored, sweetened, or carbonated water, which is taxed as a soft drink under food.candy_soda.",
+    "taxable": false,
+    "treatment": "exempt",
+    "conditions": {
+      "note": "Applies to plain, unflavored, non-carbonated water including non-flavored mineral water; flavored, sweetened, or vitamin water is a taxable soft drink."
+    }
+  },
+  {
+    "state": "PA",
     "category": "food.candy",
     "category_description": "",
     "taxable": false,
@@ -11454,6 +12773,25 @@
   },
   {
     "state": "PA",
+    "category": "hygiene.diapers",
+    "category_description": "Infant/baby diapers and adult incontinence products (briefs, liners, underpads), cloth or disposable.",
+    "taxable": false,
+    "treatment": "exempt",
+    "conditions": {
+      "basis": "wearing_apparel",
+      "scope": "both"
+    }
+  },
+  {
+    "state": "PA",
+    "category": "hygiene.menstrual",
+    "category_description": "Menstrual and feminine hygiene products: tampons, sanitary pads, pantyliners, menstrual cups, and period underwear.",
+    "taxable": false,
+    "treatment": "exempt",
+    "conditions": {}
+  },
+  {
+    "state": "PA",
     "category": "medical.devices",
     "category_description": "",
     "taxable": false,
@@ -11527,6 +12865,17 @@
     "taxable": false,
     "treatment": "exempt",
     "conditions": {}
+  },
+  {
+    "state": "PA",
+    "category": "publications.textbooks",
+    "category_description": "Required course and college textbooks, printed or digital, as distinct from general trade books. Many states exempt these only when sold by a school or to an enrolled student.",
+    "taxable": true,
+    "treatment": "conditional",
+    "conditions": {
+      "note": "Exempt only when a required course textbook is sold by a recognized school/college (or authorized bookstore) to enrolled students/faculty.",
+      "exempt_if": "school_sold_to_enrolled"
+    }
   },
   {
     "state": "PA",
@@ -11721,6 +13070,17 @@
   },
   {
     "state": "RI",
+    "category": "food.bottled_water",
+    "category_description": "Plain, still, unsweetened, unflavored bottled drinking water (spring, mineral, distilled, or purified) sold in a sealed retail container. Excludes flavored, sweetened, or carbonated water, which is taxed as a soft drink under food.candy_soda.",
+    "taxable": true,
+    "treatment": "conditional",
+    "conditions": {
+      "note": "Chilled bottled water in containers of 24 oz or less is taxed like a ready-to-drink beverage under RI's local meals & beverage tax rules plus the 7% state rate; larger or unchilled containers can qualify as exempt food and food ingredients.",
+      "exempt_if": "container_over_24oz_or_not_chilled"
+    }
+  },
+  {
+    "state": "RI",
     "category": "food.candy",
     "category_description": "",
     "taxable": true,
@@ -11793,6 +13153,25 @@
     "category_description": "",
     "taxable": true,
     "treatment": "taxable",
+    "conditions": {}
+  },
+  {
+    "state": "RI",
+    "category": "hygiene.diapers",
+    "category_description": "Infant/baby diapers and adult incontinence products (briefs, liners, underpads), cloth or disposable.",
+    "taxable": false,
+    "treatment": "exempt",
+    "conditions": {
+      "basis": "clothing",
+      "scope": "both"
+    }
+  },
+  {
+    "state": "RI",
+    "category": "hygiene.menstrual",
+    "category_description": "Menstrual and feminine hygiene products: tampons, sanitary pads, pantyliners, menstrual cups, and period underwear.",
+    "taxable": false,
+    "treatment": "exempt",
     "conditions": {}
   },
   {
@@ -11871,6 +13250,17 @@
     "taxable": false,
     "treatment": "exempt",
     "conditions": {}
+  },
+  {
+    "state": "RI",
+    "category": "publications.textbooks",
+    "category_description": "Required course and college textbooks, printed or digital, as distinct from general trade books. Many states exempt these only when sold by a school or to an enrolled student.",
+    "taxable": true,
+    "treatment": "conditional",
+    "conditions": {
+      "note": "New textbooks exempt when sold by an educational institution to its students/faculty; all used textbooks exempt regardless of seller.",
+      "exempt_if": "institution_sold_new_or_any_used"
+    }
   },
   {
     "state": "RI",
@@ -12080,6 +13470,17 @@
   },
   {
     "state": "SC",
+    "category": "food.bottled_water",
+    "category_description": "Plain, still, unsweetened, unflavored bottled drinking water (spring, mineral, distilled, or purified) sold in a sealed retail container. Excludes flavored, sweetened, or carbonated water, which is taxed as a soft drink under food.candy_soda.",
+    "taxable": false,
+    "treatment": "exempt",
+    "conditions": {
+      "note": "Exempt from STATE sales tax only, as SNAP-eligible unprepared food for home consumption; local option sales/use taxes still apply unless the county also exempts groceries; bottled water sold to a commercial buyer is taxed at the full state rate.",
+      "local_may_tax": true
+    }
+  },
+  {
+    "state": "SC",
     "category": "food.candy",
     "category_description": "",
     "taxable": false,
@@ -12160,6 +13561,24 @@
   },
   {
     "state": "SC",
+    "category": "hygiene.diapers",
+    "category_description": "Infant/baby diapers and adult incontinence products (briefs, liners, underpads), cloth or disposable.",
+    "taxable": true,
+    "treatment": "taxable",
+    "conditions": {
+      "note": "Groceries exempt but diapers excluded."
+    }
+  },
+  {
+    "state": "SC",
+    "category": "hygiene.menstrual",
+    "category_description": "Menstrual and feminine hygiene products: tampons, sanitary pads, pantyliners, menstrual cups, and period underwear.",
+    "taxable": false,
+    "treatment": "exempt",
+    "conditions": {}
+  },
+  {
+    "state": "SC",
     "category": "medical.devices",
     "category_description": "",
     "taxable": false,
@@ -12231,6 +13650,14 @@
     "state": "SC",
     "category": "publications.newspapers",
     "category_description": "",
+    "taxable": false,
+    "treatment": "exempt",
+    "conditions": {}
+  },
+  {
+    "state": "SC",
+    "category": "publications.textbooks",
+    "category_description": "Required course and college textbooks, printed or digital, as distinct from general trade books. Many states exempt these only when sold by a school or to an enrolled student.",
     "taxable": false,
     "treatment": "exempt",
     "conditions": {}
@@ -12411,6 +13838,16 @@
   },
   {
     "state": "SD",
+    "category": "food.bottled_water",
+    "category_description": "Plain, still, unsweetened, unflavored bottled drinking water (spring, mineral, distilled, or purified) sold in a sealed retail container. Excludes flavored, sweetened, or carbonated water, which is taxed as a soft drink under food.candy_soda.",
+    "taxable": true,
+    "treatment": "taxable",
+    "conditions": {
+      "note": "No general grocery exemption; only SNAP/WIC purchases are exempt. Voters rejected a full grocery-tax repeal (Initiated Measure 28) in Nov. 2024."
+    }
+  },
+  {
+    "state": "SD",
     "category": "food.candy",
     "category_description": "",
     "taxable": true,
@@ -12479,6 +13916,22 @@
     "state": "SD",
     "category": "goods.general",
     "category_description": "",
+    "taxable": true,
+    "treatment": "taxable",
+    "conditions": {}
+  },
+  {
+    "state": "SD",
+    "category": "hygiene.diapers",
+    "category_description": "Infant/baby diapers and adult incontinence products (briefs, liners, underpads), cloth or disposable.",
+    "taxable": true,
+    "treatment": "taxable",
+    "conditions": {}
+  },
+  {
+    "state": "SD",
+    "category": "hygiene.menstrual",
+    "category_description": "Menstrual and feminine hygiene products: tampons, sanitary pads, pantyliners, menstrual cups, and period underwear.",
     "taxable": true,
     "treatment": "taxable",
     "conditions": {}
@@ -12558,6 +14011,14 @@
     "category_description": "",
     "taxable": false,
     "treatment": "exempt",
+    "conditions": {}
+  },
+  {
+    "state": "SD",
+    "category": "publications.textbooks",
+    "category_description": "Required course and college textbooks, printed or digital, as distinct from general trade books. Many states exempt these only when sold by a school or to an enrolled student.",
+    "taxable": true,
+    "treatment": "taxable",
     "conditions": {}
   },
   {
@@ -12771,6 +14232,17 @@
   },
   {
     "state": "TN",
+    "category": "food.bottled_water",
+    "category_description": "Plain, still, unsweetened, unflavored bottled drinking water (spring, mineral, distilled, or purified) sold in a sealed retail container. Excludes flavored, sweetened, or carbonated water, which is taxed as a soft drink under food.candy_soda.",
+    "taxable": true,
+    "treatment": "reduced_rate",
+    "conditions": {
+      "note": "Bottled water is listed as an example of food and food ingredients taxed at the reduced 4% state rate instead of the general 7% rate; local tax still applies on top.",
+      "local_may_tax": true
+    }
+  },
+  {
+    "state": "TN",
     "category": "food.candy",
     "category_description": "",
     "taxable": true,
@@ -12850,6 +14322,26 @@
   },
   {
     "state": "TN",
+    "category": "hygiene.diapers",
+    "category_description": "Infant/baby diapers and adult incontinence products (briefs, liners, underpads), cloth or disposable.",
+    "taxable": true,
+    "treatment": "taxable",
+    "conditions": {
+      "note": "Full 7% rate; relief only via tax-free weekend."
+    }
+  },
+  {
+    "state": "TN",
+    "category": "hygiene.menstrual",
+    "category_description": "Menstrual and feminine hygiene products: tampons, sanitary pads, pantyliners, menstrual cups, and period underwear.",
+    "taxable": true,
+    "treatment": "taxable",
+    "conditions": {
+      "note": "2026 bill pending, not effective."
+    }
+  },
+  {
+    "state": "TN",
     "category": "medical.devices",
     "category_description": "",
     "taxable": false,
@@ -12921,6 +14413,14 @@
     "state": "TN",
     "category": "publications.newspapers",
     "category_description": "",
+    "taxable": false,
+    "treatment": "exempt",
+    "conditions": {}
+  },
+  {
+    "state": "TN",
+    "category": "publications.textbooks",
+    "category_description": "Required course and college textbooks, printed or digital, as distinct from general trade books. Many states exempt these only when sold by a school or to an enrolled student.",
     "taxable": false,
     "treatment": "exempt",
     "conditions": {}
@@ -13139,6 +14639,16 @@
   },
   {
     "state": "TX",
+    "category": "food.bottled_water",
+    "category_description": "Plain, still, unsweetened, unflavored bottled drinking water (spring, mineral, distilled, or purified) sold in a sealed retail container. Excludes flavored, sweetened, or carbonated water, which is taxed as a soft drink under food.candy_soda.",
+    "taxable": false,
+    "treatment": "exempt",
+    "conditions": {
+      "note": "Applies to plain/spring/mineral/sparkling (non-flavored) water sold by any seller incl. restaurants; flavored water is taxed as a soft drink; no exemption certificate required."
+    }
+  },
+  {
+    "state": "TX",
     "category": "food.candy",
     "category_description": "",
     "taxable": true,
@@ -13211,6 +14721,24 @@
     "category_description": "",
     "taxable": true,
     "treatment": "taxable",
+    "conditions": {}
+  },
+  {
+    "state": "TX",
+    "category": "hygiene.diapers",
+    "category_description": "Infant/baby diapers and adult incontinence products (briefs, liners, underpads), cloth or disposable.",
+    "taxable": false,
+    "treatment": "exempt",
+    "conditions": {
+      "scope": "both"
+    }
+  },
+  {
+    "state": "TX",
+    "category": "hygiene.menstrual",
+    "category_description": "Menstrual and feminine hygiene products: tampons, sanitary pads, pantyliners, menstrual cups, and period underwear.",
+    "taxable": false,
+    "treatment": "exempt",
     "conditions": {}
   },
   {
@@ -13290,6 +14818,16 @@
     "taxable": false,
     "treatment": "exempt",
     "conditions": {}
+  },
+  {
+    "state": "TX",
+    "category": "publications.textbooks",
+    "category_description": "Required course and college textbooks, printed or digital, as distinct from general trade books. Many states exempt these only when sold by a school or to an enrolled student.",
+    "taxable": true,
+    "treatment": "taxable",
+    "conditions": {
+      "note": "Print and digital taxable; expressly excluded from the sales-tax holiday."
+    }
   },
   {
     "state": "TX",
@@ -13470,6 +15008,16 @@
   },
   {
     "state": "UT",
+    "category": "food.bottled_water",
+    "category_description": "Plain, still, unsweetened, unflavored bottled drinking water (spring, mineral, distilled, or purified) sold in a sealed retail container. Excludes flavored, sweetened, or carbonated water, which is taxed as a soft drink under food.candy_soda.",
+    "taxable": true,
+    "treatment": "reduced_rate",
+    "conditions": {
+      "note": "Uniform statewide 3% rate (1.75% state + 1% local option + 0.25% county option) applies to grocery food including bottled water, regardless of the local general sales tax rate."
+    }
+  },
+  {
+    "state": "UT",
     "category": "food.candy",
     "category_description": "",
     "taxable": true,
@@ -13543,6 +15091,24 @@
     "state": "UT",
     "category": "goods.general",
     "category_description": "",
+    "taxable": true,
+    "treatment": "taxable",
+    "conditions": {}
+  },
+  {
+    "state": "UT",
+    "category": "hygiene.diapers",
+    "category_description": "Infant/baby diapers and adult incontinence products (briefs, liners, underpads), cloth or disposable.",
+    "taxable": true,
+    "treatment": "taxable",
+    "conditions": {
+      "note": "Reduced grocery rate does not apply to diapers."
+    }
+  },
+  {
+    "state": "UT",
+    "category": "hygiene.menstrual",
+    "category_description": "Menstrual and feminine hygiene products: tampons, sanitary pads, pantyliners, menstrual cups, and period underwear.",
     "taxable": true,
     "treatment": "taxable",
     "conditions": {}
@@ -13623,6 +15189,17 @@
     "taxable": false,
     "treatment": "exempt",
     "conditions": {}
+  },
+  {
+    "state": "UT",
+    "category": "publications.textbooks",
+    "category_description": "Required course and college textbooks, printed or digital, as distinct from general trade books. Many states exempt these only when sold by a school or to an enrolled student.",
+    "taxable": true,
+    "treatment": "conditional",
+    "conditions": {
+      "note": "Higher-ed course text sold to an admitted student, exempt only when the seller is a campus bookstore or a >=51% textbook seller.",
+      "exempt_if": "campus_bookstore_or_majority_textbook_seller"
+    }
   },
   {
     "state": "UT",
@@ -13835,6 +15412,16 @@
   },
   {
     "state": "VA",
+    "category": "food.bottled_water",
+    "category_description": "Plain, still, unsweetened, unflavored bottled drinking water (spring, mineral, distilled, or purified) sold in a sealed retail container. Excludes flavored, sweetened, or carbonated water, which is taxed as a soft drink under food.candy_soda.",
+    "taxable": true,
+    "treatment": "reduced_rate",
+    "conditions": {
+      "note": "Container size is not a factor per Tax Commissioner Ruling 06-98 (bottled water sold by the case or via water-cooler delivery both qualify); reduced to a 1% local-option-only rate since the 1.5% state portion was eliminated 2023-01-01."
+    }
+  },
+  {
+    "state": "VA",
     "category": "food.candy",
     "category_description": "",
     "taxable": true,
@@ -13915,6 +15502,27 @@
   },
   {
     "state": "VA",
+    "category": "hygiene.diapers",
+    "category_description": "Infant/baby diapers and adult incontinence products (briefs, liners, underpads), cloth or disposable.",
+    "taxable": true,
+    "treatment": "reduced_rate",
+    "conditions": {
+      "note": "1% rate (state portion removed 2023; 1% local remains); infant + adult.",
+      "scope": "both"
+    }
+  },
+  {
+    "state": "VA",
+    "category": "hygiene.menstrual",
+    "category_description": "Menstrual and feminine hygiene products: tampons, sanitary pads, pantyliners, menstrual cups, and period underwear.",
+    "taxable": true,
+    "treatment": "reduced_rate",
+    "conditions": {
+      "note": "Reduced to 2.5% in 2020; state portion later cut, leaving 1.0% local-option rate as of 2023."
+    }
+  },
+  {
+    "state": "VA",
     "category": "medical.devices",
     "category_description": "",
     "taxable": false,
@@ -13989,6 +15597,17 @@
     "taxable": false,
     "treatment": "exempt",
     "conditions": {}
+  },
+  {
+    "state": "VA",
+    "category": "publications.textbooks",
+    "category_description": "Required course and college textbooks, printed or digital, as distinct from general trade books. Many states exempt these only when sold by a school or to an enrolled student.",
+    "taxable": true,
+    "treatment": "conditional",
+    "conditions": {
+      "note": "Exempt when sold to college students by the institution, or by any dealer if the text is certified as required for the course.",
+      "exempt_if": "institution_sold_or_certified_required"
+    }
   },
   {
     "state": "VA",
@@ -14178,6 +15797,16 @@
   },
   {
     "state": "VT",
+    "category": "food.bottled_water",
+    "category_description": "Plain, still, unsweetened, unflavored bottled drinking water (spring, mineral, distilled, or purified) sold in a sealed retail container. Excludes flavored, sweetened, or carbonated water, which is taxed as a soft drink under food.candy_soda.",
+    "taxable": false,
+    "treatment": "exempt",
+    "conditions": {
+      "note": "Exempt only if no sweetener is added; carbonation or natural flavoring alone does not make it a taxable soft drink under VT's definition. Sweetened bottled water is taxed as a soft drink (out of scope)."
+    }
+  },
+  {
+    "state": "VT",
     "category": "food.candy",
     "category_description": "",
     "taxable": false,
@@ -14258,6 +15887,25 @@
   },
   {
     "state": "VT",
+    "category": "hygiene.diapers",
+    "category_description": "Infant/baby diapers and adult incontinence products (briefs, liners, underpads), cloth or disposable.",
+    "taxable": false,
+    "treatment": "exempt",
+    "conditions": {
+      "basis": "clothing",
+      "scope": "both"
+    }
+  },
+  {
+    "state": "VT",
+    "category": "hygiene.menstrual",
+    "category_description": "Menstrual and feminine hygiene products: tampons, sanitary pads, pantyliners, menstrual cups, and period underwear.",
+    "taxable": false,
+    "treatment": "exempt",
+    "conditions": {}
+  },
+  {
+    "state": "VT",
     "category": "medical.devices",
     "category_description": "",
     "taxable": false,
@@ -14332,6 +15980,17 @@
     "taxable": false,
     "treatment": "exempt",
     "conditions": {}
+  },
+  {
+    "state": "VT",
+    "category": "publications.textbooks",
+    "category_description": "Required course and college textbooks, printed or digital, as distinct from general trade books. Many states exempt these only when sold by a school or to an enrolled student.",
+    "taxable": true,
+    "treatment": "conditional",
+    "conditions": {
+      "note": "Exempt only for textbooks sold by a bookstore on school premises; exact subdivision not primary-sourced.",
+      "exempt_if": "bookstore_on_school_premises"
+    }
   },
   {
     "state": "VT",
@@ -14512,6 +16171,16 @@
   },
   {
     "state": "WA",
+    "category": "food.bottled_water",
+    "category_description": "Plain, still, unsweetened, unflavored bottled drinking water (spring, mineral, distilled, or purified) sold in a sealed retail container. Excludes flavored, sweetened, or carbonated water, which is taxed as a soft drink under food.candy_soda.",
+    "taxable": true,
+    "treatment": "taxable",
+    "conditions": {
+      "note": "Narrow refund/exemption paths exist for SNAP purchases, buyers with no other potable water source, and prescription use (RCW 82.08.9994 and 82.08.99941); local sales tax also applies."
+    }
+  },
+  {
+    "state": "WA",
     "category": "food.candy",
     "category_description": "",
     "taxable": false,
@@ -14584,6 +16253,24 @@
     "category_description": "",
     "taxable": true,
     "treatment": "taxable",
+    "conditions": {}
+  },
+  {
+    "state": "WA",
+    "category": "hygiene.diapers",
+    "category_description": "Infant/baby diapers and adult incontinence products (briefs, liners, underpads), cloth or disposable.",
+    "taxable": true,
+    "treatment": "taxable",
+    "conditions": {
+      "note": "Exemption enacted but not effective until 2029-01-01; taxable in 2026."
+    }
+  },
+  {
+    "state": "WA",
+    "category": "hygiene.menstrual",
+    "category_description": "Menstrual and feminine hygiene products: tampons, sanitary pads, pantyliners, menstrual cups, and period underwear.",
+    "taxable": false,
+    "treatment": "exempt",
     "conditions": {}
   },
   {
@@ -14661,6 +16348,14 @@
     "category_description": "",
     "taxable": false,
     "treatment": "exempt",
+    "conditions": {}
+  },
+  {
+    "state": "WA",
+    "category": "publications.textbooks",
+    "category_description": "Required course and college textbooks, printed or digital, as distinct from general trade books. Many states exempt these only when sold by a school or to an enrolled student.",
+    "taxable": true,
+    "treatment": "taxable",
     "conditions": {}
   },
   {
@@ -14841,6 +16536,16 @@
   },
   {
     "state": "WI",
+    "category": "food.bottled_water",
+    "category_description": "Plain, still, unsweetened, unflavored bottled drinking water (spring, mineral, distilled, or purified) sold in a sealed retail container. Excludes flavored, sweetened, or carbonated water, which is taxed as a soft drink under food.candy_soda.",
+    "taxable": false,
+    "treatment": "exempt",
+    "conditions": {
+      "note": "Exemption applies only to bottled water that is not carbonated, sweetened, or flavored; sweetened/flavored/carbonated bottled water is taxed as a soft drink (out of scope)."
+    }
+  },
+  {
+    "state": "WI",
     "category": "food.candy",
     "category_description": "",
     "taxable": true,
@@ -14914,6 +16619,26 @@
     "taxable": true,
     "treatment": "taxable",
     "conditions": {}
+  },
+  {
+    "state": "WI",
+    "category": "hygiene.diapers",
+    "category_description": "Infant/baby diapers and adult incontinence products (briefs, liners, underpads), cloth or disposable.",
+    "taxable": true,
+    "treatment": "taxable",
+    "conditions": {
+      "note": "AB 177 / SB 114 pending, not enacted."
+    }
+  },
+  {
+    "state": "WI",
+    "category": "hygiene.menstrual",
+    "category_description": "Menstrual and feminine hygiene products: tampons, sanitary pads, pantyliners, menstrual cups, and period underwear.",
+    "taxable": true,
+    "treatment": "taxable",
+    "conditions": {
+      "note": "2026 bill pending, not effective."
+    }
   },
   {
     "state": "WI",
@@ -14991,6 +16716,17 @@
     "taxable": false,
     "treatment": "exempt",
     "conditions": {}
+  },
+  {
+    "state": "WI",
+    "category": "publications.textbooks",
+    "category_description": "Required course and college textbooks, printed or digital, as distinct from general trade books. Many states exempt these only when sold by a school or to an enrolled student.",
+    "taxable": true,
+    "treatment": "conditional",
+    "conditions": {
+      "note": "College textbooks taxable; only K-12 school-sold textbooks exempt.",
+      "exempt_if": "sold_by_k12_school"
+    }
   },
   {
     "state": "WI",
@@ -15170,6 +16906,17 @@
   },
   {
     "state": "WV",
+    "category": "food.bottled_water",
+    "category_description": "Plain, still, unsweetened, unflavored bottled drinking water (spring, mineral, distilled, or purified) sold in a sealed retail container. Excludes flavored, sweetened, or carbonated water, which is taxed as a soft drink under food.candy_soda.",
+    "taxable": false,
+    "treatment": "exempt",
+    "conditions": {
+      "note": "Plain unsweetened bottled water is food and food ingredients (W. Va. Code 11-15B-2, not excluded) and is not a soft drink (no added sweetener), so it follows WV's food exemption. SST Taxability Matrix not directly readable at curation; the statutory definitions are dispositive.",
+      "basis": "food_and_food_ingredients"
+    }
+  },
+  {
+    "state": "WV",
     "category": "food.candy",
     "category_description": "",
     "taxable": false,
@@ -15243,6 +16990,26 @@
     "taxable": true,
     "treatment": "taxable",
     "conditions": {}
+  },
+  {
+    "state": "WV",
+    "category": "hygiene.diapers",
+    "category_description": "Infant/baby diapers and adult incontinence products (briefs, liners, underpads), cloth or disposable.",
+    "taxable": true,
+    "treatment": "taxable",
+    "conditions": {
+      "note": "HB 3447 proposed exemption, not enacted."
+    }
+  },
+  {
+    "state": "WV",
+    "category": "hygiene.menstrual",
+    "category_description": "Menstrual and feminine hygiene products: tampons, sanitary pads, pantyliners, menstrual cups, and period underwear.",
+    "taxable": true,
+    "treatment": "taxable",
+    "conditions": {
+      "note": "2026 bill pending, not effective."
+    }
   },
   {
     "state": "WV",
@@ -15320,6 +17087,17 @@
     "taxable": false,
     "treatment": "exempt",
     "conditions": {}
+  },
+  {
+    "state": "WV",
+    "category": "publications.textbooks",
+    "category_description": "Required course and college textbooks, printed or digital, as distinct from general trade books. Many states exempt these only when sold by a school or to an enrolled student.",
+    "taxable": true,
+    "treatment": "conditional",
+    "conditions": {
+      "note": "Textbooks required for use in WV schools/qualifying institutions (incl. colleges) exempt, whether sold to the school or the student.",
+      "exempt_if": "required_for_wv_school_incl_college"
+    }
   },
   {
     "state": "WV",
@@ -15502,6 +17280,16 @@
   },
   {
     "state": "WY",
+    "category": "food.bottled_water",
+    "category_description": "Plain, still, unsweetened, unflavored bottled drinking water (spring, mineral, distilled, or purified) sold in a sealed retail container. Excludes flavored, sweetened, or carbonated water, which is taxed as a soft drink under food.candy_soda.",
+    "taxable": false,
+    "treatment": "exempt",
+    "conditions": {
+      "note": "Applies to sealed bottled water sold for off-premises/home consumption; prepared, heated, or on-premises food is taxed separately; local option sales taxes may still apply. No WA-style bottled-water carve-out was found in statute."
+    }
+  },
+  {
+    "state": "WY",
     "category": "food.candy",
     "category_description": "",
     "taxable": false,
@@ -15572,6 +17360,22 @@
     "state": "WY",
     "category": "goods.general",
     "category_description": "",
+    "taxable": true,
+    "treatment": "taxable",
+    "conditions": {}
+  },
+  {
+    "state": "WY",
+    "category": "hygiene.diapers",
+    "category_description": "Infant/baby diapers and adult incontinence products (briefs, liners, underpads), cloth or disposable.",
+    "taxable": true,
+    "treatment": "taxable",
+    "conditions": {}
+  },
+  {
+    "state": "WY",
+    "category": "hygiene.menstrual",
+    "category_description": "Menstrual and feminine hygiene products: tampons, sanitary pads, pantyliners, menstrual cups, and period underwear.",
     "taxable": true,
     "treatment": "taxable",
     "conditions": {}
@@ -15651,6 +17455,14 @@
     "category_description": "",
     "taxable": false,
     "treatment": "exempt",
+    "conditions": {}
+  },
+  {
+    "state": "WY",
+    "category": "publications.textbooks",
+    "category_description": "Required course and college textbooks, printed or digital, as distinct from general trade books. Many states exempt these only when sold by a school or to an enrolled student.",
+    "taxable": true,
+    "treatment": "taxable",
     "conditions": {}
   },
   {

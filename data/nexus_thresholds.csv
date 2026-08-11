@@ -15,7 +15,7 @@ ID,100000.0,,sales_only,current_or_prior_cy
 IL,100000.0,,sales_only,current_or_prior_cy
 IN,100000.0,,sales_only,current_or_prior_cy
 KS,100000.0,,sales_only,current_or_prior_cy
-KY,100000.0,200,sales_or_count,current_or_prior_cy
+KY,100000.0,,sales_only,current_or_prior_cy
 LA,100000.0,,sales_only,current_or_prior_cy
 MA,100000.0,,sales_only,current_or_prior_cy
 MD,100000.0,200,sales_or_count,current_or_prior_cy
@@ -39,7 +39,7 @@ SC,100000.0,,sales_only,current_or_prior_cy
 SD,100000.0,,sales_only,current_or_prior_cy
 TN,100000.0,,sales_only,current_or_prior_cy
 TX,500000.0,,sales_only,rolling_12_month
-UT,100000.0,200,sales_or_count,current_or_prior_cy
+UT,100000.0,,sales_only,current_or_prior_cy
 VA,100000.0,200,sales_or_count,current_or_prior_cy
 VT,100000.0,200,sales_or_count,current_or_prior_cy
 WA,100000.0,,sales_only,current_or_prior_cy

@@ -11,6 +11,7 @@ AL,digital_products.ebook,,True,taxable,{}
 AL,digital_products.music,,True,taxable,{}
 AL,digital_products.streaming,,True,taxable,{}
 AL,digital_products.video,,True,taxable,{}
+AL,food.bottled_water,"Plain, still, unsweetened, unflavored bottled drinking water (spring, mineral, distilled, or purified) sold in a sealed retail container. Excludes flavored, sweetened, or carbonated water, which is taxed as a soft drink under food.candy_soda.",True,reduced_rate,"{""note"": ""SNAP-eligible food (plain bottled water qualifies) taxed at the state's reduced grocery rate; water bearing a Supplement Facts label instead of a Nutrition Facts label is not SNAP-eligible and is taxed at the full 4% rate; full local sales tax still applies on top of the reduced state rate."", ""local_may_tax"": true}"
 AL,food.candy,,True,taxable,{}
 AL,food.dietary_supplements,,True,taxable,{}
 AL,food.grocery,Unprepared groceries; staples; produce; meat; dairy.,True,reduced_rate,{}
@@ -19,6 +20,8 @@ AL,food.soft_drinks,,True,taxable,{}
 AL,goods.electronics,,True,taxable,{}
 AL,goods.furniture,,True,taxable,{}
 AL,goods.general,,True,taxable,{}
+AL,hygiene.diapers,"Infant/baby diapers and adult incontinence products (briefs, liners, underpads), cloth or disposable.",False,exempt,"{""note"": ""State 4% exemption only, temporary (sunsets 2028-08-31); local tax may still apply."", ""scope"": ""both"", ""local_may_tax"": true, ""temporary_until"": ""2028-08-31""}"
+AL,hygiene.menstrual,"Menstrual and feminine hygiene products: tampons, sanitary pads, pantyliners, menstrual cups, and period underwear.",True,conditional,"{""note"": ""Temporary state 4% exemption (sunsets 2028-08-31); local tax still applies; period underwear excluded."", ""local_may_tax"": true, ""temporary_until"": ""2028-08-31"", ""period_underwear_excluded"": true}"
 AL,medical.devices,,False,exempt,{}
 AL,medical.equipment,"Wheelchairs, hearing aids, prosthetics, durable medical equipment.",True,conditional,"{""note"": ""DME and prosthetics exempt when prescribed (Ala. Code 40-23-4)."", ""prescription_required"": true}"
 AL,medical.otc,Over-the-counter medications.,True,taxable,"{""note"": ""OTC taxable unless dispensed by prescription.""}"
@@ -28,6 +31,7 @@ AL,medical.rx,Prescription drugs (typically exempt nationwide).,False,exempt,{}
 AL,publications.books,,True,taxable,{}
 AL,publications.magazines,,True,taxable,{}
 AL,publications.newspapers,,False,exempt,{}
+AL,publications.textbooks,"Required course and college textbooks, printed or digital, as distinct from general trade books. Many states exempt these only when sold by a school or to an enrolled student.",True,conditional,"{""note"": ""Exempt only for books sold by K-12 public/private schools; college textbooks taxable."", ""exempt_if"": ""sold_by_k12_school""}"
 AL,services.ai_api,,False,exempt,{}
 AL,services.data_processing,,False,exempt,{}
 AL,services.personal_care,,False,exempt,{}
@@ -49,6 +53,7 @@ AR,digital_products.ebook,,True,taxable,{}
 AR,digital_products.music,,True,taxable,{}
 AR,digital_products.streaming,,True,taxable,{}
 AR,digital_products.video,,True,taxable,{}
+AR,food.bottled_water,"Plain, still, unsweetened, unflavored bottled drinking water (spring, mineral, distilled, or purified) sold in a sealed retail container. Excludes flavored, sweetened, or carbonated water, which is taxed as a soft drink under food.candy_soda.",False,exempt,"{""note"": ""State sales tax on qualifying food/food ingredients (plain water is not a statutory soft drink) fully eliminated; local tax still applies."", ""local_may_tax"": true}"
 AR,food.candy,,True,taxable,{}
 AR,food.candy_soda,"Candy, soda, sweetened beverages (often taxed where groceries aren't).",True,taxable,"{""note"": ""Candy and soft drinks excluded from the reduced food rate (full state + local).""}"
 AR,food.dietary_supplements,,True,taxable,{}
@@ -58,6 +63,8 @@ AR,food.soft_drinks,,True,taxable,{}
 AR,goods.electronics,,True,taxable,{}
 AR,goods.furniture,,True,taxable,{}
 AR,goods.general,,True,taxable,{}
+AR,hygiene.diapers,"Infant/baby diapers and adult incontinence products (briefs, liners, underpads), cloth or disposable.",True,taxable,{}
+AR,hygiene.menstrual,"Menstrual and feminine hygiene products: tampons, sanitary pads, pantyliners, menstrual cups, and period underwear.",True,taxable,"{""note"": ""Not eligible for the reduced grocery rate.""}"
 AR,medical.devices,,False,exempt,{}
 AR,medical.equipment,"Wheelchairs, hearing aids, prosthetics, durable medical equipment.",True,conditional,"{""note"": ""DME and prosthetics exempt when prescribed."", ""prescription_required"": true}"
 AR,medical.otc,Over-the-counter medications.,True,taxable,"{""note"": ""OTC taxable unless dispensed by prescription.""}"
@@ -67,6 +74,7 @@ AR,medical.rx,Prescription drugs (typically exempt nationwide).,False,exempt,{}
 AR,publications.books,,True,taxable,{}
 AR,publications.magazines,,True,taxable,{}
 AR,publications.newspapers,,False,exempt,{}
+AR,publications.textbooks,"Required course and college textbooks, printed or digital, as distinct from general trade books. Many states exempt these only when sold by a school or to an enrolled student.",True,taxable,"{""note"": ""Taxable except during the August back-to-school sales-tax holiday.""}"
 AR,services.ai_api,,False,exempt,{}
 AR,services.data_processing,,False,exempt,{}
 AR,services.personal_care,,False,exempt,{}
@@ -88,6 +96,7 @@ AZ,digital_products.ebook,,True,taxable,{}
 AZ,digital_products.music,,True,taxable,{}
 AZ,digital_products.streaming,,True,taxable,{}
 AZ,digital_products.video,,True,taxable,{}
+AZ,food.bottled_water,"Plain, still, unsweetened, unflavored bottled drinking water (spring, mineral, distilled, or purified) sold in a sealed retail container. Excludes flavored, sweetened, or carbonated water, which is taxed as a soft drink under food.candy_soda.",False,exempt,"{""note"": ""State TPT exempts food for home consumption incl. bottled water; individual cities may separately elect to tax food under the Model City Tax Code."", ""local_may_tax"": true}"
 AZ,food.candy,,False,exempt,{}
 AZ,food.candy_soda,"Candy, soda, sweetened beverages (often taxed where groceries aren't).",True,conditional,"{""note"": ""Candy and soft drinks fall within AZ's food-for-home-consumption definition; locals may tax."", ""state_exempt"": true, ""local_taxable"": true}"
 AZ,food.dietary_supplements,,True,taxable,{}
@@ -97,6 +106,8 @@ AZ,food.soft_drinks,,False,exempt,{}
 AZ,goods.electronics,,True,taxable,{}
 AZ,goods.furniture,,True,taxable,{}
 AZ,goods.general,,True,taxable,{}
+AZ,hygiene.diapers,"Infant/baby diapers and adult incontinence products (briefs, liners, underpads), cloth or disposable.",True,taxable,"{""note"": ""No exemption confirmed; AZ DOR page was unreachable at curation time.""}"
+AZ,hygiene.menstrual,"Menstrual and feminine hygiene products: tampons, sanitary pads, pantyliners, menstrual cups, and period underwear.",True,taxable,"{""note"": ""2026 exemption bill pending, not effective.""}"
 AZ,medical.devices,,False,exempt,{}
 AZ,medical.equipment,"Wheelchairs, hearing aids, prosthetics, durable medical equipment.",True,conditional,"{""note"": ""Prosthetic appliances and DME exempt when prescribed (§42-5061(A)(9))."", ""prescription_required"": true}"
 AZ,medical.otc,Over-the-counter medications.,True,taxable,"{""note"": ""OTC taxable unless prescribed.""}"
@@ -106,6 +117,7 @@ AZ,medical.rx,Prescription drugs (typically exempt nationwide).,False,exempt,{}
 AZ,publications.books,,True,taxable,{}
 AZ,publications.magazines,,True,taxable,{}
 AZ,publications.newspapers,,False,exempt,{}
+AZ,publications.textbooks,"Required course and college textbooks, printed or digital, as distinct from general trade books. Many states exempt these only when sold by a school or to an enrolled student.",True,conditional,"{""note"": ""Exempt if required by a state university/community college and sold by a bookstore; large home-rule cities may still levy TPT."", ""exempt_if"": ""required_by_university_and_bookstore_sold"", ""local_may_tax"": true}"
 AZ,services.ai_api,,True,taxable,{}
 AZ,services.data_processing,,False,exempt,{}
 AZ,services.personal_care,,False,exempt,{}
@@ -127,6 +139,7 @@ CA,digital_products.ebook,,False,exempt,{}
 CA,digital_products.music,,False,exempt,{}
 CA,digital_products.streaming,,False,exempt,{}
 CA,digital_products.video,,False,exempt,{}
+CA,food.bottled_water,"Plain, still, unsweetened, unflavored bottled drinking water (spring, mineral, distilled, or purified) sold in a sealed retail container. Excludes flavored, sweetened, or carbonated water, which is taxed as a soft drink under food.candy_soda.",False,exempt,"{""note"": ""Applies to noncarbonated, noneffervescent bottled water regardless of container size or delivery method; carbonated/effervescent water is taxable.""}"
 CA,food.candy,,False,exempt,{}
 CA,food.candy_soda,"Candy, soda, sweetened beverages (often taxed where groceries aren't).",True,conditional,"{""note"": ""CA treats most candy as food (exempt for off-premises); carbonated/sweetened soft drinks are taxable."", ""candy_treated_as_food"": true, ""carbonated_soda_taxable"": true}"
 CA,food.dietary_supplements,,True,taxable,{}
@@ -136,6 +149,8 @@ CA,food.soft_drinks,,True,taxable,{}
 CA,goods.electronics,,True,taxable,{}
 CA,goods.furniture,,True,taxable,{}
 CA,goods.general,,True,taxable,{}
+CA,hygiene.diapers,"Infant/baby diapers and adult incontinence products (briefs, liners, underpads), cloth or disposable.",True,conditional,"{""note"": ""Children's diapers exempt; adult incontinence taxable."", ""scope"": ""infant_only""}"
+CA,hygiene.menstrual,"Menstrual and feminine hygiene products: tampons, sanitary pads, pantyliners, menstrual cups, and period underwear.",False,exempt,{}
 CA,medical.devices,,False,exempt,{}
 CA,medical.equipment,"Wheelchairs, hearing aids, prosthetics, durable medical equipment.",True,conditional,"{""note"": ""Wheelchairs, prosthetics, hearing aids, and other DME exempt when prescribed for a specific individual (Reg 1591); over-the-counter DME taxable."", ""prescribed_dme_exempt"": true}"
 CA,medical.otc,Over-the-counter medications.,True,taxable,{}
@@ -145,6 +160,7 @@ CA,medical.rx,Prescription drugs (typically exempt nationwide).,False,exempt,{}
 CA,publications.books,,True,taxable,{}
 CA,publications.magazines,,True,taxable,{}
 CA,publications.newspapers,,False,exempt,{}
+CA,publications.textbooks,"Required course and college textbooks, printed or digital, as distinct from general trade books. Many states exempt these only when sold by a school or to an enrolled student.",True,taxable,{}
 CA,services.ai_api,,False,exempt,{}
 CA,services.data_processing,,False,exempt,{}
 CA,services.personal_care,,False,exempt,{}
@@ -166,6 +182,7 @@ CO,digital_products.ebook,,True,taxable,{}
 CO,digital_products.music,,True,taxable,{}
 CO,digital_products.streaming,,True,taxable,{}
 CO,digital_products.video,,True,taxable,{}
+CO,food.bottled_water,"Plain, still, unsweetened, unflavored bottled drinking water (spring, mineral, distilled, or purified) sold in a sealed retail container. Excludes flavored, sweetened, or carbonated water, which is taxed as a soft drink under food.candy_soda.",False,exempt,"{""note"": ""Carbonated water is excluded from the exemption; bottled water/coffee service supplied by a business to employees or customers is a taxable business supply, not home consumption.""}"
 CO,food.candy,,True,taxable,{}
 CO,food.candy_soda,"Candy, soda, sweetened beverages (often taxed where groceries aren't).",True,conditional,"{""note"": ""Candy and soft drinks are SNAP-eligible and within CO's state food exemption; home-rule cities may tax."", ""state_exempt"": true, ""local_taxable"": true}"
 CO,food.dietary_supplements,,True,taxable,{}
@@ -175,6 +192,8 @@ CO,food.soft_drinks,,True,taxable,{}
 CO,goods.electronics,,True,taxable,{}
 CO,goods.furniture,,True,taxable,{}
 CO,goods.general,,True,taxable,{}
+CO,hygiene.diapers,"Infant/baby diapers and adult incontinence products (briefs, liners, underpads), cloth or disposable.",False,exempt,"{""note"": ""Incontinence products/diapers exempt (all ages); home-rule cities may differ."", ""scope"": ""both"", ""local_may_tax"": true}"
+CO,hygiene.menstrual,"Menstrual and feminine hygiene products: tampons, sanitary pads, pantyliners, menstrual cups, and period underwear.",False,exempt,"{""note"": ""State exempt; some self-collecting home-rule cities may still tax."", ""local_may_tax"": true}"
 CO,medical.devices,,False,exempt,{}
 CO,medical.equipment,"Wheelchairs, hearing aids, prosthetics, durable medical equipment.",True,conditional,"{""note"": ""DME and prosthetics exempt when prescribed (C.R.S. 39-26-717)."", ""prescription_required"": true}"
 CO,medical.otc,Over-the-counter medications.,True,taxable,"{""note"": ""OTC taxable unless dispensed by prescription.""}"
@@ -184,6 +203,7 @@ CO,medical.rx,Prescription drugs (typically exempt nationwide).,False,exempt,{}
 CO,publications.books,,True,taxable,{}
 CO,publications.magazines,,True,taxable,{}
 CO,publications.newspapers,,False,exempt,{}
+CO,publications.textbooks,"Required course and college textbooks, printed or digital, as distinct from general trade books. Many states exempt these only when sold by a school or to an enrolled student.",True,conditional,"{""note"": ""College textbooks exempt from state tax since 2024-07-01; home-rule locals tax unless they opt in."", ""scope"": ""state_tax_only"", ""exempt_if"": ""college_textbook"", ""local_may_tax"": true}"
 CO,services.ai_api,,False,exempt,{}
 CO,services.data_processing,,False,exempt,{}
 CO,services.personal_care,,False,exempt,{}
@@ -205,6 +225,7 @@ CT,digital_products.ebook,,True,taxable,{}
 CT,digital_products.music,,True,taxable,{}
 CT,digital_products.streaming,,True,taxable,{}
 CT,digital_products.video,,True,taxable,{}
+CT,food.bottled_water,"Plain, still, unsweetened, unflavored bottled drinking water (spring, mineral, distilled, or purified) sold in a sealed retail container. Excludes flavored, sweetened, or carbonated water, which is taxed as a soft drink under food.candy_soda.",False,exempt,"{""note"": ""Carbonated water is the specific taxable exclusion from the food-products exemption; plain, non-carbonated water is not among the enumerated taxable exclusions.""}"
 CT,food.candy,,True,taxable,{}
 CT,food.candy_soda,"Candy, soda, sweetened beverages (often taxed where groceries aren't).",False,needs_research,"{""note"": ""Connecticut's treatment of candy and soft drinks under the grocery food exemption needs authoritative confirmation.""}"
 CT,food.dietary_supplements,,False,exempt,{}
@@ -214,6 +235,8 @@ CT,food.soft_drinks,,True,taxable,{}
 CT,goods.electronics,,True,taxable,{}
 CT,goods.furniture,,True,taxable,{}
 CT,goods.general,,True,taxable,{}
+CT,hygiene.diapers,"Infant/baby diapers and adult incontinence products (briefs, liners, underpads), cloth or disposable.",False,exempt,"{""scope"": ""both""}"
+CT,hygiene.menstrual,"Menstrual and feminine hygiene products: tampons, sanitary pads, pantyliners, menstrual cups, and period underwear.",False,exempt,{}
 CT,medical.devices,,False,exempt,{}
 CT,medical.equipment,"Wheelchairs, hearing aids, prosthetics, durable medical equipment.",True,conditional,"{""note"": ""DME, prosthetics, and oxygen equipment exempt (often requires prescription)."", ""prescription_required"": true}"
 CT,medical.otc,Over-the-counter medications.,False,exempt,"{""note"": ""CT exempts nonprescription drugs and medicines (Conn. Gen. Stat. 12-412(120)).""}"
@@ -223,6 +246,7 @@ CT,medical.rx,Prescription drugs (typically exempt nationwide).,False,exempt,{}
 CT,publications.books,,True,taxable,{}
 CT,publications.magazines,,True,taxable,{}
 CT,publications.newspapers,,False,exempt,{}
+CT,publications.textbooks,"Required course and college textbooks, printed or digital, as distinct from general trade books. Many states exempt these only when sold by a school or to an enrolled student.",True,conditional,"{""note"": ""Exempt when sold to an enrolled higher-ed student presenting a valid student ID."", ""exempt_if"": ""enrolled_student_with_id""}"
 CT,services.ai_api,,True,taxable,{}
 CT,services.data_processing,,True,taxable,{}
 CT,services.personal_care,,True,taxable,{}
@@ -244,6 +268,7 @@ DC,digital_products.ebook,,True,taxable,{}
 DC,digital_products.music,,True,taxable,{}
 DC,digital_products.streaming,,True,taxable,{}
 DC,digital_products.video,,True,taxable,{}
+DC,food.bottled_water,"Plain, still, unsweetened, unflavored bottled drinking water (spring, mineral, distilled, or purified) sold in a sealed retail container. Excludes flavored, sweetened, or carbonated water, which is taxed as a soft drink under food.candy_soda.",False,exempt,"{""note"": ""\""Water\"" is expressly enumerated among the exempt \""eligible foods\"" under D.C. Code 47-2001; a bottled-water delivery service selling water by the gallon for a water cooler is taxed under a separate, unrelated provision.""}"
 DC,food.candy,,True,taxable,{}
 DC,food.candy_soda,"Candy, soda, sweetened beverages (often taxed where groceries aren't).",True,taxable,"{""note"": ""Candy and soft drinks taxable; soft drinks also carry an additional levy.""}"
 DC,food.dietary_supplements,,False,exempt,{}
@@ -253,6 +278,8 @@ DC,food.soft_drinks,,True,taxable,{}
 DC,goods.electronics,,True,taxable,{}
 DC,goods.furniture,,True,taxable,{}
 DC,goods.general,,True,taxable,{}
+DC,hygiene.diapers,"Infant/baby diapers and adult incontinence products (briefs, liners, underpads), cloth or disposable.",False,exempt,"{""scope"": ""both""}"
+DC,hygiene.menstrual,"Menstrual and feminine hygiene products: tampons, sanitary pads, pantyliners, menstrual cups, and period underwear.",False,exempt,{}
 DC,medical.devices,,False,exempt,{}
 DC,medical.equipment,"Wheelchairs, hearing aids, prosthetics, durable medical equipment.",True,conditional,"{""note"": ""DME and prosthetics exempt when prescribed (D.C. Code 47-2005)."", ""prescription_required"": true}"
 DC,medical.otc,Over-the-counter medications.,True,taxable,"{""note"": ""OTC taxable unless dispensed by prescription.""}"
@@ -262,6 +289,7 @@ DC,medical.rx,Prescription drugs (typically exempt nationwide).,False,exempt,{}
 DC,publications.books,,True,taxable,{}
 DC,publications.magazines,,True,taxable,{}
 DC,publications.newspapers,,False,exempt,{}
+DC,publications.textbooks,"Required course and college textbooks, printed or digital, as distinct from general trade books. Many states exempt these only when sold by a school or to an enrolled student.",True,taxable,{}
 DC,services.ai_api,,True,taxable,{}
 DC,services.data_processing,,False,exempt,{}
 DC,services.personal_care,,False,exempt,{}
@@ -283,6 +311,7 @@ FL,digital_products.ebook,,False,exempt,{}
 FL,digital_products.music,,False,exempt,{}
 FL,digital_products.streaming,,False,exempt,{}
 FL,digital_products.video,,False,exempt,{}
+FL,food.bottled_water,"Plain, still, unsweetened, unflavored bottled drinking water (spring, mineral, distilled, or purified) sold in a sealed retail container. Excludes flavored, sweetened, or carbonated water, which is taxed as a soft drink under food.candy_soda.",False,exempt,"{""note"": ""Covers plain water and water with only naturally occurring or water-treatment-facility-added minerals; loses the exemption if carbonation or flavoring is added.""}"
 FL,food.candy,,True,taxable,{}
 FL,food.candy_soda,"Candy, soda, sweetened beverages (often taxed where groceries aren't).",True,taxable,"{""note"": ""FL taxes candy and soft drinks per § 212.08(1)(a) carve-outs.""}"
 FL,food.dietary_supplements,,False,exempt,{}
@@ -292,6 +321,8 @@ FL,food.soft_drinks,,True,taxable,{}
 FL,goods.electronics,,True,taxable,{}
 FL,goods.furniture,,True,taxable,{}
 FL,goods.general,,True,taxable,{}
+FL,hygiene.diapers,"Infant/baby diapers and adult incontinence products (briefs, liners, underpads), cloth or disposable.",False,exempt,"{""scope"": ""both""}"
+FL,hygiene.menstrual,"Menstrual and feminine hygiene products: tampons, sanitary pads, pantyliners, menstrual cups, and period underwear.",False,exempt,{}
 FL,medical.devices,,False,exempt,{}
 FL,medical.equipment,"Wheelchairs, hearing aids, prosthetics, durable medical equipment.",False,exempt,{}
 FL,medical.otc,Over-the-counter medications.,True,conditional,"{""note"": ""FL § 212.08(2) exempts 'common household remedies' (aspirin, cough syrup, vitamins, etc.) — broadest OTC exemption in the country."", ""common_household_remedies_exempt"": true}"
@@ -301,6 +332,7 @@ FL,medical.rx,Prescription drugs (typically exempt nationwide).,False,exempt,{}
 FL,publications.books,,True,taxable,{}
 FL,publications.magazines,,True,taxable,{}
 FL,publications.newspapers,,False,exempt,{}
+FL,publications.textbooks,"Required course and college textbooks, printed or digital, as distinct from general trade books. Many states exempt these only when sold by a school or to an enrolled student.",True,conditional,"{""note"": ""Only K-12 school books exempt; college textbooks taxable."", ""exempt_if"": ""sold_by_k12_school""}"
 FL,services.ai_api,,False,exempt,{}
 FL,services.data_processing,,False,exempt,{}
 FL,services.personal_care,,False,exempt,{}
@@ -322,6 +354,7 @@ GA,digital_products.ebook,,True,taxable,{}
 GA,digital_products.music,,True,taxable,{}
 GA,digital_products.streaming,,True,taxable,{}
 GA,digital_products.video,,True,taxable,{}
+GA,food.bottled_water,"Plain, still, unsweetened, unflavored bottled drinking water (spring, mineral, distilled, or purified) sold in a sealed retail container. Excludes flavored, sweetened, or carbonated water, which is taxed as a soft drink under food.candy_soda.",False,exempt,"{""note"": ""Calorie-free, additive-free bottled water is exempt at the state level; local sales tax still applies; bottled water given away free by a business to employees/customers is taxable at state and local level."", ""local_may_tax"": true}"
 GA,food.candy,,False,exempt,{}
 GA,food.candy_soda,"Candy, soda, sweetened beverages (often taxed where groceries aren't).",True,taxable,"{""note"": ""Candy and soft drinks are not within the grocery exemption — taxable at full state+local rate.""}"
 GA,food.dietary_supplements,,True,taxable,{}
@@ -331,6 +364,8 @@ GA,food.soft_drinks,,False,exempt,{}
 GA,goods.electronics,,True,taxable,{}
 GA,goods.furniture,,True,taxable,{}
 GA,goods.general,,True,taxable,{}
+GA,hygiene.diapers,"Infant/baby diapers and adult incontinence products (briefs, liners, underpads), cloth or disposable.",True,taxable,"{""note"": ""2026 exemption bill HB 1223 not enacted.""}"
+GA,hygiene.menstrual,"Menstrual and feminine hygiene products: tampons, sanitary pads, pantyliners, menstrual cups, and period underwear.",True,taxable,"{""note"": ""2026 exemption bill pending, not effective.""}"
 GA,medical.devices,,False,exempt,{}
 GA,medical.equipment,"Wheelchairs, hearing aids, prosthetics, durable medical equipment.",False,exempt,"{""note"": ""DME, prosthetics, hearing aids exempt when sold pursuant to a prescription (§ 48-8-3(54))."", ""prescription_required"": true}"
 GA,medical.otc,Over-the-counter medications.,True,taxable,"{""note"": ""GA taxes OTC drugs unless dispensed by prescription.""}"
@@ -340,6 +375,7 @@ GA,medical.rx,Prescription drugs (typically exempt nationwide).,False,exempt,{}
 GA,publications.books,,True,taxable,{}
 GA,publications.magazines,,True,taxable,{}
 GA,publications.newspapers,,False,exempt,{}
+GA,publications.textbooks,"Required course and college textbooks, printed or digital, as distinct from general trade books. Many states exempt these only when sold by a school or to an enrolled student.",True,taxable,{}
 GA,services.ai_api,,False,exempt,{}
 GA,services.data_processing,,False,exempt,{}
 GA,services.personal_care,,False,exempt,{}
@@ -361,6 +397,7 @@ HI,digital_products.ebook,,True,taxable,{}
 HI,digital_products.music,,True,taxable,{}
 HI,digital_products.streaming,,True,taxable,{}
 HI,digital_products.video,,True,taxable,{}
+HI,food.bottled_water,"Plain, still, unsweetened, unflavored bottled drinking water (spring, mineral, distilled, or purified) sold in a sealed retail container. Excludes flavored, sweetened, or carbonated water, which is taxed as a soft drink under food.candy_soda.",True,taxable,"{""note"": ""Hawaii's General Excise Tax has no general grocery/food exemption; only SNAP/WIC-funded purchases are exempt; county surcharges may add to the base GET rate.""}"
 HI,food.candy,,True,taxable,{}
 HI,food.candy_soda,"Candy, soda, sweetened beverages (often taxed where groceries aren't).",True,taxable,{}
 HI,food.dietary_supplements,,True,taxable,{}
@@ -370,6 +407,8 @@ HI,food.soft_drinks,,True,taxable,{}
 HI,goods.electronics,,True,taxable,{}
 HI,goods.furniture,,True,taxable,{}
 HI,goods.general,,True,taxable,{}
+HI,hygiene.diapers,"Infant/baby diapers and adult incontinence products (briefs, liners, underpads), cloth or disposable.",True,taxable,"{""note"": ""GET applies to diaper sales; no exemption.""}"
+HI,hygiene.menstrual,"Menstrual and feminine hygiene products: tampons, sanitary pads, pantyliners, menstrual cups, and period underwear.",True,taxable,"{""note"": ""Subject to GET at the standard rate.""}"
 HI,medical.devices,,False,exempt,{}
 HI,medical.equipment,"Wheelchairs, hearing aids, prosthetics, durable medical equipment.",True,conditional,"{""note"": ""Prosthetic devices exempt (HRS 237-24.3); other DME subject to GET."", ""prescription_required"": true}"
 HI,medical.otc,Over-the-counter medications.,True,taxable,"{""note"": ""OTC subject to GET.""}"
@@ -379,6 +418,7 @@ HI,medical.rx,Prescription drugs (typically exempt nationwide).,False,exempt,{}
 HI,publications.books,,True,taxable,{}
 HI,publications.magazines,,True,taxable,{}
 HI,publications.newspapers,,False,exempt,{}
+HI,publications.textbooks,"Required course and college textbooks, printed or digital, as distinct from general trade books. Many states exempt these only when sold by a school or to an enrolled student.",True,taxable,"{""note"": ""General Excise Tax applies to seller receipts including textbooks.""}"
 HI,services.ai_api,,True,taxable,{}
 HI,services.data_processing,,True,taxable,{}
 HI,services.personal_care,,True,taxable,{}
@@ -400,6 +440,7 @@ IA,digital_products.ebook,,True,taxable,{}
 IA,digital_products.music,,True,taxable,{}
 IA,digital_products.streaming,,True,taxable,{}
 IA,digital_products.video,,True,taxable,{}
+IA,food.bottled_water,"Plain, still, unsweetened, unflavored bottled drinking water (spring, mineral, distilled, or purified) sold in a sealed retail container. Excludes flavored, sweetened, or carbonated water, which is taxed as a soft drink under food.candy_soda.",False,exempt,"{""note"": ""Must be non-carbonated/non-sweetened; flavored or sweetened water is taxed as a soft drink.""}"
 IA,food.candy,,True,taxable,{}
 IA,food.candy_soda,"Candy, soda, sweetened beverages (often taxed where groceries aren't).",True,taxable,"{""note"": ""Candy and soft drinks excluded from the food exemption (taxable).""}"
 IA,food.dietary_supplements,,True,taxable,{}
@@ -409,6 +450,8 @@ IA,food.soft_drinks,,True,taxable,{}
 IA,goods.electronics,,True,taxable,{}
 IA,goods.furniture,,True,taxable,{}
 IA,goods.general,,True,taxable,{}
+IA,hygiene.diapers,"Infant/baby diapers and adult incontinence products (briefs, liners, underpads), cloth or disposable.",False,exempt,"{""scope"": ""both""}"
+IA,hygiene.menstrual,"Menstrual and feminine hygiene products: tampons, sanitary pads, pantyliners, menstrual cups, and period underwear.",False,exempt,{}
 IA,medical.devices,,False,exempt,{}
 IA,medical.equipment,"Wheelchairs, hearing aids, prosthetics, durable medical equipment.",True,conditional,"{""note"": ""DME, prosthetics, and mobility-enhancing equipment exempt when prescribed (Iowa Code 423.3(60))."", ""prescription_required"": true}"
 IA,medical.otc,Over-the-counter medications.,True,taxable,"{""note"": ""OTC taxable unless dispensed by prescription.""}"
@@ -418,6 +461,7 @@ IA,medical.rx,Prescription drugs (typically exempt nationwide).,False,exempt,{}
 IA,publications.books,,True,taxable,{}
 IA,publications.magazines,,True,taxable,{}
 IA,publications.newspapers,,False,exempt,{}
+IA,publications.textbooks,"Required course and college textbooks, printed or digital, as distinct from general trade books. Many states exempt these only when sold by a school or to an enrolled student.",True,taxable,{}
 IA,services.ai_api,,False,exempt,{}
 IA,services.data_processing,,False,exempt,{}
 IA,services.personal_care,,True,taxable,{}
@@ -439,6 +483,7 @@ ID,digital_products.ebook,,True,taxable,{}
 ID,digital_products.music,,True,taxable,{}
 ID,digital_products.streaming,,True,taxable,{}
 ID,digital_products.video,,True,taxable,{}
+ID,food.bottled_water,"Plain, still, unsweetened, unflavored bottled drinking water (spring, mineral, distilled, or purified) sold in a sealed retail container. Excludes flavored, sweetened, or carbonated water, which is taxed as a soft drink under food.candy_soda.",True,taxable,"{""note"": ""Idaho has no grocery exemption; consumers may offset via the annual grocery tax credit on their income tax return.""}"
 ID,food.candy,,True,taxable,{}
 ID,food.candy_soda,"Candy, soda, sweetened beverages (often taxed where groceries aren't).",True,taxable,{}
 ID,food.dietary_supplements,,True,taxable,{}
@@ -448,6 +493,8 @@ ID,food.soft_drinks,,True,taxable,{}
 ID,goods.electronics,,True,taxable,{}
 ID,goods.furniture,,True,taxable,{}
 ID,goods.general,,True,taxable,{}
+ID,hygiene.diapers,"Infant/baby diapers and adult incontinence products (briefs, liners, underpads), cloth or disposable.",True,taxable,{}
+ID,hygiene.menstrual,"Menstrual and feminine hygiene products: tampons, sanitary pads, pantyliners, menstrual cups, and period underwear.",True,taxable,{}
 ID,medical.devices,,False,exempt,{}
 ID,medical.equipment,"Wheelchairs, hearing aids, prosthetics, durable medical equipment.",True,conditional,"{""note"": ""DME and prosthetics exempt when prescribed (Idaho Code 63-3622N)."", ""prescription_required"": true}"
 ID,medical.otc,Over-the-counter medications.,True,taxable,"{""note"": ""OTC taxable unless dispensed by prescription.""}"
@@ -457,6 +504,7 @@ ID,medical.rx,Prescription drugs (typically exempt nationwide).,False,exempt,{}
 ID,publications.books,,True,taxable,{}
 ID,publications.magazines,,True,taxable,{}
 ID,publications.newspapers,,False,exempt,{}
+ID,publications.textbooks,"Required course and college textbooks, printed or digital, as distinct from general trade books. Many states exempt these only when sold by a school or to an enrolled student.",True,taxable,{}
 ID,services.ai_api,,False,exempt,{}
 ID,services.data_processing,,False,exempt,{}
 ID,services.personal_care,,False,exempt,{}
@@ -478,6 +526,7 @@ IL,digital_products.ebook,,False,exempt,{}
 IL,digital_products.music,,False,exempt,{}
 IL,digital_products.streaming,,False,exempt,{}
 IL,digital_products.video,,False,exempt,{}
+IL,food.bottled_water,"Plain, still, unsweetened, unflavored bottled drinking water (spring, mineral, distilled, or purified) sold in a sealed retail container. Excludes flavored, sweetened, or carbonated water, which is taxed as a soft drink under food.candy_soda.",False,exempt,"{""note"": ""Bottled water is statutorily defined as \""food\""; the 1% state occupation/use tax on off-premises food was eliminated 2026-01-01, but municipalities/counties may impose their own local grocery tax by ordinance (rates vary; e.g. Chicago did not adopt one)."", ""local_may_tax"": true}"
 IL,food.candy,,True,taxable,{}
 IL,food.candy_soda,"Candy, soda, sweetened beverages (often taxed where groceries aren't).",True,taxable,"{""note"": ""Candy and soft drinks taxed at the full IL rate (not the food rate).""}"
 IL,food.dietary_supplements,,True,taxable,{}
@@ -487,6 +536,8 @@ IL,food.soft_drinks,,True,taxable,{}
 IL,goods.electronics,,True,taxable,{}
 IL,goods.furniture,,True,taxable,{}
 IL,goods.general,,True,taxable,{}
+IL,hygiene.diapers,"Infant/baby diapers and adult incontinence products (briefs, liners, underpads), cloth or disposable.",True,taxable,"{""note"": ""Diapers do NOT get the 1% low rate; full state+local rate.""}"
+IL,hygiene.menstrual,"Menstrual and feminine hygiene products: tampons, sanitary pads, pantyliners, menstrual cups, and period underwear.",False,exempt,{}
 IL,medical.devices,,False,exempt,{}
 IL,medical.equipment,"Wheelchairs, hearing aids, prosthetics, durable medical equipment.",True,reduced_rate,"{""note"": ""DME including wheelchairs, prosthetics, prescription eyeglasses taxed at the 1% reduced rate."", ""reduced_rate"": 0.01}"
 IL,medical.otc,Over-the-counter medications.,True,reduced_rate,"{""note"": ""IL taxes OTC medicines at the 1% reduced rate."", ""reduced_rate"": 0.01}"
@@ -496,6 +547,7 @@ IL,medical.rx,Prescription drugs (typically exempt nationwide).,True,reduced_rat
 IL,publications.books,,True,taxable,{}
 IL,publications.magazines,,True,taxable,{}
 IL,publications.newspapers,,False,exempt,{}
+IL,publications.textbooks,"Required course and college textbooks, printed or digital, as distinct from general trade books. Many states exempt these only when sold by a school or to an enrolled student.",True,taxable,{}
 IL,services.ai_api,,False,exempt,{}
 IL,services.data_processing,,False,exempt,{}
 IL,services.personal_care,,False,exempt,{}
@@ -517,6 +569,7 @@ IN,digital_products.ebook,,True,taxable,{}
 IN,digital_products.music,,True,taxable,{}
 IN,digital_products.streaming,,True,taxable,{}
 IN,digital_products.video,,True,taxable,{}
+IN,food.bottled_water,"Plain, still, unsweetened, unflavored bottled drinking water (spring, mineral, distilled, or purified) sold in a sealed retail container. Excludes flavored, sweetened, or carbonated water, which is taxed as a soft drink under food.candy_soda.",True,conditional,"{""note"": ""Indiana taxes all bottled water except water whose container label specifically states \""natural spring water\"" with no additives; distilled, purified, mineral, and generically labeled drinking water remain taxable."", ""exempt_if"": ""label_states_natural_spring_water_no_additives""}"
 IN,food.candy,,True,taxable,{}
 IN,food.candy_soda,"Candy, soda, sweetened beverages (often taxed where groceries aren't).",True,taxable,"{""note"": ""Candy and soft drinks excluded from the food exemption.""}"
 IN,food.dietary_supplements,,True,taxable,{}
@@ -526,6 +579,8 @@ IN,food.soft_drinks,,True,taxable,{}
 IN,goods.electronics,,True,taxable,{}
 IN,goods.furniture,,True,taxable,{}
 IN,goods.general,,True,taxable,{}
+IN,hygiene.diapers,"Infant/baby diapers and adult incontinence products (briefs, liners, underpads), cloth or disposable.",False,exempt,"{""note"": ""Children exempt since 2022; adult added by HEA 1001-2025 (adult scope provisional)."", ""scope"": ""both""}"
+IN,hygiene.menstrual,"Menstrual and feminine hygiene products: tampons, sanitary pads, pantyliners, menstrual cups, and period underwear.",True,taxable,"{""note"": ""Exemption bill in progress, not effective.""}"
 IN,medical.devices,,False,exempt,{}
 IN,medical.equipment,"Wheelchairs, hearing aids, prosthetics, durable medical equipment.",True,conditional,"{""note"": ""DME, prosthetics, and mobility-enhancing equipment exempt when prescribed (IC 6-2.5-5-18)."", ""prescription_required"": true}"
 IN,medical.otc,Over-the-counter medications.,True,taxable,"{""note"": ""OTC taxable unless dispensed by prescription.""}"
@@ -535,6 +590,7 @@ IN,medical.rx,Prescription drugs (typically exempt nationwide).,False,exempt,{}
 IN,publications.books,,True,taxable,{}
 IN,publications.magazines,,True,taxable,{}
 IN,publications.newspapers,,False,exempt,{}
+IN,publications.textbooks,"Required course and college textbooks, printed or digital, as distinct from general trade books. Many states exempt these only when sold by a school or to an enrolled student.",True,conditional,"{""note"": ""Exempt only when sold by a school to its own grade 1-12 students; college taxable."", ""exempt_if"": ""sold_by_school_to_k12_students""}"
 IN,services.ai_api,,False,exempt,{}
 IN,services.data_processing,,False,exempt,{}
 IN,services.personal_care,,False,exempt,{}
@@ -556,6 +612,7 @@ KS,digital_products.ebook,,False,exempt,{}
 KS,digital_products.music,,False,exempt,{}
 KS,digital_products.streaming,,False,exempt,{}
 KS,digital_products.video,,False,exempt,{}
+KS,food.bottled_water,"Plain, still, unsweetened, unflavored bottled drinking water (spring, mineral, distilled, or purified) sold in a sealed retail container. Excludes flavored, sweetened, or carbonated water, which is taxed as a soft drink under food.candy_soda.",False,exempt,"{""note"": ""Bottled water is statutorily defined as food and food ingredients; the state sales tax rate on food was phased to 0% effective 2025-01-01; city/county local sales tax still applies."", ""local_may_tax"": true}"
 KS,food.candy,,True,taxable,{}
 KS,food.candy_soda,"Candy, soda, sweetened beverages (often taxed where groceries aren't).",True,taxable,"{""note"": ""Candy and soft drinks excluded from the 0% food rate; taxed at the full state + local rate.""}"
 KS,food.dietary_supplements,,True,taxable,{}
@@ -565,6 +622,8 @@ KS,food.soft_drinks,,True,taxable,{}
 KS,goods.electronics,,True,taxable,{}
 KS,goods.furniture,,True,taxable,{}
 KS,goods.general,,True,taxable,{}
+KS,hygiene.diapers,"Infant/baby diapers and adult incontinence products (briefs, liners, underpads), cloth or disposable.",True,taxable,"{""note"": ""Exemption bill SB 107 died in committee.""}"
+KS,hygiene.menstrual,"Menstrual and feminine hygiene products: tampons, sanitary pads, pantyliners, menstrual cups, and period underwear.",True,taxable,{}
 KS,medical.devices,,False,exempt,{}
 KS,medical.equipment,"Wheelchairs, hearing aids, prosthetics, durable medical equipment.",True,conditional,"{""note"": ""DME and prosthetics exempt when prescribed (K.S.A. 79-3606)."", ""prescription_required"": true}"
 KS,medical.otc,Over-the-counter medications.,True,taxable,"{""note"": ""OTC taxable unless dispensed by prescription.""}"
@@ -574,6 +633,7 @@ KS,medical.rx,Prescription drugs (typically exempt nationwide).,False,exempt,{}
 KS,publications.books,,True,taxable,{}
 KS,publications.magazines,,True,taxable,{}
 KS,publications.newspapers,,False,exempt,{}
+KS,publications.textbooks,"Required course and college textbooks, printed or digital, as distinct from general trade books. Many states exempt these only when sold by a school or to an enrolled student.",True,taxable,{}
 KS,services.ai_api,,False,exempt,{}
 KS,services.data_processing,,False,exempt,{}
 KS,services.personal_care,,False,exempt,{}
@@ -595,6 +655,7 @@ KY,digital_products.ebook,,True,taxable,{}
 KY,digital_products.music,,True,taxable,{}
 KY,digital_products.streaming,,True,taxable,{}
 KY,digital_products.video,,True,taxable,{}
+KY,food.bottled_water,"Plain, still, unsweetened, unflavored bottled drinking water (spring, mineral, distilled, or purified) sold in a sealed retail container. Excludes flavored, sweetened, or carbonated water, which is taxed as a soft drink under food.candy_soda.",False,exempt,"{""note"": ""Unsweetened bottled water does not meet the statutory definition of a taxable \""soft drink,\"" which requires an added sweetener, so it falls under the food exemption.""}"
 KY,food.candy,,True,taxable,{}
 KY,food.candy_soda,"Candy, soda, sweetened beverages (often taxed where groceries aren't).",True,taxable,"{""note"": ""Candy and soft drinks excluded from the food exemption (taxable).""}"
 KY,food.dietary_supplements,,True,taxable,{}
@@ -604,6 +665,8 @@ KY,food.soft_drinks,,True,taxable,{}
 KY,goods.electronics,,True,taxable,{}
 KY,goods.furniture,,True,taxable,{}
 KY,goods.general,,True,taxable,{}
+KY,hygiene.diapers,"Infant/baby diapers and adult incontinence products (briefs, liners, underpads), cloth or disposable.",True,taxable,{}
+KY,hygiene.menstrual,"Menstrual and feminine hygiene products: tampons, sanitary pads, pantyliners, menstrual cups, and period underwear.",True,taxable,"{""note"": ""2026 exemption bill pending, not effective.""}"
 KY,medical.devices,,False,exempt,{}
 KY,medical.equipment,"Wheelchairs, hearing aids, prosthetics, durable medical equipment.",True,conditional,"{""note"": ""DME and prosthetics exempt when prescribed (KRS 139.472)."", ""prescription_required"": true}"
 KY,medical.otc,Over-the-counter medications.,True,taxable,"{""note"": ""OTC taxable unless dispensed by prescription.""}"
@@ -613,6 +676,7 @@ KY,medical.rx,Prescription drugs (typically exempt nationwide).,False,exempt,{}
 KY,publications.books,,True,taxable,{}
 KY,publications.magazines,,True,taxable,{}
 KY,publications.newspapers,,False,exempt,{}
+KY,publications.textbooks,"Required course and college textbooks, printed or digital, as distinct from general trade books. Many states exempt these only when sold by a school or to an enrolled student.",True,conditional,"{""note"": ""Exempt when for a course at a KRS 139.495 nonprofit institution (use-tied, certificate-driven); ordinary retail student sales default taxable."", ""exempt_if"": ""course_at_nonprofit_institution""}"
 KY,services.ai_api,,True,taxable,{}
 KY,services.data_processing,,False,exempt,{}
 KY,services.personal_care,,False,exempt,{}
@@ -634,6 +698,7 @@ LA,digital_products.ebook,,True,taxable,{}
 LA,digital_products.music,,True,taxable,{}
 LA,digital_products.streaming,,True,taxable,{}
 LA,digital_products.video,,True,taxable,{}
+LA,food.bottled_water,"Plain, still, unsweetened, unflavored bottled drinking water (spring, mineral, distilled, or purified) sold in a sealed retail container. Excludes flavored, sweetened, or carbonated water, which is taxed as a soft drink under food.candy_soda.",True,taxable,"{""note"": ""Louisiana's sales tax exemption for water explicitly excludes any water sold in bottles, jugs, or containers, so bottled water is taxable even though tap/utility water is exempt.""}"
 LA,food.candy,,False,exempt,{}
 LA,food.candy_soda,"Candy, soda, sweetened beverages (often taxed where groceries aren't).",True,conditional,"{""note"": ""Candy and soft drinks are SNAP-eligible and within the state food exemption; local taxes apply."", ""state_exempt"": true, ""local_taxable"": true}"
 LA,food.dietary_supplements,,True,taxable,{}
@@ -643,6 +708,8 @@ LA,food.soft_drinks,,False,exempt,{}
 LA,goods.electronics,,True,taxable,{}
 LA,goods.furniture,,True,taxable,{}
 LA,goods.general,,True,taxable,{}
+LA,hygiene.diapers,"Infant/baby diapers and adult incontinence products (briefs, liners, underpads), cloth or disposable.",False,exempt,"{""scope"": ""both""}"
+LA,hygiene.menstrual,"Menstrual and feminine hygiene products: tampons, sanitary pads, pantyliners, menstrual cups, and period underwear.",False,exempt,"{""note"": ""State exempt; a minority of local jurisdictions may still levy local tax."", ""local_may_tax"": true}"
 LA,medical.devices,,False,exempt,{}
 LA,medical.equipment,"Wheelchairs, hearing aids, prosthetics, durable medical equipment.",True,conditional,"{""note"": ""DME and prosthetics exempt when prescribed (La. R.S. 47:305)."", ""prescription_required"": true}"
 LA,medical.otc,Over-the-counter medications.,True,taxable,"{""note"": ""OTC taxable unless dispensed by prescription.""}"
@@ -652,6 +719,7 @@ LA,medical.rx,Prescription drugs (typically exempt nationwide).,False,exempt,{}
 LA,publications.books,,True,taxable,{}
 LA,publications.magazines,,True,taxable,{}
 LA,publications.newspapers,,False,exempt,{}
+LA,publications.textbooks,"Required course and college textbooks, printed or digital, as distinct from general trade books. Many states exempt these only when sold by a school or to an enrolled student.",True,taxable,"{""note"": ""College textbooks fully taxable; digital textbooks taxable since 2025-01-01.""}"
 LA,services.ai_api,,True,taxable,{}
 LA,services.data_processing,,False,exempt,{}
 LA,services.personal_care,,False,exempt,{}
@@ -673,6 +741,7 @@ MA,digital_products.ebook,,False,exempt,{}
 MA,digital_products.music,,False,exempt,{}
 MA,digital_products.streaming,,False,exempt,{}
 MA,digital_products.video,,False,exempt,{}
+MA,food.bottled_water,"Plain, still, unsweetened, unflavored bottled drinking water (spring, mineral, distilled, or purified) sold in a sealed retail container. Excludes flavored, sweetened, or carbonated water, which is taxed as a soft drink under food.candy_soda.",False,exempt,"{""note"": ""Only unopened, original-container sales are exempt; water dispensed or poured for immediate consumption is taxable as a meal.""}"
 MA,food.candy,,False,exempt,{}
 MA,food.candy_soda,"Candy, soda, sweetened beverages (often taxed where groceries aren't).",False,exempt,"{""note"": ""MA treats candy and soft drinks as food — exempt (M.G.L. c.64H §6(h)).""}"
 MA,food.dietary_supplements,,True,taxable,{}
@@ -682,6 +751,8 @@ MA,food.soft_drinks,,False,exempt,{}
 MA,goods.electronics,,True,taxable,{}
 MA,goods.furniture,,True,taxable,{}
 MA,goods.general,,True,taxable,{}
+MA,hygiene.diapers,"Infant/baby diapers and adult incontinence products (briefs, liners, underpads), cloth or disposable.",False,exempt,"{""note"": ""Exempt as clothing under $175."", ""basis"": ""clothing"", ""scope"": ""both""}"
+MA,hygiene.menstrual,"Menstrual and feminine hygiene products: tampons, sanitary pads, pantyliners, menstrual cups, and period underwear.",False,exempt,{}
 MA,medical.devices,,False,exempt,{}
 MA,medical.equipment,"Wheelchairs, hearing aids, prosthetics, durable medical equipment.",False,exempt,"{""note"": ""Wheelchairs, prosthetics, and medical equipment exempt (M.G.L. c.64H §6(l)).""}"
 MA,medical.otc,Over-the-counter medications.,True,taxable,"{""note"": ""OTC taxable; only medicine sold on prescription is exempt.""}"
@@ -691,6 +762,7 @@ MA,medical.rx,Prescription drugs (typically exempt nationwide).,False,exempt,{}
 MA,publications.books,,True,taxable,{}
 MA,publications.magazines,,True,taxable,{}
 MA,publications.newspapers,,False,exempt,{}
+MA,publications.textbooks,"Required course and college textbooks, printed or digital, as distinct from general trade books. Many states exempt these only when sold by a school or to an enrolled student.",True,conditional,"{""note"": ""Exempt for required books sold to students in an educational institution (Form ST-8)."", ""exempt_if"": ""required_and_sold_to_students_form_ST8""}"
 MA,services.ai_api,,True,taxable,{}
 MA,services.data_processing,,False,exempt,{}
 MA,services.personal_care,,False,exempt,{}
@@ -712,6 +784,7 @@ MD,digital_products.ebook,,True,taxable,{}
 MD,digital_products.music,,True,taxable,{}
 MD,digital_products.streaming,,True,taxable,{}
 MD,digital_products.video,,True,taxable,{}
+MD,food.bottled_water,"Plain, still, unsweetened, unflavored bottled drinking water (spring, mineral, distilled, or purified) sold in a sealed retail container. Excludes flavored, sweetened, or carbonated water, which is taxed as a soft drink under food.candy_soda.",True,taxable,"{""note"": ""Applies to all pack sizes per official Comptroller guidance; a secondary blog claims multi-packs are exempt, but that carve-out does not appear in Business Tax Tip #5, COMAR 03.06.01.22, or Tax-General 11-206.""}"
 MD,food.candy,,True,taxable,{}
 MD,food.candy_soda,"Candy, soda, sweetened beverages (often taxed where groceries aren't).",False,needs_research,"{""note"": ""Maryland's treatment of candy and single-serving soft drinks under the food exemption needs authoritative confirmation.""}"
 MD,food.dietary_supplements,,False,exempt,{}
@@ -721,6 +794,8 @@ MD,food.soft_drinks,,True,taxable,{}
 MD,goods.electronics,,True,taxable,{}
 MD,goods.furniture,,True,taxable,{}
 MD,goods.general,,True,taxable,{}
+MD,hygiene.diapers,"Infant/baby diapers and adult incontinence products (briefs, liners, underpads), cloth or disposable.",False,exempt,"{""scope"": ""both""}"
+MD,hygiene.menstrual,"Menstrual and feminine hygiene products: tampons, sanitary pads, pantyliners, menstrual cups, and period underwear.",False,exempt,{}
 MD,medical.devices,,False,exempt,{}
 MD,medical.equipment,"Wheelchairs, hearing aids, prosthetics, durable medical equipment.",False,exempt,"{""note"": ""MD exempts medical devices and durable medical equipment (Md. Tax-Gen. 11-211).""}"
 MD,medical.otc,Over-the-counter medications.,False,exempt,"{""note"": ""MD exempts medicines including many over-the-counter drugs used to treat illness (Md. Tax-Gen. 11-211).""}"
@@ -730,6 +805,7 @@ MD,medical.rx,Prescription drugs (typically exempt nationwide).,False,exempt,{}
 MD,publications.books,,True,taxable,{}
 MD,publications.magazines,,True,taxable,{}
 MD,publications.newspapers,,False,exempt,{}
+MD,publications.textbooks,"Required course and college textbooks, printed or digital, as distinct from general trade books. Many states exempt these only when sold by a school or to an enrolled student.",True,taxable,"{""note"": ""Taxable in print or electronic form; a widely-cited student exemption describes a never-enacted 2008 bill.""}"
 MD,services.ai_api,,True,taxable,{}
 MD,services.data_processing,,False,exempt,{}
 MD,services.personal_care,,False,exempt,{}
@@ -751,6 +827,7 @@ ME,digital_products.ebook,,True,taxable,{}
 ME,digital_products.music,,True,taxable,{}
 ME,digital_products.streaming,,True,taxable,{}
 ME,digital_products.video,,True,taxable,{}
+ME,food.bottled_water,"Plain, still, unsweetened, unflavored bottled drinking water (spring, mineral, distilled, or purified) sold in a sealed retail container. Excludes flavored, sweetened, or carbonated water, which is taxed as a soft drink under food.candy_soda.",True,taxable,"{""note"": ""Applies equally to still, mineral, and carbonated bottled water; no size or quantity exception found in statute.""}"
 ME,food.candy,,True,taxable,{}
 ME,food.candy_soda,"Candy, soda, sweetened beverages (often taxed where groceries aren't).",True,taxable,"{""note"": ""Candy and soft drinks excluded from grocery staples (taxable).""}"
 ME,food.dietary_supplements,,True,taxable,{}
@@ -760,6 +837,8 @@ ME,food.soft_drinks,,True,taxable,{}
 ME,goods.electronics,,True,taxable,{}
 ME,goods.furniture,,True,taxable,{}
 ME,goods.general,,True,taxable,{}
+ME,hygiene.diapers,"Infant/baby diapers and adult incontinence products (briefs, liners, underpads), cloth or disposable.",True,taxable,"{""note"": ""Statute shows no diaper exemption; a secondary vendor guide conflicts — flagged.""}"
+ME,hygiene.menstrual,"Menstrual and feminine hygiene products: tampons, sanitary pads, pantyliners, menstrual cups, and period underwear.",False,exempt,{}
 ME,medical.devices,,False,exempt,{}
 ME,medical.equipment,"Wheelchairs, hearing aids, prosthetics, durable medical equipment.",True,conditional,"{""note"": ""DME and prosthetics exempt when prescribed (36 M.R.S. 1760)."", ""prescription_required"": true}"
 ME,medical.otc,Over-the-counter medications.,True,taxable,"{""note"": ""OTC taxable unless dispensed by prescription.""}"
@@ -769,6 +848,7 @@ ME,medical.rx,Prescription drugs (typically exempt nationwide).,False,exempt,{}
 ME,publications.books,,True,taxable,{}
 ME,publications.magazines,,True,taxable,{}
 ME,publications.newspapers,,False,exempt,{}
+ME,publications.textbooks,"Required course and college textbooks, printed or digital, as distinct from general trade books. Many states exempt these only when sold by a school or to an enrolled student.",True,taxable,{}
 ME,services.ai_api,,False,exempt,{}
 ME,services.data_processing,,False,exempt,{}
 ME,services.personal_care,,False,exempt,{}
@@ -790,6 +870,7 @@ MI,digital_products.ebook,,False,exempt,{}
 MI,digital_products.music,,False,exempt,{}
 MI,digital_products.streaming,,False,exempt,{}
 MI,digital_products.video,,False,exempt,{}
+MI,food.bottled_water,"Plain, still, unsweetened, unflavored bottled drinking water (spring, mineral, distilled, or purified) sold in a sealed retail container. Excludes flavored, sweetened, or carbonated water, which is taxed as a soft drink under food.candy_soda.",False,exempt,"{""note"": ""No local sales tax in Michigan; SST-aligned statutory definition of bottled water is treated as exempt food regardless of size/brand.""}"
 MI,food.candy,,False,exempt,{}
 MI,food.candy_soda,"Candy, soda, sweetened beverages (often taxed where groceries aren't).",False,needs_research,"{""note"": ""Michigan's treatment of candy and soft drinks under the MCL 205.54g food exemption (taxed vs treated as exempt food) needs authoritative confirmation.""}"
 MI,food.dietary_supplements,,False,exempt,{}
@@ -799,6 +880,8 @@ MI,food.soft_drinks,,False,exempt,{}
 MI,goods.electronics,,True,taxable,{}
 MI,goods.furniture,,True,taxable,{}
 MI,goods.general,,True,taxable,{}
+MI,hygiene.diapers,"Infant/baby diapers and adult incontinence products (briefs, liners, underpads), cloth or disposable.",True,taxable,"{""note"": ""Exemption bills introduced but never enacted.""}"
+MI,hygiene.menstrual,"Menstrual and feminine hygiene products: tampons, sanitary pads, pantyliners, menstrual cups, and period underwear.",False,exempt,{}
 MI,medical.devices,,False,exempt,{}
 MI,medical.equipment,"Wheelchairs, hearing aids, prosthetics, durable medical equipment.",True,conditional,"{""note"": ""Prosthetics and DME exempt when prescribed (MCL 205.54a)."", ""prescription_required"": true}"
 MI,medical.otc,Over-the-counter medications.,True,taxable,"{""note"": ""OTC taxable unless dispensed by prescription.""}"
@@ -808,6 +891,7 @@ MI,medical.rx,Prescription drugs (typically exempt nationwide).,False,exempt,{}
 MI,publications.books,,True,taxable,{}
 MI,publications.magazines,,True,taxable,{}
 MI,publications.newspapers,,False,exempt,{}
+MI,publications.textbooks,"Required course and college textbooks, printed or digital, as distinct from general trade books. Many states exempt these only when sold by a school or to an enrolled student.",True,conditional,"{""note"": ""Exempt only when sold by a school for K-12 students; college taxable."", ""exempt_if"": ""sold_by_k12_school""}"
 MI,services.ai_api,,False,exempt,{}
 MI,services.data_processing,,False,exempt,{}
 MI,services.personal_care,,False,exempt,{}
@@ -829,6 +913,7 @@ MN,digital_products.ebook,,True,taxable,{}
 MN,digital_products.music,,True,taxable,{}
 MN,digital_products.streaming,,True,taxable,{}
 MN,digital_products.video,,True,taxable,{}
+MN,food.bottled_water,"Plain, still, unsweetened, unflavored bottled drinking water (spring, mineral, distilled, or purified) sold in a sealed retail container. Excludes flavored, sweetened, or carbonated water, which is taxed as a soft drink under food.candy_soda.",False,exempt,"{""note"": ""Taxable if the seller provides straws or other eating utensils with the water (treated as prepared food); local option sales taxes may still apply in some MN cities.""}"
 MN,food.candy,,True,taxable,{}
 MN,food.candy_soda,"Candy, soda, sweetened beverages (often taxed where groceries aren't).",True,taxable,"{""note"": ""Candy and soft drinks excluded from the food exemption (taxable).""}"
 MN,food.dietary_supplements,,True,taxable,{}
@@ -838,6 +923,8 @@ MN,food.soft_drinks,,True,taxable,{}
 MN,goods.electronics,,True,taxable,{}
 MN,goods.furniture,,True,taxable,{}
 MN,goods.general,,True,taxable,{}
+MN,hygiene.diapers,"Infant/baby diapers and adult incontinence products (briefs, liners, underpads), cloth or disposable.",False,exempt,"{""basis"": ""clothing"", ""scope"": ""both""}"
+MN,hygiene.menstrual,"Menstrual and feminine hygiene products: tampons, sanitary pads, pantyliners, menstrual cups, and period underwear.",False,exempt,{}
 MN,medical.devices,,False,exempt,{}
 MN,medical.equipment,"Wheelchairs, hearing aids, prosthetics, durable medical equipment.",True,conditional,"{""note"": ""DME for home use exempt when prescribed."", ""prescription_required"": true}"
 MN,medical.otc,Over-the-counter medications.,True,taxable,"{""note"": ""OTC taxable unless dispensed by prescription.""}"
@@ -847,6 +934,7 @@ MN,medical.rx,Prescription drugs (typically exempt nationwide).,False,exempt,{}
 MN,publications.books,,True,taxable,{}
 MN,publications.magazines,,True,taxable,{}
 MN,publications.newspapers,,False,exempt,{}
+MN,publications.textbooks,"Required course and college textbooks, printed or digital, as distinct from general trade books. Many states exempt these only when sold by a school or to an enrolled student.",True,conditional,"{""note"": ""Exempt (incl. digital) for textbooks prescribed for a course for regularly enrolled students."", ""exempt_if"": ""prescribed_course_text_enrolled_student""}"
 MN,services.ai_api,,False,exempt,{}
 MN,services.data_processing,,False,exempt,{}
 MN,services.personal_care,,True,taxable,{}
@@ -868,6 +956,7 @@ MO,digital_products.ebook,,False,exempt,{}
 MO,digital_products.music,,False,exempt,{}
 MO,digital_products.streaming,,False,exempt,{}
 MO,digital_products.video,,False,exempt,{}
+MO,food.bottled_water,"Plain, still, unsweetened, unflavored bottled drinking water (spring, mineral, distilled, or purified) sold in a sealed retail container. Excludes flavored, sweetened, or carbonated water, which is taxed as a soft drink under food.candy_soda.",True,reduced_rate,"{""note"": ""A DOR determination found prepackaged, non-carbonated, unflavored bottled water carrying a nutrition-facts label qualifies as SNAP-eligible food for the reduced state rate (down from 4.225%); full local sales tax still applies on top."", ""local_may_tax"": true}"
 MO,food.candy,,True,taxable,{}
 MO,food.candy_soda,"Candy, soda, sweetened beverages (often taxed where groceries aren't).",True,reduced_rate,"{""note"": ""MO's reduced food rate uses SNAP eligibility, which includes candy and soft drinks."", ""reduced_rate"": 0.01225}"
 MO,food.dietary_supplements,,True,taxable,{}
@@ -877,6 +966,8 @@ MO,food.soft_drinks,,True,taxable,{}
 MO,goods.electronics,,True,taxable,{}
 MO,goods.furniture,,True,taxable,{}
 MO,goods.general,,True,taxable,{}
+MO,hygiene.diapers,"Infant/baby diapers and adult incontinence products (briefs, liners, underpads), cloth or disposable.",False,exempt,"{""scope"": ""both""}"
+MO,hygiene.menstrual,"Menstrual and feminine hygiene products: tampons, sanitary pads, pantyliners, menstrual cups, and period underwear.",False,exempt,"{""note"": ""State AND local exempt; includes washable period underwear.""}"
 MO,medical.devices,,False,exempt,{}
 MO,medical.equipment,"Wheelchairs, hearing aids, prosthetics, durable medical equipment.",True,conditional,"{""note"": ""DME and prosthetics exempt when prescribed (RSMo 144.030)."", ""prescription_required"": true}"
 MO,medical.otc,Over-the-counter medications.,True,taxable,"{""note"": ""OTC taxable unless dispensed by prescription.""}"
@@ -886,6 +977,7 @@ MO,medical.rx,Prescription drugs (typically exempt nationwide).,False,exempt,{}
 MO,publications.books,,True,taxable,{}
 MO,publications.magazines,,True,taxable,{}
 MO,publications.newspapers,,False,exempt,{}
+MO,publications.textbooks,"Required course and college textbooks, printed or digital, as distinct from general trade books. Many states exempt these only when sold by a school or to an enrolled student.",True,conditional,"{""note"": ""State tax only (local still applies); required/recommended texts bought by an enrolled MO postsecondary student."", ""scope"": ""state_tax_only"", ""exempt_if"": ""required_text_enrolled_postsecondary"", ""local_may_tax"": true}"
 MO,services.ai_api,,False,exempt,{}
 MO,services.data_processing,,False,exempt,{}
 MO,services.personal_care,,False,exempt,{}
@@ -907,6 +999,7 @@ MS,digital_products.ebook,,True,taxable,{}
 MS,digital_products.music,,True,taxable,{}
 MS,digital_products.streaming,,True,taxable,{}
 MS,digital_products.video,,True,taxable,{}
+MS,food.bottled_water,"Plain, still, unsweetened, unflavored bottled drinking water (spring, mineral, distilled, or purified) sold in a sealed retail container. Excludes flavored, sweetened, or carbonated water, which is taxed as a soft drink under food.candy_soda.",True,reduced_rate,"{""note"": ""Mississippi has no full grocery exemption; SNAP-eligible food/drink, including bottled water, is taxed at the reduced state rate (cut from 7% to 5% effective 2025-07-01); non-SNAP-eligible items remain taxable at 7%.""}"
 MS,food.candy,,True,taxable,{}
 MS,food.dietary_supplements,,True,taxable,{}
 MS,food.grocery,Unprepared groceries; staples; produce; meat; dairy.,True,reduced_rate,{}
@@ -915,6 +1008,8 @@ MS,food.soft_drinks,,True,taxable,{}
 MS,goods.electronics,,True,taxable,{}
 MS,goods.furniture,,True,taxable,{}
 MS,goods.general,,True,taxable,{}
+MS,hygiene.diapers,"Infant/baby diapers and adult incontinence products (briefs, liners, underpads), cloth or disposable.",True,taxable,"{""note"": ""Full 7% rate; 2026 legislature declined repeal.""}"
+MS,hygiene.menstrual,"Menstrual and feminine hygiene products: tampons, sanitary pads, pantyliners, menstrual cups, and period underwear.",True,taxable,"{""note"": ""Standard 7% rate; 2026 bill pending.""}"
 MS,medical.devices,,False,exempt,{}
 MS,medical.equipment,"Wheelchairs, hearing aids, prosthetics, durable medical equipment.",True,conditional,"{""note"": ""DME and prosthetics exempt when prescribed (Miss. Code 27-65-111)."", ""prescription_required"": true}"
 MS,medical.otc,Over-the-counter medications.,True,taxable,"{""note"": ""OTC taxable unless dispensed by prescription.""}"
@@ -924,6 +1019,7 @@ MS,medical.rx,Prescription drugs (typically exempt nationwide).,False,exempt,{}
 MS,publications.books,,True,taxable,{}
 MS,publications.magazines,,True,taxable,{}
 MS,publications.newspapers,,False,exempt,{}
+MS,publications.textbooks,"Required course and college textbooks, printed or digital, as distinct from general trade books. Many states exempt these only when sold by a school or to an enrolled student.",True,conditional,"{""note"": ""Required school textbooks sold to students exempt; exact subsection/higher-ed scope not primary-confirmed."", ""exempt_if"": ""required_school_textbooks_to_students""}"
 MS,services.ai_api,,False,exempt,{}
 MS,services.data_processing,,False,exempt,{}
 MS,services.personal_care,,False,exempt,{}
@@ -945,6 +1041,7 @@ NC,digital_products.ebook,,True,taxable,{}
 NC,digital_products.music,,True,taxable,{}
 NC,digital_products.streaming,,True,taxable,{}
 NC,digital_products.video,,True,taxable,{}
+NC,food.bottled_water,"Plain, still, unsweetened, unflavored bottled drinking water (spring, mineral, distilled, or purified) sold in a sealed retail container. Excludes flavored, sweetened, or carbonated water, which is taxed as a soft drink under food.candy_soda.",True,reduced_rate,"{""note"": ""Applies only to unsweetened bottled water, which is \""qualifying food\"" subject only to the 2% local rate, with no state (4.75%) or transit-rate component. Sweetened bottled water meets the statutory definition of \""soft drink\"" and is fully taxable at the combined state+local(+transit) rate (out of scope).""}"
 NC,food.candy,,True,taxable,{}
 NC,food.candy_soda,"Candy, soda, sweetened beverages (often taxed where groceries aren't).",True,taxable,"{""note"": ""NC taxes candy and soft drinks at full state+local rate, not the reduced grocery rate.""}"
 NC,food.dietary_supplements,,True,taxable,{}
@@ -954,6 +1051,8 @@ NC,food.soft_drinks,,True,taxable,{}
 NC,goods.electronics,,True,taxable,{}
 NC,goods.furniture,,True,taxable,{}
 NC,goods.general,,True,taxable,{}
+NC,hygiene.diapers,"Infant/baby diapers and adult incontinence products (briefs, liners, underpads), cloth or disposable.",True,conditional,"{""note"": ""Exempt only if sold on prescription to Medicaid beneficiaries; otherwise taxable."", ""exempt_if"": ""prescription_to_medicaid_beneficiary""}"
+NC,hygiene.menstrual,"Menstrual and feminine hygiene products: tampons, sanitary pads, pantyliners, menstrual cups, and period underwear.",True,taxable,"{""note"": ""SB 510 (2025) died in committee; still fully taxable.""}"
 NC,medical.devices,,False,exempt,{}
 NC,medical.equipment,"Wheelchairs, hearing aids, prosthetics, durable medical equipment.",False,exempt,"{""note"": ""DME, prosthetics, mobility-enhancing equipment exempt when sold on prescription (§ 105-164.13(12))."", ""prescription_required"": true}"
 NC,medical.otc,Over-the-counter medications.,True,taxable,"{""note"": ""NC taxes OTC drugs unless dispensed by prescription.""}"
@@ -963,6 +1062,7 @@ NC,medical.rx,Prescription drugs (typically exempt nationwide).,False,exempt,{}
 NC,publications.books,,True,taxable,{}
 NC,publications.magazines,,True,taxable,{}
 NC,publications.newspapers,,False,exempt,{}
+NC,publications.textbooks,"Required course and college textbooks, printed or digital, as distinct from general trade books. Many states exempt these only when sold by a school or to an enrolled student.",True,taxable,{}
 NC,services.ai_api,,False,exempt,{}
 NC,services.data_processing,,False,exempt,{}
 NC,services.personal_care,,False,exempt,{}
@@ -984,6 +1084,7 @@ ND,digital_products.ebook,,False,exempt,{}
 ND,digital_products.music,,False,exempt,{}
 ND,digital_products.streaming,,False,exempt,{}
 ND,digital_products.video,,False,exempt,{}
+ND,food.bottled_water,"Plain, still, unsweetened, unflavored bottled drinking water (spring, mineral, distilled, or purified) sold in a sealed retail container. Excludes flavored, sweetened, or carbonated water, which is taxed as a soft drink under food.candy_soda.",False,exempt,"{""note"": ""Taxable if sold through a coin-operated vending machine, or if it contains added natural/artificial sweeteners (reclassified as a taxable soft drink); local option sales taxes may still apply.""}"
 ND,food.candy,,True,taxable,{}
 ND,food.candy_soda,"Candy, soda, sweetened beverages (often taxed where groceries aren't).",True,taxable,"{""note"": ""Candy and soft drinks excluded from the food exemption (taxable).""}"
 ND,food.dietary_supplements,,True,taxable,{}
@@ -993,6 +1094,8 @@ ND,food.soft_drinks,,True,taxable,{}
 ND,goods.electronics,,True,taxable,{}
 ND,goods.furniture,,True,taxable,{}
 ND,goods.general,,True,taxable,{}
+ND,hygiene.diapers,"Infant/baby diapers and adult incontinence products (briefs, liners, underpads), cloth or disposable.",False,exempt,"{""scope"": ""both""}"
+ND,hygiene.menstrual,"Menstrual and feminine hygiene products: tampons, sanitary pads, pantyliners, menstrual cups, and period underwear.",True,taxable,{}
 ND,medical.devices,,False,exempt,{}
 ND,medical.equipment,"Wheelchairs, hearing aids, prosthetics, durable medical equipment.",True,conditional,"{""note"": ""DME and prosthetics exempt when prescribed (N.D.C.C. 57-39.2-04)."", ""prescription_required"": true}"
 ND,medical.otc,Over-the-counter medications.,True,taxable,"{""note"": ""OTC taxable unless dispensed by prescription.""}"
@@ -1002,6 +1105,7 @@ ND,medical.rx,Prescription drugs (typically exempt nationwide).,False,exempt,{}
 ND,publications.books,,True,taxable,{}
 ND,publications.magazines,,True,taxable,{}
 ND,publications.newspapers,,False,exempt,{}
+ND,publications.textbooks,"Required course and college textbooks, printed or digital, as distinct from general trade books. Many states exempt these only when sold by a school or to an enrolled student.",True,conditional,"{""note"": ""Exempt when sold to regularly enrolled students of a school, or bought by a nonprofit school/college."", ""exempt_if"": ""enrolled_students_or_nonprofit_school""}"
 ND,services.ai_api,,False,exempt,{}
 ND,services.data_processing,,False,exempt,{}
 ND,services.personal_care,,False,exempt,{}
@@ -1023,6 +1127,7 @@ NE,digital_products.ebook,,True,taxable,{}
 NE,digital_products.music,,True,taxable,{}
 NE,digital_products.streaming,,True,taxable,{}
 NE,digital_products.video,,True,taxable,{}
+NE,food.bottled_water,"Plain, still, unsweetened, unflavored bottled drinking water (spring, mineral, distilled, or purified) sold in a sealed retail container. Excludes flavored, sweetened, or carbonated water, which is taxed as a soft drink under food.candy_soda.",False,exempt,"{""note"": ""Local option sales/use taxes may still apply; taxable if sold as part of prepared food or beverage service.""}"
 NE,food.candy,,False,exempt,{}
 NE,food.candy_soda,"Candy, soda, sweetened beverages (often taxed where groceries aren't).",True,taxable,"{""note"": ""Candy and soft drinks excluded from the food exemption (taxable).""}"
 NE,food.dietary_supplements,,True,taxable,{}
@@ -1032,6 +1137,8 @@ NE,food.soft_drinks,,False,exempt,{}
 NE,goods.electronics,,True,taxable,{}
 NE,goods.furniture,,True,taxable,{}
 NE,goods.general,,True,taxable,{}
+NE,hygiene.diapers,"Infant/baby diapers and adult incontinence products (briefs, liners, underpads), cloth or disposable.",True,taxable,"{""note"": ""Exemption enacted but not effective until 2027-07-01; taxable throughout 2026.""}"
+NE,hygiene.menstrual,"Menstrual and feminine hygiene products: tampons, sanitary pads, pantyliners, menstrual cups, and period underwear.",False,exempt,{}
 NE,medical.devices,,False,exempt,{}
 NE,medical.equipment,"Wheelchairs, hearing aids, prosthetics, durable medical equipment.",True,conditional,"{""note"": ""DME and prosthetics exempt when prescribed."", ""prescription_required"": true}"
 NE,medical.otc,Over-the-counter medications.,True,taxable,"{""note"": ""OTC taxable unless dispensed by prescription.""}"
@@ -1041,6 +1148,7 @@ NE,medical.rx,Prescription drugs (typically exempt nationwide).,False,exempt,{}
 NE,publications.books,,True,taxable,{}
 NE,publications.magazines,,True,taxable,{}
 NE,publications.newspapers,,False,exempt,{}
+NE,publications.textbooks,"Required course and college textbooks, printed or digital, as distinct from general trade books. Many states exempt these only when sold by a school or to an enrolled student.",True,taxable,"{""note"": ""College/general textbooks taxable; only a K-12 school-store carve-out.""}"
 NE,services.ai_api,,False,exempt,{}
 NE,services.data_processing,,False,exempt,{}
 NE,services.personal_care,,False,exempt,{}
@@ -1062,6 +1170,7 @@ NJ,digital_products.ebook,,True,taxable,{}
 NJ,digital_products.music,,True,taxable,{}
 NJ,digital_products.streaming,,False,exempt,{}
 NJ,digital_products.video,,True,taxable,{}
+NJ,food.bottled_water,"Plain, still, unsweetened, unflavored bottled drinking water (spring, mineral, distilled, or purified) sold in a sealed retail container. Excludes flavored, sweetened, or carbonated water, which is taxed as a soft drink under food.candy_soda.",False,exempt,"{""note"": ""Only artificially carbonated water is taxed as a soft drink; plain still and naturally carbonated bottled water is exempt as grocery food; no general NJ local sales tax.""}"
 NJ,food.candy,,True,taxable,{}
 NJ,food.candy_soda,"Candy, soda, sweetened beverages (often taxed where groceries aren't).",True,conditional,"{""note"": ""NJ taxes candy and soft drinks (carve-outs from the food exemption per § 54:32B-8.2)."", ""soda_taxable"": true, ""candy_taxable"": true}"
 NJ,food.dietary_supplements,,False,exempt,{}
@@ -1071,6 +1180,8 @@ NJ,food.soft_drinks,,True,taxable,{}
 NJ,goods.electronics,,True,taxable,{}
 NJ,goods.furniture,,True,taxable,{}
 NJ,goods.general,,True,taxable,{}
+NJ,hygiene.diapers,"Infant/baby diapers and adult incontinence products (briefs, liners, underpads), cloth or disposable.",False,exempt,"{""basis"": ""clothing"", ""scope"": ""both""}"
+NJ,hygiene.menstrual,"Menstrual and feminine hygiene products: tampons, sanitary pads, pantyliners, menstrual cups, and period underwear.",False,exempt,{}
 NJ,medical.devices,,False,exempt,{}
 NJ,medical.equipment,"Wheelchairs, hearing aids, prosthetics, durable medical equipment.",False,exempt,"{""note"": ""DME, prosthetics, mobility-enhancing equipment exempt for human use (§ 54:32B-8.1) — no prescription required for most items."", ""prescription_required"": false}"
 NJ,medical.otc,Over-the-counter medications.,False,exempt,"{""note"": ""NJ exempts OTC drugs (those bearing a Drug Facts label) under § 54:32B-8.1.""}"
@@ -1080,6 +1191,7 @@ NJ,medical.rx,Prescription drugs (typically exempt nationwide).,False,exempt,{}
 NJ,publications.books,,True,taxable,{}
 NJ,publications.magazines,,True,taxable,{}
 NJ,publications.newspapers,,False,exempt,{}
+NJ,publications.textbooks,"Required course and college textbooks, printed or digital, as distinct from general trade books. Many states exempt these only when sold by a school or to an enrolled student.",True,conditional,"{""note"": ""Exempt for institution-required course textbooks when the purchaser gives the seller Form ST-16."", ""exempt_if"": ""required_text_form_ST16""}"
 NJ,services.ai_api,,False,exempt,{}
 NJ,services.data_processing,,False,exempt,{}
 NJ,services.personal_care,,False,exempt,{}
@@ -1101,6 +1213,7 @@ NM,digital_products.ebook,,True,taxable,{}
 NM,digital_products.music,,True,taxable,{}
 NM,digital_products.streaming,,True,taxable,{}
 NM,digital_products.video,,True,taxable,{}
+NM,food.bottled_water,"Plain, still, unsweetened, unflavored bottled drinking water (spring, mineral, distilled, or purified) sold in a sealed retail container. Excludes flavored, sweetened, or carbonated water, which is taxed as a soft drink under food.candy_soda.",True,conditional,"{""note"": ""New Mexico's gross receipts tax deduction for food sold by a retail food store lists bottled water among qualifying items, but the deduction applies only when the seller meets the federal SNAP retail-food-store definition; sales by non-qualifying sellers, restaurants, or vending machines remain subject to GRT."", ""exempt_if"": ""sold_by_qualifying_retail_food_store""}"
 NM,food.candy,,False,exempt,{}
 NM,food.candy_soda,"Candy, soda, sweetened beverages (often taxed where groceries aren't).",False,exempt,"{""note"": ""Candy and soft drinks are SNAP-eligible and within the GRT food deduction.""}"
 NM,food.dietary_supplements,,True,taxable,{}
@@ -1110,6 +1223,8 @@ NM,food.soft_drinks,,False,exempt,{}
 NM,goods.electronics,,True,taxable,{}
 NM,goods.furniture,,True,taxable,{}
 NM,goods.general,,True,taxable,{}
+NM,hygiene.diapers,"Infant/baby diapers and adult incontinence products (briefs, liners, underpads), cloth or disposable.",True,taxable,"{""note"": ""GRT default-taxable; no diaper deduction found.""}"
+NM,hygiene.menstrual,"Menstrual and feminine hygiene products: tampons, sanitary pads, pantyliners, menstrual cups, and period underwear.",False,exempt,"{""note"": ""GRT deduction — products bear no gross receipts tax.""}"
 NM,medical.devices,,False,exempt,{}
 NM,medical.equipment,"Wheelchairs, hearing aids, prosthetics, durable medical equipment.",True,conditional,"{""note"": ""Prescribed medical equipment deductible from GRT (N.M. Stat. 7-9-73.3)."", ""prescription_required"": true}"
 NM,medical.otc,Over-the-counter medications.,True,taxable,"{""note"": ""OTC subject to GRT unless dispensed by prescription.""}"
@@ -1119,6 +1234,7 @@ NM,medical.rx,Prescription drugs (typically exempt nationwide).,False,exempt,{}
 NM,publications.books,,True,taxable,{}
 NM,publications.magazines,,True,taxable,{}
 NM,publications.newspapers,,False,exempt,{}
+NM,publications.textbooks,"Required course and college textbooks, printed or digital, as distinct from general trade books. Many states exempt these only when sold by a school or to an enrolled student.",True,conditional,"{""note"": ""GRT exempt only for on-campus bookstore sales to an enrolled student presenting a valid ID."", ""exempt_if"": ""on_campus_bookstore_enrolled_student_id""}"
 NM,services.ai_api,,True,taxable,{}
 NM,services.data_processing,,True,taxable,{}
 NM,services.personal_care,,True,taxable,{}
@@ -1140,6 +1256,7 @@ NV,digital_products.ebook,,False,exempt,{}
 NV,digital_products.music,,False,exempt,{}
 NV,digital_products.streaming,,False,exempt,{}
 NV,digital_products.video,,False,exempt,{}
+NV,food.bottled_water,"Plain, still, unsweetened, unflavored bottled drinking water (spring, mineral, distilled, or purified) sold in a sealed retail container. Excludes flavored, sweetened, or carbonated water, which is taxed as a soft drink under food.candy_soda.",True,taxable,"{""note"": ""2011 Nevada A.B. 218 amended the food-for-human-consumption exemption statute to specifically exclude bottled water from the definition of \""food,\"" effective after 2011-06-30.""}"
 NV,food.candy,,False,exempt,{}
 NV,food.candy_soda,"Candy, soda, sweetened beverages (often taxed where groceries aren't).",False,needs_research,"{""note"": ""Nevada's treatment of candy and soft drinks under its food-for-human-consumption exemption needs authoritative confirmation.""}"
 NV,food.dietary_supplements,,True,taxable,{}
@@ -1149,6 +1266,8 @@ NV,food.soft_drinks,,False,exempt,{}
 NV,goods.electronics,,True,taxable,{}
 NV,goods.furniture,,True,taxable,{}
 NV,goods.general,,True,taxable,{}
+NV,hygiene.diapers,"Infant/baby diapers and adult incontinence products (briefs, liners, underpads), cloth or disposable.",False,exempt,"{""scope"": ""both"", ""sunset"": ""2050-12-31""}"
+NV,hygiene.menstrual,"Menstrual and feminine hygiene products: tampons, sanitary pads, pantyliners, menstrual cups, and period underwear.",False,exempt,"{""note"": ""Voter-approved; scheduled to sunset 2028-12-31."", ""sunset"": ""2028-12-31""}"
 NV,medical.devices,,False,exempt,{}
 NV,medical.equipment,"Wheelchairs, hearing aids, prosthetics, durable medical equipment.",True,conditional,"{""note"": ""Prosthetic devices and DME exempt when prescribed (NRS 372.283)."", ""prescription_required"": true}"
 NV,medical.otc,Over-the-counter medications.,True,taxable,"{""note"": ""OTC taxable unless dispensed by prescription.""}"
@@ -1158,6 +1277,7 @@ NV,medical.rx,Prescription drugs (typically exempt nationwide).,False,exempt,{}
 NV,publications.books,,True,taxable,{}
 NV,publications.magazines,,True,taxable,{}
 NV,publications.newspapers,,False,exempt,{}
+NV,publications.textbooks,"Required course and college textbooks, printed or digital, as distinct from general trade books. Many states exempt these only when sold by a school or to an enrolled student.",True,conditional,"{""note"": ""Textbooks sold within the Nevada System of Higher Education exempt; third-party sales taxable."", ""exempt_if"": ""sold_within_NSHE""}"
 NV,services.ai_api,,False,exempt,{}
 NV,services.data_processing,,False,exempt,{}
 NV,services.personal_care,,False,exempt,{}
@@ -1179,6 +1299,7 @@ NY,digital_products.ebook,,False,exempt,{}
 NY,digital_products.music,,False,exempt,{}
 NY,digital_products.streaming,,False,exempt,{}
 NY,digital_products.video,,False,exempt,{}
+NY,food.bottled_water,"Plain, still, unsweetened, unflavored bottled drinking water (spring, mineral, distilled, or purified) sold in a sealed retail container. Excludes flavored, sweetened, or carbonated water, which is taxed as a soft drink under food.candy_soda.",True,taxable,"{""note"": ""Bottled water sold at retail is taxed like ordinary tangible personal property at the standard state+local rate.""}"
 NY,food.candy,,True,taxable,{}
 NY,food.candy_soda,"Candy, soda, sweetened beverages (often taxed where groceries aren't).",True,taxable,"{""note"": ""Candy, confectionery, and carbonated soft drinks are excepted from NY's food exemption (TB-ST-525).""}"
 NY,food.dietary_supplements,,False,exempt,{}
@@ -1188,6 +1309,8 @@ NY,food.soft_drinks,,True,taxable,{}
 NY,goods.electronics,,True,taxable,{}
 NY,goods.furniture,,True,taxable,{}
 NY,goods.general,,True,taxable,{}
+NY,hygiene.diapers,"Infant/baby diapers and adult incontinence products (briefs, liners, underpads), cloth or disposable.",False,exempt,"{""scope"": ""both""}"
+NY,hygiene.menstrual,"Menstrual and feminine hygiene products: tampons, sanitary pads, pantyliners, menstrual cups, and period underwear.",False,exempt,{}
 NY,medical.devices,,False,exempt,{}
 NY,medical.equipment,"Wheelchairs, hearing aids, prosthetics, durable medical equipment.",False,exempt,"{""note"": ""Prosthetic aids, hearing aids, eyeglasses, and DME exempt under Tax Law § 1115(a)(3) — no prescription required for most items."", ""prescription_required"": false}"
 NY,medical.otc,Over-the-counter medications.,False,exempt,"{""note"": ""NY exempts OTC drugs and medicines (TB-ST-193); cosmetics and grooming items remain taxable.""}"
@@ -1197,6 +1320,7 @@ NY,medical.rx,Prescription drugs (typically exempt nationwide).,False,exempt,{}
 NY,publications.books,,True,taxable,{}
 NY,publications.magazines,,True,taxable,{}
 NY,publications.newspapers,,False,exempt,{}
+NY,publications.textbooks,"Required course and college textbooks, printed or digital, as distinct from general trade books. Many states exempt these only when sold by a school or to an enrolled student.",True,conditional,"{""note"": ""Exempt for required course texts bought by a college student presenting a valid student ID."", ""exempt_if"": ""college_student_with_id""}"
 NY,services.ai_api,,True,taxable,{}
 NY,services.data_processing,,False,exempt,{}
 NY,services.personal_care,,True,taxable,{}
@@ -1218,6 +1342,7 @@ OH,digital_products.ebook,,True,taxable,{}
 OH,digital_products.music,,True,taxable,{}
 OH,digital_products.streaming,,True,taxable,{}
 OH,digital_products.video,,True,taxable,{}
+OH,food.bottled_water,"Plain, still, unsweetened, unflavored bottled drinking water (spring, mineral, distilled, or purified) sold in a sealed retail container. Excludes flavored, sweetened, or carbonated water, which is taxed as a soft drink under food.candy_soda.",False,exempt,"{""note"": ""Applies to off-premises consumption; a sweetened version would meet the statutory definition of a taxable \""soft drink.\""""}"
 OH,food.candy,,False,exempt,{}
 OH,food.candy_soda,"Candy, soda, sweetened beverages (often taxed where groceries aren't).",True,taxable,"{""note"": ""OH taxes candy and soft drinks per R.C. § 5739.02(B)(2) carve-outs.""}"
 OH,food.dietary_supplements,,True,taxable,{}
@@ -1227,6 +1352,8 @@ OH,food.soft_drinks,,True,taxable,{}
 OH,goods.electronics,,True,taxable,{}
 OH,goods.furniture,,True,taxable,{}
 OH,goods.general,,True,taxable,{}
+OH,hygiene.diapers,"Infant/baby diapers and adult incontinence products (briefs, liners, underpads), cloth or disposable.",True,conditional,"{""note"": ""Children's diapers exempt; adult incontinence taxable."", ""scope"": ""infant_only""}"
+OH,hygiene.menstrual,"Menstrual and feminine hygiene products: tampons, sanitary pads, pantyliners, menstrual cups, and period underwear.",False,exempt,{}
 OH,medical.devices,,False,exempt,{}
 OH,medical.equipment,"Wheelchairs, hearing aids, prosthetics, durable medical equipment.",True,conditional,"{""note"": ""DME exempt when prescribed (R.C. § 5739.02(B)(19)); over-the-counter purchases taxable."", ""prescription_required"": true}"
 OH,medical.otc,Over-the-counter medications.,True,taxable,"{""note"": ""OH taxes OTC drugs unless dispensed by prescription (R.C. § 5739.02(B)(19)).""}"
@@ -1236,6 +1363,7 @@ OH,medical.rx,Prescription drugs (typically exempt nationwide).,False,exempt,{}
 OH,publications.books,,True,taxable,{}
 OH,publications.magazines,,True,taxable,{}
 OH,publications.newspapers,,False,exempt,{}
+OH,publications.textbooks,"Required course and college textbooks, printed or digital, as distinct from general trade books. Many states exempt these only when sold by a school or to an enrolled student.",True,taxable,"{""note"": ""Taxable except during the back-to-school holiday (instructional materials <= $20/item).""}"
 OH,services.ai_api,,True,taxable,{}
 OH,services.data_processing,,True,taxable,{}
 OH,services.personal_care,,True,taxable,{}
@@ -1257,6 +1385,7 @@ OK,digital_products.ebook,,False,exempt,{}
 OK,digital_products.music,,False,exempt,{}
 OK,digital_products.streaming,,False,exempt,{}
 OK,digital_products.video,,False,exempt,{}
+OK,food.bottled_water,"Plain, still, unsweetened, unflavored bottled drinking water (spring, mineral, distilled, or purified) sold in a sealed retail container. Excludes flavored, sweetened, or carbonated water, which is taxed as a soft drink under food.candy_soda.",False,exempt,"{""note"": ""State sales tax on food and food ingredients, including bottled water, was reduced to 0% effective 2024-08-29; municipal and county sales/use taxes still apply."", ""local_may_tax"": true}"
 OK,food.candy,,True,taxable,{}
 OK,food.candy_soda,"Candy, soda, sweetened beverages (often taxed where groceries aren't).",True,conditional,"{""note"": ""Candy and soft drinks are SNAP-eligible and within the state grocery exemption; local taxes apply."", ""state_exempt"": true, ""local_taxable"": true}"
 OK,food.dietary_supplements,,True,taxable,{}
@@ -1266,6 +1395,8 @@ OK,food.soft_drinks,,True,taxable,{}
 OK,goods.electronics,,True,taxable,{}
 OK,goods.furniture,,True,taxable,{}
 OK,goods.general,,True,taxable,{}
+OK,hygiene.diapers,"Infant/baby diapers and adult incontinence products (briefs, liners, underpads), cloth or disposable.",True,taxable,{}
+OK,hygiene.menstrual,"Menstrual and feminine hygiene products: tampons, sanitary pads, pantyliners, menstrual cups, and period underwear.",True,taxable,{}
 OK,medical.devices,,False,exempt,{}
 OK,medical.equipment,"Wheelchairs, hearing aids, prosthetics, durable medical equipment.",True,conditional,"{""note"": ""DME and prosthetics exempt when prescribed (68 O.S. 1357)."", ""prescription_required"": true}"
 OK,medical.otc,Over-the-counter medications.,True,taxable,"{""note"": ""OTC taxable unless dispensed by prescription.""}"
@@ -1275,6 +1406,7 @@ OK,medical.rx,Prescription drugs (typically exempt nationwide).,False,exempt,{}
 OK,publications.books,,True,taxable,{}
 OK,publications.magazines,,True,taxable,{}
 OK,publications.newspapers,,False,exempt,{}
+OK,publications.textbooks,"Required course and college textbooks, printed or digital, as distinct from general trade books. Many states exempt these only when sold by a school or to an enrolled student.",True,conditional,"{""note"": ""Retail student purchase taxable; exempt only via a qualifying exempt educational institution."", ""exempt_if"": ""qualifying_exempt_institution""}"
 OK,services.ai_api,,False,exempt,{}
 OK,services.data_processing,,False,exempt,{}
 OK,services.personal_care,,False,exempt,{}
@@ -1296,6 +1428,7 @@ PA,digital_products.ebook,,True,taxable,{}
 PA,digital_products.music,,True,taxable,{}
 PA,digital_products.streaming,,True,taxable,{}
 PA,digital_products.video,,True,taxable,{}
+PA,food.bottled_water,"Plain, still, unsweetened, unflavored bottled drinking water (spring, mineral, distilled, or purified) sold in a sealed retail container. Excludes flavored, sweetened, or carbonated water, which is taxed as a soft drink under food.candy_soda.",False,exempt,"{""note"": ""Applies to plain, unflavored, non-carbonated water including non-flavored mineral water; flavored, sweetened, or vitamin water is a taxable soft drink.""}"
 PA,food.candy,,False,exempt,{}
 PA,food.candy_soda,"Candy, soda, sweetened beverages (often taxed where groceries aren't).",True,conditional,"{""note"": ""PA treats candy as food (exempt); soft drinks (including sweetened iced teas and carbonated beverages) are taxable per Reg § 32.1."", ""candy_exempt"": true, ""soft_drinks_taxable"": true}"
 PA,food.dietary_supplements,,False,exempt,{}
@@ -1305,6 +1438,8 @@ PA,food.soft_drinks,,True,taxable,{}
 PA,goods.electronics,,True,taxable,{}
 PA,goods.furniture,,True,taxable,{}
 PA,goods.general,,True,taxable,{}
+PA,hygiene.diapers,"Infant/baby diapers and adult incontinence products (briefs, liners, underpads), cloth or disposable.",False,exempt,"{""basis"": ""wearing_apparel"", ""scope"": ""both""}"
+PA,hygiene.menstrual,"Menstrual and feminine hygiene products: tampons, sanitary pads, pantyliners, menstrual cups, and period underwear.",False,exempt,{}
 PA,medical.devices,,False,exempt,{}
 PA,medical.equipment,"Wheelchairs, hearing aids, prosthetics, durable medical equipment.",False,exempt,"{""note"": ""Crutches, wheelchairs, prosthetics, hearing aids exempt under § 7204(17) and (18).""}"
 PA,medical.otc,Over-the-counter medications.,False,exempt,"{""note"": ""PA exempts medicines, drugs, and medical supplies — including OTC — under 72 P.S. § 7204(17).""}"
@@ -1314,6 +1449,7 @@ PA,medical.rx,Prescription drugs (typically exempt nationwide).,False,exempt,{}
 PA,publications.books,,True,taxable,{}
 PA,publications.magazines,,True,taxable,{}
 PA,publications.newspapers,,False,exempt,{}
+PA,publications.textbooks,"Required course and college textbooks, printed or digital, as distinct from general trade books. Many states exempt these only when sold by a school or to an enrolled student.",True,conditional,"{""note"": ""Exempt only when a required course textbook is sold by a recognized school/college (or authorized bookstore) to enrolled students/faculty."", ""exempt_if"": ""school_sold_to_enrolled""}"
 PA,services.ai_api,,True,taxable,{}
 PA,services.data_processing,,False,exempt,{}
 PA,services.personal_care,,False,exempt,{}
@@ -1335,6 +1471,7 @@ RI,digital_products.ebook,,True,taxable,{}
 RI,digital_products.music,,True,taxable,{}
 RI,digital_products.streaming,,True,taxable,{}
 RI,digital_products.video,,True,taxable,{}
+RI,food.bottled_water,"Plain, still, unsweetened, unflavored bottled drinking water (spring, mineral, distilled, or purified) sold in a sealed retail container. Excludes flavored, sweetened, or carbonated water, which is taxed as a soft drink under food.candy_soda.",True,conditional,"{""note"": ""Chilled bottled water in containers of 24 oz or less is taxed like a ready-to-drink beverage under RI's local meals & beverage tax rules plus the 7% state rate; larger or unchilled containers can qualify as exempt food and food ingredients."", ""exempt_if"": ""container_over_24oz_or_not_chilled""}"
 RI,food.candy,,True,taxable,{}
 RI,food.candy_soda,"Candy, soda, sweetened beverages (often taxed where groceries aren't).",True,taxable,"{""note"": ""Candy and soft drinks excluded from the food exemption (taxable).""}"
 RI,food.dietary_supplements,,True,taxable,{}
@@ -1344,6 +1481,8 @@ RI,food.soft_drinks,,True,taxable,{}
 RI,goods.electronics,,True,taxable,{}
 RI,goods.furniture,,True,taxable,{}
 RI,goods.general,,True,taxable,{}
+RI,hygiene.diapers,"Infant/baby diapers and adult incontinence products (briefs, liners, underpads), cloth or disposable.",False,exempt,"{""basis"": ""clothing"", ""scope"": ""both""}"
+RI,hygiene.menstrual,"Menstrual and feminine hygiene products: tampons, sanitary pads, pantyliners, menstrual cups, and period underwear.",False,exempt,{}
 RI,medical.devices,,False,exempt,{}
 RI,medical.equipment,"Wheelchairs, hearing aids, prosthetics, durable medical equipment.",True,conditional,"{""note"": ""DME and prosthetics exempt when prescribed (R.I. Gen. Laws 44-18-30)."", ""prescription_required"": true}"
 RI,medical.otc,Over-the-counter medications.,True,taxable,"{""note"": ""OTC taxable unless dispensed by prescription.""}"
@@ -1353,6 +1492,7 @@ RI,medical.rx,Prescription drugs (typically exempt nationwide).,False,exempt,{}
 RI,publications.books,,True,taxable,{}
 RI,publications.magazines,,True,taxable,{}
 RI,publications.newspapers,,False,exempt,{}
+RI,publications.textbooks,"Required course and college textbooks, printed or digital, as distinct from general trade books. Many states exempt these only when sold by a school or to an enrolled student.",True,conditional,"{""note"": ""New textbooks exempt when sold by an educational institution to its students/faculty; all used textbooks exempt regardless of seller."", ""exempt_if"": ""institution_sold_new_or_any_used""}"
 RI,services.ai_api,,True,taxable,{}
 RI,services.data_processing,,False,exempt,{}
 RI,services.personal_care,,False,exempt,{}
@@ -1374,6 +1514,7 @@ SC,digital_products.ebook,,False,exempt,{}
 SC,digital_products.music,,False,exempt,{}
 SC,digital_products.streaming,,False,exempt,{}
 SC,digital_products.video,,False,exempt,{}
+SC,food.bottled_water,"Plain, still, unsweetened, unflavored bottled drinking water (spring, mineral, distilled, or purified) sold in a sealed retail container. Excludes flavored, sweetened, or carbonated water, which is taxed as a soft drink under food.candy_soda.",False,exempt,"{""note"": ""Exempt from STATE sales tax only, as SNAP-eligible unprepared food for home consumption; local option sales/use taxes still apply unless the county also exempts groceries; bottled water sold to a commercial buyer is taxed at the full state rate."", ""local_may_tax"": true}"
 SC,food.candy,,False,exempt,{}
 SC,food.candy_soda,"Candy, soda, sweetened beverages (often taxed where groceries aren't).",True,conditional,"{""note"": ""Candy and soft drinks are SNAP-eligible and fall within SC's unprepared-food state exemption; local taxes may apply."", ""state_exempt"": true, ""local_taxable"": true}"
 SC,food.dietary_supplements,,True,taxable,{}
@@ -1383,6 +1524,8 @@ SC,food.soft_drinks,,False,exempt,{}
 SC,goods.electronics,,True,taxable,{}
 SC,goods.furniture,,True,taxable,{}
 SC,goods.general,,True,taxable,{}
+SC,hygiene.diapers,"Infant/baby diapers and adult incontinence products (briefs, liners, underpads), cloth or disposable.",True,taxable,"{""note"": ""Groceries exempt but diapers excluded.""}"
+SC,hygiene.menstrual,"Menstrual and feminine hygiene products: tampons, sanitary pads, pantyliners, menstrual cups, and period underwear.",False,exempt,{}
 SC,medical.devices,,False,exempt,{}
 SC,medical.equipment,"Wheelchairs, hearing aids, prosthetics, durable medical equipment.",True,conditional,"{""note"": ""DME and prosthetics exempt when prescribed (SC Code 12-36-2120)."", ""prescription_required"": true}"
 SC,medical.otc,Over-the-counter medications.,True,taxable,"{""note"": ""OTC taxable unless dispensed by prescription.""}"
@@ -1392,6 +1535,7 @@ SC,medical.rx,Prescription drugs (typically exempt nationwide).,False,exempt,{}
 SC,publications.books,,True,taxable,{}
 SC,publications.magazines,,True,taxable,{}
 SC,publications.newspapers,,False,exempt,{}
+SC,publications.textbooks,"Required course and college textbooks, printed or digital, as distinct from general trade books. Many states exempt these only when sold by a school or to an enrolled student.",False,exempt,{}
 SC,services.ai_api,,True,taxable,{}
 SC,services.data_processing,,False,exempt,{}
 SC,services.personal_care,,False,exempt,{}
@@ -1413,6 +1557,7 @@ SD,digital_products.ebook,,True,taxable,{}
 SD,digital_products.music,,True,taxable,{}
 SD,digital_products.streaming,,True,taxable,{}
 SD,digital_products.video,,True,taxable,{}
+SD,food.bottled_water,"Plain, still, unsweetened, unflavored bottled drinking water (spring, mineral, distilled, or purified) sold in a sealed retail container. Excludes flavored, sweetened, or carbonated water, which is taxed as a soft drink under food.candy_soda.",True,taxable,"{""note"": ""No general grocery exemption; only SNAP/WIC purchases are exempt. Voters rejected a full grocery-tax repeal (Initiated Measure 28) in Nov. 2024.""}"
 SD,food.candy,,True,taxable,{}
 SD,food.candy_soda,"Candy, soda, sweetened beverages (often taxed where groceries aren't).",True,taxable,{}
 SD,food.dietary_supplements,,True,taxable,{}
@@ -1422,6 +1567,8 @@ SD,food.soft_drinks,,True,taxable,{}
 SD,goods.electronics,,True,taxable,{}
 SD,goods.furniture,,True,taxable,{}
 SD,goods.general,,True,taxable,{}
+SD,hygiene.diapers,"Infant/baby diapers and adult incontinence products (briefs, liners, underpads), cloth or disposable.",True,taxable,{}
+SD,hygiene.menstrual,"Menstrual and feminine hygiene products: tampons, sanitary pads, pantyliners, menstrual cups, and period underwear.",True,taxable,{}
 SD,medical.devices,,False,exempt,{}
 SD,medical.equipment,"Wheelchairs, hearing aids, prosthetics, durable medical equipment.",True,conditional,"{""note"": ""DME and prosthetics exempt when prescribed (SDCL 10-45-14)."", ""prescription_required"": true}"
 SD,medical.otc,Over-the-counter medications.,True,taxable,"{""note"": ""OTC taxable unless dispensed by prescription.""}"
@@ -1431,6 +1578,7 @@ SD,medical.rx,Prescription drugs (typically exempt nationwide).,False,exempt,{}
 SD,publications.books,,True,taxable,{}
 SD,publications.magazines,,True,taxable,{}
 SD,publications.newspapers,,False,exempt,{}
+SD,publications.textbooks,"Required course and college textbooks, printed or digital, as distinct from general trade books. Many states exempt these only when sold by a school or to an enrolled student.",True,taxable,{}
 SD,services.ai_api,,True,taxable,{}
 SD,services.data_processing,,True,taxable,{}
 SD,services.personal_care,,True,taxable,{}
@@ -1452,6 +1600,7 @@ TN,digital_products.ebook,,True,taxable,{}
 TN,digital_products.music,,True,taxable,{}
 TN,digital_products.streaming,,True,taxable,{}
 TN,digital_products.video,,True,taxable,{}
+TN,food.bottled_water,"Plain, still, unsweetened, unflavored bottled drinking water (spring, mineral, distilled, or purified) sold in a sealed retail container. Excludes flavored, sweetened, or carbonated water, which is taxed as a soft drink under food.candy_soda.",True,reduced_rate,"{""note"": ""Bottled water is listed as an example of food and food ingredients taxed at the reduced 4% state rate instead of the general 7% rate; local tax still applies on top."", ""local_may_tax"": true}"
 TN,food.candy,,True,taxable,{}
 TN,food.candy_soda,"Candy, soda, sweetened beverages (often taxed where groceries aren't).",True,taxable,"{""note"": ""Candy, dietary supplements, and prepared food taxed at the full rate, not the 4% food rate.""}"
 TN,food.dietary_supplements,,True,taxable,{}
@@ -1461,6 +1610,8 @@ TN,food.soft_drinks,,True,taxable,{}
 TN,goods.electronics,,True,taxable,{}
 TN,goods.furniture,,True,taxable,{}
 TN,goods.general,,True,taxable,{}
+TN,hygiene.diapers,"Infant/baby diapers and adult incontinence products (briefs, liners, underpads), cloth or disposable.",True,taxable,"{""note"": ""Full 7% rate; relief only via tax-free weekend.""}"
+TN,hygiene.menstrual,"Menstrual and feminine hygiene products: tampons, sanitary pads, pantyliners, menstrual cups, and period underwear.",True,taxable,"{""note"": ""2026 bill pending, not effective.""}"
 TN,medical.devices,,False,exempt,{}
 TN,medical.equipment,"Wheelchairs, hearing aids, prosthetics, durable medical equipment.",True,conditional,"{""note"": ""Prosthetics, mobility-enhancing equipment, and DME exempt when prescribed (§67-6-314)."", ""prescription_required"": true}"
 TN,medical.otc,Over-the-counter medications.,True,taxable,"{""note"": ""OTC taxable unless dispensed by prescription.""}"
@@ -1470,6 +1621,7 @@ TN,medical.rx,Prescription drugs (typically exempt nationwide).,False,exempt,{}
 TN,publications.books,,True,taxable,{}
 TN,publications.magazines,,True,taxable,{}
 TN,publications.newspapers,,False,exempt,{}
+TN,publications.textbooks,"Required course and college textbooks, printed or digital, as distinct from general trade books. Many states exempt these only when sold by a school or to an enrolled student.",False,exempt,{}
 TN,services.ai_api,,True,taxable,{}
 TN,services.data_processing,,False,exempt,{}
 TN,services.personal_care,,False,exempt,{}
@@ -1491,6 +1643,7 @@ TX,digital_products.ebook,,True,taxable,{}
 TX,digital_products.music,,True,taxable,{}
 TX,digital_products.streaming,,True,taxable,{}
 TX,digital_products.video,,True,taxable,{}
+TX,food.bottled_water,"Plain, still, unsweetened, unflavored bottled drinking water (spring, mineral, distilled, or purified) sold in a sealed retail container. Excludes flavored, sweetened, or carbonated water, which is taxed as a soft drink under food.candy_soda.",False,exempt,"{""note"": ""Applies to plain/spring/mineral/sparkling (non-flavored) water sold by any seller incl. restaurants; flavored water is taxed as a soft drink; no exemption certificate required.""}"
 TX,food.candy,,True,taxable,{}
 TX,food.candy_soda,"Candy, soda, sweetened beverages (often taxed where groceries aren't).",True,taxable,"{""note"": ""Texas removes candy and soft drinks from the grocery exemption — they are taxable.""}"
 TX,food.dietary_supplements,,False,exempt,{}
@@ -1500,6 +1653,8 @@ TX,food.soft_drinks,,True,taxable,{}
 TX,goods.electronics,,True,taxable,{}
 TX,goods.furniture,,True,taxable,{}
 TX,goods.general,,True,taxable,{}
+TX,hygiene.diapers,"Infant/baby diapers and adult incontinence products (briefs, liners, underpads), cloth or disposable.",False,exempt,"{""scope"": ""both""}"
+TX,hygiene.menstrual,"Menstrual and feminine hygiene products: tampons, sanitary pads, pantyliners, menstrual cups, and period underwear.",False,exempt,{}
 TX,medical.devices,,False,exempt,{}
 TX,medical.equipment,"Wheelchairs, hearing aids, prosthetics, durable medical equipment.",False,exempt,"{""note"": ""Wheelchairs, hearing aids, prosthetics, and DME exempt when sold to or for use by a specific patient (§ 151.313)."", ""prescription_required"": true}"
 TX,medical.otc,Over-the-counter medications.,True,conditional,"{""note"": ""TX exempts OTC drugs that bear a Drug Facts label per FDA labeling (§ 151.313); other OTC items remain taxable."", ""otc_with_drug_facts_label_exempt"": true}"
@@ -1509,6 +1664,7 @@ TX,medical.rx,Prescription drugs (typically exempt nationwide).,False,exempt,{}
 TX,publications.books,,True,taxable,{}
 TX,publications.magazines,,True,taxable,{}
 TX,publications.newspapers,,False,exempt,{}
+TX,publications.textbooks,"Required course and college textbooks, printed or digital, as distinct from general trade books. Many states exempt these only when sold by a school or to an enrolled student.",True,taxable,"{""note"": ""Print and digital taxable; expressly excluded from the sales-tax holiday.""}"
 TX,services.ai_api,,True,taxable,{}
 TX,services.data_processing,,True,taxable,{}
 TX,services.personal_care,,True,taxable,{}
@@ -1530,6 +1686,7 @@ UT,digital_products.ebook,,True,taxable,{}
 UT,digital_products.music,,True,taxable,{}
 UT,digital_products.streaming,,True,taxable,{}
 UT,digital_products.video,,True,taxable,{}
+UT,food.bottled_water,"Plain, still, unsweetened, unflavored bottled drinking water (spring, mineral, distilled, or purified) sold in a sealed retail container. Excludes flavored, sweetened, or carbonated water, which is taxed as a soft drink under food.candy_soda.",True,reduced_rate,"{""note"": ""Uniform statewide 3% rate (1.75% state + 1% local option + 0.25% county option) applies to grocery food including bottled water, regardless of the local general sales tax rate.""}"
 UT,food.candy,,True,taxable,{}
 UT,food.candy_soda,"Candy, soda, sweetened beverages (often taxed where groceries aren't).",True,taxable,"{""note"": ""Candy, soft drinks, and prepared food excluded from the 3% grocery rate (full rate).""}"
 UT,food.dietary_supplements,,True,taxable,{}
@@ -1539,6 +1696,8 @@ UT,food.soft_drinks,,True,taxable,{}
 UT,goods.electronics,,True,taxable,{}
 UT,goods.furniture,,True,taxable,{}
 UT,goods.general,,True,taxable,{}
+UT,hygiene.diapers,"Infant/baby diapers and adult incontinence products (briefs, liners, underpads), cloth or disposable.",True,taxable,"{""note"": ""Reduced grocery rate does not apply to diapers.""}"
+UT,hygiene.menstrual,"Menstrual and feminine hygiene products: tampons, sanitary pads, pantyliners, menstrual cups, and period underwear.",True,taxable,{}
 UT,medical.devices,,False,exempt,{}
 UT,medical.equipment,"Wheelchairs, hearing aids, prosthetics, durable medical equipment.",True,conditional,"{""note"": ""DME and prosthetics exempt when prescribed (Utah Code 59-12-104)."", ""prescription_required"": true}"
 UT,medical.otc,Over-the-counter medications.,True,taxable,"{""note"": ""OTC taxable unless dispensed by prescription.""}"
@@ -1548,6 +1707,7 @@ UT,medical.rx,Prescription drugs (typically exempt nationwide).,False,exempt,{}
 UT,publications.books,,True,taxable,{}
 UT,publications.magazines,,True,taxable,{}
 UT,publications.newspapers,,False,exempt,{}
+UT,publications.textbooks,"Required course and college textbooks, printed or digital, as distinct from general trade books. Many states exempt these only when sold by a school or to an enrolled student.",True,conditional,"{""note"": ""Higher-ed course text sold to an admitted student, exempt only when the seller is a campus bookstore or a >=51% textbook seller."", ""exempt_if"": ""campus_bookstore_or_majority_textbook_seller""}"
 UT,services.ai_api,,True,taxable,{}
 UT,services.data_processing,,False,exempt,{}
 UT,services.personal_care,,False,exempt,{}
@@ -1569,6 +1729,7 @@ VA,digital_products.ebook,,False,exempt,{}
 VA,digital_products.music,,False,exempt,{}
 VA,digital_products.streaming,,False,exempt,{}
 VA,digital_products.video,,False,exempt,{}
+VA,food.bottled_water,"Plain, still, unsweetened, unflavored bottled drinking water (spring, mineral, distilled, or purified) sold in a sealed retail container. Excludes flavored, sweetened, or carbonated water, which is taxed as a soft drink under food.candy_soda.",True,reduced_rate,"{""note"": ""Container size is not a factor per Tax Commissioner Ruling 06-98 (bottled water sold by the case or via water-cooler delivery both qualify); reduced to a 1% local-option-only rate since the 1.5% state portion was eliminated 2023-01-01.""}"
 VA,food.candy,,True,taxable,{}
 VA,food.candy_soda,"Candy, soda, sweetened beverages (often taxed where groceries aren't).",True,reduced_rate,"{""note"": ""VA's reduced food rate uses the federal food-stamp definition, which includes candy and soft drinks (§58.1-611.1)."", ""reduced_rate"": 0.01}"
 VA,food.dietary_supplements,,True,taxable,{}
@@ -1578,6 +1739,8 @@ VA,food.soft_drinks,,True,taxable,{}
 VA,goods.electronics,,True,taxable,{}
 VA,goods.furniture,,True,taxable,{}
 VA,goods.general,,True,taxable,{}
+VA,hygiene.diapers,"Infant/baby diapers and adult incontinence products (briefs, liners, underpads), cloth or disposable.",True,reduced_rate,"{""note"": ""1% rate (state portion removed 2023; 1% local remains); infant + adult."", ""scope"": ""both""}"
+VA,hygiene.menstrual,"Menstrual and feminine hygiene products: tampons, sanitary pads, pantyliners, menstrual cups, and period underwear.",True,reduced_rate,"{""note"": ""Reduced to 2.5% in 2020; state portion later cut, leaving 1.0% local-option rate as of 2023.""}"
 VA,medical.devices,,False,exempt,{}
 VA,medical.equipment,"Wheelchairs, hearing aids, prosthetics, durable medical equipment.",True,conditional,"{""note"": ""DME, wheelchairs, prosthetics exempt when purchased on prescription (§58.1-609.10(10))."", ""prescription_required"": true}"
 VA,medical.otc,Over-the-counter medications.,False,exempt,"{""note"": ""VA exempts nonprescription drugs and proprietary medicines (§58.1-609.10(14)).""}"
@@ -1587,6 +1750,7 @@ VA,medical.rx,Prescription drugs (typically exempt nationwide).,False,exempt,{}
 VA,publications.books,,True,taxable,{}
 VA,publications.magazines,,True,taxable,{}
 VA,publications.newspapers,,False,exempt,{}
+VA,publications.textbooks,"Required course and college textbooks, printed or digital, as distinct from general trade books. Many states exempt these only when sold by a school or to an enrolled student.",True,conditional,"{""note"": ""Exempt when sold to college students by the institution, or by any dealer if the text is certified as required for the course."", ""exempt_if"": ""institution_sold_or_certified_required""}"
 VA,services.ai_api,,False,exempt,{}
 VA,services.data_processing,,False,exempt,{}
 VA,services.personal_care,,False,exempt,{}
@@ -1608,6 +1772,7 @@ VT,digital_products.ebook,,True,taxable,{}
 VT,digital_products.music,,True,taxable,{}
 VT,digital_products.streaming,,True,taxable,{}
 VT,digital_products.video,,True,taxable,{}
+VT,food.bottled_water,"Plain, still, unsweetened, unflavored bottled drinking water (spring, mineral, distilled, or purified) sold in a sealed retail container. Excludes flavored, sweetened, or carbonated water, which is taxed as a soft drink under food.candy_soda.",False,exempt,"{""note"": ""Exempt only if no sweetener is added; carbonation or natural flavoring alone does not make it a taxable soft drink under VT's definition. Sweetened bottled water is taxed as a soft drink (out of scope).""}"
 VT,food.candy,,False,exempt,{}
 VT,food.candy_soda,"Candy, soda, sweetened beverages (often taxed where groceries aren't).",True,conditional,"{""note"": ""VT taxes soft drinks (since 2015); candy is treated as food and exempt."", ""candy_exempt"": true, ""soft_drinks_taxable"": true}"
 VT,food.dietary_supplements,,False,exempt,{}
@@ -1617,6 +1782,8 @@ VT,food.soft_drinks,,False,exempt,{}
 VT,goods.electronics,,True,taxable,{}
 VT,goods.furniture,,True,taxable,{}
 VT,goods.general,,True,taxable,{}
+VT,hygiene.diapers,"Infant/baby diapers and adult incontinence products (briefs, liners, underpads), cloth or disposable.",False,exempt,"{""basis"": ""clothing"", ""scope"": ""both""}"
+VT,hygiene.menstrual,"Menstrual and feminine hygiene products: tampons, sanitary pads, pantyliners, menstrual cups, and period underwear.",False,exempt,{}
 VT,medical.devices,,False,exempt,{}
 VT,medical.equipment,"Wheelchairs, hearing aids, prosthetics, durable medical equipment.",True,conditional,"{""note"": ""DME and prosthetics exempt when prescribed (32 V.S.A. 9741)."", ""prescription_required"": true}"
 VT,medical.otc,Over-the-counter medications.,False,exempt,"{""note"": ""VT exempts over-the-counter drugs intended for human use (32 V.S.A. 9741(2)).""}"
@@ -1626,6 +1793,7 @@ VT,medical.rx,Prescription drugs (typically exempt nationwide).,False,exempt,{}
 VT,publications.books,,True,taxable,{}
 VT,publications.magazines,,True,taxable,{}
 VT,publications.newspapers,,False,exempt,{}
+VT,publications.textbooks,"Required course and college textbooks, printed or digital, as distinct from general trade books. Many states exempt these only when sold by a school or to an enrolled student.",True,conditional,"{""note"": ""Exempt only for textbooks sold by a bookstore on school premises; exact subdivision not primary-sourced."", ""exempt_if"": ""bookstore_on_school_premises""}"
 VT,services.ai_api,,True,taxable,{}
 VT,services.data_processing,,False,exempt,{}
 VT,services.personal_care,,False,exempt,{}
@@ -1647,6 +1815,7 @@ WA,digital_products.ebook,,True,taxable,{}
 WA,digital_products.music,,True,taxable,{}
 WA,digital_products.streaming,,True,taxable,{}
 WA,digital_products.video,,True,taxable,{}
+WA,food.bottled_water,"Plain, still, unsweetened, unflavored bottled drinking water (spring, mineral, distilled, or purified) sold in a sealed retail container. Excludes flavored, sweetened, or carbonated water, which is taxed as a soft drink under food.candy_soda.",True,taxable,"{""note"": ""Narrow refund/exemption paths exist for SNAP purchases, buyers with no other potable water source, and prescription use (RCW 82.08.9994 and 82.08.99941); local sales tax also applies.""}"
 WA,food.candy,,False,exempt,{}
 WA,food.candy_soda,"Candy, soda, sweetened beverages (often taxed where groceries aren't).",True,taxable,"{""note"": ""Candy, soft drinks, and dietary supplements excluded from the food exemption.""}"
 WA,food.dietary_supplements,,True,taxable,{}
@@ -1656,6 +1825,8 @@ WA,food.soft_drinks,,True,taxable,{}
 WA,goods.electronics,,True,taxable,{}
 WA,goods.furniture,,True,taxable,{}
 WA,goods.general,,True,taxable,{}
+WA,hygiene.diapers,"Infant/baby diapers and adult incontinence products (briefs, liners, underpads), cloth or disposable.",True,taxable,"{""note"": ""Exemption enacted but not effective until 2029-01-01; taxable in 2026.""}"
+WA,hygiene.menstrual,"Menstrual and feminine hygiene products: tampons, sanitary pads, pantyliners, menstrual cups, and period underwear.",False,exempt,{}
 WA,medical.devices,,False,exempt,{}
 WA,medical.equipment,"Wheelchairs, hearing aids, prosthetics, durable medical equipment.",True,conditional,"{""note"": ""Prosthetic devices and DME for home use exempt when prescribed (RCW 82.08.0283)."", ""prescription_required"": true}"
 WA,medical.otc,Over-the-counter medications.,True,taxable,"{""note"": ""OTC taxable unless dispensed by prescription.""}"
@@ -1665,6 +1836,7 @@ WA,medical.rx,Prescription drugs (typically exempt nationwide).,False,exempt,{}
 WA,publications.books,,True,taxable,{}
 WA,publications.magazines,,True,taxable,{}
 WA,publications.newspapers,,False,exempt,{}
+WA,publications.textbooks,"Required course and college textbooks, printed or digital, as distinct from general trade books. Many states exempt these only when sold by a school or to an enrolled student.",True,taxable,{}
 WA,services.ai_api,,True,taxable,{}
 WA,services.data_processing,,False,exempt,{}
 WA,services.personal_care,,True,taxable,{}
@@ -1686,6 +1858,7 @@ WI,digital_products.ebook,,True,taxable,{}
 WI,digital_products.music,,True,taxable,{}
 WI,digital_products.streaming,,True,taxable,{}
 WI,digital_products.video,,True,taxable,{}
+WI,food.bottled_water,"Plain, still, unsweetened, unflavored bottled drinking water (spring, mineral, distilled, or purified) sold in a sealed retail container. Excludes flavored, sweetened, or carbonated water, which is taxed as a soft drink under food.candy_soda.",False,exempt,"{""note"": ""Exemption applies only to bottled water that is not carbonated, sweetened, or flavored; sweetened/flavored/carbonated bottled water is taxed as a soft drink (out of scope).""}"
 WI,food.candy,,True,taxable,{}
 WI,food.candy_soda,"Candy, soda, sweetened beverages (often taxed where groceries aren't).",True,taxable,"{""note"": ""Candy and soft drinks excluded from the food exemption (taxable).""}"
 WI,food.dietary_supplements,,True,taxable,{}
@@ -1695,6 +1868,8 @@ WI,food.soft_drinks,,True,taxable,{}
 WI,goods.electronics,,True,taxable,{}
 WI,goods.furniture,,True,taxable,{}
 WI,goods.general,,True,taxable,{}
+WI,hygiene.diapers,"Infant/baby diapers and adult incontinence products (briefs, liners, underpads), cloth or disposable.",True,taxable,"{""note"": ""AB 177 / SB 114 pending, not enacted.""}"
+WI,hygiene.menstrual,"Menstrual and feminine hygiene products: tampons, sanitary pads, pantyliners, menstrual cups, and period underwear.",True,taxable,"{""note"": ""2026 bill pending, not effective.""}"
 WI,medical.devices,,False,exempt,{}
 WI,medical.equipment,"Wheelchairs, hearing aids, prosthetics, durable medical equipment.",True,conditional,"{""note"": ""DME and prosthetics exempt when prescribed (Wis. Stat. 77.54(22m))."", ""prescription_required"": true}"
 WI,medical.otc,Over-the-counter medications.,True,taxable,"{""note"": ""OTC taxable unless dispensed by prescription.""}"
@@ -1704,6 +1879,7 @@ WI,medical.rx,Prescription drugs (typically exempt nationwide).,False,exempt,{}
 WI,publications.books,,True,taxable,{}
 WI,publications.magazines,,True,taxable,{}
 WI,publications.newspapers,,False,exempt,{}
+WI,publications.textbooks,"Required course and college textbooks, printed or digital, as distinct from general trade books. Many states exempt these only when sold by a school or to an enrolled student.",True,conditional,"{""note"": ""College textbooks taxable; only K-12 school-sold textbooks exempt."", ""exempt_if"": ""sold_by_k12_school""}"
 WI,services.ai_api,,False,exempt,{}
 WI,services.data_processing,,False,exempt,{}
 WI,services.personal_care,,False,exempt,{}
@@ -1725,6 +1901,7 @@ WV,digital_products.ebook,,False,exempt,{}
 WV,digital_products.music,,False,exempt,{}
 WV,digital_products.streaming,,False,exempt,{}
 WV,digital_products.video,,False,exempt,{}
+WV,food.bottled_water,"Plain, still, unsweetened, unflavored bottled drinking water (spring, mineral, distilled, or purified) sold in a sealed retail container. Excludes flavored, sweetened, or carbonated water, which is taxed as a soft drink under food.candy_soda.",False,exempt,"{""note"": ""Plain unsweetened bottled water is food and food ingredients (W. Va. Code 11-15B-2, not excluded) and is not a soft drink (no added sweetener), so it follows WV's food exemption. SST Taxability Matrix not directly readable at curation; the statutory definitions are dispositive."", ""basis"": ""food_and_food_ingredients""}"
 WV,food.candy,,False,exempt,{}
 WV,food.candy_soda,"Candy, soda, sweetened beverages (often taxed where groceries aren't).",True,taxable,"{""note"": ""Candy and soft drinks excluded from the food exemption (taxable).""}"
 WV,food.dietary_supplements,,False,exempt,{}
@@ -1734,6 +1911,8 @@ WV,food.soft_drinks,,True,taxable,{}
 WV,goods.electronics,,True,taxable,{}
 WV,goods.furniture,,True,taxable,{}
 WV,goods.general,,True,taxable,{}
+WV,hygiene.diapers,"Infant/baby diapers and adult incontinence products (briefs, liners, underpads), cloth or disposable.",True,taxable,"{""note"": ""HB 3447 proposed exemption, not enacted.""}"
+WV,hygiene.menstrual,"Menstrual and feminine hygiene products: tampons, sanitary pads, pantyliners, menstrual cups, and period underwear.",True,taxable,"{""note"": ""2026 bill pending, not effective.""}"
 WV,medical.devices,,False,exempt,{}
 WV,medical.equipment,"Wheelchairs, hearing aids, prosthetics, durable medical equipment.",True,conditional,"{""note"": ""DME and prosthetics exempt when prescribed (W. Va. Code 11-15-9)."", ""prescription_required"": true}"
 WV,medical.otc,Over-the-counter medications.,True,taxable,"{""note"": ""OTC taxable unless dispensed by prescription.""}"
@@ -1743,6 +1922,7 @@ WV,medical.rx,Prescription drugs (typically exempt nationwide).,False,exempt,{}
 WV,publications.books,,True,taxable,{}
 WV,publications.magazines,,True,taxable,{}
 WV,publications.newspapers,,False,exempt,{}
+WV,publications.textbooks,"Required course and college textbooks, printed or digital, as distinct from general trade books. Many states exempt these only when sold by a school or to an enrolled student.",True,conditional,"{""note"": ""Textbooks required for use in WV schools/qualifying institutions (incl. colleges) exempt, whether sold to the school or the student."", ""exempt_if"": ""required_for_wv_school_incl_college""}"
 WV,services.ai_api,,True,taxable,{}
 WV,services.data_processing,,True,taxable,{}
 WV,services.personal_care,,True,taxable,{}
@@ -1764,6 +1944,7 @@ WY,digital_products.ebook,,True,taxable,{}
 WY,digital_products.music,,True,taxable,{}
 WY,digital_products.streaming,,True,taxable,{}
 WY,digital_products.video,,True,taxable,{}
+WY,food.bottled_water,"Plain, still, unsweetened, unflavored bottled drinking water (spring, mineral, distilled, or purified) sold in a sealed retail container. Excludes flavored, sweetened, or carbonated water, which is taxed as a soft drink under food.candy_soda.",False,exempt,"{""note"": ""Applies to sealed bottled water sold for off-premises/home consumption; prepared, heated, or on-premises food is taxed separately; local option sales taxes may still apply. No WA-style bottled-water carve-out was found in statute.""}"
 WY,food.candy,,False,exempt,{}
 WY,food.candy_soda,"Candy, soda, sweetened beverages (often taxed where groceries aren't).",True,taxable,"{""note"": ""Candy and soft drinks excluded from the food exemption (taxable).""}"
 WY,food.dietary_supplements,,False,exempt,{}
@@ -1773,6 +1954,8 @@ WY,food.soft_drinks,,False,exempt,{}
 WY,goods.electronics,,True,taxable,{}
 WY,goods.furniture,,True,taxable,{}
 WY,goods.general,,True,taxable,{}
+WY,hygiene.diapers,"Infant/baby diapers and adult incontinence products (briefs, liners, underpads), cloth or disposable.",True,taxable,{}
+WY,hygiene.menstrual,"Menstrual and feminine hygiene products: tampons, sanitary pads, pantyliners, menstrual cups, and period underwear.",True,taxable,{}
 WY,medical.devices,,False,exempt,{}
 WY,medical.equipment,"Wheelchairs, hearing aids, prosthetics, durable medical equipment.",True,conditional,"{""note"": ""DME and prosthetics exempt when prescribed (Wyo. Stat. 39-15-105)."", ""prescription_required"": true}"
 WY,medical.otc,Over-the-counter medications.,True,taxable,"{""note"": ""OTC taxable unless dispensed by prescription.""}"
@@ -1782,6 +1965,7 @@ WY,medical.rx,Prescription drugs (typically exempt nationwide).,False,exempt,{}
 WY,publications.books,,True,taxable,{}
 WY,publications.magazines,,True,taxable,{}
 WY,publications.newspapers,,False,exempt,{}
+WY,publications.textbooks,"Required course and college textbooks, printed or digital, as distinct from general trade books. Many states exempt these only when sold by a school or to an enrolled student.",True,taxable,{}
 WY,services.ai_api,,False,exempt,{}
 WY,services.data_processing,,False,exempt,{}
 WY,services.personal_care,,False,exempt,{}
