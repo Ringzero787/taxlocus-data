@@ -15913,14 +15913,14 @@
   {
     "state": "FL",
     "jurisdiction_type": "county",
-    "name": "St Johns",
+    "name": "St. Johns",
     "fips_code": null,
     "rate": 0.005
   },
   {
     "state": "FL",
     "jurisdiction_type": "county",
-    "name": "St Lucie",
+    "name": "St. Lucie",
     "fips_code": null,
     "rate": 0.01
   },
