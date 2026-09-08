@@ -567,7 +567,7 @@ AL,city,Woodstock,,0.02
 AL,city,Woodville,,0.03
 AL,city,Yellow Bluff,,0.015
 AL,city,York,,0.04
-AL,county,Autauga County,001,0.02
+AL,county,Autauga County,001,0.025
 AL,county,Baldwin County,003,0.03
 AL,county,Barbour County,005,0.015
 AL,county,Bibb County,007,0.04
@@ -1628,62 +1628,62 @@ CA,special_district,Turlock (CDTFA tax area),,0.01375
 CA,special_district,Tustin (CDTFA tax area),,0.005
 CA,special_district,Twentynine Palms (CDTFA tax area),,0.005
 CA,special_district,Ukiah (CDTFA tax area),,0.01625
+CA,special_district,Unincorporated (CDTFA tax area),,0.005
+CA,special_district,Unincorporated (CDTFA tax area),,0.01
 CA,special_district,Unincorporated (CDTFA tax area),,0.0
-CA,special_district,Unincorporated (CDTFA tax area),,0.025
+CA,special_district,Unincorporated (CDTFA tax area),,0.0
 CA,special_district,Unincorporated (CDTFA tax area),,0.005
 CA,special_district,Unincorporated (CDTFA tax area),,0.0
 CA,special_district,Unincorporated (CDTFA tax area),,0.0
+CA,special_district,Unincorporated (CDTFA tax area),,0.005
 CA,special_district,Unincorporated (CDTFA tax area),,0.0
-CA,special_district,Unincorporated (CDTFA tax area),,0.01
+CA,special_district,Unincorporated (CDTFA tax area),,0.00625
+CA,special_district,Unincorporated (CDTFA tax area),,0.025
+CA,special_district,Unincorporated (CDTFA tax area),,0.005
+CA,special_district,Unincorporated (CDTFA tax area),,0.02
 CA,special_district,Unincorporated (CDTFA tax area),,0.01
 CA,special_district,Unincorporated (CDTFA tax area),,0.01
 CA,special_district,Unincorporated (CDTFA tax area),,0.00625
-CA,special_district,Unincorporated (CDTFA tax area),,0.005
-CA,special_district,Unincorporated (CDTFA tax area),,0.025
-CA,special_district,Unincorporated (CDTFA tax area),,0.005
-CA,special_district,Unincorporated (CDTFA tax area),,0.015
+CA,special_district,Unincorporated (CDTFA tax area),,0.00125
 CA,special_district,Unincorporated (CDTFA tax area),,0.005
 CA,special_district,Unincorporated (CDTFA tax area),,0.0
 CA,special_district,Unincorporated (CDTFA tax area),,0.0
-CA,special_district,Unincorporated (CDTFA tax area),,0.00725
 CA,special_district,Unincorporated (CDTFA tax area),,0.0
 CA,special_district,Unincorporated (CDTFA tax area),,0.0
-CA,special_district,Unincorporated (CDTFA tax area),,0.01
+CA,special_district,Unincorporated (CDTFA tax area),,0.0
+CA,special_district,Unincorporated (CDTFA tax area),,0.03
 CA,special_district,Unincorporated (CDTFA tax area),,0.015
 CA,special_district,Unincorporated (CDTFA tax area),,0.0225
 CA,special_district,Unincorporated (CDTFA tax area),,0.005
+CA,special_district,Unincorporated (CDTFA tax area),,0.025
+CA,special_district,Unincorporated (CDTFA tax area),,0.0025
+CA,special_district,Unincorporated (CDTFA tax area),,0.0
+CA,special_district,Unincorporated (CDTFA tax area),,0.005
+CA,special_district,Unincorporated (CDTFA tax area),,0.02125
+CA,special_district,Unincorporated (CDTFA tax area),,0.005
 CA,special_district,Unincorporated (CDTFA tax area),,0.01
 CA,special_district,Unincorporated (CDTFA tax area),,0.01
+CA,special_district,Unincorporated (CDTFA tax area),,0.0
+CA,special_district,Unincorporated (CDTFA tax area),,0.005
 CA,special_district,Unincorporated (CDTFA tax area),,0.015
 CA,special_district,Unincorporated (CDTFA tax area),,0.005
 CA,special_district,Unincorporated (CDTFA tax area),,0.0
-CA,special_district,Unincorporated (CDTFA tax area),,0.005
-CA,special_district,Unincorporated (CDTFA tax area),,0.03
-CA,special_district,Unincorporated (CDTFA tax area),,0.0025
-CA,special_district,Unincorporated (CDTFA tax area),,0.0
-CA,special_district,Unincorporated (CDTFA tax area),,0.0
-CA,special_district,Unincorporated (CDTFA tax area),,0.0
-CA,special_district,Unincorporated (CDTFA tax area),,0.00125
-CA,special_district,Unincorporated (CDTFA tax area),,0.005
-CA,special_district,Unincorporated (CDTFA tax area),,0.02
-CA,special_district,Unincorporated (CDTFA tax area),,0.02125
-CA,special_district,Unincorporated (CDTFA tax area),,0.00625
-CA,special_district,Unincorporated (CDTFA tax area),,0.0
-CA,special_district,Unincorporated (CDTFA tax area),,0.0
-CA,special_district,Unincorporated (CDTFA tax area),,0.0
-CA,special_district,Unincorporated (CDTFA tax area),,0.005
-CA,special_district,Unincorporated (CDTFA tax area),,0.005
 CA,special_district,Unincorporated (CDTFA tax area),,0.01
 CA,special_district,Unincorporated (CDTFA tax area),,0.0
 CA,special_district,Unincorporated (CDTFA tax area),,0.0
 CA,special_district,Unincorporated (CDTFA tax area),,0.0
 CA,special_district,Unincorporated (CDTFA tax area),,0.0
 CA,special_district,Unincorporated (CDTFA tax area),,0.005
-CA,special_district,Unincorporated (CDTFA tax area),,0.005
 CA,special_district,Unincorporated (CDTFA tax area),,0.0
 CA,special_district,Unincorporated (CDTFA tax area),,0.005
+CA,special_district,Unincorporated (CDTFA tax area),,0.0
+CA,special_district,Unincorporated (CDTFA tax area),,0.00725
+CA,special_district,Unincorporated (CDTFA tax area),,0.0
 CA,special_district,Unincorporated (CDTFA tax area),,0.01
 CA,special_district,Unincorporated (CDTFA tax area),,0.005
+CA,special_district,Unincorporated (CDTFA tax area),,0.015
+CA,special_district,Unincorporated (CDTFA tax area),,0.005
+CA,special_district,Unincorporated (CDTFA tax area),,0.01
 CA,special_district,Unincorporated (CDTFA tax area),,0.005
 CA,special_district,Union City (CDTFA tax area),,0.035
 CA,special_district,Upland (CDTFA tax area),,0.005
@@ -1752,8 +1752,8 @@ CO,city,Blue River (Mail Via Breckenridge),,0.05975
 CO,city,Bonanza (Mail Via Villa Grove),,0.025
 CO,city,Boone,,0.01
 CO,city,Boulder,,0.06295
-CO,city,Bow Mar (Mail Via Littleton),,0.0135
 CO,city,Bow Mar (Mail Via Littleton),,0.016
+CO,city,Bow Mar (Mail Via Littleton),,0.0135
 CO,city,Branson,,0.015
 CO,city,Breckenridge,,0.05975
 CO,city,Brighton,,0.0375
@@ -1864,8 +1864,8 @@ CO,city,Granby,,0.053
 CO,city,Grand Junction,,0.0576
 CO,city,Grand Lake,,0.063
 CO,city,Greeley,,0.0411
-CO,city,Green Mtn Falls,,0.05
 CO,city,Green Mtn Falls,,0.0523
+CO,city,Green Mtn Falls,,0.05
 CO,city,Greenwood Village (Mail Via Englewood),,0.0435
 CO,city,Grover,,0.01
 CO,city,Gunnison,,0.06
@@ -2039,7 +2039,13 @@ CO,city,Thornton,,0.056
 CO,city,Timnath,,0.0425
 CO,city,Trinidad,,0.055
 CO,city,Two Buttes,,0.0
-CO,city,Unincorporated,,0.03
+CO,city,Unincorporated,,0.02435
+CO,city,Unincorporated,,0.05
+CO,city,Unincorporated,,0.026
+CO,city,Unincorporated,,0.03475
+CO,city,Unincorporated,,0.0
+CO,city,Unincorporated,,0.04
+CO,city,Unincorporated,,0.0
 CO,city,Unincorporated,,0.0425
 CO,city,Unincorporated,,0.0255
 CO,city,Unincorporated,,0.065
@@ -2066,6 +2072,7 @@ CO,city,Unincorporated,,0.025
 CO,city,Unincorporated,,0.01
 CO,city,Unincorporated,,0.02
 CO,city,Unincorporated,,0.0275
+CO,city,Unincorporated,,0.03
 CO,city,Unincorporated,,0.01
 CO,city,Unincorporated,,0.01
 CO,city,Unincorporated,,0.015
@@ -2087,22 +2094,15 @@ CO,city,Unincorporated,,0.0185
 CO,city,Unincorporated,,0.016
 CO,city,Unincorporated,,0.0135
 CO,city,Unincorporated,,0.01
-CO,city,Unincorporated,,0.0237
-CO,city,Unincorporated,,0.02435
-CO,city,Unincorporated,,0.0105
-CO,city,Unincorporated,,0.015
-CO,city,Unincorporated,,0.0223
-CO,city,Unincorporated,,0.0
 CO,city,Unincorporated,,0.01
-CO,city,Unincorporated,,0.05
-CO,city,Unincorporated,,0.026
-CO,city,Unincorporated,,0.03475
 CO,city,Unincorporated,,0.0
-CO,city,Unincorporated,,0.04
-CO,city,Unincorporated,,0.0
-CO,city,Unincorporated (Berthoud Fpd),,0.01
+CO,city,Unincorporated,,0.0223
+CO,city,Unincorporated,,0.015
+CO,city,Unincorporated,,0.0105
+CO,city,Unincorporated,,0.0237
 CO,city,Unincorporated (Berthoud Fpd),,0.03435
 CO,city,Unincorporated (Berthoud Fpd),,0.0205
+CO,city,Unincorporated (Berthoud Fpd),,0.01
 CO,city,Unincorporated (Cd Only),,0.0085
 CO,city,Unincorporated (Cd Only),,0.011
 CO,city,Unincorporated (Cimarron Hills Fpd),,0.0323
@@ -2272,8 +2272,8 @@ FL,county,Putnam,,0.01
 FL,county,Santa Rosa,,0.01
 FL,county,Sarasota,,0.01
 FL,county,Seminole,,0.01
-FL,county,St. Johns,,0.005
-FL,county,St. Lucie,,0.01
+FL,county,St Johns,,0.005
+FL,county,St Lucie,,0.01
 FL,county,Sumter,,0.01
 FL,county,Suwannee,,0.01
 FL,county,Taylor,,0.01
@@ -3682,7 +3682,6 @@ IL,county,Will County,,0.01
 IL,county,Williamson County,,0.01
 IL,county,Winnebago County,,0.015
 IL,county,Woodford County,,0.02
-IL,transit,Northern Illinois Transit Authority (Cook),17031,0.0125
 KS,city,Abilene,00125,0.011
 KS,city,Alden,00950,0.01
 KS,city,Alma,01350,0.01
@@ -5547,11 +5546,11 @@ LA,parish,Balance of Bienville Parish,0700,0.03
 LA,parish,General Sales,2600,0.0475
 LA,parish,Outside Incorporated Municipality Areas,4700,0.035
 LA,parish,Parish Sales,1300,0.06
-LA,parish,Parish Wide,1900,0.05
 LA,parish,Parish Wide,3800,0.0475
 LA,parish,Parish Wide,4400,0.05
-LA,parish,Parish Wide,4500,0.05
+LA,parish,Parish Wide,1900,0.05
 LA,parish,Parish Wide,4800,0.0525
+LA,parish,Parish Wide,4500,0.05
 LA,parish,Parish of  Terrebonne,5500,0.055
 LA,parish,Parish of  W.B.R.,6100,0.0525
 LA,parish,Parishwide excluding City of St. Gabriel & EDD,2400,0.0525
@@ -5570,7 +5569,6 @@ MN,city,Blue Earth,06688,0.005
 MN,city,Brainerd,07300,0.005
 MN,city,Cambridge,09370,0.005
 MN,city,Chanhassen,10918,0.005
-MN,city,City 05354,05354,0.005
 MN,city,Clearwater,11800,0.005
 MN,city,Cloquet,12160,0.01
 MN,city,Detroit Lakes,15832,0.005
