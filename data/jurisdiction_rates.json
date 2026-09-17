@@ -11407,160 +11407,6 @@
     "jurisdiction_type": "special_district",
     "name": "Unincorporated (CDTFA tax area)",
     "fips_code": null,
-    "rate": 0.005
-  },
-  {
-    "state": "CA",
-    "jurisdiction_type": "special_district",
-    "name": "Unincorporated (CDTFA tax area)",
-    "fips_code": null,
-    "rate": 0.01
-  },
-  {
-    "state": "CA",
-    "jurisdiction_type": "special_district",
-    "name": "Unincorporated (CDTFA tax area)",
-    "fips_code": null,
-    "rate": 0.0
-  },
-  {
-    "state": "CA",
-    "jurisdiction_type": "special_district",
-    "name": "Unincorporated (CDTFA tax area)",
-    "fips_code": null,
-    "rate": 0.0
-  },
-  {
-    "state": "CA",
-    "jurisdiction_type": "special_district",
-    "name": "Unincorporated (CDTFA tax area)",
-    "fips_code": null,
-    "rate": 0.005
-  },
-  {
-    "state": "CA",
-    "jurisdiction_type": "special_district",
-    "name": "Unincorporated (CDTFA tax area)",
-    "fips_code": null,
-    "rate": 0.0
-  },
-  {
-    "state": "CA",
-    "jurisdiction_type": "special_district",
-    "name": "Unincorporated (CDTFA tax area)",
-    "fips_code": null,
-    "rate": 0.0
-  },
-  {
-    "state": "CA",
-    "jurisdiction_type": "special_district",
-    "name": "Unincorporated (CDTFA tax area)",
-    "fips_code": null,
-    "rate": 0.005
-  },
-  {
-    "state": "CA",
-    "jurisdiction_type": "special_district",
-    "name": "Unincorporated (CDTFA tax area)",
-    "fips_code": null,
-    "rate": 0.0
-  },
-  {
-    "state": "CA",
-    "jurisdiction_type": "special_district",
-    "name": "Unincorporated (CDTFA tax area)",
-    "fips_code": null,
-    "rate": 0.00625
-  },
-  {
-    "state": "CA",
-    "jurisdiction_type": "special_district",
-    "name": "Unincorporated (CDTFA tax area)",
-    "fips_code": null,
-    "rate": 0.025
-  },
-  {
-    "state": "CA",
-    "jurisdiction_type": "special_district",
-    "name": "Unincorporated (CDTFA tax area)",
-    "fips_code": null,
-    "rate": 0.005
-  },
-  {
-    "state": "CA",
-    "jurisdiction_type": "special_district",
-    "name": "Unincorporated (CDTFA tax area)",
-    "fips_code": null,
-    "rate": 0.02
-  },
-  {
-    "state": "CA",
-    "jurisdiction_type": "special_district",
-    "name": "Unincorporated (CDTFA tax area)",
-    "fips_code": null,
-    "rate": 0.01
-  },
-  {
-    "state": "CA",
-    "jurisdiction_type": "special_district",
-    "name": "Unincorporated (CDTFA tax area)",
-    "fips_code": null,
-    "rate": 0.01
-  },
-  {
-    "state": "CA",
-    "jurisdiction_type": "special_district",
-    "name": "Unincorporated (CDTFA tax area)",
-    "fips_code": null,
-    "rate": 0.00625
-  },
-  {
-    "state": "CA",
-    "jurisdiction_type": "special_district",
-    "name": "Unincorporated (CDTFA tax area)",
-    "fips_code": null,
-    "rate": 0.00125
-  },
-  {
-    "state": "CA",
-    "jurisdiction_type": "special_district",
-    "name": "Unincorporated (CDTFA tax area)",
-    "fips_code": null,
-    "rate": 0.005
-  },
-  {
-    "state": "CA",
-    "jurisdiction_type": "special_district",
-    "name": "Unincorporated (CDTFA tax area)",
-    "fips_code": null,
-    "rate": 0.0
-  },
-  {
-    "state": "CA",
-    "jurisdiction_type": "special_district",
-    "name": "Unincorporated (CDTFA tax area)",
-    "fips_code": null,
-    "rate": 0.0
-  },
-  {
-    "state": "CA",
-    "jurisdiction_type": "special_district",
-    "name": "Unincorporated (CDTFA tax area)",
-    "fips_code": null,
-    "rate": 0.0
-  },
-  {
-    "state": "CA",
-    "jurisdiction_type": "special_district",
-    "name": "Unincorporated (CDTFA tax area)",
-    "fips_code": null,
-    "rate": 0.0
-  },
-  {
-    "state": "CA",
-    "jurisdiction_type": "special_district",
-    "name": "Unincorporated (CDTFA tax area)",
-    "fips_code": null,
     "rate": 0.0
   },
   {
@@ -11569,41 +11415,6 @@
     "name": "Unincorporated (CDTFA tax area)",
     "fips_code": null,
     "rate": 0.03
-  },
-  {
-    "state": "CA",
-    "jurisdiction_type": "special_district",
-    "name": "Unincorporated (CDTFA tax area)",
-    "fips_code": null,
-    "rate": 0.015
-  },
-  {
-    "state": "CA",
-    "jurisdiction_type": "special_district",
-    "name": "Unincorporated (CDTFA tax area)",
-    "fips_code": null,
-    "rate": 0.0225
-  },
-  {
-    "state": "CA",
-    "jurisdiction_type": "special_district",
-    "name": "Unincorporated (CDTFA tax area)",
-    "fips_code": null,
-    "rate": 0.005
-  },
-  {
-    "state": "CA",
-    "jurisdiction_type": "special_district",
-    "name": "Unincorporated (CDTFA tax area)",
-    "fips_code": null,
-    "rate": 0.025
-  },
-  {
-    "state": "CA",
-    "jurisdiction_type": "special_district",
-    "name": "Unincorporated (CDTFA tax area)",
-    "fips_code": null,
-    "rate": 0.0025
   },
   {
     "state": "CA",
@@ -11631,6 +11442,13 @@
     "jurisdiction_type": "special_district",
     "name": "Unincorporated (CDTFA tax area)",
     "fips_code": null,
+    "rate": 0.0
+  },
+  {
+    "state": "CA",
+    "jurisdiction_type": "special_district",
+    "name": "Unincorporated (CDTFA tax area)",
+    "fips_code": null,
     "rate": 0.005
   },
   {
@@ -11638,7 +11456,21 @@
     "jurisdiction_type": "special_district",
     "name": "Unincorporated (CDTFA tax area)",
     "fips_code": null,
-    "rate": 0.01
+    "rate": 0.005
+  },
+  {
+    "state": "CA",
+    "jurisdiction_type": "special_district",
+    "name": "Unincorporated (CDTFA tax area)",
+    "fips_code": null,
+    "rate": 0.005
+  },
+  {
+    "state": "CA",
+    "jurisdiction_type": "special_district",
+    "name": "Unincorporated (CDTFA tax area)",
+    "fips_code": null,
+    "rate": 0.025
   },
   {
     "state": "CA",
@@ -11646,13 +11478,6 @@
     "name": "Unincorporated (CDTFA tax area)",
     "fips_code": null,
     "rate": 0.01
-  },
-  {
-    "state": "CA",
-    "jurisdiction_type": "special_district",
-    "name": "Unincorporated (CDTFA tax area)",
-    "fips_code": null,
-    "rate": 0.0
   },
   {
     "state": "CA",
@@ -11673,7 +11498,7 @@
     "jurisdiction_type": "special_district",
     "name": "Unincorporated (CDTFA tax area)",
     "fips_code": null,
-    "rate": 0.005
+    "rate": 0.0225
   },
   {
     "state": "CA",
@@ -11681,6 +11506,76 @@
     "name": "Unincorporated (CDTFA tax area)",
     "fips_code": null,
     "rate": 0.0
+  },
+  {
+    "state": "CA",
+    "jurisdiction_type": "special_district",
+    "name": "Unincorporated (CDTFA tax area)",
+    "fips_code": null,
+    "rate": 0.0
+  },
+  {
+    "state": "CA",
+    "jurisdiction_type": "special_district",
+    "name": "Unincorporated (CDTFA tax area)",
+    "fips_code": null,
+    "rate": 0.0
+  },
+  {
+    "state": "CA",
+    "jurisdiction_type": "special_district",
+    "name": "Unincorporated (CDTFA tax area)",
+    "fips_code": null,
+    "rate": 0.00125
+  },
+  {
+    "state": "CA",
+    "jurisdiction_type": "special_district",
+    "name": "Unincorporated (CDTFA tax area)",
+    "fips_code": null,
+    "rate": 0.005
+  },
+  {
+    "state": "CA",
+    "jurisdiction_type": "special_district",
+    "name": "Unincorporated (CDTFA tax area)",
+    "fips_code": null,
+    "rate": 0.02
+  },
+  {
+    "state": "CA",
+    "jurisdiction_type": "special_district",
+    "name": "Unincorporated (CDTFA tax area)",
+    "fips_code": null,
+    "rate": 0.00625
+  },
+  {
+    "state": "CA",
+    "jurisdiction_type": "special_district",
+    "name": "Unincorporated (CDTFA tax area)",
+    "fips_code": null,
+    "rate": 0.0
+  },
+  {
+    "state": "CA",
+    "jurisdiction_type": "special_district",
+    "name": "Unincorporated (CDTFA tax area)",
+    "fips_code": null,
+    "rate": 0.0
+  },
+  {
+    "state": "CA",
+    "jurisdiction_type": "special_district",
+    "name": "Unincorporated (CDTFA tax area)",
+    "fips_code": null,
+    "rate": 0.0
+  },
+  {
+    "state": "CA",
+    "jurisdiction_type": "special_district",
+    "name": "Unincorporated (CDTFA tax area)",
+    "fips_code": null,
+    "rate": 0.005
   },
   {
     "state": "CA",
@@ -11694,28 +11589,7 @@
     "jurisdiction_type": "special_district",
     "name": "Unincorporated (CDTFA tax area)",
     "fips_code": null,
-    "rate": 0.0
-  },
-  {
-    "state": "CA",
-    "jurisdiction_type": "special_district",
-    "name": "Unincorporated (CDTFA tax area)",
-    "fips_code": null,
-    "rate": 0.0
-  },
-  {
-    "state": "CA",
-    "jurisdiction_type": "special_district",
-    "name": "Unincorporated (CDTFA tax area)",
-    "fips_code": null,
-    "rate": 0.0
-  },
-  {
-    "state": "CA",
-    "jurisdiction_type": "special_district",
-    "name": "Unincorporated (CDTFA tax area)",
-    "fips_code": null,
-    "rate": 0.0
+    "rate": 0.01
   },
   {
     "state": "CA",
@@ -11729,14 +11603,21 @@
     "jurisdiction_type": "special_district",
     "name": "Unincorporated (CDTFA tax area)",
     "fips_code": null,
-    "rate": 0.0
+    "rate": 0.015
   },
   {
     "state": "CA",
     "jurisdiction_type": "special_district",
     "name": "Unincorporated (CDTFA tax area)",
     "fips_code": null,
-    "rate": 0.005
+    "rate": 0.0025
+  },
+  {
+    "state": "CA",
+    "jurisdiction_type": "special_district",
+    "name": "Unincorporated (CDTFA tax area)",
+    "fips_code": null,
+    "rate": 0.01
   },
   {
     "state": "CA",
@@ -11764,20 +11645,6 @@
     "jurisdiction_type": "special_district",
     "name": "Unincorporated (CDTFA tax area)",
     "fips_code": null,
-    "rate": 0.01
-  },
-  {
-    "state": "CA",
-    "jurisdiction_type": "special_district",
-    "name": "Unincorporated (CDTFA tax area)",
-    "fips_code": null,
-    "rate": 0.005
-  },
-  {
-    "state": "CA",
-    "jurisdiction_type": "special_district",
-    "name": "Unincorporated (CDTFA tax area)",
-    "fips_code": null,
     "rate": 0.015
   },
   {
@@ -11792,6 +11659,13 @@
     "jurisdiction_type": "special_district",
     "name": "Unincorporated (CDTFA tax area)",
     "fips_code": null,
+    "rate": 0.005
+  },
+  {
+    "state": "CA",
+    "jurisdiction_type": "special_district",
+    "name": "Unincorporated (CDTFA tax area)",
+    "fips_code": null,
     "rate": 0.01
   },
   {
@@ -11799,7 +11673,133 @@
     "jurisdiction_type": "special_district",
     "name": "Unincorporated (CDTFA tax area)",
     "fips_code": null,
+    "rate": 0.0
+  },
+  {
+    "state": "CA",
+    "jurisdiction_type": "special_district",
+    "name": "Unincorporated (CDTFA tax area)",
+    "fips_code": null,
+    "rate": 0.0
+  },
+  {
+    "state": "CA",
+    "jurisdiction_type": "special_district",
+    "name": "Unincorporated (CDTFA tax area)",
+    "fips_code": null,
+    "rate": 0.0
+  },
+  {
+    "state": "CA",
+    "jurisdiction_type": "special_district",
+    "name": "Unincorporated (CDTFA tax area)",
+    "fips_code": null,
+    "rate": 0.025
+  },
+  {
+    "state": "CA",
+    "jurisdiction_type": "special_district",
+    "name": "Unincorporated (CDTFA tax area)",
+    "fips_code": null,
     "rate": 0.005
+  },
+  {
+    "state": "CA",
+    "jurisdiction_type": "special_district",
+    "name": "Unincorporated (CDTFA tax area)",
+    "fips_code": null,
+    "rate": 0.01
+  },
+  {
+    "state": "CA",
+    "jurisdiction_type": "special_district",
+    "name": "Unincorporated (CDTFA tax area)",
+    "fips_code": null,
+    "rate": 0.01
+  },
+  {
+    "state": "CA",
+    "jurisdiction_type": "special_district",
+    "name": "Unincorporated (CDTFA tax area)",
+    "fips_code": null,
+    "rate": 0.00625
+  },
+  {
+    "state": "CA",
+    "jurisdiction_type": "special_district",
+    "name": "Unincorporated (CDTFA tax area)",
+    "fips_code": null,
+    "rate": 0.005
+  },
+  {
+    "state": "CA",
+    "jurisdiction_type": "special_district",
+    "name": "Unincorporated (CDTFA tax area)",
+    "fips_code": null,
+    "rate": 0.0
+  },
+  {
+    "state": "CA",
+    "jurisdiction_type": "special_district",
+    "name": "Unincorporated (CDTFA tax area)",
+    "fips_code": null,
+    "rate": 0.005
+  },
+  {
+    "state": "CA",
+    "jurisdiction_type": "special_district",
+    "name": "Unincorporated (CDTFA tax area)",
+    "fips_code": null,
+    "rate": 0.0
+  },
+  {
+    "state": "CA",
+    "jurisdiction_type": "special_district",
+    "name": "Unincorporated (CDTFA tax area)",
+    "fips_code": null,
+    "rate": 0.0
+  },
+  {
+    "state": "CA",
+    "jurisdiction_type": "special_district",
+    "name": "Unincorporated (CDTFA tax area)",
+    "fips_code": null,
+    "rate": 0.0
+  },
+  {
+    "state": "CA",
+    "jurisdiction_type": "special_district",
+    "name": "Unincorporated (CDTFA tax area)",
+    "fips_code": null,
+    "rate": 0.005
+  },
+  {
+    "state": "CA",
+    "jurisdiction_type": "special_district",
+    "name": "Unincorporated (CDTFA tax area)",
+    "fips_code": null,
+    "rate": 0.01
+  },
+  {
+    "state": "CA",
+    "jurisdiction_type": "special_district",
+    "name": "Unincorporated (CDTFA tax area)",
+    "fips_code": null,
+    "rate": 0.0
+  },
+  {
+    "state": "CA",
+    "jurisdiction_type": "special_district",
+    "name": "Unincorporated (CDTFA tax area)",
+    "fips_code": null,
+    "rate": 0.005
+  },
+  {
+    "state": "CA",
+    "jurisdiction_type": "special_district",
+    "name": "Unincorporated (CDTFA tax area)",
+    "fips_code": null,
+    "rate": 0.0
   },
   {
     "state": "CA",
@@ -12275,14 +12275,14 @@
     "jurisdiction_type": "city",
     "name": "Bow Mar (Mail Via Littleton)",
     "fips_code": null,
-    "rate": 0.016
+    "rate": 0.0135
   },
   {
     "state": "CO",
     "jurisdiction_type": "city",
     "name": "Bow Mar (Mail Via Littleton)",
     "fips_code": null,
-    "rate": 0.0135
+    "rate": 0.016
   },
   {
     "state": "CO",
@@ -13059,14 +13059,14 @@
     "jurisdiction_type": "city",
     "name": "Green Mtn Falls",
     "fips_code": null,
-    "rate": 0.0523
+    "rate": 0.05
   },
   {
     "state": "CO",
     "jurisdiction_type": "city",
     "name": "Green Mtn Falls",
     "fips_code": null,
-    "rate": 0.05
+    "rate": 0.0523
   },
   {
     "state": "CO",
@@ -14228,14 +14228,14 @@
     "jurisdiction_type": "city",
     "name": "Superior (Mail Via Louisville)",
     "fips_code": null,
-    "rate": 0.0538
+    "rate": 0.06215
   },
   {
     "state": "CO",
     "jurisdiction_type": "city",
     "name": "Superior (Mail Via Louisville)",
     "fips_code": null,
-    "rate": 0.06215
+    "rate": 0.0538
   },
   {
     "state": "CO",
@@ -14284,391 +14284,6 @@
     "jurisdiction_type": "city",
     "name": "Unincorporated",
     "fips_code": null,
-    "rate": 0.02435
-  },
-  {
-    "state": "CO",
-    "jurisdiction_type": "city",
-    "name": "Unincorporated",
-    "fips_code": null,
-    "rate": 0.05
-  },
-  {
-    "state": "CO",
-    "jurisdiction_type": "city",
-    "name": "Unincorporated",
-    "fips_code": null,
-    "rate": 0.026
-  },
-  {
-    "state": "CO",
-    "jurisdiction_type": "city",
-    "name": "Unincorporated",
-    "fips_code": null,
-    "rate": 0.03475
-  },
-  {
-    "state": "CO",
-    "jurisdiction_type": "city",
-    "name": "Unincorporated",
-    "fips_code": null,
-    "rate": 0.0
-  },
-  {
-    "state": "CO",
-    "jurisdiction_type": "city",
-    "name": "Unincorporated",
-    "fips_code": null,
-    "rate": 0.04
-  },
-  {
-    "state": "CO",
-    "jurisdiction_type": "city",
-    "name": "Unincorporated",
-    "fips_code": null,
-    "rate": 0.0
-  },
-  {
-    "state": "CO",
-    "jurisdiction_type": "city",
-    "name": "Unincorporated",
-    "fips_code": null,
-    "rate": 0.0425
-  },
-  {
-    "state": "CO",
-    "jurisdiction_type": "city",
-    "name": "Unincorporated",
-    "fips_code": null,
-    "rate": 0.0255
-  },
-  {
-    "state": "CO",
-    "jurisdiction_type": "city",
-    "name": "Unincorporated",
-    "fips_code": null,
-    "rate": 0.065
-  },
-  {
-    "state": "CO",
-    "jurisdiction_type": "city",
-    "name": "Unincorporated",
-    "fips_code": null,
-    "rate": 0.013
-  },
-  {
-    "state": "CO",
-    "jurisdiction_type": "city",
-    "name": "Unincorporated",
-    "fips_code": null,
-    "rate": 0.02
-  },
-  {
-    "state": "CO",
-    "jurisdiction_type": "city",
-    "name": "Unincorporated",
-    "fips_code": null,
-    "rate": 0.0265
-  },
-  {
-    "state": "CO",
-    "jurisdiction_type": "city",
-    "name": "Unincorporated",
-    "fips_code": null,
-    "rate": 0.0207
-  },
-  {
-    "state": "CO",
-    "jurisdiction_type": "city",
-    "name": "Unincorporated",
-    "fips_code": null,
-    "rate": 0.036
-  },
-  {
-    "state": "CO",
-    "jurisdiction_type": "city",
-    "name": "Unincorporated",
-    "fips_code": null,
-    "rate": 0.04
-  },
-  {
-    "state": "CO",
-    "jurisdiction_type": "city",
-    "name": "Unincorporated",
-    "fips_code": null,
-    "rate": 0.021
-  },
-  {
-    "state": "CO",
-    "jurisdiction_type": "city",
-    "name": "Unincorporated",
-    "fips_code": null,
-    "rate": 0.0
-  },
-  {
-    "state": "CO",
-    "jurisdiction_type": "city",
-    "name": "Unincorporated",
-    "fips_code": null,
-    "rate": 0.0
-  },
-  {
-    "state": "CO",
-    "jurisdiction_type": "city",
-    "name": "Unincorporated",
-    "fips_code": null,
-    "rate": 0.02
-  },
-  {
-    "state": "CO",
-    "jurisdiction_type": "city",
-    "name": "Unincorporated",
-    "fips_code": null,
-    "rate": 0.01
-  },
-  {
-    "state": "CO",
-    "jurisdiction_type": "city",
-    "name": "Unincorporated",
-    "fips_code": null,
-    "rate": 0.02
-  },
-  {
-    "state": "CO",
-    "jurisdiction_type": "city",
-    "name": "Unincorporated",
-    "fips_code": null,
-    "rate": 0.04
-  },
-  {
-    "state": "CO",
-    "jurisdiction_type": "city",
-    "name": "Unincorporated",
-    "fips_code": null,
-    "rate": 0.035
-  },
-  {
-    "state": "CO",
-    "jurisdiction_type": "city",
-    "name": "Unincorporated",
-    "fips_code": null,
-    "rate": 0.02
-  },
-  {
-    "state": "CO",
-    "jurisdiction_type": "city",
-    "name": "Unincorporated",
-    "fips_code": null,
-    "rate": 0.03
-  },
-  {
-    "state": "CO",
-    "jurisdiction_type": "city",
-    "name": "Unincorporated",
-    "fips_code": null,
-    "rate": 0.02
-  },
-  {
-    "state": "CO",
-    "jurisdiction_type": "city",
-    "name": "Unincorporated",
-    "fips_code": null,
-    "rate": 0.01
-  },
-  {
-    "state": "CO",
-    "jurisdiction_type": "city",
-    "name": "Unincorporated",
-    "fips_code": null,
-    "rate": 0.02
-  },
-  {
-    "state": "CO",
-    "jurisdiction_type": "city",
-    "name": "Unincorporated",
-    "fips_code": null,
-    "rate": 0.025
-  },
-  {
-    "state": "CO",
-    "jurisdiction_type": "city",
-    "name": "Unincorporated",
-    "fips_code": null,
-    "rate": 0.01
-  },
-  {
-    "state": "CO",
-    "jurisdiction_type": "city",
-    "name": "Unincorporated",
-    "fips_code": null,
-    "rate": 0.02
-  },
-  {
-    "state": "CO",
-    "jurisdiction_type": "city",
-    "name": "Unincorporated",
-    "fips_code": null,
-    "rate": 0.0275
-  },
-  {
-    "state": "CO",
-    "jurisdiction_type": "city",
-    "name": "Unincorporated",
-    "fips_code": null,
-    "rate": 0.03
-  },
-  {
-    "state": "CO",
-    "jurisdiction_type": "city",
-    "name": "Unincorporated",
-    "fips_code": null,
-    "rate": 0.01
-  },
-  {
-    "state": "CO",
-    "jurisdiction_type": "city",
-    "name": "Unincorporated",
-    "fips_code": null,
-    "rate": 0.01
-  },
-  {
-    "state": "CO",
-    "jurisdiction_type": "city",
-    "name": "Unincorporated",
-    "fips_code": null,
-    "rate": 0.015
-  },
-  {
-    "state": "CO",
-    "jurisdiction_type": "city",
-    "name": "Unincorporated",
-    "fips_code": null,
-    "rate": 0.0
-  },
-  {
-    "state": "CO",
-    "jurisdiction_type": "city",
-    "name": "Unincorporated",
-    "fips_code": null,
-    "rate": 0.02
-  },
-  {
-    "state": "CO",
-    "jurisdiction_type": "city",
-    "name": "Unincorporated",
-    "fips_code": null,
-    "rate": 0.0125
-  },
-  {
-    "state": "CO",
-    "jurisdiction_type": "city",
-    "name": "Unincorporated",
-    "fips_code": null,
-    "rate": 0.026
-  },
-  {
-    "state": "CO",
-    "jurisdiction_type": "city",
-    "name": "Unincorporated",
-    "fips_code": null,
-    "rate": 0.0
-  },
-  {
-    "state": "CO",
-    "jurisdiction_type": "city",
-    "name": "Unincorporated",
-    "fips_code": null,
-    "rate": 0.0175
-  },
-  {
-    "state": "CO",
-    "jurisdiction_type": "city",
-    "name": "Unincorporated",
-    "fips_code": null,
-    "rate": 0.03
-  },
-  {
-    "state": "CO",
-    "jurisdiction_type": "city",
-    "name": "Unincorporated",
-    "fips_code": null,
-    "rate": 0.0
-  },
-  {
-    "state": "CO",
-    "jurisdiction_type": "city",
-    "name": "Unincorporated",
-    "fips_code": null,
-    "rate": 0.036
-  },
-  {
-    "state": "CO",
-    "jurisdiction_type": "city",
-    "name": "Unincorporated",
-    "fips_code": null,
-    "rate": 0.01
-  },
-  {
-    "state": "CO",
-    "jurisdiction_type": "city",
-    "name": "Unincorporated",
-    "fips_code": null,
-    "rate": 0.03
-  },
-  {
-    "state": "CO",
-    "jurisdiction_type": "city",
-    "name": "Unincorporated",
-    "fips_code": null,
-    "rate": 0.0
-  },
-  {
-    "state": "CO",
-    "jurisdiction_type": "city",
-    "name": "Unincorporated",
-    "fips_code": null,
-    "rate": 0.025
-  },
-  {
-    "state": "CO",
-    "jurisdiction_type": "city",
-    "name": "Unincorporated",
-    "fips_code": null,
-    "rate": 0.01
-  },
-  {
-    "state": "CO",
-    "jurisdiction_type": "city",
-    "name": "Unincorporated",
-    "fips_code": null,
-    "rate": 0.0185
-  },
-  {
-    "state": "CO",
-    "jurisdiction_type": "city",
-    "name": "Unincorporated",
-    "fips_code": null,
-    "rate": 0.016
-  },
-  {
-    "state": "CO",
-    "jurisdiction_type": "city",
-    "name": "Unincorporated",
-    "fips_code": null,
-    "rate": 0.0135
-  },
-  {
-    "state": "CO",
-    "jurisdiction_type": "city",
-    "name": "Unincorporated",
-    "fips_code": null,
-    "rate": 0.01
-  },
-  {
-    "state": "CO",
-    "jurisdiction_type": "city",
-    "name": "Unincorporated",
-    "fips_code": null,
     "rate": 0.01
   },
   {
@@ -14704,7 +14319,399 @@
     "jurisdiction_type": "city",
     "name": "Unincorporated",
     "fips_code": null,
+    "rate": 0.02435
+  },
+  {
+    "state": "CO",
+    "jurisdiction_type": "city",
+    "name": "Unincorporated",
+    "fips_code": null,
     "rate": 0.0237
+  },
+  {
+    "state": "CO",
+    "jurisdiction_type": "city",
+    "name": "Unincorporated",
+    "fips_code": null,
+    "rate": 0.01
+  },
+  {
+    "state": "CO",
+    "jurisdiction_type": "city",
+    "name": "Unincorporated",
+    "fips_code": null,
+    "rate": 0.0135
+  },
+  {
+    "state": "CO",
+    "jurisdiction_type": "city",
+    "name": "Unincorporated",
+    "fips_code": null,
+    "rate": 0.016
+  },
+  {
+    "state": "CO",
+    "jurisdiction_type": "city",
+    "name": "Unincorporated",
+    "fips_code": null,
+    "rate": 0.0185
+  },
+  {
+    "state": "CO",
+    "jurisdiction_type": "city",
+    "name": "Unincorporated",
+    "fips_code": null,
+    "rate": 0.01
+  },
+  {
+    "state": "CO",
+    "jurisdiction_type": "city",
+    "name": "Unincorporated",
+    "fips_code": null,
+    "rate": 0.025
+  },
+  {
+    "state": "CO",
+    "jurisdiction_type": "city",
+    "name": "Unincorporated",
+    "fips_code": null,
+    "rate": 0.0
+  },
+  {
+    "state": "CO",
+    "jurisdiction_type": "city",
+    "name": "Unincorporated",
+    "fips_code": null,
+    "rate": 0.03
+  },
+  {
+    "state": "CO",
+    "jurisdiction_type": "city",
+    "name": "Unincorporated",
+    "fips_code": null,
+    "rate": 0.01
+  },
+  {
+    "state": "CO",
+    "jurisdiction_type": "city",
+    "name": "Unincorporated",
+    "fips_code": null,
+    "rate": 0.036
+  },
+  {
+    "state": "CO",
+    "jurisdiction_type": "city",
+    "name": "Unincorporated",
+    "fips_code": null,
+    "rate": 0.0
+  },
+  {
+    "state": "CO",
+    "jurisdiction_type": "city",
+    "name": "Unincorporated",
+    "fips_code": null,
+    "rate": 0.03
+  },
+  {
+    "state": "CO",
+    "jurisdiction_type": "city",
+    "name": "Unincorporated",
+    "fips_code": null,
+    "rate": 0.0175
+  },
+  {
+    "state": "CO",
+    "jurisdiction_type": "city",
+    "name": "Unincorporated",
+    "fips_code": null,
+    "rate": 0.0
+  },
+  {
+    "state": "CO",
+    "jurisdiction_type": "city",
+    "name": "Unincorporated",
+    "fips_code": null,
+    "rate": 0.026
+  },
+  {
+    "state": "CO",
+    "jurisdiction_type": "city",
+    "name": "Unincorporated",
+    "fips_code": null,
+    "rate": 0.0125
+  },
+  {
+    "state": "CO",
+    "jurisdiction_type": "city",
+    "name": "Unincorporated",
+    "fips_code": null,
+    "rate": 0.02
+  },
+  {
+    "state": "CO",
+    "jurisdiction_type": "city",
+    "name": "Unincorporated",
+    "fips_code": null,
+    "rate": 0.0
+  },
+  {
+    "state": "CO",
+    "jurisdiction_type": "city",
+    "name": "Unincorporated",
+    "fips_code": null,
+    "rate": 0.015
+  },
+  {
+    "state": "CO",
+    "jurisdiction_type": "city",
+    "name": "Unincorporated",
+    "fips_code": null,
+    "rate": 0.01
+  },
+  {
+    "state": "CO",
+    "jurisdiction_type": "city",
+    "name": "Unincorporated",
+    "fips_code": null,
+    "rate": 0.01
+  },
+  {
+    "state": "CO",
+    "jurisdiction_type": "city",
+    "name": "Unincorporated",
+    "fips_code": null,
+    "rate": 0.03
+  },
+  {
+    "state": "CO",
+    "jurisdiction_type": "city",
+    "name": "Unincorporated",
+    "fips_code": null,
+    "rate": 0.0275
+  },
+  {
+    "state": "CO",
+    "jurisdiction_type": "city",
+    "name": "Unincorporated",
+    "fips_code": null,
+    "rate": 0.02
+  },
+  {
+    "state": "CO",
+    "jurisdiction_type": "city",
+    "name": "Unincorporated",
+    "fips_code": null,
+    "rate": 0.01
+  },
+  {
+    "state": "CO",
+    "jurisdiction_type": "city",
+    "name": "Unincorporated",
+    "fips_code": null,
+    "rate": 0.025
+  },
+  {
+    "state": "CO",
+    "jurisdiction_type": "city",
+    "name": "Unincorporated",
+    "fips_code": null,
+    "rate": 0.02
+  },
+  {
+    "state": "CO",
+    "jurisdiction_type": "city",
+    "name": "Unincorporated",
+    "fips_code": null,
+    "rate": 0.01
+  },
+  {
+    "state": "CO",
+    "jurisdiction_type": "city",
+    "name": "Unincorporated",
+    "fips_code": null,
+    "rate": 0.02
+  },
+  {
+    "state": "CO",
+    "jurisdiction_type": "city",
+    "name": "Unincorporated",
+    "fips_code": null,
+    "rate": 0.03
+  },
+  {
+    "state": "CO",
+    "jurisdiction_type": "city",
+    "name": "Unincorporated",
+    "fips_code": null,
+    "rate": 0.02
+  },
+  {
+    "state": "CO",
+    "jurisdiction_type": "city",
+    "name": "Unincorporated",
+    "fips_code": null,
+    "rate": 0.035
+  },
+  {
+    "state": "CO",
+    "jurisdiction_type": "city",
+    "name": "Unincorporated",
+    "fips_code": null,
+    "rate": 0.04
+  },
+  {
+    "state": "CO",
+    "jurisdiction_type": "city",
+    "name": "Unincorporated",
+    "fips_code": null,
+    "rate": 0.02
+  },
+  {
+    "state": "CO",
+    "jurisdiction_type": "city",
+    "name": "Unincorporated",
+    "fips_code": null,
+    "rate": 0.01
+  },
+  {
+    "state": "CO",
+    "jurisdiction_type": "city",
+    "name": "Unincorporated",
+    "fips_code": null,
+    "rate": 0.02
+  },
+  {
+    "state": "CO",
+    "jurisdiction_type": "city",
+    "name": "Unincorporated",
+    "fips_code": null,
+    "rate": 0.0
+  },
+  {
+    "state": "CO",
+    "jurisdiction_type": "city",
+    "name": "Unincorporated",
+    "fips_code": null,
+    "rate": 0.0
+  },
+  {
+    "state": "CO",
+    "jurisdiction_type": "city",
+    "name": "Unincorporated",
+    "fips_code": null,
+    "rate": 0.021
+  },
+  {
+    "state": "CO",
+    "jurisdiction_type": "city",
+    "name": "Unincorporated",
+    "fips_code": null,
+    "rate": 0.04
+  },
+  {
+    "state": "CO",
+    "jurisdiction_type": "city",
+    "name": "Unincorporated",
+    "fips_code": null,
+    "rate": 0.036
+  },
+  {
+    "state": "CO",
+    "jurisdiction_type": "city",
+    "name": "Unincorporated",
+    "fips_code": null,
+    "rate": 0.0207
+  },
+  {
+    "state": "CO",
+    "jurisdiction_type": "city",
+    "name": "Unincorporated",
+    "fips_code": null,
+    "rate": 0.0265
+  },
+  {
+    "state": "CO",
+    "jurisdiction_type": "city",
+    "name": "Unincorporated",
+    "fips_code": null,
+    "rate": 0.02
+  },
+  {
+    "state": "CO",
+    "jurisdiction_type": "city",
+    "name": "Unincorporated",
+    "fips_code": null,
+    "rate": 0.013
+  },
+  {
+    "state": "CO",
+    "jurisdiction_type": "city",
+    "name": "Unincorporated",
+    "fips_code": null,
+    "rate": 0.065
+  },
+  {
+    "state": "CO",
+    "jurisdiction_type": "city",
+    "name": "Unincorporated",
+    "fips_code": null,
+    "rate": 0.0255
+  },
+  {
+    "state": "CO",
+    "jurisdiction_type": "city",
+    "name": "Unincorporated",
+    "fips_code": null,
+    "rate": 0.0425
+  },
+  {
+    "state": "CO",
+    "jurisdiction_type": "city",
+    "name": "Unincorporated",
+    "fips_code": null,
+    "rate": 0.0
+  },
+  {
+    "state": "CO",
+    "jurisdiction_type": "city",
+    "name": "Unincorporated",
+    "fips_code": null,
+    "rate": 0.04
+  },
+  {
+    "state": "CO",
+    "jurisdiction_type": "city",
+    "name": "Unincorporated",
+    "fips_code": null,
+    "rate": 0.0
+  },
+  {
+    "state": "CO",
+    "jurisdiction_type": "city",
+    "name": "Unincorporated",
+    "fips_code": null,
+    "rate": 0.03475
+  },
+  {
+    "state": "CO",
+    "jurisdiction_type": "city",
+    "name": "Unincorporated",
+    "fips_code": null,
+    "rate": 0.026
+  },
+  {
+    "state": "CO",
+    "jurisdiction_type": "city",
+    "name": "Unincorporated",
+    "fips_code": null,
+    "rate": 0.05
+  },
+  {
+    "state": "CO",
+    "jurisdiction_type": "city",
+    "name": "Unincorporated (Berthoud Fpd)",
+    "fips_code": null,
+    "rate": 0.01
   },
   {
     "state": "CO",
@@ -14719,13 +14726,6 @@
     "name": "Unincorporated (Berthoud Fpd)",
     "fips_code": null,
     "rate": 0.0205
-  },
-  {
-    "state": "CO",
-    "jurisdiction_type": "city",
-    "name": "Unincorporated (Berthoud Fpd)",
-    "fips_code": null,
-    "rate": 0.01
   },
   {
     "state": "CO",
@@ -14872,14 +14872,14 @@
     "jurisdiction_type": "city",
     "name": "Unincorporated In Upper Pine River Fpd",
     "fips_code": null,
-    "rate": 0.05
+    "rate": 0.04
   },
   {
     "state": "CO",
     "jurisdiction_type": "city",
     "name": "Unincorporated In Upper Pine River Fpd",
     "fips_code": null,
-    "rate": 0.04
+    "rate": 0.05
   },
   {
     "state": "CO",
@@ -15913,14 +15913,14 @@
   {
     "state": "FL",
     "jurisdiction_type": "county",
-    "name": "St Johns",
+    "name": "St. Johns",
     "fips_code": null,
     "rate": 0.005
   },
   {
     "state": "FL",
     "jurisdiction_type": "county",
-    "name": "St Lucie",
+    "name": "St. Lucie",
     "fips_code": null,
     "rate": 0.01
   },
@@ -38832,13 +38832,6 @@
     "state": "LA",
     "jurisdiction_type": "parish",
     "name": "Parish Wide",
-    "fips_code": "3800",
-    "rate": 0.0475
-  },
-  {
-    "state": "LA",
-    "jurisdiction_type": "parish",
-    "name": "Parish Wide",
     "fips_code": "4400",
     "rate": 0.05
   },
@@ -38846,7 +38839,7 @@
     "state": "LA",
     "jurisdiction_type": "parish",
     "name": "Parish Wide",
-    "fips_code": "1900",
+    "fips_code": "4500",
     "rate": 0.05
   },
   {
@@ -38860,8 +38853,15 @@
     "state": "LA",
     "jurisdiction_type": "parish",
     "name": "Parish Wide",
-    "fips_code": "4500",
+    "fips_code": "1900",
     "rate": 0.05
+  },
+  {
+    "state": "LA",
+    "jurisdiction_type": "parish",
+    "name": "Parish Wide",
+    "fips_code": "3800",
+    "rate": 0.0475
   },
   {
     "state": "LA",
@@ -39890,7 +39890,7 @@
     "jurisdiction_type": "city",
     "name": "Advance",
     "fips_code": null,
-    "rate": 0.04188
+    "rate": 0.05188
   },
   {
     "state": "MO",
@@ -39988,7 +39988,7 @@
     "jurisdiction_type": "city",
     "name": "Amazonia",
     "fips_code": null,
-    "rate": 0.027
+    "rate": 0.037
   },
   {
     "state": "MO",
@@ -40044,7 +40044,7 @@
     "jurisdiction_type": "city",
     "name": "Anniston",
     "fips_code": null,
-    "rate": 0.0175
+    "rate": 0.0275
   },
   {
     "state": "MO",
@@ -40072,7 +40072,7 @@
     "jurisdiction_type": "city",
     "name": "Appleton City",
     "fips_code": null,
-    "rate": 0.03375
+    "rate": 0.03875
   },
   {
     "state": "MO",
@@ -40114,14 +40114,7 @@
     "jurisdiction_type": "city",
     "name": "Arcola",
     "fips_code": null,
-    "rate": 0.0275
-  },
-  {
-    "state": "MO",
-    "jurisdiction_type": "city",
-    "name": "Argyle",
-    "fips_code": null,
-    "rate": 0.04166
+    "rate": 0.0325
   },
   {
     "state": "MO",
@@ -40135,7 +40128,7 @@
     "jurisdiction_type": "city",
     "name": "Armstrong",
     "fips_code": null,
-    "rate": 0.02875
+    "rate": 0.03875
   },
   {
     "state": "MO",
@@ -40275,7 +40268,7 @@
     "jurisdiction_type": "city",
     "name": "Baker",
     "fips_code": null,
-    "rate": 0.02188
+    "rate": 0.03188
   },
   {
     "state": "MO",
@@ -40373,7 +40366,7 @@
     "jurisdiction_type": "city",
     "name": "Baring",
     "fips_code": null,
-    "rate": 0.02
+    "rate": 0.025
   },
   {
     "state": "MO",
@@ -40436,7 +40429,7 @@
     "jurisdiction_type": "city",
     "name": "Bel-Ridge",
     "fips_code": null,
-    "rate": 0.04763
+    "rate": 0.05763
   },
   {
     "state": "MO",
@@ -40457,28 +40450,21 @@
     "jurisdiction_type": "city",
     "name": "Bell City",
     "fips_code": null,
-    "rate": 0.03438
+    "rate": 0.04438
   },
   {
     "state": "MO",
     "jurisdiction_type": "city",
     "name": "Bella Villa",
     "fips_code": null,
-    "rate": 0.04013
+    "rate": 0.05013
   },
   {
     "state": "MO",
     "jurisdiction_type": "city",
     "name": "Bella Villa (X1)",
     "fips_code": null,
-    "rate": 0.04013
-  },
-  {
-    "state": "MO",
-    "jurisdiction_type": "city",
-    "name": "Bellair",
-    "fips_code": null,
-    "rate": 0.02
+    "rate": 0.05013
   },
   {
     "state": "MO",
@@ -40492,14 +40478,14 @@
     "jurisdiction_type": "city",
     "name": "Bellefontaine Neighbors",
     "fips_code": null,
-    "rate": 0.04013
+    "rate": 0.05013
   },
   {
     "state": "MO",
     "jurisdiction_type": "city",
     "name": "Bellerive",
     "fips_code": null,
-    "rate": 0.05263
+    "rate": 0.06263
   },
   {
     "state": "MO",
@@ -40569,7 +40555,7 @@
     "jurisdiction_type": "city",
     "name": "Bernie",
     "fips_code": null,
-    "rate": 0.04188
+    "rate": 0.05188
   },
   {
     "state": "MO",
@@ -40583,14 +40569,7 @@
     "jurisdiction_type": "city",
     "name": "Bertrand",
     "fips_code": null,
-    "rate": 0.035
-  },
-  {
-    "state": "MO",
-    "jurisdiction_type": "city",
-    "name": "Bethel",
-    "fips_code": null,
-    "rate": 0.04
+    "rate": 0.045
   },
   {
     "state": "MO",
@@ -40611,7 +40590,7 @@
     "jurisdiction_type": "city",
     "name": "Beverly Hills",
     "fips_code": null,
-    "rate": 0.05513
+    "rate": 0.06513
   },
   {
     "state": "MO",
@@ -40672,13 +40651,6 @@
   {
     "state": "MO",
     "jurisdiction_type": "city",
-    "name": "Bismarck",
-    "fips_code": null,
-    "rate": 0.04125
-  },
-  {
-    "state": "MO",
-    "jurisdiction_type": "city",
     "name": "Bixby",
     "fips_code": null,
     "rate": 0.02
@@ -40695,7 +40667,7 @@
     "jurisdiction_type": "city",
     "name": "Black Jack",
     "fips_code": null,
-    "rate": 0.04013
+    "rate": 0.05013
   },
   {
     "state": "MO",
@@ -40707,23 +40679,9 @@
   {
     "state": "MO",
     "jurisdiction_type": "city",
-    "name": "Blackwater",
-    "fips_code": null,
-    "rate": 0.04
-  },
-  {
-    "state": "MO",
-    "jurisdiction_type": "city",
-    "name": "Blackwell",
-    "fips_code": null,
-    "rate": 0.02125
-  },
-  {
-    "state": "MO",
-    "jurisdiction_type": "city",
     "name": "Blairstown",
     "fips_code": null,
-    "rate": 0.027
+    "rate": 0.0295
   },
   {
     "state": "MO",
@@ -40744,7 +40702,7 @@
     "jurisdiction_type": "city",
     "name": "Bloomfield",
     "fips_code": null,
-    "rate": 0.03188
+    "rate": 0.04188
   },
   {
     "state": "MO",
@@ -40807,7 +40765,7 @@
     "jurisdiction_type": "city",
     "name": "Bolckow",
     "fips_code": null,
-    "rate": 0.027
+    "rate": 0.037
   },
   {
     "state": "MO",
@@ -40821,14 +40779,7 @@
     "jurisdiction_type": "city",
     "name": "Bona",
     "fips_code": null,
-    "rate": 0.0275
-  },
-  {
-    "state": "MO",
-    "jurisdiction_type": "city",
-    "name": "Bonne Terre",
-    "fips_code": null,
-    "rate": 0.05125
+    "rate": 0.0325
   },
   {
     "state": "MO",
@@ -40836,13 +40787,6 @@
     "name": "Bonnots Mill",
     "fips_code": null,
     "rate": 0.0325
-  },
-  {
-    "state": "MO",
-    "jurisdiction_type": "city",
-    "name": "Boonville",
-    "fips_code": null,
-    "rate": 0.04
   },
   {
     "state": "MO",
@@ -40954,7 +40898,7 @@
     "jurisdiction_type": "city",
     "name": "Breckenridge Hills",
     "fips_code": null,
-    "rate": 0.04763
+    "rate": 0.05763
   },
   {
     "state": "MO",
@@ -40982,14 +40926,14 @@
     "jurisdiction_type": "city",
     "name": "Bridgeton (X1)",
     "fips_code": null,
-    "rate": 0.04763
+    "rate": 0.05763
   },
   {
     "state": "MO",
     "jurisdiction_type": "city",
     "name": "Bridgeton (X2)",
     "fips_code": null,
-    "rate": 0.04763
+    "rate": 0.05763
   },
   {
     "state": "MO",
@@ -41004,13 +40948,6 @@
     "name": "Brimson",
     "fips_code": null,
     "rate": 0.015
-  },
-  {
-    "state": "MO",
-    "jurisdiction_type": "city",
-    "name": "Brinktown",
-    "fips_code": null,
-    "rate": 0.03166
   },
   {
     "state": "MO",
@@ -41066,21 +41003,14 @@
     "jurisdiction_type": "city",
     "name": "Brownington",
     "fips_code": null,
-    "rate": 0.017
+    "rate": 0.0195
   },
   {
     "state": "MO",
     "jurisdiction_type": "city",
     "name": "Brownwood",
     "fips_code": null,
-    "rate": 0.02188
-  },
-  {
-    "state": "MO",
-    "jurisdiction_type": "city",
-    "name": "Brumley",
-    "fips_code": null,
-    "rate": 0.03
+    "rate": 0.03188
   },
   {
     "state": "MO",
@@ -41137,13 +41067,6 @@
     "name": "Bull Creek Village",
     "fips_code": null,
     "rate": 0.03125
-  },
-  {
-    "state": "MO",
-    "jurisdiction_type": "city",
-    "name": "Bunceton",
-    "fips_code": null,
-    "rate": 0.03
   },
   {
     "state": "MO",
@@ -41234,14 +41157,14 @@
     "jurisdiction_type": "city",
     "name": "Calhoun",
     "fips_code": null,
-    "rate": 0.037
+    "rate": 0.0395
   },
   {
     "state": "MO",
     "jurisdiction_type": "city",
     "name": "California",
     "fips_code": null,
-    "rate": 0.0425
+    "rate": 0.0475
   },
   {
     "state": "MO",
@@ -41255,7 +41178,7 @@
     "jurisdiction_type": "city",
     "name": "Calverton Park",
     "fips_code": null,
-    "rate": 0.04013
+    "rate": 0.05013
   },
   {
     "state": "MO",
@@ -41288,16 +41211,9 @@
   {
     "state": "MO",
     "jurisdiction_type": "city",
-    "name": "Campbell",
+    "name": "Canaan",
     "fips_code": null,
-    "rate": 0.04063
-  },
-  {
-    "state": "MO",
-    "jurisdiction_type": "city",
-    "name": "Canalou",
-    "fips_code": null,
-    "rate": 0.02
+    "rate": 0.02875
   },
   {
     "state": "MO",
@@ -41353,7 +41269,7 @@
     "jurisdiction_type": "city",
     "name": "Carterville",
     "fips_code": null,
-    "rate": 0.03375
+    "rate": 0.04375
   },
   {
     "state": "MO",
@@ -41396,13 +41312,6 @@
     "name": "Catawissa",
     "fips_code": null,
     "rate": 0.0275
-  },
-  {
-    "state": "MO",
-    "jurisdiction_type": "city",
-    "name": "Catron",
-    "fips_code": null,
-    "rate": 0.02
   },
   {
     "state": "MO",
@@ -41507,21 +41416,21 @@
     "jurisdiction_type": "city",
     "name": "Champ",
     "fips_code": null,
-    "rate": 0.03513
+    "rate": 0.04513
   },
   {
     "state": "MO",
     "jurisdiction_type": "city",
     "name": "Charlack",
     "fips_code": null,
-    "rate": 0.04013
+    "rate": 0.05013
   },
   {
     "state": "MO",
     "jurisdiction_type": "city",
     "name": "Charleston",
     "fips_code": null,
-    "rate": 0.0375
+    "rate": 0.0475
   },
   {
     "state": "MO",
@@ -41578,13 +41487,6 @@
     "name": "Chula",
     "fips_code": null,
     "rate": 0.01625
-  },
-  {
-    "state": "MO",
-    "jurisdiction_type": "city",
-    "name": "Clarence",
-    "fips_code": null,
-    "rate": 0.0475
   },
   {
     "state": "MO",
@@ -41689,7 +41591,7 @@
     "jurisdiction_type": "city",
     "name": "Clinton",
     "fips_code": null,
-    "rate": 0.0445
+    "rate": 0.047
   },
   {
     "state": "MO",
@@ -41729,9 +41631,16 @@
   {
     "state": "MO",
     "jurisdiction_type": "city",
+    "name": "Cole Camp",
+    "fips_code": null,
+    "rate": 0.045
+  },
+  {
+    "state": "MO",
+    "jurisdiction_type": "city",
     "name": "Collins",
     "fips_code": null,
-    "rate": 0.01375
+    "rate": 0.01875
   },
   {
     "state": "MO",
@@ -41778,13 +41687,6 @@
   {
     "state": "MO",
     "jurisdiction_type": "city",
-    "name": "Conran",
-    "fips_code": null,
-    "rate": 0.02
-  },
-  {
-    "state": "MO",
-    "jurisdiction_type": "city",
     "name": "Conway",
     "fips_code": null,
     "rate": 0.02688
@@ -41801,14 +41703,14 @@
     "jurisdiction_type": "city",
     "name": "Cool Valley",
     "fips_code": null,
-    "rate": 0.05263
+    "rate": 0.06263
   },
   {
     "state": "MO",
     "jurisdiction_type": "city",
     "name": "Cool Valley (T1)",
     "fips_code": null,
-    "rate": 0.05263
+    "rate": 0.06263
   },
   {
     "state": "MO",
@@ -41843,7 +41745,7 @@
     "jurisdiction_type": "city",
     "name": "Cosby",
     "fips_code": null,
-    "rate": 0.027
+    "rate": 0.037
   },
   {
     "state": "MO",
@@ -41871,21 +41773,21 @@
     "jurisdiction_type": "city",
     "name": "Country Club Hills",
     "fips_code": null,
-    "rate": 0.05263
+    "rate": 0.06263
   },
   {
     "state": "MO",
     "jurisdiction_type": "city",
     "name": "Country Club Hills (T1)",
     "fips_code": null,
-    "rate": 0.05263
+    "rate": 0.06263
   },
   {
     "state": "MO",
     "jurisdiction_type": "city",
     "name": "Country Club Village",
     "fips_code": null,
-    "rate": 0.037
+    "rate": 0.047
   },
   {
     "state": "MO",
@@ -41941,7 +41843,7 @@
     "jurisdiction_type": "city",
     "name": "Crestwood (X1)",
     "fips_code": null,
-    "rate": 0.05263
+    "rate": 0.06263
   },
   {
     "state": "MO",
@@ -42053,7 +41955,7 @@
     "jurisdiction_type": "city",
     "name": "Dadeville",
     "fips_code": null,
-    "rate": 0.0275
+    "rate": 0.0325
   },
   {
     "state": "MO",
@@ -42144,7 +42046,7 @@
     "jurisdiction_type": "city",
     "name": "Deepwater",
     "fips_code": null,
-    "rate": 0.037
+    "rate": 0.0395
   },
   {
     "state": "MO",
@@ -42172,14 +42074,14 @@
     "jurisdiction_type": "city",
     "name": "Dellwood",
     "fips_code": null,
-    "rate": 0.04763
+    "rate": 0.05763
   },
   {
     "state": "MO",
     "jurisdiction_type": "city",
     "name": "Dellwood (T1)",
     "fips_code": null,
-    "rate": 0.04763
+    "rate": 0.05763
   },
   {
     "state": "MO",
@@ -42268,13 +42170,6 @@
   {
     "state": "MO",
     "jurisdiction_type": "city",
-    "name": "Desloge",
-    "fips_code": null,
-    "rate": 0.05125
-  },
-  {
-    "state": "MO",
-    "jurisdiction_type": "city",
     "name": "Devils Elbow",
     "fips_code": null,
     "rate": 0.0225
@@ -42284,7 +42179,7 @@
     "jurisdiction_type": "city",
     "name": "Dexter",
     "fips_code": null,
-    "rate": 0.04063
+    "rate": 0.05063
   },
   {
     "state": "MO",
@@ -42327,13 +42222,6 @@
     "name": "Dixon",
     "fips_code": null,
     "rate": 0.0425
-  },
-  {
-    "state": "MO",
-    "jurisdiction_type": "city",
-    "name": "Doe Run",
-    "fips_code": null,
-    "rate": 0.02125
   },
   {
     "state": "MO",
@@ -42396,14 +42284,14 @@
     "jurisdiction_type": "city",
     "name": "Dudley",
     "fips_code": null,
-    "rate": 0.03188
+    "rate": 0.04188
   },
   {
     "state": "MO",
     "jurisdiction_type": "city",
     "name": "Duenweg",
     "fips_code": null,
-    "rate": 0.03125
+    "rate": 0.03375
   },
   {
     "state": "MO",
@@ -42494,7 +42382,7 @@
     "jurisdiction_type": "city",
     "name": "East Prairie",
     "fips_code": null,
-    "rate": 0.0425
+    "rate": 0.0525
   },
   {
     "state": "MO",
@@ -42529,14 +42417,14 @@
     "jurisdiction_type": "city",
     "name": "Edina",
     "fips_code": null,
-    "rate": 0.035
+    "rate": 0.04
   },
   {
     "state": "MO",
     "jurisdiction_type": "city",
     "name": "Edmundson",
     "fips_code": null,
-    "rate": 0.05263
+    "rate": 0.06263
   },
   {
     "state": "MO",
@@ -42551,13 +42439,6 @@
     "name": "El Dorado Springs",
     "fips_code": null,
     "rate": 0.0425
-  },
-  {
-    "state": "MO",
-    "jurisdiction_type": "city",
-    "name": "Eldon",
-    "fips_code": null,
-    "rate": 0.049
   },
   {
     "state": "MO",
@@ -42744,13 +42625,6 @@
   {
     "state": "MO",
     "jurisdiction_type": "city",
-    "name": "Emden",
-    "fips_code": null,
-    "rate": 0.03
-  },
-  {
-    "state": "MO",
-    "jurisdiction_type": "city",
     "name": "Eminence",
     "fips_code": null,
     "rate": 0.05
@@ -42774,7 +42648,7 @@
     "jurisdiction_type": "city",
     "name": "Essex",
     "fips_code": null,
-    "rate": 0.03188
+    "rate": 0.04688
   },
   {
     "state": "MO",
@@ -42789,13 +42663,6 @@
     "name": "Ethlyn",
     "fips_code": null,
     "rate": 0.0275
-  },
-  {
-    "state": "MO",
-    "jurisdiction_type": "city",
-    "name": "Etterville",
-    "fips_code": null,
-    "rate": 0.02
   },
   {
     "state": "MO",
@@ -42858,7 +42725,7 @@
     "jurisdiction_type": "city",
     "name": "Everton",
     "fips_code": null,
-    "rate": 0.0475
+    "rate": 0.0525
   },
   {
     "state": "MO",
@@ -42954,13 +42821,6 @@
   {
     "state": "MO",
     "jurisdiction_type": "city",
-    "name": "Fairview Acres",
-    "fips_code": null,
-    "rate": 0.02125
-  },
-  {
-    "state": "MO",
-    "jurisdiction_type": "city",
     "name": "Falcon",
     "fips_code": null,
     "rate": 0.01188
@@ -42982,13 +42842,6 @@
   {
     "state": "MO",
     "jurisdiction_type": "city",
-    "name": "Farmington",
-    "fips_code": null,
-    "rate": 0.04625
-  },
-  {
-    "state": "MO",
-    "jurisdiction_type": "city",
     "name": "Farrar",
     "fips_code": null,
     "rate": 0.02375
@@ -43005,7 +42858,7 @@
     "jurisdiction_type": "city",
     "name": "Fayette",
     "fips_code": null,
-    "rate": 0.04
+    "rate": 0.05
   },
   {
     "state": "MO",
@@ -43082,7 +42935,7 @@
     "jurisdiction_type": "city",
     "name": "Fillmore",
     "fips_code": null,
-    "rate": 0.027
+    "rate": 0.037
   },
   {
     "state": "MO",
@@ -43124,7 +42977,7 @@
     "jurisdiction_type": "city",
     "name": "Flordell Hills",
     "fips_code": null,
-    "rate": 0.04013
+    "rate": 0.05013
   },
   {
     "state": "MO",
@@ -43159,70 +43012,70 @@
     "jurisdiction_type": "city",
     "name": "Florissant (X10)",
     "fips_code": null,
-    "rate": 0.04763
+    "rate": 0.05763
   },
   {
     "state": "MO",
     "jurisdiction_type": "city",
     "name": "Florissant (X11)",
     "fips_code": null,
-    "rate": 0.04763
+    "rate": 0.05763
   },
   {
     "state": "MO",
     "jurisdiction_type": "city",
     "name": "Florissant (X2)",
     "fips_code": null,
-    "rate": 0.04763
+    "rate": 0.05763
   },
   {
     "state": "MO",
     "jurisdiction_type": "city",
     "name": "Florissant (X3)",
     "fips_code": null,
-    "rate": 0.04763
+    "rate": 0.05763
   },
   {
     "state": "MO",
     "jurisdiction_type": "city",
     "name": "Florissant (X4)",
     "fips_code": null,
-    "rate": 0.04763
+    "rate": 0.05763
   },
   {
     "state": "MO",
     "jurisdiction_type": "city",
     "name": "Florissant (X5)",
     "fips_code": null,
-    "rate": 0.04763
+    "rate": 0.05763
   },
   {
     "state": "MO",
     "jurisdiction_type": "city",
     "name": "Florissant (X6)",
     "fips_code": null,
-    "rate": 0.04763
+    "rate": 0.05763
   },
   {
     "state": "MO",
     "jurisdiction_type": "city",
     "name": "Florissant (X7)",
     "fips_code": null,
-    "rate": 0.04763
+    "rate": 0.05763
   },
   {
     "state": "MO",
     "jurisdiction_type": "city",
     "name": "Florissant (X8)",
     "fips_code": null,
-    "rate": 0.04763
+    "rate": 0.05763
   },
   {
     "state": "MO",
     "jurisdiction_type": "city",
     "name": "Florissant (X9)",
     "fips_code": null,
-    "rate": 0.04763
+    "rate": 0.05763
   },
   {
     "state": "MO",
@@ -43332,13 +43185,6 @@
   {
     "state": "MO",
     "jurisdiction_type": "city",
-    "name": "Frankclay",
-    "fips_code": null,
-    "rate": 0.02125
-  },
-  {
-    "state": "MO",
-    "jurisdiction_type": "city",
     "name": "Frankford",
     "fips_code": null,
     "rate": 0.04063
@@ -43348,7 +43194,7 @@
     "jurisdiction_type": "city",
     "name": "Franklin",
     "fips_code": null,
-    "rate": 0.04875
+    "rate": 0.05875
   },
   {
     "state": "MO",
@@ -43356,13 +43202,6 @@
     "name": "Fredericktown",
     "fips_code": null,
     "rate": 0.05
-  },
-  {
-    "state": "MO",
-    "jurisdiction_type": "city",
-    "name": "Freeburg",
-    "fips_code": null,
-    "rate": 0.0425
   },
   {
     "state": "MO",
@@ -43391,13 +43230,6 @@
     "name": "Fremont Hills",
     "fips_code": null,
     "rate": 0.0325
-  },
-  {
-    "state": "MO",
-    "jurisdiction_type": "city",
-    "name": "French Village",
-    "fips_code": null,
-    "rate": 0.02125
   },
   {
     "state": "MO",
@@ -43537,7 +43369,7 @@
     "jurisdiction_type": "city",
     "name": "Gerster",
     "fips_code": null,
-    "rate": 0.01375
+    "rate": 0.01875
   },
   {
     "state": "MO",
@@ -43552,13 +43384,6 @@
     "name": "Gibson",
     "fips_code": null,
     "rate": 0.01688
-  },
-  {
-    "state": "MO",
-    "jurisdiction_type": "city",
-    "name": "Gideon",
-    "fips_code": null,
-    "rate": 0.03
   },
   {
     "state": "MO",
@@ -43656,7 +43481,7 @@
     "jurisdiction_type": "city",
     "name": "Goodman",
     "fips_code": null,
-    "rate": 0.04
+    "rate": 0.045
   },
   {
     "state": "MO",
@@ -43803,7 +43628,7 @@
     "jurisdiction_type": "city",
     "name": "Grayridge",
     "fips_code": null,
-    "rate": 0.02188
+    "rate": 0.03188
   },
   {
     "state": "MO",
@@ -43852,14 +43677,14 @@
     "jurisdiction_type": "city",
     "name": "Greendale",
     "fips_code": null,
-    "rate": 0.05513
+    "rate": 0.06513
   },
   {
     "state": "MO",
     "jurisdiction_type": "city",
     "name": "Greenfield",
     "fips_code": null,
-    "rate": 0.04875
+    "rate": 0.05375
   },
   {
     "state": "MO",
@@ -43950,7 +43775,7 @@
     "jurisdiction_type": "city",
     "name": "Hanley Hills",
     "fips_code": null,
-    "rate": 0.05513
+    "rate": 0.06513
   },
   {
     "state": "MO",
@@ -44090,7 +43915,7 @@
     "jurisdiction_type": "city",
     "name": "Hazelwood (X1)",
     "fips_code": null,
-    "rate": 0.05763
+    "rate": 0.06763
   },
   {
     "state": "MO",
@@ -44104,7 +43929,7 @@
     "jurisdiction_type": "city",
     "name": "Helena",
     "fips_code": null,
-    "rate": 0.027
+    "rate": 0.037
   },
   {
     "state": "MO",
@@ -44216,7 +44041,7 @@
     "jurisdiction_type": "city",
     "name": "Hillsdale",
     "fips_code": null,
-    "rate": 0.05013
+    "rate": 0.06013
   },
   {
     "state": "MO",
@@ -44349,7 +44174,7 @@
     "jurisdiction_type": "city",
     "name": "Houston Lake",
     "fips_code": null,
-    "rate": 0.0125
+    "rate": 0.0225
   },
   {
     "state": "MO",
@@ -44362,13 +44187,6 @@
     "state": "MO",
     "jurisdiction_type": "city",
     "name": "Howards Ridge",
-    "fips_code": null,
-    "rate": 0.03
-  },
-  {
-    "state": "MO",
-    "jurisdiction_type": "city",
-    "name": "Howardville",
     "fips_code": null,
     "rate": 0.03
   },
@@ -44447,7 +44265,7 @@
     "jurisdiction_type": "city",
     "name": "Hurdland",
     "fips_code": null,
-    "rate": 0.02
+    "rate": 0.025
   },
   {
     "state": "MO",
@@ -44480,16 +44298,9 @@
   {
     "state": "MO",
     "jurisdiction_type": "city",
-    "name": "Iberia",
-    "fips_code": null,
-    "rate": 0.05
-  },
-  {
-    "state": "MO",
-    "jurisdiction_type": "city",
     "name": "Iconium",
     "fips_code": null,
-    "rate": 0.005
+    "rate": 0.01
   },
   {
     "state": "MO",
@@ -44529,9 +44340,9 @@
   {
     "state": "MO",
     "jurisdiction_type": "city",
-    "name": "Iron Mountain Lake",
+    "name": "Ionia",
     "fips_code": null,
-    "rate": 0.04125
+    "rate": 0.03
   },
   {
     "state": "MO",
@@ -44620,13 +44431,6 @@
   {
     "state": "MO",
     "jurisdiction_type": "city",
-    "name": "Jaywye",
-    "fips_code": null,
-    "rate": 0.02
-  },
-  {
-    "state": "MO",
-    "jurisdiction_type": "city",
     "name": "Jefferson City",
     "fips_code": null,
     "rate": 0.0475
@@ -44643,42 +44447,14 @@
     "jurisdiction_type": "city",
     "name": "Jennings",
     "fips_code": null,
-    "rate": 0.05263
-  },
-  {
-    "state": "MO",
-    "jurisdiction_type": "city",
-    "name": "Jennings (T4)",
-    "fips_code": null,
-    "rate": 0.05263
-  },
-  {
-    "state": "MO",
-    "jurisdiction_type": "city",
-    "name": "Jennings (T5)",
-    "fips_code": null,
-    "rate": 0.05263
-  },
-  {
-    "state": "MO",
-    "jurisdiction_type": "city",
-    "name": "Jennings (T6)",
-    "fips_code": null,
-    "rate": 0.05263
+    "rate": 0.06263
   },
   {
     "state": "MO",
     "jurisdiction_type": "city",
     "name": "Jennings (T7)",
     "fips_code": null,
-    "rate": 0.05263
-  },
-  {
-    "state": "MO",
-    "jurisdiction_type": "city",
-    "name": "Jennings (X1)",
-    "fips_code": null,
-    "rate": 0.05263
+    "rate": 0.06263
   },
   {
     "state": "MO",
@@ -44727,14 +44503,7 @@
     "jurisdiction_type": "city",
     "name": "Kahoka",
     "fips_code": null,
-    "rate": 0.04
-  },
-  {
-    "state": "MO",
-    "jurisdiction_type": "city",
-    "name": "Kaiser",
-    "fips_code": null,
-    "rate": 0.025
+    "rate": 0.045
   },
   {
     "state": "MO",
@@ -44774,13 +44543,6 @@
   {
     "state": "MO",
     "jurisdiction_type": "city",
-    "name": "Kewanee",
-    "fips_code": null,
-    "rate": 0.02
-  },
-  {
-    "state": "MO",
-    "jurisdiction_type": "city",
     "name": "Keytesville",
     "fips_code": null,
     "rate": 0.03
@@ -44811,7 +44573,7 @@
     "jurisdiction_type": "city",
     "name": "Kinder",
     "fips_code": null,
-    "rate": 0.02188
+    "rate": 0.03188
   },
   {
     "state": "MO",
@@ -44893,13 +44655,6 @@
   {
     "state": "MO",
     "jurisdiction_type": "city",
-    "name": "Knob Lick",
-    "fips_code": null,
-    "rate": 0.02125
-  },
-  {
-    "state": "MO",
-    "jurisdiction_type": "city",
     "name": "Knob Noster",
     "fips_code": null,
     "rate": 0.0575
@@ -44909,14 +44664,7 @@
     "jurisdiction_type": "city",
     "name": "Knox City",
     "fips_code": null,
-    "rate": 0.02
-  },
-  {
-    "state": "MO",
-    "jurisdiction_type": "city",
-    "name": "Koeltztown",
-    "fips_code": null,
-    "rate": 0.0325
+    "rate": 0.025
   },
   {
     "state": "MO",
@@ -45054,13 +44802,6 @@
   {
     "state": "MO",
     "jurisdiction_type": "city",
-    "name": "Lake Tapawingo",
-    "fips_code": null,
-    "rate": 0.02
-  },
-  {
-    "state": "MO",
-    "jurisdiction_type": "city",
     "name": "Lake Waukomis",
     "fips_code": null,
     "rate": 0.0225
@@ -45075,16 +44816,9 @@
   {
     "state": "MO",
     "jurisdiction_type": "city",
-    "name": "Lakenan",
-    "fips_code": null,
-    "rate": 0.03
-  },
-  {
-    "state": "MO",
-    "jurisdiction_type": "city",
     "name": "Lakeshire",
     "fips_code": null,
-    "rate": 0.04013
+    "rate": 0.05013
   },
   {
     "state": "MO",
@@ -45092,6 +44826,13 @@
     "name": "Lakeside",
     "fips_code": null,
     "rate": 0.01375
+  },
+  {
+    "state": "MO",
+    "jurisdiction_type": "city",
+    "name": "Lakeview Heights",
+    "fips_code": null,
+    "rate": 0.03
   },
   {
     "state": "MO",
@@ -45208,20 +44949,6 @@
   {
     "state": "MO",
     "jurisdiction_type": "city",
-    "name": "Leadington",
-    "fips_code": null,
-    "rate": 0.05125
-  },
-  {
-    "state": "MO",
-    "jurisdiction_type": "city",
-    "name": "Leadwood",
-    "fips_code": null,
-    "rate": 0.04125
-  },
-  {
-    "state": "MO",
-    "jurisdiction_type": "city",
     "name": "Leasburg",
     "fips_code": null,
     "rate": 0.0425
@@ -45267,20 +44994,6 @@
     "name": "Lenox",
     "fips_code": null,
     "rate": 0.0225
-  },
-  {
-    "state": "MO",
-    "jurisdiction_type": "city",
-    "name": "Lentner",
-    "fips_code": null,
-    "rate": 0.03
-  },
-  {
-    "state": "MO",
-    "jurisdiction_type": "city",
-    "name": "Leonard",
-    "fips_code": null,
-    "rate": 0.03
   },
   {
     "state": "MO",
@@ -45362,13 +45075,6 @@
   {
     "state": "MO",
     "jurisdiction_type": "city",
-    "name": "Lilbourn",
-    "fips_code": null,
-    "rate": 0.03
-  },
-  {
-    "state": "MO",
-    "jurisdiction_type": "city",
     "name": "Lincoln",
     "fips_code": null,
     "rate": 0.0425
@@ -45404,13 +45110,6 @@
   {
     "state": "MO",
     "jurisdiction_type": "city",
-    "name": "Livonia",
-    "fips_code": null,
-    "rate": 0.03
-  },
-  {
-    "state": "MO",
-    "jurisdiction_type": "city",
     "name": "Loch Lloyd Village",
     "fips_code": null,
     "rate": 0.02625
@@ -45427,7 +45126,7 @@
     "jurisdiction_type": "city",
     "name": "Lockwood",
     "fips_code": null,
-    "rate": 0.0525
+    "rate": 0.0575
   },
   {
     "state": "MO",
@@ -45455,7 +45154,7 @@
     "jurisdiction_type": "city",
     "name": "Lone Jack",
     "fips_code": null,
-    "rate": 0.04
+    "rate": 0.05
   },
   {
     "state": "MO",
@@ -45518,14 +45217,7 @@
     "jurisdiction_type": "city",
     "name": "Lowry City",
     "fips_code": null,
-    "rate": 0.0275
-  },
-  {
-    "state": "MO",
-    "jurisdiction_type": "city",
-    "name": "Lucerne",
-    "fips_code": null,
-    "rate": 0.03
+    "rate": 0.0325
   },
   {
     "state": "MO",
@@ -45721,7 +45413,7 @@
     "jurisdiction_type": "city",
     "name": "Marlborough",
     "fips_code": null,
-    "rate": 0.04763
+    "rate": 0.05763
   },
   {
     "state": "MO",
@@ -45735,7 +45427,7 @@
     "jurisdiction_type": "city",
     "name": "Marshall",
     "fips_code": null,
-    "rate": 0.0425
+    "rate": 0.0475
   },
   {
     "state": "MO",
@@ -45743,13 +45435,6 @@
     "name": "Marshfield",
     "fips_code": null,
     "rate": 0.04583
-  },
-  {
-    "state": "MO",
-    "jurisdiction_type": "city",
-    "name": "Marston",
-    "fips_code": null,
-    "rate": 0.05
   },
   {
     "state": "MO",
@@ -45784,7 +45469,7 @@
     "jurisdiction_type": "city",
     "name": "Maryland Heights (T2)",
     "fips_code": null,
-    "rate": 0.04013
+    "rate": 0.05013
   },
   {
     "state": "MO",
@@ -45810,13 +45495,6 @@
   {
     "state": "MO",
     "jurisdiction_type": "city",
-    "name": "Marys Home",
-    "fips_code": null,
-    "rate": 0.02
-  },
-  {
-    "state": "MO",
-    "jurisdiction_type": "city",
     "name": "Maryville",
     "fips_code": null,
     "rate": 0.04875
@@ -45827,13 +45505,6 @@
     "name": "Matson",
     "fips_code": null,
     "rate": 0.01725
-  },
-  {
-    "state": "MO",
-    "jurisdiction_type": "city",
-    "name": "Matthews",
-    "fips_code": null,
-    "rate": 0.05
   },
   {
     "state": "MO",
@@ -45973,7 +45644,7 @@
     "jurisdiction_type": "city",
     "name": "Messler",
     "fips_code": null,
-    "rate": 0.02188
+    "rate": 0.03188
   },
   {
     "state": "MO",
@@ -46120,7 +45791,7 @@
     "jurisdiction_type": "city",
     "name": "Miner",
     "fips_code": null,
-    "rate": 0.05
+    "rate": 0.06
   },
   {
     "state": "MO",
@@ -46232,7 +45903,7 @@
     "jurisdiction_type": "city",
     "name": "Montrose",
     "fips_code": null,
-    "rate": 0.037
+    "rate": 0.0395
   },
   {
     "state": "MO",
@@ -46251,9 +45922,9 @@
   {
     "state": "MO",
     "jurisdiction_type": "city",
-    "name": "Morehouse",
+    "name": "Mora",
     "fips_code": null,
-    "rate": 0.04
+    "rate": 0.03
   },
   {
     "state": "MO",
@@ -46324,6 +45995,13 @@
     "name": "Mount Leonard",
     "fips_code": null,
     "rate": 0.02
+  },
+  {
+    "state": "MO",
+    "jurisdiction_type": "city",
+    "name": "Mount Sterling",
+    "fips_code": null,
+    "rate": 0.02875
   },
   {
     "state": "MO",
@@ -46463,7 +46141,7 @@
     "jurisdiction_type": "city",
     "name": "New Franklin",
     "fips_code": null,
-    "rate": 0.04875
+    "rate": 0.05875
   },
   {
     "state": "MO",
@@ -46499,13 +46177,6 @@
     "name": "New London",
     "fips_code": null,
     "rate": 0.044
-  },
-  {
-    "state": "MO",
-    "jurisdiction_type": "city",
-    "name": "New Madrid",
-    "fips_code": null,
-    "rate": 0.045
   },
   {
     "state": "MO",
@@ -46547,7 +46218,7 @@
     "jurisdiction_type": "city",
     "name": "Newark",
     "fips_code": null,
-    "rate": 0.02
+    "rate": 0.025
   },
   {
     "state": "MO",
@@ -46596,7 +46267,7 @@
     "jurisdiction_type": "city",
     "name": "Nodaway",
     "fips_code": null,
-    "rate": 0.027
+    "rate": 0.037
   },
   {
     "state": "MO",
@@ -46615,23 +46286,9 @@
   {
     "state": "MO",
     "jurisdiction_type": "city",
-    "name": "Normandy",
-    "fips_code": null,
-    "rate": 0.06013
-  },
-  {
-    "state": "MO",
-    "jurisdiction_type": "city",
     "name": "North Kansas City",
     "fips_code": null,
     "rate": 0.035
-  },
-  {
-    "state": "MO",
-    "jurisdiction_type": "city",
-    "name": "North Lilbourn",
-    "fips_code": null,
-    "rate": 0.0275
   },
   {
     "state": "MO",
@@ -46645,7 +46302,7 @@
     "jurisdiction_type": "city",
     "name": "Northwoods",
     "fips_code": null,
-    "rate": 0.04763
+    "rate": 0.05763
   },
   {
     "state": "MO",
@@ -46666,7 +46323,7 @@
     "jurisdiction_type": "city",
     "name": "Norwood Court",
     "fips_code": null,
-    "rate": 0.05013
+    "rate": 0.06013
   },
   {
     "state": "MO",
@@ -46680,7 +46337,7 @@
     "jurisdiction_type": "city",
     "name": "Novelty",
     "fips_code": null,
-    "rate": 0.02
+    "rate": 0.025
   },
   {
     "state": "MO",
@@ -46797,13 +46454,6 @@
   {
     "state": "MO",
     "jurisdiction_type": "city",
-    "name": "Olean",
-    "fips_code": null,
-    "rate": 0.02
-  },
-  {
-    "state": "MO",
-    "jurisdiction_type": "city",
     "name": "Olivette",
     "fips_code": null,
     "rate": 0.05013
@@ -46897,7 +46547,7 @@
     "jurisdiction_type": "city",
     "name": "Osceola",
     "fips_code": null,
-    "rate": 0.02375
+    "rate": 0.02875
   },
   {
     "state": "MO",
@@ -46916,13 +46566,6 @@
   {
     "state": "MO",
     "jurisdiction_type": "city",
-    "name": "Otterville",
-    "fips_code": null,
-    "rate": 0.03
-  },
-  {
-    "state": "MO",
-    "jurisdiction_type": "city",
     "name": "Otto",
     "fips_code": null,
     "rate": 0.03125
@@ -46932,7 +46575,14 @@
     "jurisdiction_type": "city",
     "name": "Overland",
     "fips_code": null,
-    "rate": 0.04763
+    "rate": 0.05763
+  },
+  {
+    "state": "MO",
+    "jurisdiction_type": "city",
+    "name": "Owensville",
+    "fips_code": null,
+    "rate": 0.05375
   },
   {
     "state": "MO",
@@ -46981,77 +46631,77 @@
     "jurisdiction_type": "city",
     "name": "Pagedale",
     "fips_code": null,
-    "rate": 0.05763
+    "rate": 0.06763
   },
   {
     "state": "MO",
     "jurisdiction_type": "city",
     "name": "Pagedale (T10)",
     "fips_code": null,
-    "rate": 0.05763
+    "rate": 0.06763
   },
   {
     "state": "MO",
     "jurisdiction_type": "city",
     "name": "Pagedale (T2)",
     "fips_code": null,
-    "rate": 0.05763
+    "rate": 0.06763
   },
   {
     "state": "MO",
     "jurisdiction_type": "city",
     "name": "Pagedale (T3)",
     "fips_code": null,
-    "rate": 0.05763
+    "rate": 0.06763
   },
   {
     "state": "MO",
     "jurisdiction_type": "city",
     "name": "Pagedale (T4)",
     "fips_code": null,
-    "rate": 0.05763
+    "rate": 0.06763
   },
   {
     "state": "MO",
     "jurisdiction_type": "city",
     "name": "Pagedale (T5)",
     "fips_code": null,
-    "rate": 0.05763
+    "rate": 0.06763
   },
   {
     "state": "MO",
     "jurisdiction_type": "city",
     "name": "Pagedale (T6)",
     "fips_code": null,
-    "rate": 0.05763
+    "rate": 0.06763
   },
   {
     "state": "MO",
     "jurisdiction_type": "city",
     "name": "Pagedale (T7)",
     "fips_code": null,
-    "rate": 0.05763
+    "rate": 0.06763
   },
   {
     "state": "MO",
     "jurisdiction_type": "city",
     "name": "Pagedale (T8)",
     "fips_code": null,
-    "rate": 0.05763
+    "rate": 0.06763
   },
   {
     "state": "MO",
     "jurisdiction_type": "city",
     "name": "Pagedale (T9)",
     "fips_code": null,
-    "rate": 0.05763
+    "rate": 0.06763
   },
   {
     "state": "MO",
     "jurisdiction_type": "city",
     "name": "Painton",
     "fips_code": null,
-    "rate": 0.02188
+    "rate": 0.03188
   },
   {
     "state": "MO",
@@ -47066,13 +46716,6 @@
     "name": "Paris",
     "fips_code": null,
     "rate": 0.04
-  },
-  {
-    "state": "MO",
-    "jurisdiction_type": "city",
-    "name": "Park Hills",
-    "fips_code": null,
-    "rate": 0.05125
   },
   {
     "state": "MO",
@@ -47098,13 +46741,6 @@
   {
     "state": "MO",
     "jurisdiction_type": "city",
-    "name": "Parma",
-    "fips_code": null,
-    "rate": 0.04
-  },
-  {
-    "state": "MO",
-    "jurisdiction_type": "city",
     "name": "Parnell",
     "fips_code": null,
     "rate": 0.02375
@@ -47114,14 +46750,14 @@
     "jurisdiction_type": "city",
     "name": "Pasadena Hills",
     "fips_code": null,
-    "rate": 0.05013
+    "rate": 0.06013
   },
   {
     "state": "MO",
     "jurisdiction_type": "city",
     "name": "Pasadena Park",
     "fips_code": null,
-    "rate": 0.05013
+    "rate": 0.06013
   },
   {
     "state": "MO",
@@ -47191,14 +46827,14 @@
     "jurisdiction_type": "city",
     "name": "Penermon",
     "fips_code": null,
-    "rate": 0.02188
+    "rate": 0.03188
   },
   {
     "state": "MO",
     "jurisdiction_type": "city",
     "name": "Pennsboro",
     "fips_code": null,
-    "rate": 0.0275
+    "rate": 0.0325
   },
   {
     "state": "MO",
@@ -47287,13 +46923,6 @@
   {
     "state": "MO",
     "jurisdiction_type": "city",
-    "name": "Pilot Grove",
-    "fips_code": null,
-    "rate": 0.04
-  },
-  {
-    "state": "MO",
-    "jurisdiction_type": "city",
     "name": "Pilot Knob",
     "fips_code": null,
     "rate": 0.05
@@ -47303,14 +46932,14 @@
     "jurisdiction_type": "city",
     "name": "Pine Lawn",
     "fips_code": null,
-    "rate": 0.06263
+    "rate": 0.07263
   },
   {
     "state": "MO",
     "jurisdiction_type": "city",
     "name": "Pineville",
     "fips_code": null,
-    "rate": 0.04
+    "rate": 0.045
   },
   {
     "state": "MO",
@@ -47324,7 +46953,7 @@
     "jurisdiction_type": "city",
     "name": "Pinhook",
     "fips_code": null,
-    "rate": 0.0175
+    "rate": 0.0275
   },
   {
     "state": "MO",
@@ -47359,7 +46988,7 @@
     "jurisdiction_type": "city",
     "name": "Platte Woods",
     "fips_code": null,
-    "rate": 0.0275
+    "rate": 0.0375
   },
   {
     "state": "MO",
@@ -47367,13 +46996,6 @@
     "name": "Plattsburg",
     "fips_code": null,
     "rate": 0.04
-  },
-  {
-    "state": "MO",
-    "jurisdiction_type": "city",
-    "name": "Pleasant Green",
-    "fips_code": null,
-    "rate": 0.02
   },
   {
     "state": "MO",
@@ -47401,7 +47023,7 @@
     "jurisdiction_type": "city",
     "name": "Plevna",
     "fips_code": null,
-    "rate": 0.02
+    "rate": 0.025
   },
   {
     "state": "MO",
@@ -47416,13 +47038,6 @@
     "name": "Point Lookout",
     "fips_code": null,
     "rate": 0.02125
-  },
-  {
-    "state": "MO",
-    "jurisdiction_type": "city",
-    "name": "Point Pleasant",
-    "fips_code": null,
-    "rate": 0.02
   },
   {
     "state": "MO",
@@ -47483,13 +47098,6 @@
   {
     "state": "MO",
     "jurisdiction_type": "city",
-    "name": "Portageville",
-    "fips_code": null,
-    "rate": 0.0375
-  },
-  {
-    "state": "MO",
-    "jurisdiction_type": "city",
     "name": "Portland",
     "fips_code": null,
     "rate": 0.025
@@ -47525,13 +47133,6 @@
   {
     "state": "MO",
     "jurisdiction_type": "city",
-    "name": "Powersville",
-    "fips_code": null,
-    "rate": 0.03
-  },
-  {
-    "state": "MO",
-    "jurisdiction_type": "city",
     "name": "Poynor",
     "fips_code": null,
     "rate": 0.02
@@ -47542,13 +47143,6 @@
     "name": "Prairie Hill",
     "fips_code": null,
     "rate": 0.02
-  },
-  {
-    "state": "MO",
-    "jurisdiction_type": "city",
-    "name": "Prairie Home",
-    "fips_code": null,
-    "rate": 0.03
   },
   {
     "state": "MO",
@@ -47618,7 +47212,7 @@
     "jurisdiction_type": "city",
     "name": "Puxico",
     "fips_code": null,
-    "rate": 0.03438
+    "rate": 0.04438
   },
   {
     "state": "MO",
@@ -47702,7 +47296,7 @@
     "jurisdiction_type": "city",
     "name": "Rea",
     "fips_code": null,
-    "rate": 0.027
+    "rate": 0.037
   },
   {
     "state": "MO",
@@ -47737,7 +47331,7 @@
     "jurisdiction_type": "city",
     "name": "Reeds Spring",
     "fips_code": null,
-    "rate": 0.0575
+    "rate": 0.0625
   },
   {
     "state": "MO",
@@ -47882,13 +47476,6 @@
   {
     "state": "MO",
     "jurisdiction_type": "city",
-    "name": "Risco",
-    "fips_code": null,
-    "rate": 0.03
-  },
-  {
-    "state": "MO",
-    "jurisdiction_type": "city",
     "name": "Ritchey",
     "fips_code": null,
     "rate": 0.01625
@@ -47912,7 +47499,7 @@
     "jurisdiction_type": "city",
     "name": "Riverview",
     "fips_code": null,
-    "rate": 0.04013
+    "rate": 0.05013
   },
   {
     "state": "MO",
@@ -47933,7 +47520,7 @@
     "jurisdiction_type": "city",
     "name": "Roanoke",
     "fips_code": null,
-    "rate": 0.02875
+    "rate": 0.03875
   },
   {
     "state": "MO",
@@ -48045,7 +47632,7 @@
     "jurisdiction_type": "city",
     "name": "Roscoe",
     "fips_code": null,
-    "rate": 0.005
+    "rate": 0.01
   },
   {
     "state": "MO",
@@ -48066,7 +47653,7 @@
     "jurisdiction_type": "city",
     "name": "Rosendale",
     "fips_code": null,
-    "rate": 0.027
+    "rate": 0.037
   },
   {
     "state": "MO",
@@ -48185,7 +47772,7 @@
     "jurisdiction_type": "city",
     "name": "Savannah",
     "fips_code": null,
-    "rate": 0.052
+    "rate": 0.062
   },
   {
     "state": "MO",
@@ -48274,20 +47861,6 @@
   {
     "state": "MO",
     "jurisdiction_type": "city",
-    "name": "Shelbina",
-    "fips_code": null,
-    "rate": 0.0525
-  },
-  {
-    "state": "MO",
-    "jurisdiction_type": "city",
-    "name": "Shelbyville",
-    "fips_code": null,
-    "rate": 0.04
-  },
-  {
-    "state": "MO",
-    "jurisdiction_type": "city",
     "name": "Sheldon",
     "fips_code": null,
     "rate": 0.025
@@ -48346,7 +47919,7 @@
     "jurisdiction_type": "city",
     "name": "Sikeston",
     "fips_code": null,
-    "rate": 0.05
+    "rate": 0.055
   },
   {
     "state": "MO",
@@ -48437,7 +48010,7 @@
     "jurisdiction_type": "city",
     "name": "South Greenfield",
     "fips_code": null,
-    "rate": 0.0275
+    "rate": 0.0325
   },
   {
     "state": "MO",
@@ -48521,14 +48094,7 @@
     "jurisdiction_type": "city",
     "name": "St Ann (T2)",
     "fips_code": null,
-    "rate": 0.06263
-  },
-  {
-    "state": "MO",
-    "jurisdiction_type": "city",
-    "name": "St Anthony",
-    "fips_code": null,
-    "rate": 0.02
+    "rate": 0.07263
   },
   {
     "state": "MO",
@@ -48554,13 +48120,6 @@
   {
     "state": "MO",
     "jurisdiction_type": "city",
-    "name": "St Elizabeth",
-    "fips_code": null,
-    "rate": 0.03
-  },
-  {
-    "state": "MO",
-    "jurisdiction_type": "city",
     "name": "St James",
     "fips_code": null,
     "rate": 0.04125
@@ -48570,7 +48129,7 @@
     "jurisdiction_type": "city",
     "name": "St John",
     "fips_code": null,
-    "rate": 0.04763
+    "rate": 0.05763
   },
   {
     "state": "MO",
@@ -48836,7 +48395,7 @@
     "jurisdiction_type": "city",
     "name": "Sunrise Beach",
     "fips_code": null,
-    "rate": 0.04
+    "rate": 0.045
   },
   {
     "state": "MO",
@@ -48927,7 +48486,7 @@
     "jurisdiction_type": "city",
     "name": "Sycamore Hills",
     "fips_code": null,
-    "rate": 0.03513
+    "rate": 0.04513
   },
   {
     "state": "MO",
@@ -48941,14 +48500,7 @@
     "jurisdiction_type": "city",
     "name": "Taberville",
     "fips_code": null,
-    "rate": 0.005
-  },
-  {
-    "state": "MO",
-    "jurisdiction_type": "city",
-    "name": "Tallapoosa",
-    "fips_code": null,
-    "rate": 0.02
+    "rate": 0.01
   },
   {
     "state": "MO",
@@ -49074,7 +48626,7 @@
     "jurisdiction_type": "city",
     "name": "Tightwad",
     "fips_code": null,
-    "rate": 0.027
+    "rate": 0.0295
   },
   {
     "state": "MO",
@@ -49198,13 +48750,6 @@
   {
     "state": "MO",
     "jurisdiction_type": "city",
-    "name": "Tuscumbia",
-    "fips_code": null,
-    "rate": 0.03
-  },
-  {
-    "state": "MO",
-    "jurisdiction_type": "city",
     "name": "Twin Oaks",
     "fips_code": null,
     "rate": 0.04763
@@ -49233,13 +48778,6 @@
   {
     "state": "MO",
     "jurisdiction_type": "city",
-    "name": "Ulman",
-    "fips_code": null,
-    "rate": 0.02
-  },
-  {
-    "state": "MO",
-    "jurisdiction_type": "city",
     "name": "Union",
     "fips_code": null,
     "rate": 0.0525
@@ -49257,13 +48795,6 @@
     "name": "Uniontown",
     "fips_code": null,
     "rate": 0.02375
-  },
-  {
-    "state": "MO",
-    "jurisdiction_type": "city",
-    "name": "Unionville",
-    "fips_code": null,
-    "rate": 0.04875
   },
   {
     "state": "MO",
@@ -49305,7 +48836,7 @@
     "jurisdiction_type": "city",
     "name": "Uplands Park",
     "fips_code": null,
-    "rate": 0.05013
+    "rate": 0.06013
   },
   {
     "state": "MO",
@@ -49319,7 +48850,7 @@
     "jurisdiction_type": "city",
     "name": "Urich",
     "fips_code": null,
-    "rate": 0.0395
+    "rate": 0.042
   },
   {
     "state": "MO",
@@ -49452,14 +48983,14 @@
     "jurisdiction_type": "city",
     "name": "Velda City",
     "fips_code": null,
-    "rate": 0.05013
+    "rate": 0.06013
   },
   {
     "state": "MO",
     "jurisdiction_type": "city",
     "name": "Velda Village Hills",
     "fips_code": null,
-    "rate": 0.05513
+    "rate": 0.06513
   },
   {
     "state": "MO",
@@ -49506,13 +49037,6 @@
   {
     "state": "MO",
     "jurisdiction_type": "city",
-    "name": "Vienna",
-    "fips_code": null,
-    "rate": 0.05166
-  },
-  {
-    "state": "MO",
-    "jurisdiction_type": "city",
     "name": "Villa Ridge",
     "fips_code": null,
     "rate": 0.0275
@@ -49529,14 +49053,14 @@
     "jurisdiction_type": "city",
     "name": "Vinita Park",
     "fips_code": null,
-    "rate": 0.05513
+    "rate": 0.06513
   },
   {
     "state": "MO",
     "jurisdiction_type": "city",
     "name": "Vista",
     "fips_code": null,
-    "rate": 0.005
+    "rate": 0.01
   },
   {
     "state": "MO",
@@ -49828,13 +49352,6 @@
   {
     "state": "MO",
     "jurisdiction_type": "city",
-    "name": "Weston",
-    "fips_code": null,
-    "rate": 0.03625
-  },
-  {
-    "state": "MO",
-    "jurisdiction_type": "city",
     "name": "Westphalia",
     "fips_code": null,
     "rate": 0.0375
@@ -49865,7 +49382,7 @@
     "jurisdiction_type": "city",
     "name": "Wheaton",
     "fips_code": null,
-    "rate": 0.03875
+    "rate": 0.04875
   },
   {
     "state": "MO",
@@ -49921,7 +49438,7 @@
     "jurisdiction_type": "city",
     "name": "Wilbur Park",
     "fips_code": null,
-    "rate": 0.04013
+    "rate": 0.05013
   },
   {
     "state": "MO",
@@ -49977,7 +49494,7 @@
     "jurisdiction_type": "city",
     "name": "Wilson City",
     "fips_code": null,
-    "rate": 0.0175
+    "rate": 0.0275
   },
   {
     "state": "MO",
@@ -49998,14 +49515,7 @@
     "jurisdiction_type": "city",
     "name": "Windsor",
     "fips_code": null,
-    "rate": 0.0445
-  },
-  {
-    "state": "MO",
-    "jurisdiction_type": "city",
-    "name": "Windsor Place",
-    "fips_code": null,
-    "rate": 0.045
+    "rate": 0.047
   },
   {
     "state": "MO",
@@ -50054,7 +49564,7 @@
     "jurisdiction_type": "city",
     "name": "Wolf Island",
     "fips_code": null,
-    "rate": 0.0175
+    "rate": 0.0275
   },
   {
     "state": "MO",
@@ -50062,13 +49572,6 @@
     "name": "Womack",
     "fips_code": null,
     "rate": 0.03375
-  },
-  {
-    "state": "MO",
-    "jurisdiction_type": "city",
-    "name": "Woodland Park",
-    "fips_code": null,
-    "rate": 0.02
   },
   {
     "state": "MO",
@@ -50082,14 +49585,7 @@
     "jurisdiction_type": "city",
     "name": "Woodson Terrace",
     "fips_code": null,
-    "rate": 0.05263
-  },
-  {
-    "state": "MO",
-    "jurisdiction_type": "city",
-    "name": "Wooldridge",
-    "fips_code": null,
-    "rate": 0.02
+    "rate": 0.06263
   },
   {
     "state": "MO",
@@ -50097,20 +49593,6 @@
     "name": "Worth",
     "fips_code": null,
     "rate": 0.02375
-  },
-  {
-    "state": "MO",
-    "jurisdiction_type": "city",
-    "name": "Wortham",
-    "fips_code": null,
-    "rate": 0.02125
-  },
-  {
-    "state": "MO",
-    "jurisdiction_type": "city",
-    "name": "Worthington",
-    "fips_code": null,
-    "rate": 0.03
   },
   {
     "state": "MO",
@@ -50131,7 +49613,7 @@
     "jurisdiction_type": "city",
     "name": "Wyatt",
     "fips_code": null,
-    "rate": 0.0275
+    "rate": 0.0375
   },
   {
     "state": "MO",
@@ -50150,16 +49632,9 @@
   {
     "state": "MO",
     "jurisdiction_type": "county",
-    "name": "Adair County",
-    "fips_code": "001",
-    "rate": 0.0175
-  },
-  {
-    "state": "MO",
-    "jurisdiction_type": "county",
     "name": "Andrew County",
     "fips_code": "003",
-    "rate": 0.022
+    "rate": 0.032
   },
   {
     "state": "MO",
@@ -50325,13 +49800,6 @@
   {
     "state": "MO",
     "jurisdiction_type": "county",
-    "name": "Cooper County",
-    "fips_code": "053",
-    "rate": 0.02
-  },
-  {
-    "state": "MO",
-    "jurisdiction_type": "county",
     "name": "Crawford County",
     "fips_code": "055",
     "rate": 0.0275
@@ -50341,7 +49809,7 @@
     "jurisdiction_type": "county",
     "name": "Dade County",
     "fips_code": "057",
-    "rate": 0.0275
+    "rate": 0.0325
   },
   {
     "state": "MO",
@@ -50432,7 +49900,7 @@
     "jurisdiction_type": "county",
     "name": "Henry County",
     "fips_code": "083",
-    "rate": 0.017
+    "rate": 0.0195
   },
   {
     "state": "MO",
@@ -50453,7 +49921,7 @@
     "jurisdiction_type": "county",
     "name": "Howard County",
     "fips_code": "089",
-    "rate": 0.02875
+    "rate": 0.03875
   },
   {
     "state": "MO",
@@ -50502,7 +49970,7 @@
     "jurisdiction_type": "county",
     "name": "Knox County",
     "fips_code": "103",
-    "rate": 0.02
+    "rate": 0.025
   },
   {
     "state": "MO",
@@ -50600,7 +50068,7 @@
     "jurisdiction_type": "county",
     "name": "Mississippi County",
     "fips_code": "133",
-    "rate": 0.0175
+    "rate": 0.0275
   },
   {
     "state": "MO",
@@ -50622,13 +50090,6 @@
     "name": "Montgomery County",
     "fips_code": "139",
     "rate": 0.0225
-  },
-  {
-    "state": "MO",
-    "jurisdiction_type": "county",
-    "name": "New Madrid County",
-    "fips_code": "143",
-    "rate": 0.02
   },
   {
     "state": "MO",
@@ -50724,13 +50185,6 @@
   {
     "state": "MO",
     "jurisdiction_type": "county",
-    "name": "Putnam County",
-    "fips_code": "171",
-    "rate": 0.03
-  },
-  {
-    "state": "MO",
-    "jurisdiction_type": "county",
     "name": "Ralls County",
     "fips_code": "173",
     "rate": 0.0215
@@ -50803,14 +50257,7 @@
     "jurisdiction_type": "county",
     "name": "St Clair County",
     "fips_code": "185",
-    "rate": 0.005
-  },
-  {
-    "state": "MO",
-    "jurisdiction_type": "county",
-    "name": "St Francois County",
-    "fips_code": "187",
-    "rate": 0.02125
+    "rate": 0.01
   },
   {
     "state": "MO",
@@ -50831,7 +50278,14 @@
     "jurisdiction_type": "county",
     "name": "Stoddard County",
     "fips_code": "207",
-    "rate": 0.02188
+    "rate": 0.03188
+  },
+  {
+    "state": "MO",
+    "jurisdiction_type": "county",
+    "name": "Stone County",
+    "fips_code": "209",
+    "rate": 0.0275
   },
   {
     "state": "MO",
@@ -78271,14 +77725,14 @@
     "jurisdiction_type": "city",
     "name": "Oak Ridge",
     "fips_code": null,
-    "rate": 0.02
+    "rate": 0.015
   },
   {
     "state": "TX",
     "jurisdiction_type": "city",
     "name": "Oak Ridge",
     "fips_code": null,
-    "rate": 0.015
+    "rate": 0.02
   },
   {
     "state": "TX",
@@ -79139,14 +78593,14 @@
     "jurisdiction_type": "city",
     "name": "Reno",
     "fips_code": null,
-    "rate": 0.015
+    "rate": 0.01
   },
   {
     "state": "TX",
     "jurisdiction_type": "city",
     "name": "Reno",
     "fips_code": null,
-    "rate": 0.01
+    "rate": 0.015
   },
   {
     "state": "TX",
