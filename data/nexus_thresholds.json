@@ -4,328 +4,469 @@
     "sales_threshold": 100000.0,
     "transaction_threshold": null,
     "logic": "sales_only",
-    "measurement_period": "current_or_prior_cy"
+    "measurement_period": "current_or_prior_cy",
+    "effective_date": "2024-01-01",
+    "source_url": "https://arsstc.org/",
+    "retrieved_at": "2026-08-04"
   },
   {
     "state": "AL",
     "sales_threshold": 250000.0,
     "transaction_threshold": null,
     "logic": "sales_only",
-    "measurement_period": "current_or_prior_cy"
+    "measurement_period": "current_or_prior_cy",
+    "effective_date": "2024-01-01",
+    "source_url": "https://www.revenue.alabama.gov/sales-use/simplified-sellers-use-tax-ssut/",
+    "retrieved_at": "2026-08-04"
   },
   {
     "state": "AR",
     "sales_threshold": 100000.0,
     "transaction_threshold": 200,
     "logic": "sales_or_count",
-    "measurement_period": "current_or_prior_cy"
+    "measurement_period": "current_or_prior_cy",
+    "effective_date": "2024-01-01",
+    "source_url": "https://www.dfa.arkansas.gov/excise-tax/sales-and-use-tax/remote-sellers/",
+    "retrieved_at": "2026-08-04"
   },
   {
     "state": "AZ",
     "sales_threshold": 100000.0,
     "transaction_threshold": null,
     "logic": "sales_only",
-    "measurement_period": "current_or_prior_cy"
+    "measurement_period": "current_or_prior_cy",
+    "effective_date": "2024-01-01",
+    "source_url": "https://azdor.gov/business/transaction-privilege-tax/retail-sales-subject-tpt/out-state-sellers/economic-threshold",
+    "retrieved_at": "2026-08-04"
   },
   {
     "state": "CA",
     "sales_threshold": 500000.0,
     "transaction_threshold": null,
     "logic": "sales_only",
-    "measurement_period": "current_or_prior_cy"
+    "measurement_period": "current_or_prior_cy",
+    "effective_date": "2024-01-01",
+    "source_url": "https://www.cdtfa.ca.gov/industry/wayfair.htm",
+    "retrieved_at": "2026-08-04"
   },
   {
     "state": "CO",
     "sales_threshold": 100000.0,
     "transaction_threshold": null,
     "logic": "sales_only",
-    "measurement_period": "current_or_prior_cy"
+    "measurement_period": "current_or_prior_cy",
+    "effective_date": "2024-01-01",
+    "source_url": "https://tax.colorado.gov/retailers-out-of-state",
+    "retrieved_at": "2026-08-04"
   },
   {
     "state": "CT",
     "sales_threshold": 100000.0,
     "transaction_threshold": 200,
     "logic": "sales_and_count",
-    "measurement_period": "current_or_prior_cy"
+    "measurement_period": "current_or_prior_cy",
+    "effective_date": "2024-01-01",
+    "source_url": "https://portal.ct.gov/DRS",
+    "retrieved_at": "2026-08-04"
   },
   {
     "state": "DC",
     "sales_threshold": 100000.0,
     "transaction_threshold": 200,
     "logic": "sales_or_count",
-    "measurement_period": "current_or_prior_cy"
+    "measurement_period": "current_or_prior_cy",
+    "effective_date": "2024-01-01",
+    "source_url": "https://otr.cfo.dc.gov/",
+    "retrieved_at": "2026-08-04"
   },
   {
     "state": "FL",
     "sales_threshold": 100000.0,
     "transaction_threshold": null,
     "logic": "sales_only",
-    "measurement_period": "current_or_prior_cy"
+    "measurement_period": "current_or_prior_cy",
+    "effective_date": "2024-01-01",
+    "source_url": "https://www.salestaxinstitute.com/resources/economic-nexus-state-guide",
+    "retrieved_at": "2026-08-04"
   },
   {
     "state": "GA",
     "sales_threshold": 100000.0,
     "transaction_threshold": 200,
     "logic": "sales_or_count",
-    "measurement_period": "current_or_prior_cy"
+    "measurement_period": "current_or_prior_cy",
+    "effective_date": "2024-01-01",
+    "source_url": "https://www.salestaxinstitute.com/resources/economic-nexus-state-guide",
+    "retrieved_at": "2026-08-04"
   },
   {
     "state": "HI",
     "sales_threshold": 100000.0,
     "transaction_threshold": 200,
     "logic": "sales_or_count",
-    "measurement_period": "current_or_prior_cy"
+    "measurement_period": "current_or_prior_cy",
+    "effective_date": "2024-01-01",
+    "source_url": "https://www.salestaxinstitute.com/resources/economic-nexus-state-guide",
+    "retrieved_at": "2026-08-04"
   },
   {
     "state": "IA",
     "sales_threshold": 100000.0,
     "transaction_threshold": null,
     "logic": "sales_only",
-    "measurement_period": "current_or_prior_cy"
+    "measurement_period": "current_or_prior_cy",
+    "effective_date": "2024-01-01",
+    "source_url": "https://revenue.iowa.gov/taxes/tax-guidance/sales-use-excise-tax/remote-sellers-marketplace-facilitators",
+    "retrieved_at": "2026-08-04"
   },
   {
     "state": "ID",
     "sales_threshold": 100000.0,
     "transaction_threshold": null,
     "logic": "sales_only",
-    "measurement_period": "current_or_prior_cy"
+    "measurement_period": "current_or_prior_cy",
+    "effective_date": "2024-01-01",
+    "source_url": "https://tax.idaho.gov/taxes/sales-use/guides-for-certain-groups/online-sellers/online-guide/",
+    "retrieved_at": "2026-08-04"
   },
   {
     "state": "IL",
     "sales_threshold": 100000.0,
     "transaction_threshold": null,
     "logic": "sales_only",
-    "measurement_period": "current_or_prior_cy"
+    "measurement_period": "current_or_prior_cy",
+    "effective_date": "2024-01-01",
+    "source_url": "https://www.salestaxinstitute.com/resources/illinois-economic-nexus-update-no-transaction-threshold",
+    "retrieved_at": "2026-08-04"
   },
   {
     "state": "IN",
     "sales_threshold": 100000.0,
     "transaction_threshold": null,
     "logic": "sales_only",
-    "measurement_period": "current_or_prior_cy"
+    "measurement_period": "current_or_prior_cy",
+    "effective_date": "2024-01-01",
+    "source_url": "https://www.in.gov/dor/files/sib89.pdf",
+    "retrieved_at": "2026-08-04"
   },
   {
     "state": "KS",
     "sales_threshold": 100000.0,
     "transaction_threshold": null,
     "logic": "sales_only",
-    "measurement_period": "current_or_prior_cy"
+    "measurement_period": "current_or_prior_cy",
+    "effective_date": "2024-01-01",
+    "source_url": "https://www.salestaxinstitute.com/resources/kansas-enacts-economic-and-marketplace-nexus-legislation-following-veto-override",
+    "retrieved_at": "2026-08-04"
   },
   {
     "state": "KY",
     "sales_threshold": 100000.0,
     "transaction_threshold": null,
     "logic": "sales_only",
-    "measurement_period": "current_or_prior_cy"
+    "measurement_period": "current_or_prior_cy",
+    "effective_date": "2026-08-01",
+    "source_url": "https://www.salestaxinstitute.com/resources/kentucky-removes-200-transaction-count-from-nexus-consideration",
+    "retrieved_at": "2026-08-04"
   },
   {
     "state": "LA",
     "sales_threshold": 100000.0,
     "transaction_threshold": null,
     "logic": "sales_only",
-    "measurement_period": "current_or_prior_cy"
+    "measurement_period": "current_or_prior_cy",
+    "effective_date": "2024-01-01",
+    "source_url": "https://remotesellers.louisiana.gov/FAQ",
+    "retrieved_at": "2026-08-04"
   },
   {
     "state": "MA",
     "sales_threshold": 100000.0,
     "transaction_threshold": null,
     "logic": "sales_only",
-    "measurement_period": "current_or_prior_cy"
+    "measurement_period": "current_or_prior_cy",
+    "effective_date": "2024-01-01",
+    "source_url": "https://www.salestaxinstitute.com/resources/economic-nexus-state-guide",
+    "retrieved_at": "2026-08-04"
   },
   {
     "state": "MD",
     "sales_threshold": 100000.0,
     "transaction_threshold": 200,
     "logic": "sales_or_count",
-    "measurement_period": "current_or_prior_cy"
+    "measurement_period": "current_or_prior_cy",
+    "effective_date": "2024-01-01",
+    "source_url": "https://www.salestaxinstitute.com/resources/economic-nexus-state-guide",
+    "retrieved_at": "2026-08-04"
   },
   {
     "state": "ME",
     "sales_threshold": 100000.0,
     "transaction_threshold": null,
     "logic": "sales_only",
-    "measurement_period": "current_or_prior_cy"
+    "measurement_period": "current_or_prior_cy",
+    "effective_date": "2024-01-01",
+    "source_url": "https://www.salestaxinstitute.com/resources/maine-enacts-economic-nexus-legislation",
+    "retrieved_at": "2026-08-04"
   },
   {
     "state": "MI",
     "sales_threshold": 100000.0,
     "transaction_threshold": 200,
     "logic": "sales_or_count",
-    "measurement_period": "current_or_prior_cy"
+    "measurement_period": "current_or_prior_cy",
+    "effective_date": "2024-01-01",
+    "source_url": "https://www.salestaxinstitute.com/resources/economic-nexus-state-guide",
+    "retrieved_at": "2026-08-04"
   },
   {
     "state": "MN",
     "sales_threshold": 100000.0,
     "transaction_threshold": 200,
     "logic": "sales_or_count",
-    "measurement_period": "current_or_prior_cy"
+    "measurement_period": "current_or_prior_cy",
+    "effective_date": "2024-01-01",
+    "source_url": "https://www.revenue.state.mn.us/sales-tax-faqs-remote-sellers",
+    "retrieved_at": "2026-08-04"
   },
   {
     "state": "MO",
     "sales_threshold": 100000.0,
     "transaction_threshold": null,
     "logic": "sales_only",
-    "measurement_period": "current_or_prior_cy"
+    "measurement_period": "current_or_prior_cy",
+    "effective_date": "2024-01-01",
+    "source_url": "https://www.salestaxinstitute.com/resources/economic-nexus-state-guide",
+    "retrieved_at": "2026-08-04"
   },
   {
     "state": "MS",
     "sales_threshold": 250000.0,
     "transaction_threshold": null,
     "logic": "sales_only",
-    "measurement_period": "current_or_prior_cy"
+    "measurement_period": "current_or_prior_cy",
+    "effective_date": "2024-01-01",
+    "source_url": "https://www.salestaxinstitute.com/resources/mississippi-issues-economic-nexus-rule",
+    "retrieved_at": "2026-08-04"
   },
   {
     "state": "NC",
     "sales_threshold": 100000.0,
     "transaction_threshold": null,
     "logic": "sales_only",
-    "measurement_period": "current_or_prior_cy"
+    "measurement_period": "current_or_prior_cy",
+    "effective_date": "2024-01-01",
+    "source_url": "https://www.ncdor.gov/taxes-forms/sales-and-use-tax/other-sales-and-use-tax-resources/remote-sales",
+    "retrieved_at": "2026-08-04"
   },
   {
     "state": "ND",
     "sales_threshold": 100000.0,
     "transaction_threshold": null,
     "logic": "sales_only",
-    "measurement_period": "current_or_prior_cy"
+    "measurement_period": "current_or_prior_cy",
+    "effective_date": "2024-01-01",
+    "source_url": "https://www.tax.nd.gov/sales-and-use-tax",
+    "retrieved_at": "2026-08-04"
   },
   {
     "state": "NE",
     "sales_threshold": 100000.0,
     "transaction_threshold": 200,
     "logic": "sales_or_count",
-    "measurement_period": "current_or_prior_cy"
+    "measurement_period": "current_or_prior_cy",
+    "effective_date": "2024-01-01",
+    "source_url": "https://www.salestaxinstitute.com/resources/economic-nexus-state-guide",
+    "retrieved_at": "2026-08-04"
   },
   {
     "state": "NJ",
     "sales_threshold": 100000.0,
     "transaction_threshold": 200,
     "logic": "sales_or_count",
-    "measurement_period": "current_or_prior_cy"
+    "measurement_period": "current_or_prior_cy",
+    "effective_date": "2024-01-01",
+    "source_url": "https://www.nj.gov/treasury/taxation/remotesellers.shtml",
+    "retrieved_at": "2026-08-04"
   },
   {
     "state": "NM",
     "sales_threshold": 100000.0,
     "transaction_threshold": null,
     "logic": "sales_only",
-    "measurement_period": "current_or_prior_cy"
+    "measurement_period": "current_or_prior_cy",
+    "effective_date": "2024-01-01",
+    "source_url": "https://www.tax.newmexico.gov/businesses/determining-nexus/",
+    "retrieved_at": "2026-08-04"
   },
   {
     "state": "NV",
     "sales_threshold": 100000.0,
     "transaction_threshold": 200,
     "logic": "sales_or_count",
-    "measurement_period": "current_or_prior_cy"
+    "measurement_period": "current_or_prior_cy",
+    "effective_date": "2024-01-01",
+    "source_url": "https://www.salestaxinstitute.com/resources/economic-nexus-state-guide",
+    "retrieved_at": "2026-08-04"
   },
   {
     "state": "NY",
     "sales_threshold": 500000.0,
     "transaction_threshold": 100,
     "logic": "sales_and_count",
-    "measurement_period": "prior_4_quarters"
+    "measurement_period": "prior_4_quarters",
+    "effective_date": "2024-01-01",
+    "source_url": "https://www.tax.ny.gov/pdf/notices/n19-1.pdf",
+    "retrieved_at": "2026-08-04"
   },
   {
     "state": "OH",
     "sales_threshold": 100000.0,
     "transaction_threshold": 200,
     "logic": "sales_or_count",
-    "measurement_period": "current_or_prior_cy"
+    "measurement_period": "current_or_prior_cy",
+    "effective_date": "2024-01-01",
+    "source_url": "https://codes.ohio.gov/ohio-revised-code/section-5741.01",
+    "retrieved_at": "2026-08-04"
   },
   {
     "state": "OK",
     "sales_threshold": 100000.0,
     "transaction_threshold": null,
     "logic": "sales_only",
-    "measurement_period": "current_or_prior_cy"
+    "measurement_period": "current_or_prior_cy",
+    "effective_date": "2024-01-01",
+    "source_url": "https://www.salestaxinstitute.com/resources/economic-nexus-state-guide",
+    "retrieved_at": "2026-08-04"
   },
   {
     "state": "PA",
     "sales_threshold": 100000.0,
     "transaction_threshold": null,
     "logic": "sales_only",
-    "measurement_period": "current_or_prior_cy"
+    "measurement_period": "current_or_prior_cy",
+    "effective_date": "2024-01-01",
+    "source_url": "https://www.salestaxinstitute.com/resources/economic-nexus-state-guide",
+    "retrieved_at": "2026-08-04"
   },
   {
     "state": "RI",
     "sales_threshold": 100000.0,
     "transaction_threshold": 200,
     "logic": "sales_or_count",
-    "measurement_period": "current_or_prior_cy"
+    "measurement_period": "current_or_prior_cy",
+    "effective_date": "2024-01-01",
+    "source_url": "https://tax.ri.gov/tax-sections/sales-excise/remote-sellers",
+    "retrieved_at": "2026-08-04"
   },
   {
     "state": "SC",
     "sales_threshold": 100000.0,
     "transaction_threshold": null,
     "logic": "sales_only",
-    "measurement_period": "current_or_prior_cy"
+    "measurement_period": "current_or_prior_cy",
+    "effective_date": "2024-01-01",
+    "source_url": "https://dor.sc.gov/sites/dor/files/policies/RR18-14.pdf",
+    "retrieved_at": "2026-08-04"
   },
   {
     "state": "SD",
     "sales_threshold": 100000.0,
     "transaction_threshold": null,
     "logic": "sales_only",
-    "measurement_period": "current_or_prior_cy"
+    "measurement_period": "current_or_prior_cy",
+    "effective_date": "2024-01-01",
+    "source_url": "https://www.salestaxinstitute.com/resources/south-dakota-drops-200-transaction-count-from-its-economic-nexus-threshold",
+    "retrieved_at": "2026-08-04"
   },
   {
     "state": "TN",
     "sales_threshold": 100000.0,
     "transaction_threshold": null,
     "logic": "sales_only",
-    "measurement_period": "current_or_prior_cy"
+    "measurement_period": "current_or_prior_cy",
+    "effective_date": "2024-01-01",
+    "source_url": "https://www.salestaxinstitute.com/resources/economic-nexus-state-guide",
+    "retrieved_at": "2026-08-04"
   },
   {
     "state": "TX",
     "sales_threshold": 500000.0,
     "transaction_threshold": null,
     "logic": "sales_only",
-    "measurement_period": "rolling_12_month"
+    "measurement_period": "rolling_12_month",
+    "effective_date": "2024-01-01",
+    "source_url": "https://comptroller.texas.gov/taxes/sales/remote-sellers.php",
+    "retrieved_at": "2026-08-04"
   },
   {
     "state": "UT",
     "sales_threshold": 100000.0,
     "transaction_threshold": null,
     "logic": "sales_only",
-    "measurement_period": "current_or_prior_cy"
+    "measurement_period": "current_or_prior_cy",
+    "effective_date": "2025-07-01",
+    "source_url": "https://www.salestaxinstitute.com/resources/utah-economic-nexus-threshold-removed",
+    "retrieved_at": "2026-08-04"
   },
   {
     "state": "VA",
     "sales_threshold": 100000.0,
     "transaction_threshold": 200,
     "logic": "sales_or_count",
-    "measurement_period": "current_or_prior_cy"
+    "measurement_period": "current_or_prior_cy",
+    "effective_date": "2024-01-01",
+    "source_url": "https://www.tax.virginia.gov/remote-sellers-marketplace-facilitators-economic-nexus",
+    "retrieved_at": "2026-08-04"
   },
   {
     "state": "VT",
     "sales_threshold": 100000.0,
     "transaction_threshold": 200,
     "logic": "sales_or_count",
-    "measurement_period": "current_or_prior_cy"
+    "measurement_period": "current_or_prior_cy",
+    "effective_date": "2024-01-01",
+    "source_url": "https://tax.vermont.gov/business-and-corp/sales-and-use-tax/wayfair/faqs",
+    "retrieved_at": "2026-08-04"
   },
   {
     "state": "WA",
     "sales_threshold": 100000.0,
     "transaction_threshold": null,
     "logic": "sales_only",
-    "measurement_period": "current_or_prior_cy"
+    "measurement_period": "current_or_prior_cy",
+    "effective_date": "2024-01-01",
+    "source_url": "https://dor.wa.gov/education/industry-guides/out-state-businesses-reporting-thresholds-and-nexus",
+    "retrieved_at": "2026-08-04"
   },
   {
     "state": "WI",
     "sales_threshold": 100000.0,
     "transaction_threshold": null,
     "logic": "sales_only",
-    "measurement_period": "current_or_prior_cy"
+    "measurement_period": "current_or_prior_cy",
+    "effective_date": "2024-01-01",
+    "source_url": "https://www.revenue.wi.gov/Pages/Businesses/remote-sellers.aspx",
+    "retrieved_at": "2026-08-04"
   },
   {
     "state": "WV",
     "sales_threshold": 100000.0,
     "transaction_threshold": 200,
     "logic": "sales_or_count",
-    "measurement_period": "current_or_prior_cy"
+    "measurement_period": "current_or_prior_cy",
+    "effective_date": "2024-01-01",
+    "source_url": "https://code.wvlegislature.gov/11-15A-6B/",
+    "retrieved_at": "2026-08-04"
   },
   {
     "state": "WY",
     "sales_threshold": 100000.0,
     "transaction_threshold": null,
     "logic": "sales_only",
-    "measurement_period": "current_or_prior_cy"
+    "measurement_period": "current_or_prior_cy",
+    "effective_date": "2024-01-01",
+    "source_url": "https://www.salestaxinstitute.com/resources/wyoming-removes-200-transaction-threshold-from-economic-nexus-rules",
+    "retrieved_at": "2026-08-04"
   }
 ]

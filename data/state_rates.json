@@ -1,186 +1,324 @@
 [
   {
     "state": "AL",
-    "rate": 0.04
+    "rate": 0.04,
+    "effective_date": "2024-01-01",
+    "source_url": null,
+    "retrieved_at": "2026-05-18"
   },
   {
     "state": "AR",
-    "rate": 0.065
+    "rate": 0.065,
+    "effective_date": "2024-01-01",
+    "source_url": null,
+    "retrieved_at": "2026-05-18"
   },
   {
     "state": "AZ",
-    "rate": 0.056
+    "rate": 0.056,
+    "effective_date": "2024-01-01",
+    "source_url": null,
+    "retrieved_at": "2026-05-18"
   },
   {
     "state": "CA",
-    "rate": 0.0725
+    "rate": 0.0725,
+    "effective_date": "2022-04-01",
+    "source_url": "https://data.ca.gov/dataset/cdtfa-salesandusetaxrates-public",
+    "retrieved_at": "2026-05-18"
   },
   {
     "state": "CO",
-    "rate": 0.029
+    "rate": 0.029,
+    "effective_date": "2024-01-01",
+    "source_url": null,
+    "retrieved_at": "2026-05-18"
   },
   {
     "state": "CT",
-    "rate": 0.0635
+    "rate": 0.0635,
+    "effective_date": "2024-01-01",
+    "source_url": null,
+    "retrieved_at": "2026-05-18"
   },
   {
     "state": "DC",
-    "rate": 0.06
+    "rate": 0.06,
+    "effective_date": "2024-01-01",
+    "source_url": null,
+    "retrieved_at": "2026-05-18"
   },
   {
     "state": "FL",
-    "rate": 0.06
+    "rate": 0.06,
+    "effective_date": "2024-01-01",
+    "source_url": null,
+    "retrieved_at": "2026-05-18"
   },
   {
     "state": "GA",
-    "rate": 0.04
+    "rate": 0.04,
+    "effective_date": "2024-01-01",
+    "source_url": null,
+    "retrieved_at": "2026-05-18"
   },
   {
     "state": "HI",
-    "rate": 0.04
+    "rate": 0.04,
+    "effective_date": "2024-01-01",
+    "source_url": null,
+    "retrieved_at": "2026-05-18"
   },
   {
     "state": "IA",
-    "rate": 0.06
+    "rate": 0.06,
+    "effective_date": "2024-01-01",
+    "source_url": null,
+    "retrieved_at": "2026-05-18"
   },
   {
     "state": "ID",
-    "rate": 0.06
+    "rate": 0.06,
+    "effective_date": "2024-01-01",
+    "source_url": null,
+    "retrieved_at": "2026-05-18"
   },
   {
     "state": "IL",
-    "rate": 0.0625
+    "rate": 0.0625,
+    "effective_date": "2024-01-01",
+    "source_url": null,
+    "retrieved_at": "2026-05-18"
   },
   {
     "state": "IN",
-    "rate": 0.07
+    "rate": 0.07,
+    "effective_date": "2024-01-01",
+    "source_url": null,
+    "retrieved_at": "2026-05-18"
   },
   {
     "state": "KS",
-    "rate": 0.065
+    "rate": 0.065,
+    "effective_date": "2024-01-01",
+    "source_url": null,
+    "retrieved_at": "2026-05-18"
   },
   {
     "state": "KY",
-    "rate": 0.06
+    "rate": 0.06,
+    "effective_date": "2024-01-01",
+    "source_url": null,
+    "retrieved_at": "2026-05-18"
   },
   {
     "state": "LA",
-    "rate": 0.05
+    "rate": 0.05,
+    "effective_date": "2024-01-01",
+    "source_url": null,
+    "retrieved_at": "2026-05-18"
   },
   {
     "state": "MA",
-    "rate": 0.0625
+    "rate": 0.0625,
+    "effective_date": "2024-01-01",
+    "source_url": null,
+    "retrieved_at": "2026-05-18"
   },
   {
     "state": "MD",
-    "rate": 0.06
+    "rate": 0.06,
+    "effective_date": "2024-01-01",
+    "source_url": null,
+    "retrieved_at": "2026-05-18"
   },
   {
     "state": "ME",
-    "rate": 0.055
+    "rate": 0.055,
+    "effective_date": "2024-01-01",
+    "source_url": null,
+    "retrieved_at": "2026-05-18"
   },
   {
     "state": "MI",
-    "rate": 0.06
+    "rate": 0.06,
+    "effective_date": "2024-01-01",
+    "source_url": null,
+    "retrieved_at": "2026-05-18"
   },
   {
     "state": "MN",
-    "rate": 0.06875
+    "rate": 0.06875,
+    "effective_date": "2024-01-01",
+    "source_url": null,
+    "retrieved_at": "2026-05-18"
   },
   {
     "state": "MO",
-    "rate": 0.04225
+    "rate": 0.04225,
+    "effective_date": "2024-01-01",
+    "source_url": null,
+    "retrieved_at": "2026-05-18"
   },
   {
     "state": "MS",
-    "rate": 0.07
+    "rate": 0.07,
+    "effective_date": "2024-01-01",
+    "source_url": null,
+    "retrieved_at": "2026-05-18"
   },
   {
     "state": "NC",
-    "rate": 0.0475
+    "rate": 0.0475,
+    "effective_date": "2024-01-01",
+    "source_url": null,
+    "retrieved_at": "2026-05-18"
   },
   {
     "state": "ND",
-    "rate": 0.05
+    "rate": 0.05,
+    "effective_date": "2024-01-01",
+    "source_url": null,
+    "retrieved_at": "2026-05-18"
   },
   {
     "state": "NE",
-    "rate": 0.055
+    "rate": 0.055,
+    "effective_date": "2024-01-01",
+    "source_url": null,
+    "retrieved_at": "2026-05-18"
   },
   {
     "state": "NJ",
-    "rate": 0.06625
+    "rate": 0.06625,
+    "effective_date": "2024-01-01",
+    "source_url": null,
+    "retrieved_at": "2026-05-18"
   },
   {
     "state": "NM",
-    "rate": 0.04875
+    "rate": 0.04875,
+    "effective_date": "2024-01-01",
+    "source_url": null,
+    "retrieved_at": "2026-05-18"
   },
   {
     "state": "NV",
-    "rate": 0.0685
+    "rate": 0.0685,
+    "effective_date": "2024-01-01",
+    "source_url": null,
+    "retrieved_at": "2026-05-18"
   },
   {
     "state": "NY",
-    "rate": 0.04
+    "rate": 0.04,
+    "effective_date": "2024-01-01",
+    "source_url": null,
+    "retrieved_at": "2026-05-18"
   },
   {
     "state": "OH",
-    "rate": 0.0575
+    "rate": 0.0575,
+    "effective_date": "2024-01-01",
+    "source_url": null,
+    "retrieved_at": "2026-05-18"
   },
   {
     "state": "OK",
-    "rate": 0.045
+    "rate": 0.045,
+    "effective_date": "2024-01-01",
+    "source_url": null,
+    "retrieved_at": "2026-05-18"
   },
   {
     "state": "PA",
-    "rate": 0.06
+    "rate": 0.06,
+    "effective_date": "2024-01-01",
+    "source_url": null,
+    "retrieved_at": "2026-05-18"
   },
   {
     "state": "RI",
-    "rate": 0.07
+    "rate": 0.07,
+    "effective_date": "2024-01-01",
+    "source_url": null,
+    "retrieved_at": "2026-05-18"
   },
   {
     "state": "SC",
-    "rate": 0.06
+    "rate": 0.06,
+    "effective_date": "2024-01-01",
+    "source_url": null,
+    "retrieved_at": "2026-05-18"
   },
   {
     "state": "SD",
-    "rate": 0.042
+    "rate": 0.042,
+    "effective_date": "2024-01-01",
+    "source_url": null,
+    "retrieved_at": "2026-05-18"
   },
   {
     "state": "TN",
-    "rate": 0.07
+    "rate": 0.07,
+    "effective_date": "2024-01-01",
+    "source_url": null,
+    "retrieved_at": "2026-05-18"
   },
   {
     "state": "TX",
-    "rate": 0.0625
+    "rate": 0.0625,
+    "effective_date": "2026-04-01",
+    "source_url": "https://comptroller.texas.gov/data/edi/sales-tax/taxrates.txt",
+    "retrieved_at": "2026-05-18"
   },
   {
     "state": "UT",
-    "rate": 0.0485
+    "rate": 0.0485,
+    "effective_date": "2024-01-01",
+    "source_url": null,
+    "retrieved_at": "2026-05-18"
   },
   {
     "state": "VA",
-    "rate": 0.053
+    "rate": 0.053,
+    "effective_date": "2024-01-01",
+    "source_url": null,
+    "retrieved_at": "2026-05-18"
   },
   {
     "state": "VT",
-    "rate": 0.06
+    "rate": 0.06,
+    "effective_date": "2024-01-01",
+    "source_url": null,
+    "retrieved_at": "2026-05-18"
   },
   {
     "state": "WA",
-    "rate": 0.065
+    "rate": 0.065,
+    "effective_date": "2024-01-01",
+    "source_url": null,
+    "retrieved_at": "2026-05-18"
   },
   {
     "state": "WI",
-    "rate": 0.05
+    "rate": 0.05,
+    "effective_date": "2024-01-01",
+    "source_url": null,
+    "retrieved_at": "2026-05-18"
   },
   {
     "state": "WV",
-    "rate": 0.06
+    "rate": 0.06,
+    "effective_date": "2024-01-01",
+    "source_url": null,
+    "retrieved_at": "2026-05-18"
   },
   {
     "state": "WY",
-    "rate": 0.04
+    "rate": 0.04,
+    "effective_date": "2024-01-01",
+    "source_url": null,
+    "retrieved_at": "2026-05-18"
   }
 ]
