@@ -31046,6 +31046,18 @@
   {
     "state": "IL",
     "jurisdiction_type": "city",
+    "name": "Altamont",
+    "fips_code": null,
+    "rate": 0.0025,
+    "source_key": "IL-P-altamont",
+    "rate_type": "sales",
+    "effective_date": "2006-01-01",
+    "source_url": "https://tax.illinois.gov/content/dam/soi/en/web/tax/research/taxrates/documents/salestaxrates/ordmacha-current.txt",
+    "retrieved_at": "2026-09-22"
+  },
+  {
+    "state": "IL",
+    "jurisdiction_type": "city",
     "name": "Alto Pass",
     "fips_code": null,
     "rate": 0.0225,
@@ -31054,6 +31066,18 @@
     "effective_date": "2019-07-01",
     "source_url": "https://tax.illinois.gov/content/dam/soi/en/web/tax/research/taxrates/documents/salestaxrates/ordmache-current.txt",
     "retrieved_at": "2026-05-18"
+  },
+  {
+    "state": "IL",
+    "jurisdiction_type": "city",
+    "name": "Alton",
+    "fips_code": null,
+    "rate": 0.016,
+    "source_key": "IL-P-alton",
+    "rate_type": "sales",
+    "effective_date": "2009-07-01",
+    "source_url": "https://tax.illinois.gov/content/dam/soi/en/web/tax/research/taxrates/documents/salestaxrates/ordmacha-current.txt",
+    "retrieved_at": "2026-09-22"
   },
   {
     "state": "IL",
@@ -31154,6 +31178,18 @@
   {
     "state": "IL",
     "jurisdiction_type": "city",
+    "name": "Antioch",
+    "fips_code": null,
+    "rate": 0.02,
+    "source_key": "IL-P-antioch",
+    "rate_type": "sales",
+    "effective_date": "2026-08-01",
+    "source_url": "https://tax.illinois.gov/content/dam/soi/en/web/tax/research/taxrates/documents/salestaxrates/ordmacha-current.txt",
+    "retrieved_at": "2026-09-22"
+  },
+  {
+    "state": "IL",
+    "jurisdiction_type": "city",
     "name": "Apple River",
     "fips_code": null,
     "rate": 0.01,
@@ -31162,6 +31198,18 @@
     "effective_date": "2015-07-01",
     "source_url": "https://tax.illinois.gov/content/dam/soi/en/web/tax/research/taxrates/documents/salestaxrates/ordmache-current.txt",
     "retrieved_at": "2026-05-18"
+  },
+  {
+    "state": "IL",
+    "jurisdiction_type": "city",
+    "name": "Arcola",
+    "fips_code": null,
+    "rate": 0.015,
+    "source_key": "IL-P-arcola",
+    "rate_type": "sales",
+    "effective_date": "2014-01-01",
+    "source_url": "https://tax.illinois.gov/content/dam/soi/en/web/tax/research/taxrates/documents/salestaxrates/ordmacha-current.txt",
+    "retrieved_at": "2026-09-22"
   },
   {
     "state": "IL",
@@ -31334,6 +31382,18 @@
   {
     "state": "IL",
     "jurisdiction_type": "city",
+    "name": "Athens",
+    "fips_code": null,
+    "rate": 0.02,
+    "source_key": "IL-P-athens",
+    "rate_type": "sales",
+    "effective_date": "2019-07-01",
+    "source_url": "https://tax.illinois.gov/content/dam/soi/en/web/tax/research/taxrates/documents/salestaxrates/ordmacha-current.txt",
+    "retrieved_at": "2026-09-22"
+  },
+  {
+    "state": "IL",
+    "jurisdiction_type": "city",
     "name": "Atkinson",
     "fips_code": null,
     "rate": 0.015,
@@ -31342,6 +31402,30 @@
     "effective_date": "2019-01-01",
     "source_url": "https://tax.illinois.gov/content/dam/soi/en/web/tax/research/taxrates/documents/salestaxrates/ordmache-current.txt",
     "retrieved_at": "2026-05-18"
+  },
+  {
+    "state": "IL",
+    "jurisdiction_type": "city",
+    "name": "Atlanta",
+    "fips_code": null,
+    "rate": 0.02,
+    "source_key": "IL-P-atlanta",
+    "rate_type": "sales",
+    "effective_date": "2020-07-01",
+    "source_url": "https://tax.illinois.gov/content/dam/soi/en/web/tax/research/taxrates/documents/salestaxrates/ordmacha-current.txt",
+    "retrieved_at": "2026-09-22"
+  },
+  {
+    "state": "IL",
+    "jurisdiction_type": "city",
+    "name": "Atwood",
+    "fips_code": null,
+    "rate": 0.01,
+    "source_key": "IL-P-atwood",
+    "rate_type": "sales",
+    "effective_date": "2015-07-01",
+    "source_url": "https://tax.illinois.gov/content/dam/soi/en/web/tax/research/taxrates/documents/salestaxrates/ordmacha-current.txt",
+    "retrieved_at": "2026-09-22"
   },
   {
     "state": "IL",
@@ -31498,6 +31582,18 @@
     "effective_date": "2026-08-01",
     "source_url": "https://tax.illinois.gov/content/dam/soi/en/web/tax/research/taxrates/documents/salestaxrates/ordmache-current.txt",
     "retrieved_at": "2026-07-07"
+  },
+  {
+    "state": "IL",
+    "jurisdiction_type": "city",
+    "name": "Bartonville",
+    "fips_code": null,
+    "rate": 0.0275,
+    "source_key": "IL-P-bartonville",
+    "rate_type": "sales",
+    "effective_date": "2025-01-01",
+    "source_url": "https://tax.illinois.gov/content/dam/soi/en/web/tax/research/taxrates/documents/salestaxrates/ordmacha-current.txt",
+    "retrieved_at": "2026-09-22"
   },
   {
     "state": "IL",
@@ -31682,6 +31778,30 @@
   {
     "state": "IL",
     "jurisdiction_type": "city",
+    "name": "Belleville",
+    "fips_code": null,
+    "rate": 0.0185,
+    "source_key": "IL-P-belleville",
+    "rate_type": "sales",
+    "effective_date": "2012-01-01",
+    "source_url": "https://tax.illinois.gov/content/dam/soi/en/web/tax/research/taxrates/documents/salestaxrates/ordmacha-current.txt",
+    "retrieved_at": "2026-09-22"
+  },
+  {
+    "state": "IL",
+    "jurisdiction_type": "city",
+    "name": "Bellevue",
+    "fips_code": null,
+    "rate": 0.01,
+    "source_key": "IL-P-bellevue",
+    "rate_type": "sales",
+    "effective_date": "2017-07-01",
+    "source_url": "https://tax.illinois.gov/content/dam/soi/en/web/tax/research/taxrates/documents/salestaxrates/ordmacha-current.txt",
+    "retrieved_at": "2026-09-22"
+  },
+  {
+    "state": "IL",
+    "jurisdiction_type": "city",
     "name": "Bellflower",
     "fips_code": null,
     "rate": 0.01,
@@ -31702,6 +31822,18 @@
     "effective_date": "2017-07-01",
     "source_url": "https://tax.illinois.gov/content/dam/soi/en/web/tax/research/taxrates/documents/salestaxrates/ordmache-current.txt",
     "retrieved_at": "2026-05-18"
+  },
+  {
+    "state": "IL",
+    "jurisdiction_type": "city",
+    "name": "Bellwood",
+    "fips_code": null,
+    "rate": 0.045,
+    "source_key": "IL-P-bellwood",
+    "rate_type": "sales",
+    "effective_date": "2026-08-01",
+    "source_url": "https://tax.illinois.gov/content/dam/soi/en/web/tax/research/taxrates/documents/salestaxrates/ordmacha-current.txt",
+    "retrieved_at": "2026-09-22"
   },
   {
     "state": "IL",
@@ -31814,6 +31946,18 @@
   {
     "state": "IL",
     "jurisdiction_type": "city",
+    "name": "Bethalto",
+    "fips_code": null,
+    "rate": 0.006,
+    "source_key": "IL-P-bethalto",
+    "rate_type": "sales",
+    "effective_date": "2009-01-01",
+    "source_url": "https://tax.illinois.gov/content/dam/soi/en/web/tax/research/taxrates/documents/salestaxrates/ordmacha-current.txt",
+    "retrieved_at": "2026-09-22"
+  },
+  {
+    "state": "IL",
+    "jurisdiction_type": "city",
     "name": "Bethany",
     "fips_code": null,
     "rate": 0.005,
@@ -31898,6 +32042,18 @@
   {
     "state": "IL",
     "jurisdiction_type": "city",
+    "name": "Bloomingdale",
+    "fips_code": null,
+    "rate": 0.015,
+    "source_key": "IL-P-bloomingdale",
+    "rate_type": "sales",
+    "effective_date": "2026-08-01",
+    "source_url": "https://tax.illinois.gov/content/dam/soi/en/web/tax/research/taxrates/documents/salestaxrates/ordmacha-current.txt",
+    "retrieved_at": "2026-09-22"
+  },
+  {
+    "state": "IL",
+    "jurisdiction_type": "city",
     "name": "Bloomington",
     "fips_code": null,
     "rate": 0.035,
@@ -31906,6 +32062,18 @@
     "effective_date": "2025-07-01",
     "source_url": "https://tax.illinois.gov/content/dam/soi/en/web/tax/research/taxrates/documents/salestaxrates/ordmache-current.txt",
     "retrieved_at": "2026-05-18"
+  },
+  {
+    "state": "IL",
+    "jurisdiction_type": "city",
+    "name": "Blue Island",
+    "fips_code": null,
+    "rate": 0.04,
+    "source_key": "IL-P-blueisland",
+    "rate_type": "sales",
+    "effective_date": "2026-08-01",
+    "source_url": "https://tax.illinois.gov/content/dam/soi/en/web/tax/research/taxrates/documents/salestaxrates/ordmacha-current.txt",
+    "retrieved_at": "2026-09-22"
   },
   {
     "state": "IL",
@@ -31994,6 +32162,18 @@
   {
     "state": "IL",
     "jurisdiction_type": "city",
+    "name": "Bourbonnais",
+    "fips_code": null,
+    "rate": 0.01,
+    "source_key": "IL-P-bourbonnais",
+    "rate_type": "sales",
+    "effective_date": "2026-01-01",
+    "source_url": "https://tax.illinois.gov/content/dam/soi/en/web/tax/research/taxrates/documents/salestaxrates/ordmacha-current.txt",
+    "retrieved_at": "2026-09-22"
+  },
+  {
+    "state": "IL",
+    "jurisdiction_type": "city",
     "name": "Braceville",
     "fips_code": null,
     "rate": 0.01,
@@ -32014,6 +32194,18 @@
     "effective_date": "2019-01-01",
     "source_url": "https://tax.illinois.gov/content/dam/soi/en/web/tax/research/taxrates/documents/salestaxrates/ordmache-current.txt",
     "retrieved_at": "2026-05-18"
+  },
+  {
+    "state": "IL",
+    "jurisdiction_type": "city",
+    "name": "Bradley",
+    "fips_code": null,
+    "rate": 0.01,
+    "source_key": "IL-P-bradley",
+    "rate_type": "sales",
+    "effective_date": "2020-07-01",
+    "source_url": "https://tax.illinois.gov/content/dam/soi/en/web/tax/research/taxrates/documents/salestaxrates/ordmacha-current.txt",
+    "retrieved_at": "2026-09-22"
   },
   {
     "state": "IL",
@@ -32050,6 +32242,18 @@
     "effective_date": "2026-08-01",
     "source_url": "https://tax.illinois.gov/content/dam/soi/en/web/tax/research/taxrates/documents/salestaxrates/ordmache-current.txt",
     "retrieved_at": "2026-08-11"
+  },
+  {
+    "state": "IL",
+    "jurisdiction_type": "city",
+    "name": "Brighton",
+    "fips_code": null,
+    "rate": 0.01,
+    "source_key": "IL-P-brighton",
+    "rate_type": "sales",
+    "effective_date": "2016-07-01",
+    "source_url": "https://tax.illinois.gov/content/dam/soi/en/web/tax/research/taxrates/documents/salestaxrates/ordmacha-current.txt",
+    "retrieved_at": "2026-09-22"
   },
   {
     "state": "IL",
@@ -32450,6 +32654,18 @@
   {
     "state": "IL",
     "jurisdiction_type": "city",
+    "name": "Cahokia Heights",
+    "fips_code": null,
+    "rate": 0.021,
+    "source_key": "IL-P-cahokiaheights",
+    "rate_type": "sales",
+    "effective_date": "2023-01-01",
+    "source_url": "https://tax.illinois.gov/content/dam/soi/en/web/tax/research/taxrates/documents/salestaxrates/ordmacha-current.txt",
+    "retrieved_at": "2026-09-22"
+  },
+  {
+    "state": "IL",
+    "jurisdiction_type": "city",
     "name": "Caledonia",
     "fips_code": null,
     "rate": 0.015,
@@ -32470,6 +32686,18 @@
     "effective_date": "2018-07-01",
     "source_url": "https://tax.illinois.gov/content/dam/soi/en/web/tax/research/taxrates/documents/salestaxrates/ordmache-current.txt",
     "retrieved_at": "2026-05-18"
+  },
+  {
+    "state": "IL",
+    "jurisdiction_type": "city",
+    "name": "Calumet City",
+    "fips_code": null,
+    "rate": 0.05,
+    "source_key": "IL-P-calumetcity",
+    "rate_type": "sales",
+    "effective_date": "2026-08-01",
+    "source_url": "https://tax.illinois.gov/content/dam/soi/en/web/tax/research/taxrates/documents/salestaxrates/ordmacha-current.txt",
+    "retrieved_at": "2026-09-22"
   },
   {
     "state": "IL",
@@ -32582,6 +32810,18 @@
   {
     "state": "IL",
     "jurisdiction_type": "city",
+    "name": "Canton",
+    "fips_code": null,
+    "rate": 0.025,
+    "source_key": "IL-P-canton",
+    "rate_type": "sales",
+    "effective_date": "2018-07-01",
+    "source_url": "https://tax.illinois.gov/content/dam/soi/en/web/tax/research/taxrates/documents/salestaxrates/ordmacha-current.txt",
+    "retrieved_at": "2026-09-22"
+  },
+  {
+    "state": "IL",
+    "jurisdiction_type": "city",
     "name": "Cantrall",
     "fips_code": null,
     "rate": 0.015,
@@ -32626,6 +32866,18 @@
     "effective_date": "2017-07-01",
     "source_url": "https://tax.illinois.gov/content/dam/soi/en/web/tax/research/taxrates/documents/salestaxrates/ordmache-current.txt",
     "retrieved_at": "2026-05-18"
+  },
+  {
+    "state": "IL",
+    "jurisdiction_type": "city",
+    "name": "Carlinville",
+    "fips_code": null,
+    "rate": 0.02,
+    "source_key": "IL-P-carlinville",
+    "rate_type": "sales",
+    "effective_date": "2016-07-01",
+    "source_url": "https://tax.illinois.gov/content/dam/soi/en/web/tax/research/taxrates/documents/salestaxrates/ordmacha-current.txt",
+    "retrieved_at": "2026-09-22"
   },
   {
     "state": "IL",
@@ -32762,6 +33014,18 @@
   {
     "state": "IL",
     "jurisdiction_type": "city",
+    "name": "Caseyville",
+    "fips_code": null,
+    "rate": 0.011,
+    "source_key": "IL-P-caseyville",
+    "rate_type": "sales",
+    "effective_date": "2009-01-01",
+    "source_url": "https://tax.illinois.gov/content/dam/soi/en/web/tax/research/taxrates/documents/salestaxrates/ordmacha-current.txt",
+    "retrieved_at": "2026-09-22"
+  },
+  {
+    "state": "IL",
+    "jurisdiction_type": "city",
     "name": "Catlin",
     "fips_code": null,
     "rate": 0.0025,
@@ -32842,6 +33106,18 @@
     "effective_date": "2023-01-01",
     "source_url": "https://tax.illinois.gov/content/dam/soi/en/web/tax/research/taxrates/documents/salestaxrates/ordmache-current.txt",
     "retrieved_at": "2026-05-18"
+  },
+  {
+    "state": "IL",
+    "jurisdiction_type": "city",
+    "name": "Cerro Gordo",
+    "fips_code": null,
+    "rate": 0.01,
+    "source_key": "IL-P-cerrogordo",
+    "rate_type": "sales",
+    "effective_date": "2015-07-01",
+    "source_url": "https://tax.illinois.gov/content/dam/soi/en/web/tax/research/taxrates/documents/salestaxrates/ordmacha-current.txt",
+    "retrieved_at": "2026-09-22"
   },
   {
     "state": "IL",
@@ -32954,6 +33230,18 @@
   {
     "state": "IL",
     "jurisdiction_type": "city",
+    "name": "Chenoa",
+    "fips_code": null,
+    "rate": 0.02,
+    "source_key": "IL-P-chenoa",
+    "rate_type": "sales",
+    "effective_date": "2025-07-01",
+    "source_url": "https://tax.illinois.gov/content/dam/soi/en/web/tax/research/taxrates/documents/salestaxrates/ordmacha-current.txt",
+    "retrieved_at": "2026-09-22"
+  },
+  {
+    "state": "IL",
+    "jurisdiction_type": "city",
     "name": "Cherry",
     "fips_code": null,
     "rate": 0.01,
@@ -33022,6 +33310,18 @@
     "effective_date": "2026-08-01",
     "source_url": "https://tax.illinois.gov/content/dam/soi/en/web/tax/research/taxrates/documents/salestaxrates/ordmache-current.txt",
     "retrieved_at": "2026-08-11"
+  },
+  {
+    "state": "IL",
+    "jurisdiction_type": "city",
+    "name": "Chicago Ridge",
+    "fips_code": null,
+    "rate": 0.04,
+    "source_key": "IL-P-chicagoridge",
+    "rate_type": "sales",
+    "effective_date": "2026-08-01",
+    "source_url": "https://tax.illinois.gov/content/dam/soi/en/web/tax/research/taxrates/documents/salestaxrates/ordmacha-current.txt",
+    "retrieved_at": "2026-09-22"
   },
   {
     "state": "IL",
@@ -33208,12 +33508,12 @@
     "jurisdiction_type": "city",
     "name": "Coal Valley",
     "fips_code": null,
-    "rate": 0.015,
+    "rate": 0.01,
     "source_key": "IL-P-coalvalley",
     "rate_type": "sales",
-    "effective_date": "2019-01-01",
-    "source_url": "https://tax.illinois.gov/content/dam/soi/en/web/tax/research/taxrates/documents/salestaxrates/ordmache-current.txt",
-    "retrieved_at": "2026-05-18"
+    "effective_date": "2017-07-01",
+    "source_url": "https://tax.illinois.gov/content/dam/soi/en/web/tax/research/taxrates/documents/salestaxrates/ordmacha-current.txt",
+    "retrieved_at": "2026-09-22"
   },
   {
     "state": "IL",
@@ -33290,6 +33590,30 @@
   {
     "state": "IL",
     "jurisdiction_type": "city",
+    "name": "Colfax",
+    "fips_code": null,
+    "rate": 0.02,
+    "source_key": "IL-P-colfax",
+    "rate_type": "sales",
+    "effective_date": "2025-07-01",
+    "source_url": "https://tax.illinois.gov/content/dam/soi/en/web/tax/research/taxrates/documents/salestaxrates/ordmacha-current.txt",
+    "retrieved_at": "2026-09-22"
+  },
+  {
+    "state": "IL",
+    "jurisdiction_type": "city",
+    "name": "Collinsville",
+    "fips_code": null,
+    "rate": 0.021,
+    "source_key": "IL-P-collinsville",
+    "rate_type": "sales",
+    "effective_date": "2025-01-01",
+    "source_url": "https://tax.illinois.gov/content/dam/soi/en/web/tax/research/taxrates/documents/salestaxrates/ordmacha-current.txt",
+    "retrieved_at": "2026-09-22"
+  },
+  {
+    "state": "IL",
+    "jurisdiction_type": "city",
     "name": "Colona",
     "fips_code": null,
     "rate": 0.025,
@@ -33310,6 +33634,18 @@
     "effective_date": "2026-01-01",
     "source_url": "https://tax.illinois.gov/content/dam/soi/en/web/tax/research/taxrates/documents/salestaxrates/ordmache-current.txt",
     "retrieved_at": "2026-05-18"
+  },
+  {
+    "state": "IL",
+    "jurisdiction_type": "city",
+    "name": "Columbia",
+    "fips_code": null,
+    "rate": 0.0125,
+    "source_key": "IL-P-columbia",
+    "rate_type": "sales",
+    "effective_date": "2016-07-01",
+    "source_url": "https://tax.illinois.gov/content/dam/soi/en/web/tax/research/taxrates/documents/salestaxrates/ordmacha-current.txt",
+    "retrieved_at": "2026-09-22"
   },
   {
     "state": "IL",
@@ -33530,6 +33866,18 @@
   {
     "state": "IL",
     "jurisdiction_type": "city",
+    "name": "Creve Coeur",
+    "fips_code": null,
+    "rate": 0.015,
+    "source_key": "IL-P-crevecoeur",
+    "rate_type": "sales",
+    "effective_date": "2012-07-01",
+    "source_url": "https://tax.illinois.gov/content/dam/soi/en/web/tax/research/taxrates/documents/salestaxrates/ordmacha-current.txt",
+    "retrieved_at": "2026-09-22"
+  },
+  {
+    "state": "IL",
+    "jurisdiction_type": "city",
     "name": "Crossville",
     "fips_code": null,
     "rate": 0.01,
@@ -33694,6 +34042,18 @@
     "effective_date": "2017-07-01",
     "source_url": "https://tax.illinois.gov/content/dam/soi/en/web/tax/research/taxrates/documents/salestaxrates/ordmache-current.txt",
     "retrieved_at": "2026-05-18"
+  },
+  {
+    "state": "IL",
+    "jurisdiction_type": "city",
+    "name": "Danvers",
+    "fips_code": null,
+    "rate": 0.02,
+    "source_key": "IL-P-danvers",
+    "rate_type": "sales",
+    "effective_date": "2025-07-01",
+    "source_url": "https://tax.illinois.gov/content/dam/soi/en/web/tax/research/taxrates/documents/salestaxrates/ordmacha-current.txt",
+    "retrieved_at": "2026-09-22"
   },
   {
     "state": "IL",
@@ -33914,6 +34274,18 @@
   {
     "state": "IL",
     "jurisdiction_type": "city",
+    "name": "Divernon",
+    "fips_code": null,
+    "rate": 0.025,
+    "source_key": "IL-P-divernon",
+    "rate_type": "sales",
+    "effective_date": "2026-07-01",
+    "source_url": "https://tax.illinois.gov/content/dam/soi/en/web/tax/research/taxrates/documents/salestaxrates/ordmacha-current.txt",
+    "retrieved_at": "2026-09-22"
+  },
+  {
+    "state": "IL",
+    "jurisdiction_type": "city",
     "name": "Dix",
     "fips_code": null,
     "rate": 0.015,
@@ -34058,6 +34430,18 @@
   {
     "state": "IL",
     "jurisdiction_type": "city",
+    "name": "Du Quoin",
+    "fips_code": null,
+    "rate": 0.03,
+    "source_key": "IL-P-duquoin",
+    "rate_type": "sales",
+    "effective_date": "2015-07-01",
+    "source_url": "https://tax.illinois.gov/content/dam/soi/en/web/tax/research/taxrates/documents/salestaxrates/ordmacha-current.txt",
+    "retrieved_at": "2026-09-22"
+  },
+  {
+    "state": "IL",
+    "jurisdiction_type": "city",
     "name": "Dunfermline",
     "fips_code": null,
     "rate": 0.015,
@@ -34084,12 +34468,12 @@
     "jurisdiction_type": "city",
     "name": "Dupo",
     "fips_code": null,
-    "rate": 0.0125,
+    "rate": 0.011,
     "source_key": "IL-P-dupo",
     "rate_type": "sales",
-    "effective_date": "2019-07-01",
-    "source_url": "https://tax.illinois.gov/content/dam/soi/en/web/tax/research/taxrates/documents/salestaxrates/ordmache-current.txt",
-    "retrieved_at": "2026-05-18"
+    "effective_date": "2009-01-01",
+    "source_url": "https://tax.illinois.gov/content/dam/soi/en/web/tax/research/taxrates/documents/salestaxrates/ordmacha-current.txt",
+    "retrieved_at": "2026-09-22"
   },
   {
     "state": "IL",
@@ -34102,6 +34486,18 @@
     "effective_date": "2022-01-01",
     "source_url": "https://tax.illinois.gov/content/dam/soi/en/web/tax/research/taxrates/documents/salestaxrates/ordmache-current.txt",
     "retrieved_at": "2026-05-18"
+  },
+  {
+    "state": "IL",
+    "jurisdiction_type": "city",
+    "name": "Dwight",
+    "fips_code": null,
+    "rate": 0.02,
+    "source_key": "IL-P-dwight",
+    "rate_type": "sales",
+    "effective_date": "2016-07-01",
+    "source_url": "https://tax.illinois.gov/content/dam/soi/en/web/tax/research/taxrates/documents/salestaxrates/ordmacha-current.txt",
+    "retrieved_at": "2026-09-22"
   },
   {
     "state": "IL",
@@ -34126,6 +34522,18 @@
     "effective_date": "1999-01-01",
     "source_url": "https://tax.illinois.gov/content/dam/soi/en/web/tax/research/taxrates/documents/salestaxrates/ordmache-current.txt",
     "retrieved_at": "2026-05-18"
+  },
+  {
+    "state": "IL",
+    "jurisdiction_type": "city",
+    "name": "East Alton",
+    "fips_code": null,
+    "rate": 0.006,
+    "source_key": "IL-P-eastalton",
+    "rate_type": "sales",
+    "effective_date": "2009-01-01",
+    "source_url": "https://tax.illinois.gov/content/dam/soi/en/web/tax/research/taxrates/documents/salestaxrates/ordmacha-current.txt",
+    "retrieved_at": "2026-09-22"
   },
   {
     "state": "IL",
@@ -34156,12 +34564,12 @@
     "jurisdiction_type": "city",
     "name": "East Dundee",
     "fips_code": null,
-    "rate": 0.05,
+    "rate": 0.03,
     "source_key": "IL-P-eastdundee",
     "rate_type": "sales",
     "effective_date": "2026-08-01",
-    "source_url": "https://tax.illinois.gov/content/dam/soi/en/web/tax/research/taxrates/documents/salestaxrates/ordmache-current.txt",
-    "retrieved_at": "2026-07-07"
+    "source_url": "https://tax.illinois.gov/content/dam/soi/en/web/tax/research/taxrates/documents/salestaxrates/ordmacha-current.txt",
+    "retrieved_at": "2026-09-22"
   },
   {
     "state": "IL",
@@ -34202,6 +34610,42 @@
   {
     "state": "IL",
     "jurisdiction_type": "city",
+    "name": "East Moline",
+    "fips_code": null,
+    "rate": 0.015,
+    "source_key": "IL-P-eastmoline",
+    "rate_type": "sales",
+    "effective_date": "2017-07-01",
+    "source_url": "https://tax.illinois.gov/content/dam/soi/en/web/tax/research/taxrates/documents/salestaxrates/ordmacha-current.txt",
+    "retrieved_at": "2026-09-22"
+  },
+  {
+    "state": "IL",
+    "jurisdiction_type": "city",
+    "name": "East Peoria",
+    "fips_code": null,
+    "rate": 0.0225,
+    "source_key": "IL-P-eastpeoria",
+    "rate_type": "sales",
+    "effective_date": "2018-07-01",
+    "source_url": "https://tax.illinois.gov/content/dam/soi/en/web/tax/research/taxrates/documents/salestaxrates/ordmacha-current.txt",
+    "retrieved_at": "2026-09-22"
+  },
+  {
+    "state": "IL",
+    "jurisdiction_type": "city",
+    "name": "East Saint Louis",
+    "fips_code": null,
+    "rate": 0.026,
+    "source_key": "IL-P-eastsaintlouis",
+    "rate_type": "sales",
+    "effective_date": "2009-01-01",
+    "source_url": "https://tax.illinois.gov/content/dam/soi/en/web/tax/research/taxrates/documents/salestaxrates/ordmacha-current.txt",
+    "retrieved_at": "2026-09-22"
+  },
+  {
+    "state": "IL",
+    "jurisdiction_type": "city",
     "name": "Easton",
     "fips_code": null,
     "rate": 0.01,
@@ -34234,6 +34678,30 @@
     "effective_date": "2014-01-01",
     "source_url": "https://tax.illinois.gov/content/dam/soi/en/web/tax/research/taxrates/documents/salestaxrates/ordmache-current.txt",
     "retrieved_at": "2026-05-18"
+  },
+  {
+    "state": "IL",
+    "jurisdiction_type": "city",
+    "name": "Edwardsville",
+    "fips_code": null,
+    "rate": 0.0135,
+    "source_key": "IL-P-edwardsville",
+    "rate_type": "sales",
+    "effective_date": "2024-01-01",
+    "source_url": "https://tax.illinois.gov/content/dam/soi/en/web/tax/research/taxrates/documents/salestaxrates/ordmacha-current.txt",
+    "retrieved_at": "2026-09-22"
+  },
+  {
+    "state": "IL",
+    "jurisdiction_type": "city",
+    "name": "Effingham",
+    "fips_code": null,
+    "rate": 0.0125,
+    "source_key": "IL-P-effingham",
+    "rate_type": "sales",
+    "effective_date": "2026-01-01",
+    "source_url": "https://tax.illinois.gov/content/dam/soi/en/web/tax/research/taxrates/documents/salestaxrates/ordmacha-current.txt",
+    "retrieved_at": "2026-09-22"
   },
   {
     "state": "IL",
@@ -34306,6 +34774,18 @@
     "effective_date": "2026-08-01",
     "source_url": "https://tax.illinois.gov/content/dam/soi/en/web/tax/research/taxrates/documents/salestaxrates/ordmache-current.txt",
     "retrieved_at": "2026-07-07"
+  },
+  {
+    "state": "IL",
+    "jurisdiction_type": "city",
+    "name": "Elizabeth",
+    "fips_code": null,
+    "rate": 0.01,
+    "source_key": "IL-P-elizabeth",
+    "rate_type": "sales",
+    "effective_date": "2015-07-01",
+    "source_url": "https://tax.illinois.gov/content/dam/soi/en/web/tax/research/taxrates/documents/salestaxrates/ordmacha-current.txt",
+    "retrieved_at": "2026-09-22"
   },
   {
     "state": "IL",
@@ -34418,6 +34898,18 @@
   {
     "state": "IL",
     "jurisdiction_type": "city",
+    "name": "Elmwood Park",
+    "fips_code": null,
+    "rate": 0.04,
+    "source_key": "IL-P-elmwoodpark",
+    "rate_type": "sales",
+    "effective_date": "2026-08-01",
+    "source_url": "https://tax.illinois.gov/content/dam/soi/en/web/tax/research/taxrates/documents/salestaxrates/ordmacha-current.txt",
+    "retrieved_at": "2026-09-22"
+  },
+  {
+    "state": "IL",
+    "jurisdiction_type": "city",
     "name": "Elsah",
     "fips_code": null,
     "rate": 0.0275,
@@ -34466,6 +34958,18 @@
   {
     "state": "IL",
     "jurisdiction_type": "city",
+    "name": "Energy",
+    "fips_code": null,
+    "rate": 0.02,
+    "source_key": "IL-P-energy",
+    "rate_type": "sales",
+    "effective_date": "2026-01-01",
+    "source_url": "https://tax.illinois.gov/content/dam/soi/en/web/tax/research/taxrates/documents/salestaxrates/ordmacha-current.txt",
+    "retrieved_at": "2026-09-22"
+  },
+  {
+    "state": "IL",
+    "jurisdiction_type": "city",
     "name": "Enfield",
     "fips_code": null,
     "rate": 0.01,
@@ -34486,6 +34990,18 @@
     "effective_date": "2014-01-01",
     "source_url": "https://tax.illinois.gov/content/dam/soi/en/web/tax/research/taxrates/documents/salestaxrates/ordmache-current.txt",
     "retrieved_at": "2026-05-18"
+  },
+  {
+    "state": "IL",
+    "jurisdiction_type": "city",
+    "name": "Erie",
+    "fips_code": null,
+    "rate": 0.015,
+    "source_key": "IL-P-erie",
+    "rate_type": "sales",
+    "effective_date": "2025-07-01",
+    "source_url": "https://tax.illinois.gov/content/dam/soi/en/web/tax/research/taxrates/documents/salestaxrates/ordmacha-current.txt",
+    "retrieved_at": "2026-09-22"
   },
   {
     "state": "IL",
@@ -34526,6 +35042,18 @@
   {
     "state": "IL",
     "jurisdiction_type": "city",
+    "name": "Evergreen Park",
+    "fips_code": null,
+    "rate": 0.04,
+    "source_key": "IL-P-evergreenpark",
+    "rate_type": "sales",
+    "effective_date": "2026-08-01",
+    "source_url": "https://tax.illinois.gov/content/dam/soi/en/web/tax/research/taxrates/documents/salestaxrates/ordmacha-current.txt",
+    "retrieved_at": "2026-09-22"
+  },
+  {
+    "state": "IL",
+    "jurisdiction_type": "city",
     "name": "Ewing",
     "fips_code": null,
     "rate": 0.01,
@@ -34562,6 +35090,30 @@
   {
     "state": "IL",
     "jurisdiction_type": "city",
+    "name": "Fairfield",
+    "fips_code": null,
+    "rate": 0.015,
+    "source_key": "IL-P-fairfield",
+    "rate_type": "sales",
+    "effective_date": "2026-07-01",
+    "source_url": "https://tax.illinois.gov/content/dam/soi/en/web/tax/research/taxrates/documents/salestaxrates/ordmacha-current.txt",
+    "retrieved_at": "2026-09-22"
+  },
+  {
+    "state": "IL",
+    "jurisdiction_type": "city",
+    "name": "Fairmont City",
+    "fips_code": null,
+    "rate": 0.011,
+    "source_key": "IL-P-fairmontcity",
+    "rate_type": "sales",
+    "effective_date": "2009-01-01",
+    "source_url": "https://tax.illinois.gov/content/dam/soi/en/web/tax/research/taxrates/documents/salestaxrates/ordmacha-current.txt",
+    "retrieved_at": "2026-09-22"
+  },
+  {
+    "state": "IL",
+    "jurisdiction_type": "city",
     "name": "Fairmount",
     "fips_code": null,
     "rate": 0.0025,
@@ -34586,6 +35138,18 @@
   {
     "state": "IL",
     "jurisdiction_type": "city",
+    "name": "Fairview Heights",
+    "fips_code": null,
+    "rate": 0.021,
+    "source_key": "IL-P-fairviewheights",
+    "rate_type": "sales",
+    "effective_date": "2012-01-01",
+    "source_url": "https://tax.illinois.gov/content/dam/soi/en/web/tax/research/taxrates/documents/salestaxrates/ordmacha-current.txt",
+    "retrieved_at": "2026-09-22"
+  },
+  {
+    "state": "IL",
+    "jurisdiction_type": "city",
     "name": "Farina",
     "fips_code": null,
     "rate": 0.01,
@@ -34594,6 +35158,18 @@
     "effective_date": "2019-07-01",
     "source_url": "https://tax.illinois.gov/content/dam/soi/en/web/tax/research/taxrates/documents/salestaxrates/ordmache-current.txt",
     "retrieved_at": "2026-05-18"
+  },
+  {
+    "state": "IL",
+    "jurisdiction_type": "city",
+    "name": "Farmer City",
+    "fips_code": null,
+    "rate": 0.01,
+    "source_key": "IL-P-farmercity",
+    "rate_type": "sales",
+    "effective_date": "2025-07-01",
+    "source_url": "https://tax.illinois.gov/content/dam/soi/en/web/tax/research/taxrates/documents/salestaxrates/ordmacha-current.txt",
+    "retrieved_at": "2026-09-22"
   },
   {
     "state": "IL",
@@ -34840,24 +35416,24 @@
     "jurisdiction_type": "city",
     "name": "Fox Lake",
     "fips_code": null,
-    "rate": 0.0175,
+    "rate": 0.015,
     "source_key": "IL-P-foxlake",
     "rate_type": "sales",
     "effective_date": "2026-08-01",
-    "source_url": "https://tax.illinois.gov/content/dam/soi/en/web/tax/research/taxrates/documents/salestaxrates/ordmache-current.txt",
-    "retrieved_at": "2026-07-07"
+    "source_url": "https://tax.illinois.gov/content/dam/soi/en/web/tax/research/taxrates/documents/salestaxrates/ordmacha-current.txt",
+    "retrieved_at": "2026-09-22"
   },
   {
     "state": "IL",
     "jurisdiction_type": "city",
     "name": "Fox River Grove",
     "fips_code": null,
-    "rate": 0.02,
+    "rate": 0.0225,
     "source_key": "IL-P-foxrivergrove",
     "rate_type": "sales",
     "effective_date": "2026-08-01",
-    "source_url": "https://tax.illinois.gov/content/dam/soi/en/web/tax/research/taxrates/documents/salestaxrates/ordmache-current.txt",
-    "retrieved_at": "2026-07-07"
+    "source_url": "https://tax.illinois.gov/content/dam/soi/en/web/tax/research/taxrates/documents/salestaxrates/ordmacha-current.txt",
+    "retrieved_at": "2026-09-22"
   },
   {
     "state": "IL",
@@ -34994,6 +35570,18 @@
   {
     "state": "IL",
     "jurisdiction_type": "city",
+    "name": "Galesburg",
+    "fips_code": null,
+    "rate": 0.0275,
+    "source_key": "IL-P-galesburg",
+    "rate_type": "sales",
+    "effective_date": "2023-07-01",
+    "source_url": "https://tax.illinois.gov/content/dam/soi/en/web/tax/research/taxrates/documents/salestaxrates/ordmacha-current.txt",
+    "retrieved_at": "2026-09-22"
+  },
+  {
+    "state": "IL",
+    "jurisdiction_type": "city",
     "name": "Galva",
     "fips_code": null,
     "rate": 0.015,
@@ -35066,6 +35654,18 @@
   {
     "state": "IL",
     "jurisdiction_type": "city",
+    "name": "Georgetown",
+    "fips_code": null,
+    "rate": 0.0025,
+    "source_key": "IL-P-georgetown",
+    "rate_type": "sales",
+    "effective_date": "1999-01-01",
+    "source_url": "https://tax.illinois.gov/content/dam/soi/en/web/tax/research/taxrates/documents/salestaxrates/ordmacha-current.txt",
+    "retrieved_at": "2026-09-22"
+  },
+  {
+    "state": "IL",
+    "jurisdiction_type": "city",
     "name": "German Valley",
     "fips_code": null,
     "rate": 0.005,
@@ -35074,6 +35674,18 @@
     "effective_date": "1999-01-01",
     "source_url": "https://tax.illinois.gov/content/dam/soi/en/web/tax/research/taxrates/documents/salestaxrates/ordmache-current.txt",
     "retrieved_at": "2026-05-18"
+  },
+  {
+    "state": "IL",
+    "jurisdiction_type": "city",
+    "name": "Germantown Hills",
+    "fips_code": null,
+    "rate": 0.02,
+    "source_key": "IL-P-germantownhills",
+    "rate_type": "sales",
+    "effective_date": "2018-07-01",
+    "source_url": "https://tax.illinois.gov/content/dam/soi/en/web/tax/research/taxrates/documents/salestaxrates/ordmacha-current.txt",
+    "retrieved_at": "2026-09-22"
   },
   {
     "state": "IL",
@@ -35186,6 +35798,18 @@
   {
     "state": "IL",
     "jurisdiction_type": "city",
+    "name": "Glen Carbon",
+    "fips_code": null,
+    "rate": 0.016,
+    "source_key": "IL-P-glencarbon",
+    "rate_type": "sales",
+    "effective_date": "2025-07-01",
+    "source_url": "https://tax.illinois.gov/content/dam/soi/en/web/tax/research/taxrates/documents/salestaxrates/ordmacha-current.txt",
+    "retrieved_at": "2026-09-22"
+  },
+  {
+    "state": "IL",
+    "jurisdiction_type": "city",
     "name": "Glen Ellyn",
     "fips_code": null,
     "rate": 0.0225,
@@ -35194,18 +35818,6 @@
     "effective_date": "2026-08-01",
     "source_url": "https://tax.illinois.gov/content/dam/soi/en/web/tax/research/taxrates/documents/salestaxrates/ordmache-current.txt",
     "retrieved_at": "2026-07-07"
-  },
-  {
-    "state": "IL",
-    "jurisdiction_type": "city",
-    "name": "Glen View",
-    "fips_code": null,
-    "rate": 0.011,
-    "source_key": "IL-P-glenview",
-    "rate_type": "sales",
-    "effective_date": "2009-01-01",
-    "source_url": "https://tax.illinois.gov/content/dam/soi/en/web/tax/research/taxrates/documents/salestaxrates/ordmache-current.txt",
-    "retrieved_at": "2026-08-11"
   },
   {
     "state": "IL",
@@ -35234,6 +35846,18 @@
   {
     "state": "IL",
     "jurisdiction_type": "city",
+    "name": "Glenview",
+    "fips_code": null,
+    "rate": 0.0375,
+    "source_key": "IL-P-glenview",
+    "rate_type": "sales",
+    "effective_date": "2026-08-01",
+    "source_url": "https://tax.illinois.gov/content/dam/soi/en/web/tax/research/taxrates/documents/salestaxrates/ordmacha-current.txt",
+    "retrieved_at": "2026-09-22"
+  },
+  {
+    "state": "IL",
+    "jurisdiction_type": "city",
     "name": "Glenwood",
     "fips_code": null,
     "rate": 0.05,
@@ -35242,6 +35866,18 @@
     "effective_date": "2026-08-01",
     "source_url": "https://tax.illinois.gov/content/dam/soi/en/web/tax/research/taxrates/documents/salestaxrates/ordmache-current.txt",
     "retrieved_at": "2026-08-11"
+  },
+  {
+    "state": "IL",
+    "jurisdiction_type": "city",
+    "name": "Godfrey",
+    "fips_code": null,
+    "rate": 0.0135,
+    "source_key": "IL-P-godfrey",
+    "rate_type": "sales",
+    "effective_date": "2026-01-01",
+    "source_url": "https://tax.illinois.gov/content/dam/soi/en/web/tax/research/taxrates/documents/salestaxrates/ordmacha-current.txt",
+    "retrieved_at": "2026-09-22"
   },
   {
     "state": "IL",
@@ -35354,6 +35990,18 @@
   {
     "state": "IL",
     "jurisdiction_type": "city",
+    "name": "Grafton",
+    "fips_code": null,
+    "rate": 0.0275,
+    "source_key": "IL-P-grafton",
+    "rate_type": "sales",
+    "effective_date": "2023-01-01",
+    "source_url": "https://tax.illinois.gov/content/dam/soi/en/web/tax/research/taxrates/documents/salestaxrates/ordmacha-current.txt",
+    "retrieved_at": "2026-09-22"
+  },
+  {
+    "state": "IL",
+    "jurisdiction_type": "city",
     "name": "Grand Ridge",
     "fips_code": null,
     "rate": 0.0025,
@@ -35390,6 +36038,18 @@
   {
     "state": "IL",
     "jurisdiction_type": "city",
+    "name": "Granite City",
+    "fips_code": null,
+    "rate": 0.021,
+    "source_key": "IL-P-granitecity",
+    "rate_type": "sales",
+    "effective_date": "2009-01-01",
+    "source_url": "https://tax.illinois.gov/content/dam/soi/en/web/tax/research/taxrates/documents/salestaxrates/ordmacha-current.txt",
+    "retrieved_at": "2026-09-22"
+  },
+  {
+    "state": "IL",
+    "jurisdiction_type": "city",
     "name": "Grant Park",
     "fips_code": null,
     "rate": 0.01,
@@ -35422,6 +36082,18 @@
     "effective_date": "2026-08-01",
     "source_url": "https://tax.illinois.gov/content/dam/soi/en/web/tax/research/taxrates/documents/salestaxrates/ordmache-current.txt",
     "retrieved_at": "2026-07-07"
+  },
+  {
+    "state": "IL",
+    "jurisdiction_type": "city",
+    "name": "Grayville",
+    "fips_code": null,
+    "rate": 0.01,
+    "source_key": "IL-P-grayville",
+    "rate_type": "sales",
+    "effective_date": "2015-07-01",
+    "source_url": "https://tax.illinois.gov/content/dam/soi/en/web/tax/research/taxrates/documents/salestaxrates/ordmacha-current.txt",
+    "retrieved_at": "2026-09-22"
   },
   {
     "state": "IL",
@@ -35482,6 +36154,18 @@
     "effective_date": "2019-07-01",
     "source_url": "https://tax.illinois.gov/content/dam/soi/en/web/tax/research/taxrates/documents/salestaxrates/ordmache-current.txt",
     "retrieved_at": "2026-05-18"
+  },
+  {
+    "state": "IL",
+    "jurisdiction_type": "city",
+    "name": "Greenville",
+    "fips_code": null,
+    "rate": 0.015,
+    "source_key": "IL-P-greenville",
+    "rate_type": "sales",
+    "effective_date": "2016-07-01",
+    "source_url": "https://tax.illinois.gov/content/dam/soi/en/web/tax/research/taxrates/documents/salestaxrates/ordmacha-current.txt",
+    "retrieved_at": "2026-09-22"
   },
   {
     "state": "IL",
@@ -35570,6 +36254,18 @@
   {
     "state": "IL",
     "jurisdiction_type": "city",
+    "name": "Hamel",
+    "fips_code": null,
+    "rate": 0.006,
+    "source_key": "IL-P-hamel",
+    "rate_type": "sales",
+    "effective_date": "2025-07-01",
+    "source_url": "https://tax.illinois.gov/content/dam/soi/en/web/tax/research/taxrates/documents/salestaxrates/ordmacha-current.txt",
+    "retrieved_at": "2026-09-22"
+  },
+  {
+    "state": "IL",
+    "jurisdiction_type": "city",
     "name": "Hammond",
     "fips_code": null,
     "rate": 0.01,
@@ -35618,6 +36314,18 @@
   {
     "state": "IL",
     "jurisdiction_type": "city",
+    "name": "Hanna City",
+    "fips_code": null,
+    "rate": 0.01,
+    "source_key": "IL-P-hannacity",
+    "rate_type": "sales",
+    "effective_date": "2017-07-01",
+    "source_url": "https://tax.illinois.gov/content/dam/soi/en/web/tax/research/taxrates/documents/salestaxrates/ordmacha-current.txt",
+    "retrieved_at": "2026-09-22"
+  },
+  {
+    "state": "IL",
+    "jurisdiction_type": "city",
     "name": "Hanover",
     "fips_code": null,
     "rate": 0.01,
@@ -35642,6 +36350,18 @@
   {
     "state": "IL",
     "jurisdiction_type": "city",
+    "name": "Hardin",
+    "fips_code": null,
+    "rate": 0.0175,
+    "source_key": "IL-P-hardin",
+    "rate_type": "sales",
+    "effective_date": "2015-07-01",
+    "source_url": "https://tax.illinois.gov/content/dam/soi/en/web/tax/research/taxrates/documents/salestaxrates/ordmacha-current.txt",
+    "retrieved_at": "2026-09-22"
+  },
+  {
+    "state": "IL",
+    "jurisdiction_type": "city",
     "name": "Harmon",
     "fips_code": null,
     "rate": 0.015,
@@ -35650,6 +36370,42 @@
     "effective_date": "2017-07-01",
     "source_url": "https://tax.illinois.gov/content/dam/soi/en/web/tax/research/taxrates/documents/salestaxrates/ordmache-current.txt",
     "retrieved_at": "2026-05-18"
+  },
+  {
+    "state": "IL",
+    "jurisdiction_type": "city",
+    "name": "Harrisburg",
+    "fips_code": null,
+    "rate": 0.02,
+    "source_key": "IL-P-harrisburg",
+    "rate_type": "sales",
+    "effective_date": "2025-07-01",
+    "source_url": "https://tax.illinois.gov/content/dam/soi/en/web/tax/research/taxrates/documents/salestaxrates/ordmacha-current.txt",
+    "retrieved_at": "2026-09-22"
+  },
+  {
+    "state": "IL",
+    "jurisdiction_type": "city",
+    "name": "Harristown",
+    "fips_code": null,
+    "rate": 0.015,
+    "source_key": "IL-P-harristown",
+    "rate_type": "sales",
+    "effective_date": "2017-07-01",
+    "source_url": "https://tax.illinois.gov/content/dam/soi/en/web/tax/research/taxrates/documents/salestaxrates/ordmacha-current.txt",
+    "retrieved_at": "2026-09-22"
+  },
+  {
+    "state": "IL",
+    "jurisdiction_type": "city",
+    "name": "Hartford",
+    "fips_code": null,
+    "rate": 0.006,
+    "source_key": "IL-P-hartford",
+    "rate_type": "sales",
+    "effective_date": "2009-01-01",
+    "source_url": "https://tax.illinois.gov/content/dam/soi/en/web/tax/research/taxrates/documents/salestaxrates/ordmacha-current.txt",
+    "retrieved_at": "2026-09-22"
   },
   {
     "state": "IL",
@@ -35690,6 +36446,18 @@
   {
     "state": "IL",
     "jurisdiction_type": "city",
+    "name": "Harvey",
+    "fips_code": null,
+    "rate": 0.045,
+    "source_key": "IL-P-harvey",
+    "rate_type": "sales",
+    "effective_date": "2026-08-01",
+    "source_url": "https://tax.illinois.gov/content/dam/soi/en/web/tax/research/taxrates/documents/salestaxrates/ordmacha-current.txt",
+    "retrieved_at": "2026-09-22"
+  },
+  {
+    "state": "IL",
+    "jurisdiction_type": "city",
     "name": "Harwood Heights",
     "fips_code": null,
     "rate": 0.0425,
@@ -35698,6 +36466,18 @@
     "effective_date": "2026-08-01",
     "source_url": "https://tax.illinois.gov/content/dam/soi/en/web/tax/research/taxrates/documents/salestaxrates/ordmache-current.txt",
     "retrieved_at": "2026-08-11"
+  },
+  {
+    "state": "IL",
+    "jurisdiction_type": "city",
+    "name": "Havana",
+    "fips_code": null,
+    "rate": 0.015,
+    "source_key": "IL-P-havana",
+    "rate_type": "sales",
+    "effective_date": "2014-07-01",
+    "source_url": "https://tax.illinois.gov/content/dam/soi/en/web/tax/research/taxrates/documents/salestaxrates/ordmacha-current.txt",
+    "retrieved_at": "2026-09-22"
   },
   {
     "state": "IL",
@@ -35822,6 +36602,18 @@
   {
     "state": "IL",
     "jurisdiction_type": "city",
+    "name": "Heyworth",
+    "fips_code": null,
+    "rate": 0.02,
+    "source_key": "IL-P-heyworth",
+    "rate_type": "sales",
+    "effective_date": "2026-01-01",
+    "source_url": "https://tax.illinois.gov/content/dam/soi/en/web/tax/research/taxrates/documents/salestaxrates/ordmacha-current.txt",
+    "retrieved_at": "2026-09-22"
+  },
+  {
+    "state": "IL",
+    "jurisdiction_type": "city",
     "name": "Hickory Hills",
     "fips_code": null,
     "rate": 0.04,
@@ -35842,6 +36634,18 @@
     "effective_date": "2019-07-01",
     "source_url": "https://tax.illinois.gov/content/dam/soi/en/web/tax/research/taxrates/documents/salestaxrates/ordmache-current.txt",
     "retrieved_at": "2026-05-18"
+  },
+  {
+    "state": "IL",
+    "jurisdiction_type": "city",
+    "name": "Highland",
+    "fips_code": null,
+    "rate": 0.016,
+    "source_key": "IL-P-highland",
+    "rate_type": "sales",
+    "effective_date": "2009-01-01",
+    "source_url": "https://tax.illinois.gov/content/dam/soi/en/web/tax/research/taxrates/documents/salestaxrates/ordmacha-current.txt",
+    "retrieved_at": "2026-09-22"
   },
   {
     "state": "IL",
@@ -35878,6 +36682,18 @@
     "effective_date": "2017-07-01",
     "source_url": "https://tax.illinois.gov/content/dam/soi/en/web/tax/research/taxrates/documents/salestaxrates/ordmache-current.txt",
     "retrieved_at": "2026-05-18"
+  },
+  {
+    "state": "IL",
+    "jurisdiction_type": "city",
+    "name": "Hillsboro",
+    "fips_code": null,
+    "rate": 0.02,
+    "source_key": "IL-P-hillsboro",
+    "rate_type": "sales",
+    "effective_date": "2025-01-01",
+    "source_url": "https://tax.illinois.gov/content/dam/soi/en/web/tax/research/taxrates/documents/salestaxrates/ordmacha-current.txt",
+    "retrieved_at": "2026-09-22"
   },
   {
     "state": "IL",
@@ -35998,6 +36814,18 @@
     "effective_date": "2019-07-01",
     "source_url": "https://tax.illinois.gov/content/dam/soi/en/web/tax/research/taxrates/documents/salestaxrates/ordmache-current.txt",
     "retrieved_at": "2026-05-18"
+  },
+  {
+    "state": "IL",
+    "jurisdiction_type": "city",
+    "name": "Homer",
+    "fips_code": null,
+    "rate": 0.0125,
+    "source_key": "IL-P-homer",
+    "rate_type": "sales",
+    "effective_date": "2010-01-01",
+    "source_url": "https://tax.illinois.gov/content/dam/soi/en/web/tax/research/taxrates/documents/salestaxrates/ordmacha-current.txt",
+    "retrieved_at": "2026-09-22"
   },
   {
     "state": "IL",
@@ -36158,6 +36986,18 @@
   {
     "state": "IL",
     "jurisdiction_type": "city",
+    "name": "Illiopolis",
+    "fips_code": null,
+    "rate": 0.015,
+    "source_key": "IL-P-illiopolis",
+    "rate_type": "sales",
+    "effective_date": "2026-07-01",
+    "source_url": "https://tax.illinois.gov/content/dam/soi/en/web/tax/research/taxrates/documents/salestaxrates/ordmacha-current.txt",
+    "retrieved_at": "2026-09-22"
+  },
+  {
+    "state": "IL",
+    "jurisdiction_type": "city",
     "name": "Ina",
     "fips_code": null,
     "rate": 0.005,
@@ -36178,6 +37018,18 @@
     "effective_date": "2026-08-01",
     "source_url": "https://tax.illinois.gov/content/dam/soi/en/web/tax/research/taxrates/documents/salestaxrates/ordmache-current.txt",
     "retrieved_at": "2026-07-07"
+  },
+  {
+    "state": "IL",
+    "jurisdiction_type": "city",
+    "name": "Indian Head Park",
+    "fips_code": null,
+    "rate": 0.04,
+    "source_key": "IL-P-indianheadpark",
+    "rate_type": "sales",
+    "effective_date": "2026-08-01",
+    "source_url": "https://tax.illinois.gov/content/dam/soi/en/web/tax/research/taxrates/documents/salestaxrates/ordmacha-current.txt",
+    "retrieved_at": "2026-09-22"
   },
   {
     "state": "IL",
@@ -36346,6 +37198,18 @@
     "effective_date": "2014-01-01",
     "source_url": "https://tax.illinois.gov/content/dam/soi/en/web/tax/research/taxrates/documents/salestaxrates/ordmache-current.txt",
     "retrieved_at": "2026-05-18"
+  },
+  {
+    "state": "IL",
+    "jurisdiction_type": "city",
+    "name": "Jerome",
+    "fips_code": null,
+    "rate": 0.025,
+    "source_key": "IL-P-jerome",
+    "rate_type": "sales",
+    "effective_date": "2026-07-01",
+    "source_url": "https://tax.illinois.gov/content/dam/soi/en/web/tax/research/taxrates/documents/salestaxrates/ordmacha-current.txt",
+    "retrieved_at": "2026-09-22"
   },
   {
     "state": "IL",
@@ -36830,6 +37694,18 @@
   {
     "state": "IL",
     "jurisdiction_type": "city",
+    "name": "Lagrange Park",
+    "fips_code": null,
+    "rate": 0.03,
+    "source_key": "IL-P-lagrangepark",
+    "rate_type": "sales",
+    "effective_date": "2026-08-01",
+    "source_url": "https://tax.illinois.gov/content/dam/soi/en/web/tax/research/taxrates/documents/salestaxrates/ordmacha-current.txt",
+    "retrieved_at": "2026-09-22"
+  },
+  {
+    "state": "IL",
+    "jurisdiction_type": "city",
     "name": "Lake Barrington",
     "fips_code": null,
     "rate": 0.015,
@@ -36886,6 +37762,18 @@
     "effective_date": "2016-07-01",
     "source_url": "https://tax.illinois.gov/content/dam/soi/en/web/tax/research/taxrates/documents/salestaxrates/ordmache-current.txt",
     "retrieved_at": "2026-05-18"
+  },
+  {
+    "state": "IL",
+    "jurisdiction_type": "city",
+    "name": "Lake Villa",
+    "fips_code": null,
+    "rate": 0.02,
+    "source_key": "IL-P-lakevilla",
+    "rate_type": "sales",
+    "effective_date": "2026-08-01",
+    "source_url": "https://tax.illinois.gov/content/dam/soi/en/web/tax/research/taxrates/documents/salestaxrates/ordmacha-current.txt",
+    "retrieved_at": "2026-09-22"
   },
   {
     "state": "IL",
@@ -36970,6 +37858,30 @@
     "effective_date": "2010-07-01",
     "source_url": "https://tax.illinois.gov/content/dam/soi/en/web/tax/research/taxrates/documents/salestaxrates/ordmache-current.txt",
     "retrieved_at": "2026-05-18"
+  },
+  {
+    "state": "IL",
+    "jurisdiction_type": "city",
+    "name": "Le Roy",
+    "fips_code": null,
+    "rate": 0.02,
+    "source_key": "IL-P-leroy",
+    "rate_type": "sales",
+    "effective_date": "2025-07-01",
+    "source_url": "https://tax.illinois.gov/content/dam/soi/en/web/tax/research/taxrates/documents/salestaxrates/ordmacha-current.txt",
+    "retrieved_at": "2026-09-22"
+  },
+  {
+    "state": "IL",
+    "jurisdiction_type": "city",
+    "name": "Lebanon",
+    "fips_code": null,
+    "rate": 0.016,
+    "source_key": "IL-P-lebanon",
+    "rate_type": "sales",
+    "effective_date": "2014-07-01",
+    "source_url": "https://tax.illinois.gov/content/dam/soi/en/web/tax/research/taxrates/documents/salestaxrates/ordmacha-current.txt",
+    "retrieved_at": "2026-09-22"
   },
   {
     "state": "IL",
@@ -37226,6 +38138,18 @@
   {
     "state": "IL",
     "jurisdiction_type": "city",
+    "name": "Litchfield",
+    "fips_code": null,
+    "rate": 0.02,
+    "source_key": "IL-P-litchfield",
+    "rate_type": "sales",
+    "effective_date": "2017-07-01",
+    "source_url": "https://tax.illinois.gov/content/dam/soi/en/web/tax/research/taxrates/documents/salestaxrates/ordmacha-current.txt",
+    "retrieved_at": "2026-09-22"
+  },
+  {
+    "state": "IL",
+    "jurisdiction_type": "city",
     "name": "Little York",
     "fips_code": null,
     "rate": 0.0175,
@@ -37322,6 +38246,18 @@
   {
     "state": "IL",
     "jurisdiction_type": "city",
+    "name": "Lombard",
+    "fips_code": null,
+    "rate": 0.02,
+    "source_key": "IL-P-lombard",
+    "rate_type": "sales",
+    "effective_date": "2026-08-01",
+    "source_url": "https://tax.illinois.gov/content/dam/soi/en/web/tax/research/taxrates/documents/salestaxrates/ordmacha-current.txt",
+    "retrieved_at": "2026-09-22"
+  },
+  {
+    "state": "IL",
+    "jurisdiction_type": "city",
     "name": "London Mills",
     "fips_code": null,
     "rate": 0.015,
@@ -37342,6 +38278,18 @@
     "effective_date": "2017-07-01",
     "source_url": "https://tax.illinois.gov/content/dam/soi/en/web/tax/research/taxrates/documents/salestaxrates/ordmache-current.txt",
     "retrieved_at": "2026-05-18"
+  },
+  {
+    "state": "IL",
+    "jurisdiction_type": "city",
+    "name": "Long Grove",
+    "fips_code": null,
+    "rate": 0.02,
+    "source_key": "IL-P-longgrove",
+    "rate_type": "sales",
+    "effective_date": "2026-08-01",
+    "source_url": "https://tax.illinois.gov/content/dam/soi/en/web/tax/research/taxrates/documents/salestaxrates/ordmacha-current.txt",
+    "retrieved_at": "2026-09-22"
   },
   {
     "state": "IL",
@@ -37390,6 +38338,18 @@
     "effective_date": "1999-01-01",
     "source_url": "https://tax.illinois.gov/content/dam/soi/en/web/tax/research/taxrates/documents/salestaxrates/ordmache-current.txt",
     "retrieved_at": "2026-05-18"
+  },
+  {
+    "state": "IL",
+    "jurisdiction_type": "city",
+    "name": "Louisville",
+    "fips_code": null,
+    "rate": 0.005,
+    "source_key": "IL-P-louisville",
+    "rate_type": "sales",
+    "effective_date": "2006-07-01",
+    "source_url": "https://tax.illinois.gov/content/dam/soi/en/web/tax/research/taxrates/documents/salestaxrates/ordmacha-current.txt",
+    "retrieved_at": "2026-09-22"
   },
   {
     "state": "IL",
@@ -37490,6 +38450,66 @@
   {
     "state": "IL",
     "jurisdiction_type": "city",
+    "name": "Machesney Park",
+    "fips_code": null,
+    "rate": 0.025,
+    "source_key": "IL-P-machesneypark",
+    "rate_type": "sales",
+    "effective_date": "2020-07-01",
+    "source_url": "https://tax.illinois.gov/content/dam/soi/en/web/tax/research/taxrates/documents/salestaxrates/ordmacha-current.txt",
+    "retrieved_at": "2026-09-22"
+  },
+  {
+    "state": "IL",
+    "jurisdiction_type": "city",
+    "name": "Mackinaw",
+    "fips_code": null,
+    "rate": 0.005,
+    "source_key": "IL-P-mackinaw",
+    "rate_type": "sales",
+    "effective_date": "2001-07-01",
+    "source_url": "https://tax.illinois.gov/content/dam/soi/en/web/tax/research/taxrates/documents/salestaxrates/ordmacha-current.txt",
+    "retrieved_at": "2026-09-22"
+  },
+  {
+    "state": "IL",
+    "jurisdiction_type": "city",
+    "name": "Macomb",
+    "fips_code": null,
+    "rate": 0.0275,
+    "source_key": "IL-P-macomb",
+    "rate_type": "sales",
+    "effective_date": "2017-07-01",
+    "source_url": "https://tax.illinois.gov/content/dam/soi/en/web/tax/research/taxrates/documents/salestaxrates/ordmacha-current.txt",
+    "retrieved_at": "2026-09-22"
+  },
+  {
+    "state": "IL",
+    "jurisdiction_type": "city",
+    "name": "Macon",
+    "fips_code": null,
+    "rate": 0.015,
+    "source_key": "IL-P-macon",
+    "rate_type": "sales",
+    "effective_date": "2017-07-01",
+    "source_url": "https://tax.illinois.gov/content/dam/soi/en/web/tax/research/taxrates/documents/salestaxrates/ordmacha-current.txt",
+    "retrieved_at": "2026-09-22"
+  },
+  {
+    "state": "IL",
+    "jurisdiction_type": "city",
+    "name": "Madison",
+    "fips_code": null,
+    "rate": 0.006,
+    "source_key": "IL-P-madison",
+    "rate_type": "sales",
+    "effective_date": "2009-01-01",
+    "source_url": "https://tax.illinois.gov/content/dam/soi/en/web/tax/research/taxrates/documents/salestaxrates/ordmacha-current.txt",
+    "retrieved_at": "2026-09-22"
+  },
+  {
+    "state": "IL",
+    "jurisdiction_type": "city",
     "name": "Maeystown",
     "fips_code": null,
     "rate": 0.0125,
@@ -37498,6 +38518,18 @@
     "effective_date": "2016-07-01",
     "source_url": "https://tax.illinois.gov/content/dam/soi/en/web/tax/research/taxrates/documents/salestaxrates/ordmache-current.txt",
     "retrieved_at": "2026-05-18"
+  },
+  {
+    "state": "IL",
+    "jurisdiction_type": "city",
+    "name": "Mahomet",
+    "fips_code": null,
+    "rate": 0.0125,
+    "source_key": "IL-P-mahomet",
+    "rate_type": "sales",
+    "effective_date": "2010-01-01",
+    "source_url": "https://tax.illinois.gov/content/dam/soi/en/web/tax/research/taxrates/documents/salestaxrates/ordmacha-current.txt",
+    "retrieved_at": "2026-09-22"
   },
   {
     "state": "IL",
@@ -37694,6 +38726,18 @@
   {
     "state": "IL",
     "jurisdiction_type": "city",
+    "name": "Maroa",
+    "fips_code": null,
+    "rate": 0.015,
+    "source_key": "IL-P-maroa",
+    "rate_type": "sales",
+    "effective_date": "2017-07-01",
+    "source_url": "https://tax.illinois.gov/content/dam/soi/en/web/tax/research/taxrates/documents/salestaxrates/ordmacha-current.txt",
+    "retrieved_at": "2026-09-22"
+  },
+  {
+    "state": "IL",
+    "jurisdiction_type": "city",
     "name": "Marquette Heights",
     "fips_code": null,
     "rate": 0.005,
@@ -37754,6 +38798,30 @@
   {
     "state": "IL",
     "jurisdiction_type": "city",
+    "name": "Maryville",
+    "fips_code": null,
+    "rate": 0.016,
+    "source_key": "IL-P-maryville",
+    "rate_type": "sales",
+    "effective_date": "2026-01-01",
+    "source_url": "https://tax.illinois.gov/content/dam/soi/en/web/tax/research/taxrates/documents/salestaxrates/ordmacha-current.txt",
+    "retrieved_at": "2026-09-22"
+  },
+  {
+    "state": "IL",
+    "jurisdiction_type": "city",
+    "name": "Mascoutah",
+    "fips_code": null,
+    "rate": 0.0135,
+    "source_key": "IL-P-mascoutah",
+    "rate_type": "sales",
+    "effective_date": "2009-01-01",
+    "source_url": "https://tax.illinois.gov/content/dam/soi/en/web/tax/research/taxrates/documents/salestaxrates/ordmacha-current.txt",
+    "retrieved_at": "2026-09-22"
+  },
+  {
+    "state": "IL",
+    "jurisdiction_type": "city",
     "name": "Mason",
     "fips_code": null,
     "rate": 0.0025,
@@ -37798,6 +38866,18 @@
     "effective_date": "2026-08-01",
     "source_url": "https://tax.illinois.gov/content/dam/soi/en/web/tax/research/taxrates/documents/salestaxrates/ordmache-current.txt",
     "retrieved_at": "2026-08-11"
+  },
+  {
+    "state": "IL",
+    "jurisdiction_type": "city",
+    "name": "Mattoon",
+    "fips_code": null,
+    "rate": 0.015,
+    "source_key": "IL-P-mattoon",
+    "rate_type": "sales",
+    "effective_date": "2017-07-01",
+    "source_url": "https://tax.illinois.gov/content/dam/soi/en/web/tax/research/taxrates/documents/salestaxrates/ordmacha-current.txt",
+    "retrieved_at": "2026-09-22"
   },
   {
     "state": "IL",
@@ -37858,6 +38938,18 @@
     "effective_date": "2026-08-01",
     "source_url": "https://tax.illinois.gov/content/dam/soi/en/web/tax/research/taxrates/documents/salestaxrates/ordmache-current.txt",
     "retrieved_at": "2026-07-07"
+  },
+  {
+    "state": "IL",
+    "jurisdiction_type": "city",
+    "name": "Mclean",
+    "fips_code": null,
+    "rate": 0.015,
+    "source_key": "IL-P-mclean",
+    "rate_type": "sales",
+    "effective_date": "2025-07-01",
+    "source_url": "https://tax.illinois.gov/content/dam/soi/en/web/tax/research/taxrates/documents/salestaxrates/ordmacha-current.txt",
+    "retrieved_at": "2026-09-22"
   },
   {
     "state": "IL",
@@ -38006,6 +39098,18 @@
   {
     "state": "IL",
     "jurisdiction_type": "city",
+    "name": "Metropolis",
+    "fips_code": null,
+    "rate": 0.01,
+    "source_key": "IL-P-metropolis",
+    "rate_type": "sales",
+    "effective_date": "2026-07-01",
+    "source_url": "https://tax.illinois.gov/content/dam/soi/en/web/tax/research/taxrates/documents/salestaxrates/ordmacha-current.txt",
+    "retrieved_at": "2026-09-22"
+  },
+  {
+    "state": "IL",
+    "jurisdiction_type": "city",
     "name": "Mettawa",
     "fips_code": null,
     "rate": 0.01,
@@ -38102,6 +39206,18 @@
   {
     "state": "IL",
     "jurisdiction_type": "city",
+    "name": "Milledgeville",
+    "fips_code": null,
+    "rate": 0.0025,
+    "source_key": "IL-P-milledgeville",
+    "rate_type": "sales",
+    "effective_date": "2000-01-01",
+    "source_url": "https://tax.illinois.gov/content/dam/soi/en/web/tax/research/taxrates/documents/salestaxrates/ordmacha-current.txt",
+    "retrieved_at": "2026-09-22"
+  },
+  {
+    "state": "IL",
+    "jurisdiction_type": "city",
     "name": "Millington",
     "fips_code": null,
     "rate": 0.0025,
@@ -38110,6 +39226,18 @@
     "effective_date": "1999-01-01",
     "source_url": "https://tax.illinois.gov/content/dam/soi/en/web/tax/research/taxrates/documents/salestaxrates/ordmache-current.txt",
     "retrieved_at": "2026-05-18"
+  },
+  {
+    "state": "IL",
+    "jurisdiction_type": "city",
+    "name": "Millstadt",
+    "fips_code": null,
+    "rate": 0.0035,
+    "source_key": "IL-P-millstadt",
+    "rate_type": "sales",
+    "effective_date": "2009-01-01",
+    "source_url": "https://tax.illinois.gov/content/dam/soi/en/web/tax/research/taxrates/documents/salestaxrates/ordmacha-current.txt",
+    "retrieved_at": "2026-09-22"
   },
   {
     "state": "IL",
@@ -38198,6 +39326,18 @@
   {
     "state": "IL",
     "jurisdiction_type": "city",
+    "name": "Moline",
+    "fips_code": null,
+    "rate": 0.0225,
+    "source_key": "IL-P-moline",
+    "rate_type": "sales",
+    "effective_date": "2017-07-01",
+    "source_url": "https://tax.illinois.gov/content/dam/soi/en/web/tax/research/taxrates/documents/salestaxrates/ordmacha-current.txt",
+    "retrieved_at": "2026-09-22"
+  },
+  {
+    "state": "IL",
+    "jurisdiction_type": "city",
     "name": "Monee",
     "fips_code": null,
     "rate": 0.02,
@@ -38206,6 +39346,18 @@
     "effective_date": "2026-08-01",
     "source_url": "https://tax.illinois.gov/content/dam/soi/en/web/tax/research/taxrates/documents/salestaxrates/ordmache-current.txt",
     "retrieved_at": "2026-07-07"
+  },
+  {
+    "state": "IL",
+    "jurisdiction_type": "city",
+    "name": "Monmouth",
+    "fips_code": null,
+    "rate": 0.0375,
+    "source_key": "IL-P-monmouth",
+    "rate_type": "sales",
+    "effective_date": "2024-01-01",
+    "source_url": "https://tax.illinois.gov/content/dam/soi/en/web/tax/research/taxrates/documents/salestaxrates/ordmacha-current.txt",
+    "retrieved_at": "2026-09-22"
   },
   {
     "state": "IL",
@@ -38234,14 +39386,26 @@
   {
     "state": "IL",
     "jurisdiction_type": "city",
-    "name": "Montrose",
+    "name": "Monticello",
     "fips_code": null,
     "rate": 0.01,
+    "source_key": "IL-P-monticello",
+    "rate_type": "sales",
+    "effective_date": "2015-07-01",
+    "source_url": "https://tax.illinois.gov/content/dam/soi/en/web/tax/research/taxrates/documents/salestaxrates/ordmacha-current.txt",
+    "retrieved_at": "2026-09-22"
+  },
+  {
+    "state": "IL",
+    "jurisdiction_type": "city",
+    "name": "Montrose",
+    "fips_code": null,
+    "rate": 0.0025,
     "source_key": "IL-P-montrose",
     "rate_type": "sales",
-    "effective_date": "2017-07-01",
-    "source_url": "https://tax.illinois.gov/content/dam/soi/en/web/tax/research/taxrates/documents/salestaxrates/ordmache-current.txt",
-    "retrieved_at": "2026-05-18"
+    "effective_date": "2006-01-01",
+    "source_url": "https://tax.illinois.gov/content/dam/soi/en/web/tax/research/taxrates/documents/salestaxrates/ordmacha-current.txt",
+    "retrieved_at": "2026-09-22"
   },
   {
     "state": "IL",
@@ -38266,6 +39430,30 @@
     "effective_date": "2014-01-01",
     "source_url": "https://tax.illinois.gov/content/dam/soi/en/web/tax/research/taxrates/documents/salestaxrates/ordmache-current.txt",
     "retrieved_at": "2026-05-18"
+  },
+  {
+    "state": "IL",
+    "jurisdiction_type": "city",
+    "name": "Morton",
+    "fips_code": null,
+    "rate": 0.0125,
+    "source_key": "IL-P-morton",
+    "rate_type": "sales",
+    "effective_date": "2025-07-01",
+    "source_url": "https://tax.illinois.gov/content/dam/soi/en/web/tax/research/taxrates/documents/salestaxrates/ordmacha-current.txt",
+    "retrieved_at": "2026-09-22"
+  },
+  {
+    "state": "IL",
+    "jurisdiction_type": "city",
+    "name": "Morton Grove",
+    "fips_code": null,
+    "rate": 0.0425,
+    "source_key": "IL-P-mortongrove",
+    "rate_type": "sales",
+    "effective_date": "2026-08-01",
+    "source_url": "https://tax.illinois.gov/content/dam/soi/en/web/tax/research/taxrates/documents/salestaxrates/ordmacha-current.txt",
+    "retrieved_at": "2026-09-22"
   },
   {
     "state": "IL",
@@ -38306,6 +39494,18 @@
   {
     "state": "IL",
     "jurisdiction_type": "city",
+    "name": "Mount Carroll",
+    "fips_code": null,
+    "rate": 0.0025,
+    "source_key": "IL-P-mountcarroll",
+    "rate_type": "sales",
+    "effective_date": "2000-01-01",
+    "source_url": "https://tax.illinois.gov/content/dam/soi/en/web/tax/research/taxrates/documents/salestaxrates/ordmacha-current.txt",
+    "retrieved_at": "2026-09-22"
+  },
+  {
+    "state": "IL",
+    "jurisdiction_type": "city",
     "name": "Mount Clare",
     "fips_code": null,
     "rate": 0.01,
@@ -38342,6 +39542,30 @@
   {
     "state": "IL",
     "jurisdiction_type": "city",
+    "name": "Mount Prospect",
+    "fips_code": null,
+    "rate": 0.04,
+    "source_key": "IL-P-mountprospect",
+    "rate_type": "sales",
+    "effective_date": "2026-08-01",
+    "source_url": "https://tax.illinois.gov/content/dam/soi/en/web/tax/research/taxrates/documents/salestaxrates/ordmacha-current.txt",
+    "retrieved_at": "2026-09-22"
+  },
+  {
+    "state": "IL",
+    "jurisdiction_type": "city",
+    "name": "Mount Pulaski",
+    "fips_code": null,
+    "rate": 0.02,
+    "source_key": "IL-P-mountpulaski",
+    "rate_type": "sales",
+    "effective_date": "2020-07-01",
+    "source_url": "https://tax.illinois.gov/content/dam/soi/en/web/tax/research/taxrates/documents/salestaxrates/ordmacha-current.txt",
+    "retrieved_at": "2026-09-22"
+  },
+  {
+    "state": "IL",
+    "jurisdiction_type": "city",
     "name": "Mount Sterling",
     "fips_code": null,
     "rate": 0.0125,
@@ -38362,6 +39586,30 @@
     "effective_date": "2020-07-01",
     "source_url": "https://tax.illinois.gov/content/dam/soi/en/web/tax/research/taxrates/documents/salestaxrates/ordmache-current.txt",
     "retrieved_at": "2026-05-18"
+  },
+  {
+    "state": "IL",
+    "jurisdiction_type": "city",
+    "name": "Mount Zion",
+    "fips_code": null,
+    "rate": 0.015,
+    "source_key": "IL-P-mountzion",
+    "rate_type": "sales",
+    "effective_date": "2017-07-01",
+    "source_url": "https://tax.illinois.gov/content/dam/soi/en/web/tax/research/taxrates/documents/salestaxrates/ordmacha-current.txt",
+    "retrieved_at": "2026-09-22"
+  },
+  {
+    "state": "IL",
+    "jurisdiction_type": "city",
+    "name": "Moweaqua",
+    "fips_code": null,
+    "rate": 0.01,
+    "source_key": "IL-P-moweaqua",
+    "rate_type": "sales",
+    "effective_date": "2014-07-01",
+    "source_url": "https://tax.illinois.gov/content/dam/soi/en/web/tax/research/taxrates/documents/salestaxrates/ordmacha-current.txt",
+    "retrieved_at": "2026-09-22"
   },
   {
     "state": "IL",
@@ -38410,6 +39658,18 @@
     "effective_date": "2026-08-01",
     "source_url": "https://tax.illinois.gov/content/dam/soi/en/web/tax/research/taxrates/documents/salestaxrates/ordmache-current.txt",
     "retrieved_at": "2026-07-07"
+  },
+  {
+    "state": "IL",
+    "jurisdiction_type": "city",
+    "name": "Murphysboro",
+    "fips_code": null,
+    "rate": 0.03,
+    "source_key": "IL-P-murphysboro",
+    "rate_type": "sales",
+    "effective_date": "2017-07-01",
+    "source_url": "https://tax.illinois.gov/content/dam/soi/en/web/tax/research/taxrates/documents/salestaxrates/ordmacha-current.txt",
+    "retrieved_at": "2026-09-22"
   },
   {
     "state": "IL",
@@ -38510,6 +39770,18 @@
   {
     "state": "IL",
     "jurisdiction_type": "city",
+    "name": "Neoga",
+    "fips_code": null,
+    "rate": 0.01,
+    "source_key": "IL-P-neoga",
+    "rate_type": "sales",
+    "effective_date": "2017-07-01",
+    "source_url": "https://tax.illinois.gov/content/dam/soi/en/web/tax/research/taxrates/documents/salestaxrates/ordmacha-current.txt",
+    "retrieved_at": "2026-09-22"
+  },
+  {
+    "state": "IL",
+    "jurisdiction_type": "city",
     "name": "Neponset",
     "fips_code": null,
     "rate": 0.02,
@@ -38518,6 +39790,30 @@
     "effective_date": "2026-01-01",
     "source_url": "https://tax.illinois.gov/content/dam/soi/en/web/tax/research/taxrates/documents/salestaxrates/ordmache-current.txt",
     "retrieved_at": "2026-05-18"
+  },
+  {
+    "state": "IL",
+    "jurisdiction_type": "city",
+    "name": "New Athens",
+    "fips_code": null,
+    "rate": 0.0085,
+    "source_key": "IL-P-newathens",
+    "rate_type": "sales",
+    "effective_date": "2025-07-01",
+    "source_url": "https://tax.illinois.gov/content/dam/soi/en/web/tax/research/taxrates/documents/salestaxrates/ordmacha-current.txt",
+    "retrieved_at": "2026-09-22"
+  },
+  {
+    "state": "IL",
+    "jurisdiction_type": "city",
+    "name": "New Baden",
+    "fips_code": null,
+    "rate": 0.016,
+    "source_key": "IL-P-newbaden",
+    "rate_type": "sales",
+    "effective_date": "2015-01-01",
+    "source_url": "https://tax.illinois.gov/content/dam/soi/en/web/tax/research/taxrates/documents/salestaxrates/ordmacha-current.txt",
+    "retrieved_at": "2026-09-22"
   },
   {
     "state": "IL",
@@ -38738,6 +40034,18 @@
   {
     "state": "IL",
     "jurisdiction_type": "city",
+    "name": "Nokomis",
+    "fips_code": null,
+    "rate": 0.02,
+    "source_key": "IL-P-nokomis",
+    "rate_type": "sales",
+    "effective_date": "2025-01-01",
+    "source_url": "https://tax.illinois.gov/content/dam/soi/en/web/tax/research/taxrates/documents/salestaxrates/ordmacha-current.txt",
+    "retrieved_at": "2026-09-22"
+  },
+  {
+    "state": "IL",
+    "jurisdiction_type": "city",
     "name": "Nora",
     "fips_code": null,
     "rate": 0.01,
@@ -38758,6 +40066,18 @@
     "effective_date": "2025-07-01",
     "source_url": "https://tax.illinois.gov/content/dam/soi/en/web/tax/research/taxrates/documents/salestaxrates/ordmache-current.txt",
     "retrieved_at": "2026-05-18"
+  },
+  {
+    "state": "IL",
+    "jurisdiction_type": "city",
+    "name": "Norridge",
+    "fips_code": null,
+    "rate": 0.045,
+    "source_key": "IL-P-norridge",
+    "rate_type": "sales",
+    "effective_date": "2026-08-01",
+    "source_url": "https://tax.illinois.gov/content/dam/soi/en/web/tax/research/taxrates/documents/salestaxrates/ordmacha-current.txt",
+    "retrieved_at": "2026-09-22"
   },
   {
     "state": "IL",
@@ -38930,6 +40250,18 @@
   {
     "state": "IL",
     "jurisdiction_type": "city",
+    "name": "O Fallon",
+    "fips_code": null,
+    "rate": 0.021,
+    "source_key": "IL-P-ofallon",
+    "rate_type": "sales",
+    "effective_date": "2022-07-01",
+    "source_url": "https://tax.illinois.gov/content/dam/soi/en/web/tax/research/taxrates/documents/salestaxrates/ordmacha-current.txt",
+    "retrieved_at": "2026-09-22"
+  },
+  {
+    "state": "IL",
+    "jurisdiction_type": "city",
     "name": "Oak Brook",
     "fips_code": null,
     "rate": 0.015,
@@ -38986,6 +40318,18 @@
     "effective_date": "2026-08-01",
     "source_url": "https://tax.illinois.gov/content/dam/soi/en/web/tax/research/taxrates/documents/salestaxrates/ordmache-current.txt",
     "retrieved_at": "2026-08-11"
+  },
+  {
+    "state": "IL",
+    "jurisdiction_type": "city",
+    "name": "Oakbrook Terrace",
+    "fips_code": null,
+    "rate": 0.02,
+    "source_key": "IL-P-oakbrookterrace",
+    "rate_type": "sales",
+    "effective_date": "2026-08-01",
+    "source_url": "https://tax.illinois.gov/content/dam/soi/en/web/tax/research/taxrates/documents/salestaxrates/ordmacha-current.txt",
+    "retrieved_at": "2026-09-22"
   },
   {
     "state": "IL",
@@ -39154,6 +40498,18 @@
     "effective_date": "2014-01-01",
     "source_url": "https://tax.illinois.gov/content/dam/soi/en/web/tax/research/taxrates/documents/salestaxrates/ordmache-current.txt",
     "retrieved_at": "2026-05-18"
+  },
+  {
+    "state": "IL",
+    "jurisdiction_type": "city",
+    "name": "Olney",
+    "fips_code": null,
+    "rate": 0.015,
+    "source_key": "IL-P-olney",
+    "rate_type": "sales",
+    "effective_date": "2018-07-01",
+    "source_url": "https://tax.illinois.gov/content/dam/soi/en/web/tax/research/taxrates/documents/salestaxrates/ordmacha-current.txt",
+    "retrieved_at": "2026-09-22"
   },
   {
     "state": "IL",
@@ -39386,6 +40742,18 @@
   {
     "state": "IL",
     "jurisdiction_type": "city",
+    "name": "Palos Heights",
+    "fips_code": null,
+    "rate": 0.03,
+    "source_key": "IL-P-palosheights",
+    "rate_type": "sales",
+    "effective_date": "2026-08-01",
+    "source_url": "https://tax.illinois.gov/content/dam/soi/en/web/tax/research/taxrates/documents/salestaxrates/ordmacha-current.txt",
+    "retrieved_at": "2026-09-22"
+  },
+  {
+    "state": "IL",
+    "jurisdiction_type": "city",
     "name": "Palos Hills",
     "fips_code": null,
     "rate": 0.03,
@@ -39406,6 +40774,18 @@
     "effective_date": "2026-08-01",
     "source_url": "https://tax.illinois.gov/content/dam/soi/en/web/tax/research/taxrates/documents/salestaxrates/ordmache-current.txt",
     "retrieved_at": "2026-08-11"
+  },
+  {
+    "state": "IL",
+    "jurisdiction_type": "city",
+    "name": "Pana",
+    "fips_code": null,
+    "rate": 0.01,
+    "source_key": "IL-P-pana",
+    "rate_type": "sales",
+    "effective_date": "2014-01-01",
+    "source_url": "https://tax.illinois.gov/content/dam/soi/en/web/tax/research/taxrates/documents/salestaxrates/ordmacha-current.txt",
+    "retrieved_at": "2026-09-22"
   },
   {
     "state": "IL",
@@ -39578,26 +40958,62 @@
   {
     "state": "IL",
     "jurisdiction_type": "city",
+    "name": "Pecatonica",
+    "fips_code": null,
+    "rate": 0.015,
+    "source_key": "IL-P-pecatonica",
+    "rate_type": "sales",
+    "effective_date": "2020-07-01",
+    "source_url": "https://tax.illinois.gov/content/dam/soi/en/web/tax/research/taxrates/documents/salestaxrates/ordmacha-current.txt",
+    "retrieved_at": "2026-09-22"
+  },
+  {
+    "state": "IL",
+    "jurisdiction_type": "city",
     "name": "Pekin",
     "fips_code": null,
-    "rate": 0.0275,
+    "rate": 0.0225,
     "source_key": "IL-P-pekin",
     "rate_type": "sales",
     "effective_date": "2017-07-01",
-    "source_url": "https://tax.illinois.gov/content/dam/soi/en/web/tax/research/taxrates/documents/salestaxrates/ordmache-current.txt",
-    "retrieved_at": "2026-05-18"
+    "source_url": "https://tax.illinois.gov/content/dam/soi/en/web/tax/research/taxrates/documents/salestaxrates/ordmacha-current.txt",
+    "retrieved_at": "2026-09-22"
+  },
+  {
+    "state": "IL",
+    "jurisdiction_type": "city",
+    "name": "Peoria",
+    "fips_code": null,
+    "rate": 0.0275,
+    "source_key": "IL-P-peoria",
+    "rate_type": "sales",
+    "effective_date": "2017-07-01",
+    "source_url": "https://tax.illinois.gov/content/dam/soi/en/web/tax/research/taxrates/documents/salestaxrates/ordmacha-current.txt",
+    "retrieved_at": "2026-09-22"
   },
   {
     "state": "IL",
     "jurisdiction_type": "city",
     "name": "Peoria Heights",
     "fips_code": null,
-    "rate": 0.02,
+    "rate": 0.025,
     "source_key": "IL-P-peoriaheights",
     "rate_type": "sales",
-    "effective_date": "2012-01-01",
-    "source_url": "https://tax.illinois.gov/content/dam/soi/en/web/tax/research/taxrates/documents/salestaxrates/ordmache-current.txt",
-    "retrieved_at": "2026-05-18"
+    "effective_date": "2017-07-01",
+    "source_url": "https://tax.illinois.gov/content/dam/soi/en/web/tax/research/taxrates/documents/salestaxrates/ordmacha-current.txt",
+    "retrieved_at": "2026-09-22"
+  },
+  {
+    "state": "IL",
+    "jurisdiction_type": "city",
+    "name": "Peotone",
+    "fips_code": null,
+    "rate": 0.01,
+    "source_key": "IL-P-peotone",
+    "rate_type": "sales",
+    "effective_date": "2026-08-01",
+    "source_url": "https://tax.illinois.gov/content/dam/soi/en/web/tax/research/taxrates/documents/salestaxrates/ordmacha-current.txt",
+    "retrieved_at": "2026-09-22"
   },
   {
     "state": "IL",
@@ -39650,6 +41066,18 @@
   {
     "state": "IL",
     "jurisdiction_type": "city",
+    "name": "Petersburg",
+    "fips_code": null,
+    "rate": 0.02,
+    "source_key": "IL-P-petersburg",
+    "rate_type": "sales",
+    "effective_date": "2019-07-01",
+    "source_url": "https://tax.illinois.gov/content/dam/soi/en/web/tax/research/taxrates/documents/salestaxrates/ordmacha-current.txt",
+    "retrieved_at": "2026-09-22"
+  },
+  {
+    "state": "IL",
+    "jurisdiction_type": "city",
     "name": "Phillipstown",
     "fips_code": null,
     "rate": 0.01,
@@ -39694,6 +41122,18 @@
     "effective_date": "2016-07-01",
     "source_url": "https://tax.illinois.gov/content/dam/soi/en/web/tax/research/taxrates/documents/salestaxrates/ordmache-current.txt",
     "retrieved_at": "2026-05-18"
+  },
+  {
+    "state": "IL",
+    "jurisdiction_type": "city",
+    "name": "Pinckneyville",
+    "fips_code": null,
+    "rate": 0.015,
+    "source_key": "IL-P-pinckneyville",
+    "rate_type": "sales",
+    "effective_date": "2015-07-01",
+    "source_url": "https://tax.illinois.gov/content/dam/soi/en/web/tax/research/taxrates/documents/salestaxrates/ordmacha-current.txt",
+    "retrieved_at": "2026-09-22"
   },
   {
     "state": "IL",
@@ -39818,6 +41258,42 @@
   {
     "state": "IL",
     "jurisdiction_type": "city",
+    "name": "Pocahontas",
+    "fips_code": null,
+    "rate": 0.01,
+    "source_key": "IL-P-pocahontas",
+    "rate_type": "sales",
+    "effective_date": "2016-07-01",
+    "source_url": "https://tax.illinois.gov/content/dam/soi/en/web/tax/research/taxrates/documents/salestaxrates/ordmacha-current.txt",
+    "retrieved_at": "2026-09-22"
+  },
+  {
+    "state": "IL",
+    "jurisdiction_type": "city",
+    "name": "Pontiac",
+    "fips_code": null,
+    "rate": 0.02,
+    "source_key": "IL-P-pontiac",
+    "rate_type": "sales",
+    "effective_date": "2025-01-01",
+    "source_url": "https://tax.illinois.gov/content/dam/soi/en/web/tax/research/taxrates/documents/salestaxrates/ordmacha-current.txt",
+    "retrieved_at": "2026-09-22"
+  },
+  {
+    "state": "IL",
+    "jurisdiction_type": "city",
+    "name": "Pontoon Beach",
+    "fips_code": null,
+    "rate": 0.006,
+    "source_key": "IL-P-pontoonbeach",
+    "rate_type": "sales",
+    "effective_date": "2009-01-01",
+    "source_url": "https://tax.illinois.gov/content/dam/soi/en/web/tax/research/taxrates/documents/salestaxrates/ordmacha-current.txt",
+    "retrieved_at": "2026-09-22"
+  },
+  {
+    "state": "IL",
+    "jurisdiction_type": "city",
     "name": "Poplar Grove",
     "fips_code": null,
     "rate": 0.015,
@@ -39914,6 +41390,18 @@
   {
     "state": "IL",
     "jurisdiction_type": "city",
+    "name": "Princeton",
+    "fips_code": null,
+    "rate": 0.0175,
+    "source_key": "IL-P-princeton",
+    "rate_type": "sales",
+    "effective_date": "2026-08-11",
+    "source_url": "https://tax.illinois.gov/content/dam/soi/en/web/tax/research/taxrates/documents/salestaxrates/ordmacha-current.txt",
+    "retrieved_at": "2026-09-22"
+  },
+  {
+    "state": "IL",
+    "jurisdiction_type": "city",
     "name": "Princeville",
     "fips_code": null,
     "rate": 0.01,
@@ -39950,6 +41438,18 @@
   {
     "state": "IL",
     "jurisdiction_type": "city",
+    "name": "Quincy",
+    "fips_code": null,
+    "rate": 0.0175,
+    "source_key": "IL-P-quincy",
+    "rate_type": "sales",
+    "effective_date": "2015-07-01",
+    "source_url": "https://tax.illinois.gov/content/dam/soi/en/web/tax/research/taxrates/documents/salestaxrates/ordmacha-current.txt",
+    "retrieved_at": "2026-09-22"
+  },
+  {
+    "state": "IL",
+    "jurisdiction_type": "city",
     "name": "Raleigh",
     "fips_code": null,
     "rate": 0.0175,
@@ -39958,6 +41458,18 @@
     "effective_date": "2012-07-01",
     "source_url": "https://tax.illinois.gov/content/dam/soi/en/web/tax/research/taxrates/documents/salestaxrates/ordmache-current.txt",
     "retrieved_at": "2026-05-18"
+  },
+  {
+    "state": "IL",
+    "jurisdiction_type": "city",
+    "name": "Ramsey",
+    "fips_code": null,
+    "rate": 0.01,
+    "source_key": "IL-P-ramsey",
+    "rate_type": "sales",
+    "effective_date": "2019-07-01",
+    "source_url": "https://tax.illinois.gov/content/dam/soi/en/web/tax/research/taxrates/documents/salestaxrates/ordmacha-current.txt",
+    "retrieved_at": "2026-09-22"
   },
   {
     "state": "IL",
@@ -40022,6 +41534,18 @@
   {
     "state": "IL",
     "jurisdiction_type": "city",
+    "name": "Raymond",
+    "fips_code": null,
+    "rate": 0.01,
+    "source_key": "IL-P-raymond",
+    "rate_type": "sales",
+    "effective_date": "2017-07-01",
+    "source_url": "https://tax.illinois.gov/content/dam/soi/en/web/tax/research/taxrates/documents/salestaxrates/ordmacha-current.txt",
+    "retrieved_at": "2026-09-22"
+  },
+  {
+    "state": "IL",
+    "jurisdiction_type": "city",
     "name": "Red Bud",
     "fips_code": null,
     "rate": 0.01,
@@ -40078,6 +41602,18 @@
     "effective_date": "2026-08-01",
     "source_url": "https://tax.illinois.gov/content/dam/soi/en/web/tax/research/taxrates/documents/salestaxrates/ordmache-current.txt",
     "retrieved_at": "2026-07-07"
+  },
+  {
+    "state": "IL",
+    "jurisdiction_type": "city",
+    "name": "Richton Park",
+    "fips_code": null,
+    "rate": 0.04,
+    "source_key": "IL-P-richtonpark",
+    "rate_type": "sales",
+    "effective_date": "2026-08-01",
+    "source_url": "https://tax.illinois.gov/content/dam/soi/en/web/tax/research/taxrates/documents/salestaxrates/ordmacha-current.txt",
+    "retrieved_at": "2026-09-22"
   },
   {
     "state": "IL",
@@ -40190,6 +41726,18 @@
   {
     "state": "IL",
     "jurisdiction_type": "city",
+    "name": "Riverside",
+    "fips_code": null,
+    "rate": 0.04,
+    "source_key": "IL-P-riverside",
+    "rate_type": "sales",
+    "effective_date": "2026-08-01",
+    "source_url": "https://tax.illinois.gov/content/dam/soi/en/web/tax/research/taxrates/documents/salestaxrates/ordmacha-current.txt",
+    "retrieved_at": "2026-09-22"
+  },
+  {
+    "state": "IL",
+    "jurisdiction_type": "city",
     "name": "Riverton",
     "fips_code": null,
     "rate": 0.015,
@@ -40286,6 +41834,18 @@
   {
     "state": "IL",
     "jurisdiction_type": "city",
+    "name": "Rock Island",
+    "fips_code": null,
+    "rate": 0.0225,
+    "source_key": "IL-P-rockisland",
+    "rate_type": "sales",
+    "effective_date": "2017-07-01",
+    "source_url": "https://tax.illinois.gov/content/dam/soi/en/web/tax/research/taxrates/documents/salestaxrates/ordmacha-current.txt",
+    "retrieved_at": "2026-09-22"
+  },
+  {
+    "state": "IL",
+    "jurisdiction_type": "city",
     "name": "Rockbridge",
     "fips_code": null,
     "rate": 0.01,
@@ -40358,6 +41918,18 @@
   {
     "state": "IL",
     "jurisdiction_type": "city",
+    "name": "Romeoville",
+    "fips_code": null,
+    "rate": 0.025,
+    "source_key": "IL-P-romeoville",
+    "rate_type": "sales",
+    "effective_date": "2026-08-01",
+    "source_url": "https://tax.illinois.gov/content/dam/soi/en/web/tax/research/taxrates/documents/salestaxrates/ordmacha-current.txt",
+    "retrieved_at": "2026-09-22"
+  },
+  {
+    "state": "IL",
+    "jurisdiction_type": "city",
     "name": "Roodhouse",
     "fips_code": null,
     "rate": 0.01,
@@ -40396,12 +41968,12 @@
     "jurisdiction_type": "city",
     "name": "Roselle",
     "fips_code": null,
-    "rate": 0.045,
+    "rate": 0.025,
     "source_key": "IL-P-roselle",
     "rate_type": "sales",
     "effective_date": "2026-08-01",
-    "source_url": "https://tax.illinois.gov/content/dam/soi/en/web/tax/research/taxrates/documents/salestaxrates/ordmache-current.txt",
-    "retrieved_at": "2026-07-07"
+    "source_url": "https://tax.illinois.gov/content/dam/soi/en/web/tax/research/taxrates/documents/salestaxrates/ordmacha-current.txt",
+    "retrieved_at": "2026-09-22"
   },
   {
     "state": "IL",
@@ -40670,6 +42242,18 @@
   {
     "state": "IL",
     "jurisdiction_type": "city",
+    "name": "Saint Elmo",
+    "fips_code": null,
+    "rate": 0.01,
+    "source_key": "IL-P-saintelmo",
+    "rate_type": "sales",
+    "effective_date": "2019-07-01",
+    "source_url": "https://tax.illinois.gov/content/dam/soi/en/web/tax/research/taxrates/documents/salestaxrates/ordmacha-current.txt",
+    "retrieved_at": "2026-09-22"
+  },
+  {
+    "state": "IL",
+    "jurisdiction_type": "city",
     "name": "Saint Francisville",
     "fips_code": null,
     "rate": 0.01,
@@ -40754,6 +42338,18 @@
   {
     "state": "IL",
     "jurisdiction_type": "city",
+    "name": "Salem",
+    "fips_code": null,
+    "rate": 0.0225,
+    "source_key": "IL-P-salem",
+    "rate_type": "sales",
+    "effective_date": "2020-07-01",
+    "source_url": "https://tax.illinois.gov/content/dam/soi/en/web/tax/research/taxrates/documents/salestaxrates/ordmacha-current.txt",
+    "retrieved_at": "2026-09-22"
+  },
+  {
+    "state": "IL",
+    "jurisdiction_type": "city",
     "name": "San Jose",
     "fips_code": null,
     "rate": 0.01,
@@ -40762,6 +42358,18 @@
     "effective_date": "2014-07-01",
     "source_url": "https://tax.illinois.gov/content/dam/soi/en/web/tax/research/taxrates/documents/salestaxrates/ordmache-current.txt",
     "retrieved_at": "2026-05-18"
+  },
+  {
+    "state": "IL",
+    "jurisdiction_type": "city",
+    "name": "Sandoval",
+    "fips_code": null,
+    "rate": 0.0125,
+    "source_key": "IL-P-sandoval",
+    "rate_type": "sales",
+    "effective_date": "2020-07-01",
+    "source_url": "https://tax.illinois.gov/content/dam/soi/en/web/tax/research/taxrates/documents/salestaxrates/ordmacha-current.txt",
+    "retrieved_at": "2026-09-22"
   },
   {
     "state": "IL",
@@ -40810,6 +42418,18 @@
     "effective_date": "2014-01-01",
     "source_url": "https://tax.illinois.gov/content/dam/soi/en/web/tax/research/taxrates/documents/salestaxrates/ordmache-current.txt",
     "retrieved_at": "2026-05-18"
+  },
+  {
+    "state": "IL",
+    "jurisdiction_type": "city",
+    "name": "Savanna",
+    "fips_code": null,
+    "rate": 0.0025,
+    "source_key": "IL-P-savanna",
+    "rate_type": "sales",
+    "effective_date": "2000-01-01",
+    "source_url": "https://tax.illinois.gov/content/dam/soi/en/web/tax/research/taxrates/documents/salestaxrates/ordmacha-current.txt",
+    "retrieved_at": "2026-09-22"
   },
   {
     "state": "IL",
@@ -41030,6 +42650,18 @@
   {
     "state": "IL",
     "jurisdiction_type": "city",
+    "name": "Shelbyville",
+    "fips_code": null,
+    "rate": 0.01,
+    "source_key": "IL-P-shelbyville",
+    "rate_type": "sales",
+    "effective_date": "2014-07-01",
+    "source_url": "https://tax.illinois.gov/content/dam/soi/en/web/tax/research/taxrates/documents/salestaxrates/ordmacha-current.txt",
+    "retrieved_at": "2026-09-22"
+  },
+  {
+    "state": "IL",
+    "jurisdiction_type": "city",
     "name": "Sheldon",
     "fips_code": null,
     "rate": 0.0025,
@@ -41054,6 +42686,18 @@
   {
     "state": "IL",
     "jurisdiction_type": "city",
+    "name": "Sherman",
+    "fips_code": null,
+    "rate": 0.03,
+    "source_key": "IL-P-sherman",
+    "rate_type": "sales",
+    "effective_date": "2026-07-01",
+    "source_url": "https://tax.illinois.gov/content/dam/soi/en/web/tax/research/taxrates/documents/salestaxrates/ordmacha-current.txt",
+    "retrieved_at": "2026-09-22"
+  },
+  {
+    "state": "IL",
+    "jurisdiction_type": "city",
     "name": "Sherrard",
     "fips_code": null,
     "rate": 0.01,
@@ -41062,6 +42706,18 @@
     "effective_date": "2014-01-01",
     "source_url": "https://tax.illinois.gov/content/dam/soi/en/web/tax/research/taxrates/documents/salestaxrates/ordmache-current.txt",
     "retrieved_at": "2026-05-18"
+  },
+  {
+    "state": "IL",
+    "jurisdiction_type": "city",
+    "name": "Shiloh",
+    "fips_code": null,
+    "rate": 0.011,
+    "source_key": "IL-P-shiloh",
+    "rate_type": "sales",
+    "effective_date": "2009-01-01",
+    "source_url": "https://tax.illinois.gov/content/dam/soi/en/web/tax/research/taxrates/documents/salestaxrates/ordmacha-current.txt",
+    "retrieved_at": "2026-09-22"
   },
   {
     "state": "IL",
@@ -41170,6 +42826,18 @@
     "effective_date": "2006-07-01",
     "source_url": "https://tax.illinois.gov/content/dam/soi/en/web/tax/research/taxrates/documents/salestaxrates/ordmache-current.txt",
     "retrieved_at": "2026-05-18"
+  },
+  {
+    "state": "IL",
+    "jurisdiction_type": "city",
+    "name": "Skokie",
+    "fips_code": null,
+    "rate": 0.0425,
+    "source_key": "IL-P-skokie",
+    "rate_type": "sales",
+    "effective_date": "2026-08-01",
+    "source_url": "https://tax.illinois.gov/content/dam/soi/en/web/tax/research/taxrates/documents/salestaxrates/ordmacha-current.txt",
+    "retrieved_at": "2026-09-22"
   },
   {
     "state": "IL",
@@ -41330,6 +42998,18 @@
   {
     "state": "IL",
     "jurisdiction_type": "city",
+    "name": "South Roxana",
+    "fips_code": null,
+    "rate": 0.006,
+    "source_key": "IL-P-southroxana",
+    "rate_type": "sales",
+    "effective_date": "2009-01-01",
+    "source_url": "https://tax.illinois.gov/content/dam/soi/en/web/tax/research/taxrates/documents/salestaxrates/ordmacha-current.txt",
+    "retrieved_at": "2026-09-22"
+  },
+  {
+    "state": "IL",
+    "jurisdiction_type": "city",
     "name": "Southern View",
     "fips_code": null,
     "rate": 0.015,
@@ -41426,6 +43106,18 @@
   {
     "state": "IL",
     "jurisdiction_type": "city",
+    "name": "Springfield",
+    "fips_code": null,
+    "rate": 0.04,
+    "source_key": "IL-P-springfield",
+    "rate_type": "sales",
+    "effective_date": "2026-07-01",
+    "source_url": "https://tax.illinois.gov/content/dam/soi/en/web/tax/research/taxrates/documents/salestaxrates/ordmacha-current.txt",
+    "retrieved_at": "2026-09-22"
+  },
+  {
+    "state": "IL",
+    "jurisdiction_type": "city",
     "name": "Standard City",
     "fips_code": null,
     "rate": 0.01,
@@ -41434,6 +43126,30 @@
     "effective_date": "2016-07-01",
     "source_url": "https://tax.illinois.gov/content/dam/soi/en/web/tax/research/taxrates/documents/salestaxrates/ordmache-current.txt",
     "retrieved_at": "2026-05-18"
+  },
+  {
+    "state": "IL",
+    "jurisdiction_type": "city",
+    "name": "Stanford",
+    "fips_code": null,
+    "rate": 0.01,
+    "source_key": "IL-P-stanford",
+    "rate_type": "sales",
+    "effective_date": "2025-07-01",
+    "source_url": "https://tax.illinois.gov/content/dam/soi/en/web/tax/research/taxrates/documents/salestaxrates/ordmacha-current.txt",
+    "retrieved_at": "2026-09-22"
+  },
+  {
+    "state": "IL",
+    "jurisdiction_type": "city",
+    "name": "Staunton",
+    "fips_code": null,
+    "rate": 0.01,
+    "source_key": "IL-P-staunton",
+    "rate_type": "sales",
+    "effective_date": "2016-07-01",
+    "source_url": "https://tax.illinois.gov/content/dam/soi/en/web/tax/research/taxrates/documents/salestaxrates/ordmacha-current.txt",
+    "retrieved_at": "2026-09-22"
   },
   {
     "state": "IL",
@@ -41458,6 +43174,18 @@
     "effective_date": "2026-08-01",
     "source_url": "https://tax.illinois.gov/content/dam/soi/en/web/tax/research/taxrates/documents/salestaxrates/ordmache-current.txt",
     "retrieved_at": "2026-08-11"
+  },
+  {
+    "state": "IL",
+    "jurisdiction_type": "city",
+    "name": "Sterling",
+    "fips_code": null,
+    "rate": 0.025,
+    "source_key": "IL-P-sterling",
+    "rate_type": "sales",
+    "effective_date": "2025-07-01",
+    "source_url": "https://tax.illinois.gov/content/dam/soi/en/web/tax/research/taxrates/documents/salestaxrates/ordmacha-current.txt",
+    "retrieved_at": "2026-09-22"
   },
   {
     "state": "IL",
@@ -41506,6 +43234,18 @@
     "effective_date": "2014-07-01",
     "source_url": "https://tax.illinois.gov/content/dam/soi/en/web/tax/research/taxrates/documents/salestaxrates/ordmache-current.txt",
     "retrieved_at": "2026-05-18"
+  },
+  {
+    "state": "IL",
+    "jurisdiction_type": "city",
+    "name": "Stockton",
+    "fips_code": null,
+    "rate": 0.01,
+    "source_key": "IL-P-stockton",
+    "rate_type": "sales",
+    "effective_date": "2015-07-01",
+    "source_url": "https://tax.illinois.gov/content/dam/soi/en/web/tax/research/taxrates/documents/salestaxrates/ordmacha-current.txt",
+    "retrieved_at": "2026-09-22"
   },
   {
     "state": "IL",
@@ -41584,12 +43324,12 @@
     "jurisdiction_type": "city",
     "name": "Streator",
     "fips_code": null,
-    "rate": 0.02,
+    "rate": 0.0125,
     "source_key": "IL-P-streator",
     "rate_type": "sales",
-    "effective_date": "2014-01-01",
-    "source_url": "https://tax.illinois.gov/content/dam/soi/en/web/tax/research/taxrates/documents/salestaxrates/ordmache-current.txt",
-    "retrieved_at": "2026-05-18"
+    "effective_date": "2006-07-01",
+    "source_url": "https://tax.illinois.gov/content/dam/soi/en/web/tax/research/taxrates/documents/salestaxrates/ordmacha-current.txt",
+    "retrieved_at": "2026-09-22"
   },
   {
     "state": "IL",
@@ -41614,6 +43354,18 @@
     "effective_date": "2017-07-01",
     "source_url": "https://tax.illinois.gov/content/dam/soi/en/web/tax/research/taxrates/documents/salestaxrates/ordmache-current.txt",
     "retrieved_at": "2026-05-18"
+  },
+  {
+    "state": "IL",
+    "jurisdiction_type": "city",
+    "name": "Sugar Grove",
+    "fips_code": null,
+    "rate": 0.02,
+    "source_key": "IL-P-sugargrove",
+    "rate_type": "sales",
+    "effective_date": "2026-08-01",
+    "source_url": "https://tax.illinois.gov/content/dam/soi/en/web/tax/research/taxrates/documents/salestaxrates/ordmacha-current.txt",
+    "retrieved_at": "2026-09-22"
   },
   {
     "state": "IL",
@@ -41662,6 +43414,18 @@
     "effective_date": "2010-07-01",
     "source_url": "https://tax.illinois.gov/content/dam/soi/en/web/tax/research/taxrates/documents/salestaxrates/ordmache-current.txt",
     "retrieved_at": "2026-05-18"
+  },
+  {
+    "state": "IL",
+    "jurisdiction_type": "city",
+    "name": "Swansea",
+    "fips_code": null,
+    "rate": 0.016,
+    "source_key": "IL-P-swansea",
+    "rate_type": "sales",
+    "effective_date": "2009-01-01",
+    "source_url": "https://tax.illinois.gov/content/dam/soi/en/web/tax/research/taxrates/documents/salestaxrates/ordmacha-current.txt",
+    "retrieved_at": "2026-09-22"
   },
   {
     "state": "IL",
@@ -41750,6 +43514,18 @@
   {
     "state": "IL",
     "jurisdiction_type": "city",
+    "name": "Taylorville",
+    "fips_code": null,
+    "rate": 0.0175,
+    "source_key": "IL-P-taylorville",
+    "rate_type": "sales",
+    "effective_date": "2014-01-01",
+    "source_url": "https://tax.illinois.gov/content/dam/soi/en/web/tax/research/taxrates/documents/salestaxrates/ordmacha-current.txt",
+    "retrieved_at": "2026-09-22"
+  },
+  {
+    "state": "IL",
+    "jurisdiction_type": "city",
     "name": "Tennessee",
     "fips_code": null,
     "rate": 0.0175,
@@ -41830,6 +43606,18 @@
     "effective_date": "2026-07-01",
     "source_url": "https://tax.illinois.gov/content/dam/soi/en/web/tax/research/taxrates/documents/salestaxrates/ordmache-current.txt",
     "retrieved_at": "2026-05-27"
+  },
+  {
+    "state": "IL",
+    "jurisdiction_type": "city",
+    "name": "Thomson",
+    "fips_code": null,
+    "rate": 0.0025,
+    "source_key": "IL-P-thomson",
+    "rate_type": "sales",
+    "effective_date": "2000-01-01",
+    "source_url": "https://tax.illinois.gov/content/dam/soi/en/web/tax/research/taxrates/documents/salestaxrates/ordmacha-current.txt",
+    "retrieved_at": "2026-09-22"
   },
   {
     "state": "IL",
@@ -42026,6 +43814,30 @@
   {
     "state": "IL",
     "jurisdiction_type": "city",
+    "name": "Tremont",
+    "fips_code": null,
+    "rate": 0.005,
+    "source_key": "IL-P-tremont",
+    "rate_type": "sales",
+    "effective_date": "2001-07-01",
+    "source_url": "https://tax.illinois.gov/content/dam/soi/en/web/tax/research/taxrates/documents/salestaxrates/ordmacha-current.txt",
+    "retrieved_at": "2026-09-22"
+  },
+  {
+    "state": "IL",
+    "jurisdiction_type": "city",
+    "name": "Trenton",
+    "fips_code": null,
+    "rate": 0.0025,
+    "source_key": "IL-P-trenton",
+    "rate_type": "sales",
+    "effective_date": "2015-01-01",
+    "source_url": "https://tax.illinois.gov/content/dam/soi/en/web/tax/research/taxrates/documents/salestaxrates/ordmacha-current.txt",
+    "retrieved_at": "2026-09-22"
+  },
+  {
+    "state": "IL",
+    "jurisdiction_type": "city",
     "name": "Trout Valley",
     "fips_code": null,
     "rate": 0.0125,
@@ -42034,6 +43846,18 @@
     "effective_date": "2026-08-01",
     "source_url": "https://tax.illinois.gov/content/dam/soi/en/web/tax/research/taxrates/documents/salestaxrates/ordmache-current.txt",
     "retrieved_at": "2026-07-07"
+  },
+  {
+    "state": "IL",
+    "jurisdiction_type": "city",
+    "name": "Troy",
+    "fips_code": null,
+    "rate": 0.016,
+    "source_key": "IL-P-troy",
+    "rate_type": "sales",
+    "effective_date": "2025-07-01",
+    "source_url": "https://tax.illinois.gov/content/dam/soi/en/web/tax/research/taxrates/documents/salestaxrates/ordmacha-current.txt",
+    "retrieved_at": "2026-09-22"
   },
   {
     "state": "IL",
@@ -42146,6 +43970,30 @@
   {
     "state": "IL",
     "jurisdiction_type": "city",
+    "name": "Vandalia",
+    "fips_code": null,
+    "rate": 0.015,
+    "source_key": "IL-P-vandalia",
+    "rate_type": "sales",
+    "effective_date": "2019-07-01",
+    "source_url": "https://tax.illinois.gov/content/dam/soi/en/web/tax/research/taxrates/documents/salestaxrates/ordmacha-current.txt",
+    "retrieved_at": "2026-09-22"
+  },
+  {
+    "state": "IL",
+    "jurisdiction_type": "city",
+    "name": "Venice",
+    "fips_code": null,
+    "rate": 0.006,
+    "source_key": "IL-P-venice",
+    "rate_type": "sales",
+    "effective_date": "2009-01-01",
+    "source_url": "https://tax.illinois.gov/content/dam/soi/en/web/tax/research/taxrates/documents/salestaxrates/ordmacha-current.txt",
+    "retrieved_at": "2026-09-22"
+  },
+  {
+    "state": "IL",
+    "jurisdiction_type": "city",
     "name": "Vergennes",
     "fips_code": null,
     "rate": 0.01,
@@ -42254,6 +44102,18 @@
   {
     "state": "IL",
     "jurisdiction_type": "city",
+    "name": "Villa Park",
+    "fips_code": null,
+    "rate": 0.02,
+    "source_key": "IL-P-villapark",
+    "rate_type": "sales",
+    "effective_date": "2026-08-01",
+    "source_url": "https://tax.illinois.gov/content/dam/soi/en/web/tax/research/taxrates/documents/salestaxrates/ordmacha-current.txt",
+    "retrieved_at": "2026-09-22"
+  },
+  {
+    "state": "IL",
+    "jurisdiction_type": "city",
     "name": "Village Of Lakewood",
     "fips_code": null,
     "rate": 0.0225,
@@ -42262,6 +44122,18 @@
     "effective_date": "2026-08-01",
     "source_url": "https://tax.illinois.gov/content/dam/soi/en/web/tax/research/taxrates/documents/salestaxrates/ordmache-current.txt",
     "retrieved_at": "2026-07-07"
+  },
+  {
+    "state": "IL",
+    "jurisdiction_type": "city",
+    "name": "Viola",
+    "fips_code": null,
+    "rate": 0.01,
+    "source_key": "IL-P-viola",
+    "rate_type": "sales",
+    "effective_date": "2014-01-01",
+    "source_url": "https://tax.illinois.gov/content/dam/soi/en/web/tax/research/taxrates/documents/salestaxrates/ordmacha-current.txt",
+    "retrieved_at": "2026-09-22"
   },
   {
     "state": "IL",
@@ -42398,6 +44270,18 @@
   {
     "state": "IL",
     "jurisdiction_type": "city",
+    "name": "Warren",
+    "fips_code": null,
+    "rate": 0.01,
+    "source_key": "IL-P-warren",
+    "rate_type": "sales",
+    "effective_date": "2015-07-01",
+    "source_url": "https://tax.illinois.gov/content/dam/soi/en/web/tax/research/taxrates/documents/salestaxrates/ordmacha-current.txt",
+    "retrieved_at": "2026-09-22"
+  },
+  {
+    "state": "IL",
+    "jurisdiction_type": "city",
     "name": "Warrensburg",
     "fips_code": null,
     "rate": 0.015,
@@ -42466,6 +44350,18 @@
     "effective_date": "2015-07-01",
     "source_url": "https://tax.illinois.gov/content/dam/soi/en/web/tax/research/taxrates/documents/salestaxrates/ordmache-current.txt",
     "retrieved_at": "2026-05-18"
+  },
+  {
+    "state": "IL",
+    "jurisdiction_type": "city",
+    "name": "Waterloo",
+    "fips_code": null,
+    "rate": 0.0125,
+    "source_key": "IL-P-waterloo",
+    "rate_type": "sales",
+    "effective_date": "2016-07-01",
+    "source_url": "https://tax.illinois.gov/content/dam/soi/en/web/tax/research/taxrates/documents/salestaxrates/ordmacha-current.txt",
+    "retrieved_at": "2026-09-22"
   },
   {
     "state": "IL",
@@ -42638,6 +44534,18 @@
   {
     "state": "IL",
     "jurisdiction_type": "city",
+    "name": "West Dundee",
+    "fips_code": null,
+    "rate": 0.025,
+    "source_key": "IL-P-westdundee",
+    "rate_type": "sales",
+    "effective_date": "2026-08-01",
+    "source_url": "https://tax.illinois.gov/content/dam/soi/en/web/tax/research/taxrates/documents/salestaxrates/ordmacha-current.txt",
+    "retrieved_at": "2026-09-22"
+  },
+  {
+    "state": "IL",
+    "jurisdiction_type": "city",
     "name": "West Frankfort",
     "fips_code": null,
     "rate": 0.02,
@@ -42718,6 +44626,18 @@
     "effective_date": "2026-08-01",
     "source_url": "https://tax.illinois.gov/content/dam/soi/en/web/tax/research/taxrates/documents/salestaxrates/ordmache-current.txt",
     "retrieved_at": "2026-07-07"
+  },
+  {
+    "state": "IL",
+    "jurisdiction_type": "city",
+    "name": "Westville",
+    "fips_code": null,
+    "rate": 0.0025,
+    "source_key": "IL-P-westville",
+    "rate_type": "sales",
+    "effective_date": "1999-01-01",
+    "source_url": "https://tax.illinois.gov/content/dam/soi/en/web/tax/research/taxrates/documents/salestaxrates/ordmacha-current.txt",
+    "retrieved_at": "2026-09-22"
   },
   {
     "state": "IL",
@@ -42854,6 +44774,18 @@
   {
     "state": "IL",
     "jurisdiction_type": "city",
+    "name": "Willowbrook",
+    "fips_code": null,
+    "rate": 0.02,
+    "source_key": "IL-P-willowbrook",
+    "rate_type": "sales",
+    "effective_date": "2026-08-01",
+    "source_url": "https://tax.illinois.gov/content/dam/soi/en/web/tax/research/taxrates/documents/salestaxrates/ordmacha-current.txt",
+    "retrieved_at": "2026-09-22"
+  },
+  {
+    "state": "IL",
+    "jurisdiction_type": "city",
     "name": "Wilmette",
     "fips_code": null,
     "rate": 0.04,
@@ -42869,11 +44801,23 @@
     "name": "Wilmington",
     "fips_code": null,
     "rate": 0.01,
-    "source_key": "IL-P-wilmington",
+    "source_key": "IL-P-wilmington-greene",
+    "rate_type": "sales",
+    "effective_date": "2015-07-01",
+    "source_url": "https://tax.illinois.gov/content/dam/soi/en/web/tax/research/taxrates/documents/salestaxrates/ordmache-current.txt",
+    "retrieved_at": "2026-09-22"
+  },
+  {
+    "state": "IL",
+    "jurisdiction_type": "city",
+    "name": "Wilmington",
+    "fips_code": null,
+    "rate": 0.01,
+    "source_key": "IL-P-wilmington-will",
     "rate_type": "sales",
     "effective_date": "2026-08-01",
     "source_url": "https://tax.illinois.gov/content/dam/soi/en/web/tax/research/taxrates/documents/salestaxrates/ordmache-current.txt",
-    "retrieved_at": "2026-07-07"
+    "retrieved_at": "2026-09-22"
   },
   {
     "state": "IL",
@@ -42905,11 +44849,23 @@
     "name": "Windsor",
     "fips_code": null,
     "rate": 0.01,
-    "source_key": "IL-P-windsor",
+    "source_key": "IL-P-windsor-mercer",
+    "rate_type": "sales",
+    "effective_date": "2014-01-01",
+    "source_url": "https://tax.illinois.gov/content/dam/soi/en/web/tax/research/taxrates/documents/salestaxrates/ordmache-current.txt",
+    "retrieved_at": "2026-09-22"
+  },
+  {
+    "state": "IL",
+    "jurisdiction_type": "city",
+    "name": "Windsor",
+    "fips_code": null,
+    "rate": 0.01,
+    "source_key": "IL-P-windsor-shelby",
     "rate_type": "sales",
     "effective_date": "2014-07-01",
     "source_url": "https://tax.illinois.gov/content/dam/soi/en/web/tax/research/taxrates/documents/salestaxrates/ordmache-current.txt",
-    "retrieved_at": "2026-05-18"
+    "retrieved_at": "2026-09-22"
   },
   {
     "state": "IL",
@@ -43006,6 +44962,18 @@
     "effective_date": "2026-08-01",
     "source_url": "https://tax.illinois.gov/content/dam/soi/en/web/tax/research/taxrates/documents/salestaxrates/ordmache-current.txt",
     "retrieved_at": "2026-07-07"
+  },
+  {
+    "state": "IL",
+    "jurisdiction_type": "city",
+    "name": "Wood River",
+    "fips_code": null,
+    "rate": 0.016,
+    "source_key": "IL-P-woodriver",
+    "rate_type": "sales",
+    "effective_date": "2019-07-01",
+    "source_url": "https://tax.illinois.gov/content/dam/soi/en/web/tax/research/taxrates/documents/salestaxrates/ordmacha-current.txt",
+    "retrieved_at": "2026-09-22"
   },
   {
     "state": "IL",
@@ -43162,6 +45130,18 @@
     "effective_date": "2015-07-01",
     "source_url": "https://tax.illinois.gov/content/dam/soi/en/web/tax/research/taxrates/documents/salestaxrates/ordmache-current.txt",
     "retrieved_at": "2026-05-18"
+  },
+  {
+    "state": "IL",
+    "jurisdiction_type": "city",
+    "name": "Yorkville",
+    "fips_code": null,
+    "rate": 0.02,
+    "source_key": "IL-P-yorkville",
+    "rate_type": "sales",
+    "effective_date": "2012-01-01",
+    "source_url": "https://tax.illinois.gov/content/dam/soi/en/web/tax/research/taxrates/documents/salestaxrates/ordmacha-current.txt",
+    "retrieved_at": "2026-09-22"
   },
   {
     "state": "IL",

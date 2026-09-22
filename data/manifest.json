@@ -3,11 +3,11 @@
   "source": "https://taxlocus.com",
   "license": "CC-BY-4.0",
   "dataset_version": "3.0.0",
-  "generated_at": "2026-09-21",
-  "last_changed": "2026-09-21",
+  "generated_at": "2026-09-22",
+  "last_changed": "2026-09-22",
   "row_counts": {
     "state_rates": 46,
-    "jurisdiction_rates": 14442,
+    "jurisdiction_rates": 14607,
     "nexus_thresholds": 47,
     "taxability": 1976,
     "marketplace_facilitator_rules": 47,
@@ -35,8 +35,8 @@
       ]
     },
     "jurisdiction_rates": {
-      "rows": 14442,
-      "last_changed": "2026-09-21",
+      "rows": 14607,
+      "last_changed": "2026-09-22",
       "key": [
         "source_key",
         "rate_type"
@@ -109,7 +109,7 @@
     },
     "rate_change_frequency": {
       "rows": 19,
-      "last_changed": "2026-09-21",
+      "last_changed": "2026-09-22",
       "key": [
         "state"
       ],
@@ -252,14 +252,14 @@
       "rows": 46
     },
     "jurisdiction_rates.csv": {
-      "sha256": "b5c8430c35e9bfc2a666237db59dd70d517f9b926810648817dd4680895c2440",
-      "bytes": 2205273,
-      "rows": 14442
+      "sha256": "aaec90b395be87a9451a3a18bd8773e889723c35f04a804820ae726d4cfbc6fd",
+      "bytes": 2235563,
+      "rows": 14607
     },
     "jurisdiction_rates.json": {
-      "sha256": "f320e1168a9cf88c7f076e95ac7ea34ef559c98ba5c26a0e3c8a985868b542bb",
-      "bytes": 5236623,
-      "rows": 14442
+      "sha256": "b1309ba15f1cc8d8221a03892d334e362a7d4cb04dcd58fedbd77aecf1324605",
+      "bytes": 5301728,
+      "rows": 14607
     },
     "nexus_thresholds.csv": {
       "sha256": "b1c287024dd6e0be233bc972325cdc329e5d78a5ba51961526a28e0e8d650343",
@@ -292,12 +292,12 @@
       "rows": 47
     },
     "rate_change_frequency.csv": {
-      "sha256": "4f75a239e6dfba62040693f0bf8dfeefebfb54e3b3496a82323a129c8018037c",
+      "sha256": "72c67d19a799346d4b96d7c9906617c7419e0b1c0549f436284c17b5fbbfa432",
       "bytes": 876,
       "rows": 19
     },
     "rate_change_frequency.json": {
-      "sha256": "035ad4bedf4490e3d2ff40aac3abeef54b571889337fb2e1e1447938d237a9c1",
+      "sha256": "998ffa85eaa35c5b9473fe118929d503dd8e7db4f519324814e485eda8ba5d93",
       "bytes": 4331,
       "rows": 19
     },
