@@ -23,8 +23,8 @@
     "non_resident_rate": 0.016,
     "courtesy_withholding": false,
     "citation_url": "https://www.in.gov/dor/tax-forms/departmental-notices/",
-    "notes": "Indiana county income tax — withhold the resident's county rate; for employees who reside out of Indiana, withhold the work-location county's rate. IN DOR Departmental Notice #1 effective 2026-01-01; county code 01.",
-    "as_of": "2026-01-01",
+    "notes": "Indiana county income tax — withhold the resident's county rate; for employees who reside out of Indiana, withhold the work-location county's rate. IN DOR Departmental Notice #1 effective 2026-10-01; county code 01.",
+    "as_of": "2026-10-01",
     "source": "in_dor_dn01"
   },
   {
@@ -37,8 +37,8 @@
     "non_resident_rate": 0.0159,
     "courtesy_withholding": false,
     "citation_url": "https://www.in.gov/dor/tax-forms/departmental-notices/",
-    "notes": "Indiana county income tax — withhold the resident's county rate; for employees who reside out of Indiana, withhold the work-location county's rate. IN DOR Departmental Notice #1 effective 2026-01-01; county code 02.",
-    "as_of": "2026-01-01",
+    "notes": "Indiana county income tax — withhold the resident's county rate; for employees who reside out of Indiana, withhold the work-location county's rate. IN DOR Departmental Notice #1 effective 2026-10-01; county code 02.",
+    "as_of": "2026-10-01",
     "source": "in_dor_dn01"
   },
   {
@@ -51,8 +51,8 @@
     "non_resident_rate": 0.0175,
     "courtesy_withholding": false,
     "citation_url": "https://www.in.gov/dor/tax-forms/departmental-notices/",
-    "notes": "Indiana county income tax — withhold the resident's county rate; for employees who reside out of Indiana, withhold the work-location county's rate. IN DOR Departmental Notice #1 effective 2026-01-01; county code 03.",
-    "as_of": "2026-01-01",
+    "notes": "Indiana county income tax — withhold the resident's county rate; for employees who reside out of Indiana, withhold the work-location county's rate. IN DOR Departmental Notice #1 effective 2026-10-01; county code 03.",
+    "as_of": "2026-10-01",
     "source": "in_dor_dn01"
   },
   {
@@ -65,8 +65,8 @@
     "non_resident_rate": 0.0179,
     "courtesy_withholding": false,
     "citation_url": "https://www.in.gov/dor/tax-forms/departmental-notices/",
-    "notes": "Indiana county income tax — withhold the resident's county rate; for employees who reside out of Indiana, withhold the work-location county's rate. IN DOR Departmental Notice #1 effective 2026-01-01; county code 04.",
-    "as_of": "2026-01-01",
+    "notes": "Indiana county income tax — withhold the resident's county rate; for employees who reside out of Indiana, withhold the work-location county's rate. IN DOR Departmental Notice #1 effective 2026-10-01; county code 04.",
+    "as_of": "2026-10-01",
     "source": "in_dor_dn01"
   },
   {
@@ -79,8 +79,8 @@
     "non_resident_rate": 0.025,
     "courtesy_withholding": false,
     "citation_url": "https://www.in.gov/dor/tax-forms/departmental-notices/",
-    "notes": "Indiana county income tax — withhold the resident's county rate; for employees who reside out of Indiana, withhold the work-location county's rate. IN DOR Departmental Notice #1 effective 2026-01-01; county code 05.",
-    "as_of": "2026-01-01",
+    "notes": "Indiana county income tax — withhold the resident's county rate; for employees who reside out of Indiana, withhold the work-location county's rate. IN DOR Departmental Notice #1 effective 2026-10-01; county code 05.",
+    "as_of": "2026-10-01",
     "source": "in_dor_dn01"
   },
   {
@@ -89,12 +89,12 @@
     "jurisdiction_type": "county",
     "jurisdiction_name": "Boone County",
     "geoid": "06",
-    "resident_rate": 0.017,
-    "non_resident_rate": 0.017,
+    "resident_rate": 0.0171,
+    "non_resident_rate": 0.0171,
     "courtesy_withholding": false,
     "citation_url": "https://www.in.gov/dor/tax-forms/departmental-notices/",
-    "notes": "Indiana county income tax — withhold the resident's county rate; for employees who reside out of Indiana, withhold the work-location county's rate. IN DOR Departmental Notice #1 effective 2026-01-01; county code 06.",
-    "as_of": "2026-01-01",
+    "notes": "Indiana county income tax — withhold the resident's county rate; for employees who reside out of Indiana, withhold the work-location county's rate. IN DOR Departmental Notice #1 effective 2026-10-01; county code 06.",
+    "as_of": "2026-10-01",
     "source": "in_dor_dn01"
   },
   {
@@ -107,8 +107,8 @@
     "non_resident_rate": 0.025234,
     "courtesy_withholding": false,
     "citation_url": "https://www.in.gov/dor/tax-forms/departmental-notices/",
-    "notes": "Indiana county income tax — withhold the resident's county rate; for employees who reside out of Indiana, withhold the work-location county's rate. IN DOR Departmental Notice #1 effective 2026-01-01; county code 07.",
-    "as_of": "2026-01-01",
+    "notes": "Indiana county income tax — withhold the resident's county rate; for employees who reside out of Indiana, withhold the work-location county's rate. IN DOR Departmental Notice #1 effective 2026-10-01; county code 07.",
+    "as_of": "2026-10-01",
     "source": "in_dor_dn01"
   },
   {
@@ -121,8 +121,8 @@
     "non_resident_rate": 0.024733,
     "courtesy_withholding": false,
     "citation_url": "https://www.in.gov/dor/tax-forms/departmental-notices/",
-    "notes": "Indiana county income tax — withhold the resident's county rate; for employees who reside out of Indiana, withhold the work-location county's rate. IN DOR Departmental Notice #1 effective 2026-01-01; county code 08.",
-    "as_of": "2026-01-01",
+    "notes": "Indiana county income tax — withhold the resident's county rate; for employees who reside out of Indiana, withhold the work-location county's rate. IN DOR Departmental Notice #1 effective 2026-10-01; county code 08.",
+    "as_of": "2026-10-01",
     "source": "in_dor_dn01"
   },
   {
@@ -135,8 +135,8 @@
     "non_resident_rate": 0.0295,
     "courtesy_withholding": false,
     "citation_url": "https://www.in.gov/dor/tax-forms/departmental-notices/",
-    "notes": "Indiana county income tax — withhold the resident's county rate; for employees who reside out of Indiana, withhold the work-location county's rate. IN DOR Departmental Notice #1 effective 2026-01-01; county code 09.",
-    "as_of": "2026-01-01",
+    "notes": "Indiana county income tax — withhold the resident's county rate; for employees who reside out of Indiana, withhold the work-location county's rate. IN DOR Departmental Notice #1 effective 2026-10-01; county code 09.",
+    "as_of": "2026-10-01",
     "source": "in_dor_dn01"
   },
   {
@@ -149,8 +149,8 @@
     "non_resident_rate": 0.02,
     "courtesy_withholding": false,
     "citation_url": "https://www.in.gov/dor/tax-forms/departmental-notices/",
-    "notes": "Indiana county income tax — withhold the resident's county rate; for employees who reside out of Indiana, withhold the work-location county's rate. IN DOR Departmental Notice #1 effective 2026-01-01; county code 10.",
-    "as_of": "2026-01-01",
+    "notes": "Indiana county income tax — withhold the resident's county rate; for employees who reside out of Indiana, withhold the work-location county's rate. IN DOR Departmental Notice #1 effective 2026-10-01; county code 10.",
+    "as_of": "2026-10-01",
     "source": "in_dor_dn01"
   },
   {
@@ -163,8 +163,8 @@
     "non_resident_rate": 0.0235,
     "courtesy_withholding": false,
     "citation_url": "https://www.in.gov/dor/tax-forms/departmental-notices/",
-    "notes": "Indiana county income tax — withhold the resident's county rate; for employees who reside out of Indiana, withhold the work-location county's rate. IN DOR Departmental Notice #1 effective 2026-01-01; county code 11.",
-    "as_of": "2026-01-01",
+    "notes": "Indiana county income tax — withhold the resident's county rate; for employees who reside out of Indiana, withhold the work-location county's rate. IN DOR Departmental Notice #1 effective 2026-10-01; county code 11.",
+    "as_of": "2026-10-01",
     "source": "in_dor_dn01"
   },
   {
@@ -177,8 +177,8 @@
     "non_resident_rate": 0.0265,
     "courtesy_withholding": false,
     "citation_url": "https://www.in.gov/dor/tax-forms/departmental-notices/",
-    "notes": "Indiana county income tax — withhold the resident's county rate; for employees who reside out of Indiana, withhold the work-location county's rate. IN DOR Departmental Notice #1 effective 2026-01-01; county code 12.",
-    "as_of": "2026-01-01",
+    "notes": "Indiana county income tax — withhold the resident's county rate; for employees who reside out of Indiana, withhold the work-location county's rate. IN DOR Departmental Notice #1 effective 2026-10-01; county code 12.",
+    "as_of": "2026-10-01",
     "source": "in_dor_dn01"
   },
   {
@@ -191,8 +191,8 @@
     "non_resident_rate": 0.0165,
     "courtesy_withholding": false,
     "citation_url": "https://www.in.gov/dor/tax-forms/departmental-notices/",
-    "notes": "Indiana county income tax — withhold the resident's county rate; for employees who reside out of Indiana, withhold the work-location county's rate. IN DOR Departmental Notice #1 effective 2026-01-01; county code 13.",
-    "as_of": "2026-01-01",
+    "notes": "Indiana county income tax — withhold the resident's county rate; for employees who reside out of Indiana, withhold the work-location county's rate. IN DOR Departmental Notice #1 effective 2026-10-01; county code 13.",
+    "as_of": "2026-10-01",
     "source": "in_dor_dn01"
   },
   {
@@ -205,8 +205,8 @@
     "non_resident_rate": 0.015,
     "courtesy_withholding": false,
     "citation_url": "https://www.in.gov/dor/tax-forms/departmental-notices/",
-    "notes": "Indiana county income tax — withhold the resident's county rate; for employees who reside out of Indiana, withhold the work-location county's rate. IN DOR Departmental Notice #1 effective 2026-01-01; county code 14.",
-    "as_of": "2026-01-01",
+    "notes": "Indiana county income tax — withhold the resident's county rate; for employees who reside out of Indiana, withhold the work-location county's rate. IN DOR Departmental Notice #1 effective 2026-10-01; county code 14.",
+    "as_of": "2026-10-01",
     "source": "in_dor_dn01"
   },
   {
@@ -219,8 +219,8 @@
     "non_resident_rate": 0.0213,
     "courtesy_withholding": false,
     "citation_url": "https://www.in.gov/dor/tax-forms/departmental-notices/",
-    "notes": "Indiana county income tax — withhold the resident's county rate; for employees who reside out of Indiana, withhold the work-location county's rate. IN DOR Departmental Notice #1 effective 2026-01-01; county code 17.",
-    "as_of": "2026-01-01",
+    "notes": "Indiana county income tax — withhold the resident's county rate; for employees who reside out of Indiana, withhold the work-location county's rate. IN DOR Departmental Notice #1 effective 2026-10-01; county code 17.",
+    "as_of": "2026-10-01",
     "source": "in_dor_dn01"
   },
   {
@@ -233,8 +233,8 @@
     "non_resident_rate": 0.014,
     "courtesy_withholding": false,
     "citation_url": "https://www.in.gov/dor/tax-forms/departmental-notices/",
-    "notes": "Indiana county income tax — withhold the resident's county rate; for employees who reside out of Indiana, withhold the work-location county's rate. IN DOR Departmental Notice #1 effective 2026-01-01; county code 15.",
-    "as_of": "2026-01-01",
+    "notes": "Indiana county income tax — withhold the resident's county rate; for employees who reside out of Indiana, withhold the work-location county's rate. IN DOR Departmental Notice #1 effective 2026-10-01; county code 15.",
+    "as_of": "2026-10-01",
     "source": "in_dor_dn01"
   },
   {
@@ -247,8 +247,8 @@
     "non_resident_rate": 0.0245,
     "courtesy_withholding": false,
     "citation_url": "https://www.in.gov/dor/tax-forms/departmental-notices/",
-    "notes": "Indiana county income tax — withhold the resident's county rate; for employees who reside out of Indiana, withhold the work-location county's rate. IN DOR Departmental Notice #1 effective 2026-01-01; county code 16.",
-    "as_of": "2026-01-01",
+    "notes": "Indiana county income tax — withhold the resident's county rate; for employees who reside out of Indiana, withhold the work-location county's rate. IN DOR Departmental Notice #1 effective 2026-10-01; county code 16.",
+    "as_of": "2026-10-01",
     "source": "in_dor_dn01"
   },
   {
@@ -261,8 +261,8 @@
     "non_resident_rate": 0.015,
     "courtesy_withholding": false,
     "citation_url": "https://www.in.gov/dor/tax-forms/departmental-notices/",
-    "notes": "Indiana county income tax — withhold the resident's county rate; for employees who reside out of Indiana, withhold the work-location county's rate. IN DOR Departmental Notice #1 effective 2026-01-01; county code 18.",
-    "as_of": "2026-01-01",
+    "notes": "Indiana county income tax — withhold the resident's county rate; for employees who reside out of Indiana, withhold the work-location county's rate. IN DOR Departmental Notice #1 effective 2026-10-01; county code 18.",
+    "as_of": "2026-10-01",
     "source": "in_dor_dn01"
   },
   {
@@ -275,8 +275,8 @@
     "non_resident_rate": 0.012,
     "courtesy_withholding": false,
     "citation_url": "https://www.in.gov/dor/tax-forms/departmental-notices/",
-    "notes": "Indiana county income tax — withhold the resident's county rate; for employees who reside out of Indiana, withhold the work-location county's rate. IN DOR Departmental Notice #1 effective 2026-01-01; county code 19.",
-    "as_of": "2026-01-01",
+    "notes": "Indiana county income tax — withhold the resident's county rate; for employees who reside out of Indiana, withhold the work-location county's rate. IN DOR Departmental Notice #1 effective 2026-10-01; county code 19.",
+    "as_of": "2026-10-01",
     "source": "in_dor_dn01"
   },
   {
@@ -289,8 +289,8 @@
     "non_resident_rate": 0.02,
     "courtesy_withholding": false,
     "citation_url": "https://www.in.gov/dor/tax-forms/departmental-notices/",
-    "notes": "Indiana county income tax — withhold the resident's county rate; for employees who reside out of Indiana, withhold the work-location county's rate. IN DOR Departmental Notice #1 effective 2026-01-01; county code 20.",
-    "as_of": "2026-01-01",
+    "notes": "Indiana county income tax — withhold the resident's county rate; for employees who reside out of Indiana, withhold the work-location county's rate. IN DOR Departmental Notice #1 effective 2026-10-01; county code 20.",
+    "as_of": "2026-10-01",
     "source": "in_dor_dn01"
   },
   {
@@ -303,8 +303,8 @@
     "non_resident_rate": 0.0282,
     "courtesy_withholding": false,
     "citation_url": "https://www.in.gov/dor/tax-forms/departmental-notices/",
-    "notes": "Indiana county income tax — withhold the resident's county rate; for employees who reside out of Indiana, withhold the work-location county's rate. IN DOR Departmental Notice #1 effective 2026-01-01; county code 21.",
-    "as_of": "2026-01-01",
+    "notes": "Indiana county income tax — withhold the resident's county rate; for employees who reside out of Indiana, withhold the work-location county's rate. IN DOR Departmental Notice #1 effective 2026-10-01; county code 21.",
+    "as_of": "2026-10-01",
     "source": "in_dor_dn01"
   },
   {
@@ -317,8 +317,8 @@
     "non_resident_rate": 0.0189,
     "courtesy_withholding": false,
     "citation_url": "https://www.in.gov/dor/tax-forms/departmental-notices/",
-    "notes": "Indiana county income tax — withhold the resident's county rate; for employees who reside out of Indiana, withhold the work-location county's rate. IN DOR Departmental Notice #1 effective 2026-01-01; county code 22.",
-    "as_of": "2026-01-01",
+    "notes": "Indiana county income tax — withhold the resident's county rate; for employees who reside out of Indiana, withhold the work-location county's rate. IN DOR Departmental Notice #1 effective 2026-10-01; county code 22.",
+    "as_of": "2026-10-01",
     "source": "in_dor_dn01"
   },
   {
@@ -331,8 +331,8 @@
     "non_resident_rate": 0.021,
     "courtesy_withholding": false,
     "citation_url": "https://www.in.gov/dor/tax-forms/departmental-notices/",
-    "notes": "Indiana county income tax — withhold the resident's county rate; for employees who reside out of Indiana, withhold the work-location county's rate. IN DOR Departmental Notice #1 effective 2026-01-01; county code 23.",
-    "as_of": "2026-01-01",
+    "notes": "Indiana county income tax — withhold the resident's county rate; for employees who reside out of Indiana, withhold the work-location county's rate. IN DOR Departmental Notice #1 effective 2026-10-01; county code 23.",
+    "as_of": "2026-10-01",
     "source": "in_dor_dn01"
   },
   {
@@ -345,8 +345,8 @@
     "non_resident_rate": 0.017,
     "courtesy_withholding": false,
     "citation_url": "https://www.in.gov/dor/tax-forms/departmental-notices/",
-    "notes": "Indiana county income tax — withhold the resident's county rate; for employees who reside out of Indiana, withhold the work-location county's rate. IN DOR Departmental Notice #1 effective 2026-01-01; county code 24.",
-    "as_of": "2026-01-01",
+    "notes": "Indiana county income tax — withhold the resident's county rate; for employees who reside out of Indiana, withhold the work-location county's rate. IN DOR Departmental Notice #1 effective 2026-10-01; county code 24.",
+    "as_of": "2026-10-01",
     "source": "in_dor_dn01"
   },
   {
@@ -359,8 +359,8 @@
     "non_resident_rate": 0.0288,
     "courtesy_withholding": false,
     "citation_url": "https://www.in.gov/dor/tax-forms/departmental-notices/",
-    "notes": "Indiana county income tax — withhold the resident's county rate; for employees who reside out of Indiana, withhold the work-location county's rate. IN DOR Departmental Notice #1 effective 2026-01-01; county code 25.",
-    "as_of": "2026-01-01",
+    "notes": "Indiana county income tax — withhold the resident's county rate; for employees who reside out of Indiana, withhold the work-location county's rate. IN DOR Departmental Notice #1 effective 2026-10-01; county code 25.",
+    "as_of": "2026-10-01",
     "source": "in_dor_dn01"
   },
   {
@@ -373,8 +373,8 @@
     "non_resident_rate": 0.013,
     "courtesy_withholding": false,
     "citation_url": "https://www.in.gov/dor/tax-forms/departmental-notices/",
-    "notes": "Indiana county income tax — withhold the resident's county rate; for employees who reside out of Indiana, withhold the work-location county's rate. IN DOR Departmental Notice #1 effective 2026-01-01; county code 26.",
-    "as_of": "2026-01-01",
+    "notes": "Indiana county income tax — withhold the resident's county rate; for employees who reside out of Indiana, withhold the work-location county's rate. IN DOR Departmental Notice #1 effective 2026-10-01; county code 26.",
+    "as_of": "2026-10-01",
     "source": "in_dor_dn01"
   },
   {
@@ -387,8 +387,8 @@
     "non_resident_rate": 0.0275,
     "courtesy_withholding": false,
     "citation_url": "https://www.in.gov/dor/tax-forms/departmental-notices/",
-    "notes": "Indiana county income tax — withhold the resident's county rate; for employees who reside out of Indiana, withhold the work-location county's rate. IN DOR Departmental Notice #1 effective 2026-01-01; county code 27.",
-    "as_of": "2026-01-01",
+    "notes": "Indiana county income tax — withhold the resident's county rate; for employees who reside out of Indiana, withhold the work-location county's rate. IN DOR Departmental Notice #1 effective 2026-10-01; county code 27.",
+    "as_of": "2026-10-01",
     "source": "in_dor_dn01"
   },
   {
@@ -401,8 +401,8 @@
     "non_resident_rate": 0.0235,
     "courtesy_withholding": false,
     "citation_url": "https://www.in.gov/dor/tax-forms/departmental-notices/",
-    "notes": "Indiana county income tax — withhold the resident's county rate; for employees who reside out of Indiana, withhold the work-location county's rate. IN DOR Departmental Notice #1 effective 2026-01-01; county code 28.",
-    "as_of": "2026-01-01",
+    "notes": "Indiana county income tax — withhold the resident's county rate; for employees who reside out of Indiana, withhold the work-location county's rate. IN DOR Departmental Notice #1 effective 2026-10-01; county code 28.",
+    "as_of": "2026-10-01",
     "source": "in_dor_dn01"
   },
   {
@@ -415,8 +415,8 @@
     "non_resident_rate": 0.011,
     "courtesy_withholding": false,
     "citation_url": "https://www.in.gov/dor/tax-forms/departmental-notices/",
-    "notes": "Indiana county income tax — withhold the resident's county rate; for employees who reside out of Indiana, withhold the work-location county's rate. IN DOR Departmental Notice #1 effective 2026-01-01; county code 29.",
-    "as_of": "2026-01-01",
+    "notes": "Indiana county income tax — withhold the resident's county rate; for employees who reside out of Indiana, withhold the work-location county's rate. IN DOR Departmental Notice #1 effective 2026-10-01; county code 29.",
+    "as_of": "2026-10-01",
     "source": "in_dor_dn01"
   },
   {
@@ -429,8 +429,8 @@
     "non_resident_rate": 0.0194,
     "courtesy_withholding": false,
     "citation_url": "https://www.in.gov/dor/tax-forms/departmental-notices/",
-    "notes": "Indiana county income tax — withhold the resident's county rate; for employees who reside out of Indiana, withhold the work-location county's rate. IN DOR Departmental Notice #1 effective 2026-01-01; county code 30.",
-    "as_of": "2026-01-01",
+    "notes": "Indiana county income tax — withhold the resident's county rate; for employees who reside out of Indiana, withhold the work-location county's rate. IN DOR Departmental Notice #1 effective 2026-10-01; county code 30.",
+    "as_of": "2026-10-01",
     "source": "in_dor_dn01"
   },
   {
@@ -443,8 +443,8 @@
     "non_resident_rate": 0.01,
     "courtesy_withholding": false,
     "citation_url": "https://www.in.gov/dor/tax-forms/departmental-notices/",
-    "notes": "Indiana county income tax — withhold the resident's county rate; for employees who reside out of Indiana, withhold the work-location county's rate. IN DOR Departmental Notice #1 effective 2026-01-01; county code 31.",
-    "as_of": "2026-01-01",
+    "notes": "Indiana county income tax — withhold the resident's county rate; for employees who reside out of Indiana, withhold the work-location county's rate. IN DOR Departmental Notice #1 effective 2026-10-01; county code 31.",
+    "as_of": "2026-10-01",
     "source": "in_dor_dn01"
   },
   {
@@ -457,8 +457,8 @@
     "non_resident_rate": 0.017,
     "courtesy_withholding": false,
     "citation_url": "https://www.in.gov/dor/tax-forms/departmental-notices/",
-    "notes": "Indiana county income tax — withhold the resident's county rate; for employees who reside out of Indiana, withhold the work-location county's rate. IN DOR Departmental Notice #1 effective 2026-01-01; county code 32.",
-    "as_of": "2026-01-01",
+    "notes": "Indiana county income tax — withhold the resident's county rate; for employees who reside out of Indiana, withhold the work-location county's rate. IN DOR Departmental Notice #1 effective 2026-10-01; county code 32.",
+    "as_of": "2026-10-01",
     "source": "in_dor_dn01"
   },
   {
@@ -471,8 +471,8 @@
     "non_resident_rate": 0.0202,
     "courtesy_withholding": false,
     "citation_url": "https://www.in.gov/dor/tax-forms/departmental-notices/",
-    "notes": "Indiana county income tax — withhold the resident's county rate; for employees who reside out of Indiana, withhold the work-location county's rate. IN DOR Departmental Notice #1 effective 2026-01-01; county code 33.",
-    "as_of": "2026-01-01",
+    "notes": "Indiana county income tax — withhold the resident's county rate; for employees who reside out of Indiana, withhold the work-location county's rate. IN DOR Departmental Notice #1 effective 2026-10-01; county code 33.",
+    "as_of": "2026-10-01",
     "source": "in_dor_dn01"
   },
   {
@@ -485,8 +485,8 @@
     "non_resident_rate": 0.0235,
     "courtesy_withholding": false,
     "citation_url": "https://www.in.gov/dor/tax-forms/departmental-notices/",
-    "notes": "Indiana county income tax — withhold the resident's county rate; for employees who reside out of Indiana, withhold the work-location county's rate. IN DOR Departmental Notice #1 effective 2026-01-01; county code 34.",
-    "as_of": "2026-01-01",
+    "notes": "Indiana county income tax — withhold the resident's county rate; for employees who reside out of Indiana, withhold the work-location county's rate. IN DOR Departmental Notice #1 effective 2026-10-01; county code 34.",
+    "as_of": "2026-10-01",
     "source": "in_dor_dn01"
   },
   {
@@ -499,8 +499,8 @@
     "non_resident_rate": 0.0195,
     "courtesy_withholding": false,
     "citation_url": "https://www.in.gov/dor/tax-forms/departmental-notices/",
-    "notes": "Indiana county income tax — withhold the resident's county rate; for employees who reside out of Indiana, withhold the work-location county's rate. IN DOR Departmental Notice #1 effective 2026-01-01; county code 35.",
-    "as_of": "2026-01-01",
+    "notes": "Indiana county income tax — withhold the resident's county rate; for employees who reside out of Indiana, withhold the work-location county's rate. IN DOR Departmental Notice #1 effective 2026-10-01; county code 35.",
+    "as_of": "2026-10-01",
     "source": "in_dor_dn01"
   },
   {
@@ -513,8 +513,8 @@
     "non_resident_rate": 0.021,
     "courtesy_withholding": false,
     "citation_url": "https://www.in.gov/dor/tax-forms/departmental-notices/",
-    "notes": "Indiana county income tax — withhold the resident's county rate; for employees who reside out of Indiana, withhold the work-location county's rate. IN DOR Departmental Notice #1 effective 2026-01-01; county code 36.",
-    "as_of": "2026-01-01",
+    "notes": "Indiana county income tax — withhold the resident's county rate; for employees who reside out of Indiana, withhold the work-location county's rate. IN DOR Departmental Notice #1 effective 2026-10-01; county code 36.",
+    "as_of": "2026-10-01",
     "source": "in_dor_dn01"
   },
   {
@@ -527,8 +527,8 @@
     "non_resident_rate": 0.02864,
     "courtesy_withholding": false,
     "citation_url": "https://www.in.gov/dor/tax-forms/departmental-notices/",
-    "notes": "Indiana county income tax — withhold the resident's county rate; for employees who reside out of Indiana, withhold the work-location county's rate. IN DOR Departmental Notice #1 effective 2026-01-01; county code 37.",
-    "as_of": "2026-01-01",
+    "notes": "Indiana county income tax — withhold the resident's county rate; for employees who reside out of Indiana, withhold the work-location county's rate. IN DOR Departmental Notice #1 effective 2026-10-01; county code 37.",
+    "as_of": "2026-10-01",
     "source": "in_dor_dn01"
   },
   {
@@ -541,8 +541,8 @@
     "non_resident_rate": 0.025,
     "courtesy_withholding": false,
     "citation_url": "https://www.in.gov/dor/tax-forms/departmental-notices/",
-    "notes": "Indiana county income tax — withhold the resident's county rate; for employees who reside out of Indiana, withhold the work-location county's rate. IN DOR Departmental Notice #1 effective 2026-01-01; county code 38.",
-    "as_of": "2026-01-01",
+    "notes": "Indiana county income tax — withhold the resident's county rate; for employees who reside out of Indiana, withhold the work-location county's rate. IN DOR Departmental Notice #1 effective 2026-10-01; county code 38.",
+    "as_of": "2026-10-01",
     "source": "in_dor_dn01"
   },
   {
@@ -555,8 +555,8 @@
     "non_resident_rate": 0.0103,
     "courtesy_withholding": false,
     "citation_url": "https://www.in.gov/dor/tax-forms/departmental-notices/",
-    "notes": "Indiana county income tax — withhold the resident's county rate; for employees who reside out of Indiana, withhold the work-location county's rate. IN DOR Departmental Notice #1 effective 2026-01-01; county code 39.",
-    "as_of": "2026-01-01",
+    "notes": "Indiana county income tax — withhold the resident's county rate; for employees who reside out of Indiana, withhold the work-location county's rate. IN DOR Departmental Notice #1 effective 2026-10-01; county code 39.",
+    "as_of": "2026-10-01",
     "source": "in_dor_dn01"
   },
   {
@@ -569,8 +569,8 @@
     "non_resident_rate": 0.025,
     "courtesy_withholding": false,
     "citation_url": "https://www.in.gov/dor/tax-forms/departmental-notices/",
-    "notes": "Indiana county income tax — withhold the resident's county rate; for employees who reside out of Indiana, withhold the work-location county's rate. IN DOR Departmental Notice #1 effective 2026-01-01; county code 40.",
-    "as_of": "2026-01-01",
+    "notes": "Indiana county income tax — withhold the resident's county rate; for employees who reside out of Indiana, withhold the work-location county's rate. IN DOR Departmental Notice #1 effective 2026-10-01; county code 40.",
+    "as_of": "2026-10-01",
     "source": "in_dor_dn01"
   },
   {
@@ -583,8 +583,8 @@
     "non_resident_rate": 0.014,
     "courtesy_withholding": false,
     "citation_url": "https://www.in.gov/dor/tax-forms/departmental-notices/",
-    "notes": "Indiana county income tax — withhold the resident's county rate; for employees who reside out of Indiana, withhold the work-location county's rate. IN DOR Departmental Notice #1 effective 2026-01-01; county code 41.",
-    "as_of": "2026-01-01",
+    "notes": "Indiana county income tax — withhold the resident's county rate; for employees who reside out of Indiana, withhold the work-location county's rate. IN DOR Departmental Notice #1 effective 2026-10-01; county code 41.",
+    "as_of": "2026-10-01",
     "source": "in_dor_dn01"
   },
   {
@@ -597,8 +597,8 @@
     "non_resident_rate": 0.017,
     "courtesy_withholding": false,
     "citation_url": "https://www.in.gov/dor/tax-forms/departmental-notices/",
-    "notes": "Indiana county income tax — withhold the resident's county rate; for employees who reside out of Indiana, withhold the work-location county's rate. IN DOR Departmental Notice #1 effective 2026-01-01; county code 42.",
-    "as_of": "2026-01-01",
+    "notes": "Indiana county income tax — withhold the resident's county rate; for employees who reside out of Indiana, withhold the work-location county's rate. IN DOR Departmental Notice #1 effective 2026-10-01; county code 42.",
+    "as_of": "2026-10-01",
     "source": "in_dor_dn01"
   },
   {
@@ -611,8 +611,8 @@
     "non_resident_rate": 0.01,
     "courtesy_withholding": false,
     "citation_url": "https://www.in.gov/dor/tax-forms/departmental-notices/",
-    "notes": "Indiana county income tax — withhold the resident's county rate; for employees who reside out of Indiana, withhold the work-location county's rate. IN DOR Departmental Notice #1 effective 2026-01-01; county code 43.",
-    "as_of": "2026-01-01",
+    "notes": "Indiana county income tax — withhold the resident's county rate; for employees who reside out of Indiana, withhold the work-location county's rate. IN DOR Departmental Notice #1 effective 2026-10-01; county code 43.",
+    "as_of": "2026-10-01",
     "source": "in_dor_dn01"
   },
   {
@@ -625,8 +625,8 @@
     "non_resident_rate": 0.0165,
     "courtesy_withholding": false,
     "citation_url": "https://www.in.gov/dor/tax-forms/departmental-notices/",
-    "notes": "Indiana county income tax — withhold the resident's county rate; for employees who reside out of Indiana, withhold the work-location county's rate. IN DOR Departmental Notice #1 effective 2026-01-01; county code 44.",
-    "as_of": "2026-01-01",
+    "notes": "Indiana county income tax — withhold the resident's county rate; for employees who reside out of Indiana, withhold the work-location county's rate. IN DOR Departmental Notice #1 effective 2026-10-01; county code 44.",
+    "as_of": "2026-10-01",
     "source": "in_dor_dn01"
   },
   {
@@ -639,8 +639,8 @@
     "non_resident_rate": 0.0145,
     "courtesy_withholding": false,
     "citation_url": "https://www.in.gov/dor/tax-forms/departmental-notices/",
-    "notes": "Indiana county income tax — withhold the resident's county rate; for employees who reside out of Indiana, withhold the work-location county's rate. IN DOR Departmental Notice #1 effective 2026-01-01; county code 46.",
-    "as_of": "2026-01-01",
+    "notes": "Indiana county income tax — withhold the resident's county rate; for employees who reside out of Indiana, withhold the work-location county's rate. IN DOR Departmental Notice #1 effective 2026-10-01; county code 46.",
+    "as_of": "2026-10-01",
     "source": "in_dor_dn01"
   },
   {
@@ -653,8 +653,8 @@
     "non_resident_rate": 0.015,
     "courtesy_withholding": false,
     "citation_url": "https://www.in.gov/dor/tax-forms/departmental-notices/",
-    "notes": "Indiana county income tax — withhold the resident's county rate; for employees who reside out of Indiana, withhold the work-location county's rate. IN DOR Departmental Notice #1 effective 2026-01-01; county code 45.",
-    "as_of": "2026-01-01",
+    "notes": "Indiana county income tax — withhold the resident's county rate; for employees who reside out of Indiana, withhold the work-location county's rate. IN DOR Departmental Notice #1 effective 2026-10-01; county code 45.",
+    "as_of": "2026-10-01",
     "source": "in_dor_dn01"
   },
   {
@@ -667,8 +667,8 @@
     "non_resident_rate": 0.0175,
     "courtesy_withholding": false,
     "citation_url": "https://www.in.gov/dor/tax-forms/departmental-notices/",
-    "notes": "Indiana county income tax — withhold the resident's county rate; for employees who reside out of Indiana, withhold the work-location county's rate. IN DOR Departmental Notice #1 effective 2026-01-01; county code 47.",
-    "as_of": "2026-01-01",
+    "notes": "Indiana county income tax — withhold the resident's county rate; for employees who reside out of Indiana, withhold the work-location county's rate. IN DOR Departmental Notice #1 effective 2026-10-01; county code 47.",
+    "as_of": "2026-10-01",
     "source": "in_dor_dn01"
   },
   {
@@ -681,8 +681,8 @@
     "non_resident_rate": 0.0225,
     "courtesy_withholding": false,
     "citation_url": "https://www.in.gov/dor/tax-forms/departmental-notices/",
-    "notes": "Indiana county income tax — withhold the resident's county rate; for employees who reside out of Indiana, withhold the work-location county's rate. IN DOR Departmental Notice #1 effective 2026-01-01; county code 48.",
-    "as_of": "2026-01-01",
+    "notes": "Indiana county income tax — withhold the resident's county rate; for employees who reside out of Indiana, withhold the work-location county's rate. IN DOR Departmental Notice #1 effective 2026-10-01; county code 48.",
+    "as_of": "2026-10-01",
     "source": "in_dor_dn01"
   },
   {
@@ -695,8 +695,8 @@
     "non_resident_rate": 0.0202,
     "courtesy_withholding": false,
     "citation_url": "https://www.in.gov/dor/tax-forms/departmental-notices/",
-    "notes": "Indiana county income tax — withhold the resident's county rate; for employees who reside out of Indiana, withhold the work-location county's rate. IN DOR Departmental Notice #1 effective 2026-01-01; county code 49.",
-    "as_of": "2026-01-01",
+    "notes": "Indiana county income tax — withhold the resident's county rate; for employees who reside out of Indiana, withhold the work-location county's rate. IN DOR Departmental Notice #1 effective 2026-10-01; county code 49.",
+    "as_of": "2026-10-01",
     "source": "in_dor_dn01"
   },
   {
@@ -709,8 +709,8 @@
     "non_resident_rate": 0.0125,
     "courtesy_withholding": false,
     "citation_url": "https://www.in.gov/dor/tax-forms/departmental-notices/",
-    "notes": "Indiana county income tax — withhold the resident's county rate; for employees who reside out of Indiana, withhold the work-location county's rate. IN DOR Departmental Notice #1 effective 2026-01-01; county code 50.",
-    "as_of": "2026-01-01",
+    "notes": "Indiana county income tax — withhold the resident's county rate; for employees who reside out of Indiana, withhold the work-location county's rate. IN DOR Departmental Notice #1 effective 2026-10-01; county code 50.",
+    "as_of": "2026-10-01",
     "source": "in_dor_dn01"
   },
   {
@@ -723,8 +723,8 @@
     "non_resident_rate": 0.025,
     "courtesy_withholding": false,
     "citation_url": "https://www.in.gov/dor/tax-forms/departmental-notices/",
-    "notes": "Indiana county income tax — withhold the resident's county rate; for employees who reside out of Indiana, withhold the work-location county's rate. IN DOR Departmental Notice #1 effective 2026-01-01; county code 51.",
-    "as_of": "2026-01-01",
+    "notes": "Indiana county income tax — withhold the resident's county rate; for employees who reside out of Indiana, withhold the work-location county's rate. IN DOR Departmental Notice #1 effective 2026-10-01; county code 51.",
+    "as_of": "2026-10-01",
     "source": "in_dor_dn01"
   },
   {
@@ -737,8 +737,8 @@
     "non_resident_rate": 0.0254,
     "courtesy_withholding": false,
     "citation_url": "https://www.in.gov/dor/tax-forms/departmental-notices/",
-    "notes": "Indiana county income tax — withhold the resident's county rate; for employees who reside out of Indiana, withhold the work-location county's rate. IN DOR Departmental Notice #1 effective 2026-01-01; county code 52.",
-    "as_of": "2026-01-01",
+    "notes": "Indiana county income tax — withhold the resident's county rate; for employees who reside out of Indiana, withhold the work-location county's rate. IN DOR Departmental Notice #1 effective 2026-10-01; county code 52.",
+    "as_of": "2026-10-01",
     "source": "in_dor_dn01"
   },
   {
@@ -751,8 +751,8 @@
     "non_resident_rate": 0.0214,
     "courtesy_withholding": false,
     "citation_url": "https://www.in.gov/dor/tax-forms/departmental-notices/",
-    "notes": "Indiana county income tax — withhold the resident's county rate; for employees who reside out of Indiana, withhold the work-location county's rate. IN DOR Departmental Notice #1 effective 2026-01-01; county code 53.",
-    "as_of": "2026-01-01",
+    "notes": "Indiana county income tax — withhold the resident's county rate; for employees who reside out of Indiana, withhold the work-location county's rate. IN DOR Departmental Notice #1 effective 2026-10-01; county code 53.",
+    "as_of": "2026-10-01",
     "source": "in_dor_dn01"
   },
   {
@@ -765,8 +765,8 @@
     "non_resident_rate": 0.0265,
     "courtesy_withholding": false,
     "citation_url": "https://www.in.gov/dor/tax-forms/departmental-notices/",
-    "notes": "Indiana county income tax — withhold the resident's county rate; for employees who reside out of Indiana, withhold the work-location county's rate. IN DOR Departmental Notice #1 effective 2026-01-01; county code 54.",
-    "as_of": "2026-01-01",
+    "notes": "Indiana county income tax — withhold the resident's county rate; for employees who reside out of Indiana, withhold the work-location county's rate. IN DOR Departmental Notice #1 effective 2026-10-01; county code 54.",
+    "as_of": "2026-10-01",
     "source": "in_dor_dn01"
   },
   {
@@ -779,8 +779,8 @@
     "non_resident_rate": 0.0272,
     "courtesy_withholding": false,
     "citation_url": "https://www.in.gov/dor/tax-forms/departmental-notices/",
-    "notes": "Indiana county income tax — withhold the resident's county rate; for employees who reside out of Indiana, withhold the work-location county's rate. IN DOR Departmental Notice #1 effective 2026-01-01; county code 55.",
-    "as_of": "2026-01-01",
+    "notes": "Indiana county income tax — withhold the resident's county rate; for employees who reside out of Indiana, withhold the work-location county's rate. IN DOR Departmental Notice #1 effective 2026-10-01; county code 55.",
+    "as_of": "2026-10-01",
     "source": "in_dor_dn01"
   },
   {
@@ -793,8 +793,8 @@
     "non_resident_rate": 0.01,
     "courtesy_withholding": false,
     "citation_url": "https://www.in.gov/dor/tax-forms/departmental-notices/",
-    "notes": "Indiana county income tax — withhold the resident's county rate; for employees who reside out of Indiana, withhold the work-location county's rate. IN DOR Departmental Notice #1 effective 2026-01-01; county code 56.",
-    "as_of": "2026-01-01",
+    "notes": "Indiana county income tax — withhold the resident's county rate; for employees who reside out of Indiana, withhold the work-location county's rate. IN DOR Departmental Notice #1 effective 2026-10-01; county code 56.",
+    "as_of": "2026-10-01",
     "source": "in_dor_dn01"
   },
   {
@@ -807,8 +807,8 @@
     "non_resident_rate": 0.0175,
     "courtesy_withholding": false,
     "citation_url": "https://www.in.gov/dor/tax-forms/departmental-notices/",
-    "notes": "Indiana county income tax — withhold the resident's county rate; for employees who reside out of Indiana, withhold the work-location county's rate. IN DOR Departmental Notice #1 effective 2026-01-01; county code 57.",
-    "as_of": "2026-01-01",
+    "notes": "Indiana county income tax — withhold the resident's county rate; for employees who reside out of Indiana, withhold the work-location county's rate. IN DOR Departmental Notice #1 effective 2026-10-01; county code 57.",
+    "as_of": "2026-10-01",
     "source": "in_dor_dn01"
   },
   {
@@ -821,8 +821,8 @@
     "non_resident_rate": 0.02,
     "courtesy_withholding": false,
     "citation_url": "https://www.in.gov/dor/tax-forms/departmental-notices/",
-    "notes": "Indiana county income tax — withhold the resident's county rate; for employees who reside out of Indiana, withhold the work-location county's rate. IN DOR Departmental Notice #1 effective 2026-01-01; county code 58.",
-    "as_of": "2026-01-01",
+    "notes": "Indiana county income tax — withhold the resident's county rate; for employees who reside out of Indiana, withhold the work-location county's rate. IN DOR Departmental Notice #1 effective 2026-10-01; county code 58.",
+    "as_of": "2026-10-01",
     "source": "in_dor_dn01"
   },
   {
@@ -835,8 +835,8 @@
     "non_resident_rate": 0.0175,
     "courtesy_withholding": false,
     "citation_url": "https://www.in.gov/dor/tax-forms/departmental-notices/",
-    "notes": "Indiana county income tax — withhold the resident's county rate; for employees who reside out of Indiana, withhold the work-location county's rate. IN DOR Departmental Notice #1 effective 2026-01-01; county code 59.",
-    "as_of": "2026-01-01",
+    "notes": "Indiana county income tax — withhold the resident's county rate; for employees who reside out of Indiana, withhold the work-location county's rate. IN DOR Departmental Notice #1 effective 2026-10-01; county code 59.",
+    "as_of": "2026-10-01",
     "source": "in_dor_dn01"
   },
   {
@@ -849,8 +849,8 @@
     "non_resident_rate": 0.025,
     "courtesy_withholding": false,
     "citation_url": "https://www.in.gov/dor/tax-forms/departmental-notices/",
-    "notes": "Indiana county income tax — withhold the resident's county rate; for employees who reside out of Indiana, withhold the work-location county's rate. IN DOR Departmental Notice #1 effective 2026-01-01; county code 60.",
-    "as_of": "2026-01-01",
+    "notes": "Indiana county income tax — withhold the resident's county rate; for employees who reside out of Indiana, withhold the work-location county's rate. IN DOR Departmental Notice #1 effective 2026-10-01; county code 60.",
+    "as_of": "2026-10-01",
     "source": "in_dor_dn01"
   },
   {
@@ -863,8 +863,8 @@
     "non_resident_rate": 0.0265,
     "courtesy_withholding": false,
     "citation_url": "https://www.in.gov/dor/tax-forms/departmental-notices/",
-    "notes": "Indiana county income tax — withhold the resident's county rate; for employees who reside out of Indiana, withhold the work-location county's rate. IN DOR Departmental Notice #1 effective 2026-01-01; county code 61.",
-    "as_of": "2026-01-01",
+    "notes": "Indiana county income tax — withhold the resident's county rate; for employees who reside out of Indiana, withhold the work-location county's rate. IN DOR Departmental Notice #1 effective 2026-10-01; county code 61.",
+    "as_of": "2026-10-01",
     "source": "in_dor_dn01"
   },
   {
@@ -877,8 +877,8 @@
     "non_resident_rate": 0.014,
     "courtesy_withholding": false,
     "citation_url": "https://www.in.gov/dor/tax-forms/departmental-notices/",
-    "notes": "Indiana county income tax — withhold the resident's county rate; for employees who reside out of Indiana, withhold the work-location county's rate. IN DOR Departmental Notice #1 effective 2026-01-01; county code 62.",
-    "as_of": "2026-01-01",
+    "notes": "Indiana county income tax — withhold the resident's county rate; for employees who reside out of Indiana, withhold the work-location county's rate. IN DOR Departmental Notice #1 effective 2026-10-01; county code 62.",
+    "as_of": "2026-10-01",
     "source": "in_dor_dn01"
   },
   {
@@ -891,8 +891,8 @@
     "non_resident_rate": 0.012,
     "courtesy_withholding": false,
     "citation_url": "https://www.in.gov/dor/tax-forms/departmental-notices/",
-    "notes": "Indiana county income tax — withhold the resident's county rate; for employees who reside out of Indiana, withhold the work-location county's rate. IN DOR Departmental Notice #1 effective 2026-01-01; county code 63.",
-    "as_of": "2026-01-01",
+    "notes": "Indiana county income tax — withhold the resident's county rate; for employees who reside out of Indiana, withhold the work-location county's rate. IN DOR Departmental Notice #1 effective 2026-10-01; county code 63.",
+    "as_of": "2026-10-01",
     "source": "in_dor_dn01"
   },
   {
@@ -905,8 +905,8 @@
     "non_resident_rate": 0.005,
     "courtesy_withholding": false,
     "citation_url": "https://www.in.gov/dor/tax-forms/departmental-notices/",
-    "notes": "Indiana county income tax — withhold the resident's county rate; for employees who reside out of Indiana, withhold the work-location county's rate. IN DOR Departmental Notice #1 effective 2026-01-01; county code 64.",
-    "as_of": "2026-01-01",
+    "notes": "Indiana county income tax — withhold the resident's county rate; for employees who reside out of Indiana, withhold the work-location county's rate. IN DOR Departmental Notice #1 effective 2026-10-01; county code 64.",
+    "as_of": "2026-10-01",
     "source": "in_dor_dn01"
   },
   {
@@ -919,8 +919,8 @@
     "non_resident_rate": 0.0145,
     "courtesy_withholding": false,
     "citation_url": "https://www.in.gov/dor/tax-forms/departmental-notices/",
-    "notes": "Indiana county income tax — withhold the resident's county rate; for employees who reside out of Indiana, withhold the work-location county's rate. IN DOR Departmental Notice #1 effective 2026-01-01; county code 65.",
-    "as_of": "2026-01-01",
+    "notes": "Indiana county income tax — withhold the resident's county rate; for employees who reside out of Indiana, withhold the work-location county's rate. IN DOR Departmental Notice #1 effective 2026-10-01; county code 65.",
+    "as_of": "2026-10-01",
     "source": "in_dor_dn01"
   },
   {
@@ -933,8 +933,8 @@
     "non_resident_rate": 0.0285,
     "courtesy_withholding": false,
     "citation_url": "https://www.in.gov/dor/tax-forms/departmental-notices/",
-    "notes": "Indiana county income tax — withhold the resident's county rate; for employees who reside out of Indiana, withhold the work-location county's rate. IN DOR Departmental Notice #1 effective 2026-01-01; county code 66.",
-    "as_of": "2026-01-01",
+    "notes": "Indiana county income tax — withhold the resident's county rate; for employees who reside out of Indiana, withhold the work-location county's rate. IN DOR Departmental Notice #1 effective 2026-10-01; county code 66.",
+    "as_of": "2026-10-01",
     "source": "in_dor_dn01"
   },
   {
@@ -947,8 +947,8 @@
     "non_resident_rate": 0.023,
     "courtesy_withholding": false,
     "citation_url": "https://www.in.gov/dor/tax-forms/departmental-notices/",
-    "notes": "Indiana county income tax — withhold the resident's county rate; for employees who reside out of Indiana, withhold the work-location county's rate. IN DOR Departmental Notice #1 effective 2026-01-01; county code 67.",
-    "as_of": "2026-01-01",
+    "notes": "Indiana county income tax — withhold the resident's county rate; for employees who reside out of Indiana, withhold the work-location county's rate. IN DOR Departmental Notice #1 effective 2026-10-01; county code 67.",
+    "as_of": "2026-10-01",
     "source": "in_dor_dn01"
   },
   {
@@ -961,8 +961,8 @@
     "non_resident_rate": 0.03,
     "courtesy_withholding": false,
     "citation_url": "https://www.in.gov/dor/tax-forms/departmental-notices/",
-    "notes": "Indiana county income tax — withhold the resident's county rate; for employees who reside out of Indiana, withhold the work-location county's rate. IN DOR Departmental Notice #1 effective 2026-01-01; county code 68.",
-    "as_of": "2026-01-01",
+    "notes": "Indiana county income tax — withhold the resident's county rate; for employees who reside out of Indiana, withhold the work-location county's rate. IN DOR Departmental Notice #1 effective 2026-10-01; county code 68.",
+    "as_of": "2026-10-01",
     "source": "in_dor_dn01"
   },
   {
@@ -975,8 +975,8 @@
     "non_resident_rate": 0.0238,
     "courtesy_withholding": false,
     "citation_url": "https://www.in.gov/dor/tax-forms/departmental-notices/",
-    "notes": "Indiana county income tax — withhold the resident's county rate; for employees who reside out of Indiana, withhold the work-location county's rate. IN DOR Departmental Notice #1 effective 2026-01-01; county code 69.",
-    "as_of": "2026-01-01",
+    "notes": "Indiana county income tax — withhold the resident's county rate; for employees who reside out of Indiana, withhold the work-location county's rate. IN DOR Departmental Notice #1 effective 2026-10-01; county code 69.",
+    "as_of": "2026-10-01",
     "source": "in_dor_dn01"
   },
   {
@@ -989,8 +989,8 @@
     "non_resident_rate": 0.0215,
     "courtesy_withholding": false,
     "citation_url": "https://www.in.gov/dor/tax-forms/departmental-notices/",
-    "notes": "Indiana county income tax — withhold the resident's county rate; for employees who reside out of Indiana, withhold the work-location county's rate. IN DOR Departmental Notice #1 effective 2026-01-01; county code 70.",
-    "as_of": "2026-01-01",
+    "notes": "Indiana county income tax — withhold the resident's county rate; for employees who reside out of Indiana, withhold the work-location county's rate. IN DOR Departmental Notice #1 effective 2026-10-01; county code 70.",
+    "as_of": "2026-10-01",
     "source": "in_dor_dn01"
   },
   {
@@ -1003,8 +1003,8 @@
     "non_resident_rate": 0.0216,
     "courtesy_withholding": false,
     "citation_url": "https://www.in.gov/dor/tax-forms/departmental-notices/",
-    "notes": "Indiana county income tax — withhold the resident's county rate; for employees who reside out of Indiana, withhold the work-location county's rate. IN DOR Departmental Notice #1 effective 2026-01-01; county code 72.",
-    "as_of": "2026-01-01",
+    "notes": "Indiana county income tax — withhold the resident's county rate; for employees who reside out of Indiana, withhold the work-location county's rate. IN DOR Departmental Notice #1 effective 2026-10-01; county code 72.",
+    "as_of": "2026-10-01",
     "source": "in_dor_dn01"
   },
   {
@@ -1017,8 +1017,8 @@
     "non_resident_rate": 0.017,
     "courtesy_withholding": false,
     "citation_url": "https://www.in.gov/dor/tax-forms/departmental-notices/",
-    "notes": "Indiana county income tax — withhold the resident's county rate; for employees who reside out of Indiana, withhold the work-location county's rate. IN DOR Departmental Notice #1 effective 2026-01-01; county code 73.",
-    "as_of": "2026-01-01",
+    "notes": "Indiana county income tax — withhold the resident's county rate; for employees who reside out of Indiana, withhold the work-location county's rate. IN DOR Departmental Notice #1 effective 2026-10-01; county code 73.",
+    "as_of": "2026-10-01",
     "source": "in_dor_dn01"
   },
   {
@@ -1031,8 +1031,8 @@
     "non_resident_rate": 0.008,
     "courtesy_withholding": false,
     "citation_url": "https://www.in.gov/dor/tax-forms/departmental-notices/",
-    "notes": "Indiana county income tax — withhold the resident's county rate; for employees who reside out of Indiana, withhold the work-location county's rate. IN DOR Departmental Notice #1 effective 2026-01-01; county code 74.",
-    "as_of": "2026-01-01",
+    "notes": "Indiana county income tax — withhold the resident's county rate; for employees who reside out of Indiana, withhold the work-location county's rate. IN DOR Departmental Notice #1 effective 2026-10-01; county code 74.",
+    "as_of": "2026-10-01",
     "source": "in_dor_dn01"
   },
   {
@@ -1045,8 +1045,8 @@
     "non_resident_rate": 0.0175,
     "courtesy_withholding": false,
     "citation_url": "https://www.in.gov/dor/tax-forms/departmental-notices/",
-    "notes": "Indiana county income tax — withhold the resident's county rate; for employees who reside out of Indiana, withhold the work-location county's rate. IN DOR Departmental Notice #1 effective 2026-01-01; county code 71.",
-    "as_of": "2026-01-01",
+    "notes": "Indiana county income tax — withhold the resident's county rate; for employees who reside out of Indiana, withhold the work-location county's rate. IN DOR Departmental Notice #1 effective 2026-10-01; county code 71.",
+    "as_of": "2026-10-01",
     "source": "in_dor_dn01"
   },
   {
@@ -1059,8 +1059,8 @@
     "non_resident_rate": 0.0171,
     "courtesy_withholding": false,
     "citation_url": "https://www.in.gov/dor/tax-forms/departmental-notices/",
-    "notes": "Indiana county income tax — withhold the resident's county rate; for employees who reside out of Indiana, withhold the work-location county's rate. IN DOR Departmental Notice #1 effective 2026-01-01; county code 75.",
-    "as_of": "2026-01-01",
+    "notes": "Indiana county income tax — withhold the resident's county rate; for employees who reside out of Indiana, withhold the work-location county's rate. IN DOR Departmental Notice #1 effective 2026-10-01; county code 75.",
+    "as_of": "2026-10-01",
     "source": "in_dor_dn01"
   },
   {
@@ -1073,8 +1073,8 @@
     "non_resident_rate": 0.0199,
     "courtesy_withholding": false,
     "citation_url": "https://www.in.gov/dor/tax-forms/departmental-notices/",
-    "notes": "Indiana county income tax — withhold the resident's county rate; for employees who reside out of Indiana, withhold the work-location county's rate. IN DOR Departmental Notice #1 effective 2026-01-01; county code 76.",
-    "as_of": "2026-01-01",
+    "notes": "Indiana county income tax — withhold the resident's county rate; for employees who reside out of Indiana, withhold the work-location county's rate. IN DOR Departmental Notice #1 effective 2026-10-01; county code 76.",
+    "as_of": "2026-10-01",
     "source": "in_dor_dn01"
   },
   {
@@ -1087,8 +1087,8 @@
     "non_resident_rate": 0.017,
     "courtesy_withholding": false,
     "citation_url": "https://www.in.gov/dor/tax-forms/departmental-notices/",
-    "notes": "Indiana county income tax — withhold the resident's county rate; for employees who reside out of Indiana, withhold the work-location county's rate. IN DOR Departmental Notice #1 effective 2026-01-01; county code 77.",
-    "as_of": "2026-01-01",
+    "notes": "Indiana county income tax — withhold the resident's county rate; for employees who reside out of Indiana, withhold the work-location county's rate. IN DOR Departmental Notice #1 effective 2026-10-01; county code 77.",
+    "as_of": "2026-10-01",
     "source": "in_dor_dn01"
   },
   {
@@ -1101,8 +1101,8 @@
     "non_resident_rate": 0.0145,
     "courtesy_withholding": false,
     "citation_url": "https://www.in.gov/dor/tax-forms/departmental-notices/",
-    "notes": "Indiana county income tax — withhold the resident's county rate; for employees who reside out of Indiana, withhold the work-location county's rate. IN DOR Departmental Notice #1 effective 2026-01-01; county code 78.",
-    "as_of": "2026-01-01",
+    "notes": "Indiana county income tax — withhold the resident's county rate; for employees who reside out of Indiana, withhold the work-location county's rate. IN DOR Departmental Notice #1 effective 2026-10-01; county code 78.",
+    "as_of": "2026-10-01",
     "source": "in_dor_dn01"
   },
   {
@@ -1115,8 +1115,8 @@
     "non_resident_rate": 0.0128,
     "courtesy_withholding": false,
     "citation_url": "https://www.in.gov/dor/tax-forms/departmental-notices/",
-    "notes": "Indiana county income tax — withhold the resident's county rate; for employees who reside out of Indiana, withhold the work-location county's rate. IN DOR Departmental Notice #1 effective 2026-01-01; county code 79.",
-    "as_of": "2026-01-01",
+    "notes": "Indiana county income tax — withhold the resident's county rate; for employees who reside out of Indiana, withhold the work-location county's rate. IN DOR Departmental Notice #1 effective 2026-10-01; county code 79.",
+    "as_of": "2026-10-01",
     "source": "in_dor_dn01"
   },
   {
@@ -1129,8 +1129,8 @@
     "non_resident_rate": 0.026,
     "courtesy_withholding": false,
     "citation_url": "https://www.in.gov/dor/tax-forms/departmental-notices/",
-    "notes": "Indiana county income tax — withhold the resident's county rate; for employees who reside out of Indiana, withhold the work-location county's rate. IN DOR Departmental Notice #1 effective 2026-01-01; county code 80.",
-    "as_of": "2026-01-01",
+    "notes": "Indiana county income tax — withhold the resident's county rate; for employees who reside out of Indiana, withhold the work-location county's rate. IN DOR Departmental Notice #1 effective 2026-10-01; county code 80.",
+    "as_of": "2026-10-01",
     "source": "in_dor_dn01"
   },
   {
@@ -1143,8 +1143,8 @@
     "non_resident_rate": 0.0275,
     "courtesy_withholding": false,
     "citation_url": "https://www.in.gov/dor/tax-forms/departmental-notices/",
-    "notes": "Indiana county income tax — withhold the resident's county rate; for employees who reside out of Indiana, withhold the work-location county's rate. IN DOR Departmental Notice #1 effective 2026-01-01; county code 81.",
-    "as_of": "2026-01-01",
+    "notes": "Indiana county income tax — withhold the resident's county rate; for employees who reside out of Indiana, withhold the work-location county's rate. IN DOR Departmental Notice #1 effective 2026-10-01; county code 81.",
+    "as_of": "2026-10-01",
     "source": "in_dor_dn01"
   },
   {
@@ -1157,8 +1157,8 @@
     "non_resident_rate": 0.0125,
     "courtesy_withholding": false,
     "citation_url": "https://www.in.gov/dor/tax-forms/departmental-notices/",
-    "notes": "Indiana county income tax — withhold the resident's county rate; for employees who reside out of Indiana, withhold the work-location county's rate. IN DOR Departmental Notice #1 effective 2026-01-01; county code 82.",
-    "as_of": "2026-01-01",
+    "notes": "Indiana county income tax — withhold the resident's county rate; for employees who reside out of Indiana, withhold the work-location county's rate. IN DOR Departmental Notice #1 effective 2026-10-01; county code 82.",
+    "as_of": "2026-10-01",
     "source": "in_dor_dn01"
   },
   {
@@ -1171,8 +1171,8 @@
     "non_resident_rate": 0.015,
     "courtesy_withholding": false,
     "citation_url": "https://www.in.gov/dor/tax-forms/departmental-notices/",
-    "notes": "Indiana county income tax — withhold the resident's county rate; for employees who reside out of Indiana, withhold the work-location county's rate. IN DOR Departmental Notice #1 effective 2026-01-01; county code 83.",
-    "as_of": "2026-01-01",
+    "notes": "Indiana county income tax — withhold the resident's county rate; for employees who reside out of Indiana, withhold the work-location county's rate. IN DOR Departmental Notice #1 effective 2026-10-01; county code 83.",
+    "as_of": "2026-10-01",
     "source": "in_dor_dn01"
   },
   {
@@ -1185,8 +1185,8 @@
     "non_resident_rate": 0.02,
     "courtesy_withholding": false,
     "citation_url": "https://www.in.gov/dor/tax-forms/departmental-notices/",
-    "notes": "Indiana county income tax — withhold the resident's county rate; for employees who reside out of Indiana, withhold the work-location county's rate. IN DOR Departmental Notice #1 effective 2026-01-01; county code 84.",
-    "as_of": "2026-01-01",
+    "notes": "Indiana county income tax — withhold the resident's county rate; for employees who reside out of Indiana, withhold the work-location county's rate. IN DOR Departmental Notice #1 effective 2026-10-01; county code 84.",
+    "as_of": "2026-10-01",
     "source": "in_dor_dn01"
   },
   {
@@ -1199,8 +1199,8 @@
     "non_resident_rate": 0.029,
     "courtesy_withholding": false,
     "citation_url": "https://www.in.gov/dor/tax-forms/departmental-notices/",
-    "notes": "Indiana county income tax — withhold the resident's county rate; for employees who reside out of Indiana, withhold the work-location county's rate. IN DOR Departmental Notice #1 effective 2026-01-01; county code 85.",
-    "as_of": "2026-01-01",
+    "notes": "Indiana county income tax — withhold the resident's county rate; for employees who reside out of Indiana, withhold the work-location county's rate. IN DOR Departmental Notice #1 effective 2026-10-01; county code 85.",
+    "as_of": "2026-10-01",
     "source": "in_dor_dn01"
   },
   {
@@ -1213,8 +1213,8 @@
     "non_resident_rate": 0.0212,
     "courtesy_withholding": false,
     "citation_url": "https://www.in.gov/dor/tax-forms/departmental-notices/",
-    "notes": "Indiana county income tax — withhold the resident's county rate; for employees who reside out of Indiana, withhold the work-location county's rate. IN DOR Departmental Notice #1 effective 2026-01-01; county code 86.",
-    "as_of": "2026-01-01",
+    "notes": "Indiana county income tax — withhold the resident's county rate; for employees who reside out of Indiana, withhold the work-location county's rate. IN DOR Departmental Notice #1 effective 2026-10-01; county code 86.",
+    "as_of": "2026-10-01",
     "source": "in_dor_dn01"
   },
   {
@@ -1227,8 +1227,8 @@
     "non_resident_rate": 0.01,
     "courtesy_withholding": false,
     "citation_url": "https://www.in.gov/dor/tax-forms/departmental-notices/",
-    "notes": "Indiana county income tax — withhold the resident's county rate; for employees who reside out of Indiana, withhold the work-location county's rate. IN DOR Departmental Notice #1 effective 2026-01-01; county code 87.",
-    "as_of": "2026-01-01",
+    "notes": "Indiana county income tax — withhold the resident's county rate; for employees who reside out of Indiana, withhold the work-location county's rate. IN DOR Departmental Notice #1 effective 2026-10-01; county code 87.",
+    "as_of": "2026-10-01",
     "source": "in_dor_dn01"
   },
   {
@@ -1241,8 +1241,8 @@
     "non_resident_rate": 0.02,
     "courtesy_withholding": false,
     "citation_url": "https://www.in.gov/dor/tax-forms/departmental-notices/",
-    "notes": "Indiana county income tax — withhold the resident's county rate; for employees who reside out of Indiana, withhold the work-location county's rate. IN DOR Departmental Notice #1 effective 2026-01-01; county code 88.",
-    "as_of": "2026-01-01",
+    "notes": "Indiana county income tax — withhold the resident's county rate; for employees who reside out of Indiana, withhold the work-location county's rate. IN DOR Departmental Notice #1 effective 2026-10-01; county code 88.",
+    "as_of": "2026-10-01",
     "source": "in_dor_dn01"
   },
   {
@@ -1255,8 +1255,8 @@
     "non_resident_rate": 0.0125,
     "courtesy_withholding": false,
     "citation_url": "https://www.in.gov/dor/tax-forms/departmental-notices/",
-    "notes": "Indiana county income tax — withhold the resident's county rate; for employees who reside out of Indiana, withhold the work-location county's rate. IN DOR Departmental Notice #1 effective 2026-01-01; county code 89.",
-    "as_of": "2026-01-01",
+    "notes": "Indiana county income tax — withhold the resident's county rate; for employees who reside out of Indiana, withhold the work-location county's rate. IN DOR Departmental Notice #1 effective 2026-10-01; county code 89.",
+    "as_of": "2026-10-01",
     "source": "in_dor_dn01"
   },
   {
@@ -1269,8 +1269,8 @@
     "non_resident_rate": 0.021,
     "courtesy_withholding": false,
     "citation_url": "https://www.in.gov/dor/tax-forms/departmental-notices/",
-    "notes": "Indiana county income tax — withhold the resident's county rate; for employees who reside out of Indiana, withhold the work-location county's rate. IN DOR Departmental Notice #1 effective 2026-01-01; county code 90.",
-    "as_of": "2026-01-01",
+    "notes": "Indiana county income tax — withhold the resident's county rate; for employees who reside out of Indiana, withhold the work-location county's rate. IN DOR Departmental Notice #1 effective 2026-10-01; county code 90.",
+    "as_of": "2026-10-01",
     "source": "in_dor_dn01"
   },
   {
@@ -1283,8 +1283,8 @@
     "non_resident_rate": 0.0232,
     "courtesy_withholding": false,
     "citation_url": "https://www.in.gov/dor/tax-forms/departmental-notices/",
-    "notes": "Indiana county income tax — withhold the resident's county rate; for employees who reside out of Indiana, withhold the work-location county's rate. IN DOR Departmental Notice #1 effective 2026-01-01; county code 91.",
-    "as_of": "2026-01-01",
+    "notes": "Indiana county income tax — withhold the resident's county rate; for employees who reside out of Indiana, withhold the work-location county's rate. IN DOR Departmental Notice #1 effective 2026-10-01; county code 91.",
+    "as_of": "2026-10-01",
     "source": "in_dor_dn01"
   },
   {
@@ -1297,8 +1297,8 @@
     "non_resident_rate": 0.016829,
     "courtesy_withholding": false,
     "citation_url": "https://www.in.gov/dor/tax-forms/departmental-notices/",
-    "notes": "Indiana county income tax — withhold the resident's county rate; for employees who reside out of Indiana, withhold the work-location county's rate. IN DOR Departmental Notice #1 effective 2026-01-01; county code 92.",
-    "as_of": "2026-01-01",
+    "notes": "Indiana county income tax — withhold the resident's county rate; for employees who reside out of Indiana, withhold the work-location county's rate. IN DOR Departmental Notice #1 effective 2026-10-01; county code 92.",
+    "as_of": "2026-10-01",
     "source": "in_dor_dn01"
   },
   {

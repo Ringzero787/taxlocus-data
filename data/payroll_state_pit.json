@@ -56,8 +56,8 @@
     "bracket_summary": null,
     "supplemental_rate": 0.066,
     "citation_url": "https://www.ftb.ca.gov/",
-    "notes": "California 1–12.3% + 1% Mental Health Services surcharge above $1M (top effective 13.3% / 14.4% with 1.1% SDI).",
-    "as_of": "2026-06-15"
+    "notes": "California 1% to 12.3%, plus a 1% Mental Health Services surcharge above $1M (top 13.3%). State Disability Insurance (SDI) is a separate employee contribution, not included here: 1.2% in 2025 and 1.3% in 2026, on all wages with no wage cap since 2024 (EDD).",
+    "as_of": "2026-09-27"
   },
   {
     "year": 2026,
@@ -668,8 +668,8 @@
     "bracket_summary": null,
     "supplemental_rate": 0.066,
     "citation_url": "https://www.ftb.ca.gov/",
-    "notes": "California 1–12.3% + 1% Mental Health Services surcharge above $1M (top effective 13.3% / 14.4% with 1.1% SDI).",
-    "as_of": "2026-06-15"
+    "notes": "California 1% to 12.3%, plus a 1% Mental Health Services surcharge above $1M (top 13.3%). State Disability Insurance (SDI) is a separate employee contribution, not included here: 1.2% in 2025 and 1.3% in 2026, on all wages with no wage cap since 2024 (EDD).",
+    "as_of": "2026-09-27"
   },
   {
     "year": 2025,

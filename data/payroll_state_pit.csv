@@ -3,7 +3,7 @@ year,state,tax_type,flat_rate,top_marginal,bracket_summary,supplemental_rate,cit
 2026,AL,progressive,,0.05,,0.05,https://www.revenue.alabama.gov/,Alabama 2/4/5% brackets (top 5%).,2026-06-15
 2026,AR,progressive,,0.037,,,https://www.arkansashouse.org/news/post/35262/tax-cuts-passed-in-special-session/,"Arkansas top marginal 3.7% for tax year 2026 (May 2026 special session, effective January 1, 2026; 3.9% in 2024–2025). Bracket thresholds and revised withholding tables not verified.",2026-09-21
 2026,AZ,flat,0.025,,,0.025,https://azdor.gov/,Arizona flat 2.5% since 2023.,2026-06-15
-2026,CA,progressive,,0.133,,0.066,https://www.ftb.ca.gov/,California 1–12.3% + 1% Mental Health Services surcharge above $1M (top effective 13.3% / 14.4% with 1.1% SDI).,2026-06-15
+2026,CA,progressive,,0.133,,0.066,https://www.ftb.ca.gov/,"California 1% to 12.3%, plus a 1% Mental Health Services surcharge above $1M (top 13.3%). State Disability Insurance (SDI) is a separate employee contribution, not included here: 1.2% in 2025 and 1.3% in 2026, on all wages with no wage cap since 2024 (EDD).",2026-09-27
 2026,CO,flat,0.044,,,0.044,https://tax.colorado.gov/,Colorado flat 4.40% (Prop 121 reduction).,2026-06-15
 2026,CT,progressive,,0.0699,,0.0699,https://portal.ct.gov/drs,Connecticut top marginal 6.99%.,2026-06-15
 2026,DC,progressive,,0.1075,,0.1075,https://otr.cfo.dc.gov/,District of Columbia top marginal 10.75%.,2026-06-15
@@ -54,7 +54,7 @@ year,state,tax_type,flat_rate,top_marginal,bracket_summary,supplemental_rate,cit
 2025,AL,progressive,,0.05,,0.05,https://www.revenue.alabama.gov/,Alabama 2/4/5% brackets (top 5%).,2026-06-15
 2025,AR,progressive,,0.039,,0.039,https://www.dfa.arkansas.gov/,Arkansas top marginal 3.9% in 2025 (reduced from 4.4%).,2026-06-15
 2025,AZ,flat,0.025,,,0.025,https://azdor.gov/,Arizona flat 2.5% since 2023.,2026-06-15
-2025,CA,progressive,,0.133,,0.066,https://www.ftb.ca.gov/,California 1–12.3% + 1% Mental Health Services surcharge above $1M (top effective 13.3% / 14.4% with 1.1% SDI).,2026-06-15
+2025,CA,progressive,,0.133,,0.066,https://www.ftb.ca.gov/,"California 1% to 12.3%, plus a 1% Mental Health Services surcharge above $1M (top 13.3%). State Disability Insurance (SDI) is a separate employee contribution, not included here: 1.2% in 2025 and 1.3% in 2026, on all wages with no wage cap since 2024 (EDD).",2026-09-27
 2025,CO,flat,0.044,,,0.044,https://tax.colorado.gov/,Colorado flat 4.40% (Prop 121 reduction).,2026-06-15
 2025,CT,progressive,,0.0699,,0.0699,https://portal.ct.gov/drs,Connecticut top marginal 6.99%.,2026-06-15
 2025,DC,progressive,,0.1075,,0.1075,https://otr.cfo.dc.gov/,District of Columbia top marginal 10.75%.,2026-06-15

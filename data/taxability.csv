@@ -1,4 +1,7 @@
 state,category,category_description,taxable,treatment,conditions,effective_date,source_url,retrieved_at
+AK,goods.electronics,,True,taxable,"{""note"": ""No state sales tax. Taxable at the borough and city rate where the buyer takes delivery. Many Alaska jurisdictions tax only the first part of a single sale (for example Juneau $15,000, Kenai Peninsula Borough $500); caps are not applied here."", ""local_only"": true}",2020-01-06,https://arsstc.org/wp-content/uploads/2024/09/Uniform-Code_2024-revisions_final_070824.pdf,2026-09-28
+AK,goods.furniture,,True,taxable,"{""note"": ""No state sales tax. Taxable at the borough and city rate where the buyer takes delivery. Many Alaska jurisdictions tax only the first part of a single sale (for example Juneau $15,000, Kenai Peninsula Borough $500); caps are not applied here."", ""local_only"": true}",2020-01-06,https://arsstc.org/wp-content/uploads/2024/09/Uniform-Code_2024-revisions_final_070824.pdf,2026-09-28
+AK,goods.general,,True,taxable,"{""note"": ""No state sales tax. Taxable at the borough and city rate where the buyer takes delivery. Many Alaska jurisdictions tax only the first part of a single sale (for example Juneau $15,000, Kenai Peninsula Borough $500); caps are not applied here."", ""local_only"": true}",2020-01-06,https://arsstc.org/wp-content/uploads/2024/09/Uniform-Code_2024-revisions_final_070824.pdf,2026-09-28
 AL,clothing.accessories,"Handbags, belts, jewelry, watches.",True,taxable,{},2026-05-21,https://www.revenue.alabama.gov/sales-use/,2026-05-21
 AL,clothing.athletic,Sports and performance apparel; team uniforms; non-protective athletic gear.,True,conditional,"{""tax_holiday"": {""scope"": ""full"", ""windows"": [{""end"": ""2026-07-19"", ""start"": ""2026-07-17""}], ""price_cap_cents"": 15600}}",2026-05-21,https://www.revenue.alabama.gov/sales-use/sales-tax-holidays/,2026-05-22
 AL,clothing.formal,"Suits, gowns, ties, dress shirts not for everyday wear.",True,conditional,"{""tax_holiday"": {""scope"": ""full"", ""windows"": [{""end"": ""2026-07-19"", ""start"": ""2026-07-17""}], ""price_cap_cents"": 15600}}",2026-05-21,https://www.revenue.alabama.gov/sales-use/sales-tax-holidays/,2026-05-22
@@ -40,7 +43,7 @@ AL,services.repair,,True,taxable,{},2024-01-01,,2026-05-18
 AL,services.web_hosting,,False,exempt,{},2024-01-01,,2026-05-18
 AL,software.custom,,False,exempt,{},2024-01-01,,2026-05-18
 AL,software.prewritten,,True,taxable,{},2024-01-01,,2026-05-18
-AL,software.saas,,False,exempt,{},2024-01-01,,2026-05-18
+AL,software.saas,,False,needs_research,"{""note"": ""Alabama taxes computer software regardless of form of transmission (r. 810-6-1-.37), but ALDOR has issued no published guidance on remotely accessed software (SaaS). Unresolved; TaxLocus does not apply tax.""}",2024-01-01,https://admincode.legislature.state.al.us/api/rule/810-6-1-.37,2026-09-28
 AR,clothing.accessories,"Handbags, belts, jewelry, watches.",True,taxable,{},2026-05-21,https://www.dfa.arkansas.gov/excise-tax/sales-and-use-tax/,2026-05-21
 AR,clothing.athletic,Sports and performance apparel; team uniforms; non-protective athletic gear.,True,conditional,"{""tax_holiday"": {""scope"": ""full"", ""windows"": [{""end"": ""2026-08-02"", ""start"": ""2026-08-01""}], ""price_cap_cents"": 10000}}",2026-05-21,https://www.dfa.arkansas.gov/excise-tax/sales-and-use-tax/sales-tax-holiday/,2026-05-21
 AR,clothing.formal,"Suits, gowns, ties, dress shirts not for everyday wear.",True,conditional,"{""tax_holiday"": {""scope"": ""full"", ""windows"": [{""end"": ""2026-08-02"", ""start"": ""2026-08-01""}], ""price_cap_cents"": 10000}}",2026-05-21,https://www.dfa.arkansas.gov/excise-tax/sales-and-use-tax/sales-tax-holiday/,2026-05-21
@@ -57,7 +60,7 @@ AR,food.bottled_water,"Plain, still, unsweetened, unflavored bottled drinking wa
 AR,food.candy,,True,taxable,{},2024-01-01,,2026-05-18
 AR,food.candy_soda,"Candy, soda, sweetened beverages (often taxed where groceries aren't).",True,taxable,"{""note"": ""Candy and soft drinks excluded from the reduced food rate (full state + local).""}",2026-05-21,https://www.dfa.arkansas.gov/excise-tax/sales-and-use-tax/,2026-05-21
 AR,food.dietary_supplements,,True,taxable,{},2024-01-01,,2026-05-18
-AR,food.grocery,Unprepared groceries; staples; produce; meat; dairy.,True,reduced_rate,"{""note"": ""Food and food ingredients at the reduced 0.125% state rate (Ark. Code 26-52-317) plus local."", ""reduced_rate"": 0.00125}",2026-05-21,https://www.dfa.arkansas.gov/excise-tax/sales-and-use-tax/,2026-05-21
+AR,food.grocery,Unprepared groceries; staples; produce; meat; dairy.,True,conditional,"{""note"": ""The state sales tax on food and food ingredients was repealed from 2026-01-01 (Act 1008 of 2025). City and county sales taxes still apply at their full rates. Candy and soft drinks are not food and food ingredients in Arkansas and stay taxable at 6.5% plus local."", ""state_exempt"": true, ""local_taxable"": true}",2026-01-01,https://www.dfa.arkansas.gov/wp-content/uploads/Whatsnew2025.pdf,2026-09-28
 AR,food.prepared,"Restaurant meals, takeout, food sold for immediate consumption.",True,taxable,{},2026-05-21,https://www.dfa.arkansas.gov/excise-tax/sales-and-use-tax/,2026-05-21
 AR,food.soft_drinks,,True,taxable,{},2024-01-01,,2026-05-18
 AR,goods.electronics,,True,taxable,{},2024-01-01,,2026-05-18
@@ -97,12 +100,12 @@ AZ,digital_products.music,,True,taxable,{},2024-01-01,,2026-05-18
 AZ,digital_products.streaming,,True,taxable,{},2024-01-01,,2026-05-18
 AZ,digital_products.video,,True,taxable,{},2024-01-01,,2026-05-18
 AZ,food.bottled_water,"Plain, still, unsweetened, unflavored bottled drinking water (spring, mineral, distilled, or purified) sold in a sealed retail container. Excludes flavored, sweetened, or carbonated water, which is taxed as a soft drink under food.candy_soda.",False,exempt,"{""note"": ""State TPT exempts food for home consumption incl. bottled water; individual cities may separately elect to tax food under the Model City Tax Code."", ""local_may_tax"": true}",2026-08-05,https://azdor.gov/model-city-tax-code/articles-and-sections/retail-sales-food-home-consumption,2026-08-05
-AZ,food.candy,,False,exempt,{},2024-01-01,,2026-05-18
+AZ,food.candy,,True,conditional,"{""note"": ""Candy is exempt food for home consumption under state TPT. Cities may tax food for home consumption, uniformly for all food; county taxes follow the state exemption. TaxLocus applies the local rate, which overstates in cities that do not tax food."", ""state_exempt"": true, ""local_taxable"": true}",2024-01-01,https://www.azleg.gov/ars/42/05106.htm,2026-09-28
 AZ,food.candy_soda,"Candy, soda, sweetened beverages (often taxed where groceries aren't).",True,conditional,"{""note"": ""Candy and soft drinks fall within AZ's food-for-home-consumption definition; locals may tax."", ""state_exempt"": true, ""local_taxable"": true}",2026-05-21,https://www.azleg.gov/ars/42/05102.htm,2026-05-21
 AZ,food.dietary_supplements,,True,taxable,{},2024-01-01,,2026-05-18
 AZ,food.grocery,Unprepared groceries; staples; produce; meat; dairy.,True,conditional,"{""note"": ""Food for home consumption exempt from state TPT (A.R.S. §42-5102); many cities still tax it at the local layer."", ""state_exempt"": true, ""local_taxable"": true}",2026-05-21,https://www.azleg.gov/ars/42/05102.htm,2026-05-21
 AZ,food.prepared,"Restaurant meals, takeout, food sold for immediate consumption.",True,taxable,{},2026-05-21,https://www.azleg.gov/ars/42/05102.htm,2026-05-21
-AZ,food.soft_drinks,,False,exempt,{},2024-01-01,,2026-05-18
+AZ,food.soft_drinks,,True,conditional,"{""note"": ""Sealed soft drinks for home consumption are deemed food (A.R.S. 42-5106(D)), exempt from state TPT. Cities may tax food uniformly; TaxLocus applies the local rate, which overstates in cities that do not tax food."", ""state_exempt"": true, ""local_taxable"": true}",2024-01-01,https://www.azleg.gov/ars/42/05106.htm,2026-09-28
 AZ,goods.electronics,,True,taxable,{},2024-01-01,,2026-05-18
 AZ,goods.furniture,,True,taxable,{},2024-01-01,,2026-05-18
 AZ,goods.general,,True,taxable,{},2024-01-01,,2026-05-18
@@ -140,12 +143,12 @@ CA,digital_products.music,,False,exempt,{},2024-01-01,,2026-05-18
 CA,digital_products.streaming,,False,exempt,{},2024-01-01,,2026-05-18
 CA,digital_products.video,,False,exempt,{},2024-01-01,,2026-05-18
 CA,food.bottled_water,"Plain, still, unsweetened, unflavored bottled drinking water (spring, mineral, distilled, or purified) sold in a sealed retail container. Excludes flavored, sweetened, or carbonated water, which is taxed as a soft drink under food.candy_soda.",False,exempt,"{""note"": ""Applies to noncarbonated, noneffervescent bottled water regardless of container size or delivery method; carbonated/effervescent water is taxable.""}",2026-08-05,https://www.law.cornell.edu/regulations/california/18-CCR-1602,2026-08-05
-CA,food.candy,,False,exempt,{},2024-01-01,,2026-05-18
+CA,food.candy,,False,exempt,"{""note"": ""Candy, confectionery and chewing gum are food products (Reg. 1602), exempt when not sold as a meal or hot prepared food.""}",2024-01-01,https://www.cdtfa.ca.gov/lawguides/vol1/sutr/1602.html,2026-09-28
 CA,food.candy_soda,"Candy, soda, sweetened beverages (often taxed where groceries aren't).",True,conditional,"{""note"": ""CA treats most candy as food (exempt for off-premises); carbonated/sweetened soft drinks are taxable."", ""candy_treated_as_food"": true, ""carbonated_soda_taxable"": true}",2026-05-20,https://www.cdtfa.ca.gov/formspubs/pub22/,2026-05-20
 CA,food.dietary_supplements,,True,taxable,{},2024-01-01,,2026-05-18
 CA,food.grocery,Unprepared groceries; staples; produce; meat; dairy.,False,exempt,"{""note"": ""CA exempts food for human consumption sold for off-premises consumption; hot prepared foods, carbonated drinks, and alcoholic beverages remain taxable."", ""hot_prepared_taxable"": true, ""carbonated_beverages_taxable"": true}",2026-05-20,https://www.cdtfa.ca.gov/formspubs/pub22/,2026-05-20
 CA,food.prepared,"Restaurant meals, takeout, food sold for immediate consumption.",True,taxable,"{""note"": ""Hot prepared food, restaurant meals, takeout-for-immediate-consumption all taxable.""}",2026-05-20,https://www.cdtfa.ca.gov/formspubs/pub22/,2026-05-20
-CA,food.soft_drinks,,True,taxable,{},2024-01-01,,2026-05-18
+CA,food.soft_drinks,,True,conditional,"{""note"": ""Carbonated soft drinks are taxable (Reg. 1602). Noncarbonated sweetened drinks are exempt food products; TaxLocus applies the carbonated (taxable) treatment."", ""carbonated_beverages_taxable"": true}",2024-01-01,https://www.cdtfa.ca.gov/lawguides/vol1/sutr/1602.html,2026-09-28
 CA,goods.electronics,,True,taxable,{},2024-01-01,,2026-05-18
 CA,goods.furniture,,True,taxable,{},2024-01-01,,2026-05-18
 CA,goods.general,,True,taxable,{},2024-01-01,,2026-05-18
@@ -183,12 +186,12 @@ CO,digital_products.music,,True,taxable,{},2024-01-01,,2026-05-18
 CO,digital_products.streaming,,True,taxable,{},2024-01-01,,2026-05-18
 CO,digital_products.video,,True,taxable,{},2024-01-01,,2026-05-18
 CO,food.bottled_water,"Plain, still, unsweetened, unflavored bottled drinking water (spring, mineral, distilled, or purified) sold in a sealed retail container. Excludes flavored, sweetened, or carbonated water, which is taxed as a soft drink under food.candy_soda.",False,exempt,"{""note"": ""Carbonated water is excluded from the exemption; bottled water/coffee service supplied by a business to employees or customers is a taxable business supply, not home consumption.""}",2026-08-05,https://regulations.justia.com/states/colorado/200/201/rule-1-ccr-201-4/rule-39-26-102-4-5/,2026-08-05
-CO,food.candy,,True,taxable,{},2024-01-01,,2026-05-18
+CO,food.candy,,True,taxable,"{""note"": ""Candy is excluded from the state food exemption (C.R.S. 39-26-707(1.5)(a)) and is taxed at 2.9% plus special district taxes. A state-collected city or county that exempts food also exempts candy; home-rule cities set their own rules. TaxLocus applies the full rate.""}",2024-01-01,https://tax.colorado.gov/sites/tax/files/PLR%2019-003.pdf,2026-09-28
 CO,food.candy_soda,"Candy, soda, sweetened beverages (often taxed where groceries aren't).",True,conditional,"{""note"": ""Candy and soft drinks are SNAP-eligible and within CO's state food exemption; home-rule cities may tax."", ""state_exempt"": true, ""local_taxable"": true}",2026-05-21,https://tax.colorado.gov/sales-tax-exemptions,2026-05-21
 CO,food.dietary_supplements,,True,taxable,{},2024-01-01,,2026-05-18
 CO,food.grocery,Unprepared groceries; staples; produce; meat; dairy.,True,conditional,"{""note"": ""Food for domestic home consumption exempt from the 2.9% state tax (C.R.S. 39-26-707); many home-rule cities tax it."", ""state_exempt"": true, ""local_taxable"": true}",2026-05-21,https://tax.colorado.gov/sales-tax-exemptions,2026-05-21
 CO,food.prepared,"Restaurant meals, takeout, food sold for immediate consumption.",True,taxable,{},2026-05-21,https://tax.colorado.gov/sales-tax-exemptions,2026-05-21
-CO,food.soft_drinks,,True,taxable,{},2024-01-01,,2026-05-18
+CO,food.soft_drinks,,True,taxable,"{""note"": ""Soft drinks are excluded from the state food exemption (C.R.S. 39-26-707(1.5)(a)); taxed at 2.9% plus special districts. Cities and counties that exempt food may also exempt soft drinks; TaxLocus applies the full rate.""}",2024-01-01,https://tax.colorado.gov/sites/tax/files/PLR%2019-003.pdf,2026-09-28
 CO,goods.electronics,,True,taxable,{},2024-01-01,,2026-05-18
 CO,goods.furniture,,True,taxable,{},2024-01-01,,2026-05-18
 CO,goods.general,,True,taxable,{},2024-01-01,,2026-05-18
@@ -226,12 +229,12 @@ CT,digital_products.music,,True,taxable,{},2024-01-01,,2026-05-18
 CT,digital_products.streaming,,True,taxable,{},2024-01-01,,2026-05-18
 CT,digital_products.video,,True,taxable,{},2024-01-01,,2026-05-18
 CT,food.bottled_water,"Plain, still, unsweetened, unflavored bottled drinking water (spring, mineral, distilled, or purified) sold in a sealed retail container. Excludes flavored, sweetened, or carbonated water, which is taxed as a soft drink under food.candy_soda.",False,exempt,"{""note"": ""Carbonated water is the specific taxable exclusion from the food-products exemption; plain, non-carbonated water is not among the enumerated taxable exclusions.""}",2026-08-05,https://www.law.cornell.edu/regulations/connecticut/Regs-Conn-State-Agencies-SS-12-426-29,2026-08-05
-CT,food.candy,,True,taxable,{},2024-01-01,,2026-05-18
+CT,food.candy,,True,taxable,"{""note"": ""Candy and confectionery are not exempt food products (12-412(13)); taxed at 6.35%.""}",2024-01-01,https://www.cga.ct.gov/current/pub/chap_219.htm,2026-09-28
 CT,food.candy_soda,"Candy, soda, sweetened beverages (often taxed where groceries aren't).",False,needs_research,"{""note"": ""Connecticut's treatment of candy and soft drinks under the grocery food exemption needs authoritative confirmation.""}",2026-05-21,https://www.cga.ct.gov/current/pub/chap_219.htm,2026-05-21
 CT,food.dietary_supplements,,False,exempt,{},2024-01-01,,2026-05-18
 CT,food.grocery,Unprepared groceries; staples; produce; meat; dairy.,False,exempt,"{""note"": ""Food products for human consumption exempt; meals taxable at 7.35%.""}",2026-05-21,https://www.cga.ct.gov/current/pub/chap_219.htm,2026-05-21
 CT,food.prepared,"Restaurant meals, takeout, food sold for immediate consumption.",True,taxable,"{""note"": ""Meals taxed at the 7.35% meals rate.""}",2026-05-21,https://portal.ct.gov/DRS/Sales-Tax/Sales-Tax,2026-05-21
-CT,food.soft_drinks,,True,taxable,{},2024-01-01,,2026-05-18
+CT,food.soft_drinks,,True,reduced_rate,"{""note"": ""Soft drinks and sodas are taxed at an effective 7.35% (6.35% plus the 1% meals and beverages rate), including at grocery stores, since 2019-10-01 (PS 2019(5)). The rate here is that total, which is higher than the general rate."", ""reduced_rate"": 0.0735}",2024-01-01,https://portal.ct.gov/-/media/drs/publications/pubsps/2019/ps-2019(5).pdf,2026-09-28
 CT,goods.electronics,,True,taxable,{},2024-01-01,,2026-05-18
 CT,goods.furniture,,True,taxable,{},2024-01-01,,2026-05-18
 CT,goods.general,,True,taxable,{},2024-01-01,,2026-05-18
@@ -248,14 +251,14 @@ CT,publications.magazines,,True,taxable,{},2024-01-01,,2026-05-18
 CT,publications.newspapers,,False,exempt,{},2024-01-01,,2026-05-18
 CT,publications.textbooks,"Required course and college textbooks, printed or digital, as distinct from general trade books. Many states exempt these only when sold by a school or to an enrolled student.",True,conditional,"{""note"": ""Exempt when sold to an enrolled higher-ed student presenting a valid student ID."", ""exempt_if"": ""enrolled_student_with_id""}",2026-08-05,https://portal.ct.gov/DRS,2026-08-05
 CT,services.ai_api,,True,taxable,{},2024-01-01,,2026-05-18
-CT,services.data_processing,,True,taxable,{},2024-01-01,,2026-05-18
+CT,services.data_processing,,True,reduced_rate,"{""note"": ""Computer and data processing services are taxed at 1% for any buyer (Conn. Gen. Stat. 12-408(1)(D)). Digital goods are 6.35%."", ""reduced_rate"": 0.01}",2024-01-01,https://portal.ct.gov/-/media/DRS/Publications/pubsps/2006/PS068pdf.pdf,2026-09-28
 CT,services.personal_care,,True,taxable,{},2024-01-01,,2026-05-18
 CT,services.professional,,False,exempt,{},2024-01-01,,2026-05-18
 CT,services.repair,,True,taxable,{},2024-01-01,,2026-05-18
-CT,services.web_hosting,,True,taxable,{},2024-01-01,,2026-05-18
-CT,software.custom,,True,taxable,{},2024-01-01,,2026-05-18
+CT,services.web_hosting,,True,reduced_rate,"{""note"": ""Website hosting is a computer and data processing service taxed at 1% since 2015-10-01 (SN 2015(5)). Internet access is exempt."", ""reduced_rate"": 0.01}",2024-01-01,https://portal.ct.gov/-/media/drs/publications/pubssn/2015/sn20155pdf.pdf,2026-09-28
+CT,software.custom,,True,reduced_rate,"{""note"": ""Designing, creating or modifying custom software is a computer and data processing service taxed at 1% (Conn. Gen. Stat. 12-408(1)(D); PS 2006(8)). Separately stated license fees for mere use of custom software are not taxed."", ""reduced_rate"": 0.01}",2024-01-01,https://portal.ct.gov/-/media/DRS/Publications/pubsps/2006/PS068pdf.pdf,2026-09-28
 CT,software.prewritten,,True,taxable,{},2024-01-01,,2026-05-18
-CT,software.saas,,True,taxable,{},2024-01-01,,2026-05-18
+CT,software.saas,,True,conditional,"{""note"": ""Electronically accessed canned software (SaaS) sold to a business for use by the business is taxed at 1% as a computer and data processing service; sold for personal use it is taxed at 6.35% (SN 2019(8)). The seller should keep the buyer's business name, address and a statement that it is a business."", ""b2b_rate"": 0.01}",2024-01-01,https://portal.ct.gov/-/media/drs/publications/pubssn/2019/sn-2019(8).pdf,2026-09-28
 DC,clothing.accessories,"Handbags, belts, jewelry, watches.",True,taxable,{},2026-05-21,https://otr.cfo.dc.gov/page/sales-and-use-taxes,2026-05-21
 DC,clothing.athletic,Sports and performance apparel; team uniforms; non-protective athletic gear.,True,taxable,{},2026-05-21,https://otr.cfo.dc.gov/page/sales-and-use-taxes,2026-05-21
 DC,clothing.formal,"Suits, gowns, ties, dress shirts not for everyday wear.",True,taxable,{},2026-05-21,https://otr.cfo.dc.gov/page/sales-and-use-taxes,2026-05-21
@@ -355,12 +358,12 @@ GA,digital_products.music,,True,taxable,{},2024-01-01,,2026-05-18
 GA,digital_products.streaming,,True,taxable,{},2024-01-01,,2026-05-18
 GA,digital_products.video,,True,taxable,{},2024-01-01,,2026-05-18
 GA,food.bottled_water,"Plain, still, unsweetened, unflavored bottled drinking water (spring, mineral, distilled, or purified) sold in a sealed retail container. Excludes flavored, sweetened, or carbonated water, which is taxed as a soft drink under food.candy_soda.",False,exempt,"{""note"": ""Calorie-free, additive-free bottled water is exempt at the state level; local sales tax still applies; bottled water given away free by a business to employees/customers is taxable at state and local level."", ""local_may_tax"": true}",2026-08-05,https://www.law.cornell.edu/regulations/georgia/Ga-Comp-R-Regs-R-560-12-2-.104,2026-08-05
-GA,food.candy,,False,exempt,{},2024-01-01,,2026-05-18
+GA,food.candy,,True,conditional,"{""note"": ""Candy is food exempt from the 4% state tax; local taxes apply (Rule 560-12-2-.104)."", ""state_exempt"": true, ""local_taxable"": true}",2024-01-01,https://rules.sos.ga.gov/gac/560-12-2-.104,2026-09-28
 GA,food.candy_soda,"Candy, soda, sweetened beverages (often taxed where groceries aren't).",True,taxable,"{""note"": ""Candy and soft drinks are not within the grocery exemption — taxable at full state+local rate.""}",2026-05-20,https://dor.georgia.gov/sales-tax-rates-energy-sold-manufacturers,2026-05-20
 GA,food.dietary_supplements,,True,taxable,{},2024-01-01,,2026-05-18
 GA,food.grocery,Unprepared groceries; staples; produce; meat; dairy.,True,conditional,"{""note"": ""GA exempts groceries from the 4% state sales tax (§ 48-8-3(57)) but local jurisdictions may still tax them."", ""state_exempt"": true, ""local_taxable"": true}",2026-05-20,https://dor.georgia.gov/sales-tax-rates-energy-sold-manufacturers,2026-05-20
 GA,food.prepared,"Restaurant meals, takeout, food sold for immediate consumption.",True,taxable,{},2026-05-20,https://dor.georgia.gov/sales-tax-rates-energy-sold-manufacturers,2026-05-20
-GA,food.soft_drinks,,False,exempt,{},2024-01-01,,2026-05-18
+GA,food.soft_drinks,,True,conditional,"{""note"": ""Packaged beverages are food exempt from the 4% state tax; local taxes apply (Rule 560-12-2-.104)."", ""state_exempt"": true, ""local_taxable"": true}",2024-01-01,https://rules.sos.ga.gov/gac/560-12-2-.104,2026-09-28
 GA,goods.electronics,,True,taxable,{},2024-01-01,,2026-05-18
 GA,goods.furniture,,True,taxable,{},2024-01-01,,2026-05-18
 GA,goods.general,,True,taxable,{},2024-01-01,,2026-05-18
@@ -470,7 +473,7 @@ IA,services.repair,,True,taxable,{},2024-01-01,,2026-05-18
 IA,services.web_hosting,,False,exempt,{},2024-01-01,,2026-05-18
 IA,software.custom,,False,exempt,{},2024-01-01,,2026-05-18
 IA,software.prewritten,,True,taxable,{},2024-01-01,,2026-05-18
-IA,software.saas,,False,exempt,{},2024-01-01,,2026-05-18
+IA,software.saas,,True,conditional,"{""note"": ""SaaS is taxable (Iowa Code 423.2(6)(bu)), except when sold to a commercial enterprise for its exclusive use (423.3(104)). TaxLocus treats a B2B buyer as a commercial enterprise; nonprofits other than insurers and financial institutions do not qualify."", ""b2b_exempt"": true}",2024-01-01,https://www.legis.iowa.gov/docs/code/423.3.pdf,2026-09-28
 ID,clothing.accessories,"Handbags, belts, jewelry, watches.",True,taxable,{},2026-05-21,https://tax.idaho.gov/taxes/sales-use/,2026-05-21
 ID,clothing.athletic,Sports and performance apparel; team uniforms; non-protective athletic gear.,True,taxable,{},2026-05-21,https://tax.idaho.gov/taxes/sales-use/,2026-05-21
 ID,clothing.formal,"Suits, gowns, ties, dress shirts not for everyday wear.",True,taxable,{},2026-05-21,https://tax.idaho.gov/taxes/sales-use/,2026-05-21
@@ -530,7 +533,7 @@ IL,food.bottled_water,"Plain, still, unsweetened, unflavored bottled drinking wa
 IL,food.candy,,True,taxable,{},2024-01-01,,2026-05-18
 IL,food.candy_soda,"Candy, soda, sweetened beverages (often taxed where groceries aren't).",True,taxable,"{""note"": ""Candy and soft drinks taxed at the full IL rate (not the food rate).""}",2026-05-20,https://tax.illinois.gov/content/dam/soi/en/web/tax/forms/publications/documents/pub-113.pdf,2026-05-20
 IL,food.dietary_supplements,,True,taxable,{},2024-01-01,,2026-05-18
-IL,food.grocery,Unprepared groceries; staples; produce; meat; dairy.,True,reduced_rate,"{""note"": ""IL state grocery tax was 1% through 2025; PA 103-0781 lets local governments levy a 1% local grocery tax effective 2026-01-01. As of 2026 there is no statewide grocery tax."", ""reduced_rate"": 0.01}",2026-05-20,https://www.ilga.gov/legislation/publicacts/103/103-0781.htm,2026-05-20
+IL,food.grocery,Unprepared groceries; staples; produce; meat; dairy.,True,reduced_rate,"{""note"": ""The State 1% grocery tax ended 2026-01-01. Groceries are now taxed only locally, and the rate depends on location: a 1% local grocery tax where the municipality (or, in unincorporated areas, the county) adopted one (Chicago did not), plus the NITA grocery tax (1.50% Cook, 1.00% collar counties from 2026-08-01) and the Metro East Transit District tax. TaxLocus returns a flat 1% as an approximation; check the IDOR Tax Rate Finder (mytax.illinois.gov) for the exact rate at a location. Candy and soft drinks are not groceries and are taxed at the general rate."", ""per_location"": true, ""reduced_rate"": 0.01}",2026-01-01,https://tax.illinois.gov/research/publications/bulletins/fy-2026-11.html,2026-09-28
 IL,food.prepared,"Restaurant meals, takeout, food sold for immediate consumption.",True,taxable,{},2026-05-20,https://tax.illinois.gov/content/dam/soi/en/web/tax/forms/publications/documents/pub-113.pdf,2026-05-20
 IL,food.soft_drinks,,True,taxable,{},2024-01-01,,2026-05-18
 IL,goods.electronics,,True,taxable,{},2024-01-01,,2026-05-18
@@ -699,12 +702,12 @@ LA,digital_products.music,,True,taxable,{},2024-01-01,,2026-05-18
 LA,digital_products.streaming,,True,taxable,{},2024-01-01,,2026-05-18
 LA,digital_products.video,,True,taxable,{},2024-01-01,,2026-05-18
 LA,food.bottled_water,"Plain, still, unsweetened, unflavored bottled drinking water (spring, mineral, distilled, or purified) sold in a sealed retail container. Excludes flavored, sweetened, or carbonated water, which is taxed as a soft drink under food.candy_soda.",True,taxable,"{""note"": ""Louisiana's sales tax exemption for water explicitly excludes any water sold in bottles, jugs, or containers, so bottled water is taxable even though tap/utility water is exempt.""}",2026-08-05,https://law.justia.com/codes/louisiana/revised-statutes/title-47/rs-47-305/,2026-08-05
-LA,food.candy,,False,exempt,{},2024-01-01,,2026-05-18
+LA,food.candy,,True,conditional,"{""note"": ""Candy is food for home consumption, exempt from the state tax (R.S. 47:305(C)); parish and municipal taxes apply."", ""state_exempt"": true, ""local_taxable"": true}",2024-01-01,https://legis.la.gov/Legis/Law.aspx?d=101873,2026-09-28
 LA,food.candy_soda,"Candy, soda, sweetened beverages (often taxed where groceries aren't).",True,conditional,"{""note"": ""Candy and soft drinks are SNAP-eligible and within the state food exemption; local taxes apply."", ""state_exempt"": true, ""local_taxable"": true}",2026-05-21,https://revenue.louisiana.gov/SalesTax,2026-05-21
 LA,food.dietary_supplements,,True,taxable,{},2024-01-01,,2026-05-18
 LA,food.grocery,Unprepared groceries; staples; produce; meat; dairy.,True,conditional,"{""note"": ""Food for home consumption exempt from the state tax (La. R.S. 47:305(D)); local taxes apply."", ""state_exempt"": true, ""local_taxable"": true}",2026-05-21,https://revenue.louisiana.gov/SalesTax,2026-05-21
 LA,food.prepared,"Restaurant meals, takeout, food sold for immediate consumption.",True,taxable,{},2026-05-21,https://revenue.louisiana.gov/SalesTax,2026-05-21
-LA,food.soft_drinks,,False,exempt,{},2024-01-01,,2026-05-18
+LA,food.soft_drinks,,True,conditional,"{""note"": ""Soft drinks for home consumption are exempt from the state tax (R.S. 47:305(C)(1)(c)); local taxes apply. Drinks sold with a cup or straw are not food for home consumption."", ""state_exempt"": true, ""local_taxable"": true}",2024-01-01,https://legis.la.gov/Legis/Law.aspx?d=101873,2026-09-28
 LA,goods.electronics,,True,taxable,{},2024-01-01,,2026-05-18
 LA,goods.furniture,,True,taxable,{},2024-01-01,,2026-05-18
 LA,goods.general,,True,taxable,{},2024-01-01,,2026-05-18
@@ -785,12 +788,12 @@ MD,digital_products.music,,True,taxable,{},2024-01-01,,2026-05-18
 MD,digital_products.streaming,,True,taxable,{},2024-01-01,,2026-05-18
 MD,digital_products.video,,True,taxable,{},2024-01-01,,2026-05-18
 MD,food.bottled_water,"Plain, still, unsweetened, unflavored bottled drinking water (spring, mineral, distilled, or purified) sold in a sealed retail container. Excludes flavored, sweetened, or carbonated water, which is taxed as a soft drink under food.candy_soda.",True,taxable,"{""note"": ""Applies to all pack sizes per official Comptroller guidance; a secondary blog claims multi-packs are exempt, but that carve-out does not appear in Business Tax Tip #5, COMAR 03.06.01.22, or Tax-General 11-206.""}",2026-08-05,https://www.marylandcomptroller.gov/content/dam/mdcomp/tax/legal-publications/tips/business/bustip5.pdf,2026-08-05
-MD,food.candy,,True,taxable,{},2024-01-01,,2026-05-18
+MD,food.candy,,True,taxable,"{""note"": ""Candy and confectionery are excluded from the food exemption (Tax-Gen. 11-206); taxed at 6%.""}",2024-01-01,https://mgaleg.maryland.gov/mgawebsite/Laws/StatuteText?article=gtg&section=11-206&enactments=false,2026-09-28
 MD,food.candy_soda,"Candy, soda, sweetened beverages (often taxed where groceries aren't).",False,needs_research,"{""note"": ""Maryland's treatment of candy and single-serving soft drinks under the food exemption needs authoritative confirmation.""}",2026-05-21,https://www.marylandtaxes.gov/business/sales-use/tax-information/index.php,2026-05-21
 MD,food.dietary_supplements,,False,exempt,{},2024-01-01,,2026-05-18
 MD,food.grocery,Unprepared groceries; staples; produce; meat; dairy.,False,exempt,"{""note"": ""Grocery food exempt (Md. Tax-Gen. 11-206); prepared and snack food taxable.""}",2026-05-21,https://www.marylandtaxes.gov/business/sales-use/tax-information/index.php,2026-05-21
 MD,food.prepared,"Restaurant meals, takeout, food sold for immediate consumption.",True,taxable,{},2026-05-21,https://www.marylandtaxes.gov/business/sales-use/tax-information/index.php,2026-05-21
-MD,food.soft_drinks,,True,taxable,{},2024-01-01,,2026-05-18
+MD,food.soft_drinks,,True,taxable,"{""note"": ""Soft drinks and carbonated beverages are excluded from the food exemption (Tax-Gen. 11-206); taxed at 6%.""}",2024-01-01,https://mgaleg.maryland.gov/mgawebsite/Laws/StatuteText?article=gtg&section=11-206&enactments=false,2026-09-28
 MD,goods.electronics,,True,taxable,{},2024-01-01,,2026-05-18
 MD,goods.furniture,,True,taxable,{},2024-01-01,,2026-05-18
 MD,goods.general,,True,taxable,{},2024-01-01,,2026-05-18
@@ -807,14 +810,14 @@ MD,publications.magazines,,True,taxable,{},2024-01-01,,2026-05-18
 MD,publications.newspapers,,False,exempt,{},2024-01-01,,2026-05-18
 MD,publications.textbooks,"Required course and college textbooks, printed or digital, as distinct from general trade books. Many states exempt these only when sold by a school or to an enrolled student.",True,taxable,"{""note"": ""Taxable in print or electronic form; a widely-cited student exemption describes a never-enacted 2008 bill.""}",2026-08-05,,2026-05-18
 MD,services.ai_api,,True,taxable,{},2024-01-01,,2026-05-18
-MD,services.data_processing,,False,exempt,{},2024-01-01,,2026-05-18
+MD,services.data_processing,,True,reduced_rate,"{""note"": ""Data processing (NAICS 518) taxed at 3% from 2025-07-01, except payroll services and financial transaction processing (TB 56). No general business-buyer exemption; affiliated-group sales exempt from 2026-07-01."", ""reduced_rate"": 0.03}",2025-07-01,https://www.marylandcomptroller.gov/content/dam/mdcomp/tax/legal-publications/technical-bulletins/tb-56.pdf,2026-09-28
 MD,services.personal_care,,False,exempt,{},2024-01-01,,2026-05-18
 MD,services.professional,,False,exempt,{},2024-01-01,,2026-05-18
 MD,services.repair,,True,taxable,{},2024-01-01,,2026-05-18
-MD,services.web_hosting,,True,taxable,{},2024-01-01,,2026-05-18
-MD,software.custom,,False,exempt,{},2024-01-01,,2026-05-18
+MD,services.web_hosting,,True,reduced_rate,"{""note"": ""Web and application hosting (NAICS 518) taxed at 3% from 2025-07-01 (TB 56). No general business-buyer exemption; affiliated-group sales exempt from 2026-07-01."", ""reduced_rate"": 0.03}",2025-07-01,https://www.marylandcomptroller.gov/content/dam/mdcomp/tax/legal-publications/technical-bulletins/tb-56.pdf,2026-09-28
+MD,software.custom,,True,reduced_rate,"{""note"": ""Custom computer programming (NAICS 541511) taxed at 3% from 2025-07-01; the customized-software exemption was repealed (TB 56 Q7). No general business-buyer exemption; affiliated-group sales exempt from 2026-07-01."", ""reduced_rate"": 0.03}",2025-07-01,https://www.marylandcomptroller.gov/content/dam/mdcomp/tax/legal-publications/technical-bulletins/tb-56.pdf,2026-09-28
 MD,software.prewritten,,True,taxable,{},2024-01-01,,2026-05-18
-MD,software.saas,,True,taxable,{},2024-01-01,,2026-05-18
+MD,software.saas,,True,conditional,"{""note"": ""SaaS bought for use in an enterprise computer system for commercial purposes is taxed at 3% from 2025-07-01; SaaS bought for individual use is a digital product taxed at 6% (TB 56 Q6). Sales between members of an affiliated group are exempt from 2026-07-01 (Chapters 351/352 of 2026)."", ""b2b_rate"": 0.03}",2025-07-01,https://www.marylandcomptroller.gov/content/dam/mdcomp/tax/legal-publications/technical-bulletins/tb-56.pdf,2026-09-28
 ME,clothing.accessories,"Handbags, belts, jewelry, watches.",True,taxable,{},2026-05-21,https://www.maine.gov/revenue/taxes/sales-use-service-provider-tax,2026-05-21
 ME,clothing.athletic,Sports and performance apparel; team uniforms; non-protective athletic gear.,True,taxable,{},2026-05-21,https://www.maine.gov/revenue/taxes/sales-use-service-provider-tax,2026-05-21
 ME,clothing.formal,"Suits, gowns, ties, dress shirts not for everyday wear.",True,taxable,{},2026-05-21,https://www.maine.gov/revenue/taxes/sales-use-service-provider-tax,2026-05-21
@@ -871,12 +874,12 @@ MI,digital_products.music,,False,exempt,{},2024-01-01,,2026-05-18
 MI,digital_products.streaming,,False,exempt,{},2024-01-01,,2026-05-18
 MI,digital_products.video,,False,exempt,{},2024-01-01,,2026-05-18
 MI,food.bottled_water,"Plain, still, unsweetened, unflavored bottled drinking water (spring, mineral, distilled, or purified) sold in a sealed retail container. Excludes flavored, sweetened, or carbonated water, which is taxed as a soft drink under food.candy_soda.",False,exempt,"{""note"": ""No local sales tax in Michigan; SST-aligned statutory definition of bottled water is treated as exempt food regardless of size/brand.""}",2026-08-05,https://www.legislature.mi.gov/Laws/MCL?objectName=mcl-205-54g,2026-08-05
-MI,food.candy,,False,exempt,{},2024-01-01,,2026-05-18
+MI,food.candy,,False,exempt,"{""note"": ""Candy is food and food ingredients, exempt (MCL 205.54g).""}",2024-01-01,https://www.legislature.mi.gov/Laws/MCL?objectName=mcl-205-54g,2026-09-28
 MI,food.candy_soda,"Candy, soda, sweetened beverages (often taxed where groceries aren't).",False,needs_research,"{""note"": ""Michigan's treatment of candy and soft drinks under the MCL 205.54g food exemption (taxed vs treated as exempt food) needs authoritative confirmation.""}",2026-05-21,https://www.legislature.mi.gov/Laws/MCL?objectName=mcl-205-54g,2026-05-21
 MI,food.dietary_supplements,,False,exempt,{},2024-01-01,,2026-05-18
 MI,food.grocery,Unprepared groceries; staples; produce; meat; dairy.,False,exempt,"{""note"": ""Food for human consumption exempt (MCL 205.54g); prepared food taxable.""}",2026-05-21,https://www.legislature.mi.gov/Laws/MCL?objectName=mcl-205-54g,2026-05-21
 MI,food.prepared,"Restaurant meals, takeout, food sold for immediate consumption.",True,taxable,{},2026-05-21,https://www.legislature.mi.gov/Laws/MCL?objectName=mcl-205-54g,2026-05-21
-MI,food.soft_drinks,,False,exempt,{},2024-01-01,,2026-05-18
+MI,food.soft_drinks,,False,exempt,"{""note"": ""Soft drinks are food and food ingredients, exempt (MCL 205.54g).""}",2024-01-01,https://www.legislature.mi.gov/Laws/MCL?objectName=mcl-205-54g,2026-09-28
 MI,goods.electronics,,True,taxable,{},2024-01-01,,2026-05-18
 MI,goods.furniture,,True,taxable,{},2024-01-01,,2026-05-18
 MI,goods.general,,True,taxable,{},2024-01-01,,2026-05-18
@@ -957,12 +960,12 @@ MO,digital_products.music,,False,exempt,{},2024-01-01,,2026-05-18
 MO,digital_products.streaming,,False,exempt,{},2024-01-01,,2026-05-18
 MO,digital_products.video,,False,exempt,{},2024-01-01,,2026-05-18
 MO,food.bottled_water,"Plain, still, unsweetened, unflavored bottled drinking water (spring, mineral, distilled, or purified) sold in a sealed retail container. Excludes flavored, sweetened, or carbonated water, which is taxed as a soft drink under food.candy_soda.",True,reduced_rate,"{""note"": ""A DOR determination found prepackaged, non-carbonated, unflavored bottled water carrying a nutrition-facts label qualifies as SNAP-eligible food for the reduced state rate (down from 4.225%); full local sales tax still applies on top."", ""local_may_tax"": true}",2026-08-05,https://revisor.mo.gov/main/OneSection.aspx?section=144.014,2026-08-05
-MO,food.candy,,True,taxable,{},2024-01-01,,2026-05-18
+MO,food.candy,,True,conditional,"{""note"": ""Candy is SNAP-eligible food, taxed at the reduced 1.225% state rate (RSMo 144.014) plus full local taxes. A USDA SNAP waiver excluding candy starts 2027-02-15; whether it changes the state rate is not settled."", ""reduced_state_rate"": 0.01225}",2024-01-01,https://dor.mo.gov/taxation/business/tax-types/sales-use/reduction-on-food.html,2026-09-28
 MO,food.candy_soda,"Candy, soda, sweetened beverages (often taxed where groceries aren't).",True,reduced_rate,"{""note"": ""MO's reduced food rate uses SNAP eligibility, which includes candy and soft drinks."", ""reduced_rate"": 0.01225}",2026-05-21,https://revisor.mo.gov/main/OneSection.aspx?section=144.014,2026-05-21
 MO,food.dietary_supplements,,True,taxable,{},2024-01-01,,2026-05-18
 MO,food.grocery,Unprepared groceries; staples; produce; meat; dairy.,True,reduced_rate,"{""note"": ""Food at the reduced 1.225% state rate (RSMo 144.014) plus local; general state rate is 4.225%."", ""reduced_rate"": 0.01225}",2026-05-21,https://revisor.mo.gov/main/OneSection.aspx?section=144.014,2026-05-21
 MO,food.prepared,"Restaurant meals, takeout, food sold for immediate consumption.",True,taxable,"{""note"": ""Prepared food taxed at the full state rate.""}",2026-05-21,https://revisor.mo.gov/main/OneSection.aspx?section=144.014,2026-05-21
-MO,food.soft_drinks,,True,taxable,{},2024-01-01,,2026-05-18
+MO,food.soft_drinks,,True,conditional,"{""note"": ""Soft drinks are SNAP-eligible food, taxed at the reduced 1.225% state rate (RSMo 144.014) plus full local taxes. A USDA SNAP waiver excluding certain beverages starts 2027-02-15; whether it changes the state rate is not settled."", ""reduced_state_rate"": 0.01225}",2024-01-01,https://dor.mo.gov/taxation/business/tax-types/sales-use/reduction-on-food.html,2026-09-28
 MO,goods.electronics,,True,taxable,{},2024-01-01,,2026-05-18
 MO,goods.furniture,,True,taxable,{},2024-01-01,,2026-05-18
 MO,goods.general,,True,taxable,{},2024-01-01,,2026-05-18
@@ -1028,7 +1031,7 @@ MS,services.repair,,True,taxable,{},2024-01-01,,2026-05-18
 MS,services.web_hosting,,False,exempt,{},2024-01-01,,2026-05-18
 MS,software.custom,,True,taxable,{},2024-01-01,,2026-05-18
 MS,software.prewritten,,True,taxable,{},2024-01-01,,2026-05-18
-MS,software.saas,,False,exempt,{},2024-01-01,,2026-05-18
+MS,software.saas,,False,conditional,"{""note"": ""Software on a server outside Mississippi and accessed only over the internet is not a taxable retail sale from 2023-07-01 (Miss. Code 27-65-7, SB 2449). SaaS hosted on a Mississippi server is taxable at 7%; TaxLocus assumes out-of-state hosting."", ""hosted_outside_state_exempt"": true}",2024-01-01,https://billstatus.ls.state.ms.us/documents/2023/pdf/SB/2400-2499/SB2449SG.pdf,2026-09-28
 NC,clothing.accessories,"Handbags, belts, jewelry, watches.",True,taxable,{},2026-05-20,https://www.ncdor.gov/taxes-forms/sales-and-use-tax/sales-and-use-tax-bulletins,2026-05-20
 NC,clothing.athletic,Sports and performance apparel; team uniforms; non-protective athletic gear.,True,taxable,{},2026-05-20,https://www.ncdor.gov/taxes-forms/sales-and-use-tax/sales-and-use-tax-bulletins,2026-05-20
 NC,clothing.formal,"Suits, gowns, ties, dress shirts not for everyday wear.",True,taxable,{},2026-05-20,https://www.ncdor.gov/taxes-forms/sales-and-use-tax/sales-and-use-tax-bulletins,2026-05-20
@@ -1128,12 +1131,12 @@ NE,digital_products.music,,True,taxable,{},2024-01-01,,2026-05-18
 NE,digital_products.streaming,,True,taxable,{},2024-01-01,,2026-05-18
 NE,digital_products.video,,True,taxable,{},2024-01-01,,2026-05-18
 NE,food.bottled_water,"Plain, still, unsweetened, unflavored bottled drinking water (spring, mineral, distilled, or purified) sold in a sealed retail container. Excludes flavored, sweetened, or carbonated water, which is taxed as a soft drink under food.candy_soda.",False,exempt,"{""note"": ""Local option sales/use taxes may still apply; taxable if sold as part of prepared food or beverage service.""}",2026-08-05,https://revenue.nebraska.gov/sites/default/files/doc/legal/regs/1-087.pdf,2026-08-05
-NE,food.candy,,False,exempt,{},2024-01-01,,2026-05-18
+NE,food.candy,,False,exempt,"{""note"": ""Candy is food and food ingredients, exempt from state and local tax (77-2704.24).""}",2024-01-01,https://nebraskalegislature.gov/laws/statutes.php?statute=77-2704.24,2026-09-28
 NE,food.candy_soda,"Candy, soda, sweetened beverages (often taxed where groceries aren't).",True,taxable,"{""note"": ""Candy and soft drinks excluded from the food exemption (taxable).""}",2026-05-21,https://revenue.nebraska.gov/businesses/sales-and-use-tax,2026-05-21
 NE,food.dietary_supplements,,True,taxable,{},2024-01-01,,2026-05-18
 NE,food.grocery,Unprepared groceries; staples; produce; meat; dairy.,False,exempt,"{""note"": ""Food and food ingredients exempt; prepared food taxable.""}",2026-05-21,https://revenue.nebraska.gov/businesses/sales-and-use-tax,2026-05-21
 NE,food.prepared,"Restaurant meals, takeout, food sold for immediate consumption.",True,taxable,{},2026-05-21,https://revenue.nebraska.gov/businesses/sales-and-use-tax,2026-05-21
-NE,food.soft_drinks,,False,exempt,{},2024-01-01,,2026-05-18
+NE,food.soft_drinks,,False,exempt,"{""note"": ""Soft drinks are food and food ingredients, exempt from state and local tax (77-2704.24).""}",2024-01-01,https://nebraskalegislature.gov/laws/statutes.php?statute=77-2704.24,2026-09-28
 NE,goods.electronics,,True,taxable,{},2024-01-01,,2026-05-18
 NE,goods.furniture,,True,taxable,{},2024-01-01,,2026-05-18
 NE,goods.general,,True,taxable,{},2024-01-01,,2026-05-18
@@ -1171,12 +1174,12 @@ NJ,digital_products.music,,True,taxable,{},2024-01-01,,2026-05-18
 NJ,digital_products.streaming,,False,exempt,{},2024-01-01,,2026-05-18
 NJ,digital_products.video,,True,taxable,{},2024-01-01,,2026-05-18
 NJ,food.bottled_water,"Plain, still, unsweetened, unflavored bottled drinking water (spring, mineral, distilled, or purified) sold in a sealed retail container. Excludes flavored, sweetened, or carbonated water, which is taxed as a soft drink under food.candy_soda.",False,exempt,"{""note"": ""Only artificially carbonated water is taxed as a soft drink; plain still and naturally carbonated bottled water is exempt as grocery food; no general NJ local sales tax.""}",2026-08-05,https://law.justia.com/codes/new-jersey/title-54/section-54-32b-8-2/,2026-08-05
-NJ,food.candy,,True,taxable,{},2024-01-01,,2026-05-18
+NJ,food.candy,,True,taxable,"{""note"": ""Candy is taxable (N.J.S.A. 54:32B-8.2; TB-70).""}",2024-01-01,https://www.nj.gov/treasury/taxation/pdf/pubs/tb/tb70.pdf,2026-09-28
 NJ,food.candy_soda,"Candy, soda, sweetened beverages (often taxed where groceries aren't).",True,conditional,"{""note"": ""NJ taxes candy and soft drinks (carve-outs from the food exemption per § 54:32B-8.2)."", ""soda_taxable"": true, ""candy_taxable"": true}",2026-05-20,https://www.nj.gov/treasury/taxation/pdf/pubs/sales/su4.pdf,2026-05-20
 NJ,food.dietary_supplements,,False,exempt,{},2024-01-01,,2026-05-18
 NJ,food.grocery,Unprepared groceries; staples; produce; meat; dairy.,False,exempt,"{""note"": ""NJ exempts groceries and food sold for off-premises consumption (§ 54:32B-8.2).""}",2026-05-20,https://www.nj.gov/treasury/taxation/pdf/pubs/sales/su4.pdf,2026-05-20
 NJ,food.prepared,"Restaurant meals, takeout, food sold for immediate consumption.",True,taxable,{},2026-05-20,https://www.nj.gov/treasury/taxation/pdf/pubs/sales/su4.pdf,2026-05-20
-NJ,food.soft_drinks,,True,taxable,{},2024-01-01,,2026-05-18
+NJ,food.soft_drinks,,True,taxable,"{""note"": ""Soft drinks are taxable (N.J.S.A. 54:32B-8.2; TB-70).""}",2024-01-01,https://www.nj.gov/treasury/taxation/pdf/pubs/tb/tb70.pdf,2026-09-28
 NJ,goods.electronics,,True,taxable,{},2024-01-01,,2026-05-18
 NJ,goods.furniture,,True,taxable,{},2024-01-01,,2026-05-18
 NJ,goods.general,,True,taxable,{},2024-01-01,,2026-05-18
@@ -1257,12 +1260,12 @@ NV,digital_products.music,,False,exempt,{},2024-01-01,,2026-05-18
 NV,digital_products.streaming,,False,exempt,{},2024-01-01,,2026-05-18
 NV,digital_products.video,,False,exempt,{},2024-01-01,,2026-05-18
 NV,food.bottled_water,"Plain, still, unsweetened, unflavored bottled drinking water (spring, mineral, distilled, or purified) sold in a sealed retail container. Excludes flavored, sweetened, or carbonated water, which is taxed as a soft drink under food.candy_soda.",True,taxable,"{""note"": ""2011 Nevada A.B. 218 amended the food-for-human-consumption exemption statute to specifically exclude bottled water from the definition of \""food,\"" effective after 2011-06-30.""}",2026-08-05,https://archive.leg.state.nv.us/Session/76th2011/Bills/AB/AB218.pdf,2026-08-05
-NV,food.candy,,False,exempt,{},2024-01-01,,2026-05-18
+NV,food.candy,,False,exempt,"{""note"": ""Candy is food for human consumption, exempt from state and local school support tax (NRS 372.284, 374.289).""}",2024-01-01,https://www.leg.state.nv.us/NRS/NRS-372.html,2026-09-28
 NV,food.candy_soda,"Candy, soda, sweetened beverages (often taxed where groceries aren't).",False,needs_research,"{""note"": ""Nevada's treatment of candy and soft drinks under its food-for-human-consumption exemption needs authoritative confirmation.""}",2026-05-21,https://www.leg.state.nv.us/nrs/nrs-372.html,2026-05-21
 NV,food.dietary_supplements,,True,taxable,{},2024-01-01,,2026-05-18
 NV,food.grocery,Unprepared groceries; staples; produce; meat; dairy.,False,exempt,"{""note"": ""Food for human consumption exempt (NRS 372.284); prepared food taxable.""}",2026-05-21,https://www.leg.state.nv.us/nrs/nrs-372.html,2026-05-21
 NV,food.prepared,"Restaurant meals, takeout, food sold for immediate consumption.",True,taxable,{},2026-05-21,https://www.leg.state.nv.us/nrs/nrs-372.html,2026-05-21
-NV,food.soft_drinks,,False,exempt,{},2024-01-01,,2026-05-18
+NV,food.soft_drinks,,False,exempt,"{""note"": ""Soft drinks are food for human consumption, exempt from state and local school support tax (NRS 372.284, 374.289).""}",2024-01-01,https://www.leg.state.nv.us/NRS/NRS-372.html,2026-09-28
 NV,goods.electronics,,True,taxable,{},2024-01-01,,2026-05-18
 NV,goods.furniture,,True,taxable,{},2024-01-01,,2026-05-18
 NV,goods.general,,True,taxable,{},2024-01-01,,2026-05-18
@@ -1343,7 +1346,7 @@ OH,digital_products.music,,True,taxable,{},2024-01-01,,2026-05-18
 OH,digital_products.streaming,,True,taxable,{},2024-01-01,,2026-05-18
 OH,digital_products.video,,True,taxable,{},2024-01-01,,2026-05-18
 OH,food.bottled_water,"Plain, still, unsweetened, unflavored bottled drinking water (spring, mineral, distilled, or purified) sold in a sealed retail container. Excludes flavored, sweetened, or carbonated water, which is taxed as a soft drink under food.candy_soda.",False,exempt,"{""note"": ""Applies to off-premises consumption; a sweetened version would meet the statutory definition of a taxable \""soft drink.\""""}",2026-08-05,https://tax.ohio.gov/help-center/resources/tax-education/foodserviceindustry,2026-08-05
-OH,food.candy,,False,exempt,{},2024-01-01,,2026-05-18
+OH,food.candy,,False,exempt,"{""note"": ""Candy is food (only soft drinks, dietary supplements, alcohol and tobacco are excluded), exempt off premises (R.C. 5739.02(B)(2)).""}",2024-01-01,https://codes.ohio.gov/ohio-revised-code/section-5739.01,2026-09-28
 OH,food.candy_soda,"Candy, soda, sweetened beverages (often taxed where groceries aren't).",True,taxable,"{""note"": ""OH taxes candy and soft drinks per R.C. § 5739.02(B)(2) carve-outs.""}",2026-05-20,https://codes.ohio.gov/ohio-revised-code/section-5739.02,2026-05-20
 OH,food.dietary_supplements,,True,taxable,{},2024-01-01,,2026-05-18
 OH,food.grocery,Unprepared groceries; staples; produce; meat; dairy.,False,exempt,"{""note"": ""Ohio exempts food for human consumption off-premises (R.C. § 5739.02(B)(2)). Prepared food, alcoholic beverages and dietary supplements are taxable.""}",2026-05-20,https://codes.ohio.gov/ohio-revised-code/section-5739.02,2026-05-20
@@ -1372,7 +1375,7 @@ OH,services.repair,,True,taxable,{},2024-01-01,,2026-05-18
 OH,services.web_hosting,,True,taxable,{},2024-01-01,,2026-05-18
 OH,software.custom,,True,taxable,{},2024-01-01,,2026-05-18
 OH,software.prewritten,,True,taxable,{},2024-01-01,,2026-05-18
-OH,software.saas,,True,taxable,{},2024-01-01,,2026-05-18
+OH,software.saas,,True,conditional,"{""note"": ""SaaS is taxed as automatic data processing or electronic information services only when bought for use in business (R.C. 5739.01(B)(3)(e); rule 5703-9-46); personal use is not taxed."", ""b2c_exempt"": true}",2024-01-01,https://codes.ohio.gov/ohio-administrative-code/rule-5703-9-46,2026-09-28
 OK,clothing.accessories,"Handbags, belts, jewelry, watches.",True,taxable,{},2026-05-21,https://oklahoma.gov/tax/businesses/tax-types/business-sales-tax.html,2026-05-21
 OK,clothing.athletic,Sports and performance apparel; team uniforms; non-protective athletic gear.,True,conditional,"{""tax_holiday"": {""scope"": ""full"", ""windows"": [{""end"": ""2026-08-09"", ""start"": ""2026-08-07""}], ""price_cap_cents"": 10000}}",2026-06-01,https://oklahoma.gov/tax/businesses/tax-incentives-and-holidays/sales-tax-holiday.html,2026-05-21
 OK,clothing.formal,"Suits, gowns, ties, dress shirts not for everyday wear.",True,conditional,"{""tax_holiday"": {""scope"": ""full"", ""windows"": [{""end"": ""2026-08-09"", ""start"": ""2026-08-07""}], ""price_cap_cents"": 10000}}",2026-06-01,https://oklahoma.gov/tax/businesses/tax-incentives-and-holidays/sales-tax-holiday.html,2026-05-21
@@ -1386,12 +1389,12 @@ OK,digital_products.music,,False,exempt,{},2024-01-01,,2026-05-18
 OK,digital_products.streaming,,False,exempt,{},2024-01-01,,2026-05-18
 OK,digital_products.video,,False,exempt,{},2024-01-01,,2026-05-18
 OK,food.bottled_water,"Plain, still, unsweetened, unflavored bottled drinking water (spring, mineral, distilled, or purified) sold in a sealed retail container. Excludes flavored, sweetened, or carbonated water, which is taxed as a soft drink under food.candy_soda.",False,exempt,"{""note"": ""State sales tax on food and food ingredients, including bottled water, was reduced to 0% effective 2024-08-29; municipal and county sales/use taxes still apply."", ""local_may_tax"": true}",2026-08-05,https://oklahoma.gov/tax/businesses/state-sales-tax-on-food-and-food-ingredients.html,2026-08-05
-OK,food.candy,,True,taxable,{},2024-01-01,,2026-05-18
+OK,food.candy,,True,conditional,"{""note"": ""Candy is food and food ingredients, exempt from the state tax from 2024-08-29 (HB 1955); local taxes apply."", ""state_exempt"": true, ""local_taxable"": true}",2024-01-01,https://oklahoma.gov/tax/businesses/state-sales-tax-on-food-and-food-ingredients.html,2026-09-28
 OK,food.candy_soda,"Candy, soda, sweetened beverages (often taxed where groceries aren't).",True,conditional,"{""note"": ""Candy and soft drinks are SNAP-eligible and within the state grocery exemption; local taxes apply."", ""state_exempt"": true, ""local_taxable"": true}",2026-05-21,https://oklahoma.gov/tax/individuals/grocery-tax-exemption.html,2026-05-21
 OK,food.dietary_supplements,,True,taxable,{},2024-01-01,,2026-05-18
 OK,food.grocery,Unprepared groceries; staples; produce; meat; dairy.,True,conditional,"{""note"": ""OK eliminated the state sales tax on groceries effective Aug 2024 (HB 1955); local sales taxes still apply."", ""state_exempt"": true, ""local_taxable"": true}",2026-05-21,https://oklahoma.gov/tax/individuals/grocery-tax-exemption.html,2026-05-21
 OK,food.prepared,"Restaurant meals, takeout, food sold for immediate consumption.",True,taxable,{},2026-05-21,https://oklahoma.gov/tax/individuals/grocery-tax-exemption.html,2026-05-21
-OK,food.soft_drinks,,True,taxable,{},2024-01-01,,2026-05-18
+OK,food.soft_drinks,,True,conditional,"{""note"": ""Soft drinks are food and food ingredients, exempt from the state tax from 2024-08-29 (HB 1955); local taxes apply."", ""state_exempt"": true, ""local_taxable"": true}",2024-01-01,https://oklahoma.gov/tax/businesses/state-sales-tax-on-food-and-food-ingredients.html,2026-09-28
 OK,goods.electronics,,True,taxable,{},2024-01-01,,2026-05-18
 OK,goods.furniture,,True,taxable,{},2024-01-01,,2026-05-18
 OK,goods.general,,True,taxable,{},2024-01-01,,2026-05-18
@@ -1429,12 +1432,12 @@ PA,digital_products.music,,True,taxable,{},2024-01-01,,2026-05-18
 PA,digital_products.streaming,,True,taxable,{},2024-01-01,,2026-05-18
 PA,digital_products.video,,True,taxable,{},2024-01-01,,2026-05-18
 PA,food.bottled_water,"Plain, still, unsweetened, unflavored bottled drinking water (spring, mineral, distilled, or purified) sold in a sealed retail container. Excludes flavored, sweetened, or carbonated water, which is taxed as a soft drink under food.candy_soda.",False,exempt,"{""note"": ""Applies to plain, unflavored, non-carbonated water including non-flavored mineral water; flavored, sweetened, or vitamin water is a taxable soft drink.""}",2026-08-05,https://www.pacodeandbulletin.gov/Display/pacode?file=%2Fsecure%2Fpacode%2Fdata%2F061%2Fchapter60%2Fs60.7.html,2026-08-05
-PA,food.candy,,False,exempt,{},2024-01-01,,2026-05-18
+PA,food.candy,,False,exempt,"{""note"": ""Candy and gum sold by a food or nonfood retailer are exempt (61 Pa. Code 60.7); taxable when sold by an eating establishment or caterer.""}",2024-01-01,https://www.pacodeandbulletin.gov/Display/pacode?file=%2Fsecure%2Fpacode%2Fdata%2F061%2Fchapter60%2Fs60.7.html,2026-09-28
 PA,food.candy_soda,"Candy, soda, sweetened beverages (often taxed where groceries aren't).",True,conditional,"{""note"": ""PA treats candy as food (exempt); soft drinks (including sweetened iced teas and carbonated beverages) are taxable per Reg § 32.1."", ""candy_exempt"": true, ""soft_drinks_taxable"": true}",2026-05-20,https://www.legis.state.pa.us/cfdocs/legis/LI/uconsCheck.cfm?txtType=HTM&yr=1971&sessInd=0&smthLwInd=0&act=2&chpt=2&sctn=4&subsctn=0,2026-05-20
 PA,food.dietary_supplements,,False,exempt,{},2024-01-01,,2026-05-18
 PA,food.grocery,Unprepared groceries; staples; produce; meat; dairy.,False,exempt,"{""note"": ""PA exempts food and food ingredients (72 P.S. § 7204(29)); prepared food and certain ready-to-eat items are taxable.""}",2026-05-20,https://www.legis.state.pa.us/cfdocs/legis/LI/uconsCheck.cfm?txtType=HTM&yr=1971&sessInd=0&smthLwInd=0&act=2&chpt=2&sctn=4&subsctn=0,2026-05-20
 PA,food.prepared,"Restaurant meals, takeout, food sold for immediate consumption.",True,taxable,{},2026-05-20,https://www.legis.state.pa.us/cfdocs/legis/LI/uconsCheck.cfm?txtType=HTM&yr=1971&sessInd=0&smthLwInd=0&act=2&chpt=2&sctn=4&subsctn=0,2026-05-20
-PA,food.soft_drinks,,True,taxable,{},2024-01-01,,2026-05-18
+PA,food.soft_drinks,,True,taxable,"{""note"": ""Soft drinks are taxable selected food and beverage items whoever sells them (61 Pa. Code 60.7).""}",2024-01-01,https://www.pacodeandbulletin.gov/Display/pacode?file=%2Fsecure%2Fpacode%2Fdata%2F061%2Fchapter60%2Fs60.7.html,2026-09-28
 PA,goods.electronics,,True,taxable,{},2024-01-01,,2026-05-18
 PA,goods.furniture,,True,taxable,{},2024-01-01,,2026-05-18
 PA,goods.general,,True,taxable,{},2024-01-01,,2026-05-18
@@ -1515,12 +1518,12 @@ SC,digital_products.music,,False,exempt,{},2024-01-01,,2026-05-18
 SC,digital_products.streaming,,False,exempt,{},2024-01-01,,2026-05-18
 SC,digital_products.video,,False,exempt,{},2024-01-01,,2026-05-18
 SC,food.bottled_water,"Plain, still, unsweetened, unflavored bottled drinking water (spring, mineral, distilled, or purified) sold in a sealed retail container. Excludes flavored, sweetened, or carbonated water, which is taxed as a soft drink under food.candy_soda.",False,exempt,"{""note"": ""Exempt from STATE sales tax only, as SNAP-eligible unprepared food for home consumption; local option sales/use taxes still apply unless the county also exempts groceries; bottled water sold to a commercial buyer is taxed at the full state rate."", ""local_may_tax"": true}",2026-08-05,https://dor.sc.gov/sites/dor/files/Documents/Policy%20Manuals/Chapter%2021%20-%20Unprepared%20Food%20Exemption.pdf,2026-08-05
-SC,food.candy,,False,exempt,{},2024-01-01,,2026-05-18
+SC,food.candy,,True,conditional,"{""note"": ""Candy is SNAP-eligible unprepared food, exempt from the 6% state tax only (12-36-2120(75)); local taxes apply unless the local law exempts unprepared food, which varies."", ""state_exempt"": true, ""local_taxable"": true}",2024-01-01,https://dor.sc.gov/sales-use-tax-unprepared-food-amended-exemption,2026-09-28
 SC,food.candy_soda,"Candy, soda, sweetened beverages (often taxed where groceries aren't).",True,conditional,"{""note"": ""Candy and soft drinks are SNAP-eligible and fall within SC's unprepared-food state exemption; local taxes may apply."", ""state_exempt"": true, ""local_taxable"": true}",2026-05-21,https://www.scstatehouse.gov/code/t12c036.php,2026-05-21
 SC,food.dietary_supplements,,True,taxable,{},2024-01-01,,2026-05-18
 SC,food.grocery,Unprepared groceries; staples; produce; meat; dairy.,True,conditional,"{""note"": ""Unprepared food exempt from the 6% state tax (SC Code 12-36-2120(75)); local option taxes may still apply."", ""state_exempt"": true, ""local_taxable"": true}",2026-05-21,https://www.scstatehouse.gov/code/t12c036.php,2026-05-21
 SC,food.prepared,"Restaurant meals, takeout, food sold for immediate consumption.",True,taxable,{},2026-05-21,https://www.scstatehouse.gov/code/t12c036.php,2026-05-21
-SC,food.soft_drinks,,False,exempt,{},2024-01-01,,2026-05-18
+SC,food.soft_drinks,,True,conditional,"{""note"": ""Bottled soft drinks are SNAP-eligible unprepared food, exempt from the 6% state tax only (12-36-2120(75), IL 26-13); local taxes apply unless the local law exempts unprepared food, which varies."", ""state_exempt"": true, ""local_taxable"": true}",2024-01-01,https://dor.sc.gov/sales-use-tax-unprepared-food-amended-exemption,2026-09-28
 SC,goods.electronics,,True,taxable,{},2024-01-01,,2026-05-18
 SC,goods.furniture,,True,taxable,{},2024-01-01,,2026-05-18
 SC,goods.general,,True,taxable,{},2024-01-01,,2026-05-18
@@ -1673,7 +1676,7 @@ TX,services.repair,,True,taxable,{},2024-01-01,,2026-05-18
 TX,services.web_hosting,,True,taxable,{},2024-01-01,,2026-05-18
 TX,software.custom,,False,exempt,{},2024-01-01,,2026-05-18
 TX,software.prewritten,,True,taxable,{},2024-01-01,,2026-05-18
-TX,software.saas,,True,taxable,{},2024-01-01,,2026-05-18
+TX,software.saas,,True,conditional,"{""note"": ""SaaS is a data processing service; 20% of the charge is exempt, so tax applies to 80% (Tax Code 151.351; Pub 96-259)."", ""taxable_fraction"": 0.8}",2024-01-01,https://comptroller.texas.gov/taxes/publications/96-259.php,2026-09-28
 UT,clothing.accessories,"Handbags, belts, jewelry, watches.",True,taxable,{},2026-05-21,https://tax.utah.gov/sales,2026-05-21
 UT,clothing.athletic,Sports and performance apparel; team uniforms; non-protective athletic gear.,True,taxable,{},2026-05-21,https://tax.utah.gov/sales,2026-05-21
 UT,clothing.formal,"Suits, gowns, ties, dress shirts not for everyday wear.",True,taxable,{},2026-05-21,https://tax.utah.gov/sales,2026-05-21
@@ -1716,7 +1719,7 @@ UT,services.repair,,True,taxable,{},2024-01-01,,2026-05-18
 UT,services.web_hosting,,False,exempt,{},2024-01-01,,2026-05-18
 UT,software.custom,,False,exempt,{},2024-01-01,,2026-05-18
 UT,software.prewritten,,True,taxable,{},2024-01-01,,2026-05-18
-UT,software.saas,,True,taxable,{},2024-01-01,,2026-05-18
+UT,software.saas,,True,taxable,"{""note"": ""Remotely accessed prewritten software (SaaS) used in Utah is taxable (Pub 64); codified as seller-hosted prewritten computer software from 2026-07-01 (SB 162). Remotely accessed custom software is not taxable.""}",2024-01-01,https://files.tax.utah.gov/tax/forms/pubs/pub-64.pdf,2026-09-28
 VA,clothing.accessories,"Handbags, belts, jewelry, watches.",True,taxable,{},2026-05-21,https://www.tax.virginia.gov/retail-sales-and-use-tax,2026-05-21
 VA,clothing.athletic,Sports and performance apparel; team uniforms; non-protective athletic gear.,True,conditional,"{""tax_holiday"": {""scope"": ""full"", ""windows"": [{""end"": ""2026-08-09"", ""start"": ""2026-08-07""}], ""price_cap_cents"": 10000}}",2026-05-21,https://www.tax.virginia.gov/virginia-sales-tax-holiday,2026-05-21
 VA,clothing.formal,"Suits, gowns, ties, dress shirts not for everyday wear.",True,conditional,"{""tax_holiday"": {""scope"": ""full"", ""windows"": [{""end"": ""2026-08-09"", ""start"": ""2026-08-07""}], ""price_cap_cents"": 10000}}",2026-05-21,https://www.tax.virginia.gov/virginia-sales-tax-holiday,2026-05-21
@@ -1730,12 +1733,12 @@ VA,digital_products.music,,False,exempt,{},2024-01-01,,2026-05-18
 VA,digital_products.streaming,,False,exempt,{},2024-01-01,,2026-05-18
 VA,digital_products.video,,False,exempt,{},2024-01-01,,2026-05-18
 VA,food.bottled_water,"Plain, still, unsweetened, unflavored bottled drinking water (spring, mineral, distilled, or purified) sold in a sealed retail container. Excludes flavored, sweetened, or carbonated water, which is taxed as a soft drink under food.candy_soda.",True,reduced_rate,"{""note"": ""Container size is not a factor per Tax Commissioner Ruling 06-98 (bottled water sold by the case or via water-cooler delivery both qualify); reduced to a 1% local-option-only rate since the 1.5% state portion was eliminated 2023-01-01.""}",2026-08-05,https://law.lis.virginia.gov/vacode/title58.1/chapter6/section58.1-611.1/,2026-08-05
-VA,food.candy,,True,taxable,{},2024-01-01,,2026-05-18
+VA,food.candy,,True,reduced_rate,"{""note"": ""Candy is food for human consumption (SNAP definition), taxed only at the uniform 1% local rate (58.1-611.1)."", ""reduced_rate"": 0.01}",2024-01-01,https://law.lis.virginia.gov/vacode/title58.1/chapter6/section58.1-611.1/,2026-09-28
 VA,food.candy_soda,"Candy, soda, sweetened beverages (often taxed where groceries aren't).",True,reduced_rate,"{""note"": ""VA's reduced food rate uses the federal food-stamp definition, which includes candy and soft drinks (§58.1-611.1)."", ""reduced_rate"": 0.01}",2026-05-21,https://law.lis.virginia.gov/vacode/title58.1/chapter6/section58.1-611.1/,2026-05-21
 VA,food.dietary_supplements,,True,taxable,{},2024-01-01,,2026-05-18
 VA,food.grocery,Unprepared groceries; staples; produce; meat; dairy.,True,reduced_rate,"{""note"": ""Food for home consumption + essential personal hygiene at the 1% local rate; the state portion was eliminated in 2023 (§58.1-611.1)."", ""reduced_rate"": 0.01}",2026-05-21,https://law.lis.virginia.gov/vacode/title58.1/chapter6/section58.1-611.1/,2026-05-21
 VA,food.prepared,"Restaurant meals, takeout, food sold for immediate consumption.",True,taxable,"{""note"": ""Prepared/restaurant food at the full combined rate.""}",2026-05-21,https://www.tax.virginia.gov/retail-sales-and-use-tax,2026-05-21
-VA,food.soft_drinks,,True,taxable,{},2024-01-01,,2026-05-18
+VA,food.soft_drinks,,True,reduced_rate,"{""note"": ""Soft drinks are food for human consumption under the SNAP definition, taxed only at the 1% local rate (58.1-611.1). A USDA waiver excludes sweetened beverages from Virginia SNAP from about 2026-10-01; Virginia Tax has not said whether that moves them to the full rate. Re-check."", ""reduced_rate"": 0.01}",2024-01-01,https://law.lis.virginia.gov/vacode/title58.1/chapter6/section58.1-611.1/,2026-09-28
 VA,goods.electronics,,True,taxable,{},2024-01-01,,2026-05-18
 VA,goods.furniture,,True,taxable,{},2024-01-01,,2026-05-18
 VA,goods.general,,True,taxable,{},2024-01-01,,2026-05-18
@@ -1773,12 +1776,12 @@ VT,digital_products.music,,True,taxable,{},2024-01-01,,2026-05-18
 VT,digital_products.streaming,,True,taxable,{},2024-01-01,,2026-05-18
 VT,digital_products.video,,True,taxable,{},2024-01-01,,2026-05-18
 VT,food.bottled_water,"Plain, still, unsweetened, unflavored bottled drinking water (spring, mineral, distilled, or purified) sold in a sealed retail container. Excludes flavored, sweetened, or carbonated water, which is taxed as a soft drink under food.candy_soda.",False,exempt,"{""note"": ""Exempt only if no sweetener is added; carbonation or natural flavoring alone does not make it a taxable soft drink under VT's definition. Sweetened bottled water is taxed as a soft drink (out of scope).""}",2026-08-05,https://tax.vermont.gov/business/industry/soft-drinks,2026-08-05
-VT,food.candy,,False,exempt,{},2024-01-01,,2026-05-18
+VT,food.candy,,False,exempt,"{""note"": ""Candy is food and food ingredients, exempt (32 V.S.A. 9741(13)).""}",2024-01-01,https://legislature.vermont.gov/statutes/section/32/233/09701,2026-09-28
 VT,food.candy_soda,"Candy, soda, sweetened beverages (often taxed where groceries aren't).",True,conditional,"{""note"": ""VT taxes soft drinks (since 2015); candy is treated as food and exempt."", ""candy_exempt"": true, ""soft_drinks_taxable"": true}",2026-05-21,https://tax.vermont.gov/business/sales-and-use,2026-05-21
 VT,food.dietary_supplements,,False,exempt,{},2024-01-01,,2026-05-18
 VT,food.grocery,Unprepared groceries; staples; produce; meat; dairy.,False,exempt,"{""note"": ""Food for home consumption exempt; restaurant meals taxable.""}",2026-05-21,https://legislature.vermont.gov/statutes/section/32/233/09741,2026-05-21
 VT,food.prepared,"Restaurant meals, takeout, food sold for immediate consumption.",True,taxable,"{""note"": ""Restaurant meals taxable (meals & rooms tax).""}",2026-05-21,https://tax.vermont.gov/business/sales-and-use,2026-05-21
-VT,food.soft_drinks,,False,exempt,{},2024-01-01,,2026-05-18
+VT,food.soft_drinks,,True,taxable,"{""note"": ""Soft drinks are excluded from food and food ingredients and taxed at 6% since 2015-07-01 (32 V.S.A. 9701(31)); 1% local option tax applies where adopted.""}",2024-01-01,https://legislature.vermont.gov/statutes/section/32/233/09701,2026-09-28
 VT,goods.electronics,,True,taxable,{},2024-01-01,,2026-05-18
 VT,goods.furniture,,True,taxable,{},2024-01-01,,2026-05-18
 VT,goods.general,,True,taxable,{},2024-01-01,,2026-05-18
@@ -1802,7 +1805,7 @@ VT,services.repair,,True,taxable,{},2024-01-01,,2026-05-18
 VT,services.web_hosting,,False,exempt,{},2024-01-01,,2026-05-18
 VT,software.custom,,False,exempt,{},2024-01-01,,2026-05-18
 VT,software.prewritten,,True,taxable,{},2024-01-01,,2026-05-18
-VT,software.saas,,True,taxable,{},2024-01-01,,2026-05-18
+VT,software.saas,,True,taxable,"{""note"": ""All prewritten software, including remotely accessed (SaaS), is taxable at 6% from 2024-07-01 (Act 183 of 2024); 1% local option tax may apply. Custom software is not taxable.""}",2024-07-01,https://tax.vermont.gov/business-and-corp/sales-and-use-tax/prewritten-computer-software,2026-09-28
 WA,clothing.accessories,"Handbags, belts, jewelry, watches.",True,taxable,{},2026-05-21,https://dor.wa.gov/taxes-rates/retail-sales-tax,2026-05-21
 WA,clothing.athletic,Sports and performance apparel; team uniforms; non-protective athletic gear.,True,taxable,{},2026-05-21,https://dor.wa.gov/taxes-rates/retail-sales-tax,2026-05-21
 WA,clothing.formal,"Suits, gowns, ties, dress shirts not for everyday wear.",True,taxable,{},2026-05-21,https://dor.wa.gov/taxes-rates/retail-sales-tax,2026-05-21
@@ -1816,7 +1819,7 @@ WA,digital_products.music,,True,taxable,{},2024-01-01,,2026-05-18
 WA,digital_products.streaming,,True,taxable,{},2024-01-01,,2026-05-18
 WA,digital_products.video,,True,taxable,{},2024-01-01,,2026-05-18
 WA,food.bottled_water,"Plain, still, unsweetened, unflavored bottled drinking water (spring, mineral, distilled, or purified) sold in a sealed retail container. Excludes flavored, sweetened, or carbonated water, which is taxed as a soft drink under food.candy_soda.",True,taxable,"{""note"": ""Narrow refund/exemption paths exist for SNAP purchases, buyers with no other potable water source, and prescription use (RCW 82.08.9994 and 82.08.99941); local sales tax also applies.""}",2026-08-05,https://app.leg.wa.gov/rcw/default.aspx?cite=82.08.0293,2026-08-05
-WA,food.candy,,False,exempt,{},2024-01-01,,2026-05-18
+WA,food.candy,,False,exempt,"{""note"": ""Candy is exempt food; only prepared food, soft drinks, bottled water and dietary supplements are excluded (RCW 82.08.0293(2)).""}",2024-01-01,https://app.leg.wa.gov/RCW/default.aspx?cite=82.08.0293,2026-09-28
 WA,food.candy_soda,"Candy, soda, sweetened beverages (often taxed where groceries aren't).",True,taxable,"{""note"": ""Candy, soft drinks, and dietary supplements excluded from the food exemption.""}",2026-05-21,https://app.leg.wa.gov/rcw/default.aspx?cite=82.08.0293,2026-05-21
 WA,food.dietary_supplements,,True,taxable,{},2024-01-01,,2026-05-18
 WA,food.grocery,Unprepared groceries; staples; produce; meat; dairy.,False,exempt,"{""note"": ""Food and food ingredients exempt (RCW 82.08.0293).""}",2026-05-21,https://app.leg.wa.gov/rcw/default.aspx?cite=82.08.0293,2026-05-21
@@ -1838,12 +1841,12 @@ WA,publications.magazines,,True,taxable,{},2024-01-01,,2026-05-18
 WA,publications.newspapers,,False,exempt,{},2024-01-01,,2026-05-18
 WA,publications.textbooks,"Required course and college textbooks, printed or digital, as distinct from general trade books. Many states exempt these only when sold by a school or to an enrolled student.",True,taxable,{},2026-08-05,,2026-05-18
 WA,services.ai_api,,True,taxable,{},2024-01-01,,2026-05-18
-WA,services.data_processing,,False,exempt,{},2024-01-01,,2026-05-18
+WA,services.data_processing,,True,taxable,"{""note"": ""Data processing is a retail IT service from 2025-10-01 (ESSB 5814, RCW 82.04.050(3)(g)); there is no business-buyer exclusion. Sales between members of an affiliated group are excluded (RCW 82.04.050(17)).""}",2025-10-01,https://dor.wa.gov/laws-rules/interim_guidance_statements/interim-guidance-statement-regarding-changes-made-essb-5814-information-technology-services,2026-09-28
 WA,services.personal_care,,True,taxable,{},2024-01-01,,2026-05-18
 WA,services.professional,,False,exempt,{},2024-01-01,,2026-05-18
 WA,services.repair,,True,taxable,{},2024-01-01,,2026-05-18
-WA,services.web_hosting,,True,taxable,{},2024-01-01,,2026-05-18
-WA,software.custom,,False,exempt,{},2024-01-01,,2026-05-18
+WA,services.web_hosting,,False,exempt,"{""note"": ""Web hosting (providing server space) is not a retail sale; it is subject to B&O tax only (RCW 82.04.192(3)(b)), and ESSB 5814 excludes it from IT services. Optional premium services beyond storage or hosting can be taxable digital automated services (WAC 458-20-15503).""}",2024-01-01,https://app.leg.wa.gov/RCW/default.aspx?cite=82.04.192,2026-09-28
+WA,software.custom,,True,taxable,"{""note"": ""Custom software and customization of prewritten software are retail sales from 2025-10-01 (ESSB 5814, RCW 82.04.050(6)). Sales between members of an affiliated group are excluded (RCW 82.04.050(17), retroactive to 2025-10-01). ESSB 6346 (2026) repeals this from 2029-01-01, contingent on its income tax surviving court review.""}",2025-10-01,https://dor.wa.gov/laws-rules/interim_guidance_statements/interim-guidance-statement-regarding-changes-made-essb-5814-custom-software,2026-09-28
 WA,software.prewritten,,True,taxable,{},2024-01-01,,2026-05-18
 WA,software.saas,,True,taxable,{},2024-01-01,,2026-05-18
 WI,clothing.accessories,"Handbags, belts, jewelry, watches.",True,taxable,{},2026-05-21,https://www.revenue.wi.gov/Pages/FAQS/pcs-taxablesales.aspx,2026-05-21
@@ -1902,7 +1905,7 @@ WV,digital_products.music,,False,exempt,{},2024-01-01,,2026-05-18
 WV,digital_products.streaming,,False,exempt,{},2024-01-01,,2026-05-18
 WV,digital_products.video,,False,exempt,{},2024-01-01,,2026-05-18
 WV,food.bottled_water,"Plain, still, unsweetened, unflavored bottled drinking water (spring, mineral, distilled, or purified) sold in a sealed retail container. Excludes flavored, sweetened, or carbonated water, which is taxed as a soft drink under food.candy_soda.",False,exempt,"{""note"": ""Plain unsweetened bottled water is food and food ingredients (W. Va. Code 11-15B-2, not excluded) and is not a soft drink (no added sweetener), so it follows WV's food exemption. SST Taxability Matrix not directly readable at curation; the statutory definitions are dispositive."", ""basis"": ""food_and_food_ingredients""}",2026-08-05,https://code.wvlegislature.gov/11-15B-2/,2026-08-05
-WV,food.candy,,False,exempt,{},2024-01-01,,2026-05-18
+WV,food.candy,,False,exempt,"{""note"": ""Candy is food and food ingredients, untaxed since 2013-07-01 (11-15-3a, 11-15B-2); municipal tax follows.""}",2024-01-01,https://code.wvlegislature.gov/11-15-3B/,2026-09-28
 WV,food.candy_soda,"Candy, soda, sweetened beverages (often taxed where groceries aren't).",True,taxable,"{""note"": ""Candy and soft drinks excluded from the food exemption (taxable).""}",2026-05-21,https://tax.wv.gov/Business/SalesAndUseTax/Pages/SalesAndUseTax.aspx,2026-05-21
 WV,food.dietary_supplements,,False,exempt,{},2024-01-01,,2026-05-18
 WV,food.grocery,Unprepared groceries; staples; produce; meat; dairy.,False,exempt,"{""note"": ""Food and food ingredients exempt (W. Va. Code 11-15-9); prepared food taxable.""}",2026-05-21,https://tax.wv.gov/Business/SalesAndUseTax/Pages/SalesAndUseTax.aspx,2026-05-21
@@ -1945,12 +1948,12 @@ WY,digital_products.music,,True,taxable,{},2024-01-01,,2026-05-18
 WY,digital_products.streaming,,True,taxable,{},2024-01-01,,2026-05-18
 WY,digital_products.video,,True,taxable,{},2024-01-01,,2026-05-18
 WY,food.bottled_water,"Plain, still, unsweetened, unflavored bottled drinking water (spring, mineral, distilled, or purified) sold in a sealed retail container. Excludes flavored, sweetened, or carbonated water, which is taxed as a soft drink under food.candy_soda.",False,exempt,"{""note"": ""Applies to sealed bottled water sold for off-premises/home consumption; prepared, heated, or on-premises food is taxed separately; local option sales taxes may still apply. No WA-style bottled-water carve-out was found in statute.""}",2026-08-05,https://law.justia.com/codes/wyoming/2022/title-39/chapter-15/article-1/section-39-15-105/,2026-08-05
-WY,food.candy,,False,exempt,{},2024-01-01,,2026-05-18
+WY,food.candy,,False,exempt,"{""note"": ""Candy is food for domestic home consumption, exempt from state and local tax (39-15-105).""}",2024-01-01,https://wyoleg.gov/statutes/compress/title39.pdf,2026-09-28
 WY,food.candy_soda,"Candy, soda, sweetened beverages (often taxed where groceries aren't).",True,taxable,"{""note"": ""Candy and soft drinks excluded from the food exemption (taxable).""}",2026-05-21,https://revenue.wyo.gov/divisions/excise-tax-division,2026-05-21
 WY,food.dietary_supplements,,False,exempt,{},2024-01-01,,2026-05-18
 WY,food.grocery,Unprepared groceries; staples; produce; meat; dairy.,False,exempt,"{""note"": ""Food for domestic home consumption exempt (Wyo. Stat. 39-15-105); prepared food taxable.""}",2026-05-21,https://revenue.wyo.gov/divisions/excise-tax-division,2026-05-21
 WY,food.prepared,"Restaurant meals, takeout, food sold for immediate consumption.",True,taxable,{},2026-05-21,https://revenue.wyo.gov/divisions/excise-tax-division,2026-05-21
-WY,food.soft_drinks,,False,exempt,{},2024-01-01,,2026-05-18
+WY,food.soft_drinks,,False,exempt,"{""note"": ""Soft drinks are food for domestic home consumption, exempt from state and local tax (39-15-105).""}",2024-01-01,https://wyoleg.gov/statutes/compress/title39.pdf,2026-09-28
 WY,goods.electronics,,True,taxable,{},2024-01-01,,2026-05-18
 WY,goods.furniture,,True,taxable,{},2024-01-01,,2026-05-18
 WY,goods.general,,True,taxable,{},2024-01-01,,2026-05-18

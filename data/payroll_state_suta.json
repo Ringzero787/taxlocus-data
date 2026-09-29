@@ -6,9 +6,9 @@
     "new_employer_rate": null,
     "min_rate": null,
     "max_rate": null,
-    "citation_url": "https://labor.alaska.gov/estax/",
-    "notes": null,
-    "as_of": "2026-06-15"
+    "citation_url": "https://labor.alaska.gov/estax/2026-experience-rates.html",
+    "notes": "Alaska DOLWD: the 2026 taxable wage base is $54,200.",
+    "as_of": "2026-09-27"
   },
   {
     "year": 2026,
@@ -376,13 +376,13 @@
   {
     "year": 2026,
     "state": "NY",
-    "wage_base": 13000.0,
+    "wage_base": 17600.0,
     "new_employer_rate": null,
     "min_rate": null,
     "max_rate": null,
-    "citation_url": "https://dol.ny.gov/unemployment-insurance",
-    "notes": null,
-    "as_of": "2026-06-15"
+    "citation_url": "https://dol.ny.gov/nys-45-quarterly-reporting",
+    "notes": "NY DOL: $17,600 for 2026. From 2026 the base is 18% of the state average annual wage, rounded up to the nearest $100, and the average wage used cannot be lower than the prior year's ($12,800 in 2025).",
+    "as_of": "2026-09-27"
   },
   {
     "year": 2026,
@@ -435,9 +435,9 @@
     "new_employer_rate": null,
     "min_rate": null,
     "max_rate": null,
-    "citation_url": "https://dlt.ri.gov/employers",
-    "notes": "Standard 2026 base $30,800; highest-rate employers use $32,300.",
-    "as_of": "2026-06-15"
+    "citation_url": "https://dlt.ri.gov/press-releases/2026-tax-rates-unemployment-insurance-and-temporary-disability-insurance",
+    "notes": "Standard 2026 base $30,800; employers at the highest tax rate use $32,300 (RI DLT).",
+    "as_of": "2026-09-27"
   },
   {
     "year": 2026,
@@ -490,9 +490,9 @@
     "new_employer_rate": null,
     "min_rate": null,
     "max_rate": null,
-    "citation_url": "https://jobs.utah.gov/ui/employer/",
-    "notes": null,
-    "as_of": "2026-06-15"
+    "citation_url": "https://jobs.utah.gov/ui/employer/public/Questions/TaxRates.aspx",
+    "notes": "Utah DWS: during 2026 the taxable wage base is $50,700.",
+    "as_of": "2026-09-27"
   },
   {
     "year": 2026,
@@ -563,13 +563,13 @@
   {
     "year": 2025,
     "state": "AK",
-    "wage_base": 49700.0,
+    "wage_base": 51700.0,
     "new_employer_rate": null,
     "min_rate": null,
     "max_rate": null,
-    "citation_url": "https://labor.alaska.gov/estax/",
-    "notes": null,
-    "as_of": "2026-06-15"
+    "citation_url": "https://labor.alaska.gov/estax/2025-experience-rates.html",
+    "notes": "Alaska DOLWD: the 2025 taxable wage base is $51,700.",
+    "as_of": "2026-09-27"
   },
   {
     "year": 2025,
@@ -941,9 +941,9 @@
     "new_employer_rate": null,
     "min_rate": null,
     "max_rate": null,
-    "citation_url": "https://dol.ny.gov/unemployment-insurance",
-    "notes": null,
-    "as_of": "2026-06-15"
+    "citation_url": "https://dol.ny.gov/nys-45-quarterly-reporting",
+    "notes": "NY DOL wage base history: $12,800 for 2025.",
+    "as_of": "2026-09-27"
   },
   {
     "year": 2025,
@@ -992,13 +992,13 @@
   {
     "year": 2025,
     "state": "RI",
-    "wage_base": 29200.0,
+    "wage_base": 29800.0,
     "new_employer_rate": null,
     "min_rate": null,
     "max_rate": null,
-    "citation_url": "https://dlt.ri.gov/employers",
-    "notes": null,
-    "as_of": "2026-06-15"
+    "citation_url": "https://dlt.ri.gov/sites/g/files/xkgbur571/files/2024-06/quickref.pdf",
+    "notes": "Standard 2025 base $29,800; employers at the highest tax rate use $31,300 (RI DLT 2025 UI and TDI Quick Reference).",
+    "as_of": "2026-09-27"
   },
   {
     "year": 2025,
@@ -1047,13 +1047,13 @@
   {
     "year": 2025,
     "state": "UT",
-    "wage_base": 47000.0,
+    "wage_base": 48900.0,
     "new_employer_rate": null,
     "min_rate": null,
     "max_rate": null,
-    "citation_url": "https://jobs.utah.gov/ui/employer/",
-    "notes": null,
-    "as_of": "2026-06-15"
+    "citation_url": "https://jobs.utah.gov/ui/employer/Public/Empadv/Winter_2024.pdf",
+    "notes": "Utah DWS Employer Advisor (Winter 2024): the taxable wage base for 2025 is $48,900.",
+    "as_of": "2026-09-27"
   },
   {
     "year": 2025,

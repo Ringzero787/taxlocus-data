@@ -1,5 +1,47 @@
 [
   {
+    "state": "AK",
+    "category": "goods.electronics",
+    "category_description": "",
+    "taxable": true,
+    "treatment": "taxable",
+    "conditions": {
+      "note": "No state sales tax. Taxable at the borough and city rate where the buyer takes delivery. Many Alaska jurisdictions tax only the first part of a single sale (for example Juneau $15,000, Kenai Peninsula Borough $500); caps are not applied here.",
+      "local_only": true
+    },
+    "effective_date": "2020-01-06",
+    "source_url": "https://arsstc.org/wp-content/uploads/2024/09/Uniform-Code_2024-revisions_final_070824.pdf",
+    "retrieved_at": "2026-09-28"
+  },
+  {
+    "state": "AK",
+    "category": "goods.furniture",
+    "category_description": "",
+    "taxable": true,
+    "treatment": "taxable",
+    "conditions": {
+      "note": "No state sales tax. Taxable at the borough and city rate where the buyer takes delivery. Many Alaska jurisdictions tax only the first part of a single sale (for example Juneau $15,000, Kenai Peninsula Borough $500); caps are not applied here.",
+      "local_only": true
+    },
+    "effective_date": "2020-01-06",
+    "source_url": "https://arsstc.org/wp-content/uploads/2024/09/Uniform-Code_2024-revisions_final_070824.pdf",
+    "retrieved_at": "2026-09-28"
+  },
+  {
+    "state": "AK",
+    "category": "goods.general",
+    "category_description": "",
+    "taxable": true,
+    "treatment": "taxable",
+    "conditions": {
+      "note": "No state sales tax. Taxable at the borough and city rate where the buyer takes delivery. Many Alaska jurisdictions tax only the first part of a single sale (for example Juneau $15,000, Kenai Peninsula Borough $500); caps are not applied here.",
+      "local_only": true
+    },
+    "effective_date": "2020-01-06",
+    "source_url": "https://arsstc.org/wp-content/uploads/2024/09/Uniform-Code_2024-revisions_final_070824.pdf",
+    "retrieved_at": "2026-09-28"
+  },
+  {
     "state": "AL",
     "category": "clothing.accessories",
     "category_description": "Handbags, belts, jewelry, watches.",
@@ -518,11 +560,13 @@
     "category": "software.saas",
     "category_description": "",
     "taxable": false,
-    "treatment": "exempt",
-    "conditions": {},
+    "treatment": "needs_research",
+    "conditions": {
+      "note": "Alabama taxes computer software regardless of form of transmission (r. 810-6-1-.37), but ALDOR has issued no published guidance on remotely accessed software (SaaS). Unresolved; TaxLocus does not apply tax."
+    },
     "effective_date": "2024-01-01",
-    "source_url": null,
-    "retrieved_at": "2026-05-18"
+    "source_url": "https://admincode.legislature.state.al.us/api/rule/810-6-1-.37",
+    "retrieved_at": "2026-09-28"
   },
   {
     "state": "AR",
@@ -752,14 +796,15 @@
     "category": "food.grocery",
     "category_description": "Unprepared groceries; staples; produce; meat; dairy.",
     "taxable": true,
-    "treatment": "reduced_rate",
+    "treatment": "conditional",
     "conditions": {
-      "note": "Food and food ingredients at the reduced 0.125% state rate (Ark. Code 26-52-317) plus local.",
-      "reduced_rate": 0.00125
+      "note": "The state sales tax on food and food ingredients was repealed from 2026-01-01 (Act 1008 of 2025). City and county sales taxes still apply at their full rates. Candy and soft drinks are not food and food ingredients in Arkansas and stay taxable at 6.5% plus local.",
+      "state_exempt": true,
+      "local_taxable": true
     },
-    "effective_date": "2026-05-21",
-    "source_url": "https://www.dfa.arkansas.gov/excise-tax/sales-and-use-tax/",
-    "retrieved_at": "2026-05-21"
+    "effective_date": "2026-01-01",
+    "source_url": "https://www.dfa.arkansas.gov/wp-content/uploads/Whatsnew2025.pdf",
+    "retrieved_at": "2026-09-28"
   },
   {
     "state": "AR",
@@ -1215,12 +1260,16 @@
     "state": "AZ",
     "category": "food.candy",
     "category_description": "",
-    "taxable": false,
-    "treatment": "exempt",
-    "conditions": {},
+    "taxable": true,
+    "treatment": "conditional",
+    "conditions": {
+      "note": "Candy is exempt food for home consumption under state TPT. Cities may tax food for home consumption, uniformly for all food; county taxes follow the state exemption. TaxLocus applies the local rate, which overstates in cities that do not tax food.",
+      "state_exempt": true,
+      "local_taxable": true
+    },
     "effective_date": "2024-01-01",
-    "source_url": null,
-    "retrieved_at": "2026-05-18"
+    "source_url": "https://www.azleg.gov/ars/42/05106.htm",
+    "retrieved_at": "2026-09-28"
   },
   {
     "state": "AZ",
@@ -1278,12 +1327,16 @@
     "state": "AZ",
     "category": "food.soft_drinks",
     "category_description": "",
-    "taxable": false,
-    "treatment": "exempt",
-    "conditions": {},
+    "taxable": true,
+    "treatment": "conditional",
+    "conditions": {
+      "note": "Sealed soft drinks for home consumption are deemed food (A.R.S. 42-5106(D)), exempt from state TPT. Cities may tax food uniformly; TaxLocus applies the local rate, which overstates in cities that do not tax food.",
+      "state_exempt": true,
+      "local_taxable": true
+    },
     "effective_date": "2024-01-01",
-    "source_url": null,
-    "retrieved_at": "2026-05-18"
+    "source_url": "https://www.azleg.gov/ars/42/05106.htm",
+    "retrieved_at": "2026-09-28"
   },
   {
     "state": "AZ",
@@ -1720,10 +1773,12 @@
     "category_description": "",
     "taxable": false,
     "treatment": "exempt",
-    "conditions": {},
+    "conditions": {
+      "note": "Candy, confectionery and chewing gum are food products (Reg. 1602), exempt when not sold as a meal or hot prepared food."
+    },
     "effective_date": "2024-01-01",
-    "source_url": null,
-    "retrieved_at": "2026-05-18"
+    "source_url": "https://www.cdtfa.ca.gov/lawguides/vol1/sutr/1602.html",
+    "retrieved_at": "2026-09-28"
   },
   {
     "state": "CA",
@@ -1784,11 +1839,14 @@
     "category": "food.soft_drinks",
     "category_description": "",
     "taxable": true,
-    "treatment": "taxable",
-    "conditions": {},
+    "treatment": "conditional",
+    "conditions": {
+      "note": "Carbonated soft drinks are taxable (Reg. 1602). Noncarbonated sweetened drinks are exempt food products; TaxLocus applies the carbonated (taxable) treatment.",
+      "carbonated_beverages_taxable": true
+    },
     "effective_date": "2024-01-01",
-    "source_url": null,
-    "retrieved_at": "2026-05-18"
+    "source_url": "https://www.cdtfa.ca.gov/lawguides/vol1/sutr/1602.html",
+    "retrieved_at": "2026-09-28"
   },
   {
     "state": "CA",
@@ -2220,10 +2278,12 @@
     "category_description": "",
     "taxable": true,
     "treatment": "taxable",
-    "conditions": {},
+    "conditions": {
+      "note": "Candy is excluded from the state food exemption (C.R.S. 39-26-707(1.5)(a)) and is taxed at 2.9% plus special district taxes. A state-collected city or county that exempts food also exempts candy; home-rule cities set their own rules. TaxLocus applies the full rate."
+    },
     "effective_date": "2024-01-01",
-    "source_url": null,
-    "retrieved_at": "2026-05-18"
+    "source_url": "https://tax.colorado.gov/sites/tax/files/PLR%2019-003.pdf",
+    "retrieved_at": "2026-09-28"
   },
   {
     "state": "CO",
@@ -2283,10 +2343,12 @@
     "category_description": "",
     "taxable": true,
     "treatment": "taxable",
-    "conditions": {},
+    "conditions": {
+      "note": "Soft drinks are excluded from the state food exemption (C.R.S. 39-26-707(1.5)(a)); taxed at 2.9% plus special districts. Cities and counties that exempt food may also exempt soft drinks; TaxLocus applies the full rate."
+    },
     "effective_date": "2024-01-01",
-    "source_url": null,
-    "retrieved_at": "2026-05-18"
+    "source_url": "https://tax.colorado.gov/sites/tax/files/PLR%2019-003.pdf",
+    "retrieved_at": "2026-09-28"
   },
   {
     "state": "CO",
@@ -2762,10 +2824,12 @@
     "category_description": "",
     "taxable": true,
     "treatment": "taxable",
-    "conditions": {},
+    "conditions": {
+      "note": "Candy and confectionery are not exempt food products (12-412(13)); taxed at 6.35%."
+    },
     "effective_date": "2024-01-01",
-    "source_url": null,
-    "retrieved_at": "2026-05-18"
+    "source_url": "https://www.cga.ct.gov/current/pub/chap_219.htm",
+    "retrieved_at": "2026-09-28"
   },
   {
     "state": "CT",
@@ -2822,11 +2886,14 @@
     "category": "food.soft_drinks",
     "category_description": "",
     "taxable": true,
-    "treatment": "taxable",
-    "conditions": {},
+    "treatment": "reduced_rate",
+    "conditions": {
+      "note": "Soft drinks and sodas are taxed at an effective 7.35% (6.35% plus the 1% meals and beverages rate), including at grocery stores, since 2019-10-01 (PS 2019(5)). The rate here is that total, which is higher than the general rate.",
+      "reduced_rate": 0.0735
+    },
     "effective_date": "2024-01-01",
-    "source_url": null,
-    "retrieved_at": "2026-05-18"
+    "source_url": "https://portal.ct.gov/-/media/drs/publications/pubsps/2019/ps-2019(5).pdf",
+    "retrieved_at": "2026-09-28"
   },
   {
     "state": "CT",
@@ -3019,11 +3086,14 @@
     "category": "services.data_processing",
     "category_description": "",
     "taxable": true,
-    "treatment": "taxable",
-    "conditions": {},
+    "treatment": "reduced_rate",
+    "conditions": {
+      "note": "Computer and data processing services are taxed at 1% for any buyer (Conn. Gen. Stat. 12-408(1)(D)). Digital goods are 6.35%.",
+      "reduced_rate": 0.01
+    },
     "effective_date": "2024-01-01",
-    "source_url": null,
-    "retrieved_at": "2026-05-18"
+    "source_url": "https://portal.ct.gov/-/media/DRS/Publications/pubsps/2006/PS068pdf.pdf",
+    "retrieved_at": "2026-09-28"
   },
   {
     "state": "CT",
@@ -3063,22 +3133,28 @@
     "category": "services.web_hosting",
     "category_description": "",
     "taxable": true,
-    "treatment": "taxable",
-    "conditions": {},
+    "treatment": "reduced_rate",
+    "conditions": {
+      "note": "Website hosting is a computer and data processing service taxed at 1% since 2015-10-01 (SN 2015(5)). Internet access is exempt.",
+      "reduced_rate": 0.01
+    },
     "effective_date": "2024-01-01",
-    "source_url": null,
-    "retrieved_at": "2026-05-18"
+    "source_url": "https://portal.ct.gov/-/media/drs/publications/pubssn/2015/sn20155pdf.pdf",
+    "retrieved_at": "2026-09-28"
   },
   {
     "state": "CT",
     "category": "software.custom",
     "category_description": "",
     "taxable": true,
-    "treatment": "taxable",
-    "conditions": {},
+    "treatment": "reduced_rate",
+    "conditions": {
+      "note": "Designing, creating or modifying custom software is a computer and data processing service taxed at 1% (Conn. Gen. Stat. 12-408(1)(D); PS 2006(8)). Separately stated license fees for mere use of custom software are not taxed.",
+      "reduced_rate": 0.01
+    },
     "effective_date": "2024-01-01",
-    "source_url": null,
-    "retrieved_at": "2026-05-18"
+    "source_url": "https://portal.ct.gov/-/media/DRS/Publications/pubsps/2006/PS068pdf.pdf",
+    "retrieved_at": "2026-09-28"
   },
   {
     "state": "CT",
@@ -3096,11 +3172,14 @@
     "category": "software.saas",
     "category_description": "",
     "taxable": true,
-    "treatment": "taxable",
-    "conditions": {},
+    "treatment": "conditional",
+    "conditions": {
+      "note": "Electronically accessed canned software (SaaS) sold to a business for use by the business is taxed at 1% as a computer and data processing service; sold for personal use it is taxed at 6.35% (SN 2019(8)). The seller should keep the buyer's business name, address and a statement that it is a business.",
+      "b2b_rate": 0.01
+    },
     "effective_date": "2024-01-01",
-    "source_url": null,
-    "retrieved_at": "2026-05-18"
+    "source_url": "https://portal.ct.gov/-/media/drs/publications/pubssn/2019/sn-2019(8).pdf",
+    "retrieved_at": "2026-09-28"
   },
   {
     "state": "DC",
@@ -4282,12 +4361,16 @@
     "state": "GA",
     "category": "food.candy",
     "category_description": "",
-    "taxable": false,
-    "treatment": "exempt",
-    "conditions": {},
+    "taxable": true,
+    "treatment": "conditional",
+    "conditions": {
+      "note": "Candy is food exempt from the 4% state tax; local taxes apply (Rule 560-12-2-.104).",
+      "state_exempt": true,
+      "local_taxable": true
+    },
     "effective_date": "2024-01-01",
-    "source_url": null,
-    "retrieved_at": "2026-05-18"
+    "source_url": "https://rules.sos.ga.gov/gac/560-12-2-.104",
+    "retrieved_at": "2026-09-28"
   },
   {
     "state": "GA",
@@ -4343,12 +4426,16 @@
     "state": "GA",
     "category": "food.soft_drinks",
     "category_description": "",
-    "taxable": false,
-    "treatment": "exempt",
-    "conditions": {},
+    "taxable": true,
+    "treatment": "conditional",
+    "conditions": {
+      "note": "Packaged beverages are food exempt from the 4% state tax; local taxes apply (Rule 560-12-2-.104).",
+      "state_exempt": true,
+      "local_taxable": true
+    },
     "effective_date": "2024-01-01",
-    "source_url": null,
-    "retrieved_at": "2026-05-18"
+    "source_url": "https://rules.sos.ga.gov/gac/560-12-2-.104",
+    "retrieved_at": "2026-09-28"
   },
   {
     "state": "GA",
@@ -5639,12 +5726,15 @@
     "state": "IA",
     "category": "software.saas",
     "category_description": "",
-    "taxable": false,
-    "treatment": "exempt",
-    "conditions": {},
+    "taxable": true,
+    "treatment": "conditional",
+    "conditions": {
+      "note": "SaaS is taxable (Iowa Code 423.2(6)(bu)), except when sold to a commercial enterprise for its exclusive use (423.3(104)). TaxLocus treats a B2B buyer as a commercial enterprise; nonprofits other than insurers and financial institutions do not qualify.",
+      "b2b_exempt": true
+    },
     "effective_date": "2024-01-01",
-    "source_url": null,
-    "retrieved_at": "2026-05-18"
+    "source_url": "https://www.legis.iowa.gov/docs/code/423.3.pdf",
+    "retrieved_at": "2026-09-28"
   },
   {
     "state": "ID",
@@ -6331,12 +6421,13 @@
     "taxable": true,
     "treatment": "reduced_rate",
     "conditions": {
-      "note": "IL state grocery tax was 1% through 2025; PA 103-0781 lets local governments levy a 1% local grocery tax effective 2026-01-01. As of 2026 there is no statewide grocery tax.",
+      "note": "The State 1% grocery tax ended 2026-01-01. Groceries are now taxed only locally, and the rate depends on location: a 1% local grocery tax where the municipality (or, in unincorporated areas, the county) adopted one (Chicago did not), plus the NITA grocery tax (1.50% Cook, 1.00% collar counties from 2026-08-01) and the Metro East Transit District tax. TaxLocus returns a flat 1% as an approximation; check the IDOR Tax Rate Finder (mytax.illinois.gov) for the exact rate at a location. Candy and soft drinks are not groceries and are taxed at the general rate.",
+      "per_location": true,
       "reduced_rate": 0.01
     },
-    "effective_date": "2026-05-20",
-    "source_url": "https://www.ilga.gov/legislation/publicacts/103/103-0781.htm",
-    "retrieved_at": "2026-05-20"
+    "effective_date": "2026-01-01",
+    "source_url": "https://tax.illinois.gov/research/publications/bulletins/fy-2026-11.html",
+    "retrieved_at": "2026-09-28"
   },
   {
     "state": "IL",
@@ -8292,12 +8383,16 @@
     "state": "LA",
     "category": "food.candy",
     "category_description": "",
-    "taxable": false,
-    "treatment": "exempt",
-    "conditions": {},
+    "taxable": true,
+    "treatment": "conditional",
+    "conditions": {
+      "note": "Candy is food for home consumption, exempt from the state tax (R.S. 47:305(C)); parish and municipal taxes apply.",
+      "state_exempt": true,
+      "local_taxable": true
+    },
     "effective_date": "2024-01-01",
-    "source_url": null,
-    "retrieved_at": "2026-05-18"
+    "source_url": "https://legis.la.gov/Legis/Law.aspx?d=101873",
+    "retrieved_at": "2026-09-28"
   },
   {
     "state": "LA",
@@ -8355,12 +8450,16 @@
     "state": "LA",
     "category": "food.soft_drinks",
     "category_description": "",
-    "taxable": false,
-    "treatment": "exempt",
-    "conditions": {},
+    "taxable": true,
+    "treatment": "conditional",
+    "conditions": {
+      "note": "Soft drinks for home consumption are exempt from the state tax (R.S. 47:305(C)(1)(c)); local taxes apply. Drinks sold with a cup or straw are not food for home consumption.",
+      "state_exempt": true,
+      "local_taxable": true
+    },
     "effective_date": "2024-01-01",
-    "source_url": null,
-    "retrieved_at": "2026-05-18"
+    "source_url": "https://legis.la.gov/Legis/Law.aspx?d=101873",
+    "retrieved_at": "2026-09-28"
   },
   {
     "state": "LA",
@@ -9347,10 +9446,12 @@
     "category_description": "",
     "taxable": true,
     "treatment": "taxable",
-    "conditions": {},
+    "conditions": {
+      "note": "Candy and confectionery are excluded from the food exemption (Tax-Gen. 11-206); taxed at 6%."
+    },
     "effective_date": "2024-01-01",
-    "source_url": null,
-    "retrieved_at": "2026-05-18"
+    "source_url": "https://mgaleg.maryland.gov/mgawebsite/Laws/StatuteText?article=gtg&section=11-206&enactments=false",
+    "retrieved_at": "2026-09-28"
   },
   {
     "state": "MD",
@@ -9406,10 +9507,12 @@
     "category_description": "",
     "taxable": true,
     "treatment": "taxable",
-    "conditions": {},
+    "conditions": {
+      "note": "Soft drinks and carbonated beverages are excluded from the food exemption (Tax-Gen. 11-206); taxed at 6%."
+    },
     "effective_date": "2024-01-01",
-    "source_url": null,
-    "retrieved_at": "2026-05-18"
+    "source_url": "https://mgaleg.maryland.gov/mgawebsite/Laws/StatuteText?article=gtg&section=11-206&enactments=false",
+    "retrieved_at": "2026-09-28"
   },
   {
     "state": "MD",
@@ -9599,12 +9702,15 @@
     "state": "MD",
     "category": "services.data_processing",
     "category_description": "",
-    "taxable": false,
-    "treatment": "exempt",
-    "conditions": {},
-    "effective_date": "2024-01-01",
-    "source_url": null,
-    "retrieved_at": "2026-05-18"
+    "taxable": true,
+    "treatment": "reduced_rate",
+    "conditions": {
+      "note": "Data processing (NAICS 518) taxed at 3% from 2025-07-01, except payroll services and financial transaction processing (TB 56). No general business-buyer exemption; affiliated-group sales exempt from 2026-07-01.",
+      "reduced_rate": 0.03
+    },
+    "effective_date": "2025-07-01",
+    "source_url": "https://www.marylandcomptroller.gov/content/dam/mdcomp/tax/legal-publications/technical-bulletins/tb-56.pdf",
+    "retrieved_at": "2026-09-28"
   },
   {
     "state": "MD",
@@ -9644,22 +9750,28 @@
     "category": "services.web_hosting",
     "category_description": "",
     "taxable": true,
-    "treatment": "taxable",
-    "conditions": {},
-    "effective_date": "2024-01-01",
-    "source_url": null,
-    "retrieved_at": "2026-05-18"
+    "treatment": "reduced_rate",
+    "conditions": {
+      "note": "Web and application hosting (NAICS 518) taxed at 3% from 2025-07-01 (TB 56). No general business-buyer exemption; affiliated-group sales exempt from 2026-07-01.",
+      "reduced_rate": 0.03
+    },
+    "effective_date": "2025-07-01",
+    "source_url": "https://www.marylandcomptroller.gov/content/dam/mdcomp/tax/legal-publications/technical-bulletins/tb-56.pdf",
+    "retrieved_at": "2026-09-28"
   },
   {
     "state": "MD",
     "category": "software.custom",
     "category_description": "",
-    "taxable": false,
-    "treatment": "exempt",
-    "conditions": {},
-    "effective_date": "2024-01-01",
-    "source_url": null,
-    "retrieved_at": "2026-05-18"
+    "taxable": true,
+    "treatment": "reduced_rate",
+    "conditions": {
+      "note": "Custom computer programming (NAICS 541511) taxed at 3% from 2025-07-01; the customized-software exemption was repealed (TB 56 Q7). No general business-buyer exemption; affiliated-group sales exempt from 2026-07-01.",
+      "reduced_rate": 0.03
+    },
+    "effective_date": "2025-07-01",
+    "source_url": "https://www.marylandcomptroller.gov/content/dam/mdcomp/tax/legal-publications/technical-bulletins/tb-56.pdf",
+    "retrieved_at": "2026-09-28"
   },
   {
     "state": "MD",
@@ -9677,11 +9789,14 @@
     "category": "software.saas",
     "category_description": "",
     "taxable": true,
-    "treatment": "taxable",
-    "conditions": {},
-    "effective_date": "2024-01-01",
-    "source_url": null,
-    "retrieved_at": "2026-05-18"
+    "treatment": "conditional",
+    "conditions": {
+      "note": "SaaS bought for use in an enterprise computer system for commercial purposes is taxed at 3% from 2025-07-01; SaaS bought for individual use is a digital product taxed at 6% (TB 56 Q6). Sales between members of an affiliated group are exempt from 2026-07-01 (Chapters 351/352 of 2026).",
+      "b2b_rate": 0.03
+    },
+    "effective_date": "2025-07-01",
+    "source_url": "https://www.marylandcomptroller.gov/content/dam/mdcomp/tax/legal-publications/technical-bulletins/tb-56.pdf",
+    "retrieved_at": "2026-09-28"
   },
   {
     "state": "ME",
@@ -10341,10 +10456,12 @@
     "category_description": "",
     "taxable": false,
     "treatment": "exempt",
-    "conditions": {},
+    "conditions": {
+      "note": "Candy is food and food ingredients, exempt (MCL 205.54g)."
+    },
     "effective_date": "2024-01-01",
-    "source_url": null,
-    "retrieved_at": "2026-05-18"
+    "source_url": "https://www.legislature.mi.gov/Laws/MCL?objectName=mcl-205-54g",
+    "retrieved_at": "2026-09-28"
   },
   {
     "state": "MI",
@@ -10400,10 +10517,12 @@
     "category_description": "",
     "taxable": false,
     "treatment": "exempt",
-    "conditions": {},
+    "conditions": {
+      "note": "Soft drinks are food and food ingredients, exempt (MCL 205.54g)."
+    },
     "effective_date": "2024-01-01",
-    "source_url": null,
-    "retrieved_at": "2026-05-18"
+    "source_url": "https://www.legislature.mi.gov/Laws/MCL?objectName=mcl-205-54g",
+    "retrieved_at": "2026-09-28"
   },
   {
     "state": "MI",
@@ -11379,11 +11498,14 @@
     "category": "food.candy",
     "category_description": "",
     "taxable": true,
-    "treatment": "taxable",
-    "conditions": {},
+    "treatment": "conditional",
+    "conditions": {
+      "note": "Candy is SNAP-eligible food, taxed at the reduced 1.225% state rate (RSMo 144.014) plus full local taxes. A USDA SNAP waiver excluding candy starts 2027-02-15; whether it changes the state rate is not settled.",
+      "reduced_state_rate": 0.01225
+    },
     "effective_date": "2024-01-01",
-    "source_url": null,
-    "retrieved_at": "2026-05-18"
+    "source_url": "https://dor.mo.gov/taxation/business/tax-types/sales-use/reduction-on-food.html",
+    "retrieved_at": "2026-09-28"
   },
   {
     "state": "MO",
@@ -11442,11 +11564,14 @@
     "category": "food.soft_drinks",
     "category_description": "",
     "taxable": true,
-    "treatment": "taxable",
-    "conditions": {},
+    "treatment": "conditional",
+    "conditions": {
+      "note": "Soft drinks are SNAP-eligible food, taxed at the reduced 1.225% state rate (RSMo 144.014) plus full local taxes. A USDA SNAP waiver excluding certain beverages starts 2027-02-15; whether it changes the state rate is not settled.",
+      "reduced_state_rate": 0.01225
+    },
     "effective_date": "2024-01-01",
-    "source_url": null,
-    "retrieved_at": "2026-05-18"
+    "source_url": "https://dor.mo.gov/taxation/business/tax-types/sales-use/reduction-on-food.html",
+    "retrieved_at": "2026-09-28"
   },
   {
     "state": "MO",
@@ -12237,11 +12362,14 @@
     "category": "software.saas",
     "category_description": "",
     "taxable": false,
-    "treatment": "exempt",
-    "conditions": {},
+    "treatment": "conditional",
+    "conditions": {
+      "note": "Software on a server outside Mississippi and accessed only over the internet is not a taxable retail sale from 2023-07-01 (Miss. Code 27-65-7, SB 2449). SaaS hosted on a Mississippi server is taxable at 7%; TaxLocus assumes out-of-state hosting.",
+      "hosted_outside_state_exempt": true
+    },
     "effective_date": "2024-01-01",
-    "source_url": null,
-    "retrieved_at": "2026-05-18"
+    "source_url": "https://billstatus.ls.state.ms.us/documents/2023/pdf/SB/2400-2499/SB2449SG.pdf",
+    "retrieved_at": "2026-09-28"
   },
   {
     "state": "NC",
@@ -13398,10 +13526,12 @@
     "category_description": "",
     "taxable": false,
     "treatment": "exempt",
-    "conditions": {},
+    "conditions": {
+      "note": "Candy is food and food ingredients, exempt from state and local tax (77-2704.24)."
+    },
     "effective_date": "2024-01-01",
-    "source_url": null,
-    "retrieved_at": "2026-05-18"
+    "source_url": "https://nebraskalegislature.gov/laws/statutes.php?statute=77-2704.24",
+    "retrieved_at": "2026-09-28"
   },
   {
     "state": "NE",
@@ -13457,10 +13587,12 @@
     "category_description": "",
     "taxable": false,
     "treatment": "exempt",
-    "conditions": {},
+    "conditions": {
+      "note": "Soft drinks are food and food ingredients, exempt from state and local tax (77-2704.24)."
+    },
     "effective_date": "2024-01-01",
-    "source_url": null,
-    "retrieved_at": "2026-05-18"
+    "source_url": "https://nebraskalegislature.gov/laws/statutes.php?statute=77-2704.24",
+    "retrieved_at": "2026-09-28"
   },
   {
     "state": "NE",
@@ -13904,10 +14036,12 @@
     "category_description": "",
     "taxable": true,
     "treatment": "taxable",
-    "conditions": {},
+    "conditions": {
+      "note": "Candy is taxable (N.J.S.A. 54:32B-8.2; TB-70)."
+    },
     "effective_date": "2024-01-01",
-    "source_url": null,
-    "retrieved_at": "2026-05-18"
+    "source_url": "https://www.nj.gov/treasury/taxation/pdf/pubs/tb/tb70.pdf",
+    "retrieved_at": "2026-09-28"
   },
   {
     "state": "NJ",
@@ -13965,10 +14099,12 @@
     "category_description": "",
     "taxable": true,
     "treatment": "taxable",
-    "conditions": {},
+    "conditions": {
+      "note": "Soft drinks are taxable (N.J.S.A. 54:32B-8.2; TB-70)."
+    },
     "effective_date": "2024-01-01",
-    "source_url": null,
-    "retrieved_at": "2026-05-18"
+    "source_url": "https://www.nj.gov/treasury/taxation/pdf/pubs/tb/tb70.pdf",
+    "retrieved_at": "2026-09-28"
   },
   {
     "state": "NJ",
@@ -14938,10 +15074,12 @@
     "category_description": "",
     "taxable": false,
     "treatment": "exempt",
-    "conditions": {},
+    "conditions": {
+      "note": "Candy is food for human consumption, exempt from state and local school support tax (NRS 372.284, 374.289)."
+    },
     "effective_date": "2024-01-01",
-    "source_url": null,
-    "retrieved_at": "2026-05-18"
+    "source_url": "https://www.leg.state.nv.us/NRS/NRS-372.html",
+    "retrieved_at": "2026-09-28"
   },
   {
     "state": "NV",
@@ -14997,10 +15135,12 @@
     "category_description": "",
     "taxable": false,
     "treatment": "exempt",
-    "conditions": {},
+    "conditions": {
+      "note": "Soft drinks are food for human consumption, exempt from state and local school support tax (NRS 372.284, 374.289)."
+    },
     "effective_date": "2024-01-01",
-    "source_url": null,
-    "retrieved_at": "2026-05-18"
+    "source_url": "https://www.leg.state.nv.us/NRS/NRS-372.html",
+    "retrieved_at": "2026-09-28"
   },
   {
     "state": "NV",
@@ -15953,10 +16093,12 @@
     "category_description": "",
     "taxable": false,
     "treatment": "exempt",
-    "conditions": {},
+    "conditions": {
+      "note": "Candy is food (only soft drinks, dietary supplements, alcohol and tobacco are excluded), exempt off premises (R.C. 5739.02(B)(2))."
+    },
     "effective_date": "2024-01-01",
-    "source_url": null,
-    "retrieved_at": "2026-05-18"
+    "source_url": "https://codes.ohio.gov/ohio-revised-code/section-5739.01",
+    "retrieved_at": "2026-09-28"
   },
   {
     "state": "OH",
@@ -16285,11 +16427,14 @@
     "category": "software.saas",
     "category_description": "",
     "taxable": true,
-    "treatment": "taxable",
-    "conditions": {},
+    "treatment": "conditional",
+    "conditions": {
+      "note": "SaaS is taxed as automatic data processing or electronic information services only when bought for use in business (R.C. 5739.01(B)(3)(e); rule 5703-9-46); personal use is not taxed.",
+      "b2c_exempt": true
+    },
     "effective_date": "2024-01-01",
-    "source_url": null,
-    "retrieved_at": "2026-05-18"
+    "source_url": "https://codes.ohio.gov/ohio-administrative-code/rule-5703-9-46",
+    "retrieved_at": "2026-09-28"
   },
   {
     "state": "OK",
@@ -16483,11 +16628,15 @@
     "category": "food.candy",
     "category_description": "",
     "taxable": true,
-    "treatment": "taxable",
-    "conditions": {},
+    "treatment": "conditional",
+    "conditions": {
+      "note": "Candy is food and food ingredients, exempt from the state tax from 2024-08-29 (HB 1955); local taxes apply.",
+      "state_exempt": true,
+      "local_taxable": true
+    },
     "effective_date": "2024-01-01",
-    "source_url": null,
-    "retrieved_at": "2026-05-18"
+    "source_url": "https://oklahoma.gov/tax/businesses/state-sales-tax-on-food-and-food-ingredients.html",
+    "retrieved_at": "2026-09-28"
   },
   {
     "state": "OK",
@@ -16546,11 +16695,15 @@
     "category": "food.soft_drinks",
     "category_description": "",
     "taxable": true,
-    "treatment": "taxable",
-    "conditions": {},
+    "treatment": "conditional",
+    "conditions": {
+      "note": "Soft drinks are food and food ingredients, exempt from the state tax from 2024-08-29 (HB 1955); local taxes apply.",
+      "state_exempt": true,
+      "local_taxable": true
+    },
     "effective_date": "2024-01-01",
-    "source_url": null,
-    "retrieved_at": "2026-05-18"
+    "source_url": "https://oklahoma.gov/tax/businesses/state-sales-tax-on-food-and-food-ingredients.html",
+    "retrieved_at": "2026-09-28"
   },
   {
     "state": "OK",
@@ -16989,10 +17142,12 @@
     "category_description": "",
     "taxable": false,
     "treatment": "exempt",
-    "conditions": {},
+    "conditions": {
+      "note": "Candy and gum sold by a food or nonfood retailer are exempt (61 Pa. Code 60.7); taxable when sold by an eating establishment or caterer."
+    },
     "effective_date": "2024-01-01",
-    "source_url": null,
-    "retrieved_at": "2026-05-18"
+    "source_url": "https://www.pacodeandbulletin.gov/Display/pacode?file=%2Fsecure%2Fpacode%2Fdata%2F061%2Fchapter60%2Fs60.7.html",
+    "retrieved_at": "2026-09-28"
   },
   {
     "state": "PA",
@@ -17050,10 +17205,12 @@
     "category_description": "",
     "taxable": true,
     "treatment": "taxable",
-    "conditions": {},
+    "conditions": {
+      "note": "Soft drinks are taxable selected food and beverage items whoever sells them (61 Pa. Code 60.7)."
+    },
     "effective_date": "2024-01-01",
-    "source_url": null,
-    "retrieved_at": "2026-05-18"
+    "source_url": "https://www.pacodeandbulletin.gov/Display/pacode?file=%2Fsecure%2Fpacode%2Fdata%2F061%2Fchapter60%2Fs60.7.html",
+    "retrieved_at": "2026-09-28"
   },
   {
     "state": "PA",
@@ -18031,12 +18188,16 @@
     "state": "SC",
     "category": "food.candy",
     "category_description": "",
-    "taxable": false,
-    "treatment": "exempt",
-    "conditions": {},
+    "taxable": true,
+    "treatment": "conditional",
+    "conditions": {
+      "note": "Candy is SNAP-eligible unprepared food, exempt from the 6% state tax only (12-36-2120(75)); local taxes apply unless the local law exempts unprepared food, which varies.",
+      "state_exempt": true,
+      "local_taxable": true
+    },
     "effective_date": "2024-01-01",
-    "source_url": null,
-    "retrieved_at": "2026-05-18"
+    "source_url": "https://dor.sc.gov/sales-use-tax-unprepared-food-amended-exemption",
+    "retrieved_at": "2026-09-28"
   },
   {
     "state": "SC",
@@ -18094,12 +18255,16 @@
     "state": "SC",
     "category": "food.soft_drinks",
     "category_description": "",
-    "taxable": false,
-    "treatment": "exempt",
-    "conditions": {},
+    "taxable": true,
+    "treatment": "conditional",
+    "conditions": {
+      "note": "Bottled soft drinks are SNAP-eligible unprepared food, exempt from the 6% state tax only (12-36-2120(75), IL 26-13); local taxes apply unless the local law exempts unprepared food, which varies.",
+      "state_exempt": true,
+      "local_taxable": true
+    },
     "effective_date": "2024-01-01",
-    "source_url": null,
-    "retrieved_at": "2026-05-18"
+    "source_url": "https://dor.sc.gov/sales-use-tax-unprepared-food-amended-exemption",
+    "retrieved_at": "2026-09-28"
   },
   {
     "state": "SC",
@@ -19920,11 +20085,14 @@
     "category": "software.saas",
     "category_description": "",
     "taxable": true,
-    "treatment": "taxable",
-    "conditions": {},
+    "treatment": "conditional",
+    "conditions": {
+      "note": "SaaS is a data processing service; 20% of the charge is exempt, so tax applies to 80% (Tax Code 151.351; Pub 96-259).",
+      "taxable_fraction": 0.8
+    },
     "effective_date": "2024-01-01",
-    "source_url": null,
-    "retrieved_at": "2026-05-18"
+    "source_url": "https://comptroller.texas.gov/taxes/publications/96-259.php",
+    "retrieved_at": "2026-09-28"
   },
   {
     "state": "UT",
@@ -20422,10 +20590,12 @@
     "category_description": "",
     "taxable": true,
     "treatment": "taxable",
-    "conditions": {},
+    "conditions": {
+      "note": "Remotely accessed prewritten software (SaaS) used in Utah is taxable (Pub 64); codified as seller-hosted prewritten computer software from 2026-07-01 (SB 162). Remotely accessed custom software is not taxable."
+    },
     "effective_date": "2024-01-01",
-    "source_url": null,
-    "retrieved_at": "2026-05-18"
+    "source_url": "https://files.tax.utah.gov/tax/forms/pubs/pub-64.pdf",
+    "retrieved_at": "2026-09-28"
   },
   {
     "state": "VA",
@@ -20618,11 +20788,14 @@
     "category": "food.candy",
     "category_description": "",
     "taxable": true,
-    "treatment": "taxable",
-    "conditions": {},
+    "treatment": "reduced_rate",
+    "conditions": {
+      "note": "Candy is food for human consumption (SNAP definition), taxed only at the uniform 1% local rate (58.1-611.1).",
+      "reduced_rate": 0.01
+    },
     "effective_date": "2024-01-01",
-    "source_url": null,
-    "retrieved_at": "2026-05-18"
+    "source_url": "https://law.lis.virginia.gov/vacode/title58.1/chapter6/section58.1-611.1/",
+    "retrieved_at": "2026-09-28"
   },
   {
     "state": "VA",
@@ -20681,11 +20854,14 @@
     "category": "food.soft_drinks",
     "category_description": "",
     "taxable": true,
-    "treatment": "taxable",
-    "conditions": {},
+    "treatment": "reduced_rate",
+    "conditions": {
+      "note": "Soft drinks are food for human consumption under the SNAP definition, taxed only at the 1% local rate (58.1-611.1). A USDA waiver excludes sweetened beverages from Virginia SNAP from about 2026-10-01; Virginia Tax has not said whether that moves them to the full rate. Re-check.",
+      "reduced_rate": 0.01
+    },
     "effective_date": "2024-01-01",
-    "source_url": null,
-    "retrieved_at": "2026-05-18"
+    "source_url": "https://law.lis.virginia.gov/vacode/title58.1/chapter6/section58.1-611.1/",
+    "retrieved_at": "2026-09-28"
   },
   {
     "state": "VA",
@@ -21133,10 +21309,12 @@
     "category_description": "",
     "taxable": false,
     "treatment": "exempt",
-    "conditions": {},
+    "conditions": {
+      "note": "Candy is food and food ingredients, exempt (32 V.S.A. 9741(13))."
+    },
     "effective_date": "2024-01-01",
-    "source_url": null,
-    "retrieved_at": "2026-05-18"
+    "source_url": "https://legislature.vermont.gov/statutes/section/32/233/09701",
+    "retrieved_at": "2026-09-28"
   },
   {
     "state": "VT",
@@ -21194,12 +21372,14 @@
     "state": "VT",
     "category": "food.soft_drinks",
     "category_description": "",
-    "taxable": false,
-    "treatment": "exempt",
-    "conditions": {},
+    "taxable": true,
+    "treatment": "taxable",
+    "conditions": {
+      "note": "Soft drinks are excluded from food and food ingredients and taxed at 6% since 2015-07-01 (32 V.S.A. 9701(31)); 1% local option tax applies where adopted."
+    },
     "effective_date": "2024-01-01",
-    "source_url": null,
-    "retrieved_at": "2026-05-18"
+    "source_url": "https://legislature.vermont.gov/statutes/section/32/233/09701",
+    "retrieved_at": "2026-09-28"
   },
   {
     "state": "VT",
@@ -21471,10 +21651,12 @@
     "category_description": "",
     "taxable": true,
     "treatment": "taxable",
-    "conditions": {},
-    "effective_date": "2024-01-01",
-    "source_url": null,
-    "retrieved_at": "2026-05-18"
+    "conditions": {
+      "note": "All prewritten software, including remotely accessed (SaaS), is taxable at 6% from 2024-07-01 (Act 183 of 2024); 1% local option tax may apply. Custom software is not taxable."
+    },
+    "effective_date": "2024-07-01",
+    "source_url": "https://tax.vermont.gov/business-and-corp/sales-and-use-tax/prewritten-computer-software",
+    "retrieved_at": "2026-09-28"
   },
   {
     "state": "WA",
@@ -21636,10 +21818,12 @@
     "category_description": "",
     "taxable": false,
     "treatment": "exempt",
-    "conditions": {},
+    "conditions": {
+      "note": "Candy is exempt food; only prepared food, soft drinks, bottled water and dietary supplements are excluded (RCW 82.08.0293(2))."
+    },
     "effective_date": "2024-01-01",
-    "source_url": null,
-    "retrieved_at": "2026-05-18"
+    "source_url": "https://app.leg.wa.gov/RCW/default.aspx?cite=82.08.0293",
+    "retrieved_at": "2026-09-28"
   },
   {
     "state": "WA",
@@ -21887,12 +22071,14 @@
     "state": "WA",
     "category": "services.data_processing",
     "category_description": "",
-    "taxable": false,
-    "treatment": "exempt",
-    "conditions": {},
-    "effective_date": "2024-01-01",
-    "source_url": null,
-    "retrieved_at": "2026-05-18"
+    "taxable": true,
+    "treatment": "taxable",
+    "conditions": {
+      "note": "Data processing is a retail IT service from 2025-10-01 (ESSB 5814, RCW 82.04.050(3)(g)); there is no business-buyer exclusion. Sales between members of an affiliated group are excluded (RCW 82.04.050(17))."
+    },
+    "effective_date": "2025-10-01",
+    "source_url": "https://dor.wa.gov/laws-rules/interim_guidance_statements/interim-guidance-statement-regarding-changes-made-essb-5814-information-technology-services",
+    "retrieved_at": "2026-09-28"
   },
   {
     "state": "WA",
@@ -21931,23 +22117,27 @@
     "state": "WA",
     "category": "services.web_hosting",
     "category_description": "",
-    "taxable": true,
-    "treatment": "taxable",
-    "conditions": {},
+    "taxable": false,
+    "treatment": "exempt",
+    "conditions": {
+      "note": "Web hosting (providing server space) is not a retail sale; it is subject to B&O tax only (RCW 82.04.192(3)(b)), and ESSB 5814 excludes it from IT services. Optional premium services beyond storage or hosting can be taxable digital automated services (WAC 458-20-15503)."
+    },
     "effective_date": "2024-01-01",
-    "source_url": null,
-    "retrieved_at": "2026-05-18"
+    "source_url": "https://app.leg.wa.gov/RCW/default.aspx?cite=82.04.192",
+    "retrieved_at": "2026-09-28"
   },
   {
     "state": "WA",
     "category": "software.custom",
     "category_description": "",
-    "taxable": false,
-    "treatment": "exempt",
-    "conditions": {},
-    "effective_date": "2024-01-01",
-    "source_url": null,
-    "retrieved_at": "2026-05-18"
+    "taxable": true,
+    "treatment": "taxable",
+    "conditions": {
+      "note": "Custom software and customization of prewritten software are retail sales from 2025-10-01 (ESSB 5814, RCW 82.04.050(6)). Sales between members of an affiliated group are excluded (RCW 82.04.050(17), retroactive to 2025-10-01). ESSB 6346 (2026) repeals this from 2029-01-01, contingent on its income tax surviving court review."
+    },
+    "effective_date": "2025-10-01",
+    "source_url": "https://dor.wa.gov/laws-rules/interim_guidance_statements/interim-guidance-statement-regarding-changes-made-essb-5814-custom-software",
+    "retrieved_at": "2026-09-28"
   },
   {
     "state": "WA",
@@ -22630,10 +22820,12 @@
     "category_description": "",
     "taxable": false,
     "treatment": "exempt",
-    "conditions": {},
+    "conditions": {
+      "note": "Candy is food and food ingredients, untaxed since 2013-07-01 (11-15-3a, 11-15B-2); municipal tax follows."
+    },
     "effective_date": "2024-01-01",
-    "source_url": null,
-    "retrieved_at": "2026-05-18"
+    "source_url": "https://code.wvlegislature.gov/11-15-3B/",
+    "retrieved_at": "2026-09-28"
   },
   {
     "state": "WV",
@@ -23132,10 +23324,12 @@
     "category_description": "",
     "taxable": false,
     "treatment": "exempt",
-    "conditions": {},
+    "conditions": {
+      "note": "Candy is food for domestic home consumption, exempt from state and local tax (39-15-105)."
+    },
     "effective_date": "2024-01-01",
-    "source_url": null,
-    "retrieved_at": "2026-05-18"
+    "source_url": "https://wyoleg.gov/statutes/compress/title39.pdf",
+    "retrieved_at": "2026-09-28"
   },
   {
     "state": "WY",
@@ -23191,10 +23385,12 @@
     "category_description": "",
     "taxable": false,
     "treatment": "exempt",
-    "conditions": {},
+    "conditions": {
+      "note": "Soft drinks are food for domestic home consumption, exempt from state and local tax (39-15-105)."
+    },
     "effective_date": "2024-01-01",
-    "source_url": null,
-    "retrieved_at": "2026-05-18"
+    "source_url": "https://wyoleg.gov/statutes/compress/title39.pdf",
+    "retrieved_at": "2026-09-28"
   },
   {
     "state": "WY",

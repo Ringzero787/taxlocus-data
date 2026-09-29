@@ -1,11 +1,11 @@
 state,jurisdiction_type,name,fips_code,rate,source_key,rate_type,effective_date,source_url,retrieved_at
-AK,borough,Haines Borough,,0.055,AK-B-hainesborough,sales,2024-01-01,https://arsstc.org/business-sellers/member-jurisdictions/,2026-05-18
+AK,borough,Haines Borough,,0.05,AK-B-hainesborough,sales,2026-04-01,https://arsstc.org/business-sellers/member-jurisdictions/,2026-09-29
 AK,borough,Juneau City and Borough,,0.05,AK-B-juneaucityandborough,sales,2024-01-01,https://arsstc.org/business-sellers/member-jurisdictions/,2026-05-18
 AK,borough,Kenai Peninsula Borough,,0.03,AK-B-kenaipeninsulaborough,sales,2024-01-01,https://arsstc.org/business-sellers/member-jurisdictions/,2026-05-18
 AK,borough,Ketchikan Gateway Borough,,0.025,AK-B-ketchikangatewayborough,sales,2024-01-01,https://arsstc.org/business-sellers/member-jurisdictions/,2026-05-18
 AK,borough,Petersburg Borough,,0.06,AK-B-petersburgborough,sales,2024-01-01,https://arsstc.org/business-sellers/member-jurisdictions/,2026-05-18
-AK,borough,Sitka City and Borough,,0.05,AK-B-sitkacityandborough,sales,2024-01-01,https://arsstc.org/business-sellers/member-jurisdictions/,2026-05-18
-AK,borough,Skagway Municipality,,0.03,AK-B-skagwaymunicipality,sales,2024-01-01,https://arsstc.org/business-sellers/member-jurisdictions/,2026-05-18
+AK,borough,Sitka City and Borough,,0.06,AK-B-sitkacityandborough,sales,2026-04-01,https://arsstc.org/business-sellers/member-jurisdictions/,2026-09-29
+AK,borough,Skagway Municipality,,0.05,AK-B-skagwaymunicipality,sales,2026-04-01,https://arsstc.org/business-sellers/member-jurisdictions/,2026-09-29
 AK,borough,Wrangell City and Borough,,0.07,AK-B-wrangellcityandborough,sales,2024-01-01,https://arsstc.org/business-sellers/member-jurisdictions/,2026-05-18
 AK,borough,Yakutat City and Borough,,0.05,AK-B-yakutatcityandborough,sales,2024-01-01,https://arsstc.org/business-sellers/member-jurisdictions/,2026-05-18
 AK,city,Adak,,0.04,AK-P-adak,sales,2024-01-01,https://arsstc.org/business-sellers/member-jurisdictions/,2026-05-18
@@ -23,8 +23,8 @@ AK,city,Chefornak,,0.02,AK-P-chefornak,sales,2024-01-01,https://arsstc.org/busin
 AK,city,Chevak,,0.03,AK-P-chevak,sales,2024-01-01,https://arsstc.org/business-sellers/member-jurisdictions/,2026-05-18
 AK,city,Chignik,,0.02,AK-P-chignik,sales,2024-01-01,https://arsstc.org/business-sellers/member-jurisdictions/,2026-05-18
 AK,city,Clark's Point,,0.06,AK-P-clarkspoint,sales,2024-01-01,https://arsstc.org/business-sellers/member-jurisdictions/,2026-05-18
-AK,city,Cordova,,0.06,AK-P-cordova,sales,2024-01-01,https://arsstc.org/business-sellers/member-jurisdictions/,2026-05-18
-AK,city,Craig,,0.05,AK-P-craig,sales,2024-01-01,https://arsstc.org/business-sellers/member-jurisdictions/,2026-05-18
+AK,city,Cordova,,0.07,AK-P-cordova,sales,2024-02-01,https://arsstc.org/business-sellers/member-jurisdictions/,2026-09-29
+AK,city,Craig,,0.07,AK-P-craig,sales,2026-04-01,https://arsstc.org/business-sellers/member-jurisdictions/,2026-09-29
 AK,city,Dillingham,,0.06,AK-P-dillingham,sales,2024-01-01,https://arsstc.org/business-sellers/member-jurisdictions/,2026-05-18
 AK,city,Diomede,,0.04,AK-P-diomede,sales,2024-01-01,https://arsstc.org/business-sellers/member-jurisdictions/,2026-05-18
 AK,city,Eek,,0.02,AK-P-eek,sales,2024-01-01,https://arsstc.org/business-sellers/member-jurisdictions/,2026-05-18
@@ -35,6 +35,7 @@ AK,city,Fort Yukon,,0.04,AK-P-fortyukon,sales,2024-01-01,https://arsstc.org/busi
 AK,city,Galena,,0.03,AK-P-galena,sales,2024-01-01,https://arsstc.org/business-sellers/member-jurisdictions/,2026-05-18
 AK,city,Gambell,,0.05,AK-P-gambell,sales,2024-01-01,https://arsstc.org/business-sellers/member-jurisdictions/,2026-05-18
 AK,city,Gustavus,,0.03,AK-P-gustavus,sales,2024-01-01,https://arsstc.org/business-sellers/member-jurisdictions/,2026-05-18
+AK,city,Haines Townsite,,0.02,AK-P-hainestownsite,sales,2026-04-01,https://arsstc.org/business-sellers/member-jurisdictions/,2026-09-29
 AK,city,Homer,,0.0485,AK-P-homer,sales,2024-01-01,https://arsstc.org/business-sellers/member-jurisdictions/,2026-05-18
 AK,city,Hoonah,,0.065,AK-P-hoonah,sales,2024-01-01,https://arsstc.org/business-sellers/member-jurisdictions/,2026-05-18
 AK,city,Hooper Bay,,0.05,AK-P-hooperbay,sales,2024-01-01,https://arsstc.org/business-sellers/member-jurisdictions/,2026-05-18
@@ -42,7 +43,7 @@ AK,city,Houston,,0.02,AK-P-houston,sales,2024-01-01,https://arsstc.org/business-
 AK,city,Hydaburg,,0.06,AK-P-hydaburg,sales,2024-01-01,https://arsstc.org/business-sellers/member-jurisdictions/,2026-05-18
 AK,city,Kake,,0.05,AK-P-kake,sales,2024-01-01,https://arsstc.org/business-sellers/member-jurisdictions/,2026-05-18
 AK,city,Kenai,,0.03,AK-P-kenai,sales,2024-01-01,https://arsstc.org/business-sellers/member-jurisdictions/,2026-05-18
-AK,city,Ketchikan,,0.03,AK-P-ketchikan,sales,2024-01-01,https://arsstc.org/business-sellers/member-jurisdictions/,2026-05-18
+AK,city,Ketchikan,,0.055,AK-P-ketchikan,sales,2026-04-01,https://arsstc.org/business-sellers/member-jurisdictions/,2026-09-29
 AK,city,Kiana,,0.03,AK-P-kiana,sales,2024-01-01,https://arsstc.org/business-sellers/member-jurisdictions/,2026-05-18
 AK,city,King Cove,,0.06,AK-P-kingcove,sales,2024-01-01,https://arsstc.org/business-sellers/member-jurisdictions/,2026-05-18
 AK,city,Kivalina,,0.02,AK-P-kivalina,sales,2024-01-01,https://arsstc.org/business-sellers/member-jurisdictions/,2026-05-18
@@ -61,7 +62,7 @@ AK,city,Napakiak,,0.05,AK-P-napakiak,sales,2024-01-01,https://arsstc.org/busines
 AK,city,Napaskiak,,0.03,AK-P-napaskiak,sales,2024-01-01,https://arsstc.org/business-sellers/member-jurisdictions/,2026-05-18
 AK,city,Nenana,,0.04,AK-P-nenana,sales,2024-01-01,https://arsstc.org/business-sellers/member-jurisdictions/,2026-05-18
 AK,city,Nightmute,,0.02,AK-P-nightmute,sales,2024-01-01,https://arsstc.org/business-sellers/member-jurisdictions/,2026-05-18
-AK,city,Nome,,0.05,AK-P-nome,sales,2024-01-01,https://arsstc.org/business-sellers/member-jurisdictions/,2026-05-18
+AK,city,Nome,,0.06,AK-P-nome,sales,2026-01-01,https://arsstc.org/business-sellers/member-jurisdictions/,2026-09-29
 AK,city,Nondalton,,0.03,AK-P-nondalton,sales,2024-01-01,https://arsstc.org/business-sellers/member-jurisdictions/,2026-05-18
 AK,city,Noorvik,,0.04,AK-P-noorvik,sales,2024-01-01,https://arsstc.org/business-sellers/member-jurisdictions/,2026-05-18
 AK,city,North Pole,,0.055,AK-P-northpole,sales,2024-01-01,https://arsstc.org/business-sellers/member-jurisdictions/,2026-05-18
@@ -69,8 +70,8 @@ AK,city,Nunam Iqua,,0.04,AK-P-nunamiqua,sales,2024-01-01,https://arsstc.org/busi
 AK,city,Nunapitchuk,,0.04,AK-P-nunapitchuk,sales,2024-01-01,https://arsstc.org/business-sellers/member-jurisdictions/,2026-05-18
 AK,city,Old Harbor,,0.03,AK-P-oldharbor,sales,2024-01-01,https://arsstc.org/business-sellers/member-jurisdictions/,2026-05-18
 AK,city,Ouzinkie,,0.06,AK-P-ouzinkie,sales,2024-01-01,https://arsstc.org/business-sellers/member-jurisdictions/,2026-05-18
-AK,city,Palmer,,0.03,AK-P-palmer,sales,2024-01-01,https://arsstc.org/business-sellers/member-jurisdictions/,2026-05-18
-AK,city,Pelican,,0.04,AK-P-pelican,sales,2024-01-01,https://arsstc.org/business-sellers/member-jurisdictions/,2026-05-18
+AK,city,Palmer,,0.04,AK-P-palmer,sales,2026-04-01,https://arsstc.org/business-sellers/member-jurisdictions/,2026-09-29
+AK,city,Pelican,,0.06,AK-P-pelican,sales,2026-05-01,https://arsstc.org/business-sellers/member-jurisdictions/,2026-09-29
 AK,city,Pilot Station,,0.04,AK-P-pilotstation,sales,2024-01-01,https://arsstc.org/business-sellers/member-jurisdictions/,2026-05-18
 AK,city,Point Hope,,0.03,AK-P-pointhope,sales,2024-01-01,https://arsstc.org/business-sellers/member-jurisdictions/,2026-05-18
 AK,city,Port Alexander,,0.02,AK-P-portalexander,sales,2024-01-01,https://arsstc.org/business-sellers/member-jurisdictions/,2026-05-18
@@ -83,10 +84,11 @@ AK,city,Savoonga,,0.04,AK-P-savoonga,sales,2024-01-01,https://arsstc.org/busines
 AK,city,Saxman,,0.04,AK-P-saxman,sales,2024-01-01,https://arsstc.org/business-sellers/member-jurisdictions/,2026-05-18
 AK,city,Scammon Bay,,0.06,AK-P-scammonbay,sales,2024-01-01,https://arsstc.org/business-sellers/member-jurisdictions/,2026-05-18
 AK,city,Selawik,,0.065,AK-P-selawik,sales,2024-01-01,https://arsstc.org/business-sellers/member-jurisdictions/,2026-05-18
-AK,city,Seldovia,,0.02,AK-P-seldovia,sales,2024-01-01,https://arsstc.org/business-sellers/member-jurisdictions/,2026-05-18
+AK,city,Seldovia,,0.065,AK-P-seldovia,sales,2026-04-01,https://arsstc.org/business-sellers/member-jurisdictions/,2026-09-29
 AK,city,Seward,,0.04,AK-P-seward,sales,2024-01-01,https://arsstc.org/business-sellers/member-jurisdictions/,2026-05-18
 AK,city,Shaktoolik,,0.04,AK-P-shaktoolik,sales,2024-01-01,https://arsstc.org/business-sellers/member-jurisdictions/,2026-05-18
 AK,city,Shishmaref,,0.03,AK-P-shishmaref,sales,2024-01-01,https://arsstc.org/business-sellers/member-jurisdictions/,2026-05-18
+AK,city,Shungnak,,0.02,AK-P-shungnak,sales,2024-01-01,https://arsstc.org/business-sellers/member-jurisdictions/,2026-09-29
 AK,city,Soldotna,,0.03,AK-P-soldotna,sales,2024-01-01,https://arsstc.org/business-sellers/member-jurisdictions/,2026-05-18
 AK,city,Stebbins,,0.05,AK-P-stebbins,sales,2024-01-01,https://arsstc.org/business-sellers/member-jurisdictions/,2026-05-18
 AK,city,Tanana,,0.02,AK-P-tanana,sales,2024-01-01,https://arsstc.org/business-sellers/member-jurisdictions/,2026-05-18
@@ -99,7 +101,7 @@ AK,city,Unalakleet,,0.05,AK-P-unalakleet,sales,2024-01-01,https://arsstc.org/bus
 AK,city,Unalaska,,0.03,AK-P-unalaska,sales,2024-01-01,https://arsstc.org/business-sellers/member-jurisdictions/,2026-05-18
 AK,city,Wales,,0.03,AK-P-wales,sales,2024-01-01,https://arsstc.org/business-sellers/member-jurisdictions/,2026-05-18
 AK,city,Wasilla,,0.025,AK-P-wasilla,sales,2024-01-01,https://arsstc.org/business-sellers/member-jurisdictions/,2026-05-18
-AK,city,White Mountain,,0.01,AK-P-whitemountain,sales,2024-01-01,https://arsstc.org/business-sellers/member-jurisdictions/,2026-05-18
+AK,city,White Mountain,,0.03,AK-P-whitemountain,sales,2024-12-01,https://arsstc.org/business-sellers/member-jurisdictions/,2026-09-29
 AK,city,Whittier,,0.05,AK-P-whittier,sales,2024-01-01,https://arsstc.org/business-sellers/member-jurisdictions/,2026-05-18
 AL,city,Abbeville,,0.03,AL-P-abbeville,sales,2026-05-18,https://www.revenue.alabama.gov/wp-content/uploads/2024/03/taxrates_current.csv,2026-05-18
 AL,city,Adamsville,,0.04,AL-P-adamsville,sales,2026-05-18,https://www.revenue.alabama.gov/wp-content/uploads/2024/03/taxrates_current.csv,2026-05-18
@@ -2167,46 +2169,46 @@ CO,city,Woodland Park,,0.055,CO-P-430026,sales,2026-07-01,https://tax.colorado.g
 CO,city,Wray,,0.025,CO-P-190017,sales,2026-01-01,https://tax.colorado.gov/sites/tax/files/documents/Colorado_Jurisdiction_Codes_Rates_Jan-June2026_Apr26.xlsx,2026-05-18
 CO,city,Yampa,,0.05,CO-P-280048,sales,2026-01-01,https://tax.colorado.gov/sites/tax/files/documents/Colorado_Jurisdiction_Codes_Rates_Jan-June2026_Apr26.xlsx,2026-05-18
 CO,city,Yuma,,0.0375,CO-P-190018,sales,2026-01-01,https://tax.colorado.gov/sites/tax/files/documents/Colorado_Jurisdiction_Codes_Rates_Jan-June2026_Apr26.xlsx,2026-05-18
-CO,county,Adams,,0.0075,CO-C-adams,sales,2026-01-01,https://tax.colorado.gov/sites/tax/files/documents/Colorado_Jurisdiction_Codes_Rates_Jan-June2026_Apr26.xlsx,2026-05-18
+CO,county,Adams,,0.0085,CO-C-adams,sales,2026-07-01,https://tax.colorado.gov/sites/tax/files/documents/Colorado_Jurisdiction_Codes_Rates_July-Dec2026.xlsx,2026-09-29
 CO,county,Alamosa,,0.03,CO-C-alamosa,sales,2026-01-01,https://tax.colorado.gov/sites/tax/files/documents/Colorado_Jurisdiction_Codes_Rates_Jan-June2026_Apr26.xlsx,2026-05-18
-CO,county,Arapahoe,,0.0025,CO-C-arapahoe,sales,2026-01-01,https://tax.colorado.gov/sites/tax/files/documents/Colorado_Jurisdiction_Codes_Rates_Jan-June2026_Apr26.xlsx,2026-05-18
+CO,county,Arapahoe,,0.0035,CO-C-arapahoe,sales,2026-07-01,https://tax.colorado.gov/sites/tax/files/documents/Colorado_Jurisdiction_Codes_Rates_July-Dec2026.xlsx,2026-09-29
 CO,county,Archuleta,,0.04,CO-C-archuleta,sales,2026-01-01,https://tax.colorado.gov/sites/tax/files/documents/Colorado_Jurisdiction_Codes_Rates_Jan-June2026_Apr26.xlsx,2026-05-18
 CO,county,Bent,,0.01,CO-C-bent,sales,2026-01-01,https://tax.colorado.gov/sites/tax/files/documents/Colorado_Jurisdiction_Codes_Rates_Jan-June2026_Apr26.xlsx,2026-05-18
-CO,county,Boulder,,0.01335,CO-C-boulder,sales,2026-01-01,https://tax.colorado.gov/sites/tax/files/documents/Colorado_Jurisdiction_Codes_Rates_Jan-June2026_Apr26.xlsx,2026-05-18
+CO,county,Boulder,,0.02435,CO-C-boulder,sales,2026-07-01,https://tax.colorado.gov/sites/tax/files/documents/Colorado_Jurisdiction_Codes_Rates_July-Dec2026.xlsx,2026-09-29
 CO,county,Chaffee,,0.0275,CO-C-chaffee,sales,2026-01-01,https://tax.colorado.gov/sites/tax/files/documents/Colorado_Jurisdiction_Codes_Rates_Jan-June2026_Apr26.xlsx,2026-05-18
 CO,county,Clearcreek,,0.0265,CO-C-clearcreek,sales,2026-01-01,https://tax.colorado.gov/sites/tax/files/documents/Colorado_Jurisdiction_Codes_Rates_Jan-June2026_Apr26.xlsx,2026-05-18
 CO,county,Conejos,,0.02,CO-C-conejos,sales,2026-01-01,https://tax.colorado.gov/sites/tax/files/documents/Colorado_Jurisdiction_Codes_Rates_Jan-June2026_Apr26.xlsx,2026-05-18
 CO,county,Costilla,,0.02,CO-C-costilla,sales,2026-01-01,https://tax.colorado.gov/sites/tax/files/documents/Colorado_Jurisdiction_Codes_Rates_Jan-June2026_Apr26.xlsx,2026-05-18
 CO,county,Crowley,,0.02,CO-C-crowley,sales,2026-01-01,https://tax.colorado.gov/sites/tax/files/documents/Colorado_Jurisdiction_Codes_Rates_Jan-June2026_Apr26.xlsx,2026-05-18
 CO,county,Custer,,0.02,CO-C-custer,sales,2026-01-01,https://tax.colorado.gov/sites/tax/files/documents/Colorado_Jurisdiction_Codes_Rates_Jan-June2026_Apr26.xlsx,2026-05-18
-CO,county,Delta,,0.02,CO-C-delta,sales,2026-01-01,https://tax.colorado.gov/sites/tax/files/documents/Colorado_Jurisdiction_Codes_Rates_Jan-June2026_Apr26.xlsx,2026-05-18
-CO,county,Douglas,,0.01,CO-C-douglas,sales,2026-01-01,https://tax.colorado.gov/sites/tax/files/documents/Colorado_Jurisdiction_Codes_Rates_Jan-June2026_Apr26.xlsx,2026-05-18
-CO,county,Eagle,,0.01,CO-C-eagle,sales,2026-01-01,https://tax.colorado.gov/sites/tax/files/documents/Colorado_Jurisdiction_Codes_Rates_Jan-June2026_Apr26.xlsx,2026-05-18
+CO,county,Delta,,0.036,CO-C-delta,sales,2026-07-01,https://tax.colorado.gov/sites/tax/files/documents/Colorado_Jurisdiction_Codes_Rates_July-Dec2026.xlsx,2026-09-29
+CO,county,Douglas,,0.011,CO-C-douglas,sales,2026-07-01,https://tax.colorado.gov/sites/tax/files/documents/Colorado_Jurisdiction_Codes_Rates_July-Dec2026.xlsx,2026-09-29
+CO,county,Eagle,,0.015,CO-C-eagle,sales,2026-07-01,https://tax.colorado.gov/sites/tax/files/documents/Colorado_Jurisdiction_Codes_Rates_July-Dec2026.xlsx,2026-09-29
 CO,county,Elbert,,0.01,CO-C-elbert,sales,2026-01-01,https://tax.colorado.gov/sites/tax/files/documents/Colorado_Jurisdiction_Codes_Rates_Jan-June2026_Apr26.xlsx,2026-05-18
 CO,county,Elpaso,,0.0123,CO-C-elpaso,sales,2026-01-01,https://tax.colorado.gov/sites/tax/files/documents/Colorado_Jurisdiction_Codes_Rates_Jan-June2026_Apr26.xlsx,2026-05-18
 CO,county,Fremont,,0.025,CO-C-fremont,sales,2026-01-01,https://tax.colorado.gov/sites/tax/files/documents/Colorado_Jurisdiction_Codes_Rates_Jan-June2026_Apr26.xlsx,2026-05-18
-CO,county,Garfield,,0.01,CO-C-garfield,sales,2026-01-01,https://tax.colorado.gov/sites/tax/files/documents/Colorado_Jurisdiction_Codes_Rates_Jan-June2026_Apr26.xlsx,2026-05-18
+CO,county,Garfield,,0.0125,CO-C-garfield,sales,2026-07-01,https://tax.colorado.gov/sites/tax/files/documents/Colorado_Jurisdiction_Codes_Rates_July-Dec2026.xlsx,2026-09-29
 CO,county,Grand,,0.013,CO-C-grand,sales,2026-01-01,https://tax.colorado.gov/sites/tax/files/documents/Colorado_Jurisdiction_Codes_Rates_Jan-June2026_Apr26.xlsx,2026-05-18
 CO,county,Gunnison,,0.01,CO-C-gunnison,sales,2026-01-01,https://tax.colorado.gov/sites/tax/files/documents/Colorado_Jurisdiction_Codes_Rates_Jan-June2026_Apr26.xlsx,2026-05-18
 CO,county,Hinsdale,,0.05,CO-C-hinsdale,sales,2026-01-01,https://tax.colorado.gov/sites/tax/files/documents/Colorado_Jurisdiction_Codes_Rates_Jan-June2026_Apr26.xlsx,2026-05-18
 CO,county,Huerfano,,0.03,CO-C-huerfano,sales,2026-01-01,https://tax.colorado.gov/sites/tax/files/documents/Colorado_Jurisdiction_Codes_Rates_Jan-June2026_Apr26.xlsx,2026-05-18
 CO,county,Jackson,,0.04,CO-C-jackson,sales,2026-01-01,https://tax.colorado.gov/sites/tax/files/documents/Colorado_Jurisdiction_Codes_Rates_Jan-June2026_Apr26.xlsx,2026-05-18
-CO,county,Jefferson,,0.005,CO-C-jefferson,sales,2026-01-01,https://tax.colorado.gov/sites/tax/files/documents/Colorado_Jurisdiction_Codes_Rates_Jan-June2026_Apr26.xlsx,2026-05-18
+CO,county,Jefferson,,0.016,CO-C-jefferson,sales,2026-07-01,https://tax.colorado.gov/sites/tax/files/documents/Colorado_Jurisdiction_Codes_Rates_July-Dec2026.xlsx,2026-09-29
 CO,county,Lake,,0.04,CO-C-lake,sales,2026-01-01,https://tax.colorado.gov/sites/tax/files/documents/Colorado_Jurisdiction_Codes_Rates_Jan-June2026_Apr26.xlsx,2026-05-18
 CO,county,Laplata,,0.03,CO-C-laplata,sales,2026-01-01,https://tax.colorado.gov/sites/tax/files/documents/Colorado_Jurisdiction_Codes_Rates_Jan-June2026_Apr26.xlsx,2026-05-18
 CO,county,Larimer,,0.0105,CO-C-larimer,sales,2026-01-01,https://tax.colorado.gov/sites/tax/files/documents/Colorado_Jurisdiction_Codes_Rates_Jan-June2026_Apr26.xlsx,2026-05-18
 CO,county,Lasanimas,,0.015,CO-C-lasanimas,sales,2026-01-01,https://tax.colorado.gov/sites/tax/files/documents/Colorado_Jurisdiction_Codes_Rates_Jan-June2026_Apr26.xlsx,2026-05-18
 CO,county,Lincoln,,0.02,CO-C-lincoln,sales,2026-01-01,https://tax.colorado.gov/sites/tax/files/documents/Colorado_Jurisdiction_Codes_Rates_Jan-June2026_Apr26.xlsx,2026-05-18
 CO,county,Logan,,0.01,CO-C-logan,sales,2026-01-01,https://tax.colorado.gov/sites/tax/files/documents/Colorado_Jurisdiction_Codes_Rates_Jan-June2026_Apr26.xlsx,2026-05-18
-CO,county,Mesa,,0.02,CO-C-mesa,sales,2026-01-01,https://tax.colorado.gov/sites/tax/files/documents/Colorado_Jurisdiction_Codes_Rates_Jan-June2026_Apr26.xlsx,2026-05-18
+CO,county,Mesa,,0.0237,CO-C-mesa,sales,2026-07-01,https://tax.colorado.gov/sites/tax/files/documents/Colorado_Jurisdiction_Codes_Rates_July-Dec2026.xlsx,2026-09-29
 CO,county,Mineral,,0.026,CO-C-mineral,sales,2026-01-01,https://tax.colorado.gov/sites/tax/files/documents/Colorado_Jurisdiction_Codes_Rates_Jan-June2026_Apr26.xlsx,2026-05-18
 CO,county,Moffat,,0.02,CO-C-moffat,sales,2026-01-01,https://tax.colorado.gov/sites/tax/files/documents/Colorado_Jurisdiction_Codes_Rates_Jan-June2026_Apr26.xlsx,2026-05-18
-CO,county,Montrose,,0.01,CO-C-montrose,sales,2026-01-01,https://tax.colorado.gov/sites/tax/files/documents/Colorado_Jurisdiction_Codes_Rates_Jan-June2026_Apr26.xlsx,2026-05-18
+CO,county,Montrose,,0.0175,CO-C-montrose,sales,2026-07-01,https://tax.colorado.gov/sites/tax/files/documents/Colorado_Jurisdiction_Codes_Rates_July-Dec2026.xlsx,2026-09-29
 CO,county,Otero,,0.01,CO-C-otero,sales,2026-01-01,https://tax.colorado.gov/sites/tax/files/documents/Colorado_Jurisdiction_Codes_Rates_Jan-June2026_Apr26.xlsx,2026-05-18
 CO,county,Ouray,,0.0255,CO-C-ouray,sales,2026-01-01,https://tax.colorado.gov/sites/tax/files/documents/Colorado_Jurisdiction_Codes_Rates_Jan-June2026_Apr26.xlsx,2026-05-18
 CO,county,Park,,0.01,CO-C-park,sales,2026-01-01,https://tax.colorado.gov/sites/tax/files/documents/Colorado_Jurisdiction_Codes_Rates_Jan-June2026_Apr26.xlsx,2026-05-18
 CO,county,Phillips,,0.01,CO-C-phillips,sales,2026-01-01,https://tax.colorado.gov/sites/tax/files/documents/Colorado_Jurisdiction_Codes_Rates_Jan-June2026_Apr26.xlsx,2026-05-18
-CO,county,Pitkin,,0.031,CO-C-pitkin,sales,2026-01-01,https://tax.colorado.gov/sites/tax/files/documents/Colorado_Jurisdiction_Codes_Rates_Jan-June2026_Apr26.xlsx,2026-05-18
+CO,county,Pitkin,,0.0425,CO-C-pitkin,sales,2026-07-01,https://tax.colorado.gov/sites/tax/files/documents/Colorado_Jurisdiction_Codes_Rates_July-Dec2026.xlsx,2026-09-29
 CO,county,Prowers,,0.01,CO-C-prowers,sales,2026-01-01,https://tax.colorado.gov/sites/tax/files/documents/Colorado_Jurisdiction_Codes_Rates_Jan-June2026_Apr26.xlsx,2026-05-18
 CO,county,Pueblo,,0.01,CO-C-pueblo,sales,2026-01-01,https://tax.colorado.gov/sites/tax/files/documents/Colorado_Jurisdiction_Codes_Rates_Jan-June2026_Apr26.xlsx,2026-05-18
 CO,county,Rioblanco,,0.036,CO-C-rioblanco,sales,2026-01-01,https://tax.colorado.gov/sites/tax/files/documents/Colorado_Jurisdiction_Codes_Rates_Jan-June2026_Apr26.xlsx,2026-05-18
@@ -2216,7 +2218,7 @@ CO,county,Saguache,,0.025,CO-C-saguache,sales,2026-01-01,https://tax.colorado.go
 CO,county,Sanjuan,,0.065,CO-C-sanjuan,sales,2026-01-01,https://tax.colorado.gov/sites/tax/files/documents/Colorado_Jurisdiction_Codes_Rates_Jan-June2026_Apr26.xlsx,2026-05-18
 CO,county,Sanmiguel,,0.01,CO-C-sanmiguel,sales,2026-01-01,https://tax.colorado.gov/sites/tax/files/documents/Colorado_Jurisdiction_Codes_Rates_Jan-June2026_Apr26.xlsx,2026-05-18
 CO,county,Sedgwick,,0.03,CO-C-sedgwick,sales,2026-01-01,https://tax.colorado.gov/sites/tax/files/documents/Colorado_Jurisdiction_Codes_Rates_Jan-June2026_Apr26.xlsx,2026-05-18
-CO,county,Summit,,0.02,CO-C-summit,sales,2026-01-01,https://tax.colorado.gov/sites/tax/files/documents/Colorado_Jurisdiction_Codes_Rates_Jan-June2026_Apr26.xlsx,2026-05-18
+CO,county,Summit,,0.03475,CO-C-summit,sales,2026-07-01,https://tax.colorado.gov/sites/tax/files/documents/Colorado_Jurisdiction_Codes_Rates_July-Dec2026.xlsx,2026-09-29
 CO,county,Teller,,0.01,CO-C-teller,sales,2026-01-01,https://tax.colorado.gov/sites/tax/files/documents/Colorado_Jurisdiction_Codes_Rates_Jan-June2026_Apr26.xlsx,2026-05-18
 CO,county,Washington,,0.015,CO-C-washington,sales,2026-01-01,https://tax.colorado.gov/sites/tax/files/documents/Colorado_Jurisdiction_Codes_Rates_Jan-June2026_Apr26.xlsx,2026-05-18
 FL,county,Alachua,,0.015,FL-C-alachua,sales,2026-01-01,https://floridarevenue.com/Forms_library/current/dr15dss.pdf,2026-05-18
@@ -2567,9 +2569,10 @@ ID,city,Lava Hot Springs,,0.02,ID-P-lavahotsprings,sales,2024-01-01,https://tax.
 ID,city,McCall,,0.01,ID-P-mccall,sales,2024-01-01,https://tax.idaho.gov/taxes/sales-use/sales-tax/local-sales-tax/city-sales-tax/,2026-05-18
 ID,city,Ponderay,,0.01,ID-P-ponderay,sales,2024-01-01,https://tax.idaho.gov/taxes/sales-use/sales-tax/local-sales-tax/city-sales-tax/,2026-05-18
 ID,city,Riggins,,0.01,ID-P-riggins,sales,2024-01-01,https://tax.idaho.gov/taxes/sales-use/sales-tax/local-sales-tax/city-sales-tax/,2026-05-18
-ID,city,Sandpoint,,0.01,ID-P-sandpoint,sales,2024-01-01,https://tax.idaho.gov/taxes/sales-use/sales-tax/local-sales-tax/city-sales-tax/,2026-05-18
 ID,city,Stanley,,0.025,ID-P-stanley,sales,2024-01-01,https://tax.idaho.gov/taxes/sales-use/sales-tax/local-sales-tax/city-sales-tax/,2026-05-18
 ID,city,Sun Valley,,0.03,ID-P-sunvalley,sales,2024-01-01,https://tax.idaho.gov/taxes/sales-use/sales-tax/local-sales-tax/city-sales-tax/,2026-05-18
+ID,city,Tetonia,,0.005,ID-P-tetonia,sales,2026-01-01,https://tax.idaho.gov/taxes/sales-use/sales-tax/local-sales-tax/city-sales-tax/,2026-09-29
+ID,city,Victor,,0.01,ID-P-victor,sales,2024-01-01,https://tax.idaho.gov/taxes/sales-use/sales-tax/local-sales-tax/city-sales-tax/,2026-09-29
 IL,city,Abingdon,,0.015,IL-P-abingdon,sales,2015-07-01,https://tax.illinois.gov/content/dam/soi/en/web/tax/research/taxrates/documents/salestaxrates/ordmache-current.txt,2026-05-18
 IL,city,Addison,,0.0275,IL-P-addison,sales,2026-08-01,https://tax.illinois.gov/content/dam/soi/en/web/tax/research/taxrates/documents/salestaxrates/ordmache-current.txt,2026-07-07
 IL,city,Albany,,0.015,IL-P-albany,sales,2025-07-01,https://tax.illinois.gov/content/dam/soi/en/web/tax/research/taxrates/documents/salestaxrates/ordmache-current.txt,2026-05-18
@@ -5698,6 +5701,7 @@ LA,city,Thibodaux,2901,0.0535,LA-2901,sales,2023-10-01,https://lulstb.com/,2026-
 LA,city,Town of Colfax,2201,0.06,LA-2201,sales,2015-04-01,https://lulstb.com/,2026-05-18
 LA,city,Town of Coushatta,4101,0.055,LA-4101,sales,2009-01-01,https://lulstb.com/,2026-05-18
 LA,city,Town of Farmerville,5601,0.07,LA-5601,sales,2014-07-01,https://lulstb.com/,2026-05-18
+LA,city,Town of Lutcher,4702,0.045,LA-4702,sales,2014-01-01,https://lulstb.com/,2026-09-29
 LA,city,Town of Oberlin,0203,0.06,LA-0203,sales,2010-01-01,https://lulstb.com/,2026-05-18
 LA,city,Town of Rayville,4201,0.0575,LA-4201,sales,2024-07-01,https://lulstb.com/,2026-05-18
 LA,city,Town of Ville Platte,2001,0.06,LA-2001,sales,2008-06-01,https://lulstb.com/,2026-05-18
@@ -5714,7 +5718,7 @@ LA,parish,General Sales,2600,0.0475,LA-2600,sales,2023-01-01,https://lulstb.com/
 LA,parish,Outside Incorporated Municipality Areas,4700,0.035,LA-4700,sales,2014-01-01,https://lulstb.com/,2026-05-18
 LA,parish,Parish Sales,1300,0.06,LA-1300,sales,2013-01-01,https://lulstb.com/,2026-05-18
 LA,parish,Parish Wide,1900,0.05,LA-1900,sales,2018-01-01,https://lulstb.com/,2026-05-18
-LA,parish,Parish Wide,3800,0.0475,LA-3800,sales,2025-07-01,https://lulstb.com/,2026-05-18
+LA,parish,Parish Wide,3800,0.0525,LA-3800,sales,2026-07-01,https://lulstb.com/,2026-09-29
 LA,parish,Parish Wide,4400,0.05,LA-4400,sales,2008-09-01,https://lulstb.com/,2026-05-18
 LA,parish,Parish Wide,4500,0.05,LA-4500,sales,2008-06-01,https://lulstb.com/,2026-05-18
 LA,parish,Parish Wide,4800,0.0525,LA-4800,sales,2017-07-01,https://lulstb.com/,2026-05-18
@@ -5856,11 +5860,11 @@ MN,special_district,Special District 80004,80004,0.005,MN-S-80004,sales,2017-10-
 MN,special_district,Special District 80005,80005,0.01,MN-S-80005,sales,2018-01-01,https://www.streamlinedsalestax.org/ratesandboundry/Rates/MNR2026Q2FEB18.zip,2026-05-18
 MN,special_district,Special District 80006,80006,0.005,MN-S-80006,sales,2023-04-01,https://www.streamlinedsalestax.org/ratesandboundry/Rates/MNR2026Q2FEB18.zip,2026-05-18
 MN,special_district,Special District 80008,80008,0.0075,MN-S-80008,sales,2023-10-01,https://www.streamlinedsalestax.org/ratesandboundry/Rates/MNR2026Q2FEB18.zip,2026-05-18
-MN,special_district,Special District 80009,80009,0.0025,MN-S-80009,sales,2023-10-01,https://www.streamlinedsalestax.org/ratesandboundry/Rates/MNR2026Q2FEB18.zip,2026-05-18
 MN,special_district,Special District 80011,80011,0.00625,MN-S-80011,sales,2024-07-01,https://www.streamlinedsalestax.org/ratesandboundry/Rates/MNR2026Q2FEB18.zip,2026-05-18
 MN,special_district,Special District 80012,80012,0.00375,MN-S-80012,sales,2025-04-01,https://www.streamlinedsalestax.org/ratesandboundry/Rates/MNR2026Q2FEB18.zip,2026-05-18
 MN,special_district,Special District 80013,80013,0.0025,MN-S-80013,sales,2025-04-01,https://www.streamlinedsalestax.org/ratesandboundry/Rates/MNR2026Q2FEB18.zip,2026-05-18
 MN,special_district,Special District 80054,80054,0.005,MN-S-80054,sales,2026-07-01,https://www.streamlinedsalestax.org/ratesandboundry/Rates/MNR2026Q3MAY20.zip,2026-07-07
+MN,special_district,Twin Cities metro area sales tax for housing,80009,0.0025,MN-S-80009,sales,2023-10-01,https://www.streamlinedsalestax.org/ratesandboundry/Rates/MNR2026Q2FEB18.zip,2026-05-18
 MN,transit,Hennepin County transit tax,,0.005,TRANSIT-mn-hennepin-transit,sales,2024-01-01,,2026-05-18
 MN,transit,Twin Cities metro transportation tax,,0.0075,TRANSIT-mn-metro-transit,sales,2024-01-01,,2026-05-18
 MO,city,Adrian,,0.0375,MO-P-00244-013,sales,2026-01-01,https://dor.mo.gov/pdf/rates/2026/may2026.xlsx,2026-05-18
@@ -7607,11 +7611,11 @@ NC,county,Wilkes,193,0.0225,NC-C-193,sales,2010-10-01,https://www.streamlinedsal
 NC,county,Wilson,195,0.02,NC-C-195,sales,2009-10-01,https://www.streamlinedsalestax.org/ratesandboundry/Rates/NCR2024Q3APR26.csv,2026-05-18
 NC,county,Yadkin,197,0.02,NC-C-197,sales,2009-10-01,https://www.streamlinedsalestax.org/ratesandboundry/Rates/NCR2024Q3APR26.csv,2026-05-18
 NC,county,Yancey,199,0.02,NC-C-199,sales,2009-10-01,https://www.streamlinedsalestax.org/ratesandboundry/Rates/NCR2024Q3APR26.csv,2026-05-18
-NC,special_district,Special District 98119,98119,0.01,NC-S-98119,sales,2026-07-01,https://www.streamlinedsalestax.org/ratesandboundry/Rates/NCR2026Q3APR23.csv,2026-07-07
-NC,special_district,Special District 99063,99063,0.005,NC-S-99063,sales,2013-04-01,https://www.streamlinedsalestax.org/ratesandboundry/Rates/NCR2024Q3APR26.csv,2026-05-18
+NC,special_district,Durham County transit tax,99063,0.005,NC-S-99063,sales,2013-04-01,https://www.streamlinedsalestax.org/ratesandboundry/Rates/NCR2024Q3APR26.csv,2026-05-18
+NC,special_district,Mecklenburg County additional 1% sales tax,98119,0.01,NC-S-98119,sales,2026-07-01,https://www.streamlinedsalestax.org/ratesandboundry/Rates/NCR2026Q3APR23.csv,2026-07-07
+NC,special_district,Orange County transit tax,99135,0.005,NC-S-99135,sales,2013-04-01,https://www.streamlinedsalestax.org/ratesandboundry/Rates/NCR2024Q3APR26.csv,2026-05-18
 NC,special_district,Special District 99119,99119,0.005,NC-S-99119,sales,2005-08-01,https://www.streamlinedsalestax.org/ratesandboundry/Rates/NCR2024Q3APR26.csv,2026-05-18
-NC,special_district,Special District 99135,99135,0.005,NC-S-99135,sales,2013-04-01,https://www.streamlinedsalestax.org/ratesandboundry/Rates/NCR2024Q3APR26.csv,2026-05-18
-NC,special_district,Special District 99183,99183,0.005,NC-S-99183,sales,2017-04-01,https://www.streamlinedsalestax.org/ratesandboundry/Rates/NCR2024Q3APR26.csv,2026-05-18
+NC,special_district,Wake County transit tax,99183,0.005,NC-S-99183,sales,2017-04-01,https://www.streamlinedsalestax.org/ratesandboundry/Rates/NCR2024Q3APR26.csv,2026-05-18
 NC,transit,Mecklenburg County transit tax,,0.005,TRANSIT-nc-meck-transit,sales,2024-01-01,,2026-05-18
 ND,city,Alexander,01180,0.02,ND-P-01180,sales,2016-01-01,https://www.streamlinedsalestax.org/ratesandboundry/Rates/NDR2026Q2FEB11.zip,2026-05-18
 ND,city,Anamoose,02220,0.01,ND-P-02220,sales,2005-01-01,https://www.streamlinedsalestax.org/ratesandboundry/Rates/NDR2026Q2FEB11.zip,2026-05-18
@@ -8468,15 +8472,14 @@ OH,county,Wayne,169,0.0075,OH-C-169,sales,1992-01-01,https://www.streamlinedsale
 OH,county,Williams,171,0.015,OH-C-171,sales,2003-10-01,https://www.streamlinedsalestax.org/ratesandboundry/Rates/OHR2026Q1NOV28.csv,2026-05-18
 OH,county,Wood,173,0.01,OH-C-173,sales,1988-01-01,https://www.streamlinedsalestax.org/ratesandboundry/Rates/OHR2026Q1NOV28.csv,2026-05-18
 OH,county,Wyandot,175,0.015,OH-C-175,sales,2005-10-01,https://www.streamlinedsalestax.org/ratesandboundry/Rates/OHR2026Q1NOV28.csv,2026-05-18
-OH,special_district,Special District 02000,02000,0.001,OH-S-02000,sales,2019-10-01,https://www.streamlinedsalestax.org/ratesandboundry/Rates/OHR2026Q1NOV28.csv,2026-05-18
+OH,special_district,Allen County Regional Transit Authority,02000,0.001,OH-S-02000,sales,2019-10-01,https://www.streamlinedsalestax.org/ratesandboundry/Rates/OHR2026Q1NOV28.csv,2026-05-18
+OH,special_district,Laketran (Lake County),43000,0.005,OH-S-43000,sales,2025-07-01,https://www.streamlinedsalestax.org/ratesandboundry/Rates/OHR2026Q1NOV28.csv,2026-05-18
+OH,special_district,Portage Area Regional Transportation Authority,67000,0.0025,OH-S-67000,sales,2004-01-01,https://www.streamlinedsalestax.org/ratesandboundry/Rates/OHR2026Q1NOV28.csv,2026-05-18
+OH,special_district,Southwest Ohio Regional Transit Authority,31000,0.008,OH-S-31000,sales,2020-10-01,https://www.streamlinedsalestax.org/ratesandboundry/Rates/OHR2026Q1NOV28.csv,2026-05-18
 OH,special_district,Special District 18000,18000,0.01,OH-S-18000,sales,1975-10-01,https://www.streamlinedsalestax.org/ratesandboundry/Rates/OHR2026Q1NOV28.csv,2026-05-18
 OH,special_district,Special District 25000,25000,0.01,OH-S-25000,sales,2025-04-01,https://www.streamlinedsalestax.org/ratesandboundry/Rates/OHR2026Q1NOV28.csv,2026-05-18
-OH,special_district,Special District 31000,31000,0.008,OH-S-31000,sales,2020-10-01,https://www.streamlinedsalestax.org/ratesandboundry/Rates/OHR2026Q1NOV28.csv,2026-05-18
-OH,special_district,Special District 43000,43000,0.005,OH-S-43000,sales,2025-07-01,https://www.streamlinedsalestax.org/ratesandboundry/Rates/OHR2026Q1NOV28.csv,2026-05-18
 OH,special_district,Special District 48000,48000,0.005,OH-S-48000,sales,2022-04-01,https://www.streamlinedsalestax.org/ratesandboundry/Rates/OHR2026Q1NOV28.csv,2026-05-18
-OH,special_district,Special District 50000,50000,0.0025,OH-S-50000,sales,2009-04-01,https://www.streamlinedsalestax.org/ratesandboundry/Rates/OHR2026Q1NOV28.csv,2026-05-18
 OH,special_district,Special District 57000,57000,0.005,OH-S-57000,sales,1980-07-01,https://www.streamlinedsalestax.org/ratesandboundry/Rates/OHR2026Q1NOV28.csv,2026-05-18
-OH,special_district,Special District 67000,67000,0.0025,OH-S-67000,sales,2004-01-01,https://www.streamlinedsalestax.org/ratesandboundry/Rates/OHR2026Q1NOV28.csv,2026-05-18
 OH,special_district,Special District 76000,76000,0.0025,OH-S-76000,sales,1997-07-01,https://www.streamlinedsalestax.org/ratesandboundry/Rates/OHR2026Q1NOV28.csv,2026-05-18
 OH,special_district,Special District 77000,77000,0.005,OH-S-77000,sales,2008-07-01,https://www.streamlinedsalestax.org/ratesandboundry/Rates/OHR2026Q1NOV28.csv,2026-05-18
 OH,special_district,Special District 87100,87100,0.005,OH-S-87100,sales,2022-04-01,https://www.streamlinedsalestax.org/ratesandboundry/Rates/OHR2026Q1NOV28.csv,2026-05-18
@@ -8484,6 +8487,7 @@ OH,special_district,Special District 93000,93000,0.01,OH-S-93000,sales,2025-04-0
 OH,special_district,Special District 94000,94000,0.01,OH-S-94000,sales,2025-04-01,https://www.streamlinedsalestax.org/ratesandboundry/Rates/OHR2026Q1NOV28.csv,2026-05-18
 OH,special_district,Special District 96000,96000,0.01,OH-S-96000,sales,2025-04-01,https://www.streamlinedsalestax.org/ratesandboundry/Rates/OHR2026Q1NOV28.csv,2026-05-18
 OH,special_district,Special District 98000,98000,0.01,OH-S-98000,sales,2025-04-01,https://www.streamlinedsalestax.org/ratesandboundry/Rates/OHR2026Q1NOV28.csv,2026-05-18
+OH,special_district,Western Reserve Transit Authority,50000,0.0025,OH-S-50000,sales,2009-04-01,https://www.streamlinedsalestax.org/ratesandboundry/Rates/OHR2026Q1NOV28.csv,2026-05-18
 OH,transit,Akron METRO RTA,,0.005,TRANSIT-oh-akron-metro,sales,2024-01-01,,2026-05-18
 OH,transit,Central Ohio Transit Authority,,0.01,TRANSIT-oh-cota,sales,2024-01-01,,2026-05-18
 OH,transit,Greater Cleveland RTA,,0.01,TRANSIT-oh-gcrta,sales,2024-01-01,,2026-05-18
@@ -10530,6 +10534,7 @@ TN,county,Weakley,183,0.0275,TN-C-183,sales,1998-07-01,https://www.streamlinedsa
 TN,county,White,185,0.0225,TN-C-185,sales,1989-01-01,https://www.streamlinedsalestax.org/ratesandboundry/Rates/TNR2025Q1MAR07.csv,2026-05-18
 TN,county,Williamson,187,0.0275,TN-C-187,sales,2018-04-01,https://www.streamlinedsalestax.org/ratesandboundry/Rates/TNR2025Q1MAR07.csv,2026-05-18
 TN,county,Wilson,189,0.0275,TN-C-189,sales,2020-05-01,https://www.streamlinedsalestax.org/ratesandboundry/Rates/TNR2025Q1MAR07.csv,2026-05-18
+TN,special_district,Davidson County transit surcharge,91950,0.005,TN-S-91950,sales,2025-02-01,https://www.streamlinedsalestax.org/ratesandboundry/Rates/TNR2025Q1MAR07.csv,2026-05-18
 TN,special_district,Special District 90102,90102,0.0275,TN-S-90102,sales,2006-07-01,https://www.streamlinedsalestax.org/ratesandboundry/Rates/TNR2025Q1MAR07.csv,2026-05-18
 TN,special_district,Special District 90104,90104,0.0275,TN-S-90104,sales,2006-07-01,https://www.streamlinedsalestax.org/ratesandboundry/Rates/TNR2025Q1MAR07.csv,2026-05-18
 TN,special_district,Special District 90105,90105,0.0275,TN-S-90105,sales,2006-07-01,https://www.streamlinedsalestax.org/ratesandboundry/Rates/TNR2025Q1MAR07.csv,2026-05-18
@@ -10543,7 +10548,6 @@ TN,special_district,Special District 91204,91204,0.0275,TN-S-91204,sales,1995-06
 TN,special_district,Special District 91602,91602,0.0275,TN-S-91602,sales,2007-04-01,https://www.streamlinedsalestax.org/ratesandboundry/Rates/TNR2025Q1MAR07.csv,2026-05-18
 TN,special_district,Special District 91905,91905,0.0225,TN-S-91905,sales,1989-01-01,https://www.streamlinedsalestax.org/ratesandboundry/Rates/TNR2025Q1MAR07.csv,2026-05-18
 TN,special_district,Special District 91908,91908,0.0225,TN-S-91908,sales,1989-01-01,https://www.streamlinedsalestax.org/ratesandboundry/Rates/TNR2025Q1MAR07.csv,2026-05-18
-TN,special_district,Special District 91950,91950,0.005,TN-S-91950,sales,2025-02-01,https://www.streamlinedsalestax.org/ratesandboundry/Rates/TNR2025Q1MAR07.csv,2026-05-18
 TN,special_district,Special District 91951,91951,0.005,TN-S-91951,sales,2025-02-01,https://www.streamlinedsalestax.org/ratesandboundry/Rates/TNR2025Q1MAR07.csv,2026-05-18
 TN,special_district,Special District 91952,91952,0.005,TN-S-91952,sales,2025-02-01,https://www.streamlinedsalestax.org/ratesandboundry/Rates/TNR2025Q1MAR07.csv,2026-05-18
 TN,special_district,Special District 91953,91953,0.005,TN-S-91953,sales,2025-02-01,https://www.streamlinedsalestax.org/ratesandboundry/Rates/TNR2025Q1MAR07.csv,2026-05-18

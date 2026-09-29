@@ -4,12 +4,12 @@
     "jurisdiction_type": "borough",
     "name": "Haines Borough",
     "fips_code": null,
-    "rate": 0.055,
+    "rate": 0.05,
     "source_key": "AK-B-hainesborough",
     "rate_type": "sales",
-    "effective_date": "2024-01-01",
+    "effective_date": "2026-04-01",
     "source_url": "https://arsstc.org/business-sellers/member-jurisdictions/",
-    "retrieved_at": "2026-05-18"
+    "retrieved_at": "2026-09-29"
   },
   {
     "state": "AK",
@@ -64,24 +64,24 @@
     "jurisdiction_type": "borough",
     "name": "Sitka City and Borough",
     "fips_code": null,
-    "rate": 0.05,
+    "rate": 0.06,
     "source_key": "AK-B-sitkacityandborough",
     "rate_type": "sales",
-    "effective_date": "2024-01-01",
+    "effective_date": "2026-04-01",
     "source_url": "https://arsstc.org/business-sellers/member-jurisdictions/",
-    "retrieved_at": "2026-05-18"
+    "retrieved_at": "2026-09-29"
   },
   {
     "state": "AK",
     "jurisdiction_type": "borough",
     "name": "Skagway Municipality",
     "fips_code": null,
-    "rate": 0.03,
+    "rate": 0.05,
     "source_key": "AK-B-skagwaymunicipality",
     "rate_type": "sales",
-    "effective_date": "2024-01-01",
+    "effective_date": "2026-04-01",
     "source_url": "https://arsstc.org/business-sellers/member-jurisdictions/",
-    "retrieved_at": "2026-05-18"
+    "retrieved_at": "2026-09-29"
   },
   {
     "state": "AK",
@@ -292,24 +292,24 @@
     "jurisdiction_type": "city",
     "name": "Cordova",
     "fips_code": null,
-    "rate": 0.06,
+    "rate": 0.07,
     "source_key": "AK-P-cordova",
     "rate_type": "sales",
-    "effective_date": "2024-01-01",
+    "effective_date": "2024-02-01",
     "source_url": "https://arsstc.org/business-sellers/member-jurisdictions/",
-    "retrieved_at": "2026-05-18"
+    "retrieved_at": "2026-09-29"
   },
   {
     "state": "AK",
     "jurisdiction_type": "city",
     "name": "Craig",
     "fips_code": null,
-    "rate": 0.05,
+    "rate": 0.07,
     "source_key": "AK-P-craig",
     "rate_type": "sales",
-    "effective_date": "2024-01-01",
+    "effective_date": "2026-04-01",
     "source_url": "https://arsstc.org/business-sellers/member-jurisdictions/",
-    "retrieved_at": "2026-05-18"
+    "retrieved_at": "2026-09-29"
   },
   {
     "state": "AK",
@@ -434,6 +434,18 @@
   {
     "state": "AK",
     "jurisdiction_type": "city",
+    "name": "Haines Townsite",
+    "fips_code": null,
+    "rate": 0.02,
+    "source_key": "AK-P-hainestownsite",
+    "rate_type": "sales",
+    "effective_date": "2026-04-01",
+    "source_url": "https://arsstc.org/business-sellers/member-jurisdictions/",
+    "retrieved_at": "2026-09-29"
+  },
+  {
+    "state": "AK",
+    "jurisdiction_type": "city",
     "name": "Homer",
     "fips_code": null,
     "rate": 0.0485,
@@ -520,12 +532,12 @@
     "jurisdiction_type": "city",
     "name": "Ketchikan",
     "fips_code": null,
-    "rate": 0.03,
+    "rate": 0.055,
     "source_key": "AK-P-ketchikan",
     "rate_type": "sales",
-    "effective_date": "2024-01-01",
+    "effective_date": "2026-04-01",
     "source_url": "https://arsstc.org/business-sellers/member-jurisdictions/",
-    "retrieved_at": "2026-05-18"
+    "retrieved_at": "2026-09-29"
   },
   {
     "state": "AK",
@@ -748,12 +760,12 @@
     "jurisdiction_type": "city",
     "name": "Nome",
     "fips_code": null,
-    "rate": 0.05,
+    "rate": 0.06,
     "source_key": "AK-P-nome",
     "rate_type": "sales",
-    "effective_date": "2024-01-01",
+    "effective_date": "2026-01-01",
     "source_url": "https://arsstc.org/business-sellers/member-jurisdictions/",
-    "retrieved_at": "2026-05-18"
+    "retrieved_at": "2026-09-29"
   },
   {
     "state": "AK",
@@ -844,24 +856,24 @@
     "jurisdiction_type": "city",
     "name": "Palmer",
     "fips_code": null,
-    "rate": 0.03,
+    "rate": 0.04,
     "source_key": "AK-P-palmer",
     "rate_type": "sales",
-    "effective_date": "2024-01-01",
+    "effective_date": "2026-04-01",
     "source_url": "https://arsstc.org/business-sellers/member-jurisdictions/",
-    "retrieved_at": "2026-05-18"
+    "retrieved_at": "2026-09-29"
   },
   {
     "state": "AK",
     "jurisdiction_type": "city",
     "name": "Pelican",
     "fips_code": null,
-    "rate": 0.04,
+    "rate": 0.06,
     "source_key": "AK-P-pelican",
     "rate_type": "sales",
-    "effective_date": "2024-01-01",
+    "effective_date": "2026-05-01",
     "source_url": "https://arsstc.org/business-sellers/member-jurisdictions/",
-    "retrieved_at": "2026-05-18"
+    "retrieved_at": "2026-09-29"
   },
   {
     "state": "AK",
@@ -1012,12 +1024,12 @@
     "jurisdiction_type": "city",
     "name": "Seldovia",
     "fips_code": null,
-    "rate": 0.02,
+    "rate": 0.065,
     "source_key": "AK-P-seldovia",
     "rate_type": "sales",
-    "effective_date": "2024-01-01",
+    "effective_date": "2026-04-01",
     "source_url": "https://arsstc.org/business-sellers/member-jurisdictions/",
-    "retrieved_at": "2026-05-18"
+    "retrieved_at": "2026-09-29"
   },
   {
     "state": "AK",
@@ -1054,6 +1066,18 @@
     "effective_date": "2024-01-01",
     "source_url": "https://arsstc.org/business-sellers/member-jurisdictions/",
     "retrieved_at": "2026-05-18"
+  },
+  {
+    "state": "AK",
+    "jurisdiction_type": "city",
+    "name": "Shungnak",
+    "fips_code": null,
+    "rate": 0.02,
+    "source_key": "AK-P-shungnak",
+    "rate_type": "sales",
+    "effective_date": "2024-01-01",
+    "source_url": "https://arsstc.org/business-sellers/member-jurisdictions/",
+    "retrieved_at": "2026-09-29"
   },
   {
     "state": "AK",
@@ -1204,12 +1228,12 @@
     "jurisdiction_type": "city",
     "name": "White Mountain",
     "fips_code": null,
-    "rate": 0.01,
+    "rate": 0.03,
     "source_key": "AK-P-whitemountain",
     "rate_type": "sales",
-    "effective_date": "2024-01-01",
+    "effective_date": "2024-12-01",
     "source_url": "https://arsstc.org/business-sellers/member-jurisdictions/",
-    "retrieved_at": "2026-05-18"
+    "retrieved_at": "2026-09-29"
   },
   {
     "state": "AK",
@@ -26020,12 +26044,12 @@
     "jurisdiction_type": "county",
     "name": "Adams",
     "fips_code": null,
-    "rate": 0.0075,
+    "rate": 0.0085,
     "source_key": "CO-C-adams",
     "rate_type": "sales",
-    "effective_date": "2026-01-01",
-    "source_url": "https://tax.colorado.gov/sites/tax/files/documents/Colorado_Jurisdiction_Codes_Rates_Jan-June2026_Apr26.xlsx",
-    "retrieved_at": "2026-05-18"
+    "effective_date": "2026-07-01",
+    "source_url": "https://tax.colorado.gov/sites/tax/files/documents/Colorado_Jurisdiction_Codes_Rates_July-Dec2026.xlsx",
+    "retrieved_at": "2026-09-29"
   },
   {
     "state": "CO",
@@ -26044,12 +26068,12 @@
     "jurisdiction_type": "county",
     "name": "Arapahoe",
     "fips_code": null,
-    "rate": 0.0025,
+    "rate": 0.0035,
     "source_key": "CO-C-arapahoe",
     "rate_type": "sales",
-    "effective_date": "2026-01-01",
-    "source_url": "https://tax.colorado.gov/sites/tax/files/documents/Colorado_Jurisdiction_Codes_Rates_Jan-June2026_Apr26.xlsx",
-    "retrieved_at": "2026-05-18"
+    "effective_date": "2026-07-01",
+    "source_url": "https://tax.colorado.gov/sites/tax/files/documents/Colorado_Jurisdiction_Codes_Rates_July-Dec2026.xlsx",
+    "retrieved_at": "2026-09-29"
   },
   {
     "state": "CO",
@@ -26080,12 +26104,12 @@
     "jurisdiction_type": "county",
     "name": "Boulder",
     "fips_code": null,
-    "rate": 0.01335,
+    "rate": 0.02435,
     "source_key": "CO-C-boulder",
     "rate_type": "sales",
-    "effective_date": "2026-01-01",
-    "source_url": "https://tax.colorado.gov/sites/tax/files/documents/Colorado_Jurisdiction_Codes_Rates_Jan-June2026_Apr26.xlsx",
-    "retrieved_at": "2026-05-18"
+    "effective_date": "2026-07-01",
+    "source_url": "https://tax.colorado.gov/sites/tax/files/documents/Colorado_Jurisdiction_Codes_Rates_July-Dec2026.xlsx",
+    "retrieved_at": "2026-09-29"
   },
   {
     "state": "CO",
@@ -26164,36 +26188,36 @@
     "jurisdiction_type": "county",
     "name": "Delta",
     "fips_code": null,
-    "rate": 0.02,
+    "rate": 0.036,
     "source_key": "CO-C-delta",
     "rate_type": "sales",
-    "effective_date": "2026-01-01",
-    "source_url": "https://tax.colorado.gov/sites/tax/files/documents/Colorado_Jurisdiction_Codes_Rates_Jan-June2026_Apr26.xlsx",
-    "retrieved_at": "2026-05-18"
+    "effective_date": "2026-07-01",
+    "source_url": "https://tax.colorado.gov/sites/tax/files/documents/Colorado_Jurisdiction_Codes_Rates_July-Dec2026.xlsx",
+    "retrieved_at": "2026-09-29"
   },
   {
     "state": "CO",
     "jurisdiction_type": "county",
     "name": "Douglas",
     "fips_code": null,
-    "rate": 0.01,
+    "rate": 0.011,
     "source_key": "CO-C-douglas",
     "rate_type": "sales",
-    "effective_date": "2026-01-01",
-    "source_url": "https://tax.colorado.gov/sites/tax/files/documents/Colorado_Jurisdiction_Codes_Rates_Jan-June2026_Apr26.xlsx",
-    "retrieved_at": "2026-05-18"
+    "effective_date": "2026-07-01",
+    "source_url": "https://tax.colorado.gov/sites/tax/files/documents/Colorado_Jurisdiction_Codes_Rates_July-Dec2026.xlsx",
+    "retrieved_at": "2026-09-29"
   },
   {
     "state": "CO",
     "jurisdiction_type": "county",
     "name": "Eagle",
     "fips_code": null,
-    "rate": 0.01,
+    "rate": 0.015,
     "source_key": "CO-C-eagle",
     "rate_type": "sales",
-    "effective_date": "2026-01-01",
-    "source_url": "https://tax.colorado.gov/sites/tax/files/documents/Colorado_Jurisdiction_Codes_Rates_Jan-June2026_Apr26.xlsx",
-    "retrieved_at": "2026-05-18"
+    "effective_date": "2026-07-01",
+    "source_url": "https://tax.colorado.gov/sites/tax/files/documents/Colorado_Jurisdiction_Codes_Rates_July-Dec2026.xlsx",
+    "retrieved_at": "2026-09-29"
   },
   {
     "state": "CO",
@@ -26236,12 +26260,12 @@
     "jurisdiction_type": "county",
     "name": "Garfield",
     "fips_code": null,
-    "rate": 0.01,
+    "rate": 0.0125,
     "source_key": "CO-C-garfield",
     "rate_type": "sales",
-    "effective_date": "2026-01-01",
-    "source_url": "https://tax.colorado.gov/sites/tax/files/documents/Colorado_Jurisdiction_Codes_Rates_Jan-June2026_Apr26.xlsx",
-    "retrieved_at": "2026-05-18"
+    "effective_date": "2026-07-01",
+    "source_url": "https://tax.colorado.gov/sites/tax/files/documents/Colorado_Jurisdiction_Codes_Rates_July-Dec2026.xlsx",
+    "retrieved_at": "2026-09-29"
   },
   {
     "state": "CO",
@@ -26308,12 +26332,12 @@
     "jurisdiction_type": "county",
     "name": "Jefferson",
     "fips_code": null,
-    "rate": 0.005,
+    "rate": 0.016,
     "source_key": "CO-C-jefferson",
     "rate_type": "sales",
-    "effective_date": "2026-01-01",
-    "source_url": "https://tax.colorado.gov/sites/tax/files/documents/Colorado_Jurisdiction_Codes_Rates_Jan-June2026_Apr26.xlsx",
-    "retrieved_at": "2026-05-18"
+    "effective_date": "2026-07-01",
+    "source_url": "https://tax.colorado.gov/sites/tax/files/documents/Colorado_Jurisdiction_Codes_Rates_July-Dec2026.xlsx",
+    "retrieved_at": "2026-09-29"
   },
   {
     "state": "CO",
@@ -26392,12 +26416,12 @@
     "jurisdiction_type": "county",
     "name": "Mesa",
     "fips_code": null,
-    "rate": 0.02,
+    "rate": 0.0237,
     "source_key": "CO-C-mesa",
     "rate_type": "sales",
-    "effective_date": "2026-01-01",
-    "source_url": "https://tax.colorado.gov/sites/tax/files/documents/Colorado_Jurisdiction_Codes_Rates_Jan-June2026_Apr26.xlsx",
-    "retrieved_at": "2026-05-18"
+    "effective_date": "2026-07-01",
+    "source_url": "https://tax.colorado.gov/sites/tax/files/documents/Colorado_Jurisdiction_Codes_Rates_July-Dec2026.xlsx",
+    "retrieved_at": "2026-09-29"
   },
   {
     "state": "CO",
@@ -26428,12 +26452,12 @@
     "jurisdiction_type": "county",
     "name": "Montrose",
     "fips_code": null,
-    "rate": 0.01,
+    "rate": 0.0175,
     "source_key": "CO-C-montrose",
     "rate_type": "sales",
-    "effective_date": "2026-01-01",
-    "source_url": "https://tax.colorado.gov/sites/tax/files/documents/Colorado_Jurisdiction_Codes_Rates_Jan-June2026_Apr26.xlsx",
-    "retrieved_at": "2026-05-18"
+    "effective_date": "2026-07-01",
+    "source_url": "https://tax.colorado.gov/sites/tax/files/documents/Colorado_Jurisdiction_Codes_Rates_July-Dec2026.xlsx",
+    "retrieved_at": "2026-09-29"
   },
   {
     "state": "CO",
@@ -26488,12 +26512,12 @@
     "jurisdiction_type": "county",
     "name": "Pitkin",
     "fips_code": null,
-    "rate": 0.031,
+    "rate": 0.0425,
     "source_key": "CO-C-pitkin",
     "rate_type": "sales",
-    "effective_date": "2026-01-01",
-    "source_url": "https://tax.colorado.gov/sites/tax/files/documents/Colorado_Jurisdiction_Codes_Rates_Jan-June2026_Apr26.xlsx",
-    "retrieved_at": "2026-05-18"
+    "effective_date": "2026-07-01",
+    "source_url": "https://tax.colorado.gov/sites/tax/files/documents/Colorado_Jurisdiction_Codes_Rates_July-Dec2026.xlsx",
+    "retrieved_at": "2026-09-29"
   },
   {
     "state": "CO",
@@ -26608,12 +26632,12 @@
     "jurisdiction_type": "county",
     "name": "Summit",
     "fips_code": null,
-    "rate": 0.02,
+    "rate": 0.03475,
     "source_key": "CO-C-summit",
     "rate_type": "sales",
-    "effective_date": "2026-01-01",
-    "source_url": "https://tax.colorado.gov/sites/tax/files/documents/Colorado_Jurisdiction_Codes_Rates_Jan-June2026_Apr26.xlsx",
-    "retrieved_at": "2026-05-18"
+    "effective_date": "2026-07-01",
+    "source_url": "https://tax.colorado.gov/sites/tax/files/documents/Colorado_Jurisdiction_Codes_Rates_July-Dec2026.xlsx",
+    "retrieved_at": "2026-09-29"
   },
   {
     "state": "CO",
@@ -30818,18 +30842,6 @@
   {
     "state": "ID",
     "jurisdiction_type": "city",
-    "name": "Sandpoint",
-    "fips_code": null,
-    "rate": 0.01,
-    "source_key": "ID-P-sandpoint",
-    "rate_type": "sales",
-    "effective_date": "2024-01-01",
-    "source_url": "https://tax.idaho.gov/taxes/sales-use/sales-tax/local-sales-tax/city-sales-tax/",
-    "retrieved_at": "2026-05-18"
-  },
-  {
-    "state": "ID",
-    "jurisdiction_type": "city",
     "name": "Stanley",
     "fips_code": null,
     "rate": 0.025,
@@ -30850,6 +30862,30 @@
     "effective_date": "2024-01-01",
     "source_url": "https://tax.idaho.gov/taxes/sales-use/sales-tax/local-sales-tax/city-sales-tax/",
     "retrieved_at": "2026-05-18"
+  },
+  {
+    "state": "ID",
+    "jurisdiction_type": "city",
+    "name": "Tetonia",
+    "fips_code": null,
+    "rate": 0.005,
+    "source_key": "ID-P-tetonia",
+    "rate_type": "sales",
+    "effective_date": "2026-01-01",
+    "source_url": "https://tax.idaho.gov/taxes/sales-use/sales-tax/local-sales-tax/city-sales-tax/",
+    "retrieved_at": "2026-09-29"
+  },
+  {
+    "state": "ID",
+    "jurisdiction_type": "city",
+    "name": "Victor",
+    "fips_code": null,
+    "rate": 0.01,
+    "source_key": "ID-P-victor",
+    "rate_type": "sales",
+    "effective_date": "2024-01-01",
+    "source_url": "https://tax.idaho.gov/taxes/sales-use/sales-tax/local-sales-tax/city-sales-tax/",
+    "retrieved_at": "2026-09-29"
   },
   {
     "state": "IL",
@@ -68390,6 +68426,18 @@
   {
     "state": "LA",
     "jurisdiction_type": "city",
+    "name": "Town of Lutcher",
+    "fips_code": "4702",
+    "rate": 0.045,
+    "source_key": "LA-4702",
+    "rate_type": "sales",
+    "effective_date": "2014-01-01",
+    "source_url": "https://lulstb.com/",
+    "retrieved_at": "2026-09-29"
+  },
+  {
+    "state": "LA",
+    "jurisdiction_type": "city",
     "name": "Town of Oberlin",
     "fips_code": "0203",
     "rate": 0.06,
@@ -68584,12 +68632,12 @@
     "jurisdiction_type": "parish",
     "name": "Parish Wide",
     "fips_code": "3800",
-    "rate": 0.0475,
+    "rate": 0.0525,
     "source_key": "LA-3800",
     "rate_type": "sales",
-    "effective_date": "2025-07-01",
+    "effective_date": "2026-07-01",
     "source_url": "https://lulstb.com/",
-    "retrieved_at": "2026-05-18"
+    "retrieved_at": "2026-09-29"
   },
   {
     "state": "LA",
@@ -70286,18 +70334,6 @@
   {
     "state": "MN",
     "jurisdiction_type": "special_district",
-    "name": "Special District 80009",
-    "fips_code": "80009",
-    "rate": 0.0025,
-    "source_key": "MN-S-80009",
-    "rate_type": "sales",
-    "effective_date": "2023-10-01",
-    "source_url": "https://www.streamlinedsalestax.org/ratesandboundry/Rates/MNR2026Q2FEB18.zip",
-    "retrieved_at": "2026-05-18"
-  },
-  {
-    "state": "MN",
-    "jurisdiction_type": "special_district",
     "name": "Special District 80011",
     "fips_code": "80011",
     "rate": 0.00625,
@@ -70342,6 +70378,18 @@
     "effective_date": "2026-07-01",
     "source_url": "https://www.streamlinedsalestax.org/ratesandboundry/Rates/MNR2026Q3MAY20.zip",
     "retrieved_at": "2026-07-07"
+  },
+  {
+    "state": "MN",
+    "jurisdiction_type": "special_district",
+    "name": "Twin Cities metro area sales tax for housing",
+    "fips_code": "80009",
+    "rate": 0.0025,
+    "source_key": "MN-S-80009",
+    "rate_type": "sales",
+    "effective_date": "2023-10-01",
+    "source_url": "https://www.streamlinedsalestax.org/ratesandboundry/Rates/MNR2026Q2FEB18.zip",
+    "retrieved_at": "2026-05-18"
   },
   {
     "state": "MN",
@@ -91298,7 +91346,19 @@
   {
     "state": "NC",
     "jurisdiction_type": "special_district",
-    "name": "Special District 98119",
+    "name": "Durham County transit tax",
+    "fips_code": "99063",
+    "rate": 0.005,
+    "source_key": "NC-S-99063",
+    "rate_type": "sales",
+    "effective_date": "2013-04-01",
+    "source_url": "https://www.streamlinedsalestax.org/ratesandboundry/Rates/NCR2024Q3APR26.csv",
+    "retrieved_at": "2026-05-18"
+  },
+  {
+    "state": "NC",
+    "jurisdiction_type": "special_district",
+    "name": "Mecklenburg County additional 1% sales tax",
     "fips_code": "98119",
     "rate": 0.01,
     "source_key": "NC-S-98119",
@@ -91310,10 +91370,10 @@
   {
     "state": "NC",
     "jurisdiction_type": "special_district",
-    "name": "Special District 99063",
-    "fips_code": "99063",
+    "name": "Orange County transit tax",
+    "fips_code": "99135",
     "rate": 0.005,
-    "source_key": "NC-S-99063",
+    "source_key": "NC-S-99135",
     "rate_type": "sales",
     "effective_date": "2013-04-01",
     "source_url": "https://www.streamlinedsalestax.org/ratesandboundry/Rates/NCR2024Q3APR26.csv",
@@ -91334,19 +91394,7 @@
   {
     "state": "NC",
     "jurisdiction_type": "special_district",
-    "name": "Special District 99135",
-    "fips_code": "99135",
-    "rate": 0.005,
-    "source_key": "NC-S-99135",
-    "rate_type": "sales",
-    "effective_date": "2013-04-01",
-    "source_url": "https://www.streamlinedsalestax.org/ratesandboundry/Rates/NCR2024Q3APR26.csv",
-    "retrieved_at": "2026-05-18"
-  },
-  {
-    "state": "NC",
-    "jurisdiction_type": "special_district",
-    "name": "Special District 99183",
+    "name": "Wake County transit tax",
     "fips_code": "99183",
     "rate": 0.005,
     "source_key": "NC-S-99183",
@@ -101630,12 +101678,48 @@
   {
     "state": "OH",
     "jurisdiction_type": "special_district",
-    "name": "Special District 02000",
+    "name": "Allen County Regional Transit Authority",
     "fips_code": "02000",
     "rate": 0.001,
     "source_key": "OH-S-02000",
     "rate_type": "sales",
     "effective_date": "2019-10-01",
+    "source_url": "https://www.streamlinedsalestax.org/ratesandboundry/Rates/OHR2026Q1NOV28.csv",
+    "retrieved_at": "2026-05-18"
+  },
+  {
+    "state": "OH",
+    "jurisdiction_type": "special_district",
+    "name": "Laketran (Lake County)",
+    "fips_code": "43000",
+    "rate": 0.005,
+    "source_key": "OH-S-43000",
+    "rate_type": "sales",
+    "effective_date": "2025-07-01",
+    "source_url": "https://www.streamlinedsalestax.org/ratesandboundry/Rates/OHR2026Q1NOV28.csv",
+    "retrieved_at": "2026-05-18"
+  },
+  {
+    "state": "OH",
+    "jurisdiction_type": "special_district",
+    "name": "Portage Area Regional Transportation Authority",
+    "fips_code": "67000",
+    "rate": 0.0025,
+    "source_key": "OH-S-67000",
+    "rate_type": "sales",
+    "effective_date": "2004-01-01",
+    "source_url": "https://www.streamlinedsalestax.org/ratesandboundry/Rates/OHR2026Q1NOV28.csv",
+    "retrieved_at": "2026-05-18"
+  },
+  {
+    "state": "OH",
+    "jurisdiction_type": "special_district",
+    "name": "Southwest Ohio Regional Transit Authority",
+    "fips_code": "31000",
+    "rate": 0.008,
+    "source_key": "OH-S-31000",
+    "rate_type": "sales",
+    "effective_date": "2020-10-01",
     "source_url": "https://www.streamlinedsalestax.org/ratesandboundry/Rates/OHR2026Q1NOV28.csv",
     "retrieved_at": "2026-05-18"
   },
@@ -101666,30 +101750,6 @@
   {
     "state": "OH",
     "jurisdiction_type": "special_district",
-    "name": "Special District 31000",
-    "fips_code": "31000",
-    "rate": 0.008,
-    "source_key": "OH-S-31000",
-    "rate_type": "sales",
-    "effective_date": "2020-10-01",
-    "source_url": "https://www.streamlinedsalestax.org/ratesandboundry/Rates/OHR2026Q1NOV28.csv",
-    "retrieved_at": "2026-05-18"
-  },
-  {
-    "state": "OH",
-    "jurisdiction_type": "special_district",
-    "name": "Special District 43000",
-    "fips_code": "43000",
-    "rate": 0.005,
-    "source_key": "OH-S-43000",
-    "rate_type": "sales",
-    "effective_date": "2025-07-01",
-    "source_url": "https://www.streamlinedsalestax.org/ratesandboundry/Rates/OHR2026Q1NOV28.csv",
-    "retrieved_at": "2026-05-18"
-  },
-  {
-    "state": "OH",
-    "jurisdiction_type": "special_district",
     "name": "Special District 48000",
     "fips_code": "48000",
     "rate": 0.005,
@@ -101702,36 +101762,12 @@
   {
     "state": "OH",
     "jurisdiction_type": "special_district",
-    "name": "Special District 50000",
-    "fips_code": "50000",
-    "rate": 0.0025,
-    "source_key": "OH-S-50000",
-    "rate_type": "sales",
-    "effective_date": "2009-04-01",
-    "source_url": "https://www.streamlinedsalestax.org/ratesandboundry/Rates/OHR2026Q1NOV28.csv",
-    "retrieved_at": "2026-05-18"
-  },
-  {
-    "state": "OH",
-    "jurisdiction_type": "special_district",
     "name": "Special District 57000",
     "fips_code": "57000",
     "rate": 0.005,
     "source_key": "OH-S-57000",
     "rate_type": "sales",
     "effective_date": "1980-07-01",
-    "source_url": "https://www.streamlinedsalestax.org/ratesandboundry/Rates/OHR2026Q1NOV28.csv",
-    "retrieved_at": "2026-05-18"
-  },
-  {
-    "state": "OH",
-    "jurisdiction_type": "special_district",
-    "name": "Special District 67000",
-    "fips_code": "67000",
-    "rate": 0.0025,
-    "source_key": "OH-S-67000",
-    "rate_type": "sales",
-    "effective_date": "2004-01-01",
     "source_url": "https://www.streamlinedsalestax.org/ratesandboundry/Rates/OHR2026Q1NOV28.csv",
     "retrieved_at": "2026-05-18"
   },
@@ -101816,6 +101852,18 @@
     "source_key": "OH-S-98000",
     "rate_type": "sales",
     "effective_date": "2025-04-01",
+    "source_url": "https://www.streamlinedsalestax.org/ratesandboundry/Rates/OHR2026Q1NOV28.csv",
+    "retrieved_at": "2026-05-18"
+  },
+  {
+    "state": "OH",
+    "jurisdiction_type": "special_district",
+    "name": "Western Reserve Transit Authority",
+    "fips_code": "50000",
+    "rate": 0.0025,
+    "source_key": "OH-S-50000",
+    "rate_type": "sales",
+    "effective_date": "2009-04-01",
     "source_url": "https://www.streamlinedsalestax.org/ratesandboundry/Rates/OHR2026Q1NOV28.csv",
     "retrieved_at": "2026-05-18"
   },
@@ -126374,6 +126422,18 @@
   {
     "state": "TN",
     "jurisdiction_type": "special_district",
+    "name": "Davidson County transit surcharge",
+    "fips_code": "91950",
+    "rate": 0.005,
+    "source_key": "TN-S-91950",
+    "rate_type": "sales",
+    "effective_date": "2025-02-01",
+    "source_url": "https://www.streamlinedsalestax.org/ratesandboundry/Rates/TNR2025Q1MAR07.csv",
+    "retrieved_at": "2026-05-18"
+  },
+  {
+    "state": "TN",
+    "jurisdiction_type": "special_district",
     "name": "Special District 90102",
     "fips_code": "90102",
     "rate": 0.0275,
@@ -126524,18 +126584,6 @@
     "source_key": "TN-S-91908",
     "rate_type": "sales",
     "effective_date": "1989-01-01",
-    "source_url": "https://www.streamlinedsalestax.org/ratesandboundry/Rates/TNR2025Q1MAR07.csv",
-    "retrieved_at": "2026-05-18"
-  },
-  {
-    "state": "TN",
-    "jurisdiction_type": "special_district",
-    "name": "Special District 91950",
-    "fips_code": "91950",
-    "rate": 0.005,
-    "source_key": "TN-S-91950",
-    "rate_type": "sales",
-    "effective_date": "2025-02-01",
     "source_url": "https://www.streamlinedsalestax.org/ratesandboundry/Rates/TNR2025Q1MAR07.csv",
     "retrieved_at": "2026-05-18"
   },

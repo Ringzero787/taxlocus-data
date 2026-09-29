@@ -1,5 +1,5 @@
 year,state,wage_base,new_employer_rate,min_rate,max_rate,citation_url,notes,as_of
-2026,AK,54200.0,,,,https://labor.alaska.gov/estax/,,2026-06-15
+2026,AK,54200.0,,,,https://labor.alaska.gov/estax/2026-experience-rates.html,"Alaska DOLWD: the 2026 taxable wage base is $54,200.",2026-09-27
 2026,AL,8000.0,,,,https://labor.alabama.gov/,,2026-06-15
 2026,AR,7000.0,,,,https://www.dws.arkansas.gov/,,2026-06-15
 2026,AZ,8000.0,,,,https://des.az.gov/services/employment/unemployment-employer,,2026-06-15
@@ -33,24 +33,24 @@ year,state,wage_base,new_employer_rate,min_rate,max_rate,citation_url,notes,as_o
 2026,NJ,44800.0,,,,https://www.nj.gov/labor/,,2026-06-15
 2026,NM,34800.0,,,,https://www.dws.state.nm.us/,,2026-06-15
 2026,NV,43700.0,,,,https://detr.nv.gov/,,2026-06-15
-2026,NY,13000.0,,,,https://dol.ny.gov/unemployment-insurance,,2026-06-15
+2026,NY,17600.0,,,,https://dol.ny.gov/nys-45-quarterly-reporting,"NY DOL: $17,600 for 2026. From 2026 the base is 18% of the state average annual wage, rounded up to the nearest $100, and the average wage used cannot be lower than the prior year's ($12,800 in 2025).",2026-09-27
 2026,OH,9000.0,,,,https://jfs.ohio.gov/ouio/,,2026-06-15
 2026,OK,25000.0,,,,https://oklahoma.gov/oesc.html,Oklahoma lowered the base for 2026.,2026-06-15
 2026,OR,56700.0,,,,https://www.oregon.gov/employ/Pages/default.aspx,,2026-06-15
 2026,PA,10000.0,,,,https://www.dli.pa.gov/employers/,,2026-06-15
-2026,RI,30800.0,,,,https://dlt.ri.gov/employers,"Standard 2026 base $30,800; highest-rate employers use $32,300.",2026-06-15
+2026,RI,30800.0,,,,https://dlt.ri.gov/press-releases/2026-tax-rates-unemployment-insurance-and-temporary-disability-insurance,"Standard 2026 base $30,800; employers at the highest tax rate use $32,300 (RI DLT).",2026-09-27
 2026,SC,14000.0,,,,https://dew.sc.gov/employers,,2026-06-15
 2026,SD,15000.0,,,,https://dlr.sd.gov/ra/,,2026-06-15
 2026,TN,7000.0,,,,https://www.tn.gov/workforce/employers.html,,2026-06-15
 2026,TX,9000.0,,,,https://www.twc.texas.gov/businesses/,,2026-06-15
-2026,UT,50700.0,,,,https://jobs.utah.gov/ui/employer/,,2026-06-15
+2026,UT,50700.0,,,,https://jobs.utah.gov/ui/employer/public/Questions/TaxRates.aspx,"Utah DWS: during 2026 the taxable wage base is $50,700.",2026-09-27
 2026,VA,8000.0,,,,https://www.vec.virginia.gov/employers,,2026-06-15
 2026,VT,15400.0,,,,https://labor.vermont.gov/,,2026-06-15
 2026,WA,78200.0,,,,https://esd.wa.gov/employer-taxes,,2026-06-15
 2026,WI,14000.0,,,,https://dwd.wisconsin.gov/ui/,,2026-06-15
 2026,WV,9500.0,,,,https://workforcewv.org/businesses/unemployment-tax-information/,"West Virginia 2026 SUTA wage base $9,500 (down from 2025's $9,521). Confirmed via WorkForce West Virginia 2026 rate schedule and corroborated by Paychex, Avionte, and Patriot Software payroll references.",2026-06-15
 2026,WY,33800.0,,,,https://wyomingworkforce.org/businesses/ui/,,2026-06-15
-2025,AK,49700.0,,,,https://labor.alaska.gov/estax/,,2026-06-15
+2025,AK,51700.0,,,,https://labor.alaska.gov/estax/2025-experience-rates.html,"Alaska DOLWD: the 2025 taxable wage base is $51,700.",2026-09-27
 2025,AL,8000.0,,,,https://labor.alabama.gov/,,2026-06-15
 2025,AR,7000.0,,,,https://www.dws.arkansas.gov/,,2026-06-15
 2025,AZ,8000.0,,,,https://des.az.gov/services/employment/unemployment-employer,,2026-06-15
@@ -84,17 +84,17 @@ year,state,wage_base,new_employer_rate,min_rate,max_rate,citation_url,notes,as_o
 2025,NJ,43300.0,,,,https://www.nj.gov/labor/,,2026-06-15
 2025,NM,33200.0,,,,https://www.dws.state.nm.us/,,2026-06-15
 2025,NV,41800.0,,,,https://detr.nv.gov/,,2026-06-15
-2025,NY,12800.0,,,,https://dol.ny.gov/unemployment-insurance,,2026-06-15
+2025,NY,12800.0,,,,https://dol.ny.gov/nys-45-quarterly-reporting,"NY DOL wage base history: $12,800 for 2025.",2026-09-27
 2025,OH,9000.0,,,,https://jfs.ohio.gov/ouio/,,2026-06-15
 2025,OK,28200.0,,,,https://oklahoma.gov/oesc.html,,2026-06-15
 2025,OR,54300.0,,,,https://www.oregon.gov/employ/Pages/default.aspx,,2026-06-15
 2025,PA,10000.0,,,,https://www.dli.pa.gov/employers/,,2026-06-15
-2025,RI,29200.0,,,,https://dlt.ri.gov/employers,,2026-06-15
+2025,RI,29800.0,,,,https://dlt.ri.gov/sites/g/files/xkgbur571/files/2024-06/quickref.pdf,"Standard 2025 base $29,800; employers at the highest tax rate use $31,300 (RI DLT 2025 UI and TDI Quick Reference).",2026-09-27
 2025,SC,14000.0,,,,https://dew.sc.gov/employers,,2026-06-15
 2025,SD,15000.0,,,,https://dlr.sd.gov/ra/,,2026-06-15
 2025,TN,7000.0,,,,https://www.tn.gov/workforce/employers.html,,2026-06-15
 2025,TX,9000.0,,,,https://www.twc.texas.gov/businesses/,,2026-06-15
-2025,UT,47000.0,,,,https://jobs.utah.gov/ui/employer/,,2026-06-15
+2025,UT,48900.0,,,,https://jobs.utah.gov/ui/employer/Public/Empadv/Winter_2024.pdf,"Utah DWS Employer Advisor (Winter 2024): the taxable wage base for 2025 is $48,900.",2026-09-27
 2025,VA,8000.0,,,,https://www.vec.virginia.gov/employers,,2026-06-15
 2025,VT,14800.0,,,,https://labor.vermont.gov/,,2026-06-15
 2025,WA,72800.0,,,,https://esd.wa.gov/employer-taxes,,2026-06-15
