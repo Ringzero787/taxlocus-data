@@ -1,12 +1,21 @@
 [
   {
+    "state": "MO",
+    "rate_change_events": 568,
+    "jurisdictions_changed": 248,
+    "first_change": "2026-06-09",
+    "last_change": "2026-10-01",
+    "observation_window_days": 136,
+    "annualized_change_rate": 1524.4
+  },
+  {
     "state": "WA",
-    "rate_change_events": 434,
-    "jurisdictions_changed": 434,
+    "rate_change_events": 504,
+    "jurisdictions_changed": 459,
     "first_change": "2026-07-07",
-    "last_change": "2026-07-07",
-    "observation_window_days": 134,
-    "annualized_change_rate": 1182.2
+    "last_change": "2026-10-01",
+    "observation_window_days": 136,
+    "annualized_change_rate": 1352.6
   },
   {
     "state": "IL",
@@ -14,26 +23,26 @@
     "jurisdictions_changed": 303,
     "first_change": "2026-05-27",
     "last_change": "2026-09-22",
-    "observation_window_days": 134,
-    "annualized_change_rate": 1149.5
-  },
-  {
-    "state": "MO",
-    "rate_change_events": 322,
-    "jurisdictions_changed": 162,
-    "first_change": "2026-06-09",
-    "last_change": "2026-09-21",
-    "observation_window_days": 134,
-    "annualized_change_rate": 877.1
+    "observation_window_days": 136,
+    "annualized_change_rate": 1132.6
   },
   {
     "state": "KS",
-    "rate_change_events": 21,
-    "jurisdictions_changed": 21,
+    "rate_change_events": 37,
+    "jurisdictions_changed": 36,
     "first_change": "2026-07-07",
-    "last_change": "2026-07-07",
-    "observation_window_days": 134,
-    "annualized_change_rate": 57.2
+    "last_change": "2026-10-01",
+    "observation_window_days": 136,
+    "annualized_change_rate": 99.3
+  },
+  {
+    "state": "AK",
+    "rate_change_events": 19,
+    "jurisdictions_changed": 12,
+    "first_change": "2026-09-29",
+    "last_change": "2026-10-01",
+    "observation_window_days": 136,
+    "annualized_change_rate": 51.0
   },
   {
     "state": "CO",
@@ -41,8 +50,8 @@
     "jurisdictions_changed": 16,
     "first_change": "2026-07-21",
     "last_change": "2026-09-29",
-    "observation_window_days": 134,
-    "annualized_change_rate": 43.6
+    "observation_window_days": 136,
+    "annualized_change_rate": 42.9
   },
   {
     "state": "NM",
@@ -50,26 +59,26 @@
     "jurisdictions_changed": 14,
     "first_change": "2026-09-21",
     "last_change": "2026-09-21",
-    "observation_window_days": 134,
-    "annualized_change_rate": 38.1
-  },
-  {
-    "state": "AK",
-    "rate_change_events": 11,
-    "jurisdictions_changed": 11,
-    "first_change": "2026-09-29",
-    "last_change": "2026-09-29",
-    "observation_window_days": 134,
-    "annualized_change_rate": 30.0
+    "observation_window_days": 136,
+    "annualized_change_rate": 37.6
   },
   {
     "state": "OK",
-    "rate_change_events": 10,
-    "jurisdictions_changed": 10,
+    "rate_change_events": 13,
+    "jurisdictions_changed": 13,
     "first_change": "2026-07-07",
-    "last_change": "2026-07-07",
-    "observation_window_days": 134,
-    "annualized_change_rate": 27.2
+    "last_change": "2026-10-01",
+    "observation_window_days": 136,
+    "annualized_change_rate": 34.9
+  },
+  {
+    "state": "GA",
+    "rate_change_events": 11,
+    "jurisdictions_changed": 11,
+    "first_change": "2026-07-07",
+    "last_change": "2026-10-01",
+    "observation_window_days": 136,
+    "annualized_change_rate": 29.5
   },
   {
     "state": "AL",
@@ -77,26 +86,26 @@
     "jurisdictions_changed": 9,
     "first_change": "2026-05-27",
     "last_change": "2026-09-21",
-    "observation_window_days": 134,
-    "annualized_change_rate": 24.5
+    "observation_window_days": 136,
+    "annualized_change_rate": 24.2
   },
   {
     "state": "AR",
-    "rate_change_events": 4,
-    "jurisdictions_changed": 4,
+    "rate_change_events": 8,
+    "jurisdictions_changed": 8,
     "first_change": "2026-07-07",
-    "last_change": "2026-07-07",
-    "observation_window_days": 134,
-    "annualized_change_rate": 10.9
+    "last_change": "2026-10-01",
+    "observation_window_days": 136,
+    "annualized_change_rate": 21.5
   },
   {
     "state": "AZ",
-    "rate_change_events": 4,
-    "jurisdictions_changed": 4,
+    "rate_change_events": 5,
+    "jurisdictions_changed": 5,
     "first_change": "2026-07-07",
-    "last_change": "2026-09-01",
-    "observation_window_days": 134,
-    "annualized_change_rate": 10.9
+    "last_change": "2026-10-01",
+    "observation_window_days": 136,
+    "annualized_change_rate": 13.4
   },
   {
     "state": "FL",
@@ -104,17 +113,26 @@
     "jurisdictions_changed": 4,
     "first_change": "2026-05-18",
     "last_change": "2026-09-21",
-    "observation_window_days": 134,
-    "annualized_change_rate": 10.9
+    "observation_window_days": 136,
+    "annualized_change_rate": 10.7
+  },
+  {
+    "state": "UT",
+    "rate_change_events": 4,
+    "jurisdictions_changed": 4,
+    "first_change": "2026-07-07",
+    "last_change": "2026-10-01",
+    "observation_window_days": 136,
+    "annualized_change_rate": 10.7
   },
   {
     "state": "ND",
-    "rate_change_events": 2,
-    "jurisdictions_changed": 2,
+    "rate_change_events": 3,
+    "jurisdictions_changed": 3,
     "first_change": "2026-07-07",
-    "last_change": "2026-07-07",
-    "observation_window_days": 134,
-    "annualized_change_rate": 5.4
+    "last_change": "2026-10-01",
+    "observation_window_days": 136,
+    "annualized_change_rate": 8.1
   },
   {
     "state": "TX",
@@ -122,17 +140,17 @@
     "jurisdictions_changed": 2,
     "first_change": "2026-07-28",
     "last_change": "2026-07-28",
-    "observation_window_days": 134,
+    "observation_window_days": 136,
     "annualized_change_rate": 5.4
   },
   {
-    "state": "GA",
-    "rate_change_events": 1,
+    "state": "WY",
+    "rate_change_events": 2,
     "jurisdictions_changed": 1,
     "first_change": "2026-07-07",
-    "last_change": "2026-07-07",
-    "observation_window_days": 134,
-    "annualized_change_rate": 2.7
+    "last_change": "2026-10-01",
+    "observation_window_days": 136,
+    "annualized_change_rate": 5.4
   },
   {
     "state": "LA",
@@ -140,7 +158,7 @@
     "jurisdictions_changed": 1,
     "first_change": "2026-09-29",
     "last_change": "2026-09-29",
-    "observation_window_days": 134,
+    "observation_window_days": 136,
     "annualized_change_rate": 2.7
   },
   {
@@ -149,7 +167,16 @@
     "jurisdictions_changed": 1,
     "first_change": "2026-07-07",
     "last_change": "2026-07-07",
-    "observation_window_days": 134,
+    "observation_window_days": 136,
+    "annualized_change_rate": 2.7
+  },
+  {
+    "state": "OH",
+    "rate_change_events": 1,
+    "jurisdictions_changed": 1,
+    "first_change": "2026-10-01",
+    "last_change": "2026-10-01",
+    "observation_window_days": 136,
     "annualized_change_rate": 2.7
   },
   {
@@ -158,7 +185,7 @@
     "jurisdictions_changed": 1,
     "first_change": "2026-07-07",
     "last_change": "2026-07-07",
-    "observation_window_days": 134,
+    "observation_window_days": 136,
     "annualized_change_rate": 2.7
   },
   {
@@ -167,25 +194,7 @@
     "jurisdictions_changed": 1,
     "first_change": "2026-08-04",
     "last_change": "2026-08-04",
-    "observation_window_days": 134,
-    "annualized_change_rate": 2.7
-  },
-  {
-    "state": "UT",
-    "rate_change_events": 1,
-    "jurisdictions_changed": 1,
-    "first_change": "2026-07-07",
-    "last_change": "2026-07-07",
-    "observation_window_days": 134,
-    "annualized_change_rate": 2.7
-  },
-  {
-    "state": "WY",
-    "rate_change_events": 1,
-    "jurisdictions_changed": 1,
-    "first_change": "2026-07-07",
-    "last_change": "2026-07-07",
-    "observation_window_days": 134,
+    "observation_window_days": 136,
     "annualized_change_rate": 2.7
   }
 ]

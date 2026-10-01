@@ -65,6 +65,12 @@
           {
             "end": "2026-07-19",
             "start": "2026-07-17"
+          },
+          {
+            "end": "2027-07-18",
+            "start": "2027-07-16",
+            "source": "https://alison.legislature.state.al.us/code-of-alabama?section=40-23-211",
+            "provisional": true
           }
         ],
         "price_cap_cents": 15600
@@ -87,6 +93,12 @@
           {
             "end": "2026-07-19",
             "start": "2026-07-17"
+          },
+          {
+            "end": "2027-07-18",
+            "start": "2027-07-16",
+            "source": "https://alison.legislature.state.al.us/code-of-alabama?section=40-23-211",
+            "provisional": true
           }
         ],
         "price_cap_cents": 15600
@@ -109,6 +121,12 @@
           {
             "end": "2026-07-19",
             "start": "2026-07-17"
+          },
+          {
+            "end": "2027-07-18",
+            "start": "2027-07-16",
+            "source": "https://alison.legislature.state.al.us/code-of-alabama?section=40-23-211",
+            "provisional": true
           }
         ],
         "price_cap_cents": 15600
@@ -592,9 +610,16 @@
           {
             "end": "2026-08-02",
             "start": "2026-08-01"
+          },
+          {
+            "end": "2027-08-08",
+            "start": "2027-08-07",
+            "source": "https://codes.findlaw.com/ar/title-26-taxation/ar-code-sect-26-52-444/",
+            "provisional": true
           }
         ],
-        "price_cap_cents": 10000
+        "price_cap_cents": 10000,
+        "price_cap_inclusive": false
       }
     },
     "effective_date": "2026-05-21",
@@ -614,9 +639,16 @@
           {
             "end": "2026-08-02",
             "start": "2026-08-01"
+          },
+          {
+            "end": "2027-08-08",
+            "start": "2027-08-07",
+            "source": "https://codes.findlaw.com/ar/title-26-taxation/ar-code-sect-26-52-444/",
+            "provisional": true
           }
         ],
-        "price_cap_cents": 10000
+        "price_cap_cents": 10000,
+        "price_cap_inclusive": false
       }
     },
     "effective_date": "2026-05-21",
@@ -636,9 +668,16 @@
           {
             "end": "2026-08-02",
             "start": "2026-08-01"
+          },
+          {
+            "end": "2027-08-08",
+            "start": "2027-08-07",
+            "source": "https://codes.findlaw.com/ar/title-26-taxation/ar-code-sect-26-52-444/",
+            "provisional": true
           }
         ],
-        "price_cap_cents": 10000
+        "price_cap_cents": 10000,
+        "price_cap_inclusive": false
       }
     },
     "effective_date": "2026-05-21",
@@ -2655,9 +2694,16 @@
           {
             "end": "2026-08-22",
             "start": "2026-08-16"
+          },
+          {
+            "end": "2027-08-21",
+            "start": "2027-08-15",
+            "source": "https://www.cga.ct.gov/2026/ACT/PA/PDF/2026PA-00068-R00SB-00001-PA.PDF",
+            "provisional": true
           }
         ],
-        "price_cap_cents": 30000
+        "price_cap_cents": 30000,
+        "price_cap_inclusive": false
       }
     },
     "effective_date": "2026-06-01",
@@ -2677,9 +2723,16 @@
           {
             "end": "2026-08-22",
             "start": "2026-08-16"
+          },
+          {
+            "end": "2027-08-21",
+            "start": "2027-08-15",
+            "source": "https://www.cga.ct.gov/2026/ACT/PA/PDF/2026PA-00068-R00SB-00001-PA.PDF",
+            "provisional": true
           }
         ],
-        "price_cap_cents": 30000
+        "price_cap_cents": 30000,
+        "price_cap_inclusive": false
       }
     },
     "effective_date": "2026-06-01",
@@ -2699,9 +2752,16 @@
           {
             "end": "2026-08-22",
             "start": "2026-08-16"
+          },
+          {
+            "end": "2027-08-21",
+            "start": "2027-08-15",
+            "source": "https://www.cga.ct.gov/2026/ACT/PA/PDF/2026PA-00068-R00SB-00001-PA.PDF",
+            "provisional": true
           }
         ],
-        "price_cap_cents": 30000
+        "price_cap_cents": 30000,
+        "price_cap_inclusive": false
       }
     },
     "effective_date": "2026-06-01",
@@ -2873,13 +2933,14 @@
     "category": "food.prepared",
     "category_description": "Restaurant meals, takeout, food sold for immediate consumption.",
     "taxable": true,
-    "treatment": "taxable",
+    "treatment": "reduced_rate",
     "conditions": {
-      "note": "Meals taxed at the 7.35% meals rate."
+      "note": "Meals sold by an eating establishment, caterer or grocery store are taxed at 7.35% (6.35% plus the 1% meals rate, Conn. Gen. Stat. 12-408(1)(I), since 2019-10-01). CT has no local sales tax.",
+      "reduced_rate": 0.0735
     },
-    "effective_date": "2026-05-21",
-    "source_url": "https://portal.ct.gov/DRS/Sales-Tax/Sales-Tax",
-    "retrieved_at": "2026-05-21"
+    "effective_date": "2024-01-01",
+    "source_url": "https://www.cga.ct.gov/current/pub/chap_219.htm",
+    "retrieved_at": "2026-09-30"
   },
   {
     "state": "CT",
@@ -3336,12 +3397,14 @@
     "state": "DC",
     "category": "food.candy",
     "category_description": "",
-    "taxable": true,
-    "treatment": "taxable",
-    "conditions": {},
+    "taxable": false,
+    "treatment": "exempt",
+    "conditions": {
+      "note": "Candy is SNAP-eligible food, excluded from retail sales (D.C. Code 47-2001(n)(2)(E)); only prepared food and soft drinks are taxed."
+    },
     "effective_date": "2024-01-01",
-    "source_url": null,
-    "retrieved_at": "2026-05-18"
+    "source_url": "https://code.dccouncil.gov/us/dc/council/code/sections/47-2001",
+    "retrieved_at": "2026-09-30"
   },
   {
     "state": "DC",
@@ -3385,24 +3448,28 @@
     "category": "food.prepared",
     "category_description": "Restaurant meals, takeout, food sold for immediate consumption.",
     "taxable": true,
-    "treatment": "taxable",
+    "treatment": "reduced_rate",
     "conditions": {
-      "note": "Restaurant meals and prepared food taxed at the 10% rate."
+      "note": "Food and drink prepared for immediate consumption, including restaurant meals, is taxed at 10% (DC OCFO rates; FR-800). DC has no local sales tax.",
+      "reduced_rate": 0.1
     },
-    "effective_date": "2026-05-21",
-    "source_url": "https://otr.cfo.dc.gov/page/sales-and-use-taxes",
-    "retrieved_at": "2026-05-21"
+    "effective_date": "2024-01-01",
+    "source_url": "https://cfo.dc.gov/page/tax-rates-and-revenues-sales-and-use-taxes-alcoholic-beverage-taxes-and-tobacco-taxes",
+    "retrieved_at": "2026-09-30"
   },
   {
     "state": "DC",
     "category": "food.soft_drinks",
     "category_description": "",
     "taxable": true,
-    "treatment": "taxable",
-    "conditions": {},
+    "treatment": "reduced_rate",
+    "conditions": {
+      "note": "Soft drinks are taxed at 8% (D.C. Code 47-2002(a)(8)); soft drinks for consumption on the premises are part of the 10% meals rate.",
+      "reduced_rate": 0.08
+    },
     "effective_date": "2024-01-01",
-    "source_url": null,
-    "retrieved_at": "2026-05-18"
+    "source_url": "https://code.dccouncil.gov/us/dc/council/code/sections/47-2002",
+    "retrieved_at": "2026-09-30"
   },
   {
     "state": "DC",
@@ -3490,14 +3557,14 @@
     "state": "DC",
     "category": "medical.otc",
     "category_description": "Over-the-counter medications.",
-    "taxable": true,
-    "treatment": "taxable",
+    "taxable": false,
+    "treatment": "exempt",
     "conditions": {
-      "note": "OTC taxable unless dispensed by prescription."
+      "note": "Medicines and drugs are exempt whether or not prescribed (D.C. Code 47-2005(14))."
     },
-    "effective_date": "2026-05-21",
-    "source_url": "https://otr.cfo.dc.gov/page/sales-and-use-taxes",
-    "retrieved_at": "2026-05-21"
+    "effective_date": "2024-01-01",
+    "source_url": "https://code.dccouncil.gov/us/dc/council/code/sections/47-2005",
+    "retrieved_at": "2026-09-30"
   },
   {
     "state": "DC",
@@ -3591,12 +3658,14 @@
     "state": "DC",
     "category": "services.data_processing",
     "category_description": "",
-    "taxable": false,
-    "treatment": "exempt",
-    "conditions": {},
+    "taxable": true,
+    "treatment": "taxable",
+    "conditions": {
+      "note": "Data processing and information services are taxable retail sales at the general rate (D.C. Code 47-2001(n)(1)(N)). Services between members of an affiliated group are excluded."
+    },
     "effective_date": "2024-01-01",
-    "source_url": null,
-    "retrieved_at": "2026-05-18"
+    "source_url": "https://code.dccouncil.gov/us/dc/council/code/sections/47-2001",
+    "retrieved_at": "2026-09-30"
   },
   {
     "state": "DC",
@@ -3693,21 +3762,22 @@
     "taxable": true,
     "treatment": "conditional",
     "conditions": {
+      "note": "Florida back-to-school holiday: in 2026 it ran July 20 to August 20 (s.27, ch. 2026-239, Laws of Fla.; TIP 26A01-11). Clothing, footwear and accessories of $100 or less per item exempt. The 2027 dates are not set yet. Taxable outside the window.",
       "tax_holiday": {
         "scope": "full",
         "windows": [
           {
-            "end": "2026-08-31",
-            "start": "2026-08-01"
+            "end": "2026-08-20",
+            "start": "2026-07-20",
+            "source": "https://floridarevenue.com/taxes/tips/Documents/TIP_26A01-11.pdf"
           }
         ],
-        "provisional": false,
         "price_cap_cents": 10000
       }
     },
     "effective_date": "2026-05-21",
-    "source_url": "https://floridarevenue.com/backtoschool/Pages/default.aspx",
-    "retrieved_at": "2026-05-22"
+    "source_url": "https://floridarevenue.com/taxes/tips/Documents/TIP_26A01-11.pdf",
+    "retrieved_at": "2026-09-30"
   },
   {
     "state": "FL",
@@ -3716,21 +3786,22 @@
     "taxable": true,
     "treatment": "conditional",
     "conditions": {
+      "note": "Florida back-to-school holiday: in 2026 it ran July 20 to August 20 (s.27, ch. 2026-239, Laws of Fla.; TIP 26A01-11). Clothing, footwear and accessories of $100 or less per item exempt. The 2027 dates are not set yet. Taxable outside the window.",
       "tax_holiday": {
         "scope": "full",
         "windows": [
           {
-            "end": "2026-08-31",
-            "start": "2026-08-01"
+            "end": "2026-08-20",
+            "start": "2026-07-20",
+            "source": "https://floridarevenue.com/taxes/tips/Documents/TIP_26A01-11.pdf"
           }
         ],
-        "provisional": false,
         "price_cap_cents": 10000
       }
     },
     "effective_date": "2026-05-21",
-    "source_url": "https://floridarevenue.com/backtoschool/Pages/default.aspx",
-    "retrieved_at": "2026-05-22"
+    "source_url": "https://floridarevenue.com/taxes/tips/Documents/TIP_26A01-11.pdf",
+    "retrieved_at": "2026-09-30"
   },
   {
     "state": "FL",
@@ -3739,21 +3810,22 @@
     "taxable": true,
     "treatment": "conditional",
     "conditions": {
+      "note": "Florida back-to-school holiday: in 2026 it ran July 20 to August 20 (s.27, ch. 2026-239, Laws of Fla.; TIP 26A01-11). Clothing, footwear and accessories of $100 or less per item exempt. The 2027 dates are not set yet. Taxable outside the window.",
       "tax_holiday": {
         "scope": "full",
         "windows": [
           {
-            "end": "2026-08-31",
-            "start": "2026-08-01"
+            "end": "2026-08-20",
+            "start": "2026-07-20",
+            "source": "https://floridarevenue.com/taxes/tips/Documents/TIP_26A01-11.pdf"
           }
         ],
-        "provisional": false,
         "price_cap_cents": 10000
       }
     },
     "effective_date": "2026-05-21",
-    "source_url": "https://floridarevenue.com/backtoschool/Pages/default.aspx",
-    "retrieved_at": "2026-05-22"
+    "source_url": "https://floridarevenue.com/taxes/tips/Documents/TIP_26A01-11.pdf",
+    "retrieved_at": "2026-09-30"
   },
   {
     "state": "FL",
@@ -5228,9 +5300,16 @@
           {
             "end": "2026-08-08",
             "start": "2026-08-07"
+          },
+          {
+            "end": "2027-08-07",
+            "start": "2027-08-06",
+            "source": "https://www.legis.iowa.gov/docs/code/423.3.pdf",
+            "provisional": true
           }
         ],
-        "price_cap_cents": 10000
+        "price_cap_cents": 10000,
+        "price_cap_inclusive": false
       }
     },
     "effective_date": "2026-06-01",
@@ -5250,9 +5329,16 @@
           {
             "end": "2026-08-08",
             "start": "2026-08-07"
+          },
+          {
+            "end": "2027-08-07",
+            "start": "2027-08-06",
+            "source": "https://www.legis.iowa.gov/docs/code/423.3.pdf",
+            "provisional": true
           }
         ],
-        "price_cap_cents": 10000
+        "price_cap_cents": 10000,
+        "price_cap_inclusive": false
       }
     },
     "effective_date": "2026-06-01",
@@ -5272,9 +5358,16 @@
           {
             "end": "2026-08-08",
             "start": "2026-08-07"
+          },
+          {
+            "end": "2027-08-07",
+            "start": "2027-08-06",
+            "source": "https://www.legis.iowa.gov/docs/code/423.3.pdf",
+            "provisional": true
           }
         ],
-        "price_cap_cents": 10000
+        "price_cap_cents": 10000,
+        "price_cap_inclusive": false
       }
     },
     "effective_date": "2026-06-01",
@@ -7373,26 +7466,31 @@
     "state": "KS",
     "category": "food.bottled_water",
     "category_description": "Plain, still, unsweetened, unflavored bottled drinking water (spring, mineral, distilled, or purified) sold in a sealed retail container. Excludes flavored, sweetened, or carbonated water, which is taxed as a soft drink under food.candy_soda.",
-    "taxable": false,
-    "treatment": "exempt",
+    "taxable": true,
+    "treatment": "conditional",
     "conditions": {
-      "note": "Bottled water is statutorily defined as food and food ingredients; the state sales tax rate on food was phased to 0% effective 2025-01-01; city/county local sales tax still applies.",
-      "local_may_tax": true
+      "note": "Bottled water is food and food ingredients in Kansas (K.S.A. 79-3602(n)): 0% state rate from 2025-01-01; city and county sales taxes still apply.",
+      "state_exempt": true,
+      "local_taxable": true
     },
-    "effective_date": "2026-08-05",
+    "effective_date": "2025-01-01",
     "source_url": "https://www.ksrevenue.gov/pdf/pub1223.pdf",
-    "retrieved_at": "2026-08-05"
+    "retrieved_at": "2026-09-30"
   },
   {
     "state": "KS",
     "category": "food.candy",
     "category_description": "",
     "taxable": true,
-    "treatment": "taxable",
-    "conditions": {},
-    "effective_date": "2024-01-01",
-    "source_url": null,
-    "retrieved_at": "2026-05-18"
+    "treatment": "conditional",
+    "conditions": {
+      "note": "Candy is food and food ingredients in Kansas (K.S.A. 79-3602(n)): 0% state rate from 2025-01-01; city and county sales taxes still apply.",
+      "state_exempt": true,
+      "local_taxable": true
+    },
+    "effective_date": "2025-01-01",
+    "source_url": "https://www.ksrevenue.gov/pdf/pub1223.pdf",
+    "retrieved_at": "2026-09-30"
   },
   {
     "state": "KS",
@@ -7412,11 +7510,15 @@
     "category": "food.dietary_supplements",
     "category_description": "",
     "taxable": true,
-    "treatment": "taxable",
-    "conditions": {},
-    "effective_date": "2024-01-01",
-    "source_url": null,
-    "retrieved_at": "2026-05-18"
+    "treatment": "conditional",
+    "conditions": {
+      "note": "Dietary supplements are food and food ingredients in Kansas (K.S.A. 79-3602(n)): 0% state rate from 2025-01-01; city and county sales taxes still apply.",
+      "state_exempt": true,
+      "local_taxable": true
+    },
+    "effective_date": "2025-01-01",
+    "source_url": "https://www.ksrevenue.gov/pdf/pub1223.pdf",
+    "retrieved_at": "2026-09-30"
   },
   {
     "state": "KS",
@@ -7425,13 +7527,13 @@
     "taxable": true,
     "treatment": "conditional",
     "conditions": {
-      "note": "KS state sales tax on food fully phased out to 0% effective Jan 1, 2025 (HB 2106); local sales taxes still apply.",
+      "note": "The state sales tax on food and food ingredients is 0% from 2025-01-01 (HB 2106); city and county sales taxes still apply.",
       "state_exempt": true,
       "local_taxable": true
     },
-    "effective_date": "2026-05-21",
-    "source_url": "https://www.ksrevenue.gov/salestax-food.html",
-    "retrieved_at": "2026-05-21"
+    "effective_date": "2025-01-01",
+    "source_url": "https://www.ksrevenue.gov/pdf/pub1223.pdf",
+    "retrieved_at": "2026-09-30"
   },
   {
     "state": "KS",
@@ -7451,11 +7553,15 @@
     "category": "food.soft_drinks",
     "category_description": "",
     "taxable": true,
-    "treatment": "taxable",
-    "conditions": {},
-    "effective_date": "2024-01-01",
-    "source_url": null,
-    "retrieved_at": "2026-05-18"
+    "treatment": "conditional",
+    "conditions": {
+      "note": "Soft drinks are food and food ingredients in Kansas (K.S.A. 79-3602(n)): 0% state rate from 2025-01-01; city and county sales taxes still apply.",
+      "state_exempt": true,
+      "local_taxable": true
+    },
+    "effective_date": "2025-01-01",
+    "source_url": "https://www.ksrevenue.gov/pdf/pub1223.pdf",
+    "retrieved_at": "2026-09-30"
   },
   {
     "state": "KS",
@@ -8742,13 +8848,25 @@
     "category": "clothing.accessories",
     "category_description": "Handbags, belts, jewelry, watches.",
     "taxable": true,
-    "treatment": "taxable",
+    "treatment": "conditional",
     "conditions": {
-      "note": "Jewelry, handbags, and watches not within the clothing exemption."
+      "note": "Jewelry, handbags, and watches not within the clothing exemption. Massachusetts sales tax holiday (2026: August 8-9): a single item of $2,500 or less for personal use is exempt (M.G.L. c.64H s.6A). The weekend is designated each year; 2027 is not set.",
+      "tax_holiday": {
+        "scope": "full",
+        "windows": [
+          {
+            "end": "2026-08-09",
+            "start": "2026-08-08",
+            "source": "https://malegislature.gov/Laws/GeneralLaws/PartI/TitleIX/Chapter64H/Section6A"
+          }
+        ],
+        "price_cap_cents": 250000,
+        "price_cap_inclusive": true
+      }
     },
     "effective_date": "2026-05-21",
-    "source_url": "https://malegislature.gov/Laws/GeneralLaws/PartI/TitleIX/Chapter64H/Section6",
-    "retrieved_at": "2026-05-21"
+    "source_url": "https://malegislature.gov/Laws/GeneralLaws/PartI/TitleIX/Chapter64H/Section6A",
+    "retrieved_at": "2026-09-30"
   },
   {
     "state": "MA",
@@ -8757,13 +8875,25 @@
     "taxable": false,
     "treatment": "conditional",
     "conditions": {
-      "note": "Everyday athletic apparel under the $175 excess rule; sport-specific protective gear taxable.",
+      "note": "Everyday athletic apparel under the $175 excess rule; sport-specific protective gear taxable. Massachusetts sales tax holiday (2026: August 8-9): a single item of $2,500 or less for personal use is exempt (M.G.L. c.64H s.6A). The weekend is designated each year; 2027 is not set.",
       "cap_basis": "excess_over_cap",
+      "tax_holiday": {
+        "scope": "full",
+        "windows": [
+          {
+            "end": "2026-08-09",
+            "start": "2026-08-08",
+            "source": "https://malegislature.gov/Laws/GeneralLaws/PartI/TitleIX/Chapter64H/Section6A"
+          }
+        ],
+        "price_cap_cents": 250000,
+        "price_cap_inclusive": true
+      },
       "price_cap_cents": 17500
     },
     "effective_date": "2026-05-21",
-    "source_url": "https://malegislature.gov/Laws/GeneralLaws/PartI/TitleIX/Chapter64H/Section6",
-    "retrieved_at": "2026-05-21"
+    "source_url": "https://malegislature.gov/Laws/GeneralLaws/PartI/TitleIX/Chapter64H/Section6A",
+    "retrieved_at": "2026-09-30"
   },
   {
     "state": "MA",
@@ -8772,13 +8902,25 @@
     "taxable": false,
     "treatment": "conditional",
     "conditions": {
-      "note": "Formal wear follows the $175-per-item excess rule.",
+      "note": "Formal wear follows the $175-per-item excess rule. Massachusetts sales tax holiday (2026: August 8-9): a single item of $2,500 or less for personal use is exempt (M.G.L. c.64H s.6A). The weekend is designated each year; 2027 is not set.",
       "cap_basis": "excess_over_cap",
+      "tax_holiday": {
+        "scope": "full",
+        "windows": [
+          {
+            "end": "2026-08-09",
+            "start": "2026-08-08",
+            "source": "https://malegislature.gov/Laws/GeneralLaws/PartI/TitleIX/Chapter64H/Section6A"
+          }
+        ],
+        "price_cap_cents": 250000,
+        "price_cap_inclusive": true
+      },
       "price_cap_cents": 17500
     },
     "effective_date": "2026-05-21",
-    "source_url": "https://malegislature.gov/Laws/GeneralLaws/PartI/TitleIX/Chapter64H/Section6",
-    "retrieved_at": "2026-05-21"
+    "source_url": "https://malegislature.gov/Laws/GeneralLaws/PartI/TitleIX/Chapter64H/Section6A",
+    "retrieved_at": "2026-09-30"
   },
   {
     "state": "MA",
@@ -8787,27 +8929,51 @@
     "taxable": false,
     "treatment": "conditional",
     "conditions": {
-      "note": "MA exempts clothing; only the amount over $175 per item is taxable (M.G.L. c.64H §6(k)). TaxLocus computes the tax on the per-item excess automatically — items at/under $175 are exempt.",
+      "note": "MA exempts clothing; only the amount over $175 per item is taxable (M.G.L. c.64H §6(k)). TaxLocus computes the tax on the per-item excess automatically — items at/under $175 are exempt. Massachusetts sales tax holiday (2026: August 8-9): a single item of $2,500 or less for personal use is exempt (M.G.L. c.64H s.6A). The weekend is designated each year; 2027 is not set.",
       "cap_basis": "excess_over_cap",
+      "tax_holiday": {
+        "scope": "full",
+        "windows": [
+          {
+            "end": "2026-08-09",
+            "start": "2026-08-08",
+            "source": "https://malegislature.gov/Laws/GeneralLaws/PartI/TitleIX/Chapter64H/Section6A"
+          }
+        ],
+        "price_cap_cents": 250000,
+        "price_cap_inclusive": true
+      },
       "excess_taxable": true,
       "price_cap_cents": 17500
     },
     "effective_date": "2026-05-21",
-    "source_url": "https://malegislature.gov/Laws/GeneralLaws/PartI/TitleIX/Chapter64H/Section6",
-    "retrieved_at": "2026-05-21"
+    "source_url": "https://malegislature.gov/Laws/GeneralLaws/PartI/TitleIX/Chapter64H/Section6A",
+    "retrieved_at": "2026-09-30"
   },
   {
     "state": "MA",
     "category": "clothing.protective",
     "category_description": "Helmets, safety boots, protective work gear, hazard equipment.",
     "taxable": true,
-    "treatment": "taxable",
+    "treatment": "conditional",
     "conditions": {
-      "note": "Athletic/protective equipment excluded from the clothing exemption."
+      "note": "Athletic/protective equipment excluded from the clothing exemption. Massachusetts sales tax holiday (2026: August 8-9): a single item of $2,500 or less for personal use is exempt (M.G.L. c.64H s.6A). The weekend is designated each year; 2027 is not set.",
+      "tax_holiday": {
+        "scope": "full",
+        "windows": [
+          {
+            "end": "2026-08-09",
+            "start": "2026-08-08",
+            "source": "https://malegislature.gov/Laws/GeneralLaws/PartI/TitleIX/Chapter64H/Section6A"
+          }
+        ],
+        "price_cap_cents": 250000,
+        "price_cap_inclusive": true
+      }
     },
     "effective_date": "2026-05-21",
-    "source_url": "https://malegislature.gov/Laws/GeneralLaws/PartI/TitleIX/Chapter64H/Section6",
-    "retrieved_at": "2026-05-21"
+    "source_url": "https://malegislature.gov/Laws/GeneralLaws/PartI/TitleIX/Chapter64H/Section6A",
+    "retrieved_at": "2026-09-30"
   },
   {
     "state": "MA",
@@ -8984,33 +9150,75 @@
     "category": "goods.electronics",
     "category_description": "",
     "taxable": true,
-    "treatment": "taxable",
-    "conditions": {},
+    "treatment": "conditional",
+    "conditions": {
+      "note": "Massachusetts sales tax holiday (2026: August 8-9): a single item of $2,500 or less for personal use is exempt (M.G.L. c.64H s.6A). The weekend is designated each year; 2027 is not set.",
+      "tax_holiday": {
+        "scope": "full",
+        "windows": [
+          {
+            "end": "2026-08-09",
+            "start": "2026-08-08",
+            "source": "https://malegislature.gov/Laws/GeneralLaws/PartI/TitleIX/Chapter64H/Section6A"
+          }
+        ],
+        "price_cap_cents": 250000,
+        "price_cap_inclusive": true
+      }
+    },
     "effective_date": "2024-01-01",
-    "source_url": null,
-    "retrieved_at": "2026-05-18"
+    "source_url": "https://malegislature.gov/Laws/GeneralLaws/PartI/TitleIX/Chapter64H/Section6A",
+    "retrieved_at": "2026-09-30"
   },
   {
     "state": "MA",
     "category": "goods.furniture",
     "category_description": "",
     "taxable": true,
-    "treatment": "taxable",
-    "conditions": {},
+    "treatment": "conditional",
+    "conditions": {
+      "note": "Massachusetts sales tax holiday (2026: August 8-9): a single item of $2,500 or less for personal use is exempt (M.G.L. c.64H s.6A). The weekend is designated each year; 2027 is not set.",
+      "tax_holiday": {
+        "scope": "full",
+        "windows": [
+          {
+            "end": "2026-08-09",
+            "start": "2026-08-08",
+            "source": "https://malegislature.gov/Laws/GeneralLaws/PartI/TitleIX/Chapter64H/Section6A"
+          }
+        ],
+        "price_cap_cents": 250000,
+        "price_cap_inclusive": true
+      }
+    },
     "effective_date": "2024-01-01",
-    "source_url": null,
-    "retrieved_at": "2026-05-18"
+    "source_url": "https://malegislature.gov/Laws/GeneralLaws/PartI/TitleIX/Chapter64H/Section6A",
+    "retrieved_at": "2026-09-30"
   },
   {
     "state": "MA",
     "category": "goods.general",
     "category_description": "",
     "taxable": true,
-    "treatment": "taxable",
-    "conditions": {},
+    "treatment": "conditional",
+    "conditions": {
+      "note": "Massachusetts sales tax holiday (2026: August 8-9): a single item of $2,500 or less for personal use is exempt (M.G.L. c.64H s.6A). The weekend is designated each year; 2027 is not set.",
+      "tax_holiday": {
+        "scope": "full",
+        "windows": [
+          {
+            "end": "2026-08-09",
+            "start": "2026-08-08",
+            "source": "https://malegislature.gov/Laws/GeneralLaws/PartI/TitleIX/Chapter64H/Section6A"
+          }
+        ],
+        "price_cap_cents": 250000,
+        "price_cap_inclusive": true
+      }
+    },
     "effective_date": "2024-01-01",
-    "source_url": null,
-    "retrieved_at": "2026-05-18"
+    "source_url": "https://malegislature.gov/Laws/GeneralLaws/PartI/TitleIX/Chapter64H/Section6A",
+    "retrieved_at": "2026-09-30"
   },
   {
     "state": "MA",
@@ -9278,6 +9486,12 @@
           {
             "end": "2026-08-15",
             "start": "2026-08-09"
+          },
+          {
+            "end": "2027-08-14",
+            "start": "2027-08-08",
+            "source": "https://mgaleg.maryland.gov/mgawebsite/Laws/StatuteText?article=gtg&section=11-228&enactments=false",
+            "provisional": true
           }
         ],
         "price_cap_cents": 10000
@@ -9300,6 +9514,12 @@
           {
             "end": "2026-08-15",
             "start": "2026-08-09"
+          },
+          {
+            "end": "2027-08-14",
+            "start": "2027-08-08",
+            "source": "https://mgaleg.maryland.gov/mgawebsite/Laws/StatuteText?article=gtg&section=11-228&enactments=false",
+            "provisional": true
           }
         ],
         "price_cap_cents": 10000
@@ -9322,6 +9542,12 @@
           {
             "end": "2026-08-15",
             "start": "2026-08-09"
+          },
+          {
+            "end": "2027-08-14",
+            "start": "2027-08-08",
+            "source": "https://mgaleg.maryland.gov/mgawebsite/Laws/StatuteText?article=gtg&section=11-228&enactments=false",
+            "provisional": true
           }
         ],
         "price_cap_cents": 10000
@@ -10004,13 +10230,14 @@
     "category": "food.prepared",
     "category_description": "Restaurant meals, takeout, food sold for immediate consumption.",
     "taxable": true,
-    "treatment": "taxable",
+    "treatment": "reduced_rate",
     "conditions": {
-      "note": "Prepared food taxed at the higher prepared-food rate."
+      "note": "Prepared food is taxed at 8% (36 M.R.S. 1811, since 2019-10-01). Maine has no local sales tax.",
+      "reduced_rate": 0.08
     },
-    "effective_date": "2026-05-21",
-    "source_url": "https://www.maine.gov/revenue/taxes/sales-use-service-provider-tax",
-    "retrieved_at": "2026-05-21"
+    "effective_date": "2024-01-01",
+    "source_url": "https://legislature.maine.gov/statutes/36/title36sec1811.html",
+    "retrieved_at": "2026-09-30"
   },
   {
     "state": "ME",
@@ -11118,14 +11345,14 @@
     "state": "MN",
     "category": "medical.otc",
     "category_description": "Over-the-counter medications.",
-    "taxable": true,
-    "treatment": "taxable",
+    "taxable": false,
+    "treatment": "exempt",
     "conditions": {
-      "note": "OTC taxable unless dispensed by prescription."
+      "note": "Drugs, including over-the-counter drugs, are exempt (Minn. Stat. 297A.67 subd. 7(a)(1))."
     },
-    "effective_date": "2026-05-21",
-    "source_url": "https://www.revenue.state.mn.us/drugs-and-medical-devices",
-    "retrieved_at": "2026-05-21"
+    "effective_date": "2024-01-01",
+    "source_url": "https://www.revisor.mn.gov/statutes/cite/297A.67",
+    "retrieved_at": "2026-09-30"
   },
   {
     "state": "MN",
@@ -11330,6 +11557,12 @@
           {
             "end": "2026-08-09",
             "start": "2026-08-07"
+          },
+          {
+            "end": "2027-08-08",
+            "start": "2027-08-06",
+            "source": "https://revisor.mo.gov/main/OneSection.aspx?section=144.049",
+            "provisional": true
           }
         ],
         "price_cap_cents": 10000
@@ -11352,6 +11585,12 @@
           {
             "end": "2026-08-09",
             "start": "2026-08-07"
+          },
+          {
+            "end": "2027-08-08",
+            "start": "2027-08-06",
+            "source": "https://revisor.mo.gov/main/OneSection.aspx?section=144.049",
+            "provisional": true
           }
         ],
         "price_cap_cents": 10000
@@ -11374,6 +11613,12 @@
           {
             "end": "2026-08-09",
             "start": "2026-08-07"
+          },
+          {
+            "end": "2027-08-08",
+            "start": "2027-08-06",
+            "source": "https://revisor.mo.gov/main/OneSection.aspx?section=144.049",
+            "provisional": true
           }
         ],
         "price_cap_cents": 10000
@@ -11875,9 +12120,16 @@
           {
             "end": "2026-07-12",
             "start": "2026-07-10"
+          },
+          {
+            "end": "2027-07-11",
+            "start": "2027-07-09",
+            "source": "https://codes.findlaw.com/ms/title-27-taxation-and-finance/ms-code-sect-27-65-111/",
+            "provisional": true
           }
         ],
-        "price_cap_cents": 10000
+        "price_cap_cents": 10000,
+        "price_cap_inclusive": false
       }
     },
     "effective_date": "2026-06-01",
@@ -11897,9 +12149,16 @@
           {
             "end": "2026-07-12",
             "start": "2026-07-10"
+          },
+          {
+            "end": "2027-07-11",
+            "start": "2027-07-09",
+            "source": "https://codes.findlaw.com/ms/title-27-taxation-and-finance/ms-code-sect-27-65-111/",
+            "provisional": true
           }
         ],
-        "price_cap_cents": 10000
+        "price_cap_cents": 10000,
+        "price_cap_inclusive": false
       }
     },
     "effective_date": "2026-06-01",
@@ -11919,9 +12178,16 @@
           {
             "end": "2026-07-12",
             "start": "2026-07-10"
+          },
+          {
+            "end": "2027-07-11",
+            "start": "2027-07-09",
+            "source": "https://codes.findlaw.com/ms/title-27-taxation-and-finance/ms-code-sect-27-65-111/",
+            "provisional": true
           }
         ],
-        "price_cap_cents": 10000
+        "price_cap_cents": 10000,
+        "price_cap_inclusive": false
       }
     },
     "effective_date": "2026-06-01",
@@ -14405,9 +14671,16 @@
           {
             "end": "2026-08-02",
             "start": "2026-07-31"
+          },
+          {
+            "end": "2027-08-01",
+            "start": "2027-07-30",
+            "source": "https://nmonesource.com/nmos/nmsa/en/4340/1/document.do",
+            "provisional": true
           }
         ],
-        "price_cap_cents": 10000
+        "price_cap_cents": 10000,
+        "price_cap_inclusive": false
       }
     },
     "effective_date": "2026-06-01",
@@ -14427,9 +14700,16 @@
           {
             "end": "2026-08-02",
             "start": "2026-07-31"
+          },
+          {
+            "end": "2027-08-01",
+            "start": "2027-07-30",
+            "source": "https://nmonesource.com/nmos/nmsa/en/4340/1/document.do",
+            "provisional": true
           }
         ],
-        "price_cap_cents": 10000
+        "price_cap_cents": 10000,
+        "price_cap_inclusive": false
       }
     },
     "effective_date": "2026-06-01",
@@ -14449,9 +14729,16 @@
           {
             "end": "2026-08-02",
             "start": "2026-07-31"
+          },
+          {
+            "end": "2027-08-01",
+            "start": "2027-07-30",
+            "source": "https://nmonesource.com/nmos/nmsa/en/4340/1/document.do",
+            "provisional": true
           }
         ],
-        "price_cap_cents": 10000
+        "price_cap_cents": 10000,
+        "price_cap_inclusive": false
       }
     },
     "effective_date": "2026-06-01",
@@ -15442,7 +15729,8 @@
     "conditions": {
       "note": "Athletic apparel under $110 exempt; protective sports gear (helmets, mouthguards) is separately not within the apparel exemption — see TB-ST-530.",
       "cap_basis": "per_item",
-      "price_cap_cents": 11000
+      "price_cap_cents": 11000,
+      "price_cap_inclusive": false
     },
     "effective_date": "2026-05-20",
     "source_url": "https://www.tax.ny.gov/pubs_and_bulls/tg_bulletins/st/clothing_and_footwear_exemption.htm",
@@ -15457,7 +15745,8 @@
     "conditions": {
       "note": "Formal wear (suits, gowns, dress shirts) follows the same $110 cap; rental of formal wear is separately taxable.",
       "cap_basis": "per_item",
-      "price_cap_cents": 11000
+      "price_cap_cents": 11000,
+      "price_cap_inclusive": false
     },
     "effective_date": "2026-05-20",
     "source_url": "https://www.tax.ny.gov/pubs_and_bulls/tg_bulletins/st/clothing_and_footwear_exemption.htm",
@@ -15473,7 +15762,8 @@
       "note": "NY exempts clothing and footwear sold for under $110 per item from state (4%) and MCTD (0.375%) tax; some local counties tax it; above $110 the full state+local rate applies.",
       "cap_basis": "per_item",
       "price_cap_cents": 11000,
-      "exemption_above_cap": false
+      "exemption_above_cap": false,
+      "price_cap_inclusive": false
     },
     "effective_date": "2026-05-20",
     "source_url": "https://www.tax.ny.gov/pubs_and_bulls/tg_bulletins/st/clothing_and_footwear_exemption.htm",
@@ -15950,33 +16240,93 @@
     "category": "clothing.athletic",
     "category_description": "Sports and performance apparel; team uniforms; non-protective athletic gear.",
     "taxable": true,
-    "treatment": "taxable",
-    "conditions": {},
+    "treatment": "conditional",
+    "conditions": {
+      "note": "Ohio sales tax holiday (first Friday of August through Sunday): clothing of $75 or less per item exempt (R.C. 5739.02(B)(55)). In a year the expanded R.C. 5739.41 holiday is certified it replaces this one (items of $500 or less); the 2027 window is computed and provisional. Taxable outside the window.",
+      "tax_holiday": {
+        "scope": "full",
+        "windows": [
+          {
+            "end": "2026-08-09",
+            "start": "2026-08-07",
+            "source": "https://codes.ohio.gov/ohio-revised-code/section-5739.02"
+          },
+          {
+            "end": "2027-08-08",
+            "start": "2027-08-06",
+            "source": "https://codes.ohio.gov/ohio-revised-code/section-5739.02",
+            "provisional": true
+          }
+        ],
+        "price_cap_cents": 7500,
+        "price_cap_inclusive": true
+      }
+    },
     "effective_date": "2026-05-20",
     "source_url": "https://codes.ohio.gov/ohio-revised-code/section-5739.02",
-    "retrieved_at": "2026-05-20"
+    "retrieved_at": "2026-09-30"
   },
   {
     "state": "OH",
     "category": "clothing.formal",
     "category_description": "Suits, gowns, ties, dress shirts not for everyday wear.",
     "taxable": true,
-    "treatment": "taxable",
-    "conditions": {},
+    "treatment": "conditional",
+    "conditions": {
+      "note": "Ohio sales tax holiday (first Friday of August through Sunday): clothing of $75 or less per item exempt (R.C. 5739.02(B)(55)). In a year the expanded R.C. 5739.41 holiday is certified it replaces this one (items of $500 or less); the 2027 window is computed and provisional. Taxable outside the window.",
+      "tax_holiday": {
+        "scope": "full",
+        "windows": [
+          {
+            "end": "2026-08-09",
+            "start": "2026-08-07",
+            "source": "https://codes.ohio.gov/ohio-revised-code/section-5739.02"
+          },
+          {
+            "end": "2027-08-08",
+            "start": "2027-08-06",
+            "source": "https://codes.ohio.gov/ohio-revised-code/section-5739.02",
+            "provisional": true
+          }
+        ],
+        "price_cap_cents": 7500,
+        "price_cap_inclusive": true
+      }
+    },
     "effective_date": "2026-05-20",
     "source_url": "https://codes.ohio.gov/ohio-revised-code/section-5739.02",
-    "retrieved_at": "2026-05-20"
+    "retrieved_at": "2026-09-30"
   },
   {
     "state": "OH",
     "category": "clothing.general",
     "category_description": "Everyday wearing apparel; t-shirts, jeans, dresses, jackets.",
     "taxable": true,
-    "treatment": "taxable",
-    "conditions": {},
+    "treatment": "conditional",
+    "conditions": {
+      "note": "Ohio sales tax holiday (first Friday of August through Sunday): clothing of $75 or less per item exempt (R.C. 5739.02(B)(55)). In a year the expanded R.C. 5739.41 holiday is certified it replaces this one (items of $500 or less); the 2027 window is computed and provisional. Taxable outside the window.",
+      "tax_holiday": {
+        "scope": "full",
+        "windows": [
+          {
+            "end": "2026-08-09",
+            "start": "2026-08-07",
+            "source": "https://codes.ohio.gov/ohio-revised-code/section-5739.02"
+          },
+          {
+            "end": "2027-08-08",
+            "start": "2027-08-06",
+            "source": "https://codes.ohio.gov/ohio-revised-code/section-5739.02",
+            "provisional": true
+          }
+        ],
+        "price_cap_cents": 7500,
+        "price_cap_inclusive": true
+      }
+    },
     "effective_date": "2026-05-20",
     "source_url": "https://codes.ohio.gov/ohio-revised-code/section-5739.02",
-    "retrieved_at": "2026-05-20"
+    "retrieved_at": "2026-09-30"
   },
   {
     "state": "OH",
@@ -16460,9 +16810,16 @@
           {
             "end": "2026-08-09",
             "start": "2026-08-07"
+          },
+          {
+            "end": "2027-08-08",
+            "start": "2027-08-06",
+            "source": "https://www.oklegislature.gov/OK_Statutes/CompleteTitles/os68.rtf",
+            "provisional": true
           }
         ],
-        "price_cap_cents": 10000
+        "price_cap_cents": 10000,
+        "price_cap_inclusive": false
       }
     },
     "effective_date": "2026-06-01",
@@ -16482,9 +16839,16 @@
           {
             "end": "2026-08-09",
             "start": "2026-08-07"
+          },
+          {
+            "end": "2027-08-08",
+            "start": "2027-08-06",
+            "source": "https://www.oklegislature.gov/OK_Statutes/CompleteTitles/os68.rtf",
+            "provisional": true
           }
         ],
-        "price_cap_cents": 10000
+        "price_cap_cents": 10000,
+        "price_cap_inclusive": false
       }
     },
     "effective_date": "2026-06-01",
@@ -16504,9 +16868,16 @@
           {
             "end": "2026-08-09",
             "start": "2026-08-07"
+          },
+          {
+            "end": "2027-08-08",
+            "start": "2027-08-06",
+            "source": "https://www.oklegislature.gov/OK_Statutes/CompleteTitles/os68.rtf",
+            "provisional": true
           }
         ],
-        "price_cap_cents": 10000
+        "price_cap_cents": 10000,
+        "price_cap_inclusive": false
       }
     },
     "effective_date": "2026-06-01",
@@ -18024,6 +18395,12 @@
           {
             "end": "2026-08-09",
             "start": "2026-08-07"
+          },
+          {
+            "end": "2027-08-08",
+            "start": "2027-08-06",
+            "source": "https://www.scstatehouse.gov/code/t12c036.php",
+            "provisional": true
           }
         ]
       }
@@ -18045,6 +18422,12 @@
           {
             "end": "2026-08-09",
             "start": "2026-08-07"
+          },
+          {
+            "end": "2027-08-08",
+            "start": "2027-08-06",
+            "source": "https://www.scstatehouse.gov/code/t12c036.php",
+            "provisional": true
           }
         ]
       }
@@ -18066,6 +18449,12 @@
           {
             "end": "2026-08-09",
             "start": "2026-08-07"
+          },
+          {
+            "end": "2027-08-08",
+            "start": "2027-08-06",
+            "source": "https://www.scstatehouse.gov/code/t12c036.php",
+            "provisional": true
           }
         ]
       }
@@ -19049,6 +19438,11 @@
           {
             "end": "2026-08-02",
             "start": "2026-07-31"
+          },
+          {
+            "end": "2027-08-01",
+            "start": "2027-07-30",
+            "source": "https://www.tn.gov/revenue/taxes/sales-and-use-tax/sales-tax-holiday.html"
           }
         ],
         "price_cap_cents": 10000
@@ -19071,6 +19465,11 @@
           {
             "end": "2026-08-02",
             "start": "2026-07-31"
+          },
+          {
+            "end": "2027-08-01",
+            "start": "2027-07-30",
+            "source": "https://www.tn.gov/revenue/taxes/sales-and-use-tax/sales-tax-holiday.html"
           }
         ],
         "price_cap_cents": 10000
@@ -19093,6 +19492,11 @@
           {
             "end": "2026-08-02",
             "start": "2026-07-31"
+          },
+          {
+            "end": "2027-08-01",
+            "start": "2027-07-30",
+            "source": "https://www.tn.gov/revenue/taxes/sales-and-use-tax/sales-tax-holiday.html"
           }
         ],
         "price_cap_cents": 10000
@@ -19582,9 +19986,16 @@
           {
             "end": "2026-08-09",
             "start": "2026-08-07"
+          },
+          {
+            "end": "2027-08-08",
+            "start": "2027-08-06",
+            "source": "https://statutes.capitol.texas.gov/Docs/TX/htm/TX.151.htm#151.326",
+            "provisional": true
           }
         ],
-        "price_cap_cents": 10000
+        "price_cap_cents": 10000,
+        "price_cap_inclusive": false
       }
     },
     "effective_date": "2026-05-21",
@@ -19604,9 +20015,16 @@
           {
             "end": "2026-08-09",
             "start": "2026-08-07"
+          },
+          {
+            "end": "2027-08-08",
+            "start": "2027-08-06",
+            "source": "https://statutes.capitol.texas.gov/Docs/TX/htm/TX.151.htm#151.326",
+            "provisional": true
           }
         ],
-        "price_cap_cents": 10000
+        "price_cap_cents": 10000,
+        "price_cap_inclusive": false
       }
     },
     "effective_date": "2026-05-21",
@@ -19626,9 +20044,16 @@
           {
             "end": "2026-08-09",
             "start": "2026-08-07"
+          },
+          {
+            "end": "2027-08-08",
+            "start": "2027-08-06",
+            "source": "https://statutes.capitol.texas.gov/Docs/TX/htm/TX.151.htm#151.326",
+            "provisional": true
           }
         ],
-        "price_cap_cents": 10000
+        "price_cap_cents": 10000,
+        "price_cap_inclusive": false
       }
     },
     "effective_date": "2026-05-21",
@@ -20008,11 +20433,14 @@
     "category": "services.data_processing",
     "category_description": "",
     "taxable": true,
-    "treatment": "taxable",
-    "conditions": {},
+    "treatment": "conditional",
+    "conditions": {
+      "note": "Data processing services are taxable, but 20% of the charge is exempt, so tax applies to 80% (Tax Code 151.351; Pub 96-259).",
+      "taxable_fraction": 0.8
+    },
     "effective_date": "2024-01-01",
-    "source_url": null,
-    "retrieved_at": "2026-05-18"
+    "source_url": "https://comptroller.texas.gov/taxes/publications/96-259.php",
+    "retrieved_at": "2026-09-30"
   },
   {
     "state": "TX",
@@ -20253,11 +20681,14 @@
     "category": "food.candy",
     "category_description": "",
     "taxable": true,
-    "treatment": "taxable",
-    "conditions": {},
+    "treatment": "reduced_rate",
+    "conditions": {
+      "note": "Candy is food and food ingredients (Utah Code 59-12-102), taxed at the uniform 3% food rate (1.75% state + 1% local + 0.25% county option), whatever the local general rate.",
+      "reduced_rate": 0.03
+    },
     "effective_date": "2024-01-01",
-    "source_url": null,
-    "retrieved_at": "2026-05-18"
+    "source_url": "https://le.utah.gov/xcode/Title59/Chapter12/59-12-S102.html",
+    "retrieved_at": "2026-09-30"
   },
   {
     "state": "UT",
@@ -20277,11 +20708,14 @@
     "category": "food.dietary_supplements",
     "category_description": "",
     "taxable": true,
-    "treatment": "taxable",
-    "conditions": {},
+    "treatment": "reduced_rate",
+    "conditions": {
+      "note": "Dietary supplements are food and food ingredients (Utah Code 59-12-102 excludes only alcohol, tobacco and prepared food), taxed at the uniform 3% food rate.",
+      "reduced_rate": 0.03
+    },
     "effective_date": "2024-01-01",
-    "source_url": null,
-    "retrieved_at": "2026-05-18"
+    "source_url": "https://le.utah.gov/xcode/Title59/Chapter12/59-12-S102.html",
+    "retrieved_at": "2026-09-30"
   },
   {
     "state": "UT",
@@ -20315,11 +20749,14 @@
     "category": "food.soft_drinks",
     "category_description": "",
     "taxable": true,
-    "treatment": "taxable",
-    "conditions": {},
+    "treatment": "reduced_rate",
+    "conditions": {
+      "note": "Soft drinks are food and food ingredients (Utah Code 59-12-102), taxed at the uniform 3% food rate (1.75% state + 1% local + 0.25% county option).",
+      "reduced_rate": 0.03
+    },
     "effective_date": "2024-01-01",
-    "source_url": null,
-    "retrieved_at": "2026-05-18"
+    "source_url": "https://le.utah.gov/xcode/Title59/Chapter12/59-12-S102.html",
+    "retrieved_at": "2026-09-30"
   },
   {
     "state": "UT",
@@ -20621,6 +21058,12 @@
           {
             "end": "2026-08-09",
             "start": "2026-08-07"
+          },
+          {
+            "end": "2027-08-08",
+            "start": "2027-08-06",
+            "source": "https://law.lis.virginia.gov/vacode/title58.1/chapter6/section58.1-639.1/",
+            "provisional": true
           }
         ],
         "price_cap_cents": 10000
@@ -20643,6 +21086,12 @@
           {
             "end": "2026-08-09",
             "start": "2026-08-07"
+          },
+          {
+            "end": "2027-08-08",
+            "start": "2027-08-06",
+            "source": "https://law.lis.virginia.gov/vacode/title58.1/chapter6/section58.1-639.1/",
+            "provisional": true
           }
         ],
         "price_cap_cents": 10000
@@ -20665,6 +21114,12 @@
           {
             "end": "2026-08-09",
             "start": "2026-08-07"
+          },
+          {
+            "end": "2027-08-08",
+            "start": "2027-08-06",
+            "source": "https://law.lis.virginia.gov/vacode/title58.1/chapter6/section58.1-639.1/",
+            "provisional": true
           }
         ],
         "price_cap_cents": 10000
@@ -22676,33 +23131,93 @@
     "category": "clothing.athletic",
     "category_description": "Sports and performance apparel; team uniforms; non-protective athletic gear.",
     "taxable": true,
-    "treatment": "taxable",
-    "conditions": {},
+    "treatment": "conditional",
+    "conditions": {
+      "note": "West Virginia back-to-school holiday (Friday before the first Sunday of August through the Monday after): clothing of $125 or less per item exempt (W. Va. Code 11-15-9s). Taxable outside the window.",
+      "tax_holiday": {
+        "scope": "full",
+        "windows": [
+          {
+            "end": "2026-08-03",
+            "start": "2026-07-31",
+            "source": "https://code.wvlegislature.gov/11-15-9S/"
+          },
+          {
+            "end": "2027-08-02",
+            "start": "2027-07-30",
+            "source": "https://code.wvlegislature.gov/11-15-9S/",
+            "provisional": true
+          }
+        ],
+        "price_cap_cents": 12500,
+        "price_cap_inclusive": true
+      }
+    },
     "effective_date": "2026-05-21",
-    "source_url": "https://tax.wv.gov/Business/SalesAndUseTax/Pages/SalesAndUseTax.aspx",
-    "retrieved_at": "2026-05-21"
+    "source_url": "https://code.wvlegislature.gov/11-15-9S/",
+    "retrieved_at": "2026-09-30"
   },
   {
     "state": "WV",
     "category": "clothing.formal",
     "category_description": "Suits, gowns, ties, dress shirts not for everyday wear.",
     "taxable": true,
-    "treatment": "taxable",
-    "conditions": {},
+    "treatment": "conditional",
+    "conditions": {
+      "note": "West Virginia back-to-school holiday (Friday before the first Sunday of August through the Monday after): clothing of $125 or less per item exempt (W. Va. Code 11-15-9s). Taxable outside the window.",
+      "tax_holiday": {
+        "scope": "full",
+        "windows": [
+          {
+            "end": "2026-08-03",
+            "start": "2026-07-31",
+            "source": "https://code.wvlegislature.gov/11-15-9S/"
+          },
+          {
+            "end": "2027-08-02",
+            "start": "2027-07-30",
+            "source": "https://code.wvlegislature.gov/11-15-9S/",
+            "provisional": true
+          }
+        ],
+        "price_cap_cents": 12500,
+        "price_cap_inclusive": true
+      }
+    },
     "effective_date": "2026-05-21",
-    "source_url": "https://tax.wv.gov/Business/SalesAndUseTax/Pages/SalesAndUseTax.aspx",
-    "retrieved_at": "2026-05-21"
+    "source_url": "https://code.wvlegislature.gov/11-15-9S/",
+    "retrieved_at": "2026-09-30"
   },
   {
     "state": "WV",
     "category": "clothing.general",
     "category_description": "Everyday wearing apparel; t-shirts, jeans, dresses, jackets.",
     "taxable": true,
-    "treatment": "taxable",
-    "conditions": {},
+    "treatment": "conditional",
+    "conditions": {
+      "note": "West Virginia back-to-school holiday (Friday before the first Sunday of August through the Monday after): clothing of $125 or less per item exempt (W. Va. Code 11-15-9s). Taxable outside the window.",
+      "tax_holiday": {
+        "scope": "full",
+        "windows": [
+          {
+            "end": "2026-08-03",
+            "start": "2026-07-31",
+            "source": "https://code.wvlegislature.gov/11-15-9S/"
+          },
+          {
+            "end": "2027-08-02",
+            "start": "2027-07-30",
+            "source": "https://code.wvlegislature.gov/11-15-9S/",
+            "provisional": true
+          }
+        ],
+        "price_cap_cents": 12500,
+        "price_cap_inclusive": true
+      }
+    },
     "effective_date": "2026-05-21",
-    "source_url": "https://tax.wv.gov/Business/SalesAndUseTax/Pages/SalesAndUseTax.aspx",
-    "retrieved_at": "2026-05-21"
+    "source_url": "https://code.wvlegislature.gov/11-15-9S/",
+    "retrieved_at": "2026-09-30"
   },
   {
     "state": "WV",

@@ -136,6 +136,22 @@
     "as_of": "2026-06-15"
   },
   {
+    "state_a": "MN",
+    "state_b": "ND",
+    "direction": "mutual",
+    "citation_url": "https://www.revenue.state.mn.us/reciprocity-employee-withholding",
+    "notes": "Minnesota and North Dakota have an income tax reciprocity agreement: wages are taxed only by the state of residence. A North Dakota resident working in Minnesota gives the employer Form MWR; a Minnesota resident working in North Dakota gives Form NDW-R (tax.nd.gov).",
+    "as_of": "2026-09-28"
+  },
+  {
+    "state_a": "MT",
+    "state_b": "ND",
+    "direction": "mutual",
+    "citation_url": "https://revenue.mt.gov/taxes/withholding-tax/north-dakota-reciprocity",
+    "notes": "Montana and North Dakota have an income tax reciprocity agreement for wages, salaries, commissions and employee fees: \"Montana residents earning income in North Dakota pay Montana income tax instead of North Dakota income tax\" (MT DOR). A North Dakota resident working in Montana claims exemption on Form MW-4; a Montana resident working in North Dakota gives Form NDW-R.",
+    "as_of": "2026-09-28"
+  },
+  {
     "state_a": "OH",
     "state_b": "IN",
     "direction": "mutual",
