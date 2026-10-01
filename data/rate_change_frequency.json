@@ -54,6 +54,15 @@
     "annualized_change_rate": 42.9
   },
   {
+    "state": "AL",
+    "rate_change_events": 15,
+    "jurisdictions_changed": 13,
+    "first_change": "2026-05-27",
+    "last_change": "2026-10-01",
+    "observation_window_days": 136,
+    "annualized_change_rate": 40.3
+  },
+  {
     "state": "NM",
     "rate_change_events": 14,
     "jurisdictions_changed": 14,
@@ -79,15 +88,6 @@
     "last_change": "2026-10-01",
     "observation_window_days": 136,
     "annualized_change_rate": 29.5
-  },
-  {
-    "state": "AL",
-    "rate_change_events": 9,
-    "jurisdictions_changed": 9,
-    "first_change": "2026-05-27",
-    "last_change": "2026-09-21",
-    "observation_window_days": 136,
-    "annualized_change_rate": 24.2
   },
   {
     "state": "AR",

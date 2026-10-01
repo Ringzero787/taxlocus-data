@@ -9,7 +9,7 @@ Every table is published as `<table>.csv` and `<table>.json`. `manifest.json` li
 | table | rows | last changed | unique row key |
 |-------|-----:|--------------|----------------|
 | [`state_rates`](#state_rates) | 46 | 2026-05-18 | `state` |
-| [`jurisdiction_rates`](#jurisdiction_rates) | 14,599 | 2026-10-01 | `source_key`, `rate_type` |
+| [`jurisdiction_rates`](#jurisdiction_rates) | 14,596 | 2026-10-01 | `source_key`, `rate_type` |
 | [`nexus_thresholds`](#nexus_thresholds) | 47 | 2026-09-30 | `state` |
 | [`taxability`](#taxability) | 1,979 | 2026-09-30 | `state`, `category` |
 | [`marketplace_facilitator_rules`](#marketplace_facilitator_rules) | 47 | 2026-09-30 | `state` |
@@ -18,7 +18,7 @@ Every table is published as `<table>.csv` and `<table>.json`. `manifest.json` li
 | [`payroll_federal_rates`](#payroll_federal_rates) | 3 | 2026-06-15 | `year` |
 | [`payroll_state_pit`](#payroll_state_pit) | 102 | 2026-09-27 | `year`, `state` |
 | [`payroll_state_suta`](#payroll_state_suta) | 102 | 2026-09-27 | `year`, `state` |
-| [`payroll_local_income_tax`](#payroll_local_income_tax) | 3,660 | 2026-10-01 | `year`, `state`, `jurisdiction_type`, `jurisdiction_name` |
+| [`payroll_local_income_tax`](#payroll_local_income_tax) | 3,661 | 2026-10-01 | `year`, `state`, `jurisdiction_type`, `jurisdiction_name` |
 | [`payroll_reciprocity`](#payroll_reciprocity) | 30 | 2026-09-28 | `state_a`, `state_b` |
 
 ### `state_rates`
@@ -35,7 +35,7 @@ Statewide base rates — 46 rows.
 
 ### `jurisdiction_rates`
 
-Local jurisdiction rates — 14,599 rows.
+Local jurisdiction rates — 14,596 rows.
 
 | column | description |
 |--------|-------------|
@@ -182,7 +182,7 @@ Wage bases only. Per-employer SUTA rates are experience-rated, assigned by the s
 
 ### `payroll_local_income_tax`
 
-City / county / municipal income tax — 3,660 rows.
+City / county / municipal income tax — 3,661 rows.
 
 | column | description |
 |--------|-------------|

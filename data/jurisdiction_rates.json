@@ -6062,378 +6062,6 @@
   {
     "state": "AL",
     "jurisdiction_type": "city",
-    "name": "Unaba Tallassee/Elmore Co",
-    "fips_code": null,
-    "rate": 0.015,
-    "source_key": "AL-P-unabatallasseeelmoreco",
-    "rate_type": "sales",
-    "effective_date": "2026-05-18",
-    "source_url": "https://www.revenue.alabama.gov/wp-content/uploads/2024/03/taxrates_current.csv",
-    "retrieved_at": "2026-05-18"
-  },
-  {
-    "state": "AL",
-    "jurisdiction_type": "city",
-    "name": "Unaba Tallassee/Tallapoosa Co",
-    "fips_code": null,
-    "rate": 0.01,
-    "source_key": "AL-P-unabatallasseetallapoosaco",
-    "rate_type": "sales",
-    "effective_date": "2026-05-18",
-    "source_url": "https://www.revenue.alabama.gov/wp-content/uploads/2024/03/taxrates_current.csv",
-    "retrieved_at": "2026-05-18"
-  },
-  {
-    "state": "AL",
-    "jurisdiction_type": "city",
-    "name": "Unabated Albertville",
-    "fips_code": null,
-    "rate": 0.007,
-    "source_key": "AL-P-unabatedalbertville",
-    "rate_type": "sales",
-    "effective_date": "2026-05-18",
-    "source_url": "https://www.revenue.alabama.gov/wp-content/uploads/2024/03/taxrates_current.csv",
-    "retrieved_at": "2026-05-18"
-  },
-  {
-    "state": "AL",
-    "jurisdiction_type": "city",
-    "name": "Unabated Alexander City",
-    "fips_code": null,
-    "rate": 0.0025,
-    "source_key": "AL-P-unabatedalexandercity",
-    "rate_type": "sales",
-    "effective_date": "2026-05-18",
-    "source_url": "https://www.revenue.alabama.gov/wp-content/uploads/2024/03/taxrates_current.csv",
-    "retrieved_at": "2026-05-18"
-  },
-  {
-    "state": "AL",
-    "jurisdiction_type": "city",
-    "name": "Unabated Arab",
-    "fips_code": null,
-    "rate": 0.015,
-    "source_key": "AL-P-unabatedarab",
-    "rate_type": "sales",
-    "effective_date": "2026-05-18",
-    "source_url": "https://www.revenue.alabama.gov/wp-content/uploads/2024/03/taxrates_current.csv",
-    "retrieved_at": "2026-05-18"
-  },
-  {
-    "state": "AL",
-    "jurisdiction_type": "city",
-    "name": "Unabated Athens",
-    "fips_code": null,
-    "rate": 0.012,
-    "source_key": "AL-P-unabatedathens",
-    "rate_type": "sales",
-    "effective_date": "2026-05-18",
-    "source_url": "https://www.revenue.alabama.gov/wp-content/uploads/2024/03/taxrates_current.csv",
-    "retrieved_at": "2026-05-18"
-  },
-  {
-    "state": "AL",
-    "jurisdiction_type": "city",
-    "name": "Unabated Boaz",
-    "fips_code": null,
-    "rate": 0.01,
-    "source_key": "AL-P-unabatedboaz",
-    "rate_type": "sales",
-    "effective_date": "2026-05-18",
-    "source_url": "https://www.revenue.alabama.gov/wp-content/uploads/2024/03/taxrates_current.csv",
-    "retrieved_at": "2026-05-18"
-  },
-  {
-    "state": "AL",
-    "jurisdiction_type": "city",
-    "name": "Unabated Brewton",
-    "fips_code": null,
-    "rate": 0.01,
-    "source_key": "AL-P-unabatedbrewton",
-    "rate_type": "sales",
-    "effective_date": "2026-05-18",
-    "source_url": "https://www.revenue.alabama.gov/wp-content/uploads/2024/03/taxrates_current.csv",
-    "retrieved_at": "2026-05-18"
-  },
-  {
-    "state": "AL",
-    "jurisdiction_type": "city",
-    "name": "Unabated Chelsea",
-    "fips_code": null,
-    "rate": 0.01,
-    "source_key": "AL-P-unabatedchelsea",
-    "rate_type": "sales",
-    "effective_date": "2026-05-18",
-    "source_url": "https://www.revenue.alabama.gov/wp-content/uploads/2024/03/taxrates_current.csv",
-    "retrieved_at": "2026-05-18"
-  },
-  {
-    "state": "AL",
-    "jurisdiction_type": "city",
-    "name": "Unabated Cullman",
-    "fips_code": null,
-    "rate": 0.005,
-    "source_key": "AL-P-unabatedcullman",
-    "rate_type": "sales",
-    "effective_date": "2026-05-18",
-    "source_url": "https://www.revenue.alabama.gov/wp-content/uploads/2024/03/taxrates_current.csv",
-    "retrieved_at": "2026-05-18"
-  },
-  {
-    "state": "AL",
-    "jurisdiction_type": "city",
-    "name": "Unabated Daleville",
-    "fips_code": null,
-    "rate": 0.00833,
-    "source_key": "AL-P-unabateddaleville",
-    "rate_type": "sales",
-    "effective_date": "2026-05-18",
-    "source_url": "https://www.revenue.alabama.gov/wp-content/uploads/2024/03/taxrates_current.csv",
-    "retrieved_at": "2026-05-18"
-  },
-  {
-    "state": "AL",
-    "jurisdiction_type": "city",
-    "name": "Unabated Elba",
-    "fips_code": null,
-    "rate": 0.0075,
-    "source_key": "AL-P-unabatedelba",
-    "rate_type": "sales",
-    "effective_date": "2026-05-18",
-    "source_url": "https://www.revenue.alabama.gov/wp-content/uploads/2024/03/taxrates_current.csv",
-    "retrieved_at": "2026-05-18"
-  },
-  {
-    "state": "AL",
-    "jurisdiction_type": "city",
-    "name": "Unabated Enterprise",
-    "fips_code": null,
-    "rate": 0.012,
-    "source_key": "AL-P-unabatedenterprise",
-    "rate_type": "sales",
-    "effective_date": "2026-05-18",
-    "source_url": "https://www.revenue.alabama.gov/wp-content/uploads/2024/03/taxrates_current.csv",
-    "retrieved_at": "2026-05-18"
-  },
-  {
-    "state": "AL",
-    "jurisdiction_type": "city",
-    "name": "Unabated Evergreen",
-    "fips_code": null,
-    "rate": 0.01,
-    "source_key": "AL-P-unabatedevergreen",
-    "rate_type": "sales",
-    "effective_date": "2026-05-18",
-    "source_url": "https://www.revenue.alabama.gov/wp-content/uploads/2024/03/taxrates_current.csv",
-    "retrieved_at": "2026-05-18"
-  },
-  {
-    "state": "AL",
-    "jurisdiction_type": "city",
-    "name": "Unabated Florence",
-    "fips_code": null,
-    "rate": 0.0105,
-    "source_key": "AL-P-unabatedflorence",
-    "rate_type": "sales",
-    "effective_date": "2026-05-18",
-    "source_url": "https://www.revenue.alabama.gov/wp-content/uploads/2024/03/taxrates_current.csv",
-    "retrieved_at": "2026-05-18"
-  },
-  {
-    "state": "AL",
-    "jurisdiction_type": "city",
-    "name": "Unabated Geneva",
-    "fips_code": null,
-    "rate": 0.006,
-    "source_key": "AL-P-unabatedgeneva",
-    "rate_type": "sales",
-    "effective_date": "2026-05-18",
-    "source_url": "https://www.revenue.alabama.gov/wp-content/uploads/2024/03/taxrates_current.csv",
-    "retrieved_at": "2026-05-18"
-  },
-  {
-    "state": "AL",
-    "jurisdiction_type": "city",
-    "name": "Unabated Georgiana",
-    "fips_code": null,
-    "rate": 0.01,
-    "source_key": "AL-P-unabatedgeorgiana",
-    "rate_type": "sales",
-    "effective_date": "2026-05-18",
-    "source_url": "https://www.revenue.alabama.gov/wp-content/uploads/2024/03/taxrates_current.csv",
-    "retrieved_at": "2026-05-18"
-  },
-  {
-    "state": "AL",
-    "jurisdiction_type": "city",
-    "name": "Unabated Guntersville",
-    "fips_code": null,
-    "rate": 0.015,
-    "source_key": "AL-P-unabatedguntersville",
-    "rate_type": "sales",
-    "effective_date": "2026-05-18",
-    "source_url": "https://www.revenue.alabama.gov/wp-content/uploads/2024/03/taxrates_current.csv",
-    "retrieved_at": "2026-05-18"
-  },
-  {
-    "state": "AL",
-    "jurisdiction_type": "city",
-    "name": "Unabated Haleyville",
-    "fips_code": null,
-    "rate": 0.003,
-    "source_key": "AL-P-unabatedhaleyville",
-    "rate_type": "sales",
-    "effective_date": "2026-05-18",
-    "source_url": "https://www.revenue.alabama.gov/wp-content/uploads/2024/03/taxrates_current.csv",
-    "retrieved_at": "2026-05-18"
-  },
-  {
-    "state": "AL",
-    "jurisdiction_type": "city",
-    "name": "Unabated Hartselle",
-    "fips_code": null,
-    "rate": 0.01,
-    "source_key": "AL-P-unabatedhartselle",
-    "rate_type": "sales",
-    "effective_date": "2026-05-18",
-    "source_url": "https://www.revenue.alabama.gov/wp-content/uploads/2024/03/taxrates_current.csv",
-    "retrieved_at": "2026-05-18"
-  },
-  {
-    "state": "AL",
-    "jurisdiction_type": "city",
-    "name": "Unabated Homewood",
-    "fips_code": null,
-    "rate": 0.01,
-    "source_key": "AL-P-unabatedhomewood",
-    "rate_type": "sales",
-    "effective_date": "2026-05-18",
-    "source_url": "https://www.revenue.alabama.gov/wp-content/uploads/2024/03/taxrates_current.csv",
-    "retrieved_at": "2026-05-18"
-  },
-  {
-    "state": "AL",
-    "jurisdiction_type": "city",
-    "name": "Unabated Mckenzie",
-    "fips_code": null,
-    "rate": 0.01,
-    "source_key": "AL-P-unabatedmckenzie",
-    "rate_type": "sales",
-    "effective_date": "2026-05-18",
-    "source_url": "https://www.revenue.alabama.gov/wp-content/uploads/2024/03/taxrates_current.csv",
-    "retrieved_at": "2026-05-18"
-  },
-  {
-    "state": "AL",
-    "jurisdiction_type": "city",
-    "name": "Unabated Opp",
-    "fips_code": null,
-    "rate": 0.01,
-    "source_key": "AL-P-unabatedopp",
-    "rate_type": "sales",
-    "effective_date": "2026-05-18",
-    "source_url": "https://www.revenue.alabama.gov/wp-content/uploads/2024/03/taxrates_current.csv",
-    "retrieved_at": "2026-05-18"
-  },
-  {
-    "state": "AL",
-    "jurisdiction_type": "city",
-    "name": "Unabated Oxford",
-    "fips_code": null,
-    "rate": 0.01,
-    "source_key": "AL-P-unabatedoxford",
-    "rate_type": "sales",
-    "effective_date": "2026-05-18",
-    "source_url": "https://www.revenue.alabama.gov/wp-content/uploads/2024/03/taxrates_current.csv",
-    "retrieved_at": "2026-05-18"
-  },
-  {
-    "state": "AL",
-    "jurisdiction_type": "city",
-    "name": "Unabated Ozark",
-    "fips_code": null,
-    "rate": 0.005,
-    "source_key": "AL-P-unabatedozark",
-    "rate_type": "sales",
-    "effective_date": "2026-05-18",
-    "source_url": "https://www.revenue.alabama.gov/wp-content/uploads/2024/03/taxrates_current.csv",
-    "retrieved_at": "2026-05-18"
-  },
-  {
-    "state": "AL",
-    "jurisdiction_type": "city",
-    "name": "Unabated Pelham",
-    "fips_code": null,
-    "rate": 0.01,
-    "source_key": "AL-P-unabatedpelham",
-    "rate_type": "sales",
-    "effective_date": "2026-05-18",
-    "source_url": "https://www.revenue.alabama.gov/wp-content/uploads/2024/03/taxrates_current.csv",
-    "retrieved_at": "2026-05-18"
-  },
-  {
-    "state": "AL",
-    "jurisdiction_type": "city",
-    "name": "Unabated Pell City",
-    "fips_code": null,
-    "rate": 0.013,
-    "source_key": "AL-P-unabatedpellcity",
-    "rate_type": "sales",
-    "effective_date": "2026-05-18",
-    "source_url": "https://www.revenue.alabama.gov/wp-content/uploads/2024/03/taxrates_current.csv",
-    "retrieved_at": "2026-05-18"
-  },
-  {
-    "state": "AL",
-    "jurisdiction_type": "city",
-    "name": "Unabated Saraland",
-    "fips_code": null,
-    "rate": 0.005,
-    "source_key": "AL-P-unabatedsaraland",
-    "rate_type": "sales",
-    "effective_date": "2026-05-18",
-    "source_url": "https://www.revenue.alabama.gov/wp-content/uploads/2024/03/taxrates_current.csv",
-    "retrieved_at": "2026-05-18"
-  },
-  {
-    "state": "AL",
-    "jurisdiction_type": "city",
-    "name": "Unabated Thomasville",
-    "fips_code": null,
-    "rate": 0.005,
-    "source_key": "AL-P-unabatedthomasville",
-    "rate_type": "sales",
-    "effective_date": "2026-05-18",
-    "source_url": "https://www.revenue.alabama.gov/wp-content/uploads/2024/03/taxrates_current.csv",
-    "retrieved_at": "2026-05-18"
-  },
-  {
-    "state": "AL",
-    "jurisdiction_type": "city",
-    "name": "Unabated Vestavia Hills",
-    "fips_code": null,
-    "rate": 0.00075,
-    "source_key": "AL-P-unabatedvestaviahills",
-    "rate_type": "sales",
-    "effective_date": "2026-05-18",
-    "source_url": "https://www.revenue.alabama.gov/wp-content/uploads/2024/03/taxrates_current.csv",
-    "retrieved_at": "2026-05-18"
-  },
-  {
-    "state": "AL",
-    "jurisdiction_type": "city",
-    "name": "Unabated Westover",
-    "fips_code": null,
-    "rate": 0.01,
-    "source_key": "AL-P-unabatedwestover",
-    "rate_type": "sales",
-    "effective_date": "2026-05-18",
-    "source_url": "https://www.revenue.alabama.gov/wp-content/uploads/2024/03/taxrates_current.csv",
-    "retrieved_at": "2026-05-18"
-  },
-  {
-    "state": "AL",
-    "jurisdiction_type": "city",
     "name": "Union",
     "fips_code": null,
     "rate": 0.01,
@@ -6854,6 +6482,18 @@
   {
     "state": "AL",
     "jurisdiction_type": "county",
+    "name": "Baldwin County",
+    "fips_code": "003",
+    "rate": 0.03,
+    "source_key": "AL-C-003",
+    "rate_type": "sales",
+    "effective_date": "2013-06-01",
+    "source_url": "https://www.revenue.alabama.gov/wp-content/uploads/2024/03/taxrates_current.csv",
+    "retrieved_at": "2026-10-01"
+  },
+  {
+    "state": "AL",
+    "jurisdiction_type": "county",
     "name": "Barbour County",
     "fips_code": "005",
     "rate": 0.015,
@@ -6914,6 +6554,54 @@
   {
     "state": "AL",
     "jurisdiction_type": "county",
+    "name": "Calhoun Co - Uninc Area & Pj",
+    "fips_code": "015",
+    "rate": 0.03,
+    "source_key": "AL-C-015",
+    "rate_type": "sales",
+    "effective_date": "2024-02-01",
+    "source_url": "https://www.revenue.alabama.gov/wp-content/uploads/2024/03/taxrates_current.csv",
+    "retrieved_at": "2026-10-01"
+  },
+  {
+    "state": "AL",
+    "jurisdiction_type": "county",
+    "name": "Calhoun County - Cl",
+    "fips_code": "015",
+    "rate": 0.01,
+    "source_key": "AL-C-015-7408",
+    "rate_type": "sales",
+    "effective_date": "2024-02-01",
+    "source_url": "https://www.revenue.alabama.gov/wp-content/uploads/2024/03/taxrates_current.csv",
+    "retrieved_at": "2026-10-01"
+  },
+  {
+    "state": "AL",
+    "jurisdiction_type": "county",
+    "name": "Chambers County Cl",
+    "fips_code": "017",
+    "rate": 0.01,
+    "source_key": "AL-C-017",
+    "rate_type": "sales",
+    "effective_date": "2026-05-18",
+    "source_url": "https://www.revenue.alabama.gov/wp-content/uploads/2024/03/taxrates_current.csv",
+    "retrieved_at": "2026-05-18"
+  },
+  {
+    "state": "AL",
+    "jurisdiction_type": "county",
+    "name": "Chambers County Unincorp Areas",
+    "fips_code": "017",
+    "rate": 0.06,
+    "source_key": "AL-C-017-7109",
+    "rate_type": "sales",
+    "effective_date": "2022-10-01",
+    "source_url": "https://www.revenue.alabama.gov/wp-content/uploads/2024/03/taxrates_current.csv",
+    "retrieved_at": "2026-10-01"
+  },
+  {
+    "state": "AL",
+    "jurisdiction_type": "county",
     "name": "Cherokee County",
     "fips_code": "019",
     "rate": 0.035,
@@ -6922,6 +6610,30 @@
     "effective_date": "2026-05-18",
     "source_url": "https://www.revenue.alabama.gov/wp-content/uploads/2024/03/taxrates_current.csv",
     "retrieved_at": "2026-05-18"
+  },
+  {
+    "state": "AL",
+    "jurisdiction_type": "county",
+    "name": "Chilton County Cl 4 Cities",
+    "fips_code": "021",
+    "rate": 0.03,
+    "source_key": "AL-C-021-7711",
+    "rate_type": "sales",
+    "effective_date": "2025-02-01",
+    "source_url": "https://www.revenue.alabama.gov/wp-content/uploads/2024/03/taxrates_current.csv",
+    "retrieved_at": "2026-10-01"
+  },
+  {
+    "state": "AL",
+    "jurisdiction_type": "county",
+    "name": "Chilton County Exc 4 Cities",
+    "fips_code": "021",
+    "rate": 0.04,
+    "source_key": "AL-C-021",
+    "rate_type": "sales",
+    "effective_date": "2025-02-01",
+    "source_url": "https://www.revenue.alabama.gov/wp-content/uploads/2024/03/taxrates_current.csv",
+    "retrieved_at": "2026-10-01"
   },
   {
     "state": "AL",
@@ -6978,6 +6690,18 @@
     "fips_code": "031",
     "rate": 0.01,
     "source_key": "AL-C-031",
+    "rate_type": "sales",
+    "effective_date": "2026-05-18",
+    "source_url": "https://www.revenue.alabama.gov/wp-content/uploads/2024/03/taxrates_current.csv",
+    "retrieved_at": "2026-05-18"
+  },
+  {
+    "state": "AL",
+    "jurisdiction_type": "county",
+    "name": "Colbert County",
+    "fips_code": "033",
+    "rate": 0.015,
+    "source_key": "AL-C-033",
     "rate_type": "sales",
     "effective_date": "2026-05-18",
     "source_url": "https://www.revenue.alabama.gov/wp-content/uploads/2024/03/taxrates_current.csv",
@@ -7046,6 +6770,30 @@
   {
     "state": "AL",
     "jurisdiction_type": "county",
+    "name": "Cullman County Cl & Pj Arab",
+    "fips_code": "043",
+    "rate": 0.035,
+    "source_key": "AL-C-043-7122",
+    "rate_type": "sales",
+    "effective_date": "2019-05-01",
+    "source_url": "https://www.revenue.alabama.gov/wp-content/uploads/2024/03/taxrates_current.csv",
+    "retrieved_at": "2026-10-01"
+  },
+  {
+    "state": "AL",
+    "jurisdiction_type": "county",
+    "name": "Dale Co Cl Daleville & Ozark",
+    "fips_code": "045",
+    "rate": 0.01,
+    "source_key": "AL-C-045-7723",
+    "rate_type": "sales",
+    "effective_date": "2021-05-01",
+    "source_url": "https://www.revenue.alabama.gov/wp-content/uploads/2024/03/taxrates_current.csv",
+    "retrieved_at": "2026-10-01"
+  },
+  {
+    "state": "AL",
+    "jurisdiction_type": "county",
     "name": "Dale County",
     "fips_code": "045",
     "rate": 0.02,
@@ -7082,6 +6830,54 @@
   {
     "state": "AL",
     "jurisdiction_type": "county",
+    "name": "Elmore Co Enhan Cl Deatsville",
+    "fips_code": "051",
+    "rate": 0.035,
+    "source_key": "AL-C-051-7480",
+    "rate_type": "sales",
+    "effective_date": "2025-09-01",
+    "source_url": "https://www.revenue.alabama.gov/wp-content/uploads/2024/03/taxrates_current.csv",
+    "retrieved_at": "2026-10-01"
+  },
+  {
+    "state": "AL",
+    "jurisdiction_type": "county",
+    "name": "Elmore Co Enhan Cl Elmore",
+    "fips_code": "051",
+    "rate": 0.015,
+    "source_key": "AL-C-051-7478",
+    "rate_type": "sales",
+    "effective_date": "2025-09-01",
+    "source_url": "https://www.revenue.alabama.gov/wp-content/uploads/2024/03/taxrates_current.csv",
+    "retrieved_at": "2026-10-01"
+  },
+  {
+    "state": "AL",
+    "jurisdiction_type": "county",
+    "name": "Elmore Co Enhan Cl Wetumpka",
+    "fips_code": "051",
+    "rate": 0.005,
+    "source_key": "AL-C-051-7471",
+    "rate_type": "sales",
+    "effective_date": "2025-09-01",
+    "source_url": "https://www.revenue.alabama.gov/wp-content/uploads/2024/03/taxrates_current.csv",
+    "retrieved_at": "2026-10-01"
+  },
+  {
+    "state": "AL",
+    "jurisdiction_type": "county",
+    "name": "Elmore Co Enhan Unincorp & 4Pj",
+    "fips_code": "051",
+    "rate": 0.045,
+    "source_key": "AL-C-051-7470",
+    "rate_type": "sales",
+    "effective_date": "2025-09-01",
+    "source_url": "https://www.revenue.alabama.gov/wp-content/uploads/2024/03/taxrates_current.csv",
+    "retrieved_at": "2026-10-01"
+  },
+  {
+    "state": "AL",
+    "jurisdiction_type": "county",
     "name": "Elmore County",
     "fips_code": "051",
     "rate": 0.01,
@@ -7094,6 +6890,18 @@
   {
     "state": "AL",
     "jurisdiction_type": "county",
+    "name": "Elmore County Cl Prattville",
+    "fips_code": "051",
+    "rate": 0.02,
+    "source_key": "AL-C-051-7726",
+    "rate_type": "sales",
+    "effective_date": "2021-05-01",
+    "source_url": "https://www.revenue.alabama.gov/wp-content/uploads/2024/03/taxrates_current.csv",
+    "retrieved_at": "2026-10-01"
+  },
+  {
+    "state": "AL",
+    "jurisdiction_type": "county",
     "name": "Escambia County",
     "fips_code": "053",
     "rate": 0.02,
@@ -7102,6 +6910,18 @@
     "effective_date": "2026-05-18",
     "source_url": "https://www.revenue.alabama.gov/wp-content/uploads/2024/03/taxrates_current.csv",
     "retrieved_at": "2026-05-18"
+  },
+  {
+    "state": "AL",
+    "jurisdiction_type": "county",
+    "name": "Escambia County Exc 5 Cities",
+    "fips_code": "053",
+    "rate": 0.05,
+    "source_key": "AL-C-053-7727",
+    "rate_type": "sales",
+    "effective_date": "2021-05-01",
+    "source_url": "https://www.revenue.alabama.gov/wp-content/uploads/2024/03/taxrates_current.csv",
+    "retrieved_at": "2026-10-01"
   },
   {
     "state": "AL",
@@ -7250,6 +7070,18 @@
   {
     "state": "AL",
     "jurisdiction_type": "county",
+    "name": "Lauderdale County Florence",
+    "fips_code": "077",
+    "rate": 0.01,
+    "source_key": "AL-C-077-7739",
+    "rate_type": "sales",
+    "effective_date": "2021-05-01",
+    "source_url": "https://www.revenue.alabama.gov/wp-content/uploads/2024/03/taxrates_current.csv",
+    "retrieved_at": "2026-10-01"
+  },
+  {
+    "state": "AL",
+    "jurisdiction_type": "county",
     "name": "Lawrence County",
     "fips_code": "079",
     "rate": 0.03,
@@ -7258,6 +7090,30 @@
     "effective_date": "2026-05-18",
     "source_url": "https://www.revenue.alabama.gov/wp-content/uploads/2024/03/taxrates_current.csv",
     "retrieved_at": "2026-05-18"
+  },
+  {
+    "state": "AL",
+    "jurisdiction_type": "county",
+    "name": "Lee Co Cl Aub & Ope & Phenix",
+    "fips_code": "081",
+    "rate": 0.01,
+    "source_key": "AL-C-081-7741",
+    "rate_type": "sales",
+    "effective_date": "2025-12-01",
+    "source_url": "https://www.revenue.alabama.gov/wp-content/uploads/2024/03/taxrates_current.csv",
+    "retrieved_at": "2026-10-01"
+  },
+  {
+    "state": "AL",
+    "jurisdiction_type": "county",
+    "name": "Lee County",
+    "fips_code": "081",
+    "rate": 0.04,
+    "source_key": "AL-C-081",
+    "rate_type": "sales",
+    "effective_date": "2026-09-01",
+    "source_url": "https://www.revenue.alabama.gov/wp-content/uploads/2024/03/taxrates_current.csv",
+    "retrieved_at": "2026-10-01"
   },
   {
     "state": "AL",
@@ -7298,6 +7154,30 @@
   {
     "state": "AL",
     "jurisdiction_type": "county",
+    "name": "Madison Co Exc Cl Huntsville",
+    "fips_code": "089",
+    "rate": 0.01,
+    "source_key": "AL-C-089",
+    "rate_type": "sales",
+    "effective_date": "1998-10-01",
+    "source_url": "https://www.revenue.alabama.gov/wp-content/uploads/2024/03/taxrates_current.csv",
+    "retrieved_at": "2026-10-01"
+  },
+  {
+    "state": "AL",
+    "jurisdiction_type": "county",
+    "name": "Madison County County-Wide Tax",
+    "fips_code": "089",
+    "rate": 0.005,
+    "source_key": "AL-C-089-7745",
+    "rate_type": "sales",
+    "effective_date": "1998-10-01",
+    "source_url": "https://www.revenue.alabama.gov/wp-content/uploads/2024/03/taxrates_current.csv",
+    "retrieved_at": "2026-10-01"
+  },
+  {
+    "state": "AL",
+    "jurisdiction_type": "county",
     "name": "Marengo County",
     "fips_code": "091",
     "rate": 0.03,
@@ -7322,6 +7202,42 @@
   {
     "state": "AL",
     "jurisdiction_type": "county",
+    "name": "Marion County Cl Winfield",
+    "fips_code": "093",
+    "rate": 0.01,
+    "source_key": "AL-C-093-7747",
+    "rate_type": "sales",
+    "effective_date": "2019-03-01",
+    "source_url": "https://www.revenue.alabama.gov/wp-content/uploads/2024/03/taxrates_current.csv",
+    "retrieved_at": "2026-10-01"
+  },
+  {
+    "state": "AL",
+    "jurisdiction_type": "county",
+    "name": "Marshall County Cl 4 Cities",
+    "fips_code": "095",
+    "rate": 0.01,
+    "source_key": "AL-C-095-7748",
+    "rate_type": "sales",
+    "effective_date": "2023-03-01",
+    "source_url": "https://www.revenue.alabama.gov/wp-content/uploads/2024/03/taxrates_current.csv",
+    "retrieved_at": "2026-10-01"
+  },
+  {
+    "state": "AL",
+    "jurisdiction_type": "county",
+    "name": "Marshall County Exc 4 Cities",
+    "fips_code": "095",
+    "rate": 0.02,
+    "source_key": "AL-C-095",
+    "rate_type": "sales",
+    "effective_date": "2023-03-01",
+    "source_url": "https://www.revenue.alabama.gov/wp-content/uploads/2024/03/taxrates_current.csv",
+    "retrieved_at": "2026-10-01"
+  },
+  {
+    "state": "AL",
+    "jurisdiction_type": "county",
     "name": "Mobile County",
     "fips_code": "097",
     "rate": 0.015,
@@ -7330,6 +7246,18 @@
     "effective_date": "2026-05-18",
     "source_url": "https://www.revenue.alabama.gov/wp-content/uploads/2024/03/taxrates_current.csv",
     "retrieved_at": "2026-05-18"
+  },
+  {
+    "state": "AL",
+    "jurisdiction_type": "county",
+    "name": "Mobile County Cl Prich & Mobil",
+    "fips_code": "097",
+    "rate": 0.01,
+    "source_key": "AL-C-097-7749",
+    "rate_type": "sales",
+    "effective_date": "1989-01-01",
+    "source_url": "https://www.revenue.alabama.gov/wp-content/uploads/2024/03/taxrates_current.csv",
+    "retrieved_at": "2026-10-01"
   },
   {
     "state": "AL",
@@ -7350,6 +7278,66 @@
     "fips_code": "101",
     "rate": 0.025,
     "source_key": "AL-C-101",
+    "rate_type": "sales",
+    "effective_date": "2026-05-18",
+    "source_url": "https://www.revenue.alabama.gov/wp-content/uploads/2024/03/taxrates_current.csv",
+    "retrieved_at": "2026-05-18"
+  },
+  {
+    "state": "AL",
+    "jurisdiction_type": "county",
+    "name": "Morgan Co Dec & Har & Fal & Tr",
+    "fips_code": "103",
+    "rate": 0.01,
+    "source_key": "AL-C-103-7752",
+    "rate_type": "sales",
+    "effective_date": "2023-05-01",
+    "source_url": "https://www.revenue.alabama.gov/wp-content/uploads/2024/03/taxrates_current.csv",
+    "retrieved_at": "2026-10-01"
+  },
+  {
+    "state": "AL",
+    "jurisdiction_type": "county",
+    "name": "Morgan County Cl Eva",
+    "fips_code": "103",
+    "rate": 0.03,
+    "source_key": "AL-C-103-7452",
+    "rate_type": "sales",
+    "effective_date": "2023-05-01",
+    "source_url": "https://www.revenue.alabama.gov/wp-content/uploads/2024/03/taxrates_current.csv",
+    "retrieved_at": "2026-10-01"
+  },
+  {
+    "state": "AL",
+    "jurisdiction_type": "county",
+    "name": "Morgan County Cl Priceville",
+    "fips_code": "103",
+    "rate": 0.03,
+    "source_key": "AL-C-103-7252",
+    "rate_type": "sales",
+    "effective_date": "2023-05-01",
+    "source_url": "https://www.revenue.alabama.gov/wp-content/uploads/2024/03/taxrates_current.csv",
+    "retrieved_at": "2026-10-01"
+  },
+  {
+    "state": "AL",
+    "jurisdiction_type": "county",
+    "name": "Morgan County Cl Somerville",
+    "fips_code": "103",
+    "rate": 0.03,
+    "source_key": "AL-C-103-7352",
+    "rate_type": "sales",
+    "effective_date": "2023-05-01",
+    "source_url": "https://www.revenue.alabama.gov/wp-content/uploads/2024/03/taxrates_current.csv",
+    "retrieved_at": "2026-10-01"
+  },
+  {
+    "state": "AL",
+    "jurisdiction_type": "county",
+    "name": "Morgan County Unincorp Areas",
+    "fips_code": "103",
+    "rate": 0.03,
+    "source_key": "AL-C-103",
     "rate_type": "sales",
     "effective_date": "2026-05-18",
     "source_url": "https://www.revenue.alabama.gov/wp-content/uploads/2024/03/taxrates_current.csv",
@@ -7382,6 +7370,30 @@
   {
     "state": "AL",
     "jurisdiction_type": "county",
+    "name": "Pike County Cl Troy",
+    "fips_code": "109",
+    "rate": 0.025,
+    "source_key": "AL-C-109-7755",
+    "rate_type": "sales",
+    "effective_date": "2021-05-01",
+    "source_url": "https://www.revenue.alabama.gov/wp-content/uploads/2024/03/taxrates_current.csv",
+    "retrieved_at": "2026-10-01"
+  },
+  {
+    "state": "AL",
+    "jurisdiction_type": "county",
+    "name": "Pike County Exc Cl Troy",
+    "fips_code": "109",
+    "rate": 0.035,
+    "source_key": "AL-C-109",
+    "rate_type": "sales",
+    "effective_date": "2021-05-01",
+    "source_url": "https://www.revenue.alabama.gov/wp-content/uploads/2024/03/taxrates_current.csv",
+    "retrieved_at": "2026-10-01"
+  },
+  {
+    "state": "AL",
+    "jurisdiction_type": "county",
     "name": "Randolph County",
     "fips_code": "111",
     "rate": 0.025,
@@ -7406,14 +7418,50 @@
   {
     "state": "AL",
     "jurisdiction_type": "county",
-    "name": "Shelby County",
-    "fips_code": "115",
+    "name": "Russell County Cl",
+    "fips_code": "113",
     "rate": 0.01,
+    "source_key": "AL-C-113-7757",
+    "rate_type": "sales",
+    "effective_date": "2022-12-01",
+    "source_url": "https://www.revenue.alabama.gov/wp-content/uploads/2024/03/taxrates_current.csv",
+    "retrieved_at": "2026-10-01"
+  },
+  {
+    "state": "AL",
+    "jurisdiction_type": "county",
+    "name": "Shelby County",
+    "fips_code": "117",
+    "rate": 0.01,
+    "source_key": "AL-C-117",
+    "rate_type": "sales",
+    "effective_date": "2007-07-01",
+    "source_url": "https://www.revenue.alabama.gov/wp-content/uploads/2024/03/taxrates_current.csv",
+    "retrieved_at": "2026-09-21"
+  },
+  {
+    "state": "AL",
+    "jurisdiction_type": "county",
+    "name": "St Clair County",
+    "fips_code": "115",
+    "rate": 0.02,
     "source_key": "AL-C-115",
     "rate_type": "sales",
-    "effective_date": "2026-05-18",
+    "effective_date": "1998-06-01",
     "source_url": "https://www.revenue.alabama.gov/wp-content/uploads/2024/03/taxrates_current.csv",
-    "retrieved_at": "2026-05-18"
+    "retrieved_at": "2026-10-01"
+  },
+  {
+    "state": "AL",
+    "jurisdiction_type": "county",
+    "name": "St Clair County Cl Pell City",
+    "fips_code": "115",
+    "rate": 0.01,
+    "source_key": "AL-C-115-7759",
+    "rate_type": "sales",
+    "effective_date": "1998-06-01",
+    "source_url": "https://www.revenue.alabama.gov/wp-content/uploads/2024/03/taxrates_current.csv",
+    "retrieved_at": "2026-10-01"
   },
   {
     "state": "AL",
@@ -7442,6 +7490,18 @@
   {
     "state": "AL",
     "jurisdiction_type": "county",
+    "name": "Talladega County Cl",
+    "fips_code": "121",
+    "rate": 0.01,
+    "source_key": "AL-C-121-7761",
+    "rate_type": "sales",
+    "effective_date": "1984-10-01",
+    "source_url": "https://www.revenue.alabama.gov/wp-content/uploads/2024/03/taxrates_current.csv",
+    "retrieved_at": "2026-10-01"
+  },
+  {
+    "state": "AL",
+    "jurisdiction_type": "county",
     "name": "Tallapoosa County",
     "fips_code": "123",
     "rate": 0.02,
@@ -7466,110 +7526,14 @@
   {
     "state": "AL",
     "jurisdiction_type": "county",
-    "name": "Unabated Baldwin County",
-    "fips_code": "003",
-    "rate": 0.0244,
-    "source_key": "AL-C-003",
-    "rate_type": "sales",
-    "effective_date": "2018-06-01",
-    "source_url": "https://www.revenue.alabama.gov/wp-content/uploads/2024/03/taxrates_current.csv",
-    "retrieved_at": "2026-09-21"
-  },
-  {
-    "state": "AL",
-    "jurisdiction_type": "county",
-    "name": "Unabated Calhoun County",
-    "fips_code": "015",
-    "rate": 0.01,
-    "source_key": "AL-C-015",
-    "rate_type": "sales",
-    "effective_date": "2026-05-18",
-    "source_url": "https://www.revenue.alabama.gov/wp-content/uploads/2024/03/taxrates_current.csv",
-    "retrieved_at": "2026-05-18"
-  },
-  {
-    "state": "AL",
-    "jurisdiction_type": "county",
-    "name": "Unabated Chambers County",
-    "fips_code": "017",
-    "rate": 0.01,
-    "source_key": "AL-C-017",
-    "rate_type": "sales",
-    "effective_date": "2026-05-18",
-    "source_url": "https://www.revenue.alabama.gov/wp-content/uploads/2024/03/taxrates_current.csv",
-    "retrieved_at": "2026-05-18"
-  },
-  {
-    "state": "AL",
-    "jurisdiction_type": "county",
-    "name": "Unabated Chilton County",
-    "fips_code": "021",
-    "rate": 0.01,
-    "source_key": "AL-C-021",
-    "rate_type": "sales",
-    "effective_date": "2026-05-18",
-    "source_url": "https://www.revenue.alabama.gov/wp-content/uploads/2024/03/taxrates_current.csv",
-    "retrieved_at": "2026-05-18"
-  },
-  {
-    "state": "AL",
-    "jurisdiction_type": "county",
-    "name": "Unabated Colbert County",
-    "fips_code": "033",
-    "rate": 0.015,
-    "source_key": "AL-C-033",
-    "rate_type": "sales",
-    "effective_date": "2026-05-18",
-    "source_url": "https://www.revenue.alabama.gov/wp-content/uploads/2024/03/taxrates_current.csv",
-    "retrieved_at": "2026-05-18"
-  },
-  {
-    "state": "AL",
-    "jurisdiction_type": "county",
-    "name": "Unabated Lee County",
-    "fips_code": "081",
+    "name": "Tuscaloosa County Cl",
+    "fips_code": "125",
     "rate": 0.03,
-    "source_key": "AL-C-081",
+    "source_key": "AL-C-125-7763",
     "rate_type": "sales",
-    "effective_date": "2026-09-01",
+    "effective_date": "2005-07-01",
     "source_url": "https://www.revenue.alabama.gov/wp-content/uploads/2024/03/taxrates_current.csv",
-    "retrieved_at": "2026-09-21"
-  },
-  {
-    "state": "AL",
-    "jurisdiction_type": "county",
-    "name": "Unabated Morgan County",
-    "fips_code": "103",
-    "rate": 0.03,
-    "source_key": "AL-C-103",
-    "rate_type": "sales",
-    "effective_date": "2026-05-18",
-    "source_url": "https://www.revenue.alabama.gov/wp-content/uploads/2024/03/taxrates_current.csv",
-    "retrieved_at": "2026-05-18"
-  },
-  {
-    "state": "AL",
-    "jurisdiction_type": "county",
-    "name": "Unabated Pike County",
-    "fips_code": "109",
-    "rate": 0.0175,
-    "source_key": "AL-C-109",
-    "rate_type": "sales",
-    "effective_date": "2026-05-18",
-    "source_url": "https://www.revenue.alabama.gov/wp-content/uploads/2024/03/taxrates_current.csv",
-    "retrieved_at": "2026-05-18"
-  },
-  {
-    "state": "AL",
-    "jurisdiction_type": "county",
-    "name": "Unabated St Clair County",
-    "fips_code": "117",
-    "rate": 0.01,
-    "source_key": "AL-C-117",
-    "rate_type": "sales",
-    "effective_date": "2007-07-01",
-    "source_url": "https://www.revenue.alabama.gov/wp-content/uploads/2024/03/taxrates_current.csv",
-    "retrieved_at": "2026-09-21"
+    "retrieved_at": "2026-10-01"
   },
   {
     "state": "AL",
@@ -14020,12 +13984,12 @@
     "jurisdiction_type": "special_district",
     "name": "Agoura Hills (CDTFA tax area)",
     "fips_code": null,
-    "rate": 0.025,
-    "source_key": "CA-TAC-19089B470000",
+    "rate": 0.03,
+    "source_key": "CA-TAC-19089D290000",
     "rate_type": "sales",
-    "effective_date": "2025-04-01",
+    "effective_date": "2026-10-01",
     "source_url": "https://data.ca.gov/dataset/cdtfa-salesandusetaxrates-public",
-    "retrieved_at": "2026-05-18"
+    "retrieved_at": "2026-10-01"
   },
   {
     "state": "CA",
@@ -14056,12 +14020,12 @@
     "jurisdiction_type": "special_district",
     "name": "Alhambra (CDTFA tax area)",
     "fips_code": null,
-    "rate": 0.0325,
-    "source_key": "CA-TAC-19001B480000",
+    "rate": 0.0375,
+    "source_key": "CA-TAC-19001D300000",
     "rate_type": "sales",
-    "effective_date": "2025-04-01",
+    "effective_date": "2026-10-01",
     "source_url": "https://data.ca.gov/dataset/cdtfa-salesandusetaxrates-public",
-    "retrieved_at": "2026-05-18"
+    "retrieved_at": "2026-10-01"
   },
   {
     "state": "CA",
@@ -14188,12 +14152,12 @@
     "jurisdiction_type": "special_district",
     "name": "Arcadia (CDTFA tax area)",
     "fips_code": null,
-    "rate": 0.0325,
-    "source_key": "CA-TAC-19002B490000",
+    "rate": 0.0375,
+    "source_key": "CA-TAC-19002D310000",
     "rate_type": "sales",
-    "effective_date": "2025-04-01",
+    "effective_date": "2026-10-01",
     "source_url": "https://data.ca.gov/dataset/cdtfa-salesandusetaxrates-public",
-    "retrieved_at": "2026-05-18"
+    "retrieved_at": "2026-10-01"
   },
   {
     "state": "CA",
@@ -14224,12 +14188,12 @@
     "jurisdiction_type": "special_district",
     "name": "Artesia (CDTFA tax area)",
     "fips_code": null,
-    "rate": 0.0325,
-    "source_key": "CA-TAC-19072B510000",
+    "rate": 0.0375,
+    "source_key": "CA-TAC-19072D320000",
     "rate_type": "sales",
-    "effective_date": "2025-04-01",
+    "effective_date": "2026-10-01",
     "source_url": "https://data.ca.gov/dataset/cdtfa-salesandusetaxrates-public",
-    "retrieved_at": "2026-05-18"
+    "retrieved_at": "2026-10-01"
   },
   {
     "state": "CA",
@@ -14296,12 +14260,12 @@
     "jurisdiction_type": "special_district",
     "name": "Avalon (CDTFA tax area)",
     "fips_code": null,
-    "rate": 0.03,
-    "source_key": "CA-TAC-19003B520000",
+    "rate": 0.035,
+    "source_key": "CA-TAC-19003D330000",
     "rate_type": "sales",
-    "effective_date": "2025-04-01",
+    "effective_date": "2026-10-01",
     "source_url": "https://data.ca.gov/dataset/cdtfa-salesandusetaxrates-public",
-    "retrieved_at": "2026-05-18"
+    "retrieved_at": "2026-10-01"
   },
   {
     "state": "CA",
@@ -14320,24 +14284,24 @@
     "jurisdiction_type": "special_district",
     "name": "Azusa (CDTFA tax area)",
     "fips_code": null,
-    "rate": 0.035,
-    "source_key": "CA-TAC-19004B540000",
+    "rate": 0.04,
+    "source_key": "CA-TAC-19004D340000",
     "rate_type": "sales",
-    "effective_date": "2025-04-01",
+    "effective_date": "2026-10-01",
     "source_url": "https://data.ca.gov/dataset/cdtfa-salesandusetaxrates-public",
-    "retrieved_at": "2026-05-18"
+    "retrieved_at": "2026-10-01"
   },
   {
     "state": "CA",
     "jurisdiction_type": "special_district",
     "name": "Azusa (CDTFA tax area)",
     "fips_code": null,
-    "rate": 0.035,
-    "source_key": "CA-TAC-19004B540016",
+    "rate": 0.04,
+    "source_key": "CA-TAC-19004D340016",
     "rate_type": "sales",
-    "effective_date": "2025-04-01",
+    "effective_date": "2026-10-01",
     "source_url": "https://data.ca.gov/dataset/cdtfa-salesandusetaxrates-public",
-    "retrieved_at": "2026-05-18"
+    "retrieved_at": "2026-10-01"
   },
   {
     "state": "CA",
@@ -14356,24 +14320,24 @@
     "jurisdiction_type": "special_district",
     "name": "Baldwin Park (CDTFA tax area)",
     "fips_code": null,
-    "rate": 0.0325,
-    "source_key": "CA-TAC-19043B550000",
+    "rate": 0.0375,
+    "source_key": "CA-TAC-19043D350000",
     "rate_type": "sales",
-    "effective_date": "2025-04-01",
+    "effective_date": "2026-10-01",
     "source_url": "https://data.ca.gov/dataset/cdtfa-salesandusetaxrates-public",
-    "retrieved_at": "2026-05-18"
+    "retrieved_at": "2026-10-01"
   },
   {
     "state": "CA",
     "jurisdiction_type": "special_district",
     "name": "Baldwin Park (CDTFA tax area)",
     "fips_code": null,
-    "rate": 0.0325,
-    "source_key": "CA-TAC-19043B550008",
+    "rate": 0.0375,
+    "source_key": "CA-TAC-19043D350008",
     "rate_type": "sales",
-    "effective_date": "2025-04-01",
+    "effective_date": "2026-10-01",
     "source_url": "https://data.ca.gov/dataset/cdtfa-salesandusetaxrates-public",
-    "retrieved_at": "2026-05-18"
+    "retrieved_at": "2026-10-01"
   },
   {
     "state": "CA",
@@ -14416,36 +14380,36 @@
     "jurisdiction_type": "special_district",
     "name": "Bell (CDTFA tax area)",
     "fips_code": null,
-    "rate": 0.025,
-    "source_key": "CA-TAC-19005B470000",
+    "rate": 0.03,
+    "source_key": "CA-TAC-19005D290000",
     "rate_type": "sales",
-    "effective_date": "2025-04-01",
+    "effective_date": "2026-10-01",
     "source_url": "https://data.ca.gov/dataset/cdtfa-salesandusetaxrates-public",
-    "retrieved_at": "2026-05-18"
+    "retrieved_at": "2026-10-01"
   },
   {
     "state": "CA",
     "jurisdiction_type": "special_district",
     "name": "Bell Gardens (CDTFA tax area)",
     "fips_code": null,
-    "rate": 0.0325,
-    "source_key": "CA-TAC-19092B560000",
+    "rate": 0.04,
+    "source_key": "CA-TAC-19092D370000",
     "rate_type": "sales",
-    "effective_date": "2025-04-01",
+    "effective_date": "2026-10-01",
     "source_url": "https://data.ca.gov/dataset/cdtfa-salesandusetaxrates-public",
-    "retrieved_at": "2026-05-18"
+    "retrieved_at": "2026-10-01"
   },
   {
     "state": "CA",
     "jurisdiction_type": "special_district",
     "name": "Bellflower (CDTFA tax area)",
     "fips_code": null,
-    "rate": 0.0325,
-    "source_key": "CA-TAC-19065B570000",
+    "rate": 0.0375,
+    "source_key": "CA-TAC-19065D380000",
     "rate_type": "sales",
-    "effective_date": "2025-04-01",
+    "effective_date": "2026-10-01",
     "source_url": "https://data.ca.gov/dataset/cdtfa-salesandusetaxrates-public",
-    "retrieved_at": "2026-05-18"
+    "retrieved_at": "2026-10-01"
   },
   {
     "state": "CA",
@@ -14500,12 +14464,12 @@
     "jurisdiction_type": "special_district",
     "name": "Beverly Hills (CDTFA tax area)",
     "fips_code": null,
-    "rate": 0.025,
-    "source_key": "CA-TAC-19006B470000",
+    "rate": 0.03,
+    "source_key": "CA-TAC-19006D290000",
     "rate_type": "sales",
-    "effective_date": "2025-04-01",
+    "effective_date": "2026-10-01",
     "source_url": "https://data.ca.gov/dataset/cdtfa-salesandusetaxrates-public",
-    "retrieved_at": "2026-05-18"
+    "retrieved_at": "2026-10-01"
   },
   {
     "state": "CA",
@@ -14572,12 +14536,12 @@
     "jurisdiction_type": "special_district",
     "name": "Bradbury (CDTFA tax area)",
     "fips_code": null,
-    "rate": 0.025,
-    "source_key": "CA-TAC-19063B470000",
+    "rate": 0.03,
+    "source_key": "CA-TAC-19063D290000",
     "rate_type": "sales",
-    "effective_date": "2025-04-01",
+    "effective_date": "2026-10-01",
     "source_url": "https://data.ca.gov/dataset/cdtfa-salesandusetaxrates-public",
-    "retrieved_at": "2026-05-18"
+    "retrieved_at": "2026-10-01"
   },
   {
     "state": "CA",
@@ -14656,12 +14620,12 @@
     "jurisdiction_type": "special_district",
     "name": "Burbank (CDTFA tax area)",
     "fips_code": null,
-    "rate": 0.0325,
-    "source_key": "CA-TAC-19007B580000",
+    "rate": 0.0375,
+    "source_key": "CA-TAC-19007D390000",
     "rate_type": "sales",
-    "effective_date": "2025-04-01",
+    "effective_date": "2026-10-01",
     "source_url": "https://data.ca.gov/dataset/cdtfa-salesandusetaxrates-public",
-    "retrieved_at": "2026-05-18"
+    "retrieved_at": "2026-10-01"
   },
   {
     "state": "CA",
@@ -14680,12 +14644,12 @@
     "jurisdiction_type": "special_district",
     "name": "Calabasas (CDTFA tax area)",
     "fips_code": null,
-    "rate": 0.025,
-    "source_key": "CA-TAC-19103B470000",
+    "rate": 0.04,
+    "source_key": "CA-TAC-19103D410000",
     "rate_type": "sales",
-    "effective_date": "2025-04-01",
+    "effective_date": "2026-10-01",
     "source_url": "https://data.ca.gov/dataset/cdtfa-salesandusetaxrates-public",
-    "retrieved_at": "2026-05-18"
+    "retrieved_at": "2026-10-01"
   },
   {
     "state": "CA",
@@ -14836,24 +14800,24 @@
     "jurisdiction_type": "special_district",
     "name": "Carson (CDTFA tax area)",
     "fips_code": null,
-    "rate": 0.0325,
-    "source_key": "CA-TAC-19084B590000",
+    "rate": 0.0375,
+    "source_key": "CA-TAC-19084D420000",
     "rate_type": "sales",
-    "effective_date": "2025-04-01",
+    "effective_date": "2026-10-01",
     "source_url": "https://data.ca.gov/dataset/cdtfa-salesandusetaxrates-public",
-    "retrieved_at": "2026-05-18"
+    "retrieved_at": "2026-10-01"
   },
   {
     "state": "CA",
     "jurisdiction_type": "special_district",
     "name": "Carson (CDTFA tax area)",
     "fips_code": null,
-    "rate": 0.0325,
-    "source_key": "CA-TAC-19084B590039",
+    "rate": 0.0375,
+    "source_key": "CA-TAC-19084D420039",
     "rate_type": "sales",
-    "effective_date": "2025-04-01",
+    "effective_date": "2026-10-01",
     "source_url": "https://data.ca.gov/dataset/cdtfa-salesandusetaxrates-public",
-    "retrieved_at": "2026-05-18"
+    "retrieved_at": "2026-10-01"
   },
   {
     "state": "CA",
@@ -14884,12 +14848,12 @@
     "jurisdiction_type": "special_district",
     "name": "Cerritos (CDTFA tax area)",
     "fips_code": null,
-    "rate": 0.025,
-    "source_key": "CA-TAC-19044B470000",
+    "rate": 0.03,
+    "source_key": "CA-TAC-19044D290000",
     "rate_type": "sales",
-    "effective_date": "2025-04-01",
+    "effective_date": "2026-10-01",
     "source_url": "https://data.ca.gov/dataset/cdtfa-salesandusetaxrates-public",
-    "retrieved_at": "2026-05-18"
+    "retrieved_at": "2026-10-01"
   },
   {
     "state": "CA",
@@ -14968,12 +14932,12 @@
     "jurisdiction_type": "special_district",
     "name": "Claremont (CDTFA tax area)",
     "fips_code": null,
-    "rate": 0.025,
-    "source_key": "CA-TAC-19008B470000",
+    "rate": 0.03,
+    "source_key": "CA-TAC-19008D290000",
     "rate_type": "sales",
-    "effective_date": "2025-04-01",
+    "effective_date": "2026-10-01",
     "source_url": "https://data.ca.gov/dataset/cdtfa-salesandusetaxrates-public",
-    "retrieved_at": "2026-05-18"
+    "retrieved_at": "2026-10-01"
   },
   {
     "state": "CA",
@@ -15136,24 +15100,24 @@
     "jurisdiction_type": "special_district",
     "name": "Commerce (CDTFA tax area)",
     "fips_code": null,
-    "rate": 0.0325,
-    "source_key": "CA-TAC-19075B600000",
+    "rate": 0.04,
+    "source_key": "CA-TAC-19075D440000",
     "rate_type": "sales",
-    "effective_date": "2025-04-01",
+    "effective_date": "2026-10-01",
     "source_url": "https://data.ca.gov/dataset/cdtfa-salesandusetaxrates-public",
-    "retrieved_at": "2026-05-18"
+    "retrieved_at": "2026-10-01"
   },
   {
     "state": "CA",
     "jurisdiction_type": "special_district",
     "name": "Compton (CDTFA tax area)",
     "fips_code": null,
-    "rate": 0.035,
-    "source_key": "CA-TAC-19009B610000",
+    "rate": 0.04,
+    "source_key": "CA-TAC-19009D450000",
     "rate_type": "sales",
-    "effective_date": "2025-04-01",
+    "effective_date": "2026-10-01",
     "source_url": "https://data.ca.gov/dataset/cdtfa-salesandusetaxrates-public",
-    "retrieved_at": "2026-05-18"
+    "retrieved_at": "2026-10-01"
   },
   {
     "state": "CA",
@@ -15256,12 +15220,12 @@
     "jurisdiction_type": "special_district",
     "name": "Covina (CDTFA tax area)",
     "fips_code": null,
-    "rate": 0.0325,
-    "source_key": "CA-TAC-19010B620000",
+    "rate": 0.04,
+    "source_key": "CA-TAC-19010D470000",
     "rate_type": "sales",
-    "effective_date": "2025-04-01",
+    "effective_date": "2026-10-01",
     "source_url": "https://data.ca.gov/dataset/cdtfa-salesandusetaxrates-public",
-    "retrieved_at": "2026-05-18"
+    "retrieved_at": "2026-10-01"
   },
   {
     "state": "CA",
@@ -15280,24 +15244,24 @@
     "jurisdiction_type": "special_district",
     "name": "Cudahy (CDTFA tax area)",
     "fips_code": null,
-    "rate": 0.0325,
-    "source_key": "CA-TAC-19079B630000",
+    "rate": 0.0375,
+    "source_key": "CA-TAC-19079D480000",
     "rate_type": "sales",
-    "effective_date": "2025-04-01",
+    "effective_date": "2026-10-01",
     "source_url": "https://data.ca.gov/dataset/cdtfa-salesandusetaxrates-public",
-    "retrieved_at": "2026-05-18"
+    "retrieved_at": "2026-10-01"
   },
   {
     "state": "CA",
     "jurisdiction_type": "special_district",
     "name": "Culver City (CDTFA tax area)",
     "fips_code": null,
-    "rate": 0.035,
-    "source_key": "CA-TAC-19011D160000",
+    "rate": 0.04,
+    "source_key": "CA-TAC-19011D490000",
     "rate_type": "sales",
-    "effective_date": "2026-01-01",
+    "effective_date": "2026-10-01",
     "source_url": "https://data.ca.gov/dataset/cdtfa-salesandusetaxrates-public",
-    "retrieved_at": "2026-05-18"
+    "retrieved_at": "2026-10-01"
   },
   {
     "state": "CA",
@@ -15436,12 +15400,12 @@
     "jurisdiction_type": "special_district",
     "name": "Diamond Bar (CDTFA tax area)",
     "fips_code": null,
-    "rate": 0.025,
-    "source_key": "CA-TAC-19102B470000",
+    "rate": 0.03,
+    "source_key": "CA-TAC-19102D290000",
     "rate_type": "sales",
-    "effective_date": "2025-04-01",
+    "effective_date": "2026-10-01",
     "source_url": "https://data.ca.gov/dataset/cdtfa-salesandusetaxrates-public",
-    "retrieved_at": "2026-05-18"
+    "retrieved_at": "2026-10-01"
   },
   {
     "state": "CA",
@@ -15496,24 +15460,24 @@
     "jurisdiction_type": "special_district",
     "name": "Downey (CDTFA tax area)",
     "fips_code": null,
-    "rate": 0.0325,
-    "source_key": "CA-TAC-19046B660000",
+    "rate": 0.0375,
+    "source_key": "CA-TAC-19046D500000",
     "rate_type": "sales",
-    "effective_date": "2025-04-01",
+    "effective_date": "2026-10-01",
     "source_url": "https://data.ca.gov/dataset/cdtfa-salesandusetaxrates-public",
-    "retrieved_at": "2026-05-18"
+    "retrieved_at": "2026-10-01"
   },
   {
     "state": "CA",
     "jurisdiction_type": "special_district",
     "name": "Duarte (CDTFA tax area)",
     "fips_code": null,
-    "rate": 0.0325,
-    "source_key": "CA-TAC-19061B670000",
+    "rate": 0.0375,
+    "source_key": "CA-TAC-19061D510000",
     "rate_type": "sales",
-    "effective_date": "2025-04-01",
+    "effective_date": "2026-10-01",
     "source_url": "https://data.ca.gov/dataset/cdtfa-salesandusetaxrates-public",
-    "retrieved_at": "2026-05-18"
+    "retrieved_at": "2026-10-01"
   },
   {
     "state": "CA",
@@ -15604,24 +15568,24 @@
     "jurisdiction_type": "special_district",
     "name": "El Monte (CDTFA tax area)",
     "fips_code": null,
-    "rate": 0.0325,
-    "source_key": "CA-TAC-19012B690000",
+    "rate": 0.0375,
+    "source_key": "CA-TAC-19012D520000",
     "rate_type": "sales",
-    "effective_date": "2025-04-01",
+    "effective_date": "2026-10-01",
     "source_url": "https://data.ca.gov/dataset/cdtfa-salesandusetaxrates-public",
-    "retrieved_at": "2026-05-18"
+    "retrieved_at": "2026-10-01"
   },
   {
     "state": "CA",
     "jurisdiction_type": "special_district",
     "name": "El Segundo (CDTFA tax area)",
     "fips_code": null,
-    "rate": 0.025,
-    "source_key": "CA-TAC-19013B470000",
+    "rate": 0.035,
+    "source_key": "CA-TAC-19013D540000",
     "rate_type": "sales",
-    "effective_date": "2025-04-01",
+    "effective_date": "2026-10-01",
     "source_url": "https://data.ca.gov/dataset/cdtfa-salesandusetaxrates-public",
-    "retrieved_at": "2026-05-18"
+    "retrieved_at": "2026-10-01"
   },
   {
     "state": "CA",
@@ -15964,12 +15928,12 @@
     "jurisdiction_type": "special_district",
     "name": "Gardena (CDTFA tax area)",
     "fips_code": null,
-    "rate": 0.0325,
-    "source_key": "CA-TAC-19014B700000",
+    "rate": 0.04,
+    "source_key": "CA-TAC-19014D560000",
     "rate_type": "sales",
-    "effective_date": "2025-04-01",
+    "effective_date": "2026-10-01",
     "source_url": "https://data.ca.gov/dataset/cdtfa-salesandusetaxrates-public",
-    "retrieved_at": "2026-05-18"
+    "retrieved_at": "2026-10-01"
   },
   {
     "state": "CA",
@@ -15988,24 +15952,24 @@
     "jurisdiction_type": "special_district",
     "name": "Glendale (CDTFA tax area)",
     "fips_code": null,
-    "rate": 0.0325,
-    "source_key": "CA-TAC-19070B710000",
+    "rate": 0.0375,
+    "source_key": "CA-TAC-19070D570000",
     "rate_type": "sales",
-    "effective_date": "2025-04-01",
+    "effective_date": "2026-10-01",
     "source_url": "https://data.ca.gov/dataset/cdtfa-salesandusetaxrates-public",
-    "retrieved_at": "2026-05-18"
+    "retrieved_at": "2026-10-01"
   },
   {
     "state": "CA",
     "jurisdiction_type": "special_district",
     "name": "Glendora (CDTFA tax area)",
     "fips_code": null,
-    "rate": 0.035,
-    "source_key": "CA-TAC-19015B730000",
+    "rate": 0.04,
+    "source_key": "CA-TAC-19015D580000",
     "rate_type": "sales",
-    "effective_date": "2025-04-01",
+    "effective_date": "2026-10-01",
     "source_url": "https://data.ca.gov/dataset/cdtfa-salesandusetaxrates-public",
-    "retrieved_at": "2026-05-18"
+    "retrieved_at": "2026-10-01"
   },
   {
     "state": "CA",
@@ -16144,24 +16108,24 @@
     "jurisdiction_type": "special_district",
     "name": "Hawaiian Gardens (CDTFA tax area)",
     "fips_code": null,
-    "rate": 0.0325,
-    "source_key": "CA-TAC-19082B740000",
+    "rate": 0.0375,
+    "source_key": "CA-TAC-19082D590000",
     "rate_type": "sales",
-    "effective_date": "2025-04-01",
+    "effective_date": "2026-10-01",
     "source_url": "https://data.ca.gov/dataset/cdtfa-salesandusetaxrates-public",
-    "retrieved_at": "2026-05-18"
+    "retrieved_at": "2026-10-01"
   },
   {
     "state": "CA",
     "jurisdiction_type": "special_district",
     "name": "Hawthorne (CDTFA tax area)",
     "fips_code": null,
-    "rate": 0.0325,
-    "source_key": "CA-TAC-19016B750000",
+    "rate": 0.0375,
+    "source_key": "CA-TAC-19016D600000",
     "rate_type": "sales",
-    "effective_date": "2025-04-01",
+    "effective_date": "2026-10-01",
     "source_url": "https://data.ca.gov/dataset/cdtfa-salesandusetaxrates-public",
-    "retrieved_at": "2026-05-18"
+    "retrieved_at": "2026-10-01"
   },
   {
     "state": "CA",
@@ -16216,12 +16180,12 @@
     "jurisdiction_type": "special_district",
     "name": "Hermosa Beach (CDTFA tax area)",
     "fips_code": null,
-    "rate": 0.025,
-    "source_key": "CA-TAC-19017B470000",
+    "rate": 0.03,
+    "source_key": "CA-TAC-19017D290000",
     "rate_type": "sales",
-    "effective_date": "2025-04-01",
+    "effective_date": "2026-10-01",
     "source_url": "https://data.ca.gov/dataset/cdtfa-salesandusetaxrates-public",
-    "retrieved_at": "2026-05-18"
+    "retrieved_at": "2026-10-01"
   },
   {
     "state": "CA",
@@ -16240,12 +16204,12 @@
     "jurisdiction_type": "special_district",
     "name": "Hidden Hills (CDTFA tax area)",
     "fips_code": null,
-    "rate": 0.025,
-    "source_key": "CA-TAC-19081B470000",
+    "rate": 0.03,
+    "source_key": "CA-TAC-19081D290000",
     "rate_type": "sales",
-    "effective_date": "2025-04-01",
+    "effective_date": "2026-10-01",
     "source_url": "https://data.ca.gov/dataset/cdtfa-salesandusetaxrates-public",
-    "retrieved_at": "2026-05-18"
+    "retrieved_at": "2026-10-01"
   },
   {
     "state": "CA",
@@ -16324,24 +16288,24 @@
     "jurisdiction_type": "special_district",
     "name": "Huntington Park (CDTFA tax area)",
     "fips_code": null,
-    "rate": 0.0325,
-    "source_key": "CA-TAC-19018B760000",
+    "rate": 0.0375,
+    "source_key": "CA-TAC-19018D610000",
     "rate_type": "sales",
-    "effective_date": "2025-04-01",
+    "effective_date": "2026-10-01",
     "source_url": "https://data.ca.gov/dataset/cdtfa-salesandusetaxrates-public",
-    "retrieved_at": "2026-05-18"
+    "retrieved_at": "2026-10-01"
   },
   {
     "state": "CA",
     "jurisdiction_type": "special_district",
     "name": "Huntington Park (CDTFA tax area)",
     "fips_code": null,
-    "rate": 0.0325,
-    "source_key": "CA-TAC-19018B760001",
+    "rate": 0.0375,
+    "source_key": "CA-TAC-19018D610001",
     "rate_type": "sales",
-    "effective_date": "2025-04-01",
+    "effective_date": "2026-10-01",
     "source_url": "https://data.ca.gov/dataset/cdtfa-salesandusetaxrates-public",
-    "retrieved_at": "2026-05-18"
+    "retrieved_at": "2026-10-01"
   },
   {
     "state": "CA",
@@ -16408,24 +16372,24 @@
     "jurisdiction_type": "special_district",
     "name": "Industry (CDTFA tax area)",
     "fips_code": null,
-    "rate": 0.025,
-    "source_key": "CA-TAC-19062B470000",
+    "rate": 0.03,
+    "source_key": "CA-TAC-19062D290000",
     "rate_type": "sales",
-    "effective_date": "2025-04-01",
+    "effective_date": "2026-10-01",
     "source_url": "https://data.ca.gov/dataset/cdtfa-salesandusetaxrates-public",
-    "retrieved_at": "2026-05-18"
+    "retrieved_at": "2026-10-01"
   },
   {
     "state": "CA",
     "jurisdiction_type": "special_district",
     "name": "Inglewood (CDTFA tax area)",
     "fips_code": null,
-    "rate": 0.03,
-    "source_key": "CA-TAC-19019B770000",
+    "rate": 0.035,
+    "source_key": "CA-TAC-19019D620000",
     "rate_type": "sales",
-    "effective_date": "2025-04-01",
+    "effective_date": "2026-10-01",
     "source_url": "https://data.ca.gov/dataset/cdtfa-salesandusetaxrates-public",
-    "retrieved_at": "2026-05-18"
+    "retrieved_at": "2026-10-01"
   },
   {
     "state": "CA",
@@ -16456,12 +16420,12 @@
     "jurisdiction_type": "special_district",
     "name": "Irwindale (CDTFA tax area)",
     "fips_code": null,
-    "rate": 0.035,
-    "source_key": "CA-TAC-19064B790000",
+    "rate": 0.04,
+    "source_key": "CA-TAC-19064D630000",
     "rate_type": "sales",
-    "effective_date": "2025-04-01",
+    "effective_date": "2026-10-01",
     "source_url": "https://data.ca.gov/dataset/cdtfa-salesandusetaxrates-public",
-    "retrieved_at": "2026-05-18"
+    "retrieved_at": "2026-10-01"
   },
   {
     "state": "CA",
@@ -16552,12 +16516,12 @@
     "jurisdiction_type": "special_district",
     "name": "La Cañada Flintridge (CDTFA tax area)",
     "fips_code": null,
-    "rate": 0.0325,
-    "source_key": "CA-TAC-19086B800000",
+    "rate": 0.0375,
+    "source_key": "CA-TAC-19086D640000",
     "rate_type": "sales",
-    "effective_date": "2025-04-01",
+    "effective_date": "2026-10-01",
     "source_url": "https://data.ca.gov/dataset/cdtfa-salesandusetaxrates-public",
-    "retrieved_at": "2026-05-18"
+    "retrieved_at": "2026-10-01"
   },
   {
     "state": "CA",
@@ -16576,12 +16540,12 @@
     "jurisdiction_type": "special_district",
     "name": "La Habra Heights (CDTFA tax area)",
     "fips_code": null,
-    "rate": 0.025,
-    "source_key": "CA-TAC-19087B470000",
+    "rate": 0.03,
+    "source_key": "CA-TAC-19087D290000",
     "rate_type": "sales",
-    "effective_date": "2025-04-01",
+    "effective_date": "2026-10-01",
     "source_url": "https://data.ca.gov/dataset/cdtfa-salesandusetaxrates-public",
-    "retrieved_at": "2026-05-18"
+    "retrieved_at": "2026-10-01"
   },
   {
     "state": "CA",
@@ -16600,24 +16564,24 @@
     "jurisdiction_type": "special_district",
     "name": "La Mirada (CDTFA tax area)",
     "fips_code": null,
-    "rate": 0.025,
-    "source_key": "CA-TAC-19076B470000",
+    "rate": 0.03,
+    "source_key": "CA-TAC-19076D290000",
     "rate_type": "sales",
-    "effective_date": "2025-04-01",
+    "effective_date": "2026-10-01",
     "source_url": "https://data.ca.gov/dataset/cdtfa-salesandusetaxrates-public",
-    "retrieved_at": "2026-05-18"
+    "retrieved_at": "2026-10-01"
   },
   {
     "state": "CA",
     "jurisdiction_type": "special_district",
     "name": "La Mirada (CDTFA tax area)",
     "fips_code": null,
-    "rate": 0.025,
-    "source_key": "CA-TAC-19076B470044",
+    "rate": 0.03,
+    "source_key": "CA-TAC-19076D290044",
     "rate_type": "sales",
-    "effective_date": "2025-04-01",
+    "effective_date": "2026-10-01",
     "source_url": "https://data.ca.gov/dataset/cdtfa-salesandusetaxrates-public",
-    "retrieved_at": "2026-05-18"
+    "retrieved_at": "2026-10-01"
   },
   {
     "state": "CA",
@@ -16636,12 +16600,12 @@
     "jurisdiction_type": "special_district",
     "name": "La Puente (CDTFA tax area)",
     "fips_code": null,
-    "rate": 0.03,
-    "source_key": "CA-TAC-19045B810000",
+    "rate": 0.035,
+    "source_key": "CA-TAC-19045D650000",
     "rate_type": "sales",
-    "effective_date": "2025-04-01",
+    "effective_date": "2026-10-01",
     "source_url": "https://data.ca.gov/dataset/cdtfa-salesandusetaxrates-public",
-    "retrieved_at": "2026-05-18"
+    "retrieved_at": "2026-10-01"
   },
   {
     "state": "CA",
@@ -16660,12 +16624,12 @@
     "jurisdiction_type": "special_district",
     "name": "La Verne (CDTFA tax area)",
     "fips_code": null,
-    "rate": 0.0325,
-    "source_key": "CA-TAC-19020B820000",
+    "rate": 0.0375,
+    "source_key": "CA-TAC-19020D660000",
     "rate_type": "sales",
-    "effective_date": "2025-04-01",
+    "effective_date": "2026-10-01",
     "source_url": "https://data.ca.gov/dataset/cdtfa-salesandusetaxrates-public",
-    "retrieved_at": "2026-05-18"
+    "retrieved_at": "2026-10-01"
   },
   {
     "state": "CA",
@@ -16768,24 +16732,24 @@
     "jurisdiction_type": "special_district",
     "name": "Lakewood (CDTFA tax area)",
     "fips_code": null,
-    "rate": 0.0325,
-    "source_key": "CA-TAC-19042B830000",
+    "rate": 0.0375,
+    "source_key": "CA-TAC-19042D670000",
     "rate_type": "sales",
-    "effective_date": "2025-04-01",
+    "effective_date": "2026-10-01",
     "source_url": "https://data.ca.gov/dataset/cdtfa-salesandusetaxrates-public",
-    "retrieved_at": "2026-05-18"
+    "retrieved_at": "2026-10-01"
   },
   {
     "state": "CA",
     "jurisdiction_type": "special_district",
     "name": "Lancaster (CDTFA tax area)",
     "fips_code": null,
-    "rate": 0.04,
-    "source_key": "CA-TAC-19093B850000",
+    "rate": 0.045,
+    "source_key": "CA-TAC-19093D680000",
     "rate_type": "sales",
-    "effective_date": "2025-04-01",
+    "effective_date": "2026-10-01",
     "source_url": "https://data.ca.gov/dataset/cdtfa-salesandusetaxrates-public",
-    "retrieved_at": "2026-05-18"
+    "retrieved_at": "2026-10-01"
   },
   {
     "state": "CA",
@@ -16816,12 +16780,12 @@
     "jurisdiction_type": "special_district",
     "name": "Lawndale (CDTFA tax area)",
     "fips_code": null,
-    "rate": 0.0325,
-    "source_key": "CA-TAC-19074B860000",
+    "rate": 0.0375,
+    "source_key": "CA-TAC-19074D690000",
     "rate_type": "sales",
-    "effective_date": "2025-04-01",
+    "effective_date": "2026-10-01",
     "source_url": "https://data.ca.gov/dataset/cdtfa-salesandusetaxrates-public",
-    "retrieved_at": "2026-05-18"
+    "retrieved_at": "2026-10-01"
   },
   {
     "state": "CA",
@@ -16936,12 +16900,12 @@
     "jurisdiction_type": "special_district",
     "name": "Lomita (CDTFA tax area)",
     "fips_code": null,
-    "rate": 0.0325,
-    "source_key": "CA-TAC-19083B870000",
+    "rate": 0.0375,
+    "source_key": "CA-TAC-19083D700000",
     "rate_type": "sales",
-    "effective_date": "2025-04-01",
+    "effective_date": "2026-10-01",
     "source_url": "https://data.ca.gov/dataset/cdtfa-salesandusetaxrates-public",
-    "retrieved_at": "2026-05-18"
+    "retrieved_at": "2026-10-01"
   },
   {
     "state": "CA",
@@ -16960,12 +16924,12 @@
     "jurisdiction_type": "special_district",
     "name": "Long Beach (CDTFA tax area)",
     "fips_code": null,
-    "rate": 0.0325,
-    "source_key": "CA-TAC-19060B880000",
+    "rate": 0.0375,
+    "source_key": "CA-TAC-19060D710000",
     "rate_type": "sales",
-    "effective_date": "2025-04-01",
+    "effective_date": "2026-10-01",
     "source_url": "https://data.ca.gov/dataset/cdtfa-salesandusetaxrates-public",
-    "retrieved_at": "2026-05-18"
+    "retrieved_at": "2026-10-01"
   },
   {
     "state": "CA",
@@ -17020,12 +16984,12 @@
     "jurisdiction_type": "special_district",
     "name": "Los Angeles (CDTFA tax area)",
     "fips_code": null,
-    "rate": 0.025,
-    "source_key": "CA-TAC-19050B470000",
+    "rate": 0.03,
+    "source_key": "CA-TAC-19050D290000",
     "rate_type": "sales",
-    "effective_date": "2025-04-01",
+    "effective_date": "2026-10-01",
     "source_url": "https://data.ca.gov/dataset/cdtfa-salesandusetaxrates-public",
-    "retrieved_at": "2026-05-18"
+    "retrieved_at": "2026-10-01"
   },
   {
     "state": "CA",
@@ -17068,12 +17032,12 @@
     "jurisdiction_type": "special_district",
     "name": "Lynwood (CDTFA tax area)",
     "fips_code": null,
-    "rate": 0.035,
-    "source_key": "CA-TAC-19021B890000",
+    "rate": 0.04,
+    "source_key": "CA-TAC-19021D720000",
     "rate_type": "sales",
-    "effective_date": "2025-04-01",
+    "effective_date": "2026-10-01",
     "source_url": "https://data.ca.gov/dataset/cdtfa-salesandusetaxrates-public",
-    "retrieved_at": "2026-05-18"
+    "retrieved_at": "2026-10-01"
   },
   {
     "state": "CA",
@@ -17092,12 +17056,12 @@
     "jurisdiction_type": "special_district",
     "name": "Malibu (CDTFA tax area)",
     "fips_code": null,
-    "rate": 0.03,
-    "source_key": "CA-TAC-19053B900000",
+    "rate": 0.035,
+    "source_key": "CA-TAC-19053D730000",
     "rate_type": "sales",
-    "effective_date": "2025-04-01",
+    "effective_date": "2026-10-01",
     "source_url": "https://data.ca.gov/dataset/cdtfa-salesandusetaxrates-public",
-    "retrieved_at": "2026-05-18"
+    "retrieved_at": "2026-10-01"
   },
   {
     "state": "CA",
@@ -17116,12 +17080,12 @@
     "jurisdiction_type": "special_district",
     "name": "Manhattan Beach (CDTFA tax area)",
     "fips_code": null,
-    "rate": 0.03,
-    "source_key": "CA-TAC-19022B920000",
+    "rate": 0.035,
+    "source_key": "CA-TAC-19022D740000",
     "rate_type": "sales",
-    "effective_date": "2025-04-01",
+    "effective_date": "2026-10-01",
     "source_url": "https://data.ca.gov/dataset/cdtfa-salesandusetaxrates-public",
-    "retrieved_at": "2026-05-18"
+    "retrieved_at": "2026-10-01"
   },
   {
     "state": "CA",
@@ -17188,12 +17152,12 @@
     "jurisdiction_type": "special_district",
     "name": "Maywood (CDTFA tax area)",
     "fips_code": null,
-    "rate": 0.025,
-    "source_key": "CA-TAC-19023B470000",
+    "rate": 0.03,
+    "source_key": "CA-TAC-19023D290000",
     "rate_type": "sales",
-    "effective_date": "2025-04-01",
+    "effective_date": "2026-10-01",
     "source_url": "https://data.ca.gov/dataset/cdtfa-salesandusetaxrates-public",
-    "retrieved_at": "2026-05-18"
+    "retrieved_at": "2026-10-01"
   },
   {
     "state": "CA",
@@ -17320,12 +17284,12 @@
     "jurisdiction_type": "special_district",
     "name": "Monrovia (CDTFA tax area)",
     "fips_code": null,
-    "rate": 0.0325,
-    "source_key": "CA-TAC-19024B930000",
+    "rate": 0.0375,
+    "source_key": "CA-TAC-19024D750000",
     "rate_type": "sales",
-    "effective_date": "2025-04-01",
+    "effective_date": "2026-10-01",
     "source_url": "https://data.ca.gov/dataset/cdtfa-salesandusetaxrates-public",
-    "retrieved_at": "2026-05-18"
+    "retrieved_at": "2026-10-01"
   },
   {
     "state": "CA",
@@ -17368,12 +17332,12 @@
     "jurisdiction_type": "special_district",
     "name": "Montebello (CDTFA tax area)",
     "fips_code": null,
-    "rate": 0.0325,
-    "source_key": "CA-TAC-19025B940000",
+    "rate": 0.0375,
+    "source_key": "CA-TAC-19025D760000",
     "rate_type": "sales",
-    "effective_date": "2025-04-01",
+    "effective_date": "2026-10-01",
     "source_url": "https://data.ca.gov/dataset/cdtfa-salesandusetaxrates-public",
-    "retrieved_at": "2026-05-18"
+    "retrieved_at": "2026-10-01"
   },
   {
     "state": "CA",
@@ -17392,12 +17356,12 @@
     "jurisdiction_type": "special_district",
     "name": "Monterey Park (CDTFA tax area)",
     "fips_code": null,
-    "rate": 0.0325,
-    "source_key": "CA-TAC-19026B950000",
+    "rate": 0.0375,
+    "source_key": "CA-TAC-19026D770000",
     "rate_type": "sales",
-    "effective_date": "2025-04-01",
+    "effective_date": "2026-10-01",
     "source_url": "https://data.ca.gov/dataset/cdtfa-salesandusetaxrates-public",
-    "retrieved_at": "2026-05-18"
+    "retrieved_at": "2026-10-01"
   },
   {
     "state": "CA",
@@ -17620,12 +17584,12 @@
     "jurisdiction_type": "special_district",
     "name": "Norwalk (CDTFA tax area)",
     "fips_code": null,
-    "rate": 0.0325,
-    "source_key": "CA-TAC-19066B960000",
+    "rate": 0.0375,
+    "source_key": "CA-TAC-19066D780000",
     "rate_type": "sales",
-    "effective_date": "2025-04-01",
+    "effective_date": "2026-10-01",
     "source_url": "https://data.ca.gov/dataset/cdtfa-salesandusetaxrates-public",
-    "retrieved_at": "2026-05-18"
+    "retrieved_at": "2026-10-01"
   },
   {
     "state": "CA",
@@ -17836,12 +17800,12 @@
     "jurisdiction_type": "special_district",
     "name": "Palmdale (CDTFA tax area)",
     "fips_code": null,
-    "rate": 0.04,
-    "source_key": "CA-TAC-19094B980000",
+    "rate": 0.045,
+    "source_key": "CA-TAC-19094D790000",
     "rate_type": "sales",
-    "effective_date": "2025-04-01",
+    "effective_date": "2026-10-01",
     "source_url": "https://data.ca.gov/dataset/cdtfa-salesandusetaxrates-public",
-    "retrieved_at": "2026-05-18"
+    "retrieved_at": "2026-10-01"
   },
   {
     "state": "CA",
@@ -17860,12 +17824,12 @@
     "jurisdiction_type": "special_district",
     "name": "Palos Verdes Estates (CDTFA tax area)",
     "fips_code": null,
-    "rate": 0.025,
-    "source_key": "CA-TAC-19027B470000",
+    "rate": 0.03,
+    "source_key": "CA-TAC-19027D290000",
     "rate_type": "sales",
-    "effective_date": "2025-04-01",
+    "effective_date": "2026-10-01",
     "source_url": "https://data.ca.gov/dataset/cdtfa-salesandusetaxrates-public",
-    "retrieved_at": "2026-05-18"
+    "retrieved_at": "2026-10-01"
   },
   {
     "state": "CA",
@@ -17884,12 +17848,12 @@
     "jurisdiction_type": "special_district",
     "name": "Paramount (CDTFA tax area)",
     "fips_code": null,
-    "rate": 0.0325,
-    "source_key": "CA-TAC-19048B990000",
+    "rate": 0.0375,
+    "source_key": "CA-TAC-19048D800000",
     "rate_type": "sales",
-    "effective_date": "2025-04-01",
+    "effective_date": "2026-10-01",
     "source_url": "https://data.ca.gov/dataset/cdtfa-salesandusetaxrates-public",
-    "retrieved_at": "2026-05-18"
+    "retrieved_at": "2026-10-01"
   },
   {
     "state": "CA",
@@ -17908,24 +17872,24 @@
     "jurisdiction_type": "special_district",
     "name": "Pasadena (CDTFA tax area)",
     "fips_code": null,
-    "rate": 0.0325,
-    "source_key": "CA-TAC-19080C010000",
+    "rate": 0.0375,
+    "source_key": "CA-TAC-19080D810000",
     "rate_type": "sales",
-    "effective_date": "2025-04-01",
+    "effective_date": "2026-10-01",
     "source_url": "https://data.ca.gov/dataset/cdtfa-salesandusetaxrates-public",
-    "retrieved_at": "2026-05-18"
+    "retrieved_at": "2026-10-01"
   },
   {
     "state": "CA",
     "jurisdiction_type": "special_district",
     "name": "Pasadena (CDTFA tax area)",
     "fips_code": null,
-    "rate": 0.0325,
-    "source_key": "CA-TAC-19080C010038",
+    "rate": 0.0375,
+    "source_key": "CA-TAC-19080D810038",
     "rate_type": "sales",
-    "effective_date": "2025-04-01",
+    "effective_date": "2026-10-01",
     "source_url": "https://data.ca.gov/dataset/cdtfa-salesandusetaxrates-public",
-    "retrieved_at": "2026-05-18"
+    "retrieved_at": "2026-10-01"
   },
   {
     "state": "CA",
@@ -17956,36 +17920,36 @@
     "jurisdiction_type": "special_district",
     "name": "Perris (CDTFA tax area)",
     "fips_code": null,
-    "rate": 0.005,
-    "source_key": "CA-TAC-330480260000",
+    "rate": 0.015,
+    "source_key": "CA-TAC-33048E030000",
     "rate_type": "sales",
-    "effective_date": "2005-01-01",
+    "effective_date": "2026-10-01",
     "source_url": "https://data.ca.gov/dataset/cdtfa-salesandusetaxrates-public",
-    "retrieved_at": "2026-05-18"
+    "retrieved_at": "2026-10-01"
   },
   {
     "state": "CA",
     "jurisdiction_type": "special_district",
     "name": "Perris (CDTFA tax area)",
     "fips_code": null,
-    "rate": 0.005,
-    "source_key": "CA-TAC-330480260040",
+    "rate": 0.015,
+    "source_key": "CA-TAC-33048E030040",
     "rate_type": "sales",
-    "effective_date": "2005-01-01",
+    "effective_date": "2026-10-01",
     "source_url": "https://data.ca.gov/dataset/cdtfa-salesandusetaxrates-public",
-    "retrieved_at": "2026-05-18"
+    "retrieved_at": "2026-10-01"
   },
   {
     "state": "CA",
     "jurisdiction_type": "special_district",
     "name": "Perris (CDTFA tax area)",
     "fips_code": null,
-    "rate": 0.005,
-    "source_key": "CA-TAC-330480260049",
+    "rate": 0.015,
+    "source_key": "CA-TAC-33048E030049",
     "rate_type": "sales",
-    "effective_date": "2005-01-01",
+    "effective_date": "2026-10-01",
     "source_url": "https://data.ca.gov/dataset/cdtfa-salesandusetaxrates-public",
-    "retrieved_at": "2026-05-18"
+    "retrieved_at": "2026-10-01"
   },
   {
     "state": "CA",
@@ -18004,24 +17968,24 @@
     "jurisdiction_type": "special_district",
     "name": "Pico Rivera (CDTFA tax area)",
     "fips_code": null,
-    "rate": 0.035,
-    "source_key": "CA-TAC-19068C020000",
+    "rate": 0.04,
+    "source_key": "CA-TAC-19068D820000",
     "rate_type": "sales",
-    "effective_date": "2025-04-01",
+    "effective_date": "2026-10-01",
     "source_url": "https://data.ca.gov/dataset/cdtfa-salesandusetaxrates-public",
-    "retrieved_at": "2026-05-18"
+    "retrieved_at": "2026-10-01"
   },
   {
     "state": "CA",
     "jurisdiction_type": "special_district",
     "name": "Pico Rivera (CDTFA tax area)",
     "fips_code": null,
-    "rate": 0.035,
-    "source_key": "CA-TAC-19068C020023",
+    "rate": 0.04,
+    "source_key": "CA-TAC-19068D820023",
     "rate_type": "sales",
-    "effective_date": "2025-04-01",
+    "effective_date": "2026-10-01",
     "source_url": "https://data.ca.gov/dataset/cdtfa-salesandusetaxrates-public",
-    "retrieved_at": "2026-05-18"
+    "retrieved_at": "2026-10-01"
   },
   {
     "state": "CA",
@@ -18148,12 +18112,12 @@
     "jurisdiction_type": "special_district",
     "name": "Pomona (CDTFA tax area)",
     "fips_code": null,
-    "rate": 0.0325,
-    "source_key": "CA-TAC-19028C030000",
+    "rate": 0.0375,
+    "source_key": "CA-TAC-19028D830000",
     "rate_type": "sales",
-    "effective_date": "2025-04-01",
+    "effective_date": "2026-10-01",
     "source_url": "https://data.ca.gov/dataset/cdtfa-salesandusetaxrates-public",
-    "retrieved_at": "2026-05-18"
+    "retrieved_at": "2026-10-01"
   },
   {
     "state": "CA",
@@ -18256,12 +18220,12 @@
     "jurisdiction_type": "special_district",
     "name": "Rancho Palos Verdes (CDTFA tax area)",
     "fips_code": null,
-    "rate": 0.025,
-    "source_key": "CA-TAC-19085B470000",
+    "rate": 0.03,
+    "source_key": "CA-TAC-19085D290000",
     "rate_type": "sales",
-    "effective_date": "2025-04-01",
+    "effective_date": "2026-10-01",
     "source_url": "https://data.ca.gov/dataset/cdtfa-salesandusetaxrates-public",
-    "retrieved_at": "2026-05-18"
+    "retrieved_at": "2026-10-01"
   },
   {
     "state": "CA",
@@ -18280,12 +18244,12 @@
     "jurisdiction_type": "special_district",
     "name": "Red Bluff (CDTFA tax area)",
     "fips_code": null,
-    "rate": 0.0025,
-    "source_key": "CA-TAC-520404240000",
+    "rate": 0.0125,
+    "source_key": "CA-TAC-52040E050000",
     "rate_type": "sales",
-    "effective_date": "2015-04-01",
+    "effective_date": "2026-10-01",
     "source_url": "https://data.ca.gov/dataset/cdtfa-salesandusetaxrates-public",
-    "retrieved_at": "2026-05-18"
+    "retrieved_at": "2026-10-01"
   },
   {
     "state": "CA",
@@ -18316,12 +18280,12 @@
     "jurisdiction_type": "special_district",
     "name": "Redondo Beach (CDTFA tax area)",
     "fips_code": null,
-    "rate": 0.025,
-    "source_key": "CA-TAC-19029B470000",
+    "rate": 0.03,
+    "source_key": "CA-TAC-19029D290000",
     "rate_type": "sales",
-    "effective_date": "2025-04-01",
+    "effective_date": "2026-10-01",
     "source_url": "https://data.ca.gov/dataset/cdtfa-salesandusetaxrates-public",
-    "retrieved_at": "2026-05-18"
+    "retrieved_at": "2026-10-01"
   },
   {
     "state": "CA",
@@ -18472,36 +18436,36 @@
     "jurisdiction_type": "special_district",
     "name": "Rolling Hills (CDTFA tax area)",
     "fips_code": null,
-    "rate": 0.025,
-    "source_key": "CA-TAC-19047B470000",
+    "rate": 0.03,
+    "source_key": "CA-TAC-19047D290000",
     "rate_type": "sales",
-    "effective_date": "2025-04-01",
+    "effective_date": "2026-10-01",
     "source_url": "https://data.ca.gov/dataset/cdtfa-salesandusetaxrates-public",
-    "retrieved_at": "2026-05-18"
+    "retrieved_at": "2026-10-01"
   },
   {
     "state": "CA",
     "jurisdiction_type": "special_district",
     "name": "Rolling Hills Estates (CDTFA tax area)",
     "fips_code": null,
-    "rate": 0.025,
-    "source_key": "CA-TAC-19067B470000",
+    "rate": 0.03,
+    "source_key": "CA-TAC-19067D290000",
     "rate_type": "sales",
-    "effective_date": "2025-04-01",
+    "effective_date": "2026-10-01",
     "source_url": "https://data.ca.gov/dataset/cdtfa-salesandusetaxrates-public",
-    "retrieved_at": "2026-05-18"
+    "retrieved_at": "2026-10-01"
   },
   {
     "state": "CA",
     "jurisdiction_type": "special_district",
     "name": "Rosemead (CDTFA tax area)",
     "fips_code": null,
-    "rate": 0.025,
-    "source_key": "CA-TAC-19073B470000",
+    "rate": 0.03,
+    "source_key": "CA-TAC-19073D290000",
     "rate_type": "sales",
-    "effective_date": "2025-04-01",
+    "effective_date": "2026-10-01",
     "source_url": "https://data.ca.gov/dataset/cdtfa-salesandusetaxrates-public",
-    "retrieved_at": "2026-05-18"
+    "retrieved_at": "2026-10-01"
   },
   {
     "state": "CA",
@@ -18628,24 +18592,24 @@
     "jurisdiction_type": "special_district",
     "name": "San Dimas (CDTFA tax area)",
     "fips_code": null,
-    "rate": 0.025,
-    "source_key": "CA-TAC-19078B470000",
+    "rate": 0.03,
+    "source_key": "CA-TAC-19078D290000",
     "rate_type": "sales",
-    "effective_date": "2025-04-01",
+    "effective_date": "2026-10-01",
     "source_url": "https://data.ca.gov/dataset/cdtfa-salesandusetaxrates-public",
-    "retrieved_at": "2026-05-18"
+    "retrieved_at": "2026-10-01"
   },
   {
     "state": "CA",
     "jurisdiction_type": "special_district",
     "name": "San Fernando (CDTFA tax area)",
     "fips_code": null,
-    "rate": 0.0325,
-    "source_key": "CA-TAC-19030C040000",
+    "rate": 0.0375,
+    "source_key": "CA-TAC-19030D840000",
     "rate_type": "sales",
-    "effective_date": "2025-04-01",
+    "effective_date": "2026-10-01",
     "source_url": "https://data.ca.gov/dataset/cdtfa-salesandusetaxrates-public",
-    "retrieved_at": "2026-05-18"
+    "retrieved_at": "2026-10-01"
   },
   {
     "state": "CA",
@@ -18664,12 +18628,12 @@
     "jurisdiction_type": "special_district",
     "name": "San Gabriel (CDTFA tax area)",
     "fips_code": null,
-    "rate": 0.0325,
-    "source_key": "CA-TAC-19031C050000",
+    "rate": 0.0375,
+    "source_key": "CA-TAC-19031D850000",
     "rate_type": "sales",
-    "effective_date": "2025-04-01",
+    "effective_date": "2026-10-01",
     "source_url": "https://data.ca.gov/dataset/cdtfa-salesandusetaxrates-public",
-    "retrieved_at": "2026-05-18"
+    "retrieved_at": "2026-10-01"
   },
   {
     "state": "CA",
@@ -18772,12 +18736,12 @@
     "jurisdiction_type": "special_district",
     "name": "San Marino (CDTFA tax area)",
     "fips_code": null,
-    "rate": 0.025,
-    "source_key": "CA-TAC-19032B470000",
+    "rate": 0.04,
+    "source_key": "CA-TAC-19032D870000",
     "rate_type": "sales",
-    "effective_date": "2025-04-01",
+    "effective_date": "2026-10-01",
     "source_url": "https://data.ca.gov/dataset/cdtfa-salesandusetaxrates-public",
-    "retrieved_at": "2026-05-18"
+    "retrieved_at": "2026-10-01"
   },
   {
     "state": "CA",
@@ -18892,12 +18856,12 @@
     "jurisdiction_type": "special_district",
     "name": "Santa Clarita (CDTFA tax area)",
     "fips_code": null,
-    "rate": 0.025,
-    "source_key": "CA-TAC-19101B470000",
+    "rate": 0.03,
+    "source_key": "CA-TAC-19101D290000",
     "rate_type": "sales",
-    "effective_date": "2025-04-01",
+    "effective_date": "2026-10-01",
     "source_url": "https://data.ca.gov/dataset/cdtfa-salesandusetaxrates-public",
-    "retrieved_at": "2026-05-18"
+    "retrieved_at": "2026-10-01"
   },
   {
     "state": "CA",
@@ -18916,12 +18880,12 @@
     "jurisdiction_type": "special_district",
     "name": "Santa Fe Springs (CDTFA tax area)",
     "fips_code": null,
-    "rate": 0.0375,
-    "source_key": "CA-TAC-19049D200000",
+    "rate": 0.0425,
+    "source_key": "CA-TAC-19049D880000",
     "rate_type": "sales",
-    "effective_date": "2026-04-01",
+    "effective_date": "2026-10-01",
     "source_url": "https://data.ca.gov/dataset/cdtfa-salesandusetaxrates-public",
-    "retrieved_at": "2026-05-18"
+    "retrieved_at": "2026-10-01"
   },
   {
     "state": "CA",
@@ -18940,12 +18904,12 @@
     "jurisdiction_type": "special_district",
     "name": "Santa Monica (CDTFA tax area)",
     "fips_code": null,
-    "rate": 0.035,
-    "source_key": "CA-TAC-19033C070000",
+    "rate": 0.04,
+    "source_key": "CA-TAC-19033D890000",
     "rate_type": "sales",
-    "effective_date": "2025-04-01",
+    "effective_date": "2026-10-01",
     "source_url": "https://data.ca.gov/dataset/cdtfa-salesandusetaxrates-public",
-    "retrieved_at": "2026-05-18"
+    "retrieved_at": "2026-10-01"
   },
   {
     "state": "CA",
@@ -19096,24 +19060,24 @@
     "jurisdiction_type": "special_district",
     "name": "Sierra Madre (CDTFA tax area)",
     "fips_code": null,
-    "rate": 0.0325,
-    "source_key": "CA-TAC-19034C080000",
+    "rate": 0.0375,
+    "source_key": "CA-TAC-19034D900000",
     "rate_type": "sales",
-    "effective_date": "2025-04-01",
+    "effective_date": "2026-10-01",
     "source_url": "https://data.ca.gov/dataset/cdtfa-salesandusetaxrates-public",
-    "retrieved_at": "2026-05-18"
+    "retrieved_at": "2026-10-01"
   },
   {
     "state": "CA",
     "jurisdiction_type": "special_district",
     "name": "Signal Hill (CDTFA tax area)",
     "fips_code": null,
-    "rate": 0.0325,
-    "source_key": "CA-TAC-19035C090000",
+    "rate": 0.0375,
+    "source_key": "CA-TAC-19035D910000",
     "rate_type": "sales",
-    "effective_date": "2025-04-01",
+    "effective_date": "2026-10-01",
     "source_url": "https://data.ca.gov/dataset/cdtfa-salesandusetaxrates-public",
-    "retrieved_at": "2026-05-18"
+    "retrieved_at": "2026-10-01"
   },
   {
     "state": "CA",
@@ -19192,24 +19156,24 @@
     "jurisdiction_type": "special_district",
     "name": "South El Monte (CDTFA tax area)",
     "fips_code": null,
-    "rate": 0.035,
-    "source_key": "CA-TAC-19069C110000",
+    "rate": 0.04,
+    "source_key": "CA-TAC-19069D920000",
     "rate_type": "sales",
-    "effective_date": "2025-04-01",
+    "effective_date": "2026-10-01",
     "source_url": "https://data.ca.gov/dataset/cdtfa-salesandusetaxrates-public",
-    "retrieved_at": "2026-05-18"
+    "retrieved_at": "2026-10-01"
   },
   {
     "state": "CA",
     "jurisdiction_type": "special_district",
     "name": "South Gate (CDTFA tax area)",
     "fips_code": null,
-    "rate": 0.035,
-    "source_key": "CA-TAC-19036C120000",
+    "rate": 0.04,
+    "source_key": "CA-TAC-19036D930000",
     "rate_type": "sales",
-    "effective_date": "2025-04-01",
+    "effective_date": "2026-10-01",
     "source_url": "https://data.ca.gov/dataset/cdtfa-salesandusetaxrates-public",
-    "retrieved_at": "2026-05-18"
+    "retrieved_at": "2026-10-01"
   },
   {
     "state": "CA",
@@ -19228,12 +19192,12 @@
     "jurisdiction_type": "special_district",
     "name": "South Pasadena (CDTFA tax area)",
     "fips_code": null,
-    "rate": 0.0325,
-    "source_key": "CA-TAC-19037C130000",
+    "rate": 0.0375,
+    "source_key": "CA-TAC-19037D940000",
     "rate_type": "sales",
-    "effective_date": "2025-04-01",
+    "effective_date": "2026-10-01",
     "source_url": "https://data.ca.gov/dataset/cdtfa-salesandusetaxrates-public",
-    "retrieved_at": "2026-05-18"
+    "retrieved_at": "2026-10-01"
   },
   {
     "state": "CA",
@@ -19384,12 +19348,12 @@
     "jurisdiction_type": "special_district",
     "name": "Temple City (CDTFA tax area)",
     "fips_code": null,
-    "rate": 0.025,
-    "source_key": "CA-TAC-19077B470000",
+    "rate": 0.0375,
+    "source_key": "CA-TAC-19077D960000",
     "rate_type": "sales",
-    "effective_date": "2025-04-01",
+    "effective_date": "2026-10-01",
     "source_url": "https://data.ca.gov/dataset/cdtfa-salesandusetaxrates-public",
-    "retrieved_at": "2026-05-18"
+    "retrieved_at": "2026-10-01"
   },
   {
     "state": "CA",
@@ -19420,24 +19384,24 @@
     "jurisdiction_type": "special_district",
     "name": "Torrance (CDTFA tax area)",
     "fips_code": null,
-    "rate": 0.03,
-    "source_key": "CA-TAC-19038C140000",
+    "rate": 0.035,
+    "source_key": "CA-TAC-19038D970000",
     "rate_type": "sales",
-    "effective_date": "2025-04-01",
+    "effective_date": "2026-10-01",
     "source_url": "https://data.ca.gov/dataset/cdtfa-salesandusetaxrates-public",
-    "retrieved_at": "2026-05-18"
+    "retrieved_at": "2026-10-01"
   },
   {
     "state": "CA",
     "jurisdiction_type": "special_district",
     "name": "Torrance (CDTFA tax area)",
     "fips_code": null,
-    "rate": 0.03,
-    "source_key": "CA-TAC-19038C140010",
+    "rate": 0.035,
+    "source_key": "CA-TAC-19038D970010",
     "rate_type": "sales",
-    "effective_date": "2025-04-01",
+    "effective_date": "2026-10-01",
     "source_url": "https://data.ca.gov/dataset/cdtfa-salesandusetaxrates-public",
-    "retrieved_at": "2026-05-18"
+    "retrieved_at": "2026-10-01"
   },
   {
     "state": "CA",
@@ -19768,12 +19732,12 @@
     "jurisdiction_type": "special_district",
     "name": "Unincorporated (CDTFA tax area)",
     "fips_code": null,
-    "rate": 0.025,
-    "source_key": "CA-TAC-19998B470000",
+    "rate": 0.03,
+    "source_key": "CA-TAC-19998D290000",
     "rate_type": "sales",
-    "effective_date": "2025-04-01",
+    "effective_date": "2026-10-01",
     "source_url": "https://data.ca.gov/dataset/cdtfa-salesandusetaxrates-public",
-    "retrieved_at": "2026-05-18"
+    "retrieved_at": "2026-10-01"
   },
   {
     "state": "CA",
@@ -20296,12 +20260,12 @@
     "jurisdiction_type": "special_district",
     "name": "Vernon (CDTFA tax area)",
     "fips_code": null,
-    "rate": 0.0325,
-    "source_key": "CA-TAC-19039C150000",
+    "rate": 0.0375,
+    "source_key": "CA-TAC-19039D980000",
     "rate_type": "sales",
-    "effective_date": "2025-04-01",
+    "effective_date": "2026-10-01",
     "source_url": "https://data.ca.gov/dataset/cdtfa-salesandusetaxrates-public",
-    "retrieved_at": "2026-05-18"
+    "retrieved_at": "2026-10-01"
   },
   {
     "state": "CA",
@@ -20356,12 +20320,12 @@
     "jurisdiction_type": "special_district",
     "name": "Walnut (CDTFA tax area)",
     "fips_code": null,
-    "rate": 0.025,
-    "source_key": "CA-TAC-19071B470000",
+    "rate": 0.03,
+    "source_key": "CA-TAC-19071D290000",
     "rate_type": "sales",
-    "effective_date": "2025-04-01",
+    "effective_date": "2026-10-01",
     "source_url": "https://data.ca.gov/dataset/cdtfa-salesandusetaxrates-public",
-    "retrieved_at": "2026-05-18"
+    "retrieved_at": "2026-10-01"
   },
   {
     "state": "CA",
@@ -20428,24 +20392,24 @@
     "jurisdiction_type": "special_district",
     "name": "West Covina (CDTFA tax area)",
     "fips_code": null,
-    "rate": 0.025,
-    "source_key": "CA-TAC-19040B470000",
+    "rate": 0.03,
+    "source_key": "CA-TAC-19040D290000",
     "rate_type": "sales",
-    "effective_date": "2025-04-01",
+    "effective_date": "2026-10-01",
     "source_url": "https://data.ca.gov/dataset/cdtfa-salesandusetaxrates-public",
-    "retrieved_at": "2026-05-18"
+    "retrieved_at": "2026-10-01"
   },
   {
     "state": "CA",
     "jurisdiction_type": "special_district",
     "name": "West Hollywood (CDTFA tax area)",
     "fips_code": null,
-    "rate": 0.0325,
-    "source_key": "CA-TAC-19054C160000",
+    "rate": 0.0375,
+    "source_key": "CA-TAC-19054D990000",
     "rate_type": "sales",
-    "effective_date": "2025-04-01",
+    "effective_date": "2026-10-01",
     "source_url": "https://data.ca.gov/dataset/cdtfa-salesandusetaxrates-public",
-    "retrieved_at": "2026-05-18"
+    "retrieved_at": "2026-10-01"
   },
   {
     "state": "CA",
@@ -20464,12 +20428,12 @@
     "jurisdiction_type": "special_district",
     "name": "Westlake Village (CDTFA tax area)",
     "fips_code": null,
-    "rate": 0.025,
-    "source_key": "CA-TAC-19088B470000",
+    "rate": 0.03,
+    "source_key": "CA-TAC-19088D290000",
     "rate_type": "sales",
-    "effective_date": "2025-04-01",
+    "effective_date": "2026-10-01",
     "source_url": "https://data.ca.gov/dataset/cdtfa-salesandusetaxrates-public",
-    "retrieved_at": "2026-05-18"
+    "retrieved_at": "2026-10-01"
   },
   {
     "state": "CA",
@@ -20512,12 +20476,12 @@
     "jurisdiction_type": "special_district",
     "name": "Whittier (CDTFA tax area)",
     "fips_code": null,
-    "rate": 0.0325,
-    "source_key": "CA-TAC-19041C170000",
+    "rate": 0.0375,
+    "source_key": "CA-TAC-19041E010000",
     "rate_type": "sales",
-    "effective_date": "2025-04-01",
+    "effective_date": "2026-10-01",
     "source_url": "https://data.ca.gov/dataset/cdtfa-salesandusetaxrates-public",
-    "retrieved_at": "2026-05-18"
+    "retrieved_at": "2026-10-01"
   },
   {
     "state": "CA",
