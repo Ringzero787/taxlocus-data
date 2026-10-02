@@ -11658,7 +11658,7 @@
     "courtesy_withholding": false,
     "citation_url": "https://ccatax.ci.cleveland.oh.us/tax-rates",
     "notes": "CCA-administered (Central Collection Agency, City of Cleveland). Resident credit for tax paid to other OH cities: factor=*, max rate=0.50%. OH municipal income tax is a workplace tax — anyone earning income in the city owes the rate regardless of residence. Annual return required: Yes.",
-    "as_of": "2026-10-01",
+    "as_of": "2026-10-02",
     "source": "oh_cca"
   },
   {
