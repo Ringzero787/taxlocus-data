@@ -2404,12 +2404,12 @@
     "jurisdiction_type": "city",
     "name": "Dadeville",
     "fips_code": null,
-    "rate": 0.035,
+    "rate": 0.04,
     "source_key": "AL-P-dadeville",
     "rate_type": "sales",
-    "effective_date": "2026-05-18",
+    "effective_date": "2026-10-01",
     "source_url": "https://www.revenue.alabama.gov/wp-content/uploads/2024/03/taxrates_current.csv",
-    "retrieved_at": "2026-05-18"
+    "retrieved_at": "2026-10-06"
   },
   {
     "state": "AL",
@@ -5008,12 +5008,12 @@
     "jurisdiction_type": "city",
     "name": "Pike Road",
     "fips_code": null,
-    "rate": 0.0225,
+    "rate": 0.035,
     "source_key": "AL-P-pikeroad",
     "rate_type": "sales",
-    "effective_date": "2026-05-18",
+    "effective_date": "2026-10-01",
     "source_url": "https://www.revenue.alabama.gov/wp-content/uploads/2024/03/taxrates_current.csv",
-    "retrieved_at": "2026-05-18"
+    "retrieved_at": "2026-10-06"
   },
   {
     "state": "AL",
@@ -5500,12 +5500,12 @@
     "jurisdiction_type": "city",
     "name": "Semmes",
     "fips_code": null,
-    "rate": 0.04,
+    "rate": 0.045,
     "source_key": "AL-P-semmes",
     "rate_type": "sales",
-    "effective_date": "2026-05-18",
+    "effective_date": "2026-10-01",
     "source_url": "https://www.revenue.alabama.gov/wp-content/uploads/2024/03/taxrates_current.csv",
-    "retrieved_at": "2026-05-18"
+    "retrieved_at": "2026-10-06"
   },
   {
     "state": "AL",
