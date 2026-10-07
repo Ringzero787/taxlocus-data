@@ -11504,7 +11504,7 @@
     "courtesy_withholding": false,
     "citation_url": "https://ccatax.ci.cleveland.oh.us/tax-rates",
     "notes": "CCA-administered (Central Collection Agency, City of Cleveland). Resident credit for tax paid to other OH cities: factor=0%, max rate=0%. OH municipal income tax is a workplace tax — anyone earning income in the city owes the rate regardless of residence. Annual return required: Yes.",
-    "as_of": "2026-10-06",
+    "as_of": "2026-10-07",
     "source": "oh_cca"
   },
   {
@@ -11672,7 +11672,7 @@
     "courtesy_withholding": false,
     "citation_url": "https://ccatax.ci.cleveland.oh.us/tax-rates",
     "notes": "CCA-administered (Central Collection Agency, City of Cleveland). Resident credit for tax paid to other OH cities: factor=*, max rate=0.50%. OH municipal income tax is a workplace tax — anyone earning income in the city owes the rate regardless of residence. Annual return required: Yes.",
-    "as_of": "2026-10-06",
+    "as_of": "2026-10-07",
     "source": "oh_cca"
   },
   {
@@ -11838,10 +11838,10 @@
     "resident_rate": 0.01,
     "non_resident_rate": 0.01,
     "courtesy_withholding": false,
-    "citation_url": "https://tax.ohio.gov/wps/portal/gov/tax/business/ohio-business-taxes/municipal-tax",
-    "notes": "Ohio Department of Taxation municipal income tax rate table dated 3/7/2025 — the latest edition Ohio has published (MUNI code 8312, rate effective 1/1/2003). Ohio municipal income tax is a workplace tax — the same rate applies regardless of residence; residents who work in another OH city may claim a credit per their resident city's rules.",
-    "as_of": "2025-03-07",
-    "source": "oh_dor"
+    "citation_url": "https://ritaohio.com/TaxRatesTable",
+    "notes": "RITA-administered (Regional Income Tax Agency; RITA member code 759). Resident credit for tax paid to other Ohio cities: factor=50.000%, max rate=1.000%. Ohio municipal income tax is a workplace tax — anyone earning income in the city owes the same rate regardless of residence.",
+    "as_of": "2026-10-07",
+    "source": "oh_rita"
   },
   {
     "year": 2026,
