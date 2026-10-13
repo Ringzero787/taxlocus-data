@@ -342,13 +342,13 @@
       "rows": 102
     },
     "payroll_local_income_tax.csv": {
-      "sha256": "5728c10feb59c2f4f3f0f5a14404b3117ca0ddfa4db7d6bd7373bceed74cfa4b",
-      "bytes": 1479805,
+      "sha256": "c3941ed3f7999dc1b8138245bc4a050c3bd1efb6cd9117dd695c358aa95f1503",
+      "bytes": 1479803,
       "rows": 3662
     },
     "payroll_local_income_tax.json": {
-      "sha256": "aee8fecd733dd40d89de705a418a46919661cd8f0d6dd62327fcec13bbb01162",
-      "bytes": 2413907,
+      "sha256": "a937ec3a166ca74be4d07b7e2f6a43b62ce808475c6d00c85c3279e29c365b70",
+      "bytes": 2413905,
       "rows": 3662
     },
     "payroll_reciprocity.csv": {
