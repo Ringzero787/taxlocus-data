@@ -3,22 +3,22 @@
     "state": "AL",
     "rate": 0.04,
     "effective_date": "2024-01-01",
-    "source_url": null,
-    "retrieved_at": "2026-05-18"
+    "source_url": "https://www.revenue.alabama.gov/sales-use/state-sales-use-tax-rates/",
+    "retrieved_at": "2026-10-22"
   },
   {
     "state": "AR",
     "rate": 0.065,
     "effective_date": "2024-01-01",
-    "source_url": null,
-    "retrieved_at": "2026-05-18"
+    "source_url": "https://www.dfa.arkansas.gov/excise-tax/sales-and-use-tax/",
+    "retrieved_at": "2026-10-22"
   },
   {
     "state": "AZ",
     "rate": 0.056,
     "effective_date": "2024-01-01",
-    "source_url": null,
-    "retrieved_at": "2026-05-18"
+    "source_url": "https://azdor.gov/individuals/income-tax-filing-assistance/understanding-use-tax",
+    "retrieved_at": "2026-10-22"
   },
   {
     "state": "CA",
@@ -31,239 +31,239 @@
     "state": "CO",
     "rate": 0.029,
     "effective_date": "2024-01-01",
-    "source_url": null,
-    "retrieved_at": "2026-05-18"
+    "source_url": "https://tax.colorado.gov/sales-tax-guide",
+    "retrieved_at": "2026-10-22"
   },
   {
     "state": "CT",
     "rate": 0.0635,
     "effective_date": "2024-01-01",
-    "source_url": null,
-    "retrieved_at": "2026-05-18"
+    "source_url": "https://portal.ct.gov/drs/sales-tax/tax-information",
+    "retrieved_at": "2026-10-22"
   },
   {
     "state": "DC",
     "rate": 0.06,
     "effective_date": "2024-01-01",
-    "source_url": null,
-    "retrieved_at": "2026-05-18"
+    "source_url": "https://otr.cfo.dc.gov/page/taxable-and-non-taxable-services",
+    "retrieved_at": "2026-10-22"
   },
   {
     "state": "FL",
     "rate": 0.06,
     "effective_date": "2024-01-01",
-    "source_url": null,
-    "retrieved_at": "2026-05-18"
+    "source_url": "https://floridarevenue.com/taxes/taxesfees/Pages/sales_tax.aspx",
+    "retrieved_at": "2026-10-22"
   },
   {
     "state": "GA",
     "rate": 0.04,
     "effective_date": "2024-01-01",
-    "source_url": null,
-    "retrieved_at": "2026-05-18"
+    "source_url": "https://dor.georgia.gov/taxes/business-taxes/sales-use-tax/tax-rates",
+    "retrieved_at": "2026-10-22"
   },
   {
     "state": "HI",
     "rate": 0.04,
     "effective_date": "2024-01-01",
-    "source_url": null,
-    "retrieved_at": "2026-05-18"
+    "source_url": "https://tax.hawaii.gov/geninfo/get/",
+    "retrieved_at": "2026-10-22"
   },
   {
     "state": "IA",
     "rate": 0.06,
     "effective_date": "2024-01-01",
-    "source_url": null,
-    "retrieved_at": "2026-05-18"
+    "source_url": "https://revenue.iowa.gov/taxes/tax-guidance/sales-use-excise-tax/sales-use-tax-guide",
+    "retrieved_at": "2026-10-22"
   },
   {
     "state": "ID",
     "rate": 0.06,
     "effective_date": "2024-01-01",
-    "source_url": null,
-    "retrieved_at": "2026-05-18"
+    "source_url": "https://tax.idaho.gov/taxes/sales-use/online-guide/",
+    "retrieved_at": "2026-10-22"
   },
   {
     "state": "IL",
     "rate": 0.0625,
     "effective_date": "2024-01-01",
-    "source_url": null,
-    "retrieved_at": "2026-05-18"
+    "source_url": "https://tax.illinois.gov/questionsandanswers/answer.139.html",
+    "retrieved_at": "2026-10-22"
   },
   {
     "state": "IN",
     "rate": 0.07,
     "effective_date": "2024-01-01",
-    "source_url": null,
-    "retrieved_at": "2026-05-18"
+    "source_url": "https://www.in.gov/dor/i-am-a/business-corp/business-faq/",
+    "retrieved_at": "2026-10-22"
   },
   {
     "state": "KS",
     "rate": 0.065,
     "effective_date": "2024-01-01",
-    "source_url": null,
-    "retrieved_at": "2026-05-18"
+    "source_url": "https://www.ksrevenue.gov/bustaxtypessales.html",
+    "retrieved_at": "2026-10-22"
   },
   {
     "state": "KY",
     "rate": 0.06,
     "effective_date": "2024-01-01",
-    "source_url": null,
-    "retrieved_at": "2026-05-18"
+    "source_url": "https://revenue.ky.gov/Business/Sales-Use-Tax/Pages/default.aspx",
+    "retrieved_at": "2026-10-22"
   },
   {
     "state": "LA",
     "rate": 0.05,
     "effective_date": "2024-01-01",
-    "source_url": null,
-    "retrieved_at": "2026-05-18"
+    "source_url": "https://revenue.louisiana.gov/tax-education-and-faqs/faqs/sales-tax-reform/what-is-the-state-sales-tax-rate/",
+    "retrieved_at": "2026-10-22"
   },
   {
     "state": "MA",
     "rate": 0.0625,
     "effective_date": "2024-01-01",
-    "source_url": null,
-    "retrieved_at": "2026-05-18"
+    "source_url": "https://www.mass.gov/guides/sales-and-use-tax",
+    "retrieved_at": "2026-10-22"
   },
   {
     "state": "MD",
     "rate": 0.06,
     "effective_date": "2024-01-01",
-    "source_url": null,
-    "retrieved_at": "2026-05-18"
+    "source_url": "https://mgaleg.maryland.gov/mgawebsite/Laws/StatuteText?article=gtg&section=11-104",
+    "retrieved_at": "2026-10-22"
   },
   {
     "state": "ME",
     "rate": 0.055,
     "effective_date": "2024-01-01",
-    "source_url": null,
-    "retrieved_at": "2026-05-18"
+    "source_url": "https://legislature.maine.gov/statutes/36/title36sec1811.html",
+    "retrieved_at": "2026-10-22"
   },
   {
     "state": "MI",
     "rate": 0.06,
     "effective_date": "2024-01-01",
-    "source_url": null,
-    "retrieved_at": "2026-05-18"
+    "source_url": "https://www.michigan.gov/taxes/business-taxes/sales-use-tax",
+    "retrieved_at": "2026-10-22"
   },
   {
     "state": "MN",
     "rate": 0.06875,
     "effective_date": "2024-01-01",
-    "source_url": null,
-    "retrieved_at": "2026-05-18"
+    "source_url": "https://www.revenue.state.mn.us/guide/taxes-and-rates",
+    "retrieved_at": "2026-10-22"
   },
   {
     "state": "MO",
     "rate": 0.04225,
     "effective_date": "2024-01-01",
-    "source_url": null,
-    "retrieved_at": "2026-05-18"
+    "source_url": "https://dor.mo.gov/taxation/business/tax-types/sales-use/",
+    "retrieved_at": "2026-10-22"
   },
   {
     "state": "MS",
     "rate": 0.07,
     "effective_date": "2024-01-01",
-    "source_url": null,
-    "retrieved_at": "2026-05-18"
+    "source_url": "https://www.dor.ms.gov/business/sales-tax-rates",
+    "retrieved_at": "2026-10-22"
   },
   {
     "state": "NC",
     "rate": 0.0475,
     "effective_date": "2024-01-01",
-    "source_url": null,
-    "retrieved_at": "2026-05-18"
+    "source_url": "https://www.ncdor.gov/taxes-forms/sales-and-use-tax/sales-and-use-tax-rates-other-information",
+    "retrieved_at": "2026-10-22"
   },
   {
     "state": "ND",
     "rate": 0.05,
     "effective_date": "2024-01-01",
-    "source_url": null,
-    "retrieved_at": "2026-05-18"
+    "source_url": "https://www.tax.nd.gov/sales-and-use-tax",
+    "retrieved_at": "2026-10-22"
   },
   {
     "state": "NE",
     "rate": 0.055,
     "effective_date": "2024-01-01",
-    "source_url": null,
-    "retrieved_at": "2026-05-18"
+    "source_url": "https://revenue.nebraska.gov/businesses/sales-and-use-tax",
+    "retrieved_at": "2026-10-22"
   },
   {
     "state": "NJ",
     "rate": 0.06625,
     "effective_date": "2024-01-01",
-    "source_url": null,
-    "retrieved_at": "2026-05-18"
+    "source_url": "https://www.nj.gov/treasury/taxation/salestax.shtml",
+    "retrieved_at": "2026-10-22"
   },
   {
     "state": "NM",
     "rate": 0.04875,
     "effective_date": "2024-01-01",
-    "source_url": null,
-    "retrieved_at": "2026-05-18"
+    "source_url": "https://realfile.tax.newmexico.gov/trd-41413ins.pdf",
+    "retrieved_at": "2026-10-22"
   },
   {
     "state": "NV",
     "rate": 0.0685,
     "effective_date": "2024-01-01",
-    "source_url": null,
-    "retrieved_at": "2026-05-18"
+    "source_url": "https://tax.nv.gov/tax-types/sales-use-tax/",
+    "retrieved_at": "2026-10-22"
   },
   {
     "state": "NY",
     "rate": 0.04,
     "effective_date": "2024-01-01",
-    "source_url": null,
-    "retrieved_at": "2026-05-18"
+    "source_url": "https://www.tax.ny.gov/bus/st/rates.htm",
+    "retrieved_at": "2026-10-22"
   },
   {
     "state": "OH",
     "rate": 0.0575,
     "effective_date": "2024-01-01",
-    "source_url": null,
-    "retrieved_at": "2026-05-18"
+    "source_url": "https://tax.ohio.gov/business/ohio-business-taxes/sales-and-use",
+    "retrieved_at": "2026-10-22"
   },
   {
     "state": "OK",
     "rate": 0.045,
     "effective_date": "2024-01-01",
-    "source_url": null,
-    "retrieved_at": "2026-05-18"
+    "source_url": "https://oklahoma.gov/tax/businesses/sales-use-tax.html",
+    "retrieved_at": "2026-10-22"
   },
   {
     "state": "PA",
     "rate": 0.06,
     "effective_date": "2024-01-01",
-    "source_url": null,
-    "retrieved_at": "2026-05-18"
+    "source_url": "https://www.pa.gov/agencies/revenue/resources/tax-types-and-information/sales-use-and-hotel-occupancy-tax",
+    "retrieved_at": "2026-10-22"
   },
   {
     "state": "RI",
     "rate": 0.07,
     "effective_date": "2024-01-01",
-    "source_url": null,
-    "retrieved_at": "2026-05-18"
+    "source_url": "http://webserver.rilegislature.gov/Statutes/TITLE44/44-18/44-18-18.htm",
+    "retrieved_at": "2026-10-22"
   },
   {
     "state": "SC",
     "rate": 0.06,
     "effective_date": "2024-01-01",
-    "source_url": null,
-    "retrieved_at": "2026-05-18"
+    "source_url": "https://dor.sc.gov/tax/sales",
+    "retrieved_at": "2026-10-22"
   },
   {
     "state": "SD",
     "rate": 0.042,
     "effective_date": "2024-01-01",
-    "source_url": null,
-    "retrieved_at": "2026-05-18"
+    "source_url": "https://dor.sd.gov/businesses/taxes/sales-use-tax/",
+    "retrieved_at": "2026-10-22"
   },
   {
     "state": "TN",
     "rate": 0.07,
     "effective_date": "2024-01-01",
-    "source_url": null,
-    "retrieved_at": "2026-05-18"
+    "source_url": "https://www.tn.gov/revenue/taxes/sales-and-use-tax.html",
+    "retrieved_at": "2026-10-22"
   },
   {
     "state": "TX",
@@ -276,49 +276,49 @@
     "state": "UT",
     "rate": 0.0485,
     "effective_date": "2024-01-01",
-    "source_url": null,
-    "retrieved_at": "2026-05-18"
+    "source_url": "https://files.tax.utah.gov/tax/forms/2025/pub-25.pdf",
+    "retrieved_at": "2026-10-22"
   },
   {
     "state": "VA",
     "rate": 0.053,
     "effective_date": "2024-01-01",
-    "source_url": null,
-    "retrieved_at": "2026-05-18"
+    "source_url": "https://www.tax.virginia.gov/sales-and-use-tax",
+    "retrieved_at": "2026-10-22"
   },
   {
     "state": "VT",
     "rate": 0.06,
     "effective_date": "2024-01-01",
-    "source_url": null,
-    "retrieved_at": "2026-05-18"
+    "source_url": "https://tax.vermont.gov/business/sales-and-use-tax",
+    "retrieved_at": "2026-10-22"
   },
   {
     "state": "WA",
     "rate": 0.065,
     "effective_date": "2024-01-01",
-    "source_url": null,
-    "retrieved_at": "2026-05-18"
+    "source_url": "https://dor.wa.gov/taxes-rates/retail-sales-tax",
+    "retrieved_at": "2026-10-22"
   },
   {
     "state": "WI",
     "rate": 0.05,
     "effective_date": "2024-01-01",
-    "source_url": null,
-    "retrieved_at": "2026-05-18"
+    "source_url": "https://www.revenue.wi.gov/Pages/FAQS/pcs-taxrates.aspx",
+    "retrieved_at": "2026-10-22"
   },
   {
     "state": "WV",
     "rate": 0.06,
     "effective_date": "2024-01-01",
-    "source_url": null,
-    "retrieved_at": "2026-05-18"
+    "source_url": "https://code.wvlegislature.gov/11-15-3/",
+    "retrieved_at": "2026-10-22"
   },
   {
     "state": "WY",
     "rate": 0.04,
     "effective_date": "2024-01-01",
-    "source_url": null,
-    "retrieved_at": "2026-05-18"
+    "source_url": "https://excise-tax-div.wyo.gov/general-administrative/excise-tax-faqs",
+    "retrieved_at": "2026-10-22"
   }
 ]

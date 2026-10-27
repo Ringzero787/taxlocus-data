@@ -20908,12 +20908,12 @@
     "jurisdiction_type": "city",
     "name": "Basalt",
     "fips_code": null,
-    "rate": 0.0765,
+    "rate": 0.0665,
     "source_key": "CO-P-570018",
     "rate_type": "sales",
     "effective_date": "2026-07-01",
-    "source_url": "https://tax.colorado.gov/sites/tax/files/documents/Colorado_Jurisdiction_Codes_Rates_July-Dec2026.xlsx",
-    "retrieved_at": "2026-09-21"
+    "source_url": "https://tax.colorado.gov/sites/default/files/2026-10/Colorado_Jurisdiction_Codes_Rates_July-Dec2026.xlsx",
+    "retrieved_at": "2026-10-27"
   },
   {
     "state": "CO",
@@ -24520,12 +24520,12 @@
     "jurisdiction_type": "city",
     "name": "Superior (Mail Via Louisville)",
     "fips_code": null,
-    "rate": 0.0538,
+    "rate": 0.05375,
     "source_key": "CO-P-110143",
     "rate_type": "sales",
-    "effective_date": "2026-01-01",
-    "source_url": "https://tax.colorado.gov/sites/tax/files/documents/Colorado_Jurisdiction_Codes_Rates_Jan-June2026_Apr26.xlsx",
-    "retrieved_at": "2026-05-18"
+    "effective_date": "2026-07-01",
+    "source_url": "https://tax.colorado.gov/sites/default/files/2026-10/Colorado_Jurisdiction_Codes_Rates_July-Dec2026.xlsx",
+    "retrieved_at": "2026-10-27"
   },
   {
     "state": "CO",
@@ -25072,12 +25072,12 @@
     "jurisdiction_type": "city",
     "name": "Unincorporated",
     "fips_code": null,
-    "rate": 0.035,
+    "rate": 0.025,
     "source_key": "CO-P-400209",
     "rate_type": "sales",
-    "effective_date": "2026-01-01",
-    "source_url": "https://tax.colorado.gov/sites/tax/files/documents/Colorado_Jurisdiction_Codes_Rates_Jan-June2026_Apr26.xlsx",
-    "retrieved_at": "2026-05-18"
+    "effective_date": "2026-07-01",
+    "source_url": "https://tax.colorado.gov/sites/default/files/2026-10/Colorado_Jurisdiction_Codes_Rates_July-Dec2026.xlsx",
+    "retrieved_at": "2026-10-27"
   },
   {
     "state": "CO",
@@ -25528,24 +25528,24 @@
     "jurisdiction_type": "city",
     "name": "Unincorporated (Within Aspen Fpd)",
     "fips_code": null,
-    "rate": 0.0575,
+    "rate": 0.0475,
     "source_key": "CO-P-570208",
     "rate_type": "sales",
-    "effective_date": "2026-01-01",
-    "source_url": "https://tax.colorado.gov/sites/tax/files/documents/Colorado_Jurisdiction_Codes_Rates_Jan-June2026_Apr26.xlsx",
-    "retrieved_at": "2026-05-18"
+    "effective_date": "2026-07-01",
+    "source_url": "https://tax.colorado.gov/sites/default/files/2026-10/Colorado_Jurisdiction_Codes_Rates_July-Dec2026.xlsx",
+    "retrieved_at": "2026-10-27"
   },
   {
     "state": "CO",
     "jurisdiction_type": "city",
     "name": "Unincorporated (Within Carbondale & Rural Fpd)",
     "fips_code": null,
-    "rate": 0.0475,
+    "rate": 0.0575,
     "source_key": "CO-P-570209",
     "rate_type": "sales",
-    "effective_date": "2026-01-01",
-    "source_url": "https://tax.colorado.gov/sites/tax/files/documents/Colorado_Jurisdiction_Codes_Rates_Jan-June2026_Apr26.xlsx",
-    "retrieved_at": "2026-05-18"
+    "effective_date": "2026-07-01",
+    "source_url": "https://tax.colorado.gov/sites/default/files/2026-10/Colorado_Jurisdiction_Codes_Rates_July-Dec2026.xlsx",
+    "retrieved_at": "2026-10-27"
   },
   {
     "state": "CO",
@@ -128308,12 +128308,12 @@
     "jurisdiction_type": "city",
     "name": "Beckville",
     "fips_code": null,
-    "rate": 0.01,
+    "rate": 0.02,
     "source_key": "TX-2183027",
     "rate_type": "sales",
-    "effective_date": "2026-04-01",
+    "effective_date": "2026-10-01",
     "source_url": "https://comptroller.texas.gov/data/edi/sales-tax/taxrates.txt",
-    "retrieved_at": "2026-05-18"
+    "retrieved_at": "2026-10-27"
   },
   {
     "state": "TX",
@@ -128440,12 +128440,12 @@
     "jurisdiction_type": "city",
     "name": "Bellmead",
     "fips_code": null,
-    "rate": 0.015,
+    "rate": 0.0125,
     "source_key": "TX-2161050",
     "rate_type": "sales",
-    "effective_date": "2026-04-01",
+    "effective_date": "2026-10-01",
     "source_url": "https://comptroller.texas.gov/data/edi/sales-tax/taxrates.txt",
-    "retrieved_at": "2026-05-18"
+    "retrieved_at": "2026-10-27"
   },
   {
     "state": "TX",
@@ -129341,7 +129341,7 @@
     "name": "Bulverde/Comal Co ESD 5",
     "fips_code": null,
     "rate": 0.01,
-    "source_key": "TX-6046612",
+    "source_key": "TX-6046630",
     "rate_type": "sales",
     "effective_date": "2026-04-01",
     "source_url": "https://comptroller.texas.gov/data/edi/sales-tax/taxrates.txt",
@@ -129353,7 +129353,7 @@
     "name": "Bulverde/Comal Co ESD 5-A",
     "fips_code": null,
     "rate": 0.01,
-    "source_key": "TX-6046630",
+    "source_key": "TX-6046612",
     "rate_type": "sales",
     "effective_date": "2026-04-01",
     "source_url": "https://comptroller.texas.gov/data/edi/sales-tax/taxrates.txt",
@@ -131632,12 +131632,12 @@
     "jurisdiction_type": "city",
     "name": "Ellinger",
     "fips_code": null,
-    "rate": 0.01,
+    "rate": 0.015,
     "source_key": "TX-2075073",
     "rate_type": "sales",
-    "effective_date": "2026-04-01",
+    "effective_date": "2026-10-01",
     "source_url": "https://comptroller.texas.gov/data/edi/sales-tax/taxrates.txt",
-    "retrieved_at": "2026-05-18"
+    "retrieved_at": "2026-10-27"
   },
   {
     "state": "TX",
@@ -132244,12 +132244,12 @@
     "jurisdiction_type": "city",
     "name": "Frost",
     "fips_code": null,
-    "rate": 0.01,
+    "rate": 0.015,
     "source_key": "TX-2175045",
     "rate_type": "sales",
-    "effective_date": "2026-04-01",
+    "effective_date": "2026-10-01",
     "source_url": "https://comptroller.texas.gov/data/edi/sales-tax/taxrates.txt",
-    "retrieved_at": "2026-05-18"
+    "retrieved_at": "2026-10-27"
   },
   {
     "state": "TX",
@@ -136936,12 +136936,12 @@
     "jurisdiction_type": "city",
     "name": "Naples",
     "fips_code": null,
-    "rate": 0.015,
+    "rate": 0.0125,
     "source_key": "TX-2172020",
     "rate_type": "sales",
-    "effective_date": "2026-04-01",
+    "effective_date": "2026-10-01",
     "source_url": "https://comptroller.texas.gov/data/edi/sales-tax/taxrates.txt",
-    "retrieved_at": "2026-05-18"
+    "retrieved_at": "2026-10-27"
   },
   {
     "state": "TX",
@@ -137368,12 +137368,12 @@
     "jurisdiction_type": "city",
     "name": "Northlake",
     "fips_code": null,
-    "rate": 0.02,
+    "rate": 0.015,
     "source_key": "TX-2061319",
     "rate_type": "sales",
-    "effective_date": "2026-04-01",
+    "effective_date": "2026-10-01",
     "source_url": "https://comptroller.texas.gov/data/edi/sales-tax/taxrates.txt",
-    "retrieved_at": "2026-05-18"
+    "retrieved_at": "2026-10-27"
   },
   {
     "state": "TX",
@@ -137668,12 +137668,12 @@
     "jurisdiction_type": "city",
     "name": "Orchard",
     "fips_code": null,
-    "rate": 0.02,
+    "rate": 0.0175,
     "source_key": "TX-2079097",
     "rate_type": "sales",
-    "effective_date": "2026-04-01",
+    "effective_date": "2026-10-01",
     "source_url": "https://comptroller.texas.gov/data/edi/sales-tax/taxrates.txt",
-    "retrieved_at": "2026-05-18"
+    "retrieved_at": "2026-10-27"
   },
   {
     "state": "TX",
@@ -137968,12 +137968,12 @@
     "jurisdiction_type": "city",
     "name": "Payne Springs",
     "fips_code": null,
-    "rate": 0.02,
+    "rate": 0.0175,
     "source_key": "TX-2107155",
     "rate_type": "sales",
-    "effective_date": "2026-04-01",
+    "effective_date": "2026-10-01",
     "source_url": "https://comptroller.texas.gov/data/edi/sales-tax/taxrates.txt",
-    "retrieved_at": "2026-05-18"
+    "retrieved_at": "2026-10-27"
   },
   {
     "state": "TX",
@@ -139336,12 +139336,12 @@
     "jurisdiction_type": "city",
     "name": "Roscoe",
     "fips_code": null,
-    "rate": 0.02,
+    "rate": 0.0175,
     "source_key": "TX-2177025",
     "rate_type": "sales",
-    "effective_date": "2026-04-01",
+    "effective_date": "2026-10-01",
     "source_url": "https://comptroller.texas.gov/data/edi/sales-tax/taxrates.txt",
-    "retrieved_at": "2026-05-18"
+    "retrieved_at": "2026-10-27"
   },
   {
     "state": "TX",
@@ -140226,18 +140226,6 @@
     "fips_code": null,
     "rate": 0.02,
     "source_key": "TX-2143044",
-    "rate_type": "sales",
-    "effective_date": "2026-04-01",
-    "source_url": "https://comptroller.texas.gov/data/edi/sales-tax/taxrates.txt",
-    "retrieved_at": "2026-05-18"
-  },
-  {
-    "state": "TX",
-    "jurisdiction_type": "city",
-    "name": "Shoreacres",
-    "fips_code": null,
-    "rate": 0.02,
-    "source_key": "TX-2101259",
     "rate_type": "sales",
     "effective_date": "2026-04-01",
     "source_url": "https://comptroller.texas.gov/data/edi/sales-tax/taxrates.txt",
@@ -145814,6 +145802,42 @@
   {
     "state": "TX",
     "jurisdiction_type": "special_district",
+    "name": "Ellis Co ESD 1",
+    "fips_code": null,
+    "rate": 0.02,
+    "source_key": "TX-5070559",
+    "rate_type": "sales",
+    "effective_date": "2026-10-01",
+    "source_url": "https://comptroller.texas.gov/data/edi/sales-tax/taxrates.txt",
+    "retrieved_at": "2026-10-27"
+  },
+  {
+    "state": "TX",
+    "jurisdiction_type": "special_district",
+    "name": "Ellis Co ESD 9",
+    "fips_code": null,
+    "rate": 0.02,
+    "source_key": "TX-5070568",
+    "rate_type": "sales",
+    "effective_date": "2026-10-01",
+    "source_url": "https://comptroller.texas.gov/data/edi/sales-tax/taxrates.txt",
+    "retrieved_at": "2026-10-27"
+  },
+  {
+    "state": "TX",
+    "jurisdiction_type": "special_district",
+    "name": "Ellis Co ESD 9-A",
+    "fips_code": null,
+    "rate": 0.015,
+    "source_key": "TX-5070577",
+    "rate_type": "sales",
+    "effective_date": "2026-10-01",
+    "source_url": "https://comptroller.texas.gov/data/edi/sales-tax/taxrates.txt",
+    "retrieved_at": "2026-10-27"
+  },
+  {
+    "state": "TX",
+    "jurisdiction_type": "special_district",
     "name": "Ellis County ESD No 2",
     "fips_code": null,
     "rate": 0.02,
@@ -147530,6 +147554,18 @@
   {
     "state": "TX",
     "jurisdiction_type": "special_district",
+    "name": "Kaufman Co ESD 1",
+    "fips_code": null,
+    "rate": 0.02,
+    "source_key": "TX-5129630",
+    "rate_type": "sales",
+    "effective_date": "2026-10-01",
+    "source_url": "https://comptroller.texas.gov/data/edi/sales-tax/taxrates.txt",
+    "retrieved_at": "2026-10-27"
+  },
+  {
+    "state": "TX",
+    "jurisdiction_type": "special_district",
     "name": "Kaufman Co ESD 4",
     "fips_code": null,
     "rate": 0.0175,
@@ -147562,6 +147598,18 @@
     "effective_date": "2026-04-01",
     "source_url": "https://comptroller.texas.gov/data/edi/sales-tax/taxrates.txt",
     "retrieved_at": "2026-05-18"
+  },
+  {
+    "state": "TX",
+    "jurisdiction_type": "special_district",
+    "name": "Kaufman Co ESK 1-A",
+    "fips_code": null,
+    "rate": 0.0175,
+    "source_key": "TX-5129649",
+    "rate_type": "sales",
+    "effective_date": "2026-10-01",
+    "source_url": "https://comptroller.texas.gov/data/edi/sales-tax/taxrates.txt",
+    "retrieved_at": "2026-10-27"
   },
   {
     "state": "TX",
@@ -148214,6 +148262,18 @@
   {
     "state": "TX",
     "jurisdiction_type": "special_district",
+    "name": "Montgomery Co ESD 10-A",
+    "fips_code": null,
+    "rate": 0.02,
+    "source_key": "TX-5170852",
+    "rate_type": "sales",
+    "effective_date": "2026-10-01",
+    "source_url": "https://comptroller.texas.gov/data/edi/sales-tax/taxrates.txt",
+    "retrieved_at": "2026-10-27"
+  },
+  {
+    "state": "TX",
+    "jurisdiction_type": "special_district",
     "name": "Montgomery Co ESD 14",
     "fips_code": null,
     "rate": 0.01,
@@ -148462,6 +148522,18 @@
     "effective_date": "2026-04-01",
     "source_url": "https://comptroller.texas.gov/data/edi/sales-tax/taxrates.txt",
     "retrieved_at": "2026-05-18"
+  },
+  {
+    "state": "TX",
+    "jurisdiction_type": "special_district",
+    "name": "Northlake Mun Dev Dist",
+    "fips_code": null,
+    "rate": 0.005,
+    "source_key": "TX-5061747",
+    "rate_type": "sales",
+    "effective_date": "2026-10-01",
+    "source_url": "https://comptroller.texas.gov/data/edi/sales-tax/taxrates.txt",
+    "retrieved_at": "2026-10-27"
   },
   {
     "state": "TX",

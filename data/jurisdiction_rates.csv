@@ -1741,7 +1741,7 @@ CO,city,Avon,,0.0679,CO-P-440003,sales,2026-01-01,https://tax.colorado.gov/sites
 CO,city,Avon Unincorporated (Bachelor Gulch Metropolitan District),,0.0599,CO-P-440064,sales,2026-01-01,https://tax.colorado.gov/sites/tax/files/documents/Colorado_Jurisdiction_Codes_Rates_Jan-June2026_Apr26.xlsx,2026-05-18
 CO,city,Bailey,,0.01,CO-P-540004,sales,2026-01-01,https://tax.colorado.gov/sites/tax/files/documents/Colorado_Jurisdiction_Codes_Rates_Jan-June2026_Apr26.xlsx,2026-05-18
 CO,city,Basalt,,0.0555,CO-P-440005,sales,2026-01-01,https://tax.colorado.gov/sites/tax/files/documents/Colorado_Jurisdiction_Codes_Rates_Jan-June2026_Apr26.xlsx,2026-05-18
-CO,city,Basalt,,0.0765,CO-P-570018,sales,2026-07-01,https://tax.colorado.gov/sites/tax/files/documents/Colorado_Jurisdiction_Codes_Rates_July-Dec2026.xlsx,2026-09-21
+CO,city,Basalt,,0.0665,CO-P-570018,sales,2026-07-01,https://tax.colorado.gov/sites/default/files/2026-10/Colorado_Jurisdiction_Codes_Rates_July-Dec2026.xlsx,2026-10-27
 CO,city,Bayfield,,0.07,CO-P-200003,sales,2026-01-01,https://tax.colorado.gov/sites/tax/files/documents/Colorado_Jurisdiction_Codes_Rates_July-Dec2026.xlsx,2026-07-21
 CO,city,Bennett,,0.0435,CO-P-100042,sales,2026-01-01,https://tax.colorado.gov/sites/tax/files/documents/Colorado_Jurisdiction_Codes_Rates_Jan-June2026_Apr26.xlsx,2026-05-18
 CO,city,Bennett,,0.0485,CO-P-120007,sales,2026-07-01,https://tax.colorado.gov/sites/tax/files/documents/Colorado_Jurisdiction_Codes_Rates_July-Dec2026.xlsx,2026-09-21
@@ -2042,7 +2042,7 @@ CO,city,Sterling,,0.041,CO-P-130029,sales,2026-01-01,https://tax.colorado.gov/si
 CO,city,Stratton,,0.02,CO-P-260009,sales,2026-01-01,https://tax.colorado.gov/sites/tax/files/documents/Colorado_Jurisdiction_Codes_Rates_Jan-June2026_Apr26.xlsx,2026-05-18
 CO,city,Sugar City,,0.02,CO-P-360008,sales,2026-01-01,https://tax.colorado.gov/sites/tax/files/documents/Colorado_Jurisdiction_Codes_Rates_Jan-June2026_Apr26.xlsx,2026-05-18
 CO,city,Superior (Mail Via Louisville),,0.06215,CO-P-070067,sales,2026-01-01,https://tax.colorado.gov/sites/tax/files/documents/Colorado_Jurisdiction_Codes_Rates_Jan-June2026_Apr26.xlsx,2026-05-18
-CO,city,Superior (Mail Via Louisville),,0.0538,CO-P-110143,sales,2026-01-01,https://tax.colorado.gov/sites/tax/files/documents/Colorado_Jurisdiction_Codes_Rates_Jan-June2026_Apr26.xlsx,2026-05-18
+CO,city,Superior (Mail Via Louisville),,0.05375,CO-P-110143,sales,2026-07-01,https://tax.colorado.gov/sites/default/files/2026-10/Colorado_Jurisdiction_Codes_Rates_July-Dec2026.xlsx,2026-10-27
 CO,city,Swink,,0.01,CO-P-090029,sales,2026-01-01,https://tax.colorado.gov/sites/tax/files/documents/Colorado_Jurisdiction_Codes_Rates_Jan-June2026_Apr26.xlsx,2026-05-18
 CO,city,Telluride,,0.0657,CO-P-500027,sales,2026-01-01,https://tax.colorado.gov/sites/tax/files/documents/Colorado_Jurisdiction_Codes_Rates_Jan-June2026_Apr26.xlsx,2026-05-18
 CO,city,Thornton,,0.056,CO-P-120044,sales,2026-01-01,https://tax.colorado.gov/sites/tax/files/documents/Colorado_Jurisdiction_Codes_Rates_Jan-June2026_Apr26.xlsx,2026-05-18
@@ -2088,7 +2088,7 @@ CO,city,Unincorporated,,0.01,CO-P-370206,sales,2026-01-01,https://tax.colorado.g
 CO,city,Unincorporated,,0.02,CO-P-380206,sales,2026-01-01,https://tax.colorado.gov/sites/tax/files/documents/Colorado_Jurisdiction_Codes_Rates_Jan-June2026_Apr26.xlsx,2026-05-18
 CO,city,Unincorporated,,0.03,CO-P-390206,sales,2026-01-01,https://tax.colorado.gov/sites/tax/files/documents/Colorado_Jurisdiction_Codes_Rates_Jan-June2026_Apr26.xlsx,2026-05-18
 CO,city,Unincorporated,,0.02,CO-P-400206,sales,2026-01-01,https://tax.colorado.gov/sites/tax/files/documents/Colorado_Jurisdiction_Codes_Rates_Jan-June2026_Apr26.xlsx,2026-05-18
-CO,city,Unincorporated,,0.035,CO-P-400209,sales,2026-01-01,https://tax.colorado.gov/sites/tax/files/documents/Colorado_Jurisdiction_Codes_Rates_Jan-June2026_Apr26.xlsx,2026-05-18
+CO,city,Unincorporated,,0.025,CO-P-400209,sales,2026-07-01,https://tax.colorado.gov/sites/default/files/2026-10/Colorado_Jurisdiction_Codes_Rates_July-Dec2026.xlsx,2026-10-27
 CO,city,Unincorporated,,0.04,CO-P-410206,sales,2026-01-01,https://tax.colorado.gov/sites/tax/files/documents/Colorado_Jurisdiction_Codes_Rates_Jan-June2026_Apr26.xlsx,2026-05-18
 CO,city,Unincorporated,,0.02,CO-P-420206,sales,2026-01-01,https://tax.colorado.gov/sites/tax/files/documents/Colorado_Jurisdiction_Codes_Rates_Jan-June2026_Apr26.xlsx,2026-05-18
 CO,city,Unincorporated,,0.01,CO-P-430206,sales,2026-01-01,https://tax.colorado.gov/sites/tax/files/documents/Colorado_Jurisdiction_Codes_Rates_Jan-June2026_Apr26.xlsx,2026-05-18
@@ -2126,8 +2126,8 @@ CO,city,Unincorporated (In Ute Pass Regional Hsd In Park),,0.035,CO-P-540210,sal
 CO,city,Unincorporated (In Ute Pass Regional Hsd In Teller),,0.025,CO-P-430208,sales,2026-01-01,https://tax.colorado.gov/sites/tax/files/documents/Colorado_Jurisdiction_Codes_Rates_Jan-June2026_Apr26.xlsx,2026-05-18
 CO,city,Unincorporated (No Rta),,0.01,CO-P-500209,sales,2026-01-01,https://tax.colorado.gov/sites/tax/files/documents/Colorado_Jurisdiction_Codes_Rates_Jan-June2026_Apr26.xlsx,2026-05-18
 CO,city,Unincorporated (South Adams Fpd),,0.0235,CO-P-120209,sales,2026-01-01,https://tax.colorado.gov/sites/tax/files/documents/Colorado_Jurisdiction_Codes_Rates_Jan-June2026_Apr26.xlsx,2026-05-18
-CO,city,Unincorporated (Within Aspen Fpd),,0.0575,CO-P-570208,sales,2026-01-01,https://tax.colorado.gov/sites/tax/files/documents/Colorado_Jurisdiction_Codes_Rates_Jan-June2026_Apr26.xlsx,2026-05-18
-CO,city,Unincorporated (Within Carbondale & Rural Fpd),,0.0475,CO-P-570209,sales,2026-01-01,https://tax.colorado.gov/sites/tax/files/documents/Colorado_Jurisdiction_Codes_Rates_Jan-June2026_Apr26.xlsx,2026-05-18
+CO,city,Unincorporated (Within Aspen Fpd),,0.0475,CO-P-570208,sales,2026-07-01,https://tax.colorado.gov/sites/default/files/2026-10/Colorado_Jurisdiction_Codes_Rates_July-Dec2026.xlsx,2026-10-27
+CO,city,Unincorporated (Within Carbondale & Rural Fpd),,0.0575,CO-P-570209,sales,2026-07-01,https://tax.colorado.gov/sites/default/files/2026-10/Colorado_Jurisdiction_Codes_Rates_July-Dec2026.xlsx,2026-10-27
 CO,city,Unincorporated (Within Carbondale And Rural Fpd,,0.0275,CO-P-240208,sales,2026-01-01,https://tax.colorado.gov/sites/tax/files/documents/Colorado_Jurisdiction_Codes_Rates_Jan-June2026_Apr26.xlsx,2026-05-18
 CO,city,Unincorporated (Within Lake City Area Fpd,,0.0625,CO-P-630208,sales,2026-01-01,https://tax.colorado.gov/sites/tax/files/documents/Colorado_Jurisdiction_Codes_Rates_Jan-June2026_Apr26.xlsx,2026-05-18
 CO,city,Unincorporated (Wthin La Veta Fpd),,0.035,CO-P-160208,sales,2026-01-01,https://tax.colorado.gov/sites/tax/files/documents/Colorado_Jurisdiction_Codes_Rates_Jan-June2026_Apr26.xlsx,2026-05-18
@@ -10691,7 +10691,7 @@ TX,city,Bayview,,0.01,TX-2031183,sales,2026-04-01,https://comptroller.texas.gov/
 TX,city,Beach City,,0.015,TX-2036026,sales,2026-04-01,https://comptroller.texas.gov/data/edi/sales-tax/taxrates.txt,2026-05-18
 TX,city,Beasley,,0.02,TX-2079060,sales,2026-04-01,https://comptroller.texas.gov/data/edi/sales-tax/taxrates.txt,2026-05-18
 TX,city,Beaumont,,0.015,TX-2123011,sales,2026-04-01,https://comptroller.texas.gov/data/edi/sales-tax/taxrates.txt,2026-05-18
-TX,city,Beckville,,0.01,TX-2183027,sales,2026-04-01,https://comptroller.texas.gov/data/edi/sales-tax/taxrates.txt,2026-05-18
+TX,city,Beckville,,0.02,TX-2183027,sales,2026-10-01,https://comptroller.texas.gov/data/edi/sales-tax/taxrates.txt,2026-10-27
 TX,city,Bedford,,0.02,TX-2220102,sales,2026-04-01,https://comptroller.texas.gov/data/edi/sales-tax/taxrates.txt,2026-05-18
 TX,city,Bedias,,0.0125,TX-2093044,sales,2026-04-01,https://comptroller.texas.gov/data/edi/sales-tax/taxrates.txt,2026-05-18
 TX,city,Bee Cave,,0.02,TX-2227150,sales,2026-04-01,https://comptroller.texas.gov/data/edi/sales-tax/taxrates.txt,2026-05-18
@@ -10702,7 +10702,7 @@ TX,city,Bee Cave/Travis ESD No 6A,,0.02,TX-6227640,sales,2026-04-01,https://comp
 TX,city,Beeville,,0.015,TX-2013014,sales,2026-04-01,https://comptroller.texas.gov/data/edi/sales-tax/taxrates.txt,2026-05-18
 TX,city,Bellaire,,0.01,TX-2101026,sales,2026-04-01,https://comptroller.texas.gov/data/edi/sales-tax/taxrates.txt,2026-05-18
 TX,city,Bellevue,,0.02,TX-2039050,sales,2026-04-01,https://comptroller.texas.gov/data/edi/sales-tax/taxrates.txt,2026-05-18
-TX,city,Bellmead,,0.015,TX-2161050,sales,2026-04-01,https://comptroller.texas.gov/data/edi/sales-tax/taxrates.txt,2026-05-18
+TX,city,Bellmead,,0.0125,TX-2161050,sales,2026-10-01,https://comptroller.texas.gov/data/edi/sales-tax/taxrates.txt,2026-10-27
 TX,city,Bells,,0.02,TX-2091064,sales,2026-04-01,https://comptroller.texas.gov/data/edi/sales-tax/taxrates.txt,2026-05-18
 TX,city,Bellville,,0.015,TX-2008020,sales,2026-04-01,https://comptroller.texas.gov/data/edi/sales-tax/taxrates.txt,2026-05-18
 TX,city,Belton,,0.015,TX-2014040,sales,2026-04-01,https://comptroller.texas.gov/data/edi/sales-tax/taxrates.txt,2026-05-18
@@ -10777,8 +10777,8 @@ TX,city,Bullard,,0.015,TX-2212059,sales,2026-04-01,https://comptroller.texas.gov
 TX,city,Bullard/Smith Co ESD 2,,0.015,TX-6212601,sales,2026-04-01,https://comptroller.texas.gov/data/edi/sales-tax/taxrates.txt,2026-05-18
 TX,city,Bulverde,,0.01,TX-2046042,sales,2026-04-01,https://comptroller.texas.gov/data/edi/sales-tax/taxrates.txt,2026-05-18
 TX,city,Bulverde/Comal Co ESD 4,,0.01,TX-6046621,sales,2026-04-01,https://comptroller.texas.gov/data/edi/sales-tax/taxrates.txt,2026-05-18
-TX,city,Bulverde/Comal Co ESD 5,,0.01,TX-6046612,sales,2026-04-01,https://comptroller.texas.gov/data/edi/sales-tax/taxrates.txt,2026-05-18
-TX,city,Bulverde/Comal Co ESD 5-A,,0.01,TX-6046630,sales,2026-04-01,https://comptroller.texas.gov/data/edi/sales-tax/taxrates.txt,2026-05-18
+TX,city,Bulverde/Comal Co ESD 5,,0.01,TX-6046630,sales,2026-04-01,https://comptroller.texas.gov/data/edi/sales-tax/taxrates.txt,2026-05-18
+TX,city,Bulverde/Comal Co ESD 5-A,,0.01,TX-6046612,sales,2026-04-01,https://comptroller.texas.gov/data/edi/sales-tax/taxrates.txt,2026-05-18
 TX,city,Bunker Hill Village,,0.01,TX-2101286,sales,2026-04-01,https://comptroller.texas.gov/data/edi/sales-tax/taxrates.txt,2026-05-18
 TX,city,Burkburnett,,0.02,TX-2243025,sales,2026-04-01,https://comptroller.texas.gov/data/edi/sales-tax/taxrates.txt,2026-05-18
 TX,city,Burke,,0.01,TX-2003070,sales,2026-04-01,https://comptroller.texas.gov/data/edi/sales-tax/taxrates.txt,2026-05-18
@@ -10968,7 +10968,7 @@ TX,city,Elgin/Bastrop ESD 1,,0.02,TX-6227098,sales,2026-04-01,https://comptrolle
 TX,city,Elgin/Bastrop ESD 1-A,,0.015,TX-6011604,sales,2026-04-01,https://comptroller.texas.gov/data/edi/sales-tax/taxrates.txt,2026-05-18
 TX,city,Elgin/Travis Co ESD 13,,0.02,TX-6227089,sales,2026-04-01,https://comptroller.texas.gov/data/edi/sales-tax/taxrates.txt,2026-05-18
 TX,city,Elkhart,,0.0125,TX-2001036,sales,2026-04-01,https://comptroller.texas.gov/data/edi/sales-tax/taxrates.txt,2026-05-18
-TX,city,Ellinger,,0.01,TX-2075073,sales,2026-04-01,https://comptroller.texas.gov/data/edi/sales-tax/taxrates.txt,2026-05-18
+TX,city,Ellinger,,0.015,TX-2075073,sales,2026-10-01,https://comptroller.texas.gov/data/edi/sales-tax/taxrates.txt,2026-10-27
 TX,city,Elmendorf,,0.015,TX-2015192,sales,2026-04-01,https://comptroller.texas.gov/data/edi/sales-tax/taxrates.txt,2026-05-18
 TX,city,Elsa,,0.015,TX-2108074,sales,2026-04-01,https://comptroller.texas.gov/data/edi/sales-tax/taxrates.txt,2026-05-18
 TX,city,Emhouse,,0.01,TX-2175161,sales,2026-04-01,https://comptroller.texas.gov/data/edi/sales-tax/taxrates.txt,2026-05-18
@@ -11019,7 +11019,7 @@ TX,city,Friendswood,,0.02,TX-2084054,sales,2026-04-01,https://comptroller.texas.
 TX,city,Friona,,0.02,TX-2185016,sales,2026-04-01,https://comptroller.texas.gov/data/edi/sales-tax/taxrates.txt,2026-05-18
 TX,city,Frisco,,0.02,TX-2043036,sales,2026-04-01,https://comptroller.texas.gov/data/edi/sales-tax/taxrates.txt,2026-05-18
 TX,city,Fritch,,0.0175,TX-2117028,sales,2026-04-01,https://comptroller.texas.gov/data/edi/sales-tax/taxrates.txt,2026-05-18
-TX,city,Frost,,0.01,TX-2175045,sales,2026-04-01,https://comptroller.texas.gov/data/edi/sales-tax/taxrates.txt,2026-05-18
+TX,city,Frost,,0.015,TX-2175045,sales,2026-10-01,https://comptroller.texas.gov/data/edi/sales-tax/taxrates.txt,2026-10-27
 TX,city,Fruitvale,,0.02,TX-2234071,sales,2026-04-01,https://comptroller.texas.gov/data/edi/sales-tax/taxrates.txt,2026-05-18
 TX,city,Fulshear,,0.02,TX-2079104,sales,2026-04-01,https://comptroller.texas.gov/data/edi/sales-tax/taxrates.txt,2026-05-18
 TX,city,Fulton,,0.01,TX-2004024,sales,2026-04-01,https://comptroller.texas.gov/data/edi/sales-tax/taxrates.txt,2026-05-18
@@ -11410,7 +11410,7 @@ TX,city,Murphy,,0.0175,TX-2043161,sales,2026-04-01,https://comptroller.texas.gov
 TX,city,Mustang,,0.015,TX-2175090,sales,2026-04-01,https://comptroller.texas.gov/data/edi/sales-tax/taxrates.txt,2026-05-18
 TX,city,Mustang Ridge,,0.01,TX-2227178,sales,2026-04-01,https://comptroller.texas.gov/data/edi/sales-tax/taxrates.txt,2026-05-18
 TX,city,Nacogdoches,,0.01,TX-2174019,sales,2026-04-01,https://comptroller.texas.gov/data/edi/sales-tax/taxrates.txt,2026-05-18
-TX,city,Naples,,0.015,TX-2172020,sales,2026-04-01,https://comptroller.texas.gov/data/edi/sales-tax/taxrates.txt,2026-05-18
+TX,city,Naples,,0.0125,TX-2172020,sales,2026-10-01,https://comptroller.texas.gov/data/edi/sales-tax/taxrates.txt,2026-10-27
 TX,city,Nash,,0.015,TX-2019063,sales,2026-04-01,https://comptroller.texas.gov/data/edi/sales-tax/taxrates.txt,2026-05-18
 TX,city,Nassau Bay,,0.0175,TX-2101204,sales,2026-04-01,https://comptroller.texas.gov/data/edi/sales-tax/taxrates.txt,2026-05-18
 TX,city,Natalia,,0.01,TX-2163049,sales,2026-04-01,https://comptroller.texas.gov/data/edi/sales-tax/taxrates.txt,2026-05-18
@@ -11446,7 +11446,7 @@ TX,city,Nordheim,,0.01,TX-2062023,sales,2026-04-01,https://comptroller.texas.gov
 TX,city,Normangee,,0.0125,TX-2145024,sales,2026-04-01,https://comptroller.texas.gov/data/edi/sales-tax/taxrates.txt,2026-05-18
 TX,city,North Cleveland,,0.01,TX-2146050,sales,2026-04-01,https://comptroller.texas.gov/data/edi/sales-tax/taxrates.txt,2026-05-18
 TX,city,North Richland Hills,,0.015,TX-2220184,sales,2026-04-01,https://comptroller.texas.gov/data/edi/sales-tax/taxrates.txt,2026-05-18
-TX,city,Northlake,,0.02,TX-2061319,sales,2026-04-01,https://comptroller.texas.gov/data/edi/sales-tax/taxrates.txt,2026-05-18
+TX,city,Northlake,,0.015,TX-2061319,sales,2026-10-01,https://comptroller.texas.gov/data/edi/sales-tax/taxrates.txt,2026-10-27
 TX,city,Novice,,0.02,TX-2042046,sales,2026-04-01,https://comptroller.texas.gov/data/edi/sales-tax/taxrates.txt,2026-05-18
 TX,city,O Brien,,0.01,TX-2104050,sales,2026-04-01,https://comptroller.texas.gov/data/edi/sales-tax/taxrates.txt,2026-05-18
 TX,city,ODonnell,,0.01,TX-2153023,sales,2026-04-01,https://comptroller.texas.gov/data/edi/sales-tax/taxrates.txt,2026-05-18
@@ -11471,7 +11471,7 @@ TX,city,Onalaska,,0.015,TX-2187032,sales,2026-04-01,https://comptroller.texas.go
 TX,city,Opdyke West,,0.01,TX-2110052,sales,2026-04-01,https://comptroller.texas.gov/data/edi/sales-tax/taxrates.txt,2026-05-18
 TX,city,Orange,,0.015,TX-2181029,sales,2026-04-01,https://comptroller.texas.gov/data/edi/sales-tax/taxrates.txt,2026-05-18
 TX,city,Orange Grove,,0.015,TX-2125019,sales,2026-04-01,https://comptroller.texas.gov/data/edi/sales-tax/taxrates.txt,2026-05-18
-TX,city,Orchard,,0.02,TX-2079097,sales,2026-04-01,https://comptroller.texas.gov/data/edi/sales-tax/taxrates.txt,2026-05-18
+TX,city,Orchard,,0.0175,TX-2079097,sales,2026-10-01,https://comptroller.texas.gov/data/edi/sales-tax/taxrates.txt,2026-10-27
 TX,city,Orchard/ft Bend Cad 19,,0.02,TX-6079612,sales,2026-04-01,https://comptroller.texas.gov/data/edi/sales-tax/taxrates.txt,2026-05-18
 TX,city,Ore City,,0.015,TX-2230020,sales,2026-04-01,https://comptroller.texas.gov/data/edi/sales-tax/taxrates.txt,2026-05-18
 TX,city,Overton,,0.015,TX-2201025,sales,2026-04-01,https://comptroller.texas.gov/data/edi/sales-tax/taxrates.txt,2026-05-18
@@ -11496,7 +11496,7 @@ TX,city,Parker,,0.02,TX-2043223,sales,2026-04-01,https://comptroller.texas.gov/d
 TX,city,Pasadena,,0.015,TX-2101035,sales,2026-04-01,https://comptroller.texas.gov/data/edi/sales-tax/taxrates.txt,2026-05-18
 TX,city,Pattison,,0.02,TX-2237050,sales,2026-04-01,https://comptroller.texas.gov/data/edi/sales-tax/taxrates.txt,2026-05-18
 TX,city,Patton Village,,0.01,TX-2170077,sales,2026-04-01,https://comptroller.texas.gov/data/edi/sales-tax/taxrates.txt,2026-05-18
-TX,city,Payne Springs,,0.02,TX-2107155,sales,2026-04-01,https://comptroller.texas.gov/data/edi/sales-tax/taxrates.txt,2026-05-18
+TX,city,Payne Springs,,0.0175,TX-2107155,sales,2026-10-01,https://comptroller.texas.gov/data/edi/sales-tax/taxrates.txt,2026-10-27
 TX,city,Pearland,,0.015,TX-2020024,sales,2026-04-01,https://comptroller.texas.gov/data/edi/sales-tax/taxrates.txt,2026-05-18
 TX,city,Pearsall,,0.015,TX-2082029,sales,2026-04-01,https://comptroller.texas.gov/data/edi/sales-tax/taxrates.txt,2026-05-18
 TX,city,Peaster,,0.01,TX-2184179,sales,2026-04-01,https://comptroller.texas.gov/data/edi/sales-tax/taxrates.txt,2026-05-18
@@ -11610,7 +11610,7 @@ TX,city,Rogers,,0.0125,TX-2014059,sales,2026-04-01,https://comptroller.texas.gov
 TX,city,Rollingwood,,0.015,TX-2227052,sales,2026-04-01,https://comptroller.texas.gov/data/edi/sales-tax/taxrates.txt,2026-05-18
 TX,city,Roma,,0.02,TX-2214011,sales,2026-04-01,https://comptroller.texas.gov/data/edi/sales-tax/taxrates.txt,2026-05-18
 TX,city,Ropesville,,0.02,TX-2110034,sales,2026-04-01,https://comptroller.texas.gov/data/edi/sales-tax/taxrates.txt,2026-05-18
-TX,city,Roscoe,,0.02,TX-2177025,sales,2026-04-01,https://comptroller.texas.gov/data/edi/sales-tax/taxrates.txt,2026-05-18
+TX,city,Roscoe,,0.0175,TX-2177025,sales,2026-10-01,https://comptroller.texas.gov/data/edi/sales-tax/taxrates.txt,2026-10-27
 TX,city,Rose City,,0.015,TX-2181056,sales,2026-04-01,https://comptroller.texas.gov/data/edi/sales-tax/taxrates.txt,2026-05-18
 TX,city,Rosebud,,0.015,TX-2073039,sales,2026-04-01,https://comptroller.texas.gov/data/edi/sales-tax/taxrates.txt,2026-05-18
 TX,city,Rosenberg,,0.02,TX-2079015,sales,2026-04-01,https://comptroller.texas.gov/data/edi/sales-tax/taxrates.txt,2026-05-18
@@ -11685,7 +11685,6 @@ TX,city,Shenandoah,,0.015,TX-2170095,sales,2026-04-01,https://comptroller.texas.
 TX,city,Shepherd,,0.015,TX-2204013,sales,2026-04-01,https://comptroller.texas.gov/data/edi/sales-tax/taxrates.txt,2026-05-18
 TX,city,Sherman,,0.02,TX-2091028,sales,2026-04-01,https://comptroller.texas.gov/data/edi/sales-tax/taxrates.txt,2026-05-18
 TX,city,Shiner,,0.02,TX-2143044,sales,2026-04-01,https://comptroller.texas.gov/data/edi/sales-tax/taxrates.txt,2026-05-18
-TX,city,Shoreacres,,0.02,TX-2101259,sales,2026-04-01,https://comptroller.texas.gov/data/edi/sales-tax/taxrates.txt,2026-05-18
 TX,city,Silsbee,,0.02,TX-2100018,sales,2026-04-01,https://comptroller.texas.gov/data/edi/sales-tax/taxrates.txt,2026-05-18
 TX,city,Silsbee/Hardin ESD 6,,0.02,TX-6100624,sales,2026-04-01,https://comptroller.texas.gov/data/edi/sales-tax/taxrates.txt,2026-05-18
 TX,city,Silverton,,0.0175,TX-2023021,sales,2026-04-01,https://comptroller.texas.gov/data/edi/sales-tax/taxrates.txt,2026-05-18
@@ -12150,6 +12149,9 @@ TX,special_district,Ector Co Hospital Dist,,0.0075,TX-5068508,sales,2026-04-01,h
 TX,special_district,Ector County ASD,,0.0125,TX-5068535,sales,2026-04-01,https://comptroller.texas.gov/data/edi/sales-tax/taxrates.txt,2026-05-18
 TX,special_district,El Paso Co ESD 2,,0.005,TX-5071503,sales,2026-04-01,https://comptroller.texas.gov/data/edi/sales-tax/taxrates.txt,2026-05-18
 TX,special_district,El Paso Cty ESD 1,,0.015,TX-5071512,sales,2026-04-01,https://comptroller.texas.gov/data/edi/sales-tax/taxrates.txt,2026-05-18
+TX,special_district,Ellis Co ESD 1,,0.02,TX-5070559,sales,2026-10-01,https://comptroller.texas.gov/data/edi/sales-tax/taxrates.txt,2026-10-27
+TX,special_district,Ellis Co ESD 9,,0.02,TX-5070568,sales,2026-10-01,https://comptroller.texas.gov/data/edi/sales-tax/taxrates.txt,2026-10-27
+TX,special_district,Ellis Co ESD 9-A,,0.015,TX-5070577,sales,2026-10-01,https://comptroller.texas.gov/data/edi/sales-tax/taxrates.txt,2026-10-27
 TX,special_district,Ellis County ESD No 2,,0.02,TX-5070522,sales,2026-04-01,https://comptroller.texas.gov/data/edi/sales-tax/taxrates.txt,2026-05-18
 TX,special_district,Ellis County ESD No 2A,,0.0175,TX-5070531,sales,2026-04-01,https://comptroller.texas.gov/data/edi/sales-tax/taxrates.txt,2026-05-18
 TX,special_district,Elsa Mun Dev Dist,,0.005,TX-5108555,sales,2026-04-01,https://comptroller.texas.gov/data/edi/sales-tax/taxrates.txt,2026-05-18
@@ -12293,9 +12295,11 @@ TX,special_district,Johnson Cty ESD 1 B,,0.02,TX-5126526,sales,2026-04-01,https:
 TX,special_district,Josephine Municipal,,0.005,TX-5043571,sales,2026-04-01,https://comptroller.texas.gov/data/edi/sales-tax/taxrates.txt,2026-05-18
 TX,special_district,Kaufman CO Asst Dist 2,,0.02,TX-5129532,sales,2026-04-01,https://comptroller.texas.gov/data/edi/sales-tax/taxrates.txt,2026-05-18
 TX,special_district,Kaufman Co ASD 1,,0.02,TX-5129523,sales,2026-04-01,https://comptroller.texas.gov/data/edi/sales-tax/taxrates.txt,2026-05-18
+TX,special_district,Kaufman Co ESD 1,,0.02,TX-5129630,sales,2026-10-01,https://comptroller.texas.gov/data/edi/sales-tax/taxrates.txt,2026-10-27
 TX,special_district,Kaufman Co ESD 4,,0.0175,TX-5129569,sales,2026-04-01,https://comptroller.texas.gov/data/edi/sales-tax/taxrates.txt,2026-05-18
 TX,special_district,Kaufman Co ESD 6,,0.02,TX-5129550,sales,2026-04-01,https://comptroller.texas.gov/data/edi/sales-tax/taxrates.txt,2026-05-18
 TX,special_district,Kaufman Co ESD 7,,0.02,TX-5129578,sales,2026-04-01,https://comptroller.texas.gov/data/edi/sales-tax/taxrates.txt,2026-05-18
+TX,special_district,Kaufman Co ESK 1-A,,0.0175,TX-5129649,sales,2026-10-01,https://comptroller.texas.gov/data/edi/sales-tax/taxrates.txt,2026-10-27
 TX,special_district,Kaufman County ESD 2,,0.02,TX-5129621,sales,2026-04-01,https://comptroller.texas.gov/data/edi/sales-tax/taxrates.txt,2026-05-18
 TX,special_district,Kaufman Cty Asst Dist 3,,0.02,TX-5129541,sales,2026-04-01,https://comptroller.texas.gov/data/edi/sales-tax/taxrates.txt,2026-05-18
 TX,special_district,Kaufman ESD 3,,0.02,TX-5129596,sales,2026-04-01,https://comptroller.texas.gov/data/edi/sales-tax/taxrates.txt,2026-05-18
@@ -12350,6 +12354,7 @@ TX,special_district,Montgomery Co ESD 1,,0.02,TX-5170610,sales,2026-04-01,https:
 TX,special_district,Montgomery Co ESD 1-A,,0.005,TX-5170790,sales,2026-04-01,https://comptroller.texas.gov/data/edi/sales-tax/taxrates.txt,2026-05-18
 TX,special_district,Montgomery Co ESD 1-B,,0.01,TX-5170807,sales,2026-04-01,https://comptroller.texas.gov/data/edi/sales-tax/taxrates.txt,2026-05-18
 TX,special_district,Montgomery Co ESD 10,,0.01,TX-5170745,sales,2026-04-01,https://comptroller.texas.gov/data/edi/sales-tax/taxrates.txt,2026-05-18
+TX,special_district,Montgomery Co ESD 10-A,,0.02,TX-5170852,sales,2026-10-01,https://comptroller.texas.gov/data/edi/sales-tax/taxrates.txt,2026-10-27
 TX,special_district,Montgomery Co ESD 14,,0.01,TX-5170772,sales,2026-04-01,https://comptroller.texas.gov/data/edi/sales-tax/taxrates.txt,2026-05-18
 TX,special_district,Montgomery Co ESD 2,,0.02,TX-5170781,sales,2026-04-01,https://comptroller.texas.gov/data/edi/sales-tax/taxrates.txt,2026-05-18
 TX,special_district,Montgomery Co ESD 3,,0.02,TX-5170594,sales,2026-04-01,https://comptroller.texas.gov/data/edi/sales-tax/taxrates.txt,2026-05-18
@@ -12371,6 +12376,7 @@ TX,special_district,Natalia Mun Dev Dist,,0.005,TX-5163502,sales,2026-04-01,http
 TX,special_district,Newark Mun Dev Dist,,0.005,TX-5249500,sales,2026-04-01,https://comptroller.texas.gov/data/edi/sales-tax/taxrates.txt,2026-05-18
 TX,special_district,Newton County ESD 6,,0.02,TX-5176507,sales,2026-04-01,https://comptroller.texas.gov/data/edi/sales-tax/taxrates.txt,2026-05-18
 TX,special_district,No Richland Hills Crm Co,,0.005,TX-5220549,sales,2026-04-01,https://comptroller.texas.gov/data/edi/sales-tax/taxrates.txt,2026-05-18
+TX,special_district,Northlake Mun Dev Dist,,0.005,TX-5061747,sales,2026-10-01,https://comptroller.texas.gov/data/edi/sales-tax/taxrates.txt,2026-10-27
 TX,special_district,Nueces-JimWellsCo ESD 5,,0.015,TX-5178523,sales,2026-04-01,https://comptroller.texas.gov/data/edi/sales-tax/taxrates.txt,2026-05-18
 TX,special_district,Oak Point Mun Dev Dist,,0.0025,TX-5061621,sales,2026-04-01,https://comptroller.texas.gov/data/edi/sales-tax/taxrates.txt,2026-05-18
 TX,special_district,Old Town Spring Improvem,,0.01,TX-5101543,sales,2026-04-01,https://comptroller.texas.gov/data/edi/sales-tax/taxrates.txt,2026-05-18
