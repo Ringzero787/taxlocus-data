@@ -3,11 +3,11 @@
   "source": "https://taxlocus.com",
   "license": "CC-BY-4.0",
   "dataset_version": "3.0.0",
-  "generated_at": "2026-10-27",
-  "last_changed": "2026-10-27",
+  "generated_at": "2026-11-01",
+  "last_changed": "2026-11-01",
   "row_counts": {
     "state_rates": 46,
-    "jurisdiction_rates": 14602,
+    "jurisdiction_rates": 14609,
     "nexus_thresholds": 47,
     "taxability": 1979,
     "marketplace_facilitator_rules": 47,
@@ -35,8 +35,8 @@
       ]
     },
     "jurisdiction_rates": {
-      "rows": 14602,
-      "last_changed": "2026-10-27",
+      "rows": 14609,
+      "last_changed": "2026-11-01",
       "key": [
         "source_key",
         "rate_type"
@@ -92,7 +92,7 @@
     },
     "marketplace_facilitator_rules": {
       "rows": 47,
-      "last_changed": "2026-09-30",
+      "last_changed": "2026-10-30",
       "key": [
         "state"
       ],
@@ -109,7 +109,7 @@
     },
     "rate_change_frequency": {
       "rows": 22,
-      "last_changed": "2026-10-27",
+      "last_changed": "2026-11-01",
       "key": [
         "state"
       ],
@@ -201,7 +201,7 @@
     },
     "payroll_local_income_tax": {
       "rows": 3662,
-      "last_changed": "2026-10-27",
+      "last_changed": "2026-11-01",
       "key": [
         "year",
         "state",
@@ -252,52 +252,52 @@
       "rows": 46
     },
     "jurisdiction_rates.csv": {
-      "sha256": "689f465394a070638b3267291c7381ca438b4d7a0d8a5b7eaa1893ff402095a3",
-      "bytes": 2236369,
-      "rows": 14602
+      "sha256": "da38716c2419a7e708a23ca6654a66ab2002ee82ceeb47f91621f92a7c6f4474",
+      "bytes": 2237447,
+      "rows": 14609
     },
     "jurisdiction_rates.json": {
-      "sha256": "90abf6cc9c0565ac8c6dfedce213e7caa7382da0d3f618c0db725d9427c9fdf6",
-      "bytes": 5301385,
-      "rows": 14602
+      "sha256": "ee0e11ae168b0036195488867a55a739559efd0b658d12b600d1a07d9191b5ac",
+      "bytes": 5303926,
+      "rows": 14609
     },
     "nexus_thresholds.csv": {
-      "sha256": "e3db0dcc60f2e2182b041e0673f4875db57921424f59adec0ae0747ff6b3ab94",
+      "sha256": "11b0afbd82d93849fa43b8b1197768f4986f722412c0a9047e5599574e804a87",
       "bytes": 6665,
       "rows": 47
     },
     "nexus_thresholds.json": {
-      "sha256": "f2b6d889aee06f610d87a8dbb4f783d6ff640af8823b24ea98882fb274b60d9f",
+      "sha256": "cfd75b1484755a707166968c3af69cb7f071e4ecb2304e87b4e794373ed7c71c",
       "bytes": 15656,
       "rows": 47
     },
     "taxability.csv": {
-      "sha256": "59e4151dbb986f4a24c66f0eca983b6f2a82a2c71e65602363683ece08ce9066",
-      "bytes": 470192,
+      "sha256": "329d573fc94b08cb2d85373b9ac34dc42f908be7358c7084af49c58f3a1a94dc",
+      "bytes": 470449,
       "rows": 1979
     },
     "taxability.json": {
-      "sha256": "eb37290279710f091b6983ab86336011c2b064c2b42a80a603a4f86492868bf6",
-      "bytes": 873425,
+      "sha256": "64a4c2f17ce8ea6d84aaccac5699e45ff065cf65b73dd6c39700c68ede406bdf",
+      "bytes": 873694,
       "rows": 1979
     },
     "marketplace_facilitator_rules.csv": {
-      "sha256": "efc42aa2c335c25abf76901bd16ad90aa9b4755e18791f15a9a03b358317b50a",
-      "bytes": 5614,
+      "sha256": "d9f994c4209deca881b6ace7d51e18d31879c320c571b87b0d9bffe217336ade",
+      "bytes": 5684,
       "rows": 47
     },
     "marketplace_facilitator_rules.json": {
-      "sha256": "e6e992e24f6b69dcb989616688cf67f2c86244d5ad116574903ec708445daa62",
-      "bytes": 15225,
+      "sha256": "d91a635394ac4a8f9b85c1c7acc947d5fd6563b5231db20e2e14ad107f649fd0",
+      "bytes": 15295,
       "rows": 47
     },
     "rate_change_frequency.csv": {
-      "sha256": "0b33de90527493b1f080850cf47718a3abe0bf62a282d80874c6056cdf84d964",
+      "sha256": "8359e24b8c87c5971712a552ccbbe39d48aa248dc6402cc499ea1132f4d767b2",
       "bytes": 1002,
       "rows": 22
     },
     "rate_change_frequency.json": {
-      "sha256": "54fe85b0a8df973ba747d650865799cd6ffa3f59d3d7c85f086042a1b817bbab",
+      "sha256": "6cc7f90df44a283c5b683451d2c9262c4a6e429fce04ea5c088c313b6fe2fe1a",
       "bytes": 5021,
       "rows": 22
     },
@@ -342,12 +342,12 @@
       "rows": 102
     },
     "payroll_local_income_tax.csv": {
-      "sha256": "fa7f818729992c6453aad59714500c512385ffbf19529ed73705b5561d1c707c",
+      "sha256": "b9789f3c86abba66314e8dcd419f483572a262b58c9818954654bd1b111016da",
       "bytes": 1479805,
       "rows": 3662
     },
     "payroll_local_income_tax.json": {
-      "sha256": "1fb6a7fe68f17fe4ae365647859bbcde3b309296ceac5513275a47faf443cb7b",
+      "sha256": "4e5b0175e2d0f8655fd8d8b305fce3529df287b92f312d6d4a487a8e25f346b9",
       "bytes": 2413907,
       "rows": 3662
     },

@@ -21,7 +21,7 @@ AK,city,Brevig Mission,,0.03,AK-P-brevigmission,sales,2024-01-01,https://arsstc.
 AK,city,Buckland,,0.06,AK-P-buckland,sales,2024-01-01,https://arsstc.org/business-sellers/member-jurisdictions/,2026-05-18
 AK,city,Chefornak,,0.02,AK-P-chefornak,sales,2024-01-01,https://arsstc.org/business-sellers/member-jurisdictions/,2026-05-18
 AK,city,Chevak,,0.03,AK-P-chevak,sales,2024-01-01,https://arsstc.org/business-sellers/member-jurisdictions/,2026-05-18
-AK,city,Chignik,,0.02,AK-P-chignik,sales,2024-01-01,https://arsstc.org/business-sellers/member-jurisdictions/,2026-05-18
+AK,city,Chignik,,0.0,AK-P-chignik,sales,2026-11-01,https://arsstc.org/business-sellers/member-jurisdictions/,2026-11-01
 AK,city,Clark's Point,,0.06,AK-P-clarkspoint,sales,2024-01-01,https://arsstc.org/business-sellers/member-jurisdictions/,2026-05-18
 AK,city,Cordova,,0.07,AK-P-cordova,sales,2024-02-01,https://arsstc.org/business-sellers/member-jurisdictions/,2026-09-29
 AK,city,Craig,,0.06,AK-P-craig,sales,2026-10-01,https://arsstc.org/business-sellers/member-jurisdictions/,2026-10-01
@@ -10141,9 +10141,11 @@ TN,city,Bartlett,03440,0.0275,TN-P-03440,sales,2012-10-01,https://www.streamline
 TN,city,Baxter,03680,0.0275,TN-P-03680,sales,1999-07-01,https://www.streamlinedsalestax.org/ratesandboundry/Rates/TNR2025Q1MAR07.csv,2026-05-18
 TN,city,Beersheba Springs,04240,0.0225,TN-P-04240,sales,1989-01-01,https://www.streamlinedsalestax.org/ratesandboundry/Rates/TNR2025Q1MAR07.csv,2026-05-18
 TN,city,Bell Buckle,04460,0.0275,TN-P-04460,sales,2001-08-01,https://www.streamlinedsalestax.org/ratesandboundry/Rates/TNR2025Q1MAR07.csv,2026-05-18
+TN,city,Belle Meade,04620,0.0175,TN-P-04620,food,2026-11-01,https://www.streamlinedsalestax.org/ratesandboundry/Rates/TNR2026Q4AUG21.csv,2026-10-23
 TN,city,Belle Meade,04620,0.0225,TN-P-04620,sales,1989-01-01,https://www.streamlinedsalestax.org/ratesandboundry/Rates/TNR2025Q1MAR07.csv,2026-05-18
 TN,city,Bells,04720,0.0275,TN-P-04720,sales,1996-06-01,https://www.streamlinedsalestax.org/ratesandboundry/Rates/TNR2025Q1MAR07.csv,2026-05-18
 TN,city,Benton,05040,0.0275,TN-P-05040,sales,2008-01-01,https://www.streamlinedsalestax.org/ratesandboundry/Rates/TNR2025Q1MAR07.csv,2026-05-18
+TN,city,Berry Hill,05140,0.0175,TN-P-05140,food,2026-11-01,https://www.streamlinedsalestax.org/ratesandboundry/Rates/TNR2026Q4AUG21.csv,2026-10-23
 TN,city,Berry Hill,05140,0.0225,TN-P-05140,sales,1989-01-01,https://www.streamlinedsalestax.org/ratesandboundry/Rates/TNR2025Q1MAR07.csv,2026-05-18
 TN,city,Bethel Springs,05380,0.0225,TN-P-05380,sales,1989-01-01,https://www.streamlinedsalestax.org/ratesandboundry/Rates/TNR2025Q1MAR07.csv,2026-05-18
 TN,city,Big Sandy,05860,0.0275,TN-P-05860,sales,1997-01-01,https://www.streamlinedsalestax.org/ratesandboundry/Rates/TNR2025Q1MAR07.csv,2026-05-18
@@ -10226,6 +10228,7 @@ TN,city,Etowah,24480,0.0275,TN-P-24480,sales,2020-05-01,https://www.streamlineds
 TN,city,Fairview,25440,0.0275,TN-P-25440,sales,2004-04-01,https://www.streamlinedsalestax.org/ratesandboundry/Rates/TNR2025Q1MAR07.csv,2026-05-18
 TN,city,Fayetteville,25920,0.025,TN-P-25920,sales,1992-05-01,https://www.streamlinedsalestax.org/ratesandboundry/Rates/TNR2025Q1MAR07.csv,2026-05-18
 TN,city,Finger,26160,0.0225,TN-P-26160,sales,1989-01-01,https://www.streamlinedsalestax.org/ratesandboundry/Rates/TNR2025Q1MAR07.csv,2026-05-18
+TN,city,Forest Hills,27020,0.0175,TN-P-27020,food,2026-11-01,https://www.streamlinedsalestax.org/ratesandboundry/Rates/TNR2026Q4AUG21.csv,2026-10-23
 TN,city,Forest Hills,27020,0.0225,TN-P-27020,sales,1989-01-01,https://www.streamlinedsalestax.org/ratesandboundry/Rates/TNR2025Q1MAR07.csv,2026-05-18
 TN,city,Franklin,27740,0.0275,TN-P-27740,sales,2018-04-01,https://www.streamlinedsalestax.org/ratesandboundry/Rates/TNR2025Q1MAR07.csv,2026-05-18
 TN,city,Friendship,27960,0.0275,TN-P-27960,sales,1996-06-01,https://www.streamlinedsalestax.org/ratesandboundry/Rates/TNR2025Q1MAR07.csv,2026-05-18
@@ -10253,6 +10256,7 @@ TN,city,Halls,31820,0.0275,TN-P-31820,sales,1995-01-01,https://www.streamlinedsa
 TN,city,Harriman,32520,0.025,TN-P-32520,sales,1989-01-01,https://www.streamlinedsalestax.org/ratesandboundry/Rates/TNR2025Q1MAR07.csv,2026-05-18
 TN,city,Harrogate,32640,0.0225,TN-P-32640,sales,1992-11-01,https://www.streamlinedsalestax.org/ratesandboundry/Rates/TNR2025Q1MAR07.csv,2026-05-18
 TN,city,Henderson,33260,0.0275,TN-P-33260,sales,1995-06-01,https://www.streamlinedsalestax.org/ratesandboundry/Rates/TNR2025Q1MAR07.csv,2026-05-18
+TN,city,Hendersonville,33280,0.0225,TN-P-33280,food,2025-02-01,https://www.streamlinedsalestax.org/ratesandboundry/Rates/TNR2026Q4AUG21.csv,2026-10-23
 TN,city,Hendersonville,33280,0.0275,TN-P-33280,sales,2025-02-01,https://www.streamlinedsalestax.org/ratesandboundry/Rates/TNR2025Q1MAR07.csv,2026-05-18
 TN,city,Henning,33360,0.0275,TN-P-33360,sales,1995-01-01,https://www.streamlinedsalestax.org/ratesandboundry/Rates/TNR2025Q1MAR07.csv,2026-05-18
 TN,city,Henry,33400,0.0275,TN-P-33400,sales,2015-07-01,https://www.streamlinedsalestax.org/ratesandboundry/Rates/TNR2025Q1MAR07.csv,2026-05-18
@@ -10327,6 +10331,7 @@ TN,city,Mount Pleasant,51080,0.0275,TN-P-51080,sales,2020-05-01,https://www.stre
 TN,city,Mountain City,50400,0.02,TN-P-50400,sales,2025-01-01,https://www.streamlinedsalestax.org/ratesandboundry/Rates/TNR2025Q1MAR07.csv,2026-05-18
 TN,city,Munford,51540,0.0275,TN-P-51540,sales,2013-11-01,https://www.streamlinedsalestax.org/ratesandboundry/Rates/TNR2025Q1MAR07.csv,2026-05-18
 TN,city,Murfreesboro,51560,0.0275,TN-P-51560,sales,2000-07-01,https://www.streamlinedsalestax.org/ratesandboundry/Rates/TNR2025Q1MAR07.csv,2026-05-18
+TN,city,Nashville-Davidson metropolitan government (balance),52006,0.0175,TN-P-52006,food,2026-11-01,https://www.streamlinedsalestax.org/ratesandboundry/Rates/TNR2026Q4AUG21.csv,2026-10-23
 TN,city,Nashville-Davidson metropolitan government (balance),52006,0.0225,TN-P-52006,sales,1989-01-01,https://www.streamlinedsalestax.org/ratesandboundry/Rates/TNR2025Q1MAR07.csv,2026-05-18
 TN,city,New Hope,52780,0.0275,TN-P-52780,sales,2006-05-01,https://www.streamlinedsalestax.org/ratesandboundry/Rates/TNR2025Q1MAR07.csv,2026-05-18
 TN,city,New Johnsonville,52820,0.0275,TN-P-52820,sales,2011-10-01,https://www.streamlinedsalestax.org/ratesandboundry/Rates/TNR2025Q1MAR07.csv,2026-05-18
@@ -10338,6 +10343,7 @@ TN,city,Niota,53380,0.0275,TN-P-53380,sales,2020-05-01,https://www.streamlinedsa
 TN,city,Nolensville,53460,0.0275,TN-P-53460,sales,2018-04-01,https://www.streamlinedsalestax.org/ratesandboundry/Rates/TNR2025Q1MAR07.csv,2026-05-18
 TN,city,Normandy,53580,0.0275,TN-P-53580,sales,2001-08-01,https://www.streamlinedsalestax.org/ratesandboundry/Rates/TNR2025Q1MAR07.csv,2026-05-18
 TN,city,Norris,53600,0.0275,TN-P-53600,sales,2006-07-01,https://www.streamlinedsalestax.org/ratesandboundry/Rates/TNR2025Q1MAR07.csv,2026-05-18
+TN,city,Oak Hill,54780,0.0175,TN-P-54780,food,2026-11-01,https://www.streamlinedsalestax.org/ratesandboundry/Rates/TNR2026Q4AUG21.csv,2026-10-23
 TN,city,Oak Hill,54780,0.0225,TN-P-54780,sales,1989-01-01,https://www.streamlinedsalestax.org/ratesandboundry/Rates/TNR2025Q1MAR07.csv,2026-05-18
 TN,city,Oakdale,54280,0.02,TN-P-54280,sales,1989-01-01,https://www.streamlinedsalestax.org/ratesandboundry/Rates/TNR2025Q1MAR07.csv,2026-05-18
 TN,city,Oakland,54920,0.0275,TN-P-54920,sales,2019-07-01,https://www.streamlinedsalestax.org/ratesandboundry/Rates/TNR2025Q1MAR07.csv,2026-05-18
@@ -10455,6 +10461,7 @@ TN,county,Cocke,029,0.0275,TN-C-029,sales,1989-01-01,https://www.streamlinedsale
 TN,county,Coffee,031,0.0275,TN-C-031,sales,2007-04-01,https://www.streamlinedsalestax.org/ratesandboundry/Rates/TNR2025Q1MAR07.csv,2026-05-18
 TN,county,Crockett,033,0.0275,TN-C-033,sales,1996-06-01,https://www.streamlinedsalestax.org/ratesandboundry/Rates/TNR2025Q1MAR07.csv,2026-05-18
 TN,county,Cumberland,035,0.0275,TN-C-035,sales,1999-09-01,https://www.streamlinedsalestax.org/ratesandboundry/Rates/TNR2025Q1MAR07.csv,2026-05-18
+TN,county,Davidson,037,0.0175,TN-C-037,food,2026-11-01,https://www.streamlinedsalestax.org/ratesandboundry/Rates/TNR2026Q4AUG21.csv,2026-10-23
 TN,county,Davidson,037,0.0225,TN-C-037,sales,1989-01-01,https://www.streamlinedsalestax.org/ratesandboundry/Rates/TNR2025Q1MAR07.csv,2026-05-18
 TN,county,DeKalb,041,0.0275,TN-C-041,sales,2007-07-01,https://www.streamlinedsalestax.org/ratesandboundry/Rates/TNR2025Q1MAR07.csv,2026-05-18
 TN,county,Decatur,039,0.025,TN-C-039,sales,1998-02-01,https://www.streamlinedsalestax.org/ratesandboundry/Rates/TNR2025Q1MAR07.csv,2026-05-18

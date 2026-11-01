@@ -268,12 +268,12 @@
     "jurisdiction_type": "city",
     "name": "Chignik",
     "fips_code": null,
-    "rate": 0.02,
+    "rate": 0.0,
     "source_key": "AK-P-chignik",
     "rate_type": "sales",
-    "effective_date": "2024-01-01",
+    "effective_date": "2026-11-01",
     "source_url": "https://arsstc.org/business-sellers/member-jurisdictions/",
-    "retrieved_at": "2026-05-18"
+    "retrieved_at": "2026-11-01"
   },
   {
     "state": "AK",
@@ -121708,6 +121708,18 @@
     "jurisdiction_type": "city",
     "name": "Belle Meade",
     "fips_code": "04620",
+    "rate": 0.0175,
+    "source_key": "TN-P-04620",
+    "rate_type": "food",
+    "effective_date": "2026-11-01",
+    "source_url": "https://www.streamlinedsalestax.org/ratesandboundry/Rates/TNR2026Q4AUG21.csv",
+    "retrieved_at": "2026-10-23"
+  },
+  {
+    "state": "TN",
+    "jurisdiction_type": "city",
+    "name": "Belle Meade",
+    "fips_code": "04620",
     "rate": 0.0225,
     "source_key": "TN-P-04620",
     "rate_type": "sales",
@@ -121738,6 +121750,18 @@
     "effective_date": "2008-01-01",
     "source_url": "https://www.streamlinedsalestax.org/ratesandboundry/Rates/TNR2025Q1MAR07.csv",
     "retrieved_at": "2026-05-18"
+  },
+  {
+    "state": "TN",
+    "jurisdiction_type": "city",
+    "name": "Berry Hill",
+    "fips_code": "05140",
+    "rate": 0.0175,
+    "source_key": "TN-P-05140",
+    "rate_type": "food",
+    "effective_date": "2026-11-01",
+    "source_url": "https://www.streamlinedsalestax.org/ratesandboundry/Rates/TNR2026Q4AUG21.csv",
+    "retrieved_at": "2026-10-23"
   },
   {
     "state": "TN",
@@ -122728,6 +122752,18 @@
     "jurisdiction_type": "city",
     "name": "Forest Hills",
     "fips_code": "27020",
+    "rate": 0.0175,
+    "source_key": "TN-P-27020",
+    "rate_type": "food",
+    "effective_date": "2026-11-01",
+    "source_url": "https://www.streamlinedsalestax.org/ratesandboundry/Rates/TNR2026Q4AUG21.csv",
+    "retrieved_at": "2026-10-23"
+  },
+  {
+    "state": "TN",
+    "jurisdiction_type": "city",
+    "name": "Forest Hills",
+    "fips_code": "27020",
     "rate": 0.0225,
     "source_key": "TN-P-27020",
     "rate_type": "sales",
@@ -123046,6 +123082,18 @@
     "effective_date": "1995-06-01",
     "source_url": "https://www.streamlinedsalestax.org/ratesandboundry/Rates/TNR2025Q1MAR07.csv",
     "retrieved_at": "2026-05-18"
+  },
+  {
+    "state": "TN",
+    "jurisdiction_type": "city",
+    "name": "Hendersonville",
+    "fips_code": "33280",
+    "rate": 0.0225,
+    "source_key": "TN-P-33280",
+    "rate_type": "food",
+    "effective_date": "2025-02-01",
+    "source_url": "https://www.streamlinedsalestax.org/ratesandboundry/Rates/TNR2026Q4AUG21.csv",
+    "retrieved_at": "2026-10-23"
   },
   {
     "state": "TN",
@@ -123940,6 +123988,18 @@
     "jurisdiction_type": "city",
     "name": "Nashville-Davidson metropolitan government (balance)",
     "fips_code": "52006",
+    "rate": 0.0175,
+    "source_key": "TN-P-52006",
+    "rate_type": "food",
+    "effective_date": "2026-11-01",
+    "source_url": "https://www.streamlinedsalestax.org/ratesandboundry/Rates/TNR2026Q4AUG21.csv",
+    "retrieved_at": "2026-10-23"
+  },
+  {
+    "state": "TN",
+    "jurisdiction_type": "city",
+    "name": "Nashville-Davidson metropolitan government (balance)",
+    "fips_code": "52006",
     "rate": 0.0225,
     "source_key": "TN-P-52006",
     "rate_type": "sales",
@@ -124066,6 +124126,18 @@
     "effective_date": "2006-07-01",
     "source_url": "https://www.streamlinedsalestax.org/ratesandboundry/Rates/TNR2025Q1MAR07.csv",
     "retrieved_at": "2026-05-18"
+  },
+  {
+    "state": "TN",
+    "jurisdiction_type": "city",
+    "name": "Oak Hill",
+    "fips_code": "54780",
+    "rate": 0.0175,
+    "source_key": "TN-P-54780",
+    "rate_type": "food",
+    "effective_date": "2026-11-01",
+    "source_url": "https://www.streamlinedsalestax.org/ratesandboundry/Rates/TNR2026Q4AUG21.csv",
+    "retrieved_at": "2026-10-23"
   },
   {
     "state": "TN",
@@ -125470,6 +125542,18 @@
     "effective_date": "1999-09-01",
     "source_url": "https://www.streamlinedsalestax.org/ratesandboundry/Rates/TNR2025Q1MAR07.csv",
     "retrieved_at": "2026-05-18"
+  },
+  {
+    "state": "TN",
+    "jurisdiction_type": "county",
+    "name": "Davidson",
+    "fips_code": "037",
+    "rate": 0.0175,
+    "source_key": "TN-C-037",
+    "rate_type": "food",
+    "effective_date": "2026-11-01",
+    "source_url": "https://www.streamlinedsalestax.org/ratesandboundry/Rates/TNR2026Q4AUG21.csv",
+    "retrieved_at": "2026-10-23"
   },
   {
     "state": "TN",

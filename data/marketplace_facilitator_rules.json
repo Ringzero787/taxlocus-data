@@ -3,11 +3,11 @@
     "state": "AK",
     "facilitator_collects": true,
     "seller_still_files": false,
-    "counts_toward_seller_nexus": false,
+    "counts_toward_seller_nexus": true,
     "threshold_usd": 100000.0,
-    "effective_date": "2020-01-06",
-    "citation_url": "https://arsstc.org/",
-    "retrieved_at": "2026-05-20"
+    "effective_date": "2025-01-01",
+    "citation_url": "https://arsstc.org/wp-content/uploads/2024/09/Uniform-Code_2024-revisions_final_070824.pdf",
+    "retrieved_at": "2026-10-30"
   },
   {
     "state": "AL",

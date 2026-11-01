@@ -5,7 +5,7 @@
     "transaction_threshold": null,
     "logic": "sales_only",
     "measurement_period": "current_or_prior_cy",
-    "effective_date": "2024-01-01",
+    "effective_date": "2025-01-01",
     "source_url": "https://arsstc.org/wp-content/uploads/2024/09/Uniform-Code_2024-revisions_final_070824.pdf",
     "retrieved_at": "2026-09-30"
   },
@@ -135,7 +135,7 @@
     "transaction_threshold": null,
     "logic": "sales_only",
     "measurement_period": "prior_4_quarters",
-    "effective_date": "2024-01-01",
+    "effective_date": "2026-01-01",
     "source_url": "https://www.ilga.gov/Documents/legislation/ilcs/documents/003501050K2.htm",
     "retrieved_at": "2026-09-30"
   },
@@ -255,7 +255,7 @@
     "transaction_threshold": null,
     "logic": "sales_only",
     "measurement_period": "current_or_prior_cy",
-    "effective_date": "2024-01-01",
+    "effective_date": "2024-07-01",
     "source_url": "https://www.ncleg.gov/EnactedLegislation/Statutes/HTML/BySection/Chapter_105/GS_105-164.8.html",
     "retrieved_at": "2026-09-30"
   },
@@ -465,7 +465,7 @@
     "transaction_threshold": null,
     "logic": "sales_only",
     "measurement_period": "current_or_prior_cy",
-    "effective_date": "2024-01-01",
+    "effective_date": "2024-07-01",
     "source_url": "https://wyoleg.gov/statutes/compress/title39.pdf",
     "retrieved_at": "2026-09-30"
   }

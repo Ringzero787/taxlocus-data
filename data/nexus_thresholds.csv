@@ -1,5 +1,5 @@
 state,sales_threshold,transaction_threshold,logic,measurement_period,effective_date,source_url,retrieved_at
-AK,100000.0,,sales_only,current_or_prior_cy,2024-01-01,https://arsstc.org/wp-content/uploads/2024/09/Uniform-Code_2024-revisions_final_070824.pdf,2026-09-30
+AK,100000.0,,sales_only,current_or_prior_cy,2025-01-01,https://arsstc.org/wp-content/uploads/2024/09/Uniform-Code_2024-revisions_final_070824.pdf,2026-09-30
 AL,250000.0,,sales_only,prior_calendar_year,2024-01-01,https://www.revenue.alabama.gov/faqs/are-all-remote-sellers-required-to-register-in-alabama/,2026-09-30
 AR,100000.0,200,sales_or_count,current_or_prior_cy,2024-01-01,https://arkleg.state.ar.us/Acts/FTPDocument?path=%2FACTS%2F2019R%2FPublic%2F&file=822.pdf&ddBienniumSession=2019%2F2019R,2026-09-30
 AZ,100000.0,,sales_only,current_or_prior_cy,2024-01-01,https://www.azleg.gov/ars/42/05044.htm,2026-09-30
@@ -12,7 +12,7 @@ GA,100000.0,200,sales_or_count,current_or_prior_cy,2024-01-01,https://dor.georgi
 HI,100000.0,200,sales_or_count,current_or_prior_cy,2024-01-01,https://files.hawaii.gov/tax/news/announce/ann18-10_amended.pdf,2026-09-30
 IA,100000.0,,sales_only,current_or_prior_cy,2024-01-01,https://www.legis.iowa.gov/docs/code/423.14A.pdf,2026-09-30
 ID,100000.0,,sales_only,current_or_prior_cy,2024-01-01,https://legislature.idaho.gov/statutesrules/idstat/title63/t63ch36/sect63-3611/,2026-09-30
-IL,100000.0,,sales_only,prior_4_quarters,2024-01-01,https://www.ilga.gov/Documents/legislation/ilcs/documents/003501050K2.htm,2026-09-30
+IL,100000.0,,sales_only,prior_4_quarters,2026-01-01,https://www.ilga.gov/Documents/legislation/ilcs/documents/003501050K2.htm,2026-09-30
 IN,100000.0,,sales_only,current_or_prior_cy,2024-01-01,https://www.in.gov/dor/files/sib89.pdf,2026-09-30
 KS,100000.0,,sales_only,current_or_prior_cy,2024-01-01,https://www.ksrevisor.gov/statutes/chapters/ch79/079_037_0002.html,2026-09-30
 KY,100000.0,,sales_only,current_or_prior_cy,2026-08-01,https://apps.legislature.ky.gov/law/acts/26RS/documents/0161.pdf,2026-09-30
@@ -24,7 +24,7 @@ MI,100000.0,200,sales_or_count,prior_calendar_year,2024-01-01,https://www.legisl
 MN,100000.0,200,sales_or_count,rolling_12_month,2024-01-01,https://www.revisor.mn.gov/statutes/cite/297A.66,2026-09-30
 MO,100000.0,,sales_only,prior_4_quarters,2024-01-01,https://revisor.mo.gov/main/OneSection.aspx?section=144.605,2026-09-30
 MS,250000.0,,sales_only,rolling_12_month,2024-01-01,https://www.sos.ms.gov/adminsearch/ACCode/00000159c.pdf,2026-09-30
-NC,100000.0,,sales_only,current_or_prior_cy,2024-01-01,https://www.ncleg.gov/EnactedLegislation/Statutes/HTML/BySection/Chapter_105/GS_105-164.8.html,2026-09-30
+NC,100000.0,,sales_only,current_or_prior_cy,2024-07-01,https://www.ncleg.gov/EnactedLegislation/Statutes/HTML/BySection/Chapter_105/GS_105-164.8.html,2026-09-30
 ND,100000.0,,sales_only,current_or_prior_cy,2024-01-01,https://ndlegis.gov/cencode/t57c39-2.pdf,2026-09-30
 NE,100000.0,200,sales_or_count,current_or_prior_cy,2024-01-01,https://nebraskalegislature.gov/laws/statutes.php?statute=77-2701.13,2026-09-30
 NJ,100000.0,200,sales_or_count,current_or_prior_cy,2024-01-01,https://pub.njleg.gov/bills/2018/PL18/132_.PDF,2026-09-30
@@ -45,4 +45,4 @@ VT,100000.0,200,sales_or_count,rolling_12_month,2024-01-01,https://legislature.v
 WA,100000.0,,sales_only,current_or_prior_cy,2024-01-01,https://dor.wa.gov/taxes-rates/retail-sales-tax/marketplace-fairness-leveling-playing-field/remote-sellers,2026-09-30
 WI,100000.0,,sales_only,current_or_prior_cy,2024-01-01,https://docs.legis.wisconsin.gov/statutes/statutes/77/iii/51/13gm,2026-09-30
 WV,100000.0,200,sales_or_count,current_or_prior_cy,2024-01-01,https://tax.wv.gov/Documents/AdministrativeNotices/2019/AdministrativeNotice.2019-21.pdf,2026-09-30
-WY,100000.0,,sales_only,current_or_prior_cy,2024-01-01,https://wyoleg.gov/statutes/compress/title39.pdf,2026-09-30
+WY,100000.0,,sales_only,current_or_prior_cy,2024-07-01,https://wyoleg.gov/statutes/compress/title39.pdf,2026-09-30

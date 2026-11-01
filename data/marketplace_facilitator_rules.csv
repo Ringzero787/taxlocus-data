@@ -1,5 +1,5 @@
 state,facilitator_collects,seller_still_files,counts_toward_seller_nexus,threshold_usd,effective_date,citation_url,retrieved_at
-AK,True,False,False,100000.0,2020-01-06,https://arsstc.org/,2026-05-20
+AK,True,False,True,100000.0,2025-01-01,https://arsstc.org/wp-content/uploads/2024/09/Uniform-Code_2024-revisions_final_070824.pdf,2026-10-30
 AL,True,False,False,250000.0,2019-01-01,https://alison.legislature.state.al.us/code-of-alabama?section=40-23-199.2,2026-09-30
 AR,True,False,False,100000.0,2019-07-01,https://arkleg.state.ar.us/Acts/FTPDocument?path=%2FACTS%2F2019R%2FPublic%2F&file=822.pdf&ddBienniumSession=2019%2F2019R,2026-09-30
 AZ,True,False,False,100000.0,2019-10-01,https://www.azleg.gov/ars/42/05044.htm,2026-09-30

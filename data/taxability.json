@@ -20349,7 +20349,8 @@
     "taxable": true,
     "treatment": "conditional",
     "conditions": {
-      "note": "Food and food ingredients are taxed at the reduced 4% state rate plus the applicable local rate (Tenn. Code 67-6-228). A city may lower or drop its own city rate on food, and from 2026-10-01 a metropolitan county may too; the full local rate is applied here. Plain bottled water is food and food ingredients.",
+      "note": "Food and food ingredients are taxed at the reduced 4% state rate plus the applicable local rate (Tenn. Code 67-6-228). A city may lower or drop its own city rate on food, and from 2026-10-01 a metropolitan county may too; where one has, its lower food rate is applied (Hendersonville 2.25% from 2025-02-01; Davidson County 1.75% from 2026-11-01). Plain bottled water is food and food ingredients.",
+      "local_food_rate": true,
       "reduced_state_rate": 0.04
     },
     "effective_date": "2024-01-01",
@@ -20398,7 +20399,8 @@
     "taxable": true,
     "treatment": "conditional",
     "conditions": {
-      "note": "Food and food ingredients are taxed at the reduced 4% state rate plus the applicable local rate (Tenn. Code 67-6-228). A city may lower or drop its own city rate on food, and from 2026-10-01 a metropolitan county may too; the full local rate is applied here.",
+      "note": "Food and food ingredients are taxed at the reduced 4% state rate plus the applicable local rate (Tenn. Code 67-6-228). A city may lower or drop its own city rate on food, and from 2026-10-01 a metropolitan county may too; where one has, its lower food rate is applied (Hendersonville 2.25% from 2025-02-01; Davidson County 1.75% from 2026-11-01).",
+      "local_food_rate": true,
       "reduced_state_rate": 0.04
     },
     "effective_date": "2024-01-01",
@@ -20426,6 +20428,7 @@
     "treatment": "conditional",
     "conditions": {
       "note": "Tennessee does not exclude soft drinks from food and food ingredients, so they take the 4% reduced state food rate plus the full local rate, not 7%.",
+      "local_food_rate": true,
       "reduced_state_rate": 0.04
     },
     "effective_date": "2024-01-01",
