@@ -125548,18 +125548,6 @@
     "jurisdiction_type": "county",
     "name": "Davidson",
     "fips_code": "037",
-    "rate": 0.0175,
-    "source_key": "TN-C-037",
-    "rate_type": "food",
-    "effective_date": "2026-11-01",
-    "source_url": "https://www.streamlinedsalestax.org/ratesandboundry/Rates/TNR2026Q4AUG21.csv",
-    "retrieved_at": "2026-10-23"
-  },
-  {
-    "state": "TN",
-    "jurisdiction_type": "county",
-    "name": "Davidson",
-    "fips_code": "037",
     "rate": 0.0225,
     "source_key": "TN-C-037",
     "rate_type": "sales",
