@@ -40,7 +40,7 @@
       },
       {
         "label": "State sales tax (general rate 4.0%)",
-        "notes": "Alabama's general state rate is 4.0%. Reduced STATE rates apply to categories v1 does not split out: food/groceries (3.0% in 2025, scheduled to fall further), automotive vehicles (2.0%), and farm/manufacturing machinery (1.5%); report those at their reduced rates. Alabama also has extensive LOCAL (city/county) taxes, many self-administered: state and state-administered locals are filed via My Alabama Taxes / ONE SPOT, self-administered localities separately. v1 reports the 4.0% state portion only. A timely-filing discount on state sales tax is available; apply per the MAT instructions.",
+        "notes": "Alabama's general state rate is 4.0%. Reduced STATE rates apply to categories v1 does not split out: food/groceries (2.0% from 2025-09-01, 3.0% before), automotive vehicles (2.0%), and farm/manufacturing machinery (1.5%); report those at their reduced rates. Alabama also has extensive LOCAL (city/county) taxes, many self-administered: state and state-administered locals are filed via My Alabama Taxes / ONE SPOT, self-administered localities separately. v1 reports the 4.0% state portion only. A timely-filing discount on state sales tax is available; apply per the MAT instructions.",
         "metric": "computed",
         "operands": [
           "taxable_sales",
@@ -50,7 +50,7 @@
         "computation": "percent_of"
       }
     ],
-    "notes": "Alabama files via My Alabama Taxes (MAT) / ONE SPOT (paper Form 2100 is retired). General state rate 4.0%. Reduced state rates (food 3.0%, automotive 2.0%, machinery 1.5%) and the many self-administered local jurisdictions are NOT split by v1. It reports the 4.0% general state portion only; complete reduced-rate categories and local lines from your category/jurisdiction detail. A timely-filing vendor discount on state sales tax is available; apply per the MAT instructions."
+    "notes": "Alabama files via My Alabama Taxes (MAT) / ONE SPOT (paper Form 2100 is retired). General state rate 4.0%. Reduced state rates (food 2.0% from 2025-09-01, 3.0% before; automotive 2.0%; machinery 1.5%) and the many self-administered local jurisdictions are NOT split by v1. It reports the 4.0% general state portion only; complete reduced-rate categories and local lines from your category/jurisdiction detail. A timely-filing vendor discount on state sales tax is available; apply per the MAT instructions."
   },
   {
     "state_code": "AR",
@@ -72,7 +72,7 @@
       },
       {
         "label": "Exempt receipts",
-        "notes": "Total exempt receipts (resale, prescription drugs, etc.). Food for home consumption is taxed at the reduced 0.125% state rate on a separate line.",
+        "notes": "Total exempt receipts (resale, prescription drugs, etc.). Food for home consumption carries no state tax from 2026-01-01 (the reduced 0.125% state rate ended 2025-12-31); city and county taxes still apply to it, on the local schedule.",
         "metric": "exempt_sales",
         "operands": [
           "exempt_sales"
@@ -103,7 +103,7 @@
         "computation": "percent_of"
       }
     ],
-    "notes": "AR files the Excise Tax Return (ET-1). State rate is 6.5%; county and city local taxes are reported per jurisdiction on the local schedule and are not split by v1. Food for home consumption is taxed at the reduced 0.125% state rate (a separate line); candy and soft drinks are at the full rate."
+    "notes": "AR files the Excise Tax Return (ET-1). State rate is 6.5%; county and city local taxes are reported per jurisdiction on the local schedule and are not split by v1. Food for home consumption carries no state tax from 2026-01-01 (the reduced 0.125% state rate ended 2025-12-31), but city and county taxes still apply to it; candy and soft drinks are at the full rate."
   },
   {
     "state_code": "AZ",
@@ -793,7 +793,7 @@
       },
       {
         "label": "General merchandise tax (6.25%)",
-        "notes": "Step 4: general-merchandise base × 6.25% (the combined state ROT rate; the state retains 5.0% and remits 1.25% to local governments, but you report the full 6.25% here). Receipts from qualifying food, drugs, and medical appliances are taxed at 1.0% on a separate line (Line 6b / 7b); TaxLocus v1 does not split the 1% food/drug base out of taxable receipts, so reclassify those before filing. Locally imposed home-rule and business-district taxes (Schedule GT / locations on Form ST-2) are also not computed here.",
+        "notes": "Step 4: general-merchandise base × 6.25% (the combined state ROT rate; the state retains 5.0% and remits 1.25% to local governments, but you report the full 6.25% here). Receipts from qualifying drugs and medical appliances are taxed at 1.0% on a separate line (Line 6b / 7b); the state 1% tax on qualifying food ended 2025-12-31 (P.A. 103-0781), and local grocery taxes imposed from 2026-01-01 are not computed here. TaxLocus v1 does not split the 1% drug and medical base out of taxable receipts, so reclassify those before filing. Locally imposed home-rule and business-district taxes (Schedule GT / locations on Form ST-2) are also not computed here.",
         "metric": "computed",
         "operands": [
           "taxable_sales",
@@ -814,7 +814,7 @@
         "computation": "percent_of"
       }
     ],
-    "notes": "IL ST-1 is monthly (quarterly/annual by volume). The 6.25% general-merchandise rate combines the 5.0% state and 1.25% statewide local ROT portions, reported together on Line 6a. v1 does NOT split the 1.0% food/drug/medical base (Line 6b/7b) out of taxable receipts, nor does it compute home-rule, county, or business-district taxes that ride on the locations listed on Form ST-2 / Schedule GT. The 1.75% retailer's discount is approximated on the state-portion tax and is subject to a $1,000/month aggregate cap to apply by hand."
+    "notes": "IL ST-1 is monthly (quarterly/annual by volume). The 6.25% general-merchandise rate combines the 5.0% state and 1.25% statewide local ROT portions, reported together on Line 6a. v1 does NOT split the 1.0% drug/medical base (Line 6b/7b; the state 1% tax on qualifying food ended 2025-12-31) out of taxable receipts, nor does it compute home-rule, county, or business-district taxes that ride on the locations listed on Form ST-2 / Schedule GT. The 1.75% retailer's discount is approximated on the state-portion tax and is subject to a $1,000/month aggregate cap to apply by hand."
   },
   {
     "state_code": "IN",

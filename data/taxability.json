@@ -248,12 +248,12 @@
     "taxable": true,
     "treatment": "conditional",
     "conditions": {
-      "note": "Food as SNAP defines it takes Alabama's reduced state food rate (2% from 2025-09-01). Local food rates vary by city and county; the full local rate is applied here. Water labelled with Supplement Facts is not SNAP food.",
+      "note": "Food as SNAP defines it takes Alabama's reduced state food rate (2% from 2025-09-01), which resumed on 2026-07-01 after the May and June 2026 suspension (Act 2026-604). Local food rates vary by city and county; the full local rate is applied here. Water labelled with Supplement Facts is not SNAP food.",
       "reduced_state_rate": 0.02
     },
-    "effective_date": "2025-09-01",
-    "source_url": "https://www.revenue.alabama.gov/notice-state-sales-and-use-tax-rate-reduced-on-food-beginning-september-1-2025/",
-    "retrieved_at": "2026-10-23"
+    "effective_date": "2026-07-01",
+    "source_url": "https://www.revenue.alabama.gov/notice-temporary-suspension-of-state-sales-and-use-tax-on-food/",
+    "retrieved_at": "2026-11-04"
   },
   {
     "state": "AL",
@@ -262,12 +262,12 @@
     "taxable": true,
     "treatment": "conditional",
     "conditions": {
-      "note": "Alabama's reduced state food rate (3% from 2023-09-01, 2% from 2025-09-01) applies to food as SNAP defines it, and SNAP food includes candy; Alabama has no candy exclusion. Local food rates vary by city and county; the full local rate is applied here.",
+      "note": "Food as SNAP defines it takes Alabama's reduced state food rate (2% from 2025-09-01), which resumed on 2026-07-01 after the May and June 2026 suspension (Act 2026-604). Local food rates vary by city and county; the full local rate is applied here. SNAP food includes candy; Alabama has no candy exclusion.",
       "reduced_state_rate": 0.02
     },
-    "effective_date": "2025-09-01",
-    "source_url": "https://www.revenue.alabama.gov/notice-state-sales-and-use-tax-rate-reduced-on-food-beginning-september-1-2025/",
-    "retrieved_at": "2026-10-22"
+    "effective_date": "2026-07-01",
+    "source_url": "https://www.revenue.alabama.gov/notice-temporary-suspension-of-state-sales-and-use-tax-on-food/",
+    "retrieved_at": "2026-11-04"
   },
   {
     "state": "AL",
@@ -287,12 +287,12 @@
     "taxable": true,
     "treatment": "conditional",
     "conditions": {
-      "note": "Food as SNAP defines it takes Alabama's reduced state food rate (2% from 2025-09-01). Local food rates vary by city and county; the full local rate is applied here.",
+      "note": "Food as SNAP defines it takes Alabama's reduced state food rate (2% from 2025-09-01), which resumed on 2026-07-01 after the May and June 2026 suspension (Act 2026-604). Local food rates vary by city and county; the full local rate is applied here.",
       "reduced_state_rate": 0.02
     },
-    "effective_date": "2025-09-01",
-    "source_url": "https://www.revenue.alabama.gov/notice-state-sales-and-use-tax-rate-reduced-on-food-beginning-september-1-2025/",
-    "retrieved_at": "2026-10-23"
+    "effective_date": "2026-07-01",
+    "source_url": "https://www.revenue.alabama.gov/notice-temporary-suspension-of-state-sales-and-use-tax-on-food/",
+    "retrieved_at": "2026-11-04"
   },
   {
     "state": "AL",
@@ -312,12 +312,12 @@
     "taxable": true,
     "treatment": "conditional",
     "conditions": {
-      "note": "Non-alcoholic beverages are SNAP food, so soft drinks take Alabama's reduced state food rate (3% from 2023-09-01, 2% from 2025-09-01). Local food rates vary by city and county; the full local rate is applied here.",
+      "note": "Food as SNAP defines it takes Alabama's reduced state food rate (2% from 2025-09-01), which resumed on 2026-07-01 after the May and June 2026 suspension (Act 2026-604). Local food rates vary by city and county; the full local rate is applied here. Non-alcoholic beverages are SNAP food, so soft drinks are food here.",
       "reduced_state_rate": 0.02
     },
-    "effective_date": "2025-09-01",
-    "source_url": "https://www.revenue.alabama.gov/notice-state-sales-and-use-tax-rate-reduced-on-food-beginning-september-1-2025/",
-    "retrieved_at": "2026-10-22"
+    "effective_date": "2026-07-01",
+    "source_url": "https://www.revenue.alabama.gov/notice-temporary-suspension-of-state-sales-and-use-tax-on-food/",
+    "retrieved_at": "2026-11-04"
   },
   {
     "state": "AL",
