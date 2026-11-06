@@ -3,8 +3,8 @@
   "source": "https://taxlocus.com",
   "license": "CC-BY-4.0",
   "dataset_version": "3.0.0",
-  "generated_at": "2026-11-05",
-  "last_changed": "2026-11-05",
+  "generated_at": "2026-11-06",
+  "last_changed": "2026-11-06",
   "row_counts": {
     "state_rates": 46,
     "jurisdiction_rates": 14608,
@@ -201,7 +201,7 @@
     },
     "payroll_local_income_tax": {
       "rows": 3662,
-      "last_changed": "2026-11-05",
+      "last_changed": "2026-11-06",
       "key": [
         "year",
         "state",
@@ -342,12 +342,12 @@
       "rows": 102
     },
     "payroll_local_income_tax.csv": {
-      "sha256": "cd8b00e30963abebe87216d2cad70d8713a87894beda1a4d912ac1cbb31910c8",
+      "sha256": "09766df663840d842bbe09f7fd5c63e8e47f3def8b50df9e3b792676279c4611",
       "bytes": 1479805,
       "rows": 3662
     },
     "payroll_local_income_tax.json": {
-      "sha256": "6297e5d870aeffefc78d578ff7e5651df953eb1a64cf7efcaccd1c4d4d2691c0",
+      "sha256": "fa0745842899a9efebd6bae2347ca01c365e8d961297d987efdbfd526a52a3d2",
       "bytes": 2413907,
       "rows": 3662
     },
