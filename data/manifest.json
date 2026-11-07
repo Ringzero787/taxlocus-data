@@ -7,7 +7,7 @@
   "last_changed": "2026-11-07",
   "row_counts": {
     "state_rates": 46,
-    "jurisdiction_rates": 14942,
+    "jurisdiction_rates": 16360,
     "nexus_thresholds": 47,
     "taxability": 1979,
     "marketplace_facilitator_rules": 47,
@@ -35,8 +35,8 @@
       ]
     },
     "jurisdiction_rates": {
-      "rows": 14942,
-      "last_changed": "2026-11-06",
+      "rows": 16360,
+      "last_changed": "2026-11-07",
       "key": [
         "source_key",
         "rate_type"
@@ -73,7 +73,7 @@
     },
     "taxability": {
       "rows": 1979,
-      "last_changed": "2026-11-04",
+      "last_changed": "2026-11-07",
       "key": [
         "state",
         "category"
@@ -109,7 +109,7 @@
     },
     "rate_change_frequency": {
       "rows": 23,
-      "last_changed": "2026-11-06",
+      "last_changed": "2026-11-07",
       "key": [
         "state"
       ],
@@ -253,14 +253,14 @@
       "rows": 46
     },
     "jurisdiction_rates.csv": {
-      "sha256": "5f1a0715af2eb68d91031dd95c9ee75cd39105c69175275fe23270e54974661c",
-      "bytes": 2277222,
-      "rows": 14942
+      "sha256": "e424fdcc3c44b81ddb6a41e3bcfc290e9bd7db5c5d7f676e0d1ec7dab001bd82",
+      "bytes": 2538457,
+      "rows": 16360
     },
     "jurisdiction_rates.json": {
-      "sha256": "aee8ad04551bc1d0e11634500bd82d3ed5a98c723eb51d2052a5ae853f84f726",
-      "bytes": 5413556,
-      "rows": 14942
+      "sha256": "6017e339df40db2f0a870842740ae0a336f752552ac2313b998c3f28a8ccb91c",
+      "bytes": 5973987,
+      "rows": 16360
     },
     "nexus_thresholds.csv": {
       "sha256": "11b0afbd82d93849fa43b8b1197768f4986f722412c0a9047e5599574e804a87",
@@ -273,13 +273,13 @@
       "rows": 47
     },
     "taxability.csv": {
-      "sha256": "a59df20997390b7276a78a1c0dcbe055256c54c57f6f916e2e6b68927120417d",
-      "bytes": 631410,
+      "sha256": "bcd93999161ba92d4e77c99373d18d7f9e8acbcea5ba7b030517a2fd3e495d34",
+      "bytes": 631681,
       "rows": 1979
     },
     "taxability.json": {
-      "sha256": "2f5813418e2457e3e34e2055a42e7c239a33078682beda128fd6f0dba1164513",
-      "bytes": 1032901,
+      "sha256": "10e3a7a86a7db99c39df0f638966ac4b8e88d6c7601b329dcef3563fa219f8c2",
+      "bytes": 1033158,
       "rows": 1979
     },
     "marketplace_facilitator_rules.csv": {
@@ -293,12 +293,12 @@
       "rows": 47
     },
     "rate_change_frequency.csv": {
-      "sha256": "6cf9781af96f5f170ecd361f75b74a031f0af033aaba4565da5a39fcd2e1bd23",
+      "sha256": "3ed2b59c8ec2357e83aff0e3120e55b61d3529a78f00dff3720bc9ca38f711f1",
       "bytes": 1040,
       "rows": 23
     },
     "rate_change_frequency.json": {
-      "sha256": "fd0c23d2853a11fc6c6774a1f162622654ce5879b6c763fd81bb56f33df64792",
+      "sha256": "a7cc7ca0bffd3ee5116a9447f4f2a0826f1e5c5f29c653cb73e750ef542ca9d1",
       "bytes": 5247,
       "rows": 23
     },

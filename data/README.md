@@ -9,11 +9,11 @@ Every table is published as `<table>.csv` and `<table>.json`. `manifest.json` li
 | table | rows | last changed | unique row key |
 |-------|-----:|--------------|----------------|
 | [`state_rates`](#state_rates) | 46 | 2026-05-18 | `state` |
-| [`jurisdiction_rates`](#jurisdiction_rates) | 14,942 | 2026-11-06 | `source_key`, `rate_type` |
+| [`jurisdiction_rates`](#jurisdiction_rates) | 16,360 | 2026-11-07 | `source_key`, `rate_type` |
 | [`nexus_thresholds`](#nexus_thresholds) | 47 | 2026-09-30 | `state` |
-| [`taxability`](#taxability) | 1,979 | 2026-11-04 | `state`, `category` |
+| [`taxability`](#taxability) | 1,979 | 2026-11-07 | `state`, `category` |
 | [`marketplace_facilitator_rules`](#marketplace_facilitator_rules) | 47 | 2026-10-30 | `state` |
-| [`rate_change_frequency`](#rate_change_frequency) | 23 | 2026-11-06 | `state` |
+| [`rate_change_frequency`](#rate_change_frequency) | 23 | 2026-11-07 | `state` |
 | [`filing_forms`](#filing_forms) | 46 | 2026-11-06 | `state_code` |
 | [`payroll_federal_rates`](#payroll_federal_rates) | 3 | 2026-06-15 | `year` |
 | [`payroll_state_pit`](#payroll_state_pit) | 102 | 2026-09-27 | `year`, `state` |
@@ -35,7 +35,7 @@ Statewide base rates — 46 rows.
 
 ### `jurisdiction_rates`
 
-Local jurisdiction rates — 14,942 rows.
+Local jurisdiction rates — 16,360 rows.
 
 | column | description |
 |--------|-------------|

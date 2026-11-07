@@ -1731,8 +1731,8 @@
     "treatment": "taxable",
     "conditions": {},
     "effective_date": "2026-05-20",
-    "source_url": "https://www.cdtfa.ca.gov/formspubs/pub113/",
-    "retrieved_at": "2026-05-20"
+    "source_url": "https://www.cdtfa.ca.gov/lawguides/vol1/sutl/6051.html",
+    "retrieved_at": "2026-11-07"
   },
   {
     "state": "CA",
@@ -1742,8 +1742,8 @@
     "treatment": "taxable",
     "conditions": {},
     "effective_date": "2026-05-20",
-    "source_url": "https://www.cdtfa.ca.gov/formspubs/pub113/",
-    "retrieved_at": "2026-05-20"
+    "source_url": "https://www.cdtfa.ca.gov/lawguides/vol1/sutl/6051.html",
+    "retrieved_at": "2026-11-07"
   },
   {
     "state": "CA",
@@ -1753,8 +1753,8 @@
     "treatment": "taxable",
     "conditions": {},
     "effective_date": "2026-05-20",
-    "source_url": "https://www.cdtfa.ca.gov/formspubs/pub113/",
-    "retrieved_at": "2026-05-20"
+    "source_url": "https://www.cdtfa.ca.gov/lawguides/vol1/sutl/6051.html",
+    "retrieved_at": "2026-11-07"
   },
   {
     "state": "CA",
@@ -1764,22 +1764,19 @@
     "treatment": "taxable",
     "conditions": {},
     "effective_date": "2026-05-20",
-    "source_url": "https://www.cdtfa.ca.gov/formspubs/pub113/",
-    "retrieved_at": "2026-05-20"
+    "source_url": "https://www.cdtfa.ca.gov/lawguides/vol1/sutl/6051.html",
+    "retrieved_at": "2026-11-07"
   },
   {
     "state": "CA",
     "category": "clothing.protective",
     "category_description": "Helmets, safety boots, protective work gear, hazard equipment.",
     "taxable": true,
-    "treatment": "conditional",
-    "conditions": {
-      "note": "Safety equipment purchased by an employer for employees may be exempt under CDTFA Reg 1525; consumer purchases are taxable.",
-      "business_use_exempt": true
-    },
-    "effective_date": "2026-05-20",
-    "source_url": "https://www.cdtfa.ca.gov/formspubs/pub113/",
-    "retrieved_at": "2026-05-20"
+    "treatment": "taxable",
+    "conditions": {},
+    "effective_date": "2024-01-01",
+    "source_url": "https://www.cdtfa.ca.gov/lawguides/vol1/sutl/6091.html",
+    "retrieved_at": "2026-11-07"
   },
   {
     "state": "CA",
@@ -1791,8 +1788,8 @@
       "note": "Electronic delivery of software, e-books, music, video without tangible media is not subject to CA sales tax."
     },
     "effective_date": "2026-05-20",
-    "source_url": "https://www.cdtfa.ca.gov/formspubs/pub113/",
-    "retrieved_at": "2026-05-20"
+    "source_url": "https://www.cdtfa.ca.gov/lawguides/vol1/sutl/6016.html",
+    "retrieved_at": "2026-11-07"
   },
   {
     "state": "CA",
@@ -1815,8 +1812,8 @@
     "treatment": "exempt",
     "conditions": {},
     "effective_date": "2026-05-20",
-    "source_url": "https://www.cdtfa.ca.gov/formspubs/pub113/",
-    "retrieved_at": "2026-05-20"
+    "source_url": "https://www.cdtfa.ca.gov/lawguides/vol1/sutl/6016.html",
+    "retrieved_at": "2026-11-07"
   },
   {
     "state": "CA",
@@ -1932,8 +1929,8 @@
       "carbonated_beverages_taxable": true
     },
     "effective_date": "2026-05-20",
-    "source_url": "https://www.cdtfa.ca.gov/formspubs/pub22/",
-    "retrieved_at": "2026-05-20"
+    "source_url": "https://www.cdtfa.ca.gov/lawguides/vol1/sutl/6359.html",
+    "retrieved_at": "2026-11-07"
   },
   {
     "state": "CA",
@@ -1945,8 +1942,8 @@
       "note": "Hot prepared food, restaurant meals, takeout-for-immediate-consumption all taxable."
     },
     "effective_date": "2026-05-20",
-    "source_url": "https://www.cdtfa.ca.gov/formspubs/pub22/",
-    "retrieved_at": "2026-05-20"
+    "source_url": "https://www.cdtfa.ca.gov/lawguides/vol1/sutr/1603.html",
+    "retrieved_at": "2026-11-07"
   },
   {
     "state": "CA",
@@ -2006,8 +2003,8 @@
       "scope": "infant_only"
     },
     "effective_date": "2026-08-05",
-    "source_url": "https://www.cdtfa.ca.gov",
-    "retrieved_at": "2026-08-05"
+    "source_url": "https://www.cdtfa.ca.gov/lawguides/vol1/sutl/6363-9.html",
+    "retrieved_at": "2026-11-07"
   },
   {
     "state": "CA",
@@ -2017,8 +2014,8 @@
     "treatment": "exempt",
     "conditions": {},
     "effective_date": "2026-08-05",
-    "source_url": "https://www.cdtfa.ca.gov",
-    "retrieved_at": "2026-08-05"
+    "source_url": "https://www.cdtfa.ca.gov/lawguides/vol1/sutl/6363-10.html",
+    "retrieved_at": "2026-11-07"
   },
   {
     "state": "CA",
@@ -2041,12 +2038,11 @@
     "taxable": true,
     "treatment": "conditional",
     "conditions": {
-      "note": "Wheelchairs, prosthetics, hearing aids, and other DME exempt when prescribed for a specific individual (Reg 1591); over-the-counter DME taxable.",
-      "prescribed_dme_exempt": true
+      "note": "Medical equipment and devices are taxable in California even when prescribed (Reg. 1591(c)(2); hospital beds are named). Exempt only: prescribed prosthetic and orthotic devices, artificial limbs and eyes, permanently implanted articles and ostomy supplies (Reg. 1591(b), 1591.1), and wheelchairs, crutches, canes, quad canes and walkers sold to an individual for personal use as directed by a physician (R&TC 6369.2)."
     },
-    "effective_date": "2026-05-20",
-    "source_url": "https://www.cdtfa.ca.gov/formspubs/pub45.htm",
-    "retrieved_at": "2026-05-20"
+    "effective_date": "2024-01-01",
+    "source_url": "https://www.cdtfa.ca.gov/lawguides/vol1/sutr/1591.html",
+    "retrieved_at": "2026-11-07"
   },
   {
     "state": "CA",
@@ -2056,8 +2052,8 @@
     "treatment": "taxable",
     "conditions": {},
     "effective_date": "2026-05-20",
-    "source_url": "https://www.cdtfa.ca.gov/formspubs/pub45.htm",
-    "retrieved_at": "2026-05-20"
+    "source_url": "https://www.cdtfa.ca.gov/lawguides/vol1/sutr/1591.html",
+    "retrieved_at": "2026-11-07"
   },
   {
     "state": "CA",
@@ -2089,8 +2085,8 @@
     "treatment": "exempt",
     "conditions": {},
     "effective_date": "2026-05-20",
-    "source_url": "https://www.cdtfa.ca.gov/formspubs/pub45.htm",
-    "retrieved_at": "2026-05-20"
+    "source_url": "https://www.cdtfa.ca.gov/lawguides/vol1/sutl/6369.html",
+    "retrieved_at": "2026-11-07"
   },
   {
     "state": "CA",
