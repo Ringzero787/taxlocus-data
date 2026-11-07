@@ -5657,68 +5657,249 @@ KS,special_district,Special District WYEDW,WYEDW,0.035,KS-S-WYEDW,sales,2025-04-
 KS,special_district,Special District WYKAN,WYKAN,0.02625,KS-S-WYKAN,sales,2025-01-01,https://www.streamlinedsalestax.org/ratesandboundry/Rates/KSR2026Q2FEB18.zip,2026-05-18
 KS,special_district,Special District WYLAK,WYLAK,0.01,KS-S-WYLAK,sales,2025-01-01,https://www.streamlinedsalestax.org/ratesandboundry/Rates/KSR2026Q2FEB18.zip,2026-05-18
 LA,city,Abbeville & Parish Hospital Dist. #2,5701,0.06,LA-5701,sales,2009-07-01,https://lulstb.com/,2026-05-18
+LA,city,Abita Springs,5202,0.0425,LA-5202,sales,2018-04-01,https://lulstb.com/,2026-11-06
 LA,city,Alexandria,4001,0.055,LA-4001,sales,2016-07-01,https://lulstb.com/,2026-05-18
+LA,city,Ball,4005,0.055,LA-4005,sales,2016-07-01,https://lulstb.com/,2026-11-06
 LA,city,Benton,0803,0.0525,LA-0803,sales,2026-01-01,https://lulstb.com/,2026-05-18
+LA,city,Blanchard,0908,0.0535,LA-0908,sales,2026-01-01,https://lulstb.com/,2026-11-06
+LA,city,Bonita,3403,0.06,LA-3403,sales,2024-07-01,https://lulstb.com/,2026-11-06
 LA,city,Bossier City,0801,0.05,LA-0801,sales,2026-01-01,https://lulstb.com/,2026-05-18
+LA,city,Boyce,4006,0.06,LA-4006,sales,2022-07-01,https://lulstb.com/,2026-11-06
+LA,city,Bunkie,0502,0.0525,LA-0502,sales,2012-01-01,https://lulstb.com/,2026-11-06
+LA,city,Campti,3504,0.055,LA-3504,sales,2008-06-01,https://lulstb.com/,2026-11-06
+LA,city,Chatham,2506,0.05,LA-2506,sales,2008-06-01,https://lulstb.com/,2026-11-06
+LA,city,Cheneyville,4009,0.0475,LA-4009,sales,2024-07-01,https://lulstb.com/,2026-11-06
+LA,city,Church Point,0102,0.0525,LA-0102,sales,2012-07-01,https://lulstb.com/,2026-11-06
 LA,city,City of   Amite,5301,0.06,LA-5301,sales,2021-07-01,https://lulstb.com/,2026-05-18
 LA,city,City of   Hammond,5302,0.055,LA-5302,sales,2008-10-08,https://lulstb.com/,2026-05-18
+LA,city,City of  Morgan City,5101,0.0525,LA-5101,sales,2023-07-01,https://lulstb.com/,2026-11-06
+LA,city,City of  Ponchatoula,5304,0.055,LA-5304,sales,2021-07-01,https://lulstb.com/,2026-11-06
+LA,city,City of Baker Baker School District,1702,0.06,LA-1702,sales,2025-10-01,https://lulstb.com/,2026-11-06
 LA,city,City of Baton Rouge EBRP School District,1701,0.055,LA-1701,sales,2025-10-01,https://lulstb.com/,2026-05-18
 LA,city,City of Broussard in Lafayette Parish,2807,0.045,LA-2807,sales,2020-02-01,https://lulstb.com/,2026-05-18
+LA,city,City of Carencro,2803,0.05,LA-2803,sales,2018-04-01,https://lulstb.com/,2026-11-06
 LA,city,City of Cowley,0101,0.055,LA-0101,sales,2012-07-01,https://lulstb.com/,2026-05-18
+LA,city,City of Dequincy,1004,0.0575,LA-1004,sales,2025-01-01,https://lulstb.com/,2026-11-06
+LA,city,City of Dubach,3102,0.0475,LA-3102,sales,2020-10-01,https://lulstb.com/,2026-11-06
+LA,city,City of Eunice & Parish,4903,0.06,LA-4903,sales,2016-04-01,https://lulstb.com/,2026-11-06
 LA,city,City of Franklin,5105,0.0545,LA-5105,sales,2025-04-01,https://lulstb.com/,2026-05-18
+LA,city,City of Grambling,3103,0.06,LA-3103,sales,2021-01-01,https://lulstb.com/,2026-11-06
+LA,city,City of Harahan,2602,0.0555,LA-2602,sales,2023-01-01,https://lulstb.com/,2026-11-06
+LA,city,City of Independence,5303,0.06,LA-5303,sales,2023-09-11,https://lulstb.com/,2026-11-06
 LA,city,City of Jennings,2703,0.06,LA-2703,sales,2026-04-01,https://lulstb.com/,2026-05-18
 LA,city,City of Lake Charles,1001,0.0575,LA-1001,sales,2025-01-01,https://lulstb.com/,2026-05-18
 LA,city,City of Leesville,5803,0.055,LA-5803,sales,2012-01-01,https://lulstb.com/,2026-05-18
 LA,city,City of Monroe,3701,0.0599,LA-3701,sales,2013-07-01,https://lulstb.com/,2026-05-18
 LA,city,City of Natchitoches,3503,0.055,LA-3503,sales,2017-07-01,https://lulstb.com/,2026-05-18
 LA,city,City of New Roads,3902,0.0525,LA-3902,sales,2024-07-01,https://lulstb.com/,2026-05-18
+LA,city,City of Oakdale,0202,0.06,LA-0202,sales,2026-04-01,https://lulstb.com/,2026-11-06
 LA,city,City of Opelousas & Parish,4901,0.0575,LA-4901,sales,2025-10-01,https://lulstb.com/,2026-05-18
+LA,city,City of Rayne,0106,0.05,LA-0106,sales,2012-07-01,https://lulstb.com/,2026-11-06
 LA,city,City of Ruston,3101,0.06,LA-3101,sales,2020-10-01,https://lulstb.com/,2026-05-18
+LA,city,City of Scott Outside EDDs,2805,0.05,LA-2805,sales,2024-01-01,https://lulstb.com/,2026-11-06
+LA,city,City of Slaughter,1901,0.06,LA-1901,sales,2024-01-01,https://lulstb.com/,2026-11-06
+LA,city,City of St. Gabriel Corporate Limits Only,2401,0.05916,LA-2401,sales,2024-07-01,https://lulstb.com/,2026-11-06
+LA,city,City of St. George/EBR Parish School District,1712,0.055,LA-1712,sales,2025-10-01,https://lulstb.com/,2026-11-06
 LA,city,City of Sulphur,1002,0.0575,LA-1002,sales,2025-01-01,https://lulstb.com/,2026-05-18
 LA,city,City of West Monroe,3702,0.0599,LA-3702,sales,2015-04-01,https://lulstb.com/,2026-05-18
+LA,city,City of Westlake,1005,0.0575,LA-1005,sales,2025-01-01,https://lulstb.com/,2026-11-06
 LA,city,City of Winnsboro,2101,0.06,LA-2101,sales,2009-01-01,https://lulstb.com/,2026-05-18
 LA,city,City of Zachary Zachary School District,1705,0.055,LA-1705,sales,2025-10-01,https://lulstb.com/,2026-05-18
+LA,city,Clarence,3506,0.05,LA-3506,sales,2017-07-01,https://lulstb.com/,2026-11-06
+LA,city,Collinston,3404,0.055,LA-3404,sales,2011-01-01,https://lulstb.com/,2026-11-06
 LA,city,Columbia Sales,1101,0.05,LA-1101,sales,2008-06-01,https://lulstb.com/,2026-05-18
+LA,city,Converse,4305,0.05625,LA-4305,sales,2008-10-01,https://lulstb.com/,2026-11-06
+LA,city,Cotton Valley,6002,0.04,LA-6002,sales,2011-01-01,https://lulstb.com/,2026-11-06
+LA,city,Cottonport,0501,0.0525,LA-0501,sales,2018-07-01,https://lulstb.com/,2026-11-06
 LA,city,Covington,5201,0.0425,LA-5201,sales,2018-04-01,https://lulstb.com/,2026-05-18
 LA,city,DeRidder,0601,0.05,LA-0601,sales,2013-01-01,https://lulstb.com/,2026-05-18
+LA,city,Delcambre & Parish Hospital Dist. #2,5702,0.0625,LA-5702,sales,2026-10-01,https://lulstb.com/,2026-11-06
+LA,city,Doyline,6010,0.04,LA-6010,sales,2015-01-01,https://lulstb.com/,2026-11-06
+LA,city,East Ascension Within Gonzales,0302,0.045,LA-0302,sales,2012-07-01,https://lulstb.com/,2026-11-06
+LA,city,East Ascension Within Sorrento,0305,0.045,LA-0305,sales,2012-07-01,https://lulstb.com/,2026-11-06
+LA,city,Erath & Parish Hospital Dist. #2,5703,0.0575,LA-5703,sales,2026-10-01,https://lulstb.com/,2026-11-06
+LA,city,Eros,2505,0.05,LA-2505,sales,2025-07-01,https://lulstb.com/,2026-11-06
+LA,city,Estherwood,0103,0.0425,LA-0103,sales,2012-07-01,https://lulstb.com/,2026-11-06
+LA,city,FD #17 - Forest Hill,4008,0.045,LA-4008,sales,2016-07-01,https://lulstb.com/,2026-11-06
+LA,city,Ferriday Sales,1502,0.0375,LA-1502,sales,2025-01-01,https://lulstb.com/,2026-11-06
+LA,city,Florien,4303,0.05625,LA-4303,sales,2008-10-01,https://lulstb.com/,2026-11-06
+LA,city,Glenmora,4003,0.05,LA-4003,sales,2016-07-01,https://lulstb.com/,2026-11-06
+LA,city,Golden Meadow,2903,0.054,LA-2903,sales,2014-07-01,https://lulstb.com/,2026-11-06
+LA,city,Goldonna,3511,0.05,LA-3511,sales,2021-07-01,https://lulstb.com/,2026-11-06
+LA,city,Grand Cane,1605,0.0525,LA-1605,sales,2024-01-01,https://lulstb.com/,2026-11-06
 LA,city,Greensburg,4601,0.06,LA-4601,sales,2016-10-01,https://lulstb.com/,2026-05-18
+LA,city,Greenwood,0906,0.0535,LA-0906,sales,2026-01-01,https://lulstb.com/,2026-11-06
+LA,city,Gueydan,5706,0.0475,LA-5706,sales,2026-10-01,https://lulstb.com/,2026-11-06
+LA,city,HAYNESVILLE,1401,0.05125,LA-1401,sales,2018-07-01,https://lulstb.com/,2026-11-06
 LA,city,HOMER,1402,0.06,LA-1402,sales,2015-07-01,https://lulstb.com/,2026-05-18
+LA,city,Haughton,0804,0.0525,LA-0804,sales,2026-01-01,https://lulstb.com/,2026-11-06
+LA,city,Henderson,5003,0.035,LA-5003,sales,2015-10-01,https://lulstb.com/,2026-11-06
+LA,city,Hessmer,0508,0.0425,LA-0508,sales,2012-01-01,https://lulstb.com/,2026-11-06
+LA,city,Hodge,2502,0.05,LA-2502,sales,2008-06-01,https://lulstb.com/,2026-11-06
+LA,city,Hosston,0915,0.0535,LA-0915,sales,2026-01-01,https://lulstb.com/,2026-11-06
+LA,city,Ida Sch,0909,0.0635,LA-0909,sales,2026-01-01,https://lulstb.com/,2026-11-06
+LA,city,Jeanerette,2305,0.0475,LA-2305,sales,2024-07-01,https://lulstb.com/,2026-11-06
 LA,city,Jena Sales,3001,0.04,LA-3001,sales,2023-07-01,https://lulstb.com/,2026-05-18
 LA,city,Jonesboro,2501,0.05,LA-2501,sales,2008-06-01,https://lulstb.com/,2026-05-18
+LA,city,Jonesville Sales,1301,0.07,LA-1301,sales,2016-04-01,https://lulstb.com/,2026-11-06
+LA,city,Kaplan & Parish Hospital Dist. #1,5704,0.0575,LA-5704,sales,2026-10-01,https://lulstb.com/,2026-11-06
+LA,city,Keatchie,1606,0.05,LA-1606,sales,2009-01-01,https://lulstb.com/,2026-11-06
+LA,city,Lockport,2902,0.0515,LA-2902,sales,2015-07-01,https://lulstb.com/,2026-11-06
+LA,city,Logansport,1601,0.05,LA-1601,sales,2009-01-01,https://lulstb.com/,2026-11-06
+LA,city,Loreauville,2306,0.045,LA-2306,sales,2024-07-01,https://lulstb.com/,2026-11-06
+LA,city,Madisonville,5204,0.0425,LA-5204,sales,2018-04-01,https://lulstb.com/,2026-11-06
 LA,city,Mandeville,5205,0.0475,LA-5205,sales,2018-04-01,https://lulstb.com/,2026-05-18
 LA,city,Mansfield,1602,0.055,LA-1602,sales,2009-01-01,https://lulstb.com/,2026-05-18
 LA,city,Many,4301,0.05625,LA-4301,sales,2008-10-01,https://lulstb.com/,2026-05-18
 LA,city,Marksville,0505,0.0525,LA-0505,sales,2012-01-01,https://lulstb.com/,2026-05-18
+LA,city,Maurice & Parish Hospital Dist. #2,5705,0.0575,LA-5705,sales,2026-10-01,https://lulstb.com/,2026-11-06
+LA,city,Mer Rouge,3402,0.06,LA-3402,sales,2025-04-01,https://lulstb.com/,2026-11-06
+LA,city,Merryville,0602,0.05,LA-0602,sales,2026-10-01,https://lulstb.com/,2026-11-06
 LA,city,Minden,6001,0.055,LA-6001,sales,2017-01-01,https://lulstb.com/,2026-05-18
+LA,city,Mooringsport,0905,0.0535,LA-0905,sales,2026-01-01,https://lulstb.com/,2026-11-06
+LA,city,Moreauville,0504,0.0475,LA-0504,sales,2012-01-01,https://lulstb.com/,2026-11-06
 LA,city,New Iberia,2304,0.055,LA-2304,sales,2025-07-01,https://lulstb.com/,2026-05-18
+LA,city,Newellton,5401,0.065,LA-5401,sales,2024-01-01,https://lulstb.com/,2026-11-06
+LA,city,Oak Ridge,3407,0.035,LA-3407,sales,2011-01-01,https://lulstb.com/,2026-11-06
+LA,city,Oil City,0902,0.0535,LA-0902,sales,2026-01-01,https://lulstb.com/,2026-11-06
+LA,city,Olla Sales,3002,0.04,LA-3002,sales,2023-07-01,https://lulstb.com/,2026-11-06
 LA,city,Parish Sales,1800,0.05,LA-1800,sales,2025-01-01,https://lulstb.com/,2026-05-18
+LA,city,Pearl River,5206,0.045,LA-5206,sales,2018-04-01,https://lulstb.com/,2026-11-06
+LA,city,Pineville,4002,0.055,LA-4002,sales,2016-07-01,https://lulstb.com/,2026-11-06
+LA,city,Plain Dealing,0802,0.0525,LA-0802,sales,2026-01-01,https://lulstb.com/,2026-11-06
+LA,city,Plaucheville,0503,0.0525,LA-0503,sales,2022-04-01,https://lulstb.com/,2026-11-06
+LA,city,Pleasant Hill,4302,0.05625,LA-4302,sales,2008-10-01,https://lulstb.com/,2026-11-06
+LA,city,Richmond,3302,0.055,LA-3302,sales,2020-10-01,https://lulstb.com/,2026-11-06
+LA,city,Robeline,3505,0.05,LA-3505,sales,2017-07-01,https://lulstb.com/,2026-11-06
+LA,city,Rodessa,0907,0.0535,LA-0907,sales,2026-01-01,https://lulstb.com/,2026-11-06
 LA,city,Sales Tax,3600,0.05,LA-3600,sales,2008-09-01,https://lulstb.com/,2026-05-18
+LA,city,Sarepta,6005,0.04,LA-6005,sales,2011-01-01,https://lulstb.com/,2026-11-06
 LA,city,Shreveport,0904,0.046,LA-0904,sales,2026-01-01,https://lulstb.com/,2026-05-18
+LA,city,Sibley,6006,0.055,LA-6006,sales,2011-01-01,https://lulstb.com/,2026-11-06
+LA,city,Simmesport,0506,0.0525,LA-0506,sales,2012-01-01,https://lulstb.com/,2026-11-06
 LA,city,Slidell,5207,0.0463,LA-5207,sales,2025-01-01,https://lulstb.com/,2026-05-18
+LA,city,South Mansfield,1604,0.05,LA-1604,sales,2009-01-01,https://lulstb.com/,2026-11-06
+LA,city,Springhill,6003,0.055,LA-6003,sales,2011-01-01,https://lulstb.com/,2026-11-06
 LA,city,St Joseph,5402,0.0675,LA-5402,sales,2024-01-01,https://lulstb.com/,2026-05-18
 LA,city,St. Francisville Inside Town Limits,6301,0.055,LA-6301,sales,2021-04-01,https://lulstb.com/,2026-05-18
 LA,city,St. Martinville,5004,0.05,LA-5004,sales,2024-04-01,https://lulstb.com/,2026-05-18
+LA,city,Stonewall,1603,0.05,LA-1603,sales,2009-01-01,https://lulstb.com/,2026-11-06
+LA,city,Sun,5208,0.0475,LA-5208,sales,2018-04-01,https://lulstb.com/,2026-11-06
 LA,city,Tallulah,3301,0.06,LA-3301,sales,2020-04-01,https://lulstb.com/,2026-05-18
 LA,city,Thibodaux,2901,0.0535,LA-2901,sales,2023-10-01,https://lulstb.com/,2026-05-18
+LA,city,Town of   Gibsland,0704,0.05,LA-0704,sales,2013-01-01,https://lulstb.com/,2026-11-06
+LA,city,Town of   Kentwood,5306,0.055,LA-5306,sales,2021-07-01,https://lulstb.com/,2026-11-06
+LA,city,Town of   Ringgold,0701,0.05,LA-0701,sales,2012-10-01,https://lulstb.com/,2026-11-06
+LA,city,Town of Arnaudville & Parish,4902,0.0555,LA-4902,sales,2016-04-01,https://lulstb.com/,2026-11-06
+LA,city,Town of Basile,2002,0.06,LA-2002,sales,2008-06-01,https://lulstb.com/,2026-11-06
+LA,city,Town of Baskin,2104,0.05,LA-2104,sales,2009-01-01,https://lulstb.com/,2026-11-06
 LA,city,Town of Colfax,2201,0.06,LA-2201,sales,2015-04-01,https://lulstb.com/,2026-05-18
 LA,city,Town of Coushatta,4101,0.055,LA-4101,sales,2009-01-01,https://lulstb.com/,2026-05-18
+LA,city,Town of Delhi,4203,0.0625,LA-4203,sales,2024-07-01,https://lulstb.com/,2026-11-06
+LA,city,Town of Duson,2802,0.05,LA-2802,sales,2018-04-01,https://lulstb.com/,2026-11-06
+LA,city,Town of Elizabeth,0204,0.06,LA-0204,sales,2025-01-01,https://lulstb.com/,2026-11-06
+LA,city,Town of Elton,2702,0.055,LA-2702,sales,2026-04-01,https://lulstb.com/,2026-11-06
 LA,city,Town of Farmerville,5601,0.07,LA-5601,sales,2014-07-01,https://lulstb.com/,2026-05-18
+LA,city,Town of Gilbert,2103,0.05,LA-2103,sales,2009-01-01,https://lulstb.com/,2026-11-06
+LA,city,Town of Gramercy Incorporated Area Only,4701,0.04,LA-4701,sales,2014-01-01,https://lulstb.com/,2026-11-06
+LA,city,Town of Hornbeck,5806,0.05,LA-5806,sales,2012-01-01,https://lulstb.com/,2026-11-06
+LA,city,Town of Iota,0104,0.0525,LA-0104,sales,2012-07-01,https://lulstb.com/,2026-11-06
+LA,city,Town of Iowa,1003,0.0575,LA-1003,sales,2025-01-01,https://lulstb.com/,2026-11-06
+LA,city,Town of Killian,3216,0.05,LA-3216,sales,2026-10-01,https://lulstb.com/,2026-11-06
+LA,city,Town of Kinder,0205,0.06,LA-0205,sales,2010-01-01,https://lulstb.com/,2026-11-06
+LA,city,Town of Krotz Springs & Parish,4908,0.0455,LA-4908,sales,2018-01-01,https://lulstb.com/,2026-11-06
+LA,city,Town of Lake Authur,2704,0.06,LA-2704,sales,2026-04-01,https://lulstb.com/,2026-11-06
+LA,city,Town of Livonia,3904,0.0525,LA-3904,sales,2024-07-01,https://lulstb.com/,2026-11-06
 LA,city,Town of Lutcher,4702,0.045,LA-4702,sales,2014-01-01,https://lulstb.com/,2026-09-29
+LA,city,Town of Mamou,2003,0.06,LA-2003,sales,2008-06-01,https://lulstb.com/,2026-11-06
+LA,city,Town of Mangham,4202,0.0525,LA-4202,sales,2024-07-01,https://lulstb.com/,2026-11-06
+LA,city,Town of Marion,5603,0.06,LA-5603,sales,2014-07-01,https://lulstb.com/,2026-11-06
+LA,city,Town of Melville & Parish,4910,0.0575,LA-4910,sales,2016-04-01,https://lulstb.com/,2026-11-06
+LA,city,Town of New Llano,5805,0.055,LA-5805,sales,2012-01-01,https://lulstb.com/,2026-11-06
 LA,city,Town of Oberlin,0203,0.06,LA-0203,sales,2010-01-01,https://lulstb.com/,2026-05-18
+LA,city,Town of Port Barre & Parish,4905,0.0575,LA-4905,sales,2018-01-01,https://lulstb.com/,2026-11-06
 LA,city,Town of Rayville,4201,0.0575,LA-4201,sales,2024-07-01,https://lulstb.com/,2026-05-18
+LA,city,Town of Richwood,3704,0.055,LA-3704,sales,2013-07-01,https://lulstb.com/,2026-11-06
+LA,city,Town of Roseland,5305,0.06,LA-5305,sales,2025-04-01,https://lulstb.com/,2026-11-06
+LA,city,Town of Sterlington,3703,0.065,LA-3703,sales,2016-04-01,https://lulstb.com/,2026-11-06
+LA,city,Town of Sunset & Parish,4904,0.0555,LA-4904,sales,2018-01-01,https://lulstb.com/,2026-11-06
 LA,city,Town of Ville Platte,2001,0.06,LA-2001,sales,2008-06-01,https://lulstb.com/,2026-05-18
+LA,city,Town of Vinton,1006,0.0575,LA-1006,sales,2025-01-01,https://lulstb.com/,2026-11-06
+LA,city,Town of Washington & Parish,4909,0.0475,LA-4909,sales,2026-01-01,https://lulstb.com/,2026-11-06
+LA,city,Town of Welsh,2701,0.055,LA-2701,sales,2026-04-01,https://lulstb.com/,2026-11-06
+LA,city,Town of Wisner,2102,0.05,LA-2102,sales,2009-01-01,https://lulstb.com/,2026-11-06
+LA,city,Town of Youngsville,2804,0.055,LA-2804,sales,2018-04-01,https://lulstb.com/,2026-11-06
+LA,city,Tullos Sales,3003,0.045,LA-3003,sales,2023-07-01,https://lulstb.com/,2026-11-06
+LA,city,VILLAGE OF ATHENS,1404,0.04625,LA-1404,sales,2015-07-01,https://lulstb.com/,2026-11-06
 LA,city,Vidalia Sales,1501,0.0475,LA-1501,sales,2009-01-01,https://lulstb.com/,2026-05-18
+LA,city,Village of   Castor,0705,0.04,LA-0705,sales,2013-01-01,https://lulstb.com/,2026-11-06
+LA,city,Village of   Tickfaw,5308,0.055,LA-5308,sales,2021-07-01,https://lulstb.com/,2026-11-06
+LA,city,Village of Cankton & Parish,4906,0.0455,LA-4906,sales,2018-01-01,https://lulstb.com/,2026-11-06
+LA,city,Village of Chataignier,2005,0.06,LA-2005,sales,2008-06-01,https://lulstb.com/,2026-11-06
+LA,city,Village of Delta,3303,0.045,LA-3303,sales,2008-09-01,https://lulstb.com/,2026-11-06
+LA,city,Village of Dry Prong,2206,0.05,LA-2206,sales,2010-01-01,https://lulstb.com/,2026-11-06
+LA,city,Village of Fordoche,3905,0.0525,LA-3905,sales,2024-07-01,https://lulstb.com/,2026-11-06
+LA,city,Village of Forest,6204,0.06,LA-6204,sales,2024-04-01,https://lulstb.com/,2026-11-06
+LA,city,Village of Georgetown,2203,0.06,LA-2203,sales,2008-09-01,https://lulstb.com/,2026-11-06
+LA,city,Village of Grayson,1102,0.05,LA-1102,sales,2026-10-01,https://lulstb.com/,2026-11-06
+LA,city,Village of Hall Summit,4102,0.055,LA-4102,sales,2009-01-01,https://lulstb.com/,2026-11-06
+LA,city,Village of Junction City,5604,0.06,LA-5604,sales,2014-07-01,https://lulstb.com/,2026-11-06
+LA,city,Village of Morganza,3903,0.0525,LA-3903,sales,2024-07-01,https://lulstb.com/,2026-11-06
+LA,city,Village of Morse,0105,0.0425,LA-0105,sales,2012-07-01,https://lulstb.com/,2026-11-06
 LA,city,Village of Napoleonville,0401,0.055,LA-0401,sales,2020-01-01,https://lulstb.com/,2026-05-18
+LA,city,Village of Palmetto,4912,0.0355,LA-4912,sales,2018-01-01,https://lulstb.com/,2026-11-06
+LA,city,Village of Pine Prairie,2004,0.06,LA-2004,sales,2008-06-01,https://lulstb.com/,2026-11-06
+LA,city,Village of Reeves,0206,0.057,LA-0206,sales,2010-01-01,https://lulstb.com/,2026-11-06
+LA,city,Village of Saline School Board Policy Jury,0707,0.04,LA-0707,sales,2014-01-01,https://lulstb.com/,2026-11-06
 LA,city,Vivian,0903,0.0535,LA-0903,sales,2026-01-01,https://lulstb.com/,2026-05-18
+LA,city,Waterproof,5403,0.065,LA-5403,sales,2024-01-01,https://lulstb.com/,2026-11-06
 LA,city,West Ascension Within Donaldsonville,0301,0.05,LA-0301,sales,2012-07-01,https://lulstb.com/,2026-05-18
 LA,city,West Carroll Inside Oakgrove,6201,0.065,LA-6201,sales,2024-02-28,https://lulstb.com/,2026-05-18
+LA,city,West Carroll Inside Village of Epps,6202,0.06,LA-6202,sales,2024-02-28,https://lulstb.com/,2026-11-06
 LA,city,Winn Parish Within the City of Winnfield,6401,0.055,LA-6401,sales,2015-10-01,https://lulstb.com/,2026-05-18
+LA,city,"Winn Parish, Village of Dodson",6402,0.05,LA-6402,sales,2020-01-01,https://lulstb.com/,2026-11-06
 LA,city,Within the  TOWN OF  FRANKLINTON,5901,0.065,LA-5901,sales,2025-04-02,https://lulstb.com/,2026-05-18
+LA,city,Within the CITY OF BOGALUSA,5902,0.05493,LA-5902,sales,2014-01-01,https://lulstb.com/,2026-11-06
+LA,city,Within the City of Denham Springs,3201,0.055,LA-3201,sales,2008-09-01,https://lulstb.com/,2026-11-06
+LA,city,Within the City of Walker,3203,0.055,LA-3203,sales,2008-09-01,https://lulstb.com/,2026-11-06
 LA,city,Within the Town of Livingston,3202,0.05,LA-3202,sales,2008-09-01,https://lulstb.com/,2026-05-18
+LA,city,Within the Town of Springfield,3205,0.055,LA-3205,sales,2008-09-01,https://lulstb.com/,2026-11-06
+LA,city,Within the VILLAGE OF ANGIE,5903,0.0583,LA-5903,sales,2025-04-02,https://lulstb.com/,2026-11-06
+LA,city,Within the Village of Albany,3204,0.055,LA-3204,sales,2008-09-01,https://lulstb.com/,2026-11-06
+LA,city,Woodworth,4007,0.055,LA-4007,sales,2016-07-01,https://lulstb.com/,2026-11-06
+LA,city,Zwolle,4304,0.06625,LA-4304,sales,2008-10-01,https://lulstb.com/,2026-11-06
+LA,parish,All Other Areas of Livingston Parish,3200,0.04,LA-3200,sales,2008-09-01,https://lulstb.com/,2026-11-06
+LA,parish,All Other Areas of Washington Parish,5906,0.0583,LA-5906,sales,2025-04-02,https://lulstb.com/,2026-11-06
+LA,parish,All other Areas of St Landry Parish,4900,0.0555,LA-4900,sales,2016-04-01,https://lulstb.com/,2026-11-06
+LA,parish,Balance of Avoyelles Parish,0500,0.0325,LA-0500,sales,2012-01-01,https://lulstb.com/,2026-11-06
+LA,parish,Balance of Beauregard Parish,0600,0.0475,LA-0600,sales,2026-07-01,https://lulstb.com/,2026-11-06
 LA,parish,Balance of Bienville Parish,0700,0.03,LA-0700,sales,2012-10-01,https://lulstb.com/,2026-05-18
+LA,parish,Balance of Parish,0800,0.0425,LA-0800,sales,2026-01-01,https://lulstb.com/,2026-11-06
+LA,parish,Balance of Parish,1600,0.04,LA-1600,sales,2009-01-01,https://lulstb.com/,2026-11-06
+LA,parish,Balance of Parish,2200,0.04,LA-2200,sales,2008-09-01,https://lulstb.com/,2026-11-06
+LA,parish,Balance of Parish,2500,0.04,LA-2500,sales,2008-06-01,https://lulstb.com/,2026-11-06
+LA,parish,Balance of Parish,3100,0.0375,LA-3100,sales,2020-10-01,https://lulstb.com/,2026-11-06
+LA,parish,Balance of Parish,3500,0.04,LA-3500,sales,2017-07-01,https://lulstb.com/,2026-11-06
+LA,parish,Balance of Parish,3900,0.0425,LA-3900,sales,2024-07-01,https://lulstb.com/,2026-11-06
+LA,parish,Balance of Parish,4100,0.045,LA-4100,sales,2009-01-01,https://lulstb.com/,2026-11-06
+LA,parish,Balance of Parish,4200,0.0425,LA-4200,sales,2024-07-01,https://lulstb.com/,2026-11-06
+LA,parish,Balance of Parish,4600,0.05,LA-4600,sales,2016-10-01,https://lulstb.com/,2026-11-06
+LA,parish,Balance of Parish,5300,0.035,LA-5300,sales,2008-10-08,https://lulstb.com/,2026-11-06
+LA,parish,Balance of Parish,5400,0.0575,LA-5400,sales,2024-01-01,https://lulstb.com/,2026-11-06
+LA,parish,Balance of Parish,5600,0.05,LA-5600,sales,2014-07-01,https://lulstb.com/,2026-11-06
+LA,parish,Balance of Parish,5800,0.04,LA-5800,sales,2012-01-01,https://lulstb.com/,2026-11-06
+LA,parish,Balance of Parish - School Dist 2,4300,0.04625,LA-4300,sales,2008-10-01,https://lulstb.com/,2026-11-06
+LA,parish,Balance of Parish outside School Dist #6,6000,0.03,LA-6000,sales,2011-01-01,https://lulstb.com/,2026-11-06
+LA,parish,Balance of West Feliciana Parish,6300,0.045,LA-6300,sales,2026-10-01,https://lulstb.com/,2026-11-06
+LA,parish,District #3,4000,0.035,LA-4000,sales,2016-07-01,https://lulstb.com/,2026-11-06
+LA,parish,District 1,5007,0.035,LA-5007,sales,2015-10-01,https://lulstb.com/,2026-11-06
+LA,parish,District No. 3,5200,0.0425,LA-5200,sales,2018-04-01,https://lulstb.com/,2026-11-06
 LA,parish,General Sales,2600,0.0475,LA-2600,sales,2023-01-01,https://lulstb.com/,2026-05-18
 LA,parish,Outside Incorporated Municipality Areas,4700,0.035,LA-4700,sales,2014-01-01,https://lulstb.com/,2026-05-18
+LA,parish,Parish Sales,1100,0.05,LA-1100,sales,2008-06-01,https://lulstb.com/,2026-11-06
 LA,parish,Parish Sales,1300,0.06,LA-1300,sales,2013-01-01,https://lulstb.com/,2026-05-18
+LA,parish,Parish Sales,1500,0.0475,LA-1500,sales,2009-01-01,https://lulstb.com/,2026-11-06
+LA,parish,Parish Sales,3000,0.03,LA-3000,sales,2023-07-01,https://lulstb.com/,2026-11-06
 LA,parish,Parish Wide,1900,0.05,LA-1900,sales,2018-01-01,https://lulstb.com/,2026-05-18
 LA,parish,Parish Wide,3800,0.0525,LA-3800,sales,2026-07-01,https://lulstb.com/,2026-09-29
 LA,parish,Parish Wide,4400,0.05,LA-4400,sales,2008-09-01,https://lulstb.com/,2026-05-18
@@ -5726,11 +5907,33 @@ LA,parish,Parish Wide,4500,0.05,LA-4500,sales,2008-06-01,https://lulstb.com/,202
 LA,parish,Parish Wide,4800,0.0525,LA-4800,sales,2017-07-01,https://lulstb.com/,2026-05-18
 LA,parish,Parish of  Terrebonne,5500,0.055,LA-5500,sales,2015-04-01,https://lulstb.com/,2026-05-18
 LA,parish,Parish of  W.B.R.,6100,0.0525,LA-6100,sales,2024-07-01,https://lulstb.com/,2026-05-18
+LA,parish,Parish of E.B.R EBRP School District,1700,0.055,LA-1700,sales,2025-10-01,https://lulstb.com/,2026-11-06
+LA,parish,Parish of Lafayette and Sheriff’s Law Enf. District,2806,0.04,LA-2806,sales,2020-09-01,https://lulstb.com/,2026-11-06
 LA,parish,Parishwide excluding City of St. Gabriel & EDD,2400,0.0525,LA-2400,sales,2024-07-01,https://lulstb.com/,2026-05-18
+LA,parish,RURAL PARISH,1400,0.03625,LA-1400,sales,2015-07-01,https://lulstb.com/,2026-11-06
+LA,parish,Rural,3400,0.04,LA-3400,sales,2011-07-01,https://lulstb.com/,2026-11-06
+LA,parish,Rural Parish,2100,0.04,LA-2100,sales,2009-01-01,https://lulstb.com/,2026-11-06
+LA,parish,Rural Parish,2300,0.0425,LA-2300,sales,2024-07-01,https://lulstb.com/,2026-11-06
+LA,parish,Unincorporated Acadia Parish,0100,0.0425,LA-0100,sales,2012-07-01,https://lulstb.com/,2026-11-06
+LA,parish,Unincorporated Areas,2700,0.055,LA-2700,sales,2026-04-01,https://lulstb.com/,2026-11-06
+LA,parish,Unincorporated Areas Except Ward1,1008,0.0575,LA-1008,sales,2025-01-01,https://lulstb.com/,2026-11-06
+LA,parish,West Carroll  Outside Oakgrove,6200,0.055,LA-6200,sales,2024-02-28,https://lulstb.com/,2026-11-06
+LA,parish,Winn Parish Outside the City of Winnfield,6400,0.04,LA-6400,sales,2015-07-01,https://lulstb.com/,2026-11-06
+LA,special_district,Balance of Parish inside  School Dist. #6,6009,0.035,LA-6009,sales,2011-01-01,https://lulstb.com/,2026-11-06
 LA,special_district,Bastrop including Tax Dist #1,3406,0.06,LA-3406,sales,2009-01-01,https://lulstb.com/,2026-05-18
+LA,special_district,Caddo Fire District #1,0912,0.0435,LA-0912,sales,2026-01-01,https://lulstb.com/,2026-11-06
 LA,special_district,City of Central Central School District,1703,0.06,LA-1703,sales,2025-10-01,https://lulstb.com/,2026-05-18
+LA,special_district,District 1/ EDD IV,3519,0.05,LA-3519,sales,2024-04-01,https://lulstb.com/,2026-11-06
 LA,special_district,Downtown EDD within the City of Lafayette,2815,0.05,LA-2815,sales,2020-07-01,https://lulstb.com/,2026-05-18
 LA,special_district,East Ascension Outside Gonzales or Sorrento,0304,0.045,LA-0304,sales,2012-07-01,https://lulstb.com/,2026-05-18
+LA,special_district,Evangeline Road Tax Dist 1,2008,0.06,LA-2008,sales,2020-09-01,https://lulstb.com/,2026-11-06
+LA,special_district,N Caddo Hosp Dist,0910,0.0435,LA-0910,sales,2026-01-01,https://lulstb.com/,2026-11-06
+LA,special_district,North Unincorporated Area,2911,0.0465,LA-2911,sales,2023-10-01,https://lulstb.com/,2026-11-06
+LA,special_district,Outside Many School Dist 34,4306,0.04625,LA-4306,sales,2008-10-01,https://lulstb.com/,2026-11-06
+LA,special_district,Parish Hospital Dist. #1 outside City of Kaplan,5707,0.0475,LA-5707,sales,2026-10-01,https://lulstb.com/,2026-11-06
+LA,special_district,"Wards  1,2,3,4,7 & 10",5103,0.0445,LA-5103,sales,2012-01-01,https://lulstb.com/,2026-11-06
+LA,special_district,Wards  5 & 8,5102,0.0445,LA-5102,sales,2012-01-01,https://lulstb.com/,2026-11-06
+LA,special_district,West Ouachita Parish,3705,0.0599,LA-3705,sales,2016-07-01,https://lulstb.com/,2026-11-06
 MN,city,Austin,02908,0.005,MN-P-02908,sales,2007-04-01,https://www.streamlinedsalestax.org/ratesandboundry/Rates/MNR2026Q2FEB18.zip,2026-05-18
 MN,city,Avon,03070,0.005,MN-P-03070,sales,2019-10-01,https://www.streamlinedsalestax.org/ratesandboundry/Rates/MNR2026Q2FEB18.zip,2026-05-18
 MN,city,Baxter,04042,0.005,MN-P-04042,sales,2006-10-01,https://www.streamlinedsalestax.org/ratesandboundry/Rates/MNR2026Q2FEB18.zip,2026-05-18
@@ -7492,7 +7695,7 @@ MO,county,Shannon County,203,0.015,MO-C-203,sales,2026-01-01,https://dor.mo.gov/
 MO,county,St Charles County,183,0.01725,MO-C-183,sales,2026-01-01,https://dor.mo.gov/pdf/rates/2026/may2026.xlsx,2026-05-18
 MO,county,St Clair County,185,0.01,MO-C-185,sales,2026-10-01,https://dor.mo.gov/pdf/rates/2026/october2026.xlsx,2026-10-01
 MO,county,St Francois County,187,0.02625,MO-C-187,sales,2026-10-01,https://dor.mo.gov/pdf/rates/2026/october2026.xlsx,2026-10-01
-MO,county,St Louis County,189,0.03513,MO-C-189,sales,2026-01-01,https://dor.mo.gov/pdf/rates/2026/may2026.xlsx,2026-05-18
+MO,county,St Louis County,189,0.04513,MO-C-189,sales,2026-10-01,https://dor.mo.gov/pdf/rates/2026/october2026.xlsx,2026-11-06
 MO,county,Ste Genevieve County,193,0.03375,MO-C-193,sales,2026-01-01,https://dor.mo.gov/pdf/rates/2026/may2026.xlsx,2026-05-18
 MO,county,Stoddard County,207,0.03188,MO-C-207,sales,2026-10-01,https://dor.mo.gov/pdf/rates/2026/october2026.xlsx,2026-10-01
 MO,county,Stone County,209,0.0275,MO-C-209,sales,2026-08-11,https://dor.mo.gov/pdf/rates/2026/october2026.xlsx,2026-09-17
@@ -7506,6 +7709,137 @@ MO,county,Wayne County,223,0.0175,MO-C-223,sales,2026-01-01,https://dor.mo.gov/p
 MO,county,Webster County,225,0.02083,MO-C-225,sales,2026-01-01,https://dor.mo.gov/pdf/rates/2026/may2026.xlsx,2026-05-18
 MO,county,Worth County,227,0.02375,MO-C-227,sales,2026-01-01,https://dor.mo.gov/pdf/rates/2026/may2026.xlsx,2026-05-18
 MO,county,Wright County,229,0.01875,MO-C-229,sales,2026-01-01,https://dor.mo.gov/pdf/rates/2026/may2026.xlsx,2026-05-18
+MO,special_district,1111 Grand CID + Kansas City Main Street Rail TDD,,0.02,MO-D-38000-095-039,sales,2026-10-01,https://dor.mo.gov/pdf/rates/2026/october2026.xlsx,2026-11-06
+MO,special_district,1200 Main/South Loop TDD + 1200 Main South Loop CID + Kansas City Main Street Rail TDD,,0.03,MO-D-38000-095-052,sales,2026-10-01,https://dor.mo.gov/pdf/rates/2026/october2026.xlsx,2026-11-06
+MO,special_district,1200 Main/South Loop TDD + Kansas City Main Street Rail TDD,,0.02,MO-D-38000-095-004,sales,2026-10-01,https://dor.mo.gov/pdf/rates/2026/october2026.xlsx,2026-11-06
+MO,special_district,1201 Washington CID,,0.01,MO-D-65000-510-006,sales,2026-10-01,https://dor.mo.gov/pdf/rates/2026/october2026.xlsx,2026-11-06
+MO,special_district,1225 Washington CID + 1225 Washington TDD,,0.02,MO-D-65000-510-007,sales,2026-10-01,https://dor.mo.gov/pdf/rates/2026/october2026.xlsx,2026-11-06
+MO,special_district,12th & Wyandotte CID + Kansas City Main Street Rail TDD,,0.02,MO-D-38000-095-034,sales,2026-10-01,https://dor.mo.gov/pdf/rates/2026/october2026.xlsx,2026-11-06
+MO,special_district,12th Street Heritage CID,,0.01,MO-D-38000-095-045,sales,2026-10-01,https://dor.mo.gov/pdf/rates/2026/october2026.xlsx,2026-11-06
+MO,special_district,14th And Market CID,,0.01,MO-D-65000-510-060,sales,2026-10-01,https://dor.mo.gov/pdf/rates/2026/october2026.xlsx,2026-11-06
+MO,special_district,1601 South Jefferson CID,,0.01,MO-D-65000-510-008,sales,2026-10-01,https://dor.mo.gov/pdf/rates/2026/october2026.xlsx,2026-11-06
+MO,special_district,1831/2000 Sidney Street CID + 1831/2000 Sidney Street TDD,,0.02,MO-D-65000-510-057,sales,2026-10-01,https://dor.mo.gov/pdf/rates/2026/october2026.xlsx,2026-11-06
+MO,special_district,2019 Grand Center CID,,0.01,MO-D-65000-510-069,sales,2026-10-01,https://dor.mo.gov/pdf/rates/2026/october2026.xlsx,2026-11-06
+MO,special_district,2118 Chouteau TDD,,0.01,MO-D-65000-510-010,sales,2026-10-01,https://dor.mo.gov/pdf/rates/2026/october2026.xlsx,2026-11-06
+MO,special_district,2118 Chouteau TDD + Chouteau Avenue Corridor CID,,0.02,MO-D-65000-510-071,sales,2026-10-01,https://dor.mo.gov/pdf/rates/2026/october2026.xlsx,2026-11-06
+MO,special_district,212 South Grand TDD + 212 South Grand CID,,0.02,MO-D-65000-510-001,sales,2026-10-01,https://dor.mo.gov/pdf/rates/2026/october2026.xlsx,2026-11-06
+MO,special_district,2350 South Grand CID,,0.01,MO-D-65000-510-054,sales,2026-10-01,https://dor.mo.gov/pdf/rates/2026/october2026.xlsx,2026-11-06
+MO,special_district,4840 CID + Kansas City Main Street Rail TDD,,0.02,MO-D-38000-095-003,sales,2026-10-01,https://dor.mo.gov/pdf/rates/2026/october2026.xlsx,2026-11-06
+MO,special_district,501 Olive CID + 501 Olive TDD,,0.02,MO-D-65000-510-063,sales,2026-10-01,https://dor.mo.gov/pdf/rates/2026/october2026.xlsx,2026-11-06
+MO,special_district,5050 Main CID + Kansas City Main Street Rail TDD,,0.02,MO-D-38000-095-024,sales,2026-10-01,https://dor.mo.gov/pdf/rates/2026/october2026.xlsx,2026-11-06
+MO,special_district,51st & Oak CID + Kansas City Main Street Rail TDD,,0.02,MO-D-38000-095-031,sales,2026-10-01,https://dor.mo.gov/pdf/rates/2026/october2026.xlsx,2026-11-06
+MO,special_district,620 Market CID + 620 Market TDD,,0.02,MO-D-65000-510-002,sales,2026-10-01,https://dor.mo.gov/pdf/rates/2026/october2026.xlsx,2026-11-06
+MO,special_district,705 Olive CID + 705 Olive TDD,,0.02,MO-D-65000-510-056,sales,2026-10-01,https://dor.mo.gov/pdf/rates/2026/october2026.xlsx,2026-11-06
+MO,special_district,840 East Taylor CID,,0.01,MO-D-65000-510-003,sales,2026-10-01,https://dor.mo.gov/pdf/rates/2026/october2026.xlsx,2026-11-06
+MO,special_district,89th And State Line CID,,0.01,MO-D-38000-095-046,sales,2026-10-01,https://dor.mo.gov/pdf/rates/2026/october2026.xlsx,2026-11-06
+MO,special_district,9th And Central CID + Kansas City Main Street Rail TDD,,0.02,MO-D-38000-095-042,sales,2026-10-01,https://dor.mo.gov/pdf/rates/2026/october2026.xlsx,2026-11-06
+MO,special_district,Antioch Center CID,,0.01,MO-D-38000-047-002,sales,2026-10-01,https://dor.mo.gov/pdf/rates/2026/october2026.xlsx,2026-11-06
+MO,special_district,Armory CID,,0.01,MO-D-65000-510-076,sales,2026-10-01,https://dor.mo.gov/pdf/rates/2026/october2026.xlsx,2026-11-06
+MO,special_district,Ballpark Village CID + Ballpark Village TDD,,0.02,MO-D-65000-510-011,sales,2026-10-01,https://dor.mo.gov/pdf/rates/2026/october2026.xlsx,2026-11-06
+MO,special_district,Bevo CID,,0.01,MO-D-65000-510-080,sales,2026-10-01,https://dor.mo.gov/pdf/rates/2026/october2026.xlsx,2026-11-06
+MO,special_district,Brighton Creek Commons CID,,0.01,MO-D-38000-047-020,sales,2026-10-01,https://dor.mo.gov/pdf/rates/2026/october2026.xlsx,2026-11-06
+MO,special_district,Broadway Area CID + Kansas City Main Street Rail TDD,,0.02,MO-D-38000-095-032,sales,2026-10-01,https://dor.mo.gov/pdf/rates/2026/october2026.xlsx,2026-11-06
+MO,special_district,Broadway Hotel CID + Broadway Hotel TDD,,0.02,MO-D-65000-510-013,sales,2026-10-01,https://dor.mo.gov/pdf/rates/2026/october2026.xlsx,2026-11-06
+MO,special_district,Brookside CID,,0.005,MO-D-38000-095-005,sales,2026-10-01,https://dor.mo.gov/pdf/rates/2026/october2026.xlsx,2026-11-06
+MO,special_district,Brywood Centre CID,,0.01,MO-D-38000-095-006,sales,2026-10-01,https://dor.mo.gov/pdf/rates/2026/october2026.xlsx,2026-11-06
+MO,special_district,Carondelet Commons CID,,0.01,MO-D-65000-510-079,sales,2026-10-01,https://dor.mo.gov/pdf/rates/2026/october2026.xlsx,2026-11-06
+MO,special_district,Carrie Avenue CID,,0.01,MO-D-65000-510-053,sales,2026-10-01,https://dor.mo.gov/pdf/rates/2026/october2026.xlsx,2026-11-06
+MO,special_district,Cb5421 5975 TDD + Loop Trolley TDD,,0.02,MO-D-65000-510-014,sales,2026-10-01,https://dor.mo.gov/pdf/rates/2026/october2026.xlsx,2026-11-06
+MO,special_district,Cherokee Street CID,,0.01,MO-D-65000-510-062,sales,2026-10-01,https://dor.mo.gov/pdf/rates/2026/october2026.xlsx,2026-11-06
+MO,special_district,Chouteau Avenue Corridor CID,,0.01,MO-D-65000-510-070,sales,2026-10-01,https://dor.mo.gov/pdf/rates/2026/october2026.xlsx,2026-11-06
+MO,special_district,Chouteau Crossing CID,,0.01,MO-D-65000-510-019,sales,2026-10-01,https://dor.mo.gov/pdf/rates/2026/october2026.xlsx,2026-11-06
+MO,special_district,City Foundry CID + City Foundry TDD,,0.02,MO-D-65000-510-068,sales,2026-10-01,https://dor.mo.gov/pdf/rates/2026/october2026.xlsx,2026-11-06
+MO,special_district,City Hospital Powerhouse CID + City Hospital Powerhouse TDD,,0.02,MO-D-65000-510-017,sales,2026-10-01,https://dor.mo.gov/pdf/rates/2026/october2026.xlsx,2026-11-06
+MO,special_district,City Hospital Rpa 2 Phase 1 CID + City Hospital Laundry TDD,,0.02,MO-D-65000-510-016,sales,2026-10-01,https://dor.mo.gov/pdf/rates/2026/october2026.xlsx,2026-11-06
+MO,special_district,Country Club Plaza TDD + Kansas City Main Street Rail TDD,,0.02,MO-D-38000-095-007,sales,2026-10-01,https://dor.mo.gov/pdf/rates/2026/october2026.xlsx,2026-11-06
+MO,special_district,Cozens/Mlk/Grand CID,,0.01,MO-D-65000-510-018,sales,2026-10-01,https://dor.mo.gov/pdf/rates/2026/october2026.xlsx,2026-11-06
+MO,special_district,Creekwood Commons CID,,0.01,MO-D-38000-047-011,sales,2026-10-01,https://dor.mo.gov/pdf/rates/2026/october2026.xlsx,2026-11-06
+MO,special_district,Crossroads CID,,0.005,MO-D-38000-095-077,sales,2026-10-01,https://dor.mo.gov/pdf/rates/2026/october2026.xlsx,2026-11-06
+MO,special_district,Crowne Plaza CID + Crowne Plaza TDD,,0.02,MO-D-65000-510-020,sales,2026-10-01,https://dor.mo.gov/pdf/rates/2026/october2026.xlsx,2026-11-06
+MO,special_district,Cupples Station Building 9 CID,,0.01,MO-D-65000-510-021,sales,2026-10-01,https://dor.mo.gov/pdf/rates/2026/october2026.xlsx,2026-11-06
+MO,special_district,Cwe Business CID,,0.01,MO-D-65000-510-022,sales,2026-10-01,https://dor.mo.gov/pdf/rates/2026/october2026.xlsx,2026-11-06
+MO,special_district,Edgewood Farms CID,,0.01,MO-D-38000-165-009,sales,2026-10-01,https://dor.mo.gov/pdf/rates/2026/october2026.xlsx,2026-11-06
+MO,special_district,Electric Park CID,,0.01,MO-D-38000-095-053,sales,2026-10-01,https://dor.mo.gov/pdf/rates/2026/october2026.xlsx,2026-11-06
+MO,special_district,Eqh Market Street CID,,0.01,MO-D-65000-510-065,sales,2026-10-01,https://dor.mo.gov/pdf/rates/2026/october2026.xlsx,2026-11-06
+MO,special_district,Euclid Buckingham TDD,,0.01,MO-D-65000-510-023,sales,2026-10-01,https://dor.mo.gov/pdf/rates/2026/october2026.xlsx,2026-11-06
+MO,special_district,Euclid South CID,,0.01,MO-D-65000-510-049,sales,2026-10-01,https://dor.mo.gov/pdf/rates/2026/october2026.xlsx,2026-11-06
+MO,special_district,Flintlock Plaza CID,,0.01,MO-D-38000-047-004,sales,2026-10-01,https://dor.mo.gov/pdf/rates/2026/october2026.xlsx,2026-11-06
+MO,special_district,Flintlock Shoppes CID,,0.01,MO-D-38000-047-005,sales,2026-10-01,https://dor.mo.gov/pdf/rates/2026/october2026.xlsx,2026-11-06
+MO,special_district,Forsyth Associates CID,,0.01,MO-D-65000-510-055,sales,2026-10-01,https://dor.mo.gov/pdf/rates/2026/october2026.xlsx,2026-11-06
+MO,special_district,Georgian Square CID,,0.01,MO-D-65000-510-024,sales,2026-10-01,https://dor.mo.gov/pdf/rates/2026/october2026.xlsx,2026-11-06
+MO,special_district,Georgian Square CID + St Louis Food Hub TDD,,0.02,MO-D-65000-510-052,sales,2026-10-01,https://dor.mo.gov/pdf/rates/2026/october2026.xlsx,2026-11-06
+MO,special_district,Grove CID,,0.01,MO-D-65000-510-025,sales,2026-10-01,https://dor.mo.gov/pdf/rates/2026/october2026.xlsx,2026-11-06
+MO,special_district,Hadley Dean Building CID,,0.01,MO-D-65000-510-026,sales,2026-10-01,https://dor.mo.gov/pdf/rates/2026/october2026.xlsx,2026-11-06
+MO,special_district,Hampton/Berthold CID + Hampton/Berthold TDD,,0.02,MO-D-65000-510-051,sales,2026-10-01,https://dor.mo.gov/pdf/rates/2026/october2026.xlsx,2026-11-06
+MO,special_district,Highlands TDD,,0.01,MO-D-65000-510-027,sales,2026-10-01,https://dor.mo.gov/pdf/rates/2026/october2026.xlsx,2026-11-06
+MO,special_district,Independence Avenue CID,,0.01,MO-D-38000-095-008,sales,2026-10-01,https://dor.mo.gov/pdf/rates/2026/october2026.xlsx,2026-11-06
+MO,special_district,Intercontinental CID + Kansas City Main Street Rail TDD,,0.02,MO-D-38000-095-035,sales,2026-10-01,https://dor.mo.gov/pdf/rates/2026/october2026.xlsx,2026-11-06
+MO,special_district,Interstate 70 And Blue Ridge Cutoff CID,,0.01,MO-D-38000-095-054,sales,2026-10-01,https://dor.mo.gov/pdf/rates/2026/october2026.xlsx,2026-11-06
+MO,special_district,Kansas City International Airport CID,,0.01,MO-D-38000-165-001,sales,2026-10-01,https://dor.mo.gov/pdf/rates/2026/october2026.xlsx,2026-11-06
+MO,special_district,Kansas City Main Street Rail TDD,,0.01,MO-D-38000-095-009,sales,2026-10-01,https://dor.mo.gov/pdf/rates/2026/october2026.xlsx,2026-11-06
+MO,special_district,Kansas City Main Street Rail TDD + 46th And Wornall 1 CID + 46th And Wornall 2 CID,,0.03,MO-D-38000-095-064,sales,2026-10-01,https://dor.mo.gov/pdf/rates/2026/october2026.xlsx,2026-11-06
+MO,special_district,Kansas City Main Street Rail TDD + Crossroads CID,,0.015,MO-D-38000-095-078,sales,2026-10-01,https://dor.mo.gov/pdf/rates/2026/october2026.xlsx,2026-11-06
+MO,special_district,Lacledes Landing CID,,0.01,MO-D-65000-510-028,sales,2026-10-01,https://dor.mo.gov/pdf/rates/2026/october2026.xlsx,2026-11-06
+MO,special_district,Landing Mall CID,,0.01,MO-D-38000-095-010,sales,2026-10-01,https://dor.mo.gov/pdf/rates/2026/october2026.xlsx,2026-11-06
+MO,special_district,Laurel CID + Laurel TDD,,0.02,MO-D-65000-510-029,sales,2026-10-01,https://dor.mo.gov/pdf/rates/2026/october2026.xlsx,2026-11-06
+MO,special_district,Lighthouse St Louis TDD,,0.01,MO-D-65000-510-075,sales,2026-10-01,https://dor.mo.gov/pdf/rates/2026/october2026.xlsx,2026-11-06
+MO,special_district,Loop Trolley TDD,,0.01,MO-D-65000-510-030,sales,2026-10-01,https://dor.mo.gov/pdf/rates/2026/october2026.xlsx,2026-11-06
+MO,special_district,Loop Trolley TDD,,0.01,MO-D-75220-189-002,sales,2026-10-01,https://dor.mo.gov/pdf/rates/2026/october2026.xlsx,2026-11-06
+MO,special_district,Loop Trolley TDD + Forest Park Tod CID,,0.02,MO-D-65000-510-074,sales,2026-10-01,https://dor.mo.gov/pdf/rates/2026/october2026.xlsx,2026-11-06
+MO,special_district,M150 & 135th Street TDD,,0.01,MO-D-38000-095-011,sales,2026-10-01,https://dor.mo.gov/pdf/rates/2026/october2026.xlsx,2026-11-06
+MO,special_district,Magnolia CID + Magnolia TDD,,0.02,MO-D-65000-510-032,sales,2026-10-01,https://dor.mo.gov/pdf/rates/2026/october2026.xlsx,2026-11-06
+MO,special_district,Marketplace 152 CID,,0.01,MO-D-38000-047-015,sales,2026-10-01,https://dor.mo.gov/pdf/rates/2026/october2026.xlsx,2026-11-06
+MO,special_district,Martin City CID,,0.005,MO-D-38000-095-013,sales,2026-10-01,https://dor.mo.gov/pdf/rates/2026/october2026.xlsx,2026-11-06
+MO,special_district,Martin City CID + M150 & 135th Street TDD,,0.015,MO-D-38000-095-012,sales,2026-10-01,https://dor.mo.gov/pdf/rates/2026/october2026.xlsx,2026-11-06
+MO,special_district,Metro North Square And Commons CID,,0.00875,MO-D-38000-047-006,sales,2026-10-01,https://dor.mo.gov/pdf/rates/2026/october2026.xlsx,2026-11-06
+MO,special_district,North Broadway Carrie CID + Broadway Carrie TDD,,0.02,MO-D-65000-510-034,sales,2026-10-01,https://dor.mo.gov/pdf/rates/2026/october2026.xlsx,2026-11-06
+MO,special_district,North Oak Village CID,,0.01,MO-D-38000-047-007,sales,2026-10-01,https://dor.mo.gov/pdf/rates/2026/october2026.xlsx,2026-11-06
+MO,special_district,Northeast Hampton I 44 CID,,0.01,MO-D-65000-510-066,sales,2026-10-01,https://dor.mo.gov/pdf/rates/2026/october2026.xlsx,2026-11-06
+MO,special_district,Oak Barry CID,,0.00875,MO-D-38000-047-008,sales,2026-10-01,https://dor.mo.gov/pdf/rates/2026/october2026.xlsx,2026-11-06
+MO,special_district,Old Foundation CID,,0.01,MO-D-38000-165-002,sales,2026-10-01,https://dor.mo.gov/pdf/rates/2026/october2026.xlsx,2026-11-06
+MO,special_district,Park Pacific CID,,0.01,MO-D-65000-510-036,sales,2026-10-01,https://dor.mo.gov/pdf/rates/2026/october2026.xlsx,2026-11-06
+MO,special_district,Performing Arts CID + Kansas City Main Street Rail TDD,,0.02,MO-D-38000-095-014,sales,2026-10-01,https://dor.mo.gov/pdf/rates/2026/october2026.xlsx,2026-11-06
+MO,special_district,Pershing And Grand CID + Kansas City Main Street Rail TDD,,0.02,MO-D-38000-095-038,sales,2026-10-01,https://dor.mo.gov/pdf/rates/2026/october2026.xlsx,2026-11-06
+MO,special_district,Pioneer Center CID,,0.01,MO-D-38000-047-018,sales,2026-10-01,https://dor.mo.gov/pdf/rates/2026/october2026.xlsx,2026-11-06
+MO,special_district,Plaza East CID,,0.01,MO-D-38000-095-015,sales,2026-10-01,https://dor.mo.gov/pdf/rates/2026/october2026.xlsx,2026-11-06
+MO,special_district,Railway Exchange Building CID,,0.01,MO-D-65000-510-037,sales,2026-10-01,https://dor.mo.gov/pdf/rates/2026/october2026.xlsx,2026-11-06
+MO,special_district,Railway Exchange Building CID + Railway Exchange Building TDD,,0.02,MO-D-65000-510-038,sales,2026-10-01,https://dor.mo.gov/pdf/rates/2026/october2026.xlsx,2026-11-06
+MO,special_district,Red Bridge Shopping Center CID,,0.01,MO-D-38000-095-028,sales,2026-10-01,https://dor.mo.gov/pdf/rates/2026/october2026.xlsx,2026-11-06
+MO,special_district,Residence Inn Downtown St Louis CID + Residence Inn St Louis Downtown TDD,,0.02,MO-D-65000-510-039,sales,2026-10-01,https://dor.mo.gov/pdf/rates/2026/october2026.xlsx,2026-11-06
+MO,special_district,Riverfront Hotel CID,,0.01,MO-D-65000-510-040,sales,2026-10-01,https://dor.mo.gov/pdf/rates/2026/october2026.xlsx,2026-11-06
+MO,special_district,Shops On Blue Parkway CID,,0.01,MO-D-38000-095-017,sales,2026-10-01,https://dor.mo.gov/pdf/rates/2026/october2026.xlsx,2026-11-06
+MO,special_district,Skelly CID + Kansas City Main Street Rail TDD,,0.02,MO-D-38000-095-018,sales,2026-10-01,https://dor.mo.gov/pdf/rates/2026/october2026.xlsx,2026-11-06
+MO,special_district,Soccer Stadium CID,,0.01,MO-D-65000-510-072,sales,2026-10-01,https://dor.mo.gov/pdf/rates/2026/october2026.xlsx,2026-11-06
+MO,special_district,Soda Fountain Square CID,,0.01,MO-D-65000-510-041,sales,2026-10-01,https://dor.mo.gov/pdf/rates/2026/october2026.xlsx,2026-11-06
+MO,special_district,Soulard CID,,0.01,MO-D-65000-510-067,sales,2026-10-01,https://dor.mo.gov/pdf/rates/2026/october2026.xlsx,2026-11-06
+MO,special_district,South Bristol Center CID,,0.01,MO-D-38000-047-016,sales,2026-10-01,https://dor.mo.gov/pdf/rates/2026/october2026.xlsx,2026-11-06
+MO,special_district,South Grand CID,,0.005,MO-D-65000-510-042,sales,2026-10-01,https://dor.mo.gov/pdf/rates/2026/october2026.xlsx,2026-11-06
+MO,special_district,St Louis Convention Center Hotel TDD + St Louis Convention Center Hotel 3 CID,,0.02,MO-D-65000-510-044,sales,2026-10-01,https://dor.mo.gov/pdf/rates/2026/october2026.xlsx,2026-11-06
+MO,special_district,State Line Shopping Center CID,,0.01,MO-D-38000-095-030,sales,2026-10-01,https://dor.mo.gov/pdf/rates/2026/october2026.xlsx,2026-11-06
+MO,special_district,Steelcote Square CID,,0.01,MO-D-65000-510-077,sales,2026-10-01,https://dor.mo.gov/pdf/rates/2026/october2026.xlsx,2026-11-06
+MO,special_district,The 4 Hands Brewery CID,,0.01,MO-D-65000-510-081,sales,2026-10-01,https://dor.mo.gov/pdf/rates/2026/october2026.xlsx,2026-11-06
+MO,special_district,Tiffany Landing CID,,0.01,MO-D-38000-165-008,sales,2026-10-01,https://dor.mo.gov/pdf/rates/2026/october2026.xlsx,2026-11-06
+MO,special_district,Troost Ave CID,,0.005,MO-D-38000-095-019,sales,2026-10-01,https://dor.mo.gov/pdf/rates/2026/october2026.xlsx,2026-11-06
+MO,special_district,Troost Ave CID + Kansas City Main Street Rail TDD,,0.015,MO-D-38000-095-060,sales,2026-10-01,https://dor.mo.gov/pdf/rates/2026/october2026.xlsx,2026-11-06
+MO,special_district,Truman Road CID,,0.005,MO-D-38000-095-020,sales,2026-10-01,https://dor.mo.gov/pdf/rates/2026/october2026.xlsx,2026-11-06
+MO,special_district,Tucker And Cass CID,,0.01,MO-D-65000-510-064,sales,2026-10-01,https://dor.mo.gov/pdf/rates/2026/october2026.xlsx,2026-11-06
+MO,special_district,Twin Creeks Center CID,,0.01,MO-D-38000-047-012,sales,2026-10-01,https://dor.mo.gov/pdf/rates/2026/october2026.xlsx,2026-11-06
+MO,special_district,Union Station CID,,0.01,MO-D-65000-510-046,sales,2026-10-01,https://dor.mo.gov/pdf/rates/2026/october2026.xlsx,2026-11-06
+MO,special_district,Union Station CID + Union Station TDD,,0.02,MO-D-65000-510-059,sales,2026-10-01,https://dor.mo.gov/pdf/rates/2026/october2026.xlsx,2026-11-06
+MO,special_district,Uptown CID + Kansas City Main Street Rail TDD,,0.02,MO-D-38000-095-033,sales,2026-10-01,https://dor.mo.gov/pdf/rates/2026/october2026.xlsx,2026-11-06
+MO,special_district,Valley View CID,,0.01,MO-D-38000-047-014,sales,2026-10-01,https://dor.mo.gov/pdf/rates/2026/october2026.xlsx,2026-11-06
+MO,special_district,Villages CID,,0.01,MO-D-38000-047-010,sales,2026-10-01,https://dor.mo.gov/pdf/rates/2026/october2026.xlsx,2026-11-06
+MO,special_district,Waldo CID,,0.005,MO-D-38000-095-021,sales,2026-10-01,https://dor.mo.gov/pdf/rates/2026/october2026.xlsx,2026-11-06
+MO,special_district,Waldo CID + Romanelli Shops CID,,0.015,MO-D-38000-095-058,sales,2026-10-01,https://dor.mo.gov/pdf/rates/2026/october2026.xlsx,2026-11-06
+MO,special_district,Waldo CID + Wornall Village CID,,0.015,MO-D-38000-095-049,sales,2026-10-01,https://dor.mo.gov/pdf/rates/2026/october2026.xlsx,2026-11-06
+MO,special_district,Ward Parkway Plaza CID,,0.01,MO-D-38000-095-047,sales,2026-10-01,https://dor.mo.gov/pdf/rates/2026/october2026.xlsx,2026-11-06
+MO,special_district,Ward Parkway Shopping Center CID,,0.01,MO-D-38000-095-022,sales,2026-10-01,https://dor.mo.gov/pdf/rates/2026/october2026.xlsx,2026-11-06
+MO,special_district,Washington Ave TDD,,0.01,MO-D-65000-510-047,sales,2026-10-01,https://dor.mo.gov/pdf/rates/2026/october2026.xlsx,2026-11-06
+MO,special_district,Washington Ave TDD + 1100 Washington Ave CID,,0.02,MO-D-65000-510-004,sales,2026-10-01,https://dor.mo.gov/pdf/rates/2026/october2026.xlsx,2026-11-06
+MO,special_district,Washington Ave TDD + 1133 Washington Ave CID,,0.02,MO-D-65000-510-005,sales,2026-10-01,https://dor.mo.gov/pdf/rates/2026/october2026.xlsx,2026-11-06
+MO,special_district,Watts Mill CID,,0.01,MO-D-38000-095-029,sales,2026-10-01,https://dor.mo.gov/pdf/rates/2026/october2026.xlsx,2026-11-06
+MO,special_district,Westport CID + Kansas City Main Street Rail TDD,,0.02,MO-D-38000-095-023,sales,2026-10-01,https://dor.mo.gov/pdf/rates/2026/october2026.xlsx,2026-11-06
+MO,special_district,Wornall Village CID,,0.01,MO-D-38000-095-048,sales,2026-10-01,https://dor.mo.gov/pdf/rates/2026/october2026.xlsx,2026-11-06
 MS,city,Jackson,,0.01,MS-P-jackson,sales,2024-01-01,https://www.dor.ms.gov/business/sales-use-tax,2026-05-18
 MS,city,Tupelo,,0.0025,MS-P-tupelo,sales,2024-01-01,https://www.dor.ms.gov/business/sales-use-tax,2026-05-18
 NC,county,Alamance,001,0.02,NC-C-001,sales,2009-10-01,https://www.streamlinedsalestax.org/ratesandboundry/Rates/NCR2024Q3APR26.csv,2026-05-18

@@ -40,7 +40,7 @@
       },
       {
         "label": "State sales tax (general rate 4.0%)",
-        "notes": "Alabama's general state rate is 4.0%. Reduced STATE rates apply to categories v1 does not split out: food/groceries (2.0% from 2025-09-01, 3.0% before), automotive vehicles (2.0%), and farm/manufacturing machinery (1.5%); report those at their reduced rates. Alabama also has extensive LOCAL (city/county) taxes, many self-administered: state and state-administered locals are filed via My Alabama Taxes / ONE SPOT, self-administered localities separately. v1 reports the 4.0% state portion only. A timely-filing discount on state sales tax is available; apply per the MAT instructions.",
+        "notes": "Alabama's general state rate is 4.0%. Reduced STATE rates apply to categories v1 does not split out: food/groceries (2.0% from 2025-09-01, 3.0% before; no state tax on food from 2026-05-01 through 2026-06-30 under Act 2026-604, while city and county tax still applied), automotive vehicles (2.0%), and farm/manufacturing machinery (1.5%); report those at their reduced rates. Alabama also has extensive LOCAL (city/county) taxes, many self-administered: state and state-administered locals are filed via My Alabama Taxes / ONE SPOT, self-administered localities separately. v1 reports the 4.0% state portion only. A timely-filing discount on state sales tax is available; apply per the MAT instructions.",
         "metric": "computed",
         "operands": [
           "taxable_sales",
@@ -50,7 +50,7 @@
         "computation": "percent_of"
       }
     ],
-    "notes": "Alabama files via My Alabama Taxes (MAT) / ONE SPOT (paper Form 2100 is retired). General state rate 4.0%. Reduced state rates (food 2.0% from 2025-09-01, 3.0% before; automotive 2.0%; machinery 1.5%) and the many self-administered local jurisdictions are NOT split by v1. It reports the 4.0% general state portion only; complete reduced-rate categories and local lines from your category/jurisdiction detail. A timely-filing vendor discount on state sales tax is available; apply per the MAT instructions."
+    "notes": "Alabama files via My Alabama Taxes (MAT) / ONE SPOT (paper Form 2100 is retired). General state rate 4.0%. Reduced state rates (food 2.0% from 2025-09-01, 3.0% before, and no state tax on food from 2026-05-01 through 2026-06-30 under Act 2026-604, while city and county tax still applied; automotive 2.0%; machinery 1.5%) and the many self-administered local jurisdictions are NOT split by v1. It reports the 4.0% general state portion only; complete reduced-rate categories and local lines from your category/jurisdiction detail. A timely-filing vendor discount on state sales tax is available; apply per the MAT instructions."
   },
   {
     "state_code": "AR",
@@ -1941,7 +1941,7 @@
       },
       {
         "label": "Allegheny County local tax (1.0%)",
-        "notes": "Allegheny County imposes an additional 1.0% local sales tax on sales sourced there. Defaults to 0 because TaxLocus v1 does not split taxable sales by delivery county. If you have Allegheny-sourced sales, compute 1.0% of that portion and enter it here.",
+        "notes": "Allegheny County imposes an additional 1.0% local sales tax on taxable sales delivered to customers in the county (destination sourcing under Act 21 of 2026 for sales from 2026-01-01, enforced by the Department of Revenue from 2026-10-01; before that the local tax generally followed the vendor's location). Defaults to 0 because TaxLocus v1 does not split taxable sales by delivery county. If you have sales delivered into Allegheny County, compute 1.0% of that portion and enter it here.",
         "metric": "constant",
         "operands": [
           "0"
@@ -1951,7 +1951,7 @@
       },
       {
         "label": "Philadelphia local tax (2.0%)",
-        "notes": "Philadelphia imposes an additional 2.0% local sales tax on sales sourced there. Defaults to 0 because TaxLocus v1 does not split taxable sales by delivery jurisdiction. If you have Philadelphia-sourced sales, compute 2.0% of that portion and enter it here.",
+        "notes": "Philadelphia imposes an additional 2.0% local sales tax on taxable sales delivered to customers in the city (destination sourcing under Act 21 of 2026 for sales from 2026-01-01, enforced by the Department of Revenue from 2026-10-01; before that the local tax generally followed the vendor's location). Defaults to 0 because TaxLocus v1 does not split taxable sales by delivery jurisdiction. If you have sales delivered into Philadelphia, compute 2.0% of that portion and enter it here.",
         "metric": "constant",
         "operands": [
           "0"
@@ -1971,7 +1971,7 @@
         "computation": "percent_of"
       }
     ],
-    "notes": "PA-3 is filed through myPATH (monthly/quarterly/semi-annual by volume). State rate is 6.0%; Allegheny County adds 1.0% and Philadelphia adds 2.0% on sales sourced to those jurisdictions, and both default to 0 here because TaxLocus v1 does not split taxable sales by delivery county/city. The 1% vendor discount is capped ($25/month, $75/quarter) and must be applied by hand. Pennsylvania broadly exempts clothing and most groceries, so verify your taxability mapping reflects these before relying on the net-taxable figure."
+    "notes": "PA-3 is filed through myPATH (monthly/quarterly/semi-annual by volume). State rate is 6.0%; Allegheny County adds 1.0% and Philadelphia adds 2.0% on taxable sales delivered to customers there (destination sourcing under Act 21 of 2026 for sales from 2026-01-01, enforced by the Department of Revenue from 2026-10-01; before that the local tax generally followed the vendor's location), and both default to 0 here because TaxLocus v1 does not split taxable sales by delivery county/city. The 1% vendor discount is capped ($25/month, $75/quarter) and must be applied by hand. Pennsylvania broadly exempts clothing and most groceries, so verify your taxability mapping reflects these before relying on the net-taxable figure."
   },
   {
     "state_code": "RI",
@@ -2120,7 +2120,7 @@
       },
       {
         "label": "State sales tax (4.2%)",
-        "notes": "South Dakota state rate is 4.2% (reduced from 4.5% through 2027). Municipal taxes (up to 2%) are reported per jurisdiction; TaxLocus v1 does not split taxable sales by South Dakota municipality.",
+        "notes": "South Dakota state rate is 4.2% through 2027-06-30 and returns to 4.5% on 2027-07-01 (SDCL 10-45-2). This line computes 4.2%, so use 4.5% for sales from 2027-07-01. Municipal taxes (up to 2%) are reported per jurisdiction; TaxLocus v1 does not split taxable sales by South Dakota municipality.",
         "metric": "computed",
         "operands": [
           "taxable_sales",
@@ -2130,7 +2130,7 @@
         "computation": "percent_of"
       }
     ],
-    "notes": "SD files the Sales and Use Tax Return through SD EPath. State rate is 4.2% (a temporary reduction from 4.5%, scheduled to expire after 2026). Municipal taxes are reported per jurisdiction and not split by v1. South Dakota has a broad base: services, SaaS, and groceries are all taxable (the IM 28 grocery exemption failed in Nov 2024)."
+    "notes": "SD files the Sales and Use Tax Return through SD EPath. State rate is 4.2% (a temporary reduction from 4.5%) through 2027-06-30 and 4.5% from 2027-07-01 (SDCL 10-45-2). Municipal taxes are reported per jurisdiction and not split by v1. South Dakota has a broad base: services, SaaS, and groceries are all taxable (the IM 28 grocery exemption failed in Nov 2024)."
   },
   {
     "state_code": "TN",
