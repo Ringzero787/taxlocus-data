@@ -181,13 +181,13 @@
     "category": "digital.streaming",
     "category_description": "Streaming of video, music or games with no permanent copy, usually by subscription: video and music streaming services, cloud gaming, on-demand video.",
     "taxable": false,
-    "treatment": "needs_research",
+    "treatment": "exempt",
     "conditions": {
-      "note": "Alabama's treatment of streaming and other non-software digital products after Ex parte Russell County is unsettled."
+      "note": "No Alabama statute or rule taxes streamed video, music or games. ALDOR proposed in 2015 to bring digital transmissions under the 4% rental tax (r. 810-6-5-.09) and withdrew it; the rule covers leases of tangible personal property and was last amended effective 2014-12-04. Downloads stay taxable (digital.download)."
     },
     "effective_date": "2026-05-21",
-    "source_url": "https://www.revenue.alabama.gov/sales-use/",
-    "retrieved_at": "2026-05-21"
+    "source_url": "https://admincode.legislature.state.al.us/api/rule/810-6-5-.09",
+    "retrieved_at": "2026-11-08"
   },
   {
     "state": "AL",
@@ -608,13 +608,13 @@
     "category": "software.saas",
     "category_description": "Software as a Service: off-the-shelf software the customer uses over the internet without installing a copy, usually by subscription. Includes web apps and online platforms.",
     "taxable": false,
-    "treatment": "needs_research",
+    "treatment": "exempt",
     "conditions": {
-      "note": "Alabama taxes computer software regardless of form of transmission (r. 810-6-1-.37), but ALDOR has issued no published guidance on remotely accessed software (SaaS). Unresolved; TaxLocus does not apply tax."
+      "note": "Alabama taxes the sale or licensure of computer software whatever its form of transmission (r. 810-6-1-.37(4)). Software the customer only uses remotely, with no copy and no license to use or possess it, is not named in the statute or the rule, and ALDOR has published no guidance taxing it, so TaxLocus treats it as not taxed. Where the contract licenses the software to the customer, use software.prewritten (taxable)."
     },
     "effective_date": "2024-01-01",
     "source_url": "https://admincode.legislature.state.al.us/api/rule/810-6-1-.37",
-    "retrieved_at": "2026-09-28"
+    "retrieved_at": "2026-11-08"
   },
   {
     "state": "AR",
@@ -1276,14 +1276,14 @@
     "state": "AZ",
     "category": "digital.streaming",
     "category_description": "Streaming of video, music or games with no permanent copy, usually by subscription: video and music streaming services, cloud gaming, on-demand video.",
-    "taxable": false,
-    "treatment": "needs_research",
+    "taxable": true,
+    "treatment": "taxable",
     "conditions": {
-      "note": "AZ streaming taxability under the rental classification is contested and has shifted with litigation; cell pending authoritative confirmation."
+      "note": "ADOR taxes access to digital content for a periodic fee under the personal property rental classification (A.R.S. 42-5071); LR14-001 held a subscription including instant video taxable as a rental. No statute names streaming. A city's rental classification rate can differ from the retail rate the lookup returns."
     },
     "effective_date": "2026-05-21",
-    "source_url": "https://azdor.gov/transaction-privilege-tax",
-    "retrieved_at": "2026-05-21"
+    "source_url": "https://azdor.gov/sites/default/files/2023-03/RULINGS_TPT_2014_lr14-001.pdf",
+    "retrieved_at": "2026-11-08"
   },
   {
     "state": "AZ",
@@ -2325,14 +2325,14 @@
     "state": "CO",
     "category": "digital.streaming",
     "category_description": "Streaming of video, music or games with no permanent copy, usually by subscription: video and music streaming services, cloud gaming, on-demand video.",
-    "taxable": false,
-    "treatment": "needs_research",
+    "taxable": true,
+    "treatment": "taxable",
     "conditions": {
-      "note": "CO's state and home-rule treatment of streaming subscriptions (no permanent copy) is unsettled."
+      "note": "Digital goods are tangible personal property, and their delivery methods include internet streaming (C.R.S. 39-26-102(15)(b.5)); the Court of Appeals held Netflix subscriptions taxable (Netflix v. Department of Revenue, 2025COA64). State and state-collected local taxes apply; self-collected home-rule cities decide for themselves."
     },
     "effective_date": "2026-05-21",
-    "source_url": "https://leg.colorado.gov/bills/hb21-1312",
-    "retrieved_at": "2026-05-21"
+    "source_url": "https://tax.colorado.gov/sites/default/files/documents/GIL-26-004.pdf",
+    "retrieved_at": "2026-11-08"
   },
   {
     "state": "CO",
@@ -6760,13 +6760,14 @@
     "category": "food.grocery",
     "category_description": "Unprepared groceries; staples; produce; meat; dairy.",
     "taxable": true,
-    "treatment": "reduced_rate",
+    "treatment": "conditional",
     "conditions": {
-      "note": "The State 1% grocery tax ended 2026-01-01. Groceries are now taxed only locally, and the rate depends on location: a 1% local grocery tax where the municipality (or, in unincorporated areas, the county) adopted one (Chicago did not), plus the NITA grocery tax (1.50% Cook, 1.00% collar counties from 2026-08-01) and the Metro East Transit District tax. TaxLocus returns a flat 1% as an approximation; check the IDOR Tax Rate Finder (mytax.illinois.gov) for the exact rate at a location. Candy and soft drinks are not groceries and are taxed at the general rate.",
-      "per_location": true,
-      "reduced_rate": 0.01
+      "note": "The State 1% grocery tax ended 2026-01-01. Groceries are taxed only locally: a local grocery tax where the municipality (or, in unincorporated areas, the county) adopted one, the NITA/RTA grocery tax and the Metro East district tax. From 2026-08-01 TaxLocus applies the grocery rate IDOR publishes for the location (grocery machine-readable file), for example 1.5% in Chicago and 0% in Springfield. Candy and soft drinks are not groceries and are taxed at the general rate.",
+      "state_exempt": true,
+      "local_taxable": true,
+      "local_food_rate": true
     },
-    "effective_date": "2026-01-01",
+    "effective_date": "2026-08-01",
     "source_url": "https://tax.illinois.gov/research/publications/bulletins/fy-2026-11.html",
     "retrieved_at": "2026-09-28"
   },
@@ -19169,13 +19170,13 @@
     "category": "digital.download",
     "category_description": "Digital media the buyer downloads and keeps: e-books, music and audiobooks, movies, digital art and video games. Downloaded application software (apps, desktop programs, installers) is software.prewritten.",
     "taxable": false,
-    "treatment": "needs_research",
+    "treatment": "exempt",
     "conditions": {
-      "note": "SC's treatment of electronically delivered software / digital goods (not on tangible media) vs taxable communications needs authoritative confirmation."
+      "note": "South Carolina taxes intangibles only where Chapter 36 does, as with communications. Content the buyer downloads and keeps is not a communication service: the true object is the item, not access to a communication system (RR 12-1 for software, PLR 24-2 for e-books). No ruling names music or movies. Streaming is taxable (digital.streaming)."
     },
     "effective_date": "2026-05-21",
-    "source_url": "https://dor.sc.gov/resources-site/lawandpolicy/Advisory%20Opinions/RR12-1.pdf",
-    "retrieved_at": "2026-05-21"
+    "source_url": "https://dor.sc.gov/sales-use-tax-sale-and-rental-digital-textbooks",
+    "retrieved_at": "2026-11-08"
   },
   {
     "state": "SC",
@@ -19200,8 +19201,8 @@
       "note": "SC taxes streaming media as a communications service."
     },
     "effective_date": "2026-05-21",
-    "source_url": "https://dor.sc.gov/resources-site/lawandpolicy/Advisory%20Opinions/RR12-1.pdf",
-    "retrieved_at": "2026-05-21"
+    "source_url": "https://dor.sc.gov/sites/dor/files/policies/RR16-5.pdf",
+    "retrieved_at": "2026-11-08"
   },
   {
     "state": "SC",

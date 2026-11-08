@@ -7,7 +7,7 @@
   "last_changed": "2026-11-08",
   "row_counts": {
     "state_rates": 46,
-    "jurisdiction_rates": 16360,
+    "jurisdiction_rates": 15280,
     "nexus_thresholds": 47,
     "taxability": 1979,
     "marketplace_facilitator_rules": 47,
@@ -35,8 +35,8 @@
       ]
     },
     "jurisdiction_rates": {
-      "rows": 16360,
-      "last_changed": "2026-11-07",
+      "rows": 15280,
+      "last_changed": "2026-11-08",
       "key": [
         "source_key",
         "rate_type"
@@ -73,7 +73,7 @@
     },
     "taxability": {
       "rows": 1979,
-      "last_changed": "2026-11-07",
+      "last_changed": "2026-11-08",
       "key": [
         "state",
         "category"
@@ -253,14 +253,14 @@
       "rows": 46
     },
     "jurisdiction_rates.csv": {
-      "sha256": "e424fdcc3c44b81ddb6a41e3bcfc290e9bd7db5c5d7f676e0d1ec7dab001bd82",
-      "bytes": 2538457,
-      "rows": 16360
+      "sha256": "4c5875e0d11614e6f092a804b53234a46a8cd8a2fecf8125fb0b02996ad61572",
+      "bytes": 2350416,
+      "rows": 15280
     },
     "jurisdiction_rates.json": {
-      "sha256": "6017e339df40db2f0a870842740ae0a336f752552ac2313b998c3f28a8ccb91c",
-      "bytes": 5973987,
-      "rows": 16360
+      "sha256": "d5b4578b9a934951f35f9410c5cfcfeaf4e6505681d72949ae075040334ee73c",
+      "bytes": 5560226,
+      "rows": 15280
     },
     "nexus_thresholds.csv": {
       "sha256": "11b0afbd82d93849fa43b8b1197768f4986f722412c0a9047e5599574e804a87",
@@ -273,13 +273,13 @@
       "rows": 47
     },
     "taxability.csv": {
-      "sha256": "bcd93999161ba92d4e77c99373d18d7f9e8acbcea5ba7b030517a2fd3e495d34",
-      "bytes": 631681,
+      "sha256": "ccae0e6a9329a0decc71bfa575abe9fbf643daa05ac050da8658921fcc8036a3",
+      "bytes": 632637,
       "rows": 1979
     },
     "taxability.json": {
-      "sha256": "10e3a7a86a7db99c39df0f638966ac4b8e88d6c7601b329dcef3563fa219f8c2",
-      "bytes": 1033158,
+      "sha256": "72192cb38d752a16a87e529eb96c2245d002ee093c55969083bf243dac48d043",
+      "bytes": 1034118,
       "rows": 1979
     },
     "marketplace_facilitator_rules.csv": {
@@ -293,12 +293,12 @@
       "rows": 47
     },
     "rate_change_frequency.csv": {
-      "sha256": "3ed2b59c8ec2357e83aff0e3120e55b61d3529a78f00dff3720bc9ca38f711f1",
+      "sha256": "e0ff183a91ae4b288b0a9e58507d741df00d8a21fb739145941d76cd0682c6e9",
       "bytes": 1040,
       "rows": 23
     },
     "rate_change_frequency.json": {
-      "sha256": "a7cc7ca0bffd3ee5116a9447f4f2a0826f1e5c5f29c653cb73e750ef542ca9d1",
+      "sha256": "c5ae1933c8c5405a6b2cb10113ea62a422ebb6929c6b9a8c96eb014454efe277",
       "bytes": 5247,
       "rows": 23
     },
