@@ -1,4 +1,23 @@
 year,state,wage_base,new_employer_rate,min_rate,max_rate,citation_url,notes,as_of
+2027,AZ,8000.0,,,,https://www.azleg.gov/ars/23/00622.htm,"A.R.S. 23-622(B)(1)(b): ""$8,000 paid in the 2023 calendar year or in a calendar year thereafter"".",2026-11-09
+2027,CA,7000.0,,,,https://edd.ca.gov/en/payroll_taxes/rates_and_withholding/,"EDD, 2027 UI rate: ""The taxable wage limit is $7,000 per employee, per calendar year.""",2026-11-09
+2027,DC,9000.0,,,,https://code.dccouncil.gov/us/dc/council/code/sections/51-103,"D.C. Code 51-103(e)(6): wages exclude ""any amount in excess of $9,000"" in 1997 ""or in any succeeding calendar year"".",2026-11-09
+2027,DE,16500.0,,,,https://delcode.delaware.gov/title19/c033/sc01/index.html,"19 Del. C. 3302: after ""December 31, 2026, that part of the remuneration which, after remuneration equal to $16,500"" is paid is excluded.",2026-11-09
+2027,FL,7000.0,,,,https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0400-0499/0443/Sections/0443.1217.html,"Fla. Stat. 443.1217(2)(a)2.: ""Beginning January 1, 2015 ... in excess of the first $7,000 of remuneration paid to the individual by an employer"".",2026-11-09
+2027,IA,21100.0,,,,https://workforce.iowa.gov/announcement/2026-06-30/iowans-unemployment-benefits-increase-starting-july-5,"Iowa Workforce Development (2026-06-30): ""The taxable wage base for Calendar Year 2027 will be $21,100"".",2026-11-09
+2027,KY,12000.0,,,,https://apps.legislature.ky.gov/law/statutes/statute.aspx?id=52055,"KRS 341.030: the base rises $300 a year ""not to exceed twelve thousand dollars ($12,000)"", which it reached in 2026.",2026-11-09
+2027,MA,15000.0,,,,https://malegislature.gov/Laws/GeneralLaws/PartI/TitleXXI/Chapter151a/Section14,"M.G.L. c. 151A s. 14(a)(4): for calendar years beginning on or after January 1, 2015 the base ""shall mean ''$15,000''"".",2026-11-09
+2027,ME,12000.0,,,,https://legislature.maine.gov/statutes/26/title26sec1043.html,"26 M.R.S. 1043(19)(A): wages exclude ""remuneration that exceeds the first $12,000 that is paid in a calendar year"".",2026-11-09
+2027,MO,8500.0,,,,https://labor.mo.gov/des/employers/tax-rates,"Missouri DES taxable wage limitations table: 2027, $8,500 (down from $9,000 in 2026).",2026-11-09
+2027,NV,45400.0,,,,https://nevadaworkforce.com/_docs/EDS_Wage-Benefit/MWB-Statewide-2026.pdf,"Nevada DETR (2026-06-01): ""the UI taxable wage base, effective January 1, 2027, has been determined to be $45,400.""",2026-11-09
+2027,OH,9000.0,,,,https://codes.ohio.gov/ohio-revised-code/section-4141.01,"R.C. 4141.01(G): ""nine thousand dollars on and after January 1, 2020.""",2026-11-09
+2027,OK,24400.0,,,,https://oklahoma.gov/content/dam/ok/en/oesc/images/misc/Employer-Improtant-Numbers-2027.pdf,"OESC, Important Numbers for 2027: ""Taxable Wage Base $24,400.00"" (down from $25,000 in 2026).",2026-11-09
+2027,PA,10000.0,,,,https://www.pa.gov/agencies/dli/resources/for-employers-and-educators/how-to-file/uc-tax/yearly-tax-highlights,"PA L&I yearly tax highlights, 2027: ""The taxable wage base is $10,000 per employee per calendar year.""",2026-11-09
+2027,VA,8000.0,,,,https://law.lis.virginia.gov/vacode/title60.2/chapter2/section60.2-229/,"Va. Code 60.2-229: remuneration ""greater than $8,000 and is payable during any calendar year"" is excluded.",2026-11-09
+2027,WA,82000.0,,,,https://esd.wa.gov/node/1254,"Washington ESD (2026-06-10): ""Beginning in 2027, employers will pay unemployment payroll taxes on the first $82,000 paid to each employee"".",2026-11-09
+2027,WI,14000.0,,,,https://dwd.wisconsin.gov/ui/employers/taxrates/,"Wisconsin DWD 2027 tax rate schedule: ""The first $14,000 in wages paid to each employee in a calendar year is taxed.""",2026-11-09
+2027,WV,9500.0,,,,https://code.wvlegislature.gov/21A-1A-28/,"W. Va. Code 21A-1A-28(b)(1): wages exclude remuneration paid ""after remuneration equal to $9,500 is paid during a calendar year"".",2026-11-09
+2027,WY,34900.0,,,,https://dws.wyo.gov/dws-division/unemployment-insurance/wyui/unemployment-taxable-wage-base/,"Wyoming DWS taxable wage base table: 2027, $34,900.",2026-11-09
 2026,AK,54200.0,,,,https://labor.alaska.gov/estax/2026-experience-rates.html,"Alaska DOLWD: the 2026 taxable wage base is $54,200.",2026-09-27
 2026,AL,8000.0,,,,https://labor.alabama.gov/,,2026-06-15
 2026,AR,7000.0,,,,https://www.dws.arkansas.gov/,,2026-06-15
@@ -21,7 +40,7 @@ year,state,wage_base,new_employer_rate,min_rate,max_rate,citation_url,notes,as_o
 2026,MA,15000.0,,,,https://www.mass.gov/orgs/department-of-unemployment-assistance,,2026-06-15
 2026,MD,8500.0,,,,https://www.dllr.state.md.us/employment/unemployment.shtml,,2026-06-15
 2026,ME,12000.0,,,,https://www.maine.gov/labor/cwri/,,2026-06-15
-2026,MI,9000.0,,,,https://www.michigan.gov/leo/,"Standard 2026 base $9,000 (UI trust fund ≥ $2.5B); delinquent employers use $9,500.",2026-06-15
+2026,MI,9000.0,,,,https://www.michigan.gov/leo/bureaus-agencies/uia/employers/frequently-asked-questions-for-employers/for-employers/taxable-wage-base,"Michigan LEO: ""The taxable wage base is $9,000 for qualified employers."" Delinquent employers use $9,500.",2026-11-08
 2026,MN,44000.0,,,,https://uimn.org/employers/,,2026-06-15
 2026,MO,9000.0,,,,https://labor.mo.gov/des/employers/tax-rates,"Missouri taxable wage base $9,000 for 2026 (down from $9,500 in 2025).",2026-09-21
 2026,MS,14000.0,,,,https://mdes.ms.gov/employers/,,2026-06-15
@@ -48,7 +67,7 @@ year,state,wage_base,new_employer_rate,min_rate,max_rate,citation_url,notes,as_o
 2026,VT,15400.0,,,,https://labor.vermont.gov/,,2026-06-15
 2026,WA,78200.0,,,,https://esd.wa.gov/employer-taxes,,2026-06-15
 2026,WI,14000.0,,,,https://dwd.wisconsin.gov/ui/,,2026-06-15
-2026,WV,9500.0,,,,https://workforcewv.org/businesses/unemployment-tax-information/,"West Virginia 2026 SUTA wage base $9,500 (down from 2025's $9,521). Confirmed via WorkForce West Virginia 2026 rate schedule and corroborated by Paychex, Avionte, and Patriot Software payroll references.",2026-06-15
+2026,WV,9500.0,,,,https://code.wvlegislature.gov/21A-1A-28/,"W. Va. Code 21A-1A-28(b)(1), as amended in the 2024 Regular Session: wages exclude remuneration paid ""after remuneration equal to $9,500 is paid during a calendar year"". The base is a fixed $9,500 for 2026.",2026-11-08
 2026,WY,33800.0,,,,https://wyomingworkforce.org/businesses/ui/,,2026-06-15
 2025,AK,51700.0,,,,https://labor.alaska.gov/estax/2025-experience-rates.html,"Alaska DOLWD: the 2025 taxable wage base is $51,700.",2026-09-27
 2025,AL,8000.0,,,,https://labor.alabama.gov/,,2026-06-15
@@ -72,7 +91,7 @@ year,state,wage_base,new_employer_rate,min_rate,max_rate,citation_url,notes,as_o
 2025,MA,15000.0,,,,https://www.mass.gov/orgs/department-of-unemployment-assistance,,2026-06-15
 2025,MD,8500.0,,,,https://www.dllr.state.md.us/employment/unemployment.shtml,,2026-06-15
 2025,ME,12000.0,,,,https://www.maine.gov/labor/cwri/,,2026-06-15
-2025,MI,9500.0,,,,https://www.michigan.gov/leo/,,2026-06-15
+2025,MI,9000.0,,,,https://www.michigan.gov/leo/news/2024/12/11/employers-will-see-unemployment-tax-savings-in-2025,"Michigan LEO (2024-12-11, effective January 1, 2025): ""qualified employers will be taxed on the first $9,000 in wages per employee. That is a $500 reduction in the current taxable wage base of $9,500"". Delinquent employers stay on $9,500.",2026-11-08
 2025,MN,43000.0,,,,https://uimn.org/employers/,,2026-06-15
 2025,MO,9500.0,,,,https://labor.mo.gov/des/employers/tax-rates,"Missouri taxable wage base: $10,000 (2024), $9,500 (2025), $9,000 (2026).",2026-09-21
 2025,MS,14000.0,,,,https://mdes.ms.gov/employers/,,2026-06-15
@@ -99,5 +118,5 @@ year,state,wage_base,new_employer_rate,min_rate,max_rate,citation_url,notes,as_o
 2025,VT,14800.0,,,,https://labor.vermont.gov/,,2026-06-15
 2025,WA,72800.0,,,,https://esd.wa.gov/employer-taxes,,2026-06-15
 2025,WI,14000.0,,,,https://dwd.wisconsin.gov/ui/,,2026-06-15
-2025,WV,9521.0,,,,https://workforcewv.org/employers/,,2026-06-15
+2025,WV,9500.0,,,,https://code.wvlegislature.gov/21A-1A-28/,"W. Va. Code 21A-1A-28(b)(1): wages exclude remuneration paid ""after remuneration equal to $9,500 is paid during a calendar year""; ""The amendments made to this section during the 2024 Regular Session shall become effective July 1, 2024."" $9,521 was the 2024 base.",2026-11-08
 2025,WY,32400.0,,,,https://wyomingworkforce.org/businesses/ui/,,2026-06-15

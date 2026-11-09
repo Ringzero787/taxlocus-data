@@ -67,7 +67,7 @@
     "measurement_period": "prior_4_quarters",
     "effective_date": "2024-01-01",
     "source_url": "https://www.cga.ct.gov/current/pub/chap_219.htm",
-    "retrieved_at": "2026-09-30"
+    "retrieved_at": "2026-11-09"
   },
   {
     "state": "DC",
@@ -96,8 +96,8 @@
     "logic": "sales_or_count",
     "measurement_period": "current_or_prior_cy",
     "effective_date": "2024-01-01",
-    "source_url": "https://dor.georgia.gov/media/35301/download",
-    "retrieved_at": "2026-09-30"
+    "source_url": "https://dor.georgia.gov/document/document-sut-pb/sut-2019-02/download",
+    "retrieved_at": "2026-11-09"
   },
   {
     "state": "HI",
@@ -106,8 +106,8 @@
     "logic": "sales_or_count",
     "measurement_period": "current_or_prior_cy",
     "effective_date": "2024-01-01",
-    "source_url": "https://files.hawaii.gov/tax/news/announce/ann18-10_amended.pdf",
-    "retrieved_at": "2026-09-30"
+    "source_url": "https://data.capitol.hawaii.gov/hrscurrent/Vol04_Ch0201-0257/HRS0237/HRS_0237-0002_0005.htm",
+    "retrieved_at": "2026-11-09"
   },
   {
     "state": "IA",
@@ -137,7 +137,7 @@
     "measurement_period": "prior_4_quarters",
     "effective_date": "2026-01-01",
     "source_url": "https://www.ilga.gov/Documents/legislation/ilcs/documents/003501050K2.htm",
-    "retrieved_at": "2026-09-30"
+    "retrieved_at": "2026-11-09"
   },
   {
     "state": "IN",
@@ -277,7 +277,7 @@
     "measurement_period": "current_or_prior_cy",
     "effective_date": "2024-01-01",
     "source_url": "https://nebraskalegislature.gov/laws/statutes.php?statute=77-2701.13",
-    "retrieved_at": "2026-09-30"
+    "retrieved_at": "2026-11-09"
   },
   {
     "state": "NJ",
@@ -327,7 +327,7 @@
     "measurement_period": "current_or_prior_cy",
     "effective_date": "2024-01-01",
     "source_url": "https://codes.ohio.gov/ohio-revised-code/section-5741.01",
-    "retrieved_at": "2026-09-30"
+    "retrieved_at": "2026-11-09"
   },
   {
     "state": "OK",

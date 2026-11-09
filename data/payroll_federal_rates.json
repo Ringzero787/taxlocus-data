@@ -1,5 +1,18 @@
 [
   {
+    "year": 2027,
+    "ss_rate": 0.062,
+    "ss_wage_base": 192300.0,
+    "medicare_rate": 0.0145,
+    "addl_medicare_rate": 0.009,
+    "addl_medicare_threshold": 200000.0,
+    "futa_rate_gross": 0.06,
+    "futa_credit_max": 0.054,
+    "futa_wage_base": 7000.0,
+    "citation_url": "https://www.federalregister.gov/d/2026-21796",
+    "as_of": "2026-11-09"
+  },
+  {
     "year": 2026,
     "ss_rate": 0.062,
     "ss_wage_base": 184500.0,

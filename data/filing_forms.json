@@ -262,8 +262,9 @@
       },
       {
         "label": "Total state, county, local, and district tax",
-        "notes": "Sum of lines 13, 14, 15, 16. State + county + local = 7.25% (0.0600 + 0.0025 + 0.01). District tax (line 16) added separately.",
+        "notes": "On the return this is the sum of lines 13 to 16. TaxLocus computes the 7.25% statewide rate only (0.0600 + 0.0025 + 0.01). District tax (line 16, from Schedule CDTFA-531-A2) is not included, so add it before you pay.",
         "metric": "computed",
+        "portion": "statewide",
         "operands": [
           "taxable_sales",
           "0.0725"
@@ -420,18 +421,18 @@
         "computation": "subtract"
       },
       {
-        "label": "Sales tax (6.0%)",
-        "notes": "The District of Columbia general rate is 6.0% with no local sub-jurisdiction, so this is the tax due for most filers. Special DC rates apply separately and are not modeled here: 10% restaurant meals and off-premises alcohol, 10.25% on-premises alcohol and rental vehicles, 18% commercial parking.",
+        "label": "Sales tax ({state_rate})",
+        "notes": "The District of Columbia general rate is 6.0% through 2027-09-30 and 7.0% from 2027-10-01 (DC Office of Tax and Revenue). This line taxes each sale at the rate on file for its date, so a period that spans 2027-10-01 is split there. The District has no local sub-jurisdiction, so this is the tax due for most filers. Special DC rates apply separately and are not modeled here: 10% restaurant meals and off-premises alcohol, 10.25% on-premises alcohol and rental vehicles, 18% commercial parking.",
         "metric": "computed",
         "operands": [
           "taxable_sales",
-          "0.06"
+          "state_rate"
         ],
         "line_code": "tax-6.0",
         "computation": "percent_of"
       }
     ],
-    "notes": "DC Form FR-800 reports the 6.0% general rate. The District has no local sub-jurisdiction, so the general line is the tax due for most filers. Special rates (10% meals/off-premises alcohol, 10.25% on-premises alcohol and rental cars, 18% parking) are reported on separate lines and not split by v1. DC exempts groceries and prescription drugs; DC taxes SaaS and digital goods."
+    "notes": "DC Form FR-800 reports the general rate: 6.0% through 2027-09-30 and 7.0% from 2027-10-01. The District has no local sub-jurisdiction, so the general line is the tax due for most filers. Special rates (10% meals/off-premises alcohol, 10.25% on-premises alcohol and rental cars, 18% parking) are reported on separate lines and not split by v1. DC exempts groceries and prescription drugs; DC taxes SaaS and digital goods."
   },
   {
     "state_code": "FL",
@@ -2119,12 +2120,12 @@
         "computation": "subtract"
       },
       {
-        "label": "State sales tax (4.2%)",
-        "notes": "South Dakota state rate is 4.2% through 2027-06-30 and returns to 4.5% on 2027-07-01 (SDCL 10-45-2). This line computes 4.2%, so use 4.5% for sales from 2027-07-01. Municipal taxes (up to 2%) are reported per jurisdiction; TaxLocus v1 does not split taxable sales by South Dakota municipality.",
+        "label": "State sales tax ({state_rate})",
+        "notes": "South Dakota state rate is 4.2% through 2027-06-30 and 4.5% from 2027-07-01 (SDCL 10-45-2). This line taxes each sale at the state rate on file for its date, so a period that spans 2027-07-01 is split there. Municipal taxes (up to 2%) are reported per jurisdiction and are not on this line; TaxLocus does not compute them.",
         "metric": "computed",
         "operands": [
           "taxable_sales",
-          "0.042"
+          "state_rate"
         ],
         "line_code": "state-4.2",
         "computation": "percent_of"

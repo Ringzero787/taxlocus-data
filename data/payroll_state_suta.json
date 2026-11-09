@@ -1,5 +1,214 @@
 [
   {
+    "year": 2027,
+    "state": "AZ",
+    "wage_base": 8000.0,
+    "new_employer_rate": null,
+    "min_rate": null,
+    "max_rate": null,
+    "citation_url": "https://www.azleg.gov/ars/23/00622.htm",
+    "notes": "A.R.S. 23-622(B)(1)(b): \"$8,000 paid in the 2023 calendar year or in a calendar year thereafter\".",
+    "as_of": "2026-11-09"
+  },
+  {
+    "year": 2027,
+    "state": "CA",
+    "wage_base": 7000.0,
+    "new_employer_rate": null,
+    "min_rate": null,
+    "max_rate": null,
+    "citation_url": "https://edd.ca.gov/en/payroll_taxes/rates_and_withholding/",
+    "notes": "EDD, 2027 UI rate: \"The taxable wage limit is $7,000 per employee, per calendar year.\"",
+    "as_of": "2026-11-09"
+  },
+  {
+    "year": 2027,
+    "state": "DC",
+    "wage_base": 9000.0,
+    "new_employer_rate": null,
+    "min_rate": null,
+    "max_rate": null,
+    "citation_url": "https://code.dccouncil.gov/us/dc/council/code/sections/51-103",
+    "notes": "D.C. Code 51-103(e)(6): wages exclude \"any amount in excess of $9,000\" in 1997 \"or in any succeeding calendar year\".",
+    "as_of": "2026-11-09"
+  },
+  {
+    "year": 2027,
+    "state": "DE",
+    "wage_base": 16500.0,
+    "new_employer_rate": null,
+    "min_rate": null,
+    "max_rate": null,
+    "citation_url": "https://delcode.delaware.gov/title19/c033/sc01/index.html",
+    "notes": "19 Del. C. 3302: after \"December 31, 2026, that part of the remuneration which, after remuneration equal to $16,500\" is paid is excluded.",
+    "as_of": "2026-11-09"
+  },
+  {
+    "year": 2027,
+    "state": "FL",
+    "wage_base": 7000.0,
+    "new_employer_rate": null,
+    "min_rate": null,
+    "max_rate": null,
+    "citation_url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0400-0499/0443/Sections/0443.1217.html",
+    "notes": "Fla. Stat. 443.1217(2)(a)2.: \"Beginning January 1, 2015 ... in excess of the first $7,000 of remuneration paid to the individual by an employer\".",
+    "as_of": "2026-11-09"
+  },
+  {
+    "year": 2027,
+    "state": "IA",
+    "wage_base": 21100.0,
+    "new_employer_rate": null,
+    "min_rate": null,
+    "max_rate": null,
+    "citation_url": "https://workforce.iowa.gov/announcement/2026-06-30/iowans-unemployment-benefits-increase-starting-july-5",
+    "notes": "Iowa Workforce Development (2026-06-30): \"The taxable wage base for Calendar Year 2027 will be $21,100\".",
+    "as_of": "2026-11-09"
+  },
+  {
+    "year": 2027,
+    "state": "KY",
+    "wage_base": 12000.0,
+    "new_employer_rate": null,
+    "min_rate": null,
+    "max_rate": null,
+    "citation_url": "https://apps.legislature.ky.gov/law/statutes/statute.aspx?id=52055",
+    "notes": "KRS 341.030: the base rises $300 a year \"not to exceed twelve thousand dollars ($12,000)\", which it reached in 2026.",
+    "as_of": "2026-11-09"
+  },
+  {
+    "year": 2027,
+    "state": "MA",
+    "wage_base": 15000.0,
+    "new_employer_rate": null,
+    "min_rate": null,
+    "max_rate": null,
+    "citation_url": "https://malegislature.gov/Laws/GeneralLaws/PartI/TitleXXI/Chapter151a/Section14",
+    "notes": "M.G.L. c. 151A s. 14(a)(4): for calendar years beginning on or after January 1, 2015 the base \"shall mean ''$15,000''\".",
+    "as_of": "2026-11-09"
+  },
+  {
+    "year": 2027,
+    "state": "ME",
+    "wage_base": 12000.0,
+    "new_employer_rate": null,
+    "min_rate": null,
+    "max_rate": null,
+    "citation_url": "https://legislature.maine.gov/statutes/26/title26sec1043.html",
+    "notes": "26 M.R.S. 1043(19)(A): wages exclude \"remuneration that exceeds the first $12,000 that is paid in a calendar year\".",
+    "as_of": "2026-11-09"
+  },
+  {
+    "year": 2027,
+    "state": "MO",
+    "wage_base": 8500.0,
+    "new_employer_rate": null,
+    "min_rate": null,
+    "max_rate": null,
+    "citation_url": "https://labor.mo.gov/des/employers/tax-rates",
+    "notes": "Missouri DES taxable wage limitations table: 2027, $8,500 (down from $9,000 in 2026).",
+    "as_of": "2026-11-09"
+  },
+  {
+    "year": 2027,
+    "state": "NV",
+    "wage_base": 45400.0,
+    "new_employer_rate": null,
+    "min_rate": null,
+    "max_rate": null,
+    "citation_url": "https://nevadaworkforce.com/_docs/EDS_Wage-Benefit/MWB-Statewide-2026.pdf",
+    "notes": "Nevada DETR (2026-06-01): \"the UI taxable wage base, effective January 1, 2027, has been determined to be $45,400.\"",
+    "as_of": "2026-11-09"
+  },
+  {
+    "year": 2027,
+    "state": "OH",
+    "wage_base": 9000.0,
+    "new_employer_rate": null,
+    "min_rate": null,
+    "max_rate": null,
+    "citation_url": "https://codes.ohio.gov/ohio-revised-code/section-4141.01",
+    "notes": "R.C. 4141.01(G): \"nine thousand dollars on and after January 1, 2020.\"",
+    "as_of": "2026-11-09"
+  },
+  {
+    "year": 2027,
+    "state": "OK",
+    "wage_base": 24400.0,
+    "new_employer_rate": null,
+    "min_rate": null,
+    "max_rate": null,
+    "citation_url": "https://oklahoma.gov/content/dam/ok/en/oesc/images/misc/Employer-Improtant-Numbers-2027.pdf",
+    "notes": "OESC, Important Numbers for 2027: \"Taxable Wage Base $24,400.00\" (down from $25,000 in 2026).",
+    "as_of": "2026-11-09"
+  },
+  {
+    "year": 2027,
+    "state": "PA",
+    "wage_base": 10000.0,
+    "new_employer_rate": null,
+    "min_rate": null,
+    "max_rate": null,
+    "citation_url": "https://www.pa.gov/agencies/dli/resources/for-employers-and-educators/how-to-file/uc-tax/yearly-tax-highlights",
+    "notes": "PA L&I yearly tax highlights, 2027: \"The taxable wage base is $10,000 per employee per calendar year.\"",
+    "as_of": "2026-11-09"
+  },
+  {
+    "year": 2027,
+    "state": "VA",
+    "wage_base": 8000.0,
+    "new_employer_rate": null,
+    "min_rate": null,
+    "max_rate": null,
+    "citation_url": "https://law.lis.virginia.gov/vacode/title60.2/chapter2/section60.2-229/",
+    "notes": "Va. Code 60.2-229: remuneration \"greater than $8,000 and is payable during any calendar year\" is excluded.",
+    "as_of": "2026-11-09"
+  },
+  {
+    "year": 2027,
+    "state": "WA",
+    "wage_base": 82000.0,
+    "new_employer_rate": null,
+    "min_rate": null,
+    "max_rate": null,
+    "citation_url": "https://esd.wa.gov/node/1254",
+    "notes": "Washington ESD (2026-06-10): \"Beginning in 2027, employers will pay unemployment payroll taxes on the first $82,000 paid to each employee\".",
+    "as_of": "2026-11-09"
+  },
+  {
+    "year": 2027,
+    "state": "WI",
+    "wage_base": 14000.0,
+    "new_employer_rate": null,
+    "min_rate": null,
+    "max_rate": null,
+    "citation_url": "https://dwd.wisconsin.gov/ui/employers/taxrates/",
+    "notes": "Wisconsin DWD 2027 tax rate schedule: \"The first $14,000 in wages paid to each employee in a calendar year is taxed.\"",
+    "as_of": "2026-11-09"
+  },
+  {
+    "year": 2027,
+    "state": "WV",
+    "wage_base": 9500.0,
+    "new_employer_rate": null,
+    "min_rate": null,
+    "max_rate": null,
+    "citation_url": "https://code.wvlegislature.gov/21A-1A-28/",
+    "notes": "W. Va. Code 21A-1A-28(b)(1): wages exclude remuneration paid \"after remuneration equal to $9,500 is paid during a calendar year\".",
+    "as_of": "2026-11-09"
+  },
+  {
+    "year": 2027,
+    "state": "WY",
+    "wage_base": 34900.0,
+    "new_employer_rate": null,
+    "min_rate": null,
+    "max_rate": null,
+    "citation_url": "https://dws.wyo.gov/dws-division/unemployment-insurance/wyui/unemployment-taxable-wage-base/",
+    "notes": "Wyoming DWS taxable wage base table: 2027, $34,900.",
+    "as_of": "2026-11-09"
+  },
+  {
     "year": 2026,
     "state": "AK",
     "wage_base": 54200.0,
@@ -248,9 +457,9 @@
     "new_employer_rate": null,
     "min_rate": null,
     "max_rate": null,
-    "citation_url": "https://www.michigan.gov/leo/",
-    "notes": "Standard 2026 base $9,000 (UI trust fund ≥ $2.5B); delinquent employers use $9,500.",
-    "as_of": "2026-06-15"
+    "citation_url": "https://www.michigan.gov/leo/bureaus-agencies/uia/employers/frequently-asked-questions-for-employers/for-employers/taxable-wage-base",
+    "notes": "Michigan LEO: \"The taxable wage base is $9,000 for qualified employers.\" Delinquent employers use $9,500.",
+    "as_of": "2026-11-08"
   },
   {
     "year": 2026,
@@ -545,9 +754,9 @@
     "new_employer_rate": null,
     "min_rate": null,
     "max_rate": null,
-    "citation_url": "https://workforcewv.org/businesses/unemployment-tax-information/",
-    "notes": "West Virginia 2026 SUTA wage base $9,500 (down from 2025's $9,521). Confirmed via WorkForce West Virginia 2026 rate schedule and corroborated by Paychex, Avionte, and Patriot Software payroll references.",
-    "as_of": "2026-06-15"
+    "citation_url": "https://code.wvlegislature.gov/21A-1A-28/",
+    "notes": "W. Va. Code 21A-1A-28(b)(1), as amended in the 2024 Regular Session: wages exclude remuneration paid \"after remuneration equal to $9,500 is paid during a calendar year\". The base is a fixed $9,500 for 2026.",
+    "as_of": "2026-11-08"
   },
   {
     "year": 2026,
@@ -805,13 +1014,13 @@
   {
     "year": 2025,
     "state": "MI",
-    "wage_base": 9500.0,
+    "wage_base": 9000.0,
     "new_employer_rate": null,
     "min_rate": null,
     "max_rate": null,
-    "citation_url": "https://www.michigan.gov/leo/",
-    "notes": null,
-    "as_of": "2026-06-15"
+    "citation_url": "https://www.michigan.gov/leo/news/2024/12/11/employers-will-see-unemployment-tax-savings-in-2025",
+    "notes": "Michigan LEO (2024-12-11, effective January 1, 2025): \"qualified employers will be taxed on the first $9,000 in wages per employee. That is a $500 reduction in the current taxable wage base of $9,500\". Delinquent employers stay on $9,500.",
+    "as_of": "2026-11-08"
   },
   {
     "year": 2025,
@@ -1102,13 +1311,13 @@
   {
     "year": 2025,
     "state": "WV",
-    "wage_base": 9521.0,
+    "wage_base": 9500.0,
     "new_employer_rate": null,
     "min_rate": null,
     "max_rate": null,
-    "citation_url": "https://workforcewv.org/employers/",
-    "notes": null,
-    "as_of": "2026-06-15"
+    "citation_url": "https://code.wvlegislature.gov/21A-1A-28/",
+    "notes": "W. Va. Code 21A-1A-28(b)(1): wages exclude remuneration paid \"after remuneration equal to $9,500 is paid during a calendar year\"; \"The amendments made to this section during the 2024 Regular Session shall become effective July 1, 2024.\" $9,521 was the 2024 base.",
+    "as_of": "2026-11-08"
   },
   {
     "year": 2025,

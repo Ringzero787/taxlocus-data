@@ -1,5 +1,125 @@
 [
   {
+    "year": 2027,
+    "state": "IN",
+    "tax_type": "flat",
+    "flat_rate": 0.029,
+    "top_marginal": null,
+    "bracket_summary": null,
+    "supplemental_rate": null,
+    "supplemental_rate_verified": null,
+    "citation_url": "https://www.in.gov/dor/resources/tax-rates-and-reports/rates-fees-and-penalties/",
+    "notes": "Indiana Department of Revenue: \"The Indiana Individual adjusted gross income tax rate for 2026 is 2.95% and will adjust in 2027 to 2.90%.\" Counties add separately — see payroll_local_income_tax.",
+    "as_of": "2026-11-09",
+    "supplemental_source_url": null,
+    "supplemental_note": "Not verified for 2027: the state's 2027 withholding guide was not yet published when this row was curated (2026-11-09). The 2026 row quotes the 2026 guide."
+  },
+  {
+    "year": 2027,
+    "state": "KY",
+    "tax_type": "flat",
+    "flat_rate": 0.035,
+    "top_marginal": null,
+    "bracket_summary": null,
+    "supplemental_rate": null,
+    "supplemental_rate_verified": null,
+    "citation_url": "https://apps.legislature.ky.gov/law/statutes/statute.aspx?id=56339",
+    "notes": "Kentucky flat 3.5% for 2027, unchanged: KRS 141.020 directs the department to \"maintain the rate in paragraph (f) ... for the taxable year beginning January 1, 2027\" (no further reduction was enacted in 2026).",
+    "as_of": "2026-11-09",
+    "supplemental_source_url": null,
+    "supplemental_note": "Not verified for 2027: the state's 2027 withholding guide was not yet published when this row was curated (2026-11-09). The 2026 row quotes the 2026 guide."
+  },
+  {
+    "year": 2027,
+    "state": "MS",
+    "tax_type": "flat",
+    "flat_rate": 0.0375,
+    "top_marginal": null,
+    "bracket_summary": null,
+    "supplemental_rate": null,
+    "supplemental_rate_verified": null,
+    "citation_url": "https://www.dor.ms.gov/individual/tax-rates",
+    "notes": "Mississippi Department of Revenue: \"Tax Year 2027 Excess of $10,000 of Taxable Income is taxed @ 3.75%\" (0% on the first $10,000).",
+    "as_of": "2026-11-09",
+    "supplemental_source_url": null,
+    "supplemental_note": "Not verified for 2027: the state's 2027 withholding guide was not yet published when this row was curated (2026-11-09). The 2026 row quotes the 2026 guide."
+  },
+  {
+    "year": 2027,
+    "state": "MT",
+    "tax_type": "progressive",
+    "flat_rate": null,
+    "top_marginal": 0.054,
+    "bracket_summary": null,
+    "supplemental_rate": null,
+    "supplemental_rate_verified": null,
+    "citation_url": "https://revenue.mt.gov/news/recent-news/HB-337",
+    "notes": "Montana Department of Revenue, Tax Year 2027: \"5.4% on taxable income over $65,000\" for single filers (over $130,000 married filing jointly, over $97,500 head of household).",
+    "as_of": "2026-11-09",
+    "supplemental_source_url": null,
+    "supplemental_note": "Not verified for 2027: the state's 2027 withholding guide was not yet published when this row was curated (2026-11-09). The 2026 row quotes the 2026 guide."
+  },
+  {
+    "year": 2027,
+    "state": "NC",
+    "tax_type": "flat",
+    "flat_rate": 0.0349,
+    "top_marginal": null,
+    "bracket_summary": null,
+    "supplemental_rate": null,
+    "supplemental_rate_verified": null,
+    "citation_url": "https://dashboard.ncleg.gov/api/Services/BillSummary/2025/S257-SMSV-136(sl)-v-4",
+    "notes": "North Carolina flat 3.49% for 2027, 2028 and 2029. S.L. 2026-41 (SB 257) s. 44.1 replaced \"the conditional rate reductions for taxable years 2027 through 2034 with set reduced rates\" (NCGA bill summary, 2026-08-28).",
+    "as_of": "2026-11-09",
+    "supplemental_source_url": null,
+    "supplemental_note": "Not verified for 2027: the state's 2027 withholding guide was not yet published when this row was curated (2026-11-09). The 2026 row quotes the 2026 guide."
+  },
+  {
+    "year": 2027,
+    "state": "NE",
+    "tax_type": "progressive",
+    "flat_rate": null,
+    "top_marginal": 0.0399,
+    "bracket_summary": null,
+    "supplemental_rate": null,
+    "supplemental_rate_verified": null,
+    "citation_url": "https://nebraskalegislature.gov/laws/statutes.php?statute=77-2715.03",
+    "notes": "Nebraska top rate 3.99% for 2027. Neb. Rev. Stat. 77-2715.03: \"3.99% for taxable years beginning or deemed to begin on or after January 1, 2027\" (rate three also falls to 3.99%).",
+    "as_of": "2026-11-09",
+    "supplemental_source_url": null,
+    "supplemental_note": "Not verified for 2027: the state's 2027 withholding guide was not yet published when this row was curated (2026-11-09). The 2026 row quotes the 2026 guide."
+  },
+  {
+    "year": 2027,
+    "state": "OK",
+    "tax_type": "progressive",
+    "flat_rate": null,
+    "top_marginal": 0.045,
+    "bracket_summary": null,
+    "supplemental_rate": null,
+    "supplemental_rate_verified": null,
+    "citation_url": "https://www.oklegislature.gov/cf_pdf/2025-26%20ENR/hB/HB2764%20ENR.PDF",
+    "notes": "Oklahoma top marginal 4.5% for 2027, unchanged. Under HB 2764 a further cut takes effect \"on the January 1 date following the final February certification\", so 2028 at the earliest.",
+    "as_of": "2026-11-09",
+    "supplemental_source_url": null,
+    "supplemental_note": "Not verified for 2027: the state's 2027 withholding guide was not yet published when this row was curated (2026-11-09). The 2026 row quotes the 2026 guide."
+  },
+  {
+    "year": 2027,
+    "state": "RI",
+    "tax_type": "progressive",
+    "flat_rate": null,
+    "top_marginal": 0.0699,
+    "bracket_summary": null,
+    "supplemental_rate": null,
+    "supplemental_rate_verified": null,
+    "citation_url": "https://tax.ri.gov/sites/g/files/xkgbur541/files/2026-07/2026_summary_of_legislative_changes.pdf",
+    "notes": "Rhode Island top bracket 5.99% plus a new surtax: the 2026 legislation \"imposes a surtax of 1% on personal income over $1 million for the tax year beginning January 1, 2027\" (2% in 2028, 3% from 2029). top_marginal is 5.99% + 1% on income over $1 million.",
+    "as_of": "2026-11-09",
+    "supplemental_source_url": null,
+    "supplemental_note": "Not verified for 2027: the state's 2027 withholding guide was not yet published when this row was curated (2026-11-09). The 2026 row quotes the 2026 guide."
+  },
+  {
     "year": 2026,
     "state": "AK",
     "tax_type": "none",
@@ -10,7 +130,9 @@
     "supplemental_rate_verified": null,
     "citation_url": "https://tax.alaska.gov/",
     "notes": "Alaska has no state personal income tax.",
-    "as_of": "2026-06-15"
+    "as_of": "2026-06-15",
+    "supplemental_source_url": null,
+    "supplemental_note": null
   },
   {
     "year": 2026,
@@ -20,10 +142,12 @@
     "top_marginal": 0.05,
     "bracket_summary": null,
     "supplemental_rate": 0.05,
-    "supplemental_rate_verified": false,
+    "supplemental_rate_verified": true,
     "citation_url": "https://www.revenue.alabama.gov/",
     "notes": "Alabama 2/4/5% brackets (top 5%).",
-    "as_of": "2026-06-15"
+    "as_of": "2026-11-08",
+    "supplemental_source_url": "https://www.revenue.alabama.gov/wp-content/uploads/2026/01/whbooklet_0126.pdf",
+    "supplemental_note": "Alabama Withholding Tax Tables and Instructions (REVISED January 2026): \"Employers may withhold state income tax from bonuses and supplemental wage payments at the rate of 5%.\" Optional; the aggregate method is the alternative."
   },
   {
     "year": 2026,
@@ -36,7 +160,9 @@
     "supplemental_rate_verified": null,
     "citation_url": "https://www.arkansashouse.org/news/post/35262/tax-cuts-passed-in-special-session/",
     "notes": "Arkansas top marginal 3.7% for tax year 2026 (May 2026 special session, effective January 1, 2026; 3.9% in 2024–2025). Bracket thresholds and revised withholding tables not verified.",
-    "as_of": "2026-09-21"
+    "as_of": "2026-11-08",
+    "supplemental_source_url": "https://www.dfa.arkansas.gov/wp-content/uploads/withholdInstructions_2026.pdf",
+    "supplemental_note": "Not verified for 2026. The Arkansas Withholding Tax Employer's Instructions effective 01/01/2026 say \"Deduct 3.9% of the bonus or commission for state income tax\", but that edition predates the May 2026 special session that cut the 2026 top rate to 3.7%, and a revised edition was not checked. Check the Department of Finance and Administration's current instructions."
   },
   {
     "year": 2026,
@@ -45,11 +171,13 @@
     "flat_rate": 0.025,
     "top_marginal": null,
     "bracket_summary": null,
-    "supplemental_rate": 0.025,
-    "supplemental_rate_verified": false,
+    "supplemental_rate": null,
+    "supplemental_rate_verified": null,
     "citation_url": "https://azdor.gov/",
     "notes": "Arizona flat 2.5% since 2023.",
-    "as_of": "2026-06-15"
+    "as_of": "2026-11-08",
+    "supplemental_source_url": "https://azdor.gov/sites/default/files/document/FORMS_WITHHOLDING_2026_A-4i.pdf",
+    "supplemental_note": "No separate supplemental rate. Arizona Form A-4 instructions (2026): \"Arizona income tax withholding is a percentage of gross taxable wages.\" Bonuses take the percentage the employee elected on Form A-4."
   },
   {
     "year": 2026,
@@ -59,10 +187,12 @@
     "top_marginal": 0.133,
     "bracket_summary": null,
     "supplemental_rate": 0.066,
-    "supplemental_rate_verified": false,
+    "supplemental_rate_verified": true,
     "citation_url": "https://www.ftb.ca.gov/",
     "notes": "California 1% to 12.3%, plus a 1% Mental Health Services surcharge above $1M (top 13.3%). State Disability Insurance (SDI) is a separate employee contribution, not included here: 1.2% in 2025 and 1.3% in 2026, on all wages with no wage cap since 2024 (EDD).",
-    "as_of": "2026-09-27"
+    "as_of": "2026-11-08",
+    "supplemental_source_url": "https://edd.ca.gov/siteassets/files/pdf_pub_ctr/de44.pdf",
+    "supplemental_note": "California Employer's Guide (DE 44 Rev. 52 (4-26)): \"Withhold the percentage below on the following types of supplemental wages without allowing for any withholding allowances claimed by the employee\". The table sets \"Bonuses and stock options 10.23 percent (.1023)\" and 6.6 percent for other types (overtime pay, commissions, sales awards, severance and vacation pay). supplemental_rate is the 6.6% rate; bonuses and stock options take 10.23%."
   },
   {
     "year": 2026,
@@ -71,11 +201,13 @@
     "flat_rate": 0.044,
     "top_marginal": null,
     "bracket_summary": null,
-    "supplemental_rate": 0.044,
-    "supplemental_rate_verified": false,
+    "supplemental_rate": null,
+    "supplemental_rate_verified": null,
     "citation_url": "https://tax.colorado.gov/",
     "notes": "Colorado flat 4.40% (Prop 121 reduction).",
-    "as_of": "2026-06-15"
+    "as_of": "2026-11-08",
+    "supplemental_source_url": "https://tax.colorado.gov/sites/tax/files/documents/DR_1098_Colorado_Withholding_Worksheet_for_Employees.pdf",
+    "supplemental_note": "No flat supplemental rate: the state withholds on supplemental wages with its regular tables or formula. Colorado Withholding Worksheet for Employers (DR 1098 for 2026) prescribes one annualized calculation and says \"Employers must use the calculation in this worksheet\"; it gives no supplemental rate."
   },
   {
     "year": 2026,
@@ -84,11 +216,13 @@
     "flat_rate": null,
     "top_marginal": 0.0699,
     "bracket_summary": null,
-    "supplemental_rate": 0.0699,
-    "supplemental_rate_verified": false,
+    "supplemental_rate": null,
+    "supplemental_rate_verified": null,
     "citation_url": "https://portal.ct.gov/drs",
     "notes": "Connecticut top marginal 6.99%.",
-    "as_of": "2026-06-15"
+    "as_of": "2026-11-08",
+    "supplemental_source_url": "https://portal.ct.gov/-/media/drs/publications/pubsip/2026/ip-2026-1.pdf",
+    "supplemental_note": "No flat supplemental rate: the state withholds on supplemental wages with its regular tables or formula. Connecticut IP 2026(1), Employer's Tax Guide: \"When supplemental compensation is paid at the same time as regular wages, the tax withheld should be determined as if the total of the supplemental and regular wages were a single payment for the regular payroll period.\" Paid separately, it is added to regular wages and the tax already withheld is subtracted. \"There is no percentage method available to determine Connecticut wage withholding.\""
   },
   {
     "year": 2026,
@@ -97,11 +231,13 @@
     "flat_rate": null,
     "top_marginal": 0.1075,
     "bracket_summary": null,
-    "supplemental_rate": 0.1075,
-    "supplemental_rate_verified": false,
+    "supplemental_rate": null,
+    "supplemental_rate_verified": null,
     "citation_url": "https://otr.cfo.dc.gov/",
     "notes": "District of Columbia top marginal 10.75%.",
-    "as_of": "2026-06-15"
+    "as_of": "2026-11-08",
+    "supplemental_source_url": "https://otr.cfo.dc.gov/sites/default/files/dc/sites/otr/publication/attachments/2018%20FR-230_12.13.17.pdf",
+    "supplemental_note": "No flat supplemental rate: the state withholds on supplemental wages with its regular tables or formula. DC Income Tax Withholding Instructions and Tables (FR-230, the latest edition the Office of Tax and Revenue has posted): \"Tips or gratuities which are accounted for by the employer, vacation allowances, bonuses and back pay are considered as wage payments for the purpose of withholding.\""
   },
   {
     "year": 2026,
@@ -110,11 +246,13 @@
     "flat_rate": null,
     "top_marginal": 0.066,
     "bracket_summary": null,
-    "supplemental_rate": 0.066,
-    "supplemental_rate_verified": false,
+    "supplemental_rate": null,
+    "supplemental_rate_verified": null,
     "citation_url": "https://revenue.delaware.gov/",
     "notes": "Delaware top marginal 6.6%.",
-    "as_of": "2026-06-15"
+    "as_of": "2026-11-08",
+    "supplemental_source_url": "https://revenue.delaware.gov/employers-guide-withholding-regulations-employers-duties/",
+    "supplemental_note": "No flat supplemental rate: the state withholds on supplemental wages with its regular tables or formula. Delaware Employer's Guide, section 14 (page modified 2026-01-09): for supplemental wages paid separately, \"Annualize the employee's regular wages and compute the tax on this amount. Annualize the regular wages and add the supplemental wage to this amount. Compute tax on this amount.\""
   },
   {
     "year": 2026,
@@ -127,7 +265,9 @@
     "supplemental_rate_verified": null,
     "citation_url": "https://floridarevenue.com/",
     "notes": "Florida has no state personal income tax.",
-    "as_of": "2026-06-15"
+    "as_of": "2026-06-15",
+    "supplemental_source_url": null,
+    "supplemental_note": null
   },
   {
     "year": 2026,
@@ -137,10 +277,12 @@
     "top_marginal": null,
     "bracket_summary": null,
     "supplemental_rate": 0.0499,
-    "supplemental_rate_verified": false,
+    "supplemental_rate_verified": true,
     "citation_url": "https://gov.georgia.gov/press-releases/2026-05-11/gov-kemp-signs-legislation-lowering-taxes-and-supporting-economic-growth",
     "notes": "Georgia flat 4.99% for 2026. HB 463 (Georgia Economic Growth and Tax Relief Act of 2026), signed 2026-05-11 by Gov. Kemp, reduced the rate from 5.19% to 4.99% effective January 1, 2026, reaching sub-5% three years ahead of the original 2022 Tax Reform Act schedule.",
-    "as_of": "2026-06-15"
+    "as_of": "2026-11-08",
+    "supplemental_source_url": "https://dor.georgia.gov/document/document/2026-employers-tax-guide-updated-september-2026/download",
+    "supplemental_note": "Georgia Employer's Withholding Tax Guide 2026 (revised September 2026): \"For tax year 2026, bonuses and other compensation are subject to Georgia withholding at the applicable income tax rate in effect at the time the compensation is paid. Employers must continue to withhold at the rate of 5.19% before the effective date of the rate change and may begin withholding at the new rate of 4.99% starting May 11, 2026.\""
   },
   {
     "year": 2026,
@@ -149,11 +291,13 @@
     "flat_rate": null,
     "top_marginal": 0.11,
     "bracket_summary": null,
-    "supplemental_rate": 0.11,
-    "supplemental_rate_verified": false,
+    "supplemental_rate": null,
+    "supplemental_rate_verified": null,
     "citation_url": "https://tax.hawaii.gov/",
     "notes": "Hawaii top marginal 11.0%.",
-    "as_of": "2026-06-15"
+    "as_of": "2026-11-08",
+    "supplemental_source_url": "https://files.hawaii.gov/tax/news/pubs/25BkltA.pdf",
+    "supplemental_note": "No flat supplemental rate: the state withholds on supplemental wages with its regular tables or formula. Hawaii Booklet A, Employer's Tax Guide (Rev. 2025): \"If supplemental wages are paid at a different time, the employer may determine the amount of tax to be withheld by aggregating the supplemental wages either with the regular wages for the current payroll period or with the regular wages for the last preceding payroll period within the same calendar year.\""
   },
   {
     "year": 2026,
@@ -165,8 +309,10 @@
     "supplemental_rate": 0.038,
     "supplemental_rate_verified": true,
     "citation_url": "https://revenue.iowa.gov/taxes/tax-guidance/withholding-tax/iowa-withholding-tax-information",
-    "notes": "Iowa flat 3.80% in 2026, unchanged from 2025. Supplemental wages withheld at 3.8% (Iowa DOR 2026 withholding formula).",
-    "as_of": "2026-09-21"
+    "notes": "Iowa flat 3.80% in 2026, unchanged from 2025.",
+    "as_of": "2026-11-08",
+    "supplemental_source_url": "https://revenue.iowa.gov/taxes/tax-guidance/withholding-tax/iowa-withholding-tax-information",
+    "supplemental_note": "Iowa Department of Revenue, Iowa Withholding Tax Information (as published in 2026): \"If federal income tax is withheld on a flat rate basis, Iowa income tax is required to be withheld at the highest rate applicable to individuals (3.8%). However, if the supplemental wage payment is included with the regular wage payment, the two are combined and the withholding tables or formulas are used.\" The administrative rule the page cites (701 IAC 307.2) still prints 6 percent; the Department's page is used here."
   },
   {
     "year": 2026,
@@ -176,10 +322,12 @@
     "top_marginal": null,
     "bracket_summary": null,
     "supplemental_rate": 0.053,
-    "supplemental_rate_verified": false,
+    "supplemental_rate_verified": true,
     "citation_url": "https://tax.idaho.gov/taxes/income-tax/individual-income/individual-income-tax-rate-schedule/",
     "notes": "Idaho flat 5.3% (HB 40, 2025; carries into 2026).",
-    "as_of": "2026-09-21"
+    "as_of": "2026-11-08",
+    "supplemental_source_url": "https://tax.idaho.gov/taxes/income-tax/withholding/computing/",
+    "supplemental_note": "Idaho State Tax Commission, Computing Withholding: \"Multiply the separately-issued supplemental payment by 5.3%.\" Optional; the alternative is to \"Combine the supplemental payment with regular wages and treat it as a single payment.\""
   },
   {
     "year": 2026,
@@ -189,10 +337,12 @@
     "top_marginal": null,
     "bracket_summary": null,
     "supplemental_rate": 0.0495,
-    "supplemental_rate_verified": false,
+    "supplemental_rate_verified": true,
     "citation_url": "https://tax.illinois.gov/",
     "notes": "Illinois flat 4.95%.",
-    "as_of": "2026-06-15"
+    "as_of": "2026-11-08",
+    "supplemental_source_url": "https://www.ilga.gov/commission/jcar/admincode/086/086001000S70500R.html",
+    "supplemental_note": "86 Ill. Adm. Code 100.7050(c): \"When supplemental wages are paid, the amount of tax required to be withheld shall be determined in accordance with the same methods provided for withholding on those wages under the Internal Revenue Code and the regulations thereunder. However, an employer may elect to compute the amount of tax to be withheld using the tax rate in effect for the date the compensation is paid.\" The Illinois rate in effect is 4.95% (Booklet IL-700-T)."
   },
   {
     "year": 2026,
@@ -201,11 +351,13 @@
     "flat_rate": 0.0295,
     "top_marginal": null,
     "bracket_summary": null,
-    "supplemental_rate": 0.0295,
-    "supplemental_rate_verified": false,
+    "supplemental_rate": null,
+    "supplemental_rate_verified": null,
     "citation_url": "https://www.in.gov/dor/",
     "notes": "Indiana flat 2.95% in 2026 (HB 1001 schedule). Counties add separately — see payroll_local_income_tax.",
-    "as_of": "2026-06-15"
+    "as_of": "2026-11-08",
+    "supplemental_source_url": "https://www.in.gov/dor/files/dn01.pdf",
+    "supplemental_note": "No separate supplemental rate. Indiana Departmental Notice #1 (2026): \"For one-time or non-periodic payments, such as a bonus check, withholding ... should be computed without exemptions.\" The state rate and the county rate both apply."
   },
   {
     "year": 2026,
@@ -215,10 +367,12 @@
     "top_marginal": 0.0558,
     "bracket_summary": null,
     "supplemental_rate": 0.05,
-    "supplemental_rate_verified": false,
+    "supplemental_rate_verified": true,
     "citation_url": "https://www.ksrevenue.gov/",
     "notes": "Kansas 5.20%/5.58% brackets (recent reform).",
-    "as_of": "2026-06-15"
+    "as_of": "2026-11-08",
+    "supplemental_source_url": "https://www.ksrevenue.gov/pdf/kw100.pdf",
+    "supplemental_note": "Kansas Withholding Tax Guide KW-100 (Rev. 10-24): \"If you state the supplemental wage separately and compute federal withholding as a percentage of the payment (usually 25%), then compute Kansas withholding at 5% of the gross payment.\" Otherwise use the regular tables on the combined wages."
   },
   {
     "year": 2026,
@@ -227,11 +381,13 @@
     "flat_rate": 0.035,
     "top_marginal": null,
     "bracket_summary": null,
-    "supplemental_rate": 0.035,
-    "supplemental_rate_verified": false,
+    "supplemental_rate": null,
+    "supplemental_rate_verified": null,
     "citation_url": "https://revenue.ky.gov/",
     "notes": "Kentucky flat 3.5% in 2026 (down from 4.0%).",
-    "as_of": "2026-06-15"
+    "as_of": "2026-11-08",
+    "supplemental_source_url": "https://revenue.ky.gov/Forms/42A003-March%202026.pdf",
+    "supplemental_note": "No flat supplemental rate: the state withholds on supplemental wages with its regular tables or formula. Kentucky's Withholding Kentucky Income Tax Instructions for Employers, 42A003 (3-26), lists bonuses as subject to withholding and gives no supplemental rate; withholding uses the annualized formula, and \"All Kentucky wage earners are taxed at a flat 3.5% tax rate\"."
   },
   {
     "year": 2026,
@@ -240,11 +396,13 @@
     "flat_rate": 0.03,
     "top_marginal": null,
     "bracket_summary": null,
-    "supplemental_rate": 0.03,
-    "supplemental_rate_verified": false,
+    "supplemental_rate": null,
+    "supplemental_rate_verified": null,
     "citation_url": "https://revenue.louisiana.gov/tax-education-and-faqs/faqs/income-tax-reform/what-are-the-individual-income-tax-rates-and-brackets/",
     "notes": "Louisiana flat 3% for taxable periods beginning on or after January 1, 2025 — unchanged for 2026. (LDR's withholding tables use 3.09%.)",
-    "as_of": "2026-09-21"
+    "as_of": "2026-11-08",
+    "supplemental_source_url": "https://revenue.louisiana.gov/tax-education-and-faqs/faqs/withholding-tax/are-supplemental-wage-and-vacation-payments-subject-to-withholding/",
+    "supplemental_note": "No flat supplemental rate: the state withholds on supplemental wages with its regular tables or formula. Louisiana Department of Revenue: \"supplemental wage and vacation pay would be subject to income tax withholding the same as the employee's regular payroll even if the supplemental wage or vacation pay was paid separately.\""
   },
   {
     "year": 2026,
@@ -253,11 +411,13 @@
     "flat_rate": null,
     "top_marginal": 0.09,
     "bracket_summary": null,
-    "supplemental_rate": 0.05,
-    "supplemental_rate_verified": false,
+    "supplemental_rate": null,
+    "supplemental_rate_verified": null,
     "citation_url": "https://www.mass.gov/orgs/massachusetts-department-of-revenue",
     "notes": "Massachusetts 5% flat + 4% surtax on income > $1M = top 9%.",
-    "as_of": "2026-06-15"
+    "as_of": "2026-11-08",
+    "supplemental_source_url": null,
+    "supplemental_note": "Not verified: the Department of Revenue's Circular M could not be retrieved for this review. Use the state's regular withholding tables, or check its current withholding guide, for bonuses and other supplemental wages."
   },
   {
     "year": 2026,
@@ -266,11 +426,13 @@
     "flat_rate": null,
     "top_marginal": 0.065,
     "bracket_summary": null,
-    "supplemental_rate": null,
-    "supplemental_rate_verified": null,
+    "supplemental_rate": 0.065,
+    "supplemental_rate_verified": true,
     "citation_url": "https://www.marylandcomptroller.gov/content/dam/mdcomp/tax/legal-publications/alerts/tax-alert-changes-to-standard-and-itemized-deductions-and-to-state-and-local-income-tax-rates-from-the-2025-legislative-session.pdf",
     "notes": "Maryland state 2–6.5% in 2026 (the 6.25% and 6.50% brackets began in tax year 2025). From 2026 counties may levy up to 3.30% — see payroll_local_income_tax.",
-    "as_of": "2026-09-21"
+    "as_of": "2026-11-08",
+    "supplemental_source_url": "https://www.marylandcomptroller.gov/content/dam/mdcomp/tax/instructions/withholding/2026/withholding-guide.pdf",
+    "supplemental_note": "Maryland Employer Withholding Guide (Effective January 2026): \"For lump sum distribution of annual bonus, the withholding amount should be calculated at the highest State tax rate (6.50%), and the highest local tax rate for the county of residence\". supplemental_rate is the state portion only; add the county rate (the guide's combined lump-sum rates run 8.75% to 9.80%)."
   },
   {
     "year": 2026,
@@ -279,11 +441,13 @@
     "flat_rate": null,
     "top_marginal": 0.0715,
     "bracket_summary": null,
-    "supplemental_rate": 0.0715,
-    "supplemental_rate_verified": false,
+    "supplemental_rate": null,
+    "supplemental_rate_verified": null,
     "citation_url": "https://www.maine.gov/revenue",
     "notes": "Maine top marginal 7.15%.",
-    "as_of": "2026-06-15"
+    "as_of": "2026-11-08",
+    "supplemental_source_url": null,
+    "supplemental_note": "Not verified: Maine Revenue Services' withholding tables and instructions could not be retrieved for this review. Use the state's regular withholding tables, or check its current withholding guide, for bonuses and other supplemental wages."
   },
   {
     "year": 2026,
@@ -293,10 +457,12 @@
     "top_marginal": null,
     "bracket_summary": null,
     "supplemental_rate": 0.0425,
-    "supplemental_rate_verified": false,
+    "supplemental_rate_verified": true,
     "citation_url": "https://www.michigan.gov/treasury",
     "notes": "Michigan flat 4.25%.",
-    "as_of": "2026-06-15"
+    "as_of": "2026-11-08",
+    "supplemental_source_url": "https://www.michigan.gov/taxes/-/media/Project/Websites/taxes/Forms/SUW/TY2026/446_Withholding-Guide_2026.pdf",
+    "supplemental_note": "Michigan Income Tax Withholding Guide, Form 446 (Rev. 02-26): \"Bonuses and other payments of employee compensation made separately from regular payroll payments are subject to Michigan income tax withholding. The withholding amount equals the payment amount multiplied by 4.25 percent (0.0425).\""
   },
   {
     "year": 2026,
@@ -306,10 +472,12 @@
     "top_marginal": 0.0985,
     "bracket_summary": null,
     "supplemental_rate": 0.0625,
-    "supplemental_rate_verified": false,
+    "supplemental_rate_verified": true,
     "citation_url": "https://www.revenue.state.mn.us/",
     "notes": "Minnesota top marginal 9.85%.",
-    "as_of": "2026-06-15"
+    "as_of": "2026-11-08",
+    "supplemental_source_url": "https://www.revenue.state.mn.us/sites/default/files/2025-12/wh-inst-26.pdf",
+    "supplemental_note": "2026 Minnesota Income Tax Withholding Instruction Booklet: \"Supplemental payments made to an employee separately from regular wages are subject to the 6.25% Minnesota withholding rate regardless of how many allowances employees claim.\""
   },
   {
     "year": 2026,
@@ -321,8 +489,10 @@
     "supplemental_rate": 0.047,
     "supplemental_rate_verified": true,
     "citation_url": "https://dor.mo.gov/forms/Withholding%20Formula_2026.pdf",
-    "notes": "Missouri top marginal 4.7% in 2026, unchanged from 2025. Supplemental wages withheld at a flat 4.7% (MO DOR 2026 withholding formula).",
-    "as_of": "2026-09-21"
+    "notes": "Missouri top marginal 4.7% in 2026, unchanged from 2025.",
+    "as_of": "2026-11-08",
+    "supplemental_source_url": "https://dor.mo.gov/forms/4282_2026.pdf",
+    "supplemental_note": "Missouri Employer's Tax Guide, Form 4282 (Revised 03-2026): \"Withhold a flat percentage rate of 4.7 percent of the ... supplemental wages.\" Optional, when the supplemental wages are paid separately and tax was withheld from regular wages; otherwise the aggregate method applies."
   },
   {
     "year": 2026,
@@ -331,11 +501,13 @@
     "flat_rate": 0.04,
     "top_marginal": null,
     "bracket_summary": null,
-    "supplemental_rate": 0.04,
-    "supplemental_rate_verified": false,
+    "supplemental_rate": null,
+    "supplemental_rate_verified": null,
     "citation_url": "https://www.dor.ms.gov/general-information",
     "notes": "Mississippi flat 4.0% in 2026 (transitioning to lower rates).",
-    "as_of": "2026-09-21"
+    "as_of": "2026-11-08",
+    "supplemental_source_url": "https://www.dor.ms.gov/sites/default/files/tax-forms/business/89700251revised1.13.2026.pdf",
+    "supplemental_note": "No flat supplemental rate: the state withholds on supplemental wages with its regular tables or formula. Mississippi Withholding Tax Guidelines, Pub 89-700 (2026 tables): \"If supplemental wages, such as bonuses, commissions, or ... overtime pay, are paid at the same time as regular wages, the ... income tax to be withheld should be determined as if the total of\" the supplemental and regular wages were one payment. The only alternative is the employee's own top bracket rate."
   },
   {
     "year": 2026,
@@ -344,11 +516,13 @@
     "flat_rate": null,
     "top_marginal": 0.0565,
     "bracket_summary": null,
-    "supplemental_rate": 0.0565,
-    "supplemental_rate_verified": false,
+    "supplemental_rate": 0.05,
+    "supplemental_rate_verified": true,
     "citation_url": "https://mtrevenue.gov/",
     "notes": "Montana top marginal 5.65% in 2026 (down from 5.9%).",
-    "as_of": "2026-06-15"
+    "as_of": "2026-11-08",
+    "supplemental_source_url": "https://revenuefiles.mt.gov/files/Forms/Montana_Employer_and_Information_Agent_Guide_with_Tax_Tables.pdf",
+    "supplemental_note": "Montana Employer and Information Agent Guide (V4, November 2025): for supplemental wages paid separately the employer may withhold \"a flat 5 percent of the supplemental wage.\" Optional."
   },
   {
     "year": 2026,
@@ -357,11 +531,13 @@
     "flat_rate": 0.0399,
     "top_marginal": null,
     "bracket_summary": null,
-    "supplemental_rate": 0.0399,
-    "supplemental_rate_verified": false,
+    "supplemental_rate": 0.0409,
+    "supplemental_rate_verified": true,
     "citation_url": "https://www.ncdor.gov/taxes-forms/individual-income-tax/tax-rate-schedules",
     "notes": "North Carolina flat 3.99% in 2026 (down from 4.25%).",
-    "as_of": "2026-09-21"
+    "as_of": "2026-11-08",
+    "supplemental_source_url": "https://www.ncdor.gov/income-tax-withholding-tables-and-instructions-employers/open",
+    "supplemental_note": "NC-30 2026 Income Tax Withholding Tables and Instructions for Employers (Web 11-25): \"(a) Withhold a flat 4.09 percent, or\" use the aggregate method, when tax is withheld from the employee's regular wages."
   },
   {
     "year": 2026,
@@ -370,11 +546,13 @@
     "flat_rate": null,
     "top_marginal": 0.025,
     "bracket_summary": null,
-    "supplemental_rate": 0.025,
-    "supplemental_rate_verified": false,
+    "supplemental_rate": 0.015,
+    "supplemental_rate_verified": true,
     "citation_url": "https://www.tax.nd.gov/",
     "notes": "North Dakota top marginal 2.50% (lowest progressive).",
-    "as_of": "2026-06-15"
+    "as_of": "2026-11-08",
+    "supplemental_source_url": "https://www.tax.nd.gov/sites/www/files/documents/forms/individual/2026-iit/2026-income-tax-withholding-rates-booklet.pdf",
+    "supplemental_note": "North Dakota Income Tax Withholding Rates and Instructions for wages paid in 2026, supplemental wages separately paid or identified, Option 1: \"Multiply the supplemental wages by 1.50% (.0150).\" Option 2 is the aggregate method."
   },
   {
     "year": 2026,
@@ -383,11 +561,13 @@
     "flat_rate": null,
     "top_marginal": 0.0455,
     "bracket_summary": null,
-    "supplemental_rate": 0.0455,
-    "supplemental_rate_verified": false,
+    "supplemental_rate": 0.035,
+    "supplemental_rate_verified": true,
     "citation_url": "https://revenue.nebraska.gov/",
     "notes": "Nebraska top marginal 4.55% in 2026 (LB 873 transition toward flat 3.99%).",
-    "as_of": "2026-06-15"
+    "as_of": "2026-11-08",
+    "supplemental_source_url": "https://revenue.nebraska.gov/sites/default/files/doc/business/Cir_En_2025/2026cir_en_whole.pdf",
+    "supplemental_note": "2026 Nebraska Circular EN: for supplemental wages paid at a different time, \"The employer may also elect to withhold income tax on the supplemental wages by using a flat 3.5% withholding rate.\""
   },
   {
     "year": 2026,
@@ -400,7 +580,9 @@
     "supplemental_rate_verified": null,
     "citation_url": "https://www.revenue.nh.gov/",
     "notes": "New Hampshire's Interest & Dividends Tax was repealed effective 2025; no state wage tax.",
-    "as_of": "2026-06-15"
+    "as_of": "2026-06-15",
+    "supplemental_source_url": null,
+    "supplemental_note": null
   },
   {
     "year": 2026,
@@ -409,11 +591,13 @@
     "flat_rate": null,
     "top_marginal": 0.1075,
     "bracket_summary": null,
-    "supplemental_rate": 0.1075,
-    "supplemental_rate_verified": false,
+    "supplemental_rate": null,
+    "supplemental_rate_verified": null,
     "citation_url": "https://www.state.nj.us/treasury/taxation/",
     "notes": "New Jersey top marginal 10.75%.",
-    "as_of": "2026-06-15"
+    "as_of": "2026-11-08",
+    "supplemental_source_url": "https://www.nj.gov/treasury/taxation/pdf/current/njwt.pdf",
+    "supplemental_note": "No flat supplemental rate: the state withholds on supplemental wages with its regular tables or formula. NJ-WT New Jersey Income Tax Withholding Instructions (September 2025): \"If the supplemental wages are paid at a different time: • Withhold from the supplemental wages without any exemption allowances your employee takes on the NJ- W4.\""
   },
   {
     "year": 2026,
@@ -423,10 +607,12 @@
     "top_marginal": 0.059,
     "bracket_summary": null,
     "supplemental_rate": 0.059,
-    "supplemental_rate_verified": false,
+    "supplemental_rate_verified": true,
     "citation_url": "https://www.tax.newmexico.gov/",
     "notes": "New Mexico top marginal 5.9%.",
-    "as_of": "2026-06-15"
+    "as_of": "2026-11-08",
+    "supplemental_source_url": "https://realfile.tax.newmexico.gov/FYI-104.pdf",
+    "supplemental_note": "FYI-104 New Mexico Withholding Tax (Rev. 11/2025): \"If the federal withholding is calculated using a flat percent, a flat 5.9% of the supplemental wage or fringe benefit amount should be withheld for state tax purposes.\" Otherwise follow the federal method."
   },
   {
     "year": 2026,
@@ -439,7 +625,9 @@
     "supplemental_rate_verified": null,
     "citation_url": "https://tax.nv.gov/",
     "notes": "Nevada has no state personal income tax.",
-    "as_of": "2026-06-15"
+    "as_of": "2026-06-15",
+    "supplemental_source_url": null,
+    "supplemental_note": null
   },
   {
     "year": 2026,
@@ -449,10 +637,12 @@
     "top_marginal": 0.109,
     "bracket_summary": null,
     "supplemental_rate": 0.117,
-    "supplemental_rate_verified": false,
+    "supplemental_rate_verified": true,
     "citation_url": "https://www.tax.ny.gov/",
     "notes": "New York top marginal 10.9% (millionaires' tax). NYC and Yonkers add separately — see payroll_local_income_tax.",
-    "as_of": "2026-06-15"
+    "as_of": "2026-11-08",
+    "supplemental_source_url": "https://www.tax.ny.gov/pdf/publications/withholding/nys50_t_nys.pdf",
+    "supplemental_note": "NYS-50-T-NYS (1/26): \"If you withhold income tax from an employee's regular wages, you can use one of the following methods for the supplemental wages: a. Withhold at the New York State supplemental rate of 11.70% (0.1170).\" State rate only; New York City and Yonkers have their own."
   },
   {
     "year": 2026,
@@ -464,8 +654,10 @@
     "supplemental_rate": 0.0275,
     "supplemental_rate_verified": true,
     "citation_url": "https://codes.ohio.gov/ohio-revised-code/section-5747.02",
-    "notes": "Ohio single rate 2.75% on income over $26,050 for tax years beginning in 2026 and after (ORC 5747.02(A)(3)); nothing below. Supplemental withholding 2.75%. Municipalities add separately — see payroll_local_income_tax.",
-    "as_of": "2026-09-21"
+    "notes": "Ohio single rate 2.75% on income over $26,050 for tax years beginning in 2026 and after (ORC 5747.02(A)(3)); nothing below. Municipalities add separately — see payroll_local_income_tax.",
+    "as_of": "2026-11-08",
+    "supplemental_source_url": "https://codes.ohio.gov/assets/laws/administrative-code/authenticated/5703/0/7/5703-7-10_20260101.pdf",
+    "supplemental_note": "Ohio Adm. Code 5703-7-10 (effective January 1, 2026): employers withhold \"From its employees' supplemental compensation, subject to the tax imposed by Chapter 5747. of the Revised Code, at the highest rate of tax set forth in division (A)(3) of section 5747.02 of the Revised Code for the taxable year\". That rate is 2.75% for 2026."
   },
   {
     "year": 2026,
@@ -475,10 +667,12 @@
     "top_marginal": 0.045,
     "bracket_summary": null,
     "supplemental_rate": 0.045,
-    "supplemental_rate_verified": false,
+    "supplemental_rate_verified": true,
     "citation_url": "https://oklahoma.gov/tax.html",
     "notes": "Oklahoma top marginal 4.5% in 2026 (six brackets collapsed to three).",
-    "as_of": "2026-06-15"
+    "as_of": "2026-11-08",
+    "supplemental_source_url": "https://oklahoma.gov/content/dam/ok/en/tax/documents/resources/rules-and-policies/agency-rules/2026/Chapter90-Withholding-2026.pdf",
+    "supplemental_note": "Okla. Admin. Code 710:90-1-6(b)(1): if tax was withheld from regular wages, \"(A) Withhold at the highest applicable rate set out in 68 O.S. Section 2355(B)(1) for Oklahoma Income Taxes for the taxable year\", or use the aggregate method. The rule prints no number; 4.5% is the top rate in the 2026 OW-2 withholding tables."
   },
   {
     "year": 2026,
@@ -488,10 +682,12 @@
     "top_marginal": 0.099,
     "bracket_summary": null,
     "supplemental_rate": 0.08,
-    "supplemental_rate_verified": false,
+    "supplemental_rate_verified": true,
     "citation_url": "https://www.oregon.gov/dor",
     "notes": "Oregon top marginal 9.9%.",
-    "as_of": "2026-06-15"
+    "as_of": "2026-11-08",
+    "supplemental_source_url": "https://www.oregon.gov/dor/forms/FormsPubs/withholding-tax-formulas_206-436_2026.pdf",
+    "supplemental_note": "Oregon Withholding Tax Formulas, 150-206-436 (Rev. 12-31-25): \"Employers may use a 8 percent flat rate to figure withholding on supplemental wages that are paid at a different time than an employee's regular payday.\""
   },
   {
     "year": 2026,
@@ -501,10 +697,12 @@
     "top_marginal": null,
     "bracket_summary": null,
     "supplemental_rate": 0.0307,
-    "supplemental_rate_verified": false,
+    "supplemental_rate_verified": true,
     "citation_url": "https://www.revenue.pa.gov/",
     "notes": "Pennsylvania flat 3.07% (long-standing). Local EIT/LST add separately — see payroll_local_income_tax.",
-    "as_of": "2026-06-15"
+    "as_of": "2026-11-08",
+    "supplemental_source_url": "https://www.pa.gov/content/dam/copapwp-pagov/en/revenue/documents/formsandpublications/formsforbusinesses/employerwithholding/documents/rev-415.pdf",
+    "supplemental_note": "REV-415 Employer Withholding Information Guide (01-23): \"If an employee receives supplemental or other com- pensation, an employer must determine the tax to withhold by adding the supplemental or other compensation for the current payroll period and multiplying this amount by the withholding rate.\" Pennsylvania has one flat rate, 3.07%, for all compensation."
   },
   {
     "year": 2026,
@@ -514,10 +712,12 @@
     "top_marginal": 0.0599,
     "bracket_summary": null,
     "supplemental_rate": 0.0599,
-    "supplemental_rate_verified": false,
+    "supplemental_rate_verified": true,
     "citation_url": "https://tax.ri.gov/",
     "notes": "Rhode Island top marginal 5.99%.",
-    "as_of": "2026-06-15"
+    "as_of": "2026-11-08",
+    "supplemental_source_url": "https://tax.ri.gov/sites/g/files/xkgbur541/files/2025-12/2026%20Withholding%20Tax%20Booklet.pdf",
+    "supplemental_note": "2026 Rhode Island Employer's Income Tax Withholding Tables: \"The Supplemental withholding rate is 5.99%.\""
   },
   {
     "year": 2026,
@@ -526,11 +726,13 @@
     "flat_rate": null,
     "top_marginal": 0.0521,
     "bracket_summary": null,
-    "supplemental_rate": 0.0521,
-    "supplemental_rate_verified": false,
+    "supplemental_rate": null,
+    "supplemental_rate_verified": null,
     "citation_url": "https://dor.sc.gov/news/information-about-h-4216",
     "notes": "South Carolina top marginal 5.21% for 2026. H.4216 (Act 110), signed 2026-03-30 by Gov. McMaster, effective tax year 2026: 1.99% on income < $30,000; 5.21% on income >= $30,000 (minus $966 credit). Returns due 2027-04-15.",
-    "as_of": "2026-06-15"
+    "as_of": "2026-11-08",
+    "supplemental_source_url": null,
+    "supplemental_note": "Not verified: the South Carolina withholding formula (WH-1603F, 2026) and guide say nothing about supplemental wages. Use the state's regular withholding tables, or check its current withholding guide, for bonuses and other supplemental wages."
   },
   {
     "year": 2026,
@@ -543,7 +745,9 @@
     "supplemental_rate_verified": null,
     "citation_url": "https://dor.sd.gov/",
     "notes": "South Dakota has no state personal income tax.",
-    "as_of": "2026-06-15"
+    "as_of": "2026-06-15",
+    "supplemental_source_url": null,
+    "supplemental_note": null
   },
   {
     "year": 2026,
@@ -556,7 +760,9 @@
     "supplemental_rate_verified": null,
     "citation_url": "https://www.tn.gov/revenue.html",
     "notes": "Tennessee has no state personal income tax (Hall tax repealed 2021).",
-    "as_of": "2026-06-15"
+    "as_of": "2026-06-15",
+    "supplemental_source_url": null,
+    "supplemental_note": null
   },
   {
     "year": 2026,
@@ -569,7 +775,9 @@
     "supplemental_rate_verified": null,
     "citation_url": "https://comptroller.texas.gov/",
     "notes": "Texas has no state personal income tax.",
-    "as_of": "2026-06-15"
+    "as_of": "2026-06-15",
+    "supplemental_source_url": null,
+    "supplemental_note": null
   },
   {
     "year": 2026,
@@ -582,7 +790,9 @@
     "supplemental_rate_verified": null,
     "citation_url": "https://le.utah.gov/Session/2026/bills/enrolled/SB0060.pdf",
     "notes": "Utah flat 4.45% for tax year 2026 (SB 60 of 2026, retrospective to January 1, 2026; down from 4.5%). Withholding ran at 4.5% until the Pub 14 tables effective June 1, 2026 switched to 4.45%.",
-    "as_of": "2026-09-21"
+    "as_of": "2026-11-08",
+    "supplemental_source_url": null,
+    "supplemental_note": "Not verified: Utah Publication 14 (2026) says nothing about supplemental wages. Use the state's regular withholding tables, or check its current withholding guide, for bonuses and other supplemental wages."
   },
   {
     "year": 2026,
@@ -592,10 +802,12 @@
     "top_marginal": 0.0575,
     "bracket_summary": null,
     "supplemental_rate": 0.0575,
-    "supplemental_rate_verified": false,
+    "supplemental_rate_verified": true,
     "citation_url": "https://www.tax.virginia.gov/",
     "notes": "Virginia top marginal 5.75%.",
-    "as_of": "2026-06-15"
+    "as_of": "2026-11-08",
+    "supplemental_source_url": "https://www.tax.virginia.gov/sites/default/files/vatax-pdf/employer-withholding-instructions.pdf",
+    "supplemental_note": "Virginia Income Tax Withholding Guide for Employers (Rev. 10/26): \"if supplemental wage payments are paid and tax has been withheld from the employee's regular wages, the employer may determine the tax to be withheld by using a flat percentage rate of 5.75%, without allowance for exemption and without reference to any regular payment of wages.\" Optional."
   },
   {
     "year": 2026,
@@ -604,11 +816,13 @@
     "flat_rate": null,
     "top_marginal": 0.0875,
     "bracket_summary": null,
-    "supplemental_rate": 0.0875,
-    "supplemental_rate_verified": false,
+    "supplemental_rate": null,
+    "supplemental_rate_verified": null,
     "citation_url": "https://tax.vermont.gov/",
     "notes": "Vermont top marginal 8.75%.",
-    "as_of": "2026-06-15"
+    "as_of": "2026-11-08",
+    "supplemental_source_url": "https://tax.vermont.gov/sites/tax/files/documents/GB-1210-2026.pdf",
+    "supplemental_note": "No flat supplemental rate on wages. Vermont GB-1210 (2026): \"For non- periodic payments, the Vermont withholding can be estimated at 30% of the federal withholding.\" That is a share of the federal amount, not a percentage of the payment."
   },
   {
     "year": 2026,
@@ -621,7 +835,9 @@
     "supplemental_rate_verified": null,
     "citation_url": "https://dor.wa.gov/",
     "notes": "Washington has no state personal income tax (capital-gains tax only).",
-    "as_of": "2026-06-15"
+    "as_of": "2026-06-15",
+    "supplemental_source_url": null,
+    "supplemental_note": null
   },
   {
     "year": 2026,
@@ -630,11 +846,13 @@
     "flat_rate": null,
     "top_marginal": 0.0765,
     "bracket_summary": null,
-    "supplemental_rate": 0.0765,
-    "supplemental_rate_verified": false,
+    "supplemental_rate": null,
+    "supplemental_rate_verified": null,
     "citation_url": "https://www.revenue.wi.gov/",
     "notes": "Wisconsin top marginal 7.65%.",
-    "as_of": "2026-06-15"
+    "as_of": "2026-11-08",
+    "supplemental_source_url": "https://www.revenue.wi.gov/dor%20publications/pb166.pdf",
+    "supplemental_note": "No single supplemental rate. Wisconsin Publication W-166 (1/26): \"the withholding on supplemental wage payments may be determined by estimating the employee's annual gross salary and applying flat percentages to the supplemental payments.\" The rate depends on the salary bracket: 3.54%, 4.65%, 5.30% or 7.65%."
   },
   {
     "year": 2026,
@@ -647,7 +865,9 @@
     "supplemental_rate_verified": null,
     "citation_url": "https://tax.wv.gov/Individuals/Pages/PersonalIncomeTaxReductionBill.aspx",
     "notes": "West Virginia 2.11%–4.58% for tax year 2026 (SB 392, signed 2026-03-31, retroactive to January 1, 2026; 2.22%–4.82% in 2025). Top rate applies over $60,000.",
-    "as_of": "2026-09-21"
+    "as_of": "2026-11-08",
+    "supplemental_source_url": "https://tax.wv.gov/Business/Withholding/HelpAndGeneralInformation/Pages/WithholdingHelpAndGeneralInformation.aspx",
+    "supplemental_note": "No flat supplemental rate: the state withholds on supplemental wages with its regular tables or formula. West Virginia Tax Division, Withholding Help: \"Supplemental payments would then be the excess of that using the annual table as published by the Tax Division.\""
   },
   {
     "year": 2026,
@@ -660,7 +880,9 @@
     "supplemental_rate_verified": null,
     "citation_url": "https://revenue.wyo.gov/",
     "notes": "Wyoming has no state personal income tax.",
-    "as_of": "2026-06-15"
+    "as_of": "2026-06-15",
+    "supplemental_source_url": null,
+    "supplemental_note": null
   },
   {
     "year": 2025,
@@ -673,7 +895,9 @@
     "supplemental_rate_verified": null,
     "citation_url": "https://tax.alaska.gov/",
     "notes": "Alaska has no state personal income tax.",
-    "as_of": "2026-06-15"
+    "as_of": "2026-06-15",
+    "supplemental_source_url": null,
+    "supplemental_note": null
   },
   {
     "year": 2025,
@@ -683,10 +907,12 @@
     "top_marginal": 0.05,
     "bracket_summary": null,
     "supplemental_rate": 0.05,
-    "supplemental_rate_verified": false,
+    "supplemental_rate_verified": true,
     "citation_url": "https://www.revenue.alabama.gov/",
     "notes": "Alabama 2/4/5% brackets (top 5%).",
-    "as_of": "2026-06-15"
+    "as_of": "2026-11-08",
+    "supplemental_source_url": "https://www.revenue.alabama.gov/wp-content/uploads/2025/01/whbooklet_0125.pdf",
+    "supplemental_note": "Alabama Withholding Tax Tables and Instructions (REVISED January 2025): \"Employers may withhold state income tax from bonuses and supplemental wage payments at the rate of 5%.\" Optional; the aggregate method is the alternative."
   },
   {
     "year": 2025,
@@ -696,10 +922,12 @@
     "top_marginal": 0.039,
     "bracket_summary": null,
     "supplemental_rate": 0.039,
-    "supplemental_rate_verified": false,
+    "supplemental_rate_verified": true,
     "citation_url": "https://www.dfa.arkansas.gov/",
     "notes": "Arkansas top marginal 3.9% in 2025 (reduced from 4.4%).",
-    "as_of": "2026-06-15"
+    "as_of": "2026-11-08",
+    "supplemental_source_url": "https://www.dfa.arkansas.gov/wp-content/uploads/withholdInstructions_1.pdf",
+    "supplemental_note": "Arkansas Withholding Tax Employer's Instructions (effective 01/01/2025): \"If bonuses, commissions, or overtime wages are paid at the same time as regular wages, the income tax withheld shall be determined by the following method. Deduct 3.9% of the bonus or commission for state income tax.\""
   },
   {
     "year": 2025,
@@ -708,11 +936,13 @@
     "flat_rate": 0.025,
     "top_marginal": null,
     "bracket_summary": null,
-    "supplemental_rate": 0.025,
-    "supplemental_rate_verified": false,
+    "supplemental_rate": null,
+    "supplemental_rate_verified": null,
     "citation_url": "https://azdor.gov/",
     "notes": "Arizona flat 2.5% since 2023.",
-    "as_of": "2026-06-15"
+    "as_of": "2026-11-08",
+    "supplemental_source_url": "https://azdor.gov/sites/default/files/document/FORMS_WITHHOLDING_2025_A-4i.pdf",
+    "supplemental_note": "No separate supplemental rate. Arizona Form A-4 instructions (2025): \"Arizona income tax withholding is a percentage of gross taxable wages.\" Bonuses take the percentage the employee elected on Form A-4."
   },
   {
     "year": 2025,
@@ -722,10 +952,12 @@
     "top_marginal": 0.133,
     "bracket_summary": null,
     "supplemental_rate": 0.066,
-    "supplemental_rate_verified": false,
+    "supplemental_rate_verified": true,
     "citation_url": "https://www.ftb.ca.gov/",
     "notes": "California 1% to 12.3%, plus a 1% Mental Health Services surcharge above $1M (top 13.3%). State Disability Insurance (SDI) is a separate employee contribution, not included here: 1.2% in 2025 and 1.3% in 2026, on all wages with no wage cap since 2024 (EDD).",
-    "as_of": "2026-09-27"
+    "as_of": "2026-11-08",
+    "supplemental_source_url": "https://edd.ca.gov/siteassets/files/pdf_pub_ctr/de44-25.pdf",
+    "supplemental_note": "California Employer's Guide (DE 44 Rev. 51 (1-25)): \"Withhold the percentage below on the following types of supplemental wages without allowing for any withholding allowances claimed by the employee\". The table sets \"Bonuses and stock options 10.23 percent (.1023)\" and 6.6 percent for other types (overtime pay, commissions, sales awards, severance and vacation pay). supplemental_rate is the 6.6% rate; bonuses and stock options take 10.23%."
   },
   {
     "year": 2025,
@@ -734,11 +966,13 @@
     "flat_rate": 0.044,
     "top_marginal": null,
     "bracket_summary": null,
-    "supplemental_rate": 0.044,
-    "supplemental_rate_verified": false,
+    "supplemental_rate": null,
+    "supplemental_rate_verified": null,
     "citation_url": "https://tax.colorado.gov/",
     "notes": "Colorado flat 4.40% (Prop 121 reduction).",
-    "as_of": "2026-06-15"
+    "as_of": "2026-11-08",
+    "supplemental_source_url": "https://tax.colorado.gov/sites/tax/files/documents/DR_1098_2024.pdf",
+    "supplemental_note": "No flat supplemental rate: the state withholds on supplemental wages with its regular tables or formula. Colorado Withholding Worksheet for Employers (DR 1098 (11/12/24), for 2025) prescribes one annualized calculation and says \"Employers must use the calculation in this worksheet\"; it gives no supplemental rate."
   },
   {
     "year": 2025,
@@ -747,11 +981,13 @@
     "flat_rate": null,
     "top_marginal": 0.0699,
     "bracket_summary": null,
-    "supplemental_rate": 0.0699,
-    "supplemental_rate_verified": false,
+    "supplemental_rate": null,
+    "supplemental_rate_verified": null,
     "citation_url": "https://portal.ct.gov/drs",
     "notes": "Connecticut top marginal 6.99%.",
-    "as_of": "2026-06-15"
+    "as_of": "2026-11-08",
+    "supplemental_source_url": "https://portal.ct.gov/-/media/drs/publications/pubsip/2025/ip-2025-1.pdf",
+    "supplemental_note": "No flat supplemental rate: the state withholds on supplemental wages with its regular tables or formula. Connecticut IP 2025(1), Employer's Tax Guide: \"When supplemental compensation is paid at the same time as regular wages, the tax withheld should be determined as if the total of the supplemental and regular wages were a single payment for the regular payroll period.\" Paid separately, it is added to regular wages and the tax already withheld is subtracted. \"There is no percentage method available to determine Connecticut wage withholding.\""
   },
   {
     "year": 2025,
@@ -760,11 +996,13 @@
     "flat_rate": null,
     "top_marginal": 0.1075,
     "bracket_summary": null,
-    "supplemental_rate": 0.1075,
-    "supplemental_rate_verified": false,
+    "supplemental_rate": null,
+    "supplemental_rate_verified": null,
     "citation_url": "https://otr.cfo.dc.gov/",
     "notes": "District of Columbia top marginal 10.75%.",
-    "as_of": "2026-06-15"
+    "as_of": "2026-11-08",
+    "supplemental_source_url": "https://otr.cfo.dc.gov/sites/default/files/dc/sites/otr/publication/attachments/2018%20FR-230_12.13.17.pdf",
+    "supplemental_note": "No flat supplemental rate: the state withholds on supplemental wages with its regular tables or formula. DC Income Tax Withholding Instructions and Tables (FR-230, the latest edition the Office of Tax and Revenue has posted): \"Tips or gratuities which are accounted for by the employer, vacation allowances, bonuses and back pay are considered as wage payments for the purpose of withholding.\""
   },
   {
     "year": 2025,
@@ -773,11 +1011,13 @@
     "flat_rate": null,
     "top_marginal": 0.066,
     "bracket_summary": null,
-    "supplemental_rate": 0.066,
-    "supplemental_rate_verified": false,
+    "supplemental_rate": null,
+    "supplemental_rate_verified": null,
     "citation_url": "https://revenue.delaware.gov/",
     "notes": "Delaware top marginal 6.6%.",
-    "as_of": "2026-06-15"
+    "as_of": "2026-11-08",
+    "supplemental_source_url": "https://revenue.delaware.gov/employers-guide-withholding-regulations-employers-duties/",
+    "supplemental_note": "No flat supplemental rate: the state withholds on supplemental wages with its regular tables or formula. Delaware Employer's Guide, section 14 (page modified 2025-03-05): for supplemental wages paid separately, \"Annualize the employee's regular wages and compute the tax on this amount. Annualize the regular wages and add the supplemental wage to this amount. Compute tax on this amount.\""
   },
   {
     "year": 2025,
@@ -790,7 +1030,9 @@
     "supplemental_rate_verified": null,
     "citation_url": "https://floridarevenue.com/",
     "notes": "Florida has no state personal income tax.",
-    "as_of": "2026-06-15"
+    "as_of": "2026-06-15",
+    "supplemental_source_url": null,
+    "supplemental_note": null
   },
   {
     "year": 2025,
@@ -802,8 +1044,10 @@
     "supplemental_rate": 0.0519,
     "supplemental_rate_verified": true,
     "citation_url": "https://dor.georgia.gov/document/document/2025-it-511-individual-income-tax-booklet/download",
-    "notes": "Georgia flat 5.19% for tax year 2025 (2025 IT-511: 'Effective January 1, 2025, the income tax rate is 5.19%'). Employers withheld at 5.39% from Jan 1 to Jun 30, 2025 and 5.19% from Jul 1, 2025 (2025 Employer's Tax Guide, rev. June 2025); supplemental wages follow the rate in effect when paid.",
-    "as_of": "2026-09-21"
+    "notes": "Georgia flat 5.19% for tax year 2025 (2025 IT-511: 'Effective January 1, 2025, the income tax rate is 5.19%'). Employers withheld at 5.39% from Jan 1 to Jun 30, 2025 and 5.19% from Jul 1, 2025 (2025 Employer's Tax Guide, rev. June 2025).",
+    "as_of": "2026-11-08",
+    "supplemental_source_url": "https://dor.georgia.gov/document/document-document/2025-employers-tax-guide-updated-june-2025/download",
+    "supplemental_note": "Georgia Employer's Withholding Tax Guide 2025: \"For the period beginning January 1st and ending June 30th, bonuses and other compensation are withheld at a rate of 5.39%. For the period beginning July 1st ending December 31st, bonuses and other compensation are withheld at a rate of 5.19%.\" supplemental_rate is the rate from July 1, 2025."
   },
   {
     "year": 2025,
@@ -812,11 +1056,13 @@
     "flat_rate": null,
     "top_marginal": 0.11,
     "bracket_summary": null,
-    "supplemental_rate": 0.11,
-    "supplemental_rate_verified": false,
+    "supplemental_rate": null,
+    "supplemental_rate_verified": null,
     "citation_url": "https://tax.hawaii.gov/",
     "notes": "Hawaii top marginal 11.0%.",
-    "as_of": "2026-06-15"
+    "as_of": "2026-11-08",
+    "supplemental_source_url": "https://web.archive.org/web/20250607233314/https://files.hawaii.gov/tax/news/pubs/25BkltA.pdf",
+    "supplemental_note": "No flat supplemental rate: the state withholds on supplemental wages with its regular tables or formula. Hawaii Booklet A, Employer's Tax Guide (Rev. 2024; archived copy of the official file): \"If supplemental wages are paid at a different time, the employer may determine the amount of tax to be withheld by aggregating the supplemental wages either with the regular wages for the current payroll period or with the regular wages for the last preceding payroll period within the same calendar year.\""
   },
   {
     "year": 2025,
@@ -828,8 +1074,10 @@
     "supplemental_rate": 0.038,
     "supplemental_rate_verified": true,
     "citation_url": "https://revenue.iowa.gov/taxes/tax-guidance/withholding-tax/iowa-withholding-tax-information",
-    "notes": "Iowa flat 3.80% from 2025 (previously progressive). Supplemental wages taxed federally at a flat rate are withheld at Iowa's highest individual rate, 3.8% (Iowa DOR withholding information).",
-    "as_of": "2026-09-21"
+    "notes": "Iowa flat 3.80% from 2025 (previously progressive).",
+    "as_of": "2026-11-08",
+    "supplemental_source_url": "https://revenue.iowa.gov/taxes/tax-guidance/withholding-tax/iowa-withholding-tax-information",
+    "supplemental_note": "Iowa Department of Revenue, Iowa Withholding Tax Information (as published on 2025-06-21): \"If federal income tax is withheld on a flat rate basis, Iowa income tax is required to be withheld at the highest rate applicable to individuals (3.8%). However, if the supplemental wage payment is included with the regular wage payment, the two are combined and the withholding tables or formulas are used.\" The administrative rule the page cites (701 IAC 307.2) still prints 6 percent; the Department's page is used here."
   },
   {
     "year": 2025,
@@ -841,8 +1089,10 @@
     "supplemental_rate": 0.053,
     "supplemental_rate_verified": true,
     "citation_url": "https://tax.idaho.gov/taxes/income-tax/individual-income/individual-income-tax-rate-schedule/",
-    "notes": "Idaho flat 5.3%, reduced from 5.695% effective January 1, 2025 (Idaho State Tax Commission, 'What's new for 2025'). Supplemental payments are withheld at 5.3%.",
-    "as_of": "2026-09-21"
+    "notes": "Idaho flat 5.3%, reduced from 5.695% effective January 1, 2025 (Idaho State Tax Commission, 'What's new for 2025').",
+    "as_of": "2026-11-08",
+    "supplemental_source_url": "https://tax.idaho.gov/taxes/income-tax/withholding/computing/",
+    "supplemental_note": "Idaho State Tax Commission, Computing Withholding (as published on 2025-09-06): \"Multiply the separately-issued supplemental payment by 5.3%.\" Optional. The same page gave 5.695% until the tables were updated for the 2025 rate cut (about May 1, 2025)."
   },
   {
     "year": 2025,
@@ -852,10 +1102,12 @@
     "top_marginal": null,
     "bracket_summary": null,
     "supplemental_rate": 0.0495,
-    "supplemental_rate_verified": false,
+    "supplemental_rate_verified": true,
     "citation_url": "https://tax.illinois.gov/",
     "notes": "Illinois flat 4.95%.",
-    "as_of": "2026-06-15"
+    "as_of": "2026-11-08",
+    "supplemental_source_url": "https://www.ilga.gov/commission/jcar/admincode/086/086001000S70500R.html",
+    "supplemental_note": "86 Ill. Adm. Code 100.7050(c): \"When supplemental wages are paid, the amount of tax required to be withheld shall be determined in accordance with the same methods provided for withholding on those wages under the Internal Revenue Code and the regulations thereunder. However, an employer may elect to compute the amount of tax to be withheld using the tax rate in effect for the date the compensation is paid.\" The Illinois rate in effect is 4.95% (Booklet IL-700-T)."
   },
   {
     "year": 2025,
@@ -864,11 +1116,13 @@
     "flat_rate": 0.03,
     "top_marginal": null,
     "bracket_summary": null,
-    "supplemental_rate": 0.03,
-    "supplemental_rate_verified": false,
+    "supplemental_rate": null,
+    "supplemental_rate_verified": null,
     "citation_url": "https://www.in.gov/dor/",
     "notes": "Indiana flat 3.00% in 2025 (dropping per HB 1001 schedule). Counties add separately — see payroll_local_income_tax.",
-    "as_of": "2026-06-15"
+    "as_of": "2026-11-08",
+    "supplemental_source_url": "https://www.in.gov/dor/files/dn01.pdf",
+    "supplemental_note": "No separate supplemental rate. Indiana Departmental Notice #1 (2025): \"For one-time or non-periodic payments, such as a bonus check, withholding ... should be computed without exemptions.\" The state rate and the county rate both apply."
   },
   {
     "year": 2025,
@@ -878,10 +1132,12 @@
     "top_marginal": 0.0558,
     "bracket_summary": null,
     "supplemental_rate": 0.05,
-    "supplemental_rate_verified": false,
+    "supplemental_rate_verified": true,
     "citation_url": "https://www.ksrevenue.gov/",
     "notes": "Kansas 5.20%/5.58% brackets (recent reform).",
-    "as_of": "2026-06-15"
+    "as_of": "2026-11-08",
+    "supplemental_source_url": "https://www.ksrevenue.gov/pdf/kw100.pdf",
+    "supplemental_note": "Kansas Withholding Tax Guide KW-100 (Rev. 10-24): \"If you state the supplemental wage separately and compute federal withholding as a percentage of the payment (usually 25%), then compute Kansas withholding at 5% of the gross payment.\" Otherwise use the regular tables on the combined wages."
   },
   {
     "year": 2025,
@@ -890,11 +1146,13 @@
     "flat_rate": 0.04,
     "top_marginal": null,
     "bracket_summary": null,
-    "supplemental_rate": 0.04,
-    "supplemental_rate_verified": false,
+    "supplemental_rate": null,
+    "supplemental_rate_verified": null,
     "citation_url": "https://revenue.ky.gov/",
     "notes": "Kentucky flat 4.0% in 2025 (down from 4.5%).",
-    "as_of": "2026-06-15"
+    "as_of": "2026-11-08",
+    "supplemental_source_url": null,
+    "supplemental_note": "Not verified: no 2025 edition of Kentucky's employer withholding instructions was found; the 2025 formula sheet says nothing about supplemental wages. Use the state's regular withholding tables, or check its current withholding guide, for bonuses and other supplemental wages."
   },
   {
     "year": 2025,
@@ -903,11 +1161,13 @@
     "flat_rate": 0.03,
     "top_marginal": null,
     "bracket_summary": null,
-    "supplemental_rate": 0.03,
-    "supplemental_rate_verified": false,
+    "supplemental_rate": null,
+    "supplemental_rate_verified": null,
     "citation_url": "https://revenue.louisiana.gov/",
     "notes": "Louisiana converted to flat 3.0% effective 2025 (HB 10, 2024).",
-    "as_of": "2026-06-15"
+    "as_of": "2026-11-08",
+    "supplemental_source_url": "https://revenue.louisiana.gov/tax-education-and-faqs/faqs/withholding-tax/are-supplemental-wage-and-vacation-payments-subject-to-withholding/",
+    "supplemental_note": "No flat supplemental rate: the state withholds on supplemental wages with its regular tables or formula. Louisiana Department of Revenue: \"supplemental wage and vacation pay would be subject to income tax withholding the same as the employee's regular payroll even if the supplemental wage or vacation pay was paid separately.\""
   },
   {
     "year": 2025,
@@ -916,11 +1176,13 @@
     "flat_rate": null,
     "top_marginal": 0.09,
     "bracket_summary": null,
-    "supplemental_rate": 0.05,
-    "supplemental_rate_verified": false,
+    "supplemental_rate": null,
+    "supplemental_rate_verified": null,
     "citation_url": "https://www.mass.gov/orgs/massachusetts-department-of-revenue",
     "notes": "Massachusetts 5% flat + 4% surtax on income > $1M = top 9%.",
-    "as_of": "2026-06-15"
+    "as_of": "2026-11-08",
+    "supplemental_source_url": null,
+    "supplemental_note": "Not verified: the Department of Revenue's Circular M could not be retrieved for this review. Use the state's regular withholding tables, or check its current withholding guide, for bonuses and other supplemental wages."
   },
   {
     "year": 2025,
@@ -929,11 +1191,13 @@
     "flat_rate": null,
     "top_marginal": 0.065,
     "bracket_summary": null,
-    "supplemental_rate": null,
-    "supplemental_rate_verified": null,
+    "supplemental_rate": 0.065,
+    "supplemental_rate_verified": true,
     "citation_url": "https://www.marylandcomptroller.gov/content/dam/mdcomp/tax/legal-publications/alerts/tax-alert-changes-to-standard-and-itemized-deductions-and-to-state-and-local-income-tax-rates-from-the-2025-legislative-session.pdf",
     "notes": "Maryland state 2–6.5%. The 2025 session added a 6.25% bracket ($500,001–$1,000,000 single; $600,001–$1,200,000 joint) and a 6.50% bracket above that, for tax years beginning after December 31, 2024 (Comptroller Tax Alert). Counties add piggyback rates (see payroll_local_income_tax).",
-    "as_of": "2026-09-21"
+    "as_of": "2026-11-08",
+    "supplemental_source_url": "https://www.marylandcomptroller.gov/content/dam/mdcomp/tax/instructions/withholding/2025/Withholding-Guide.pdf",
+    "supplemental_note": "Maryland Employer Withholding Guide (Revised October 2025): \"For lump sum distribution of annual bonus, the withholding amount should be calculated at the highest State tax rate (6.50%), and the highest local tax rate for the county of residence\". supplemental_rate is the state portion only; add the county rate (the guide's combined lump-sum rates run 8.75% to 9.80%)."
   },
   {
     "year": 2025,
@@ -942,11 +1206,13 @@
     "flat_rate": null,
     "top_marginal": 0.0715,
     "bracket_summary": null,
-    "supplemental_rate": 0.0715,
-    "supplemental_rate_verified": false,
+    "supplemental_rate": null,
+    "supplemental_rate_verified": null,
     "citation_url": "https://www.maine.gov/revenue",
     "notes": "Maine top marginal 7.15%.",
-    "as_of": "2026-06-15"
+    "as_of": "2026-11-08",
+    "supplemental_source_url": null,
+    "supplemental_note": "Not verified: Maine Revenue Services' withholding tables and instructions could not be retrieved for this review. Use the state's regular withholding tables, or check its current withholding guide, for bonuses and other supplemental wages."
   },
   {
     "year": 2025,
@@ -956,10 +1222,12 @@
     "top_marginal": null,
     "bracket_summary": null,
     "supplemental_rate": 0.0425,
-    "supplemental_rate_verified": false,
+    "supplemental_rate_verified": true,
     "citation_url": "https://www.michigan.gov/treasury",
     "notes": "Michigan flat 4.25%.",
-    "as_of": "2026-06-15"
+    "as_of": "2026-11-08",
+    "supplemental_source_url": "https://www.michigan.gov/taxes/-/media/Project/Websites/taxes/Forms/SUW/TY2025/446_Withholding-Guide_2025.pdf",
+    "supplemental_note": "Michigan Income Tax Withholding Guide, Form 446 (Rev. 01-25): \"Bonuses and other payments of employee compensation made separately from regular payroll payments are subject to Michigan income tax withholding. The withholding amount equals the payment amount multiplied by 4.25 percent (0.0425).\""
   },
   {
     "year": 2025,
@@ -969,10 +1237,12 @@
     "top_marginal": 0.0985,
     "bracket_summary": null,
     "supplemental_rate": 0.0625,
-    "supplemental_rate_verified": false,
+    "supplemental_rate_verified": true,
     "citation_url": "https://www.revenue.state.mn.us/",
     "notes": "Minnesota top marginal 9.85%.",
-    "as_of": "2026-06-15"
+    "as_of": "2026-11-08",
+    "supplemental_source_url": "https://www.revenue.state.mn.us/sites/default/files/2024-12/wh-inst-25_0.pdf",
+    "supplemental_note": "2025 Minnesota Income Tax Withholding Instruction Booklet: \"Supplemental payments made to an employee separately from regular wages are subject to the 6.25% Minnesota withholding rate regardless of how many allowances employees claim.\""
   },
   {
     "year": 2025,
@@ -982,10 +1252,12 @@
     "top_marginal": 0.047,
     "bracket_summary": null,
     "supplemental_rate": 0.047,
-    "supplemental_rate_verified": false,
+    "supplemental_rate_verified": true,
     "citation_url": "https://dor.mo.gov/",
     "notes": "Missouri top marginal 4.7% in 2025 (reduced from 4.95%).",
-    "as_of": "2026-06-15"
+    "as_of": "2026-11-08",
+    "supplemental_source_url": "https://dor.mo.gov/forms/4282_2025.pdf",
+    "supplemental_note": "Missouri Employer's Tax Guide, Form 4282 (Revised 08-2025): \"Withhold a flat percentage rate of 4.7 percent of the ... supplemental wages.\" Optional, when the supplemental wages are paid separately and tax was withheld from regular wages; otherwise the aggregate method applies."
   },
   {
     "year": 2025,
@@ -998,7 +1270,9 @@
     "supplemental_rate_verified": null,
     "citation_url": "https://www.dor.ms.gov/general-information",
     "notes": "Mississippi 4.4% on taxable income over $10,000 for tax year 2025 (0% on the first $10,000); 4.7% was the 2024 rate. Falls to 4.0% in 2026 and 3.75% in 2027 (MS DOR).",
-    "as_of": "2026-09-21"
+    "as_of": "2026-11-08",
+    "supplemental_source_url": "https://www.dor.ms.gov/sites/default/files/business/89700241.pdf",
+    "supplemental_note": "No flat supplemental rate: the state withholds on supplemental wages with its regular tables or formula. Mississippi Withholding Tax Guidelines, Pub 89-700 (2025 tables): \"If supplemental wages, such as bonuses, commissions, or ... overtime pay, are paid at the same time as regular wages, the ... income tax to be withheld should be determined as if the total of\" the supplemental and regular wages were one payment. The only alternative is the employee's own top bracket rate."
   },
   {
     "year": 2025,
@@ -1007,11 +1281,13 @@
     "flat_rate": null,
     "top_marginal": 0.059,
     "bracket_summary": null,
-    "supplemental_rate": 0.059,
-    "supplemental_rate_verified": false,
+    "supplemental_rate": 0.05,
+    "supplemental_rate_verified": true,
     "citation_url": "https://mtrevenue.gov/",
     "notes": "Montana top marginal 5.9% (two-bracket structure as of 2024).",
-    "as_of": "2026-06-15"
+    "as_of": "2026-11-08",
+    "supplemental_source_url": "https://web.archive.org/web/20250930061933/https://revenuefiles.mt.gov/files/Forms/Montana_Employer_and_Information_Agent_Guide_with_Tax_Tables.pdf",
+    "supplemental_note": "Montana Employer and Information Agent Guide (V3, November 2024; archived copy of the official file): for supplemental wages paid separately the employer may withhold \"a flat 5 percent of the supplemental wage.\" Optional."
   },
   {
     "year": 2025,
@@ -1020,11 +1296,13 @@
     "flat_rate": 0.0425,
     "top_marginal": null,
     "bracket_summary": null,
-    "supplemental_rate": null,
-    "supplemental_rate_verified": null,
+    "supplemental_rate": 0.0435,
+    "supplemental_rate_verified": true,
     "citation_url": "https://www.ncdor.gov/taxes-forms/individual-income-tax/tax-rate-schedules",
     "notes": "North Carolina flat 4.25% for tax year 2025 (4.5% was the 2024 rate); 3.99% for 2026 and after (NCDOR tax rate schedules).",
-    "as_of": "2026-09-21"
+    "as_of": "2026-11-08",
+    "supplemental_source_url": "https://web.archive.org/web/20250119200633/https://www.ncdor.gov/income-tax-withholding-tables-and-instructions-employers/open",
+    "supplemental_note": "NC-30 2025 Income Tax Withholding Tables and Instructions for Employers (Web 11-24; archived copy of the official file): \"(a) Withhold a flat 4.35 percent, or\" use the aggregate method, when tax is withheld from the employee's regular wages."
   },
   {
     "year": 2025,
@@ -1033,11 +1311,13 @@
     "flat_rate": null,
     "top_marginal": 0.025,
     "bracket_summary": null,
-    "supplemental_rate": 0.025,
-    "supplemental_rate_verified": false,
+    "supplemental_rate": 0.015,
+    "supplemental_rate_verified": true,
     "citation_url": "https://www.tax.nd.gov/",
     "notes": "North Dakota top marginal 2.50% (lowest progressive).",
-    "as_of": "2026-06-15"
+    "as_of": "2026-11-08",
+    "supplemental_source_url": "https://www.tax.nd.gov/sites/www/files/documents/forms/business/it-withholding/income-tax-withholding-rates-and-instructions-book.pdf",
+    "supplemental_note": "North Dakota Income Tax Withholding Rates and Instructions for wages paid in 2025, supplemental wages separately paid or identified, Option 1: \"Multiply the supplemental wages by 1.50% (.0150).\" Option 2 is the aggregate method."
   },
   {
     "year": 2025,
@@ -1046,11 +1326,13 @@
     "flat_rate": null,
     "top_marginal": 0.052,
     "bracket_summary": null,
-    "supplemental_rate": 0.052,
-    "supplemental_rate_verified": false,
+    "supplemental_rate": 0.05,
+    "supplemental_rate_verified": true,
     "citation_url": "https://revenue.nebraska.gov/",
     "notes": "Nebraska top marginal 5.20% in 2025 (LB 873 transition toward flat 3.99%).",
-    "as_of": "2026-06-15"
+    "as_of": "2026-11-08",
+    "supplemental_source_url": "https://revenue.nebraska.gov/sites/default/files/doc/business/Cir_En_2024/2025cir_en_whole.pdf",
+    "supplemental_note": "2025 Nebraska Circular EN: for supplemental wages paid at a different time, \"The employer may also elect to withhold income tax on the supplemental wages by using a flat 5% withholding rate.\""
   },
   {
     "year": 2025,
@@ -1063,7 +1345,9 @@
     "supplemental_rate_verified": null,
     "citation_url": "https://www.revenue.nh.gov/",
     "notes": "New Hampshire's Interest & Dividends Tax was repealed effective 2025; no state wage tax.",
-    "as_of": "2026-06-15"
+    "as_of": "2026-06-15",
+    "supplemental_source_url": null,
+    "supplemental_note": null
   },
   {
     "year": 2025,
@@ -1072,11 +1356,13 @@
     "flat_rate": null,
     "top_marginal": 0.1075,
     "bracket_summary": null,
-    "supplemental_rate": 0.1075,
-    "supplemental_rate_verified": false,
+    "supplemental_rate": null,
+    "supplemental_rate_verified": null,
     "citation_url": "https://www.state.nj.us/treasury/taxation/",
     "notes": "New Jersey top marginal 10.75%.",
-    "as_of": "2026-06-15"
+    "as_of": "2026-11-08",
+    "supplemental_source_url": "https://www.nj.gov/treasury/taxation/pdf/current/njwt.pdf",
+    "supplemental_note": "No flat supplemental rate: the state withholds on supplemental wages with its regular tables or formula. NJ-WT New Jersey Income Tax Withholding Instructions (September 2025): \"If the supplemental wages are paid at a different time: • Withhold from the supplemental wages without any exemption allowances your employee takes on the NJ- W4.\""
   },
   {
     "year": 2025,
@@ -1086,10 +1372,12 @@
     "top_marginal": 0.059,
     "bracket_summary": null,
     "supplemental_rate": 0.059,
-    "supplemental_rate_verified": false,
+    "supplemental_rate_verified": true,
     "citation_url": "https://www.tax.newmexico.gov/",
     "notes": "New Mexico top marginal 5.9%.",
-    "as_of": "2026-06-15"
+    "as_of": "2026-11-08",
+    "supplemental_source_url": "https://realfile.tax.newmexico.gov/FYI-104_2025.pdf",
+    "supplemental_note": "FYI-104 New Mexico Withholding Tax (Rev. 11/2024): \"If the federal withholding is calculated using a flat percent, a flat 5.9% of the supplemental wage or fringe benefit amount should be withheld for state tax purposes.\" Otherwise follow the federal method."
   },
   {
     "year": 2025,
@@ -1102,7 +1390,9 @@
     "supplemental_rate_verified": null,
     "citation_url": "https://tax.nv.gov/",
     "notes": "Nevada has no state personal income tax.",
-    "as_of": "2026-06-15"
+    "as_of": "2026-06-15",
+    "supplemental_source_url": null,
+    "supplemental_note": null
   },
   {
     "year": 2025,
@@ -1112,10 +1402,12 @@
     "top_marginal": 0.109,
     "bracket_summary": null,
     "supplemental_rate": 0.117,
-    "supplemental_rate_verified": false,
+    "supplemental_rate_verified": true,
     "citation_url": "https://www.tax.ny.gov/",
     "notes": "New York top marginal 10.9% (millionaires' tax). NYC and Yonkers add separately — see payroll_local_income_tax.",
-    "as_of": "2026-06-15"
+    "as_of": "2026-11-08",
+    "supplemental_source_url": "https://www.tax.ny.gov/pdf/rulemaking/dec1421/nysyonkers2022/text.pdf",
+    "supplemental_note": "20 NYCRR 171.4, as amended for supplemental wages paid after December 31, 2021 (adopted rule text): an employer \"may withhold New York State personal income tax from the supplemental wages at a rate equal to the rate of New York State personal income tax to be withheld from the highest denominated taxable income\", 11.70 percent. State rate only."
   },
   {
     "year": 2025,
@@ -1124,11 +1416,13 @@
     "flat_rate": null,
     "top_marginal": 0.03125,
     "bracket_summary": null,
-    "supplemental_rate": 0.0275,
+    "supplemental_rate": 0.035,
     "supplemental_rate_verified": true,
     "citation_url": "https://codes.ohio.gov/ohio-revised-code/section-5747.02",
-    "notes": "Ohio top marginal 3.125% for tax year 2025 (income over $100,000; 2.75% from $26,050 to $100,000; nothing below) — ORC 5747.02(A)(3). 3.5% was the 2024 top rate. Supplemental withholding rate 2.75% under the tables effective 2025-10-01 (tax.ohio.gov employer withholding); the rate earlier in 2025 was not verified. Municipalities add separately — see payroll_local_income_tax.",
-    "as_of": "2026-09-21"
+    "notes": "Ohio top marginal 3.125% for tax year 2025 (income over $100,000; 2.75% from $26,050 to $100,000; nothing below) — ORC 5747.02(A)(3). 3.5% was the 2024 top rate. Municipalities add separately — see payroll_local_income_tax.",
+    "as_of": "2026-11-08",
+    "supplemental_source_url": "https://codes.ohio.gov/assets/laws/administrative-code/authenticated/5703/0/7/5703-7-10_20240203.pdf",
+    "supplemental_note": "Ohio Adm. Code 5703-7-10 (effective February 3, 2024, in force through 2025): employers withhold \"From its employees' supplemental compensation, subject to the tax imposed by Chapter 5747. of the Revised Code, at a flat rate of at least three and one-half per cent\". That is 3.5%, a required minimum."
   },
   {
     "year": 2025,
@@ -1138,10 +1432,12 @@
     "top_marginal": 0.0475,
     "bracket_summary": null,
     "supplemental_rate": 0.0475,
-    "supplemental_rate_verified": false,
+    "supplemental_rate_verified": true,
     "citation_url": "https://oklahoma.gov/tax.html",
     "notes": "Oklahoma top marginal 4.75%.",
-    "as_of": "2026-06-15"
+    "as_of": "2026-11-08",
+    "supplemental_source_url": "https://oklahoma.gov/content/dam/ok/en/tax/documents/resources/rules-and-policies/agency-rules/2026/Chapter90-Withholding-2026.pdf",
+    "supplemental_note": "Okla. Admin. Code 710:90-1-6(b)(1): if tax was withheld from regular wages, \"(A) Withhold at the highest applicable rate set out in 68 O.S. Section 2355(B)(1) for Oklahoma Income Taxes for the taxable year\", or use the aggregate method. The rule prints no number; 4.75% is the top rate in the 2025 OW-2 withholding tables."
   },
   {
     "year": 2025,
@@ -1151,10 +1447,12 @@
     "top_marginal": 0.099,
     "bracket_summary": null,
     "supplemental_rate": 0.08,
-    "supplemental_rate_verified": false,
+    "supplemental_rate_verified": true,
     "citation_url": "https://www.oregon.gov/dor",
     "notes": "Oregon top marginal 9.9%.",
-    "as_of": "2026-06-15"
+    "as_of": "2026-11-08",
+    "supplemental_source_url": "https://www.oregon.gov/dor/forms/FormsPubs/withholding-tax-formulas_206-436_2025.pdf",
+    "supplemental_note": "Oregon Withholding Tax Formulas, 150-206-436 (Rev. 12-10-24): \"Employers may use a 8 percent flat rate to figure withholding on supplemental wages that are paid at a different time than an employee's regular payday.\""
   },
   {
     "year": 2025,
@@ -1164,10 +1462,12 @@
     "top_marginal": null,
     "bracket_summary": null,
     "supplemental_rate": 0.0307,
-    "supplemental_rate_verified": false,
+    "supplemental_rate_verified": true,
     "citation_url": "https://www.revenue.pa.gov/",
     "notes": "Pennsylvania flat 3.07% (long-standing). Local EIT/LST add separately — see payroll_local_income_tax.",
-    "as_of": "2026-06-15"
+    "as_of": "2026-11-08",
+    "supplemental_source_url": "https://www.pa.gov/content/dam/copapwp-pagov/en/revenue/documents/formsandpublications/formsforbusinesses/employerwithholding/documents/rev-415.pdf",
+    "supplemental_note": "REV-415 Employer Withholding Information Guide (01-23): \"If an employee receives supplemental or other com- pensation, an employer must determine the tax to withhold by adding the supplemental or other compensation for the current payroll period and multiplying this amount by the withholding rate.\" Pennsylvania has one flat rate, 3.07%, for all compensation."
   },
   {
     "year": 2025,
@@ -1177,10 +1477,12 @@
     "top_marginal": 0.0599,
     "bracket_summary": null,
     "supplemental_rate": 0.0599,
-    "supplemental_rate_verified": false,
+    "supplemental_rate_verified": true,
     "citation_url": "https://tax.ri.gov/",
     "notes": "Rhode Island top marginal 5.99%.",
-    "as_of": "2026-06-15"
+    "as_of": "2026-11-08",
+    "supplemental_source_url": "https://tax.ri.gov/sites/g/files/xkgbur541/files/2024-11/2025%20Withholding%20Tax%20Booklet_d.pdf",
+    "supplemental_note": "2025 Rhode Island Employer's Income Tax Withholding Tables: \"The Supplemental withholding rate is 5.99%.\""
   },
   {
     "year": 2025,
@@ -1189,11 +1491,13 @@
     "flat_rate": null,
     "top_marginal": 0.062,
     "bracket_summary": null,
-    "supplemental_rate": 0.062,
-    "supplemental_rate_verified": false,
+    "supplemental_rate": null,
+    "supplemental_rate_verified": null,
     "citation_url": "https://dor.sc.gov/",
     "notes": "South Carolina top marginal 6.2% in 2025 (reduced from 7%).",
-    "as_of": "2026-06-15"
+    "as_of": "2026-11-08",
+    "supplemental_source_url": null,
+    "supplemental_note": "Not verified: the South Carolina withholding formula (WH-1603F, 2025) and guide say nothing about supplemental wages. Use the state's regular withholding tables, or check its current withholding guide, for bonuses and other supplemental wages."
   },
   {
     "year": 2025,
@@ -1206,7 +1510,9 @@
     "supplemental_rate_verified": null,
     "citation_url": "https://dor.sd.gov/",
     "notes": "South Dakota has no state personal income tax.",
-    "as_of": "2026-06-15"
+    "as_of": "2026-06-15",
+    "supplemental_source_url": null,
+    "supplemental_note": null
   },
   {
     "year": 2025,
@@ -1219,7 +1525,9 @@
     "supplemental_rate_verified": null,
     "citation_url": "https://www.tn.gov/revenue.html",
     "notes": "Tennessee has no state personal income tax (Hall tax repealed 2021).",
-    "as_of": "2026-06-15"
+    "as_of": "2026-06-15",
+    "supplemental_source_url": null,
+    "supplemental_note": null
   },
   {
     "year": 2025,
@@ -1232,7 +1540,9 @@
     "supplemental_rate_verified": null,
     "citation_url": "https://comptroller.texas.gov/",
     "notes": "Texas has no state personal income tax.",
-    "as_of": "2026-06-15"
+    "as_of": "2026-06-15",
+    "supplemental_source_url": null,
+    "supplemental_note": null
   },
   {
     "year": 2025,
@@ -1245,7 +1555,9 @@
     "supplemental_rate_verified": null,
     "citation_url": "https://incometax.utah.gov/paying/tax-rates",
     "notes": "Utah flat 4.5% for tax year 2025 (4.55% was the 2024 rate) — Utah State Tax Commission tax rates.",
-    "as_of": "2026-09-21"
+    "as_of": "2026-11-08",
+    "supplemental_source_url": null,
+    "supplemental_note": "Not verified: Utah Publication 14 (2025) says nothing about supplemental wages. Use the state's regular withholding tables, or check its current withholding guide, for bonuses and other supplemental wages."
   },
   {
     "year": 2025,
@@ -1255,10 +1567,12 @@
     "top_marginal": 0.0575,
     "bracket_summary": null,
     "supplemental_rate": 0.0575,
-    "supplemental_rate_verified": false,
+    "supplemental_rate_verified": true,
     "citation_url": "https://www.tax.virginia.gov/",
     "notes": "Virginia top marginal 5.75%.",
-    "as_of": "2026-06-15"
+    "as_of": "2026-11-08",
+    "supplemental_source_url": "https://web.archive.org/web/20250708173041/https://www.tax.virginia.gov/sites/default/files/vatax-pdf/employer-withholding-instructions.pdf",
+    "supplemental_note": "Virginia Income Tax Withholding Guide for Employers (Rev. 05/25; archived copy of the official file): \"if supplemental wage payments are paid and tax has been withheld from the employee's regular wages, the employer may determine the tax to be withheld by using a flat percentage rate of 5.75%, without allowance for exemption and without reference to any regular payment of wages.\" Optional."
   },
   {
     "year": 2025,
@@ -1267,11 +1581,13 @@
     "flat_rate": null,
     "top_marginal": 0.0875,
     "bracket_summary": null,
-    "supplemental_rate": 0.0875,
-    "supplemental_rate_verified": false,
+    "supplemental_rate": null,
+    "supplemental_rate_verified": null,
     "citation_url": "https://tax.vermont.gov/",
     "notes": "Vermont top marginal 8.75%.",
-    "as_of": "2026-06-15"
+    "as_of": "2026-11-08",
+    "supplemental_source_url": "https://tax.vermont.gov/sites/tax/files/documents/GB-1210-2025.pdf",
+    "supplemental_note": "No flat supplemental rate on wages. Vermont GB-1210 (2025): \"For non- periodic payments, the Vermont withholding can be estimated at 30% of the federal withholding.\" That is a share of the federal amount, not a percentage of the payment."
   },
   {
     "year": 2025,
@@ -1284,7 +1600,9 @@
     "supplemental_rate_verified": null,
     "citation_url": "https://dor.wa.gov/",
     "notes": "Washington has no state personal income tax (capital-gains tax only).",
-    "as_of": "2026-06-15"
+    "as_of": "2026-06-15",
+    "supplemental_source_url": null,
+    "supplemental_note": null
   },
   {
     "year": 2025,
@@ -1293,11 +1611,13 @@
     "flat_rate": null,
     "top_marginal": 0.0765,
     "bracket_summary": null,
-    "supplemental_rate": 0.0765,
-    "supplemental_rate_verified": false,
+    "supplemental_rate": null,
+    "supplemental_rate_verified": null,
     "citation_url": "https://www.revenue.wi.gov/",
     "notes": "Wisconsin top marginal 7.65%.",
-    "as_of": "2026-06-15"
+    "as_of": "2026-11-08",
+    "supplemental_source_url": "https://web.archive.org/web/20250217093723/https://www.revenue.wi.gov/DOR%20Publications/pb166.pdf",
+    "supplemental_note": "No single supplemental rate. Wisconsin Publication W-166 (6/24; archived copy of the official file): \"the withholding on supplemental wage payments may be determined by estimating the employee's annual gross salary and applying flat percentages to the supplemental payments.\" The rate depends on the salary bracket: 3.54%, 4.65%, 5.30% or 7.65%."
   },
   {
     "year": 2025,
@@ -1306,11 +1626,13 @@
     "flat_rate": null,
     "top_marginal": 0.0482,
     "bracket_summary": null,
-    "supplemental_rate": 0.0482,
-    "supplemental_rate_verified": false,
+    "supplemental_rate": null,
+    "supplemental_rate_verified": null,
     "citation_url": "https://tax.wv.gov/",
     "notes": "West Virginia top marginal 4.82% in 2025 (reduced from 6.5%).",
-    "as_of": "2026-06-15"
+    "as_of": "2026-11-08",
+    "supplemental_source_url": "https://web.archive.org/web/20251001234738/https://tax.wv.gov/Business/Withholding/HelpAndGeneralInformation/Pages/WithholdingHelpAndGeneralInformation.aspx",
+    "supplemental_note": "No flat supplemental rate: the state withholds on supplemental wages with its regular tables or formula. West Virginia Tax Division, Withholding Help: \"Supplemental payments would then be the excess of that using the annual table as published by the Tax Division.\""
   },
   {
     "year": 2025,
@@ -1323,6 +1645,8 @@
     "supplemental_rate_verified": null,
     "citation_url": "https://revenue.wyo.gov/",
     "notes": "Wyoming has no state personal income tax.",
-    "as_of": "2026-06-15"
+    "as_of": "2026-06-15",
+    "supplemental_source_url": null,
+    "supplemental_note": null
   }
 ]
