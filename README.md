@@ -1,5 +1,7 @@
 # TaxLocus Open Sales-Tax Dataset
 
+[![Taxlocus MCP server](https://mcprush.com/badge/taxlocus-mcp/card.svg)](https://mcprush.com/to/taxlocus-mcp?ref=badge)
+
 Free, weekly-updated US sales-tax **rate tables** — the flat data behind
 [TaxLocus](https://taxlocus.com), released as an open dataset for the community.
 
