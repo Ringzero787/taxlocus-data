@@ -3090,6 +3090,482 @@
     "retrieved_at": "2026-10-22"
   },
   {
+    "state": "DE",
+    "category": "clothing.accessories",
+    "category_description": "Handbags, belts, jewelry, watches.",
+    "taxable": false,
+    "treatment": "exempt",
+    "conditions": {
+      "note": "Delaware has no state or local sales tax, so no sales tax applies. Delaware's gross receipts tax is paid by the seller, not charged to the buyer.",
+      "no_sales_tax": true
+    },
+    "effective_date": "2024-01-01",
+    "source_url": "https://firststeps.delaware.gov/why-delaware/",
+    "retrieved_at": "2026-11-10"
+  },
+  {
+    "state": "DE",
+    "category": "clothing.athletic",
+    "category_description": "Sports and performance apparel; team uniforms; non-protective athletic gear.",
+    "taxable": false,
+    "treatment": "exempt",
+    "conditions": {
+      "note": "Delaware has no state or local sales tax, so no sales tax applies. Delaware's gross receipts tax is paid by the seller, not charged to the buyer.",
+      "no_sales_tax": true
+    },
+    "effective_date": "2024-01-01",
+    "source_url": "https://firststeps.delaware.gov/why-delaware/",
+    "retrieved_at": "2026-11-10"
+  },
+  {
+    "state": "DE",
+    "category": "clothing.formal",
+    "category_description": "Suits, gowns, ties, dress shirts not for everyday wear.",
+    "taxable": false,
+    "treatment": "exempt",
+    "conditions": {
+      "note": "Delaware has no state or local sales tax, so no sales tax applies. Delaware's gross receipts tax is paid by the seller, not charged to the buyer.",
+      "no_sales_tax": true
+    },
+    "effective_date": "2024-01-01",
+    "source_url": "https://firststeps.delaware.gov/why-delaware/",
+    "retrieved_at": "2026-11-10"
+  },
+  {
+    "state": "DE",
+    "category": "clothing.general",
+    "category_description": "Everyday wearing apparel and footwear: t-shirts, jeans, dresses, jackets, hats, costumes. Not belts, bags or jewelry (clothing.accessories), sportswear (clothing.athletic), formal wear (clothing.formal) or safety gear (clothing.protective), and never a non-clothing item.",
+    "taxable": false,
+    "treatment": "exempt",
+    "conditions": {
+      "note": "Delaware has no state or local sales tax, so no sales tax applies. Delaware's gross receipts tax is paid by the seller, not charged to the buyer.",
+      "no_sales_tax": true
+    },
+    "effective_date": "2024-01-01",
+    "source_url": "https://firststeps.delaware.gov/why-delaware/",
+    "retrieved_at": "2026-11-10"
+  },
+  {
+    "state": "DE",
+    "category": "clothing.protective",
+    "category_description": "Helmets, safety boots, protective work gear, hazard equipment.",
+    "taxable": false,
+    "treatment": "exempt",
+    "conditions": {
+      "note": "Delaware has no state or local sales tax, so no sales tax applies. Delaware's gross receipts tax is paid by the seller, not charged to the buyer.",
+      "no_sales_tax": true
+    },
+    "effective_date": "2024-01-01",
+    "source_url": "https://firststeps.delaware.gov/why-delaware/",
+    "retrieved_at": "2026-11-10"
+  },
+  {
+    "state": "DE",
+    "category": "digital.download",
+    "category_description": "Digital media the buyer downloads and keeps: e-books, music and audiobooks, movies, digital art and video games. Downloaded application software (apps, desktop programs, installers) is software.prewritten.",
+    "taxable": false,
+    "treatment": "exempt",
+    "conditions": {
+      "note": "Delaware has no state or local sales tax, so no sales tax applies. Delaware's gross receipts tax is paid by the seller, not charged to the buyer.",
+      "no_sales_tax": true
+    },
+    "effective_date": "2024-01-01",
+    "source_url": "https://firststeps.delaware.gov/why-delaware/",
+    "retrieved_at": "2026-11-10"
+  },
+  {
+    "state": "DE",
+    "category": "digital.streaming",
+    "category_description": "Streaming of video, music or games with no permanent copy, usually by subscription: video and music streaming services, cloud gaming, on-demand video.",
+    "taxable": false,
+    "treatment": "exempt",
+    "conditions": {
+      "note": "Delaware has no state or local sales tax, so no sales tax applies. Delaware's gross receipts tax is paid by the seller, not charged to the buyer.",
+      "no_sales_tax": true
+    },
+    "effective_date": "2024-01-01",
+    "source_url": "https://firststeps.delaware.gov/why-delaware/",
+    "retrieved_at": "2026-11-10"
+  },
+  {
+    "state": "DE",
+    "category": "food.bottled_water",
+    "category_description": "Plain, still, unsweetened, unflavored bottled drinking water (spring, mineral, distilled, or purified) sold in a sealed retail container. Excludes flavored, sweetened, or carbonated water, which is taxed as a soft drink under food.soft_drinks.",
+    "taxable": false,
+    "treatment": "exempt",
+    "conditions": {
+      "note": "Delaware has no state or local sales tax, so no sales tax applies. Delaware's gross receipts tax is paid by the seller, not charged to the buyer.",
+      "no_sales_tax": true
+    },
+    "effective_date": "2024-01-01",
+    "source_url": "https://firststeps.delaware.gov/why-delaware/",
+    "retrieved_at": "2026-11-10"
+  },
+  {
+    "state": "DE",
+    "category": "food.candy",
+    "category_description": "Candy and confectionery: chocolate, gum, mints, hard and gummy candy, candy-coated nuts or fruit. Excludes items made with flour or that need refrigeration, such as cookies, granola bars and most licorice, which are groceries (food.grocery).",
+    "taxable": false,
+    "treatment": "exempt",
+    "conditions": {
+      "note": "Delaware has no state or local sales tax, so no sales tax applies. Delaware's gross receipts tax is paid by the seller, not charged to the buyer.",
+      "no_sales_tax": true
+    },
+    "effective_date": "2024-01-01",
+    "source_url": "https://firststeps.delaware.gov/why-delaware/",
+    "retrieved_at": "2026-11-10"
+  },
+  {
+    "state": "DE",
+    "category": "food.dietary_supplements",
+    "category_description": "Vitamins, minerals, herbs, protein powders and other products sold with a Supplement Facts label. Products with a Nutrition Facts label are food; products with a Drug Facts label are medical.otc.",
+    "taxable": false,
+    "treatment": "exempt",
+    "conditions": {
+      "note": "Delaware has no state or local sales tax, so no sales tax applies. Delaware's gross receipts tax is paid by the seller, not charged to the buyer.",
+      "no_sales_tax": true
+    },
+    "effective_date": "2024-01-01",
+    "source_url": "https://firststeps.delaware.gov/why-delaware/",
+    "retrieved_at": "2026-11-10"
+  },
+  {
+    "state": "DE",
+    "category": "food.grocery",
+    "category_description": "Unprepared groceries; staples; produce; meat; dairy.",
+    "taxable": false,
+    "treatment": "exempt",
+    "conditions": {
+      "note": "Delaware has no state or local sales tax, so no sales tax applies. Delaware's gross receipts tax is paid by the seller, not charged to the buyer.",
+      "no_sales_tax": true
+    },
+    "effective_date": "2024-01-01",
+    "source_url": "https://firststeps.delaware.gov/why-delaware/",
+    "retrieved_at": "2026-11-10"
+  },
+  {
+    "state": "DE",
+    "category": "food.prepared",
+    "category_description": "Restaurant meals, takeout, food sold for immediate consumption.",
+    "taxable": false,
+    "treatment": "exempt",
+    "conditions": {
+      "note": "Delaware has no state or local sales tax, so no sales tax applies. Delaware's gross receipts tax is paid by the seller, not charged to the buyer.",
+      "no_sales_tax": true
+    },
+    "effective_date": "2024-01-01",
+    "source_url": "https://firststeps.delaware.gov/why-delaware/",
+    "retrieved_at": "2026-11-10"
+  },
+  {
+    "state": "DE",
+    "category": "food.soft_drinks",
+    "category_description": "Non-alcoholic beverages with natural or artificial sweeteners, and flavored or carbonated water: soda, sweetened tea, energy drinks, sports drinks. Excludes drinks with milk or milk substitutes, or over 50% fruit or vegetable juice, which are groceries (food.grocery).",
+    "taxable": false,
+    "treatment": "exempt",
+    "conditions": {
+      "note": "Delaware has no state or local sales tax, so no sales tax applies. Delaware's gross receipts tax is paid by the seller, not charged to the buyer.",
+      "no_sales_tax": true
+    },
+    "effective_date": "2024-01-01",
+    "source_url": "https://firststeps.delaware.gov/why-delaware/",
+    "retrieved_at": "2026-11-10"
+  },
+  {
+    "state": "DE",
+    "category": "goods.electronics",
+    "category_description": "Consumer electronics and their accessories: computers, phones, tablets, TVs, cameras, headphones, smart home devices, cables and chargers.",
+    "taxable": false,
+    "treatment": "exempt",
+    "conditions": {
+      "note": "Delaware has no state or local sales tax, so no sales tax applies. Delaware's gross receipts tax is paid by the seller, not charged to the buyer.",
+      "no_sales_tax": true
+    },
+    "effective_date": "2024-01-01",
+    "source_url": "https://firststeps.delaware.gov/why-delaware/",
+    "retrieved_at": "2026-11-10"
+  },
+  {
+    "state": "DE",
+    "category": "goods.furniture",
+    "category_description": "Furniture and home furnishings: tables, chairs, sofas, beds, mattresses, desks, shelving and office furniture.",
+    "taxable": false,
+    "treatment": "exempt",
+    "conditions": {
+      "note": "Delaware has no state or local sales tax, so no sales tax applies. Delaware's gross receipts tax is paid by the seller, not charged to the buyer.",
+      "no_sales_tax": true
+    },
+    "effective_date": "2024-01-01",
+    "source_url": "https://firststeps.delaware.gov/why-delaware/",
+    "retrieved_at": "2026-11-10"
+  },
+  {
+    "state": "DE",
+    "category": "goods.general",
+    "category_description": "General merchandise: any physical product with no more specific category, such as housewares, toys, sporting goods, tools, decor, cosmetics, toiletries, pet supplies and gifts. Use this for a tangible item, or a generic retail or merchandise line, when no other category fits.",
+    "taxable": false,
+    "treatment": "exempt",
+    "conditions": {
+      "note": "Delaware has no state or local sales tax, so no sales tax applies. Delaware's gross receipts tax is paid by the seller, not charged to the buyer.",
+      "no_sales_tax": true
+    },
+    "effective_date": "2024-01-01",
+    "source_url": "https://firststeps.delaware.gov/why-delaware/",
+    "retrieved_at": "2026-11-10"
+  },
+  {
+    "state": "DE",
+    "category": "hygiene.diapers",
+    "category_description": "Infant/baby diapers and adult incontinence products (briefs, liners, underpads), cloth or disposable.",
+    "taxable": false,
+    "treatment": "exempt",
+    "conditions": {
+      "note": "Delaware has no state or local sales tax, so no sales tax applies. Delaware's gross receipts tax is paid by the seller, not charged to the buyer.",
+      "no_sales_tax": true
+    },
+    "effective_date": "2024-01-01",
+    "source_url": "https://firststeps.delaware.gov/why-delaware/",
+    "retrieved_at": "2026-11-10"
+  },
+  {
+    "state": "DE",
+    "category": "hygiene.menstrual",
+    "category_description": "Menstrual and feminine hygiene products: tampons, sanitary pads, pantyliners, menstrual cups, and period underwear.",
+    "taxable": false,
+    "treatment": "exempt",
+    "conditions": {
+      "note": "Delaware has no state or local sales tax, so no sales tax applies. Delaware's gross receipts tax is paid by the seller, not charged to the buyer.",
+      "no_sales_tax": true
+    },
+    "effective_date": "2024-01-01",
+    "source_url": "https://firststeps.delaware.gov/why-delaware/",
+    "retrieved_at": "2026-11-10"
+  },
+  {
+    "state": "DE",
+    "category": "medical.equipment",
+    "category_description": "Wheelchairs, hearing aids, prosthetics, durable medical equipment.",
+    "taxable": false,
+    "treatment": "exempt",
+    "conditions": {
+      "note": "Delaware has no state or local sales tax, so no sales tax applies. Delaware's gross receipts tax is paid by the seller, not charged to the buyer.",
+      "no_sales_tax": true
+    },
+    "effective_date": "2024-01-01",
+    "source_url": "https://firststeps.delaware.gov/why-delaware/",
+    "retrieved_at": "2026-11-10"
+  },
+  {
+    "state": "DE",
+    "category": "medical.otc",
+    "category_description": "Over-the-counter drugs sold with a Drug Facts label: pain relievers, cold and allergy medicine, antacids, medicated creams, sunscreen. Products with a Supplement Facts label are food.dietary_supplements.",
+    "taxable": false,
+    "treatment": "exempt",
+    "conditions": {
+      "note": "Delaware has no state or local sales tax, so no sales tax applies. Delaware's gross receipts tax is paid by the seller, not charged to the buyer.",
+      "no_sales_tax": true
+    },
+    "effective_date": "2024-01-01",
+    "source_url": "https://firststeps.delaware.gov/why-delaware/",
+    "retrieved_at": "2026-11-10"
+  },
+  {
+    "state": "DE",
+    "category": "medical.rx",
+    "category_description": "Prescription drugs (typically exempt nationwide).",
+    "taxable": false,
+    "treatment": "exempt",
+    "conditions": {
+      "note": "Delaware has no state or local sales tax, so no sales tax applies. Delaware's gross receipts tax is paid by the seller, not charged to the buyer.",
+      "no_sales_tax": true
+    },
+    "effective_date": "2024-01-01",
+    "source_url": "https://firststeps.delaware.gov/why-delaware/",
+    "retrieved_at": "2026-11-10"
+  },
+  {
+    "state": "DE",
+    "category": "publications.books",
+    "category_description": "Printed books for general readers: fiction, non-fiction, cookbooks, children's books. E-books and audiobooks are digital.download; required course textbooks are publications.textbooks.",
+    "taxable": false,
+    "treatment": "exempt",
+    "conditions": {
+      "note": "Delaware has no state or local sales tax, so no sales tax applies. Delaware's gross receipts tax is paid by the seller, not charged to the buyer.",
+      "no_sales_tax": true
+    },
+    "effective_date": "2024-01-01",
+    "source_url": "https://firststeps.delaware.gov/why-delaware/",
+    "retrieved_at": "2026-11-10"
+  },
+  {
+    "state": "DE",
+    "category": "publications.magazines",
+    "category_description": "Printed magazines and periodicals, single copies or subscriptions.",
+    "taxable": false,
+    "treatment": "exempt",
+    "conditions": {
+      "note": "Delaware has no state or local sales tax, so no sales tax applies. Delaware's gross receipts tax is paid by the seller, not charged to the buyer.",
+      "no_sales_tax": true
+    },
+    "effective_date": "2024-01-01",
+    "source_url": "https://firststeps.delaware.gov/why-delaware/",
+    "retrieved_at": "2026-11-10"
+  },
+  {
+    "state": "DE",
+    "category": "publications.newspapers",
+    "category_description": "Printed newspapers, single copies or subscriptions.",
+    "taxable": false,
+    "treatment": "exempt",
+    "conditions": {
+      "note": "Delaware has no state or local sales tax, so no sales tax applies. Delaware's gross receipts tax is paid by the seller, not charged to the buyer.",
+      "no_sales_tax": true
+    },
+    "effective_date": "2024-01-01",
+    "source_url": "https://firststeps.delaware.gov/why-delaware/",
+    "retrieved_at": "2026-11-10"
+  },
+  {
+    "state": "DE",
+    "category": "publications.textbooks",
+    "category_description": "Required course and college textbooks, printed or digital, as distinct from general trade books. Many states exempt these only when sold by a school or to an enrolled student.",
+    "taxable": false,
+    "treatment": "exempt",
+    "conditions": {
+      "note": "Delaware has no state or local sales tax, so no sales tax applies. Delaware's gross receipts tax is paid by the seller, not charged to the buyer.",
+      "no_sales_tax": true
+    },
+    "effective_date": "2024-01-01",
+    "source_url": "https://firststeps.delaware.gov/why-delaware/",
+    "retrieved_at": "2026-11-10"
+  },
+  {
+    "state": "DE",
+    "category": "services.ai_api",
+    "category_description": "Metered access to AI models through an API, billed per token, request or compute unit.",
+    "taxable": false,
+    "treatment": "exempt",
+    "conditions": {
+      "note": "Delaware has no state or local sales tax, so no sales tax applies. Delaware's gross receipts tax is paid by the seller, not charged to the buyer.",
+      "no_sales_tax": true
+    },
+    "effective_date": "2024-01-01",
+    "source_url": "https://firststeps.delaware.gov/why-delaware/",
+    "retrieved_at": "2026-11-10"
+  },
+  {
+    "state": "DE",
+    "category": "services.data_processing",
+    "category_description": "Data processing and information services: collecting, storing, processing or retrieving data for a customer, data feeds, credit reports, payroll processing, online storage.",
+    "taxable": false,
+    "treatment": "exempt",
+    "conditions": {
+      "note": "Delaware has no state or local sales tax, so no sales tax applies. Delaware's gross receipts tax is paid by the seller, not charged to the buyer.",
+      "no_sales_tax": true
+    },
+    "effective_date": "2024-01-01",
+    "source_url": "https://firststeps.delaware.gov/why-delaware/",
+    "retrieved_at": "2026-11-10"
+  },
+  {
+    "state": "DE",
+    "category": "services.personal_care",
+    "category_description": "Services performed on a person: haircuts, salon and spa services, massage, nails, tanning, tattooing.",
+    "taxable": false,
+    "treatment": "exempt",
+    "conditions": {
+      "note": "Delaware has no state or local sales tax, so no sales tax applies. Delaware's gross receipts tax is paid by the seller, not charged to the buyer.",
+      "no_sales_tax": true
+    },
+    "effective_date": "2024-01-01",
+    "source_url": "https://firststeps.delaware.gov/why-delaware/",
+    "retrieved_at": "2026-11-10"
+  },
+  {
+    "state": "DE",
+    "category": "services.professional",
+    "category_description": "Professional services where the customer buys expertise or advice rather than a product: legal, accounting, bookkeeping, consulting, design, engineering, marketing, implementation and training.",
+    "taxable": false,
+    "treatment": "exempt",
+    "conditions": {
+      "note": "Delaware has no state or local sales tax, so no sales tax applies. Delaware's gross receipts tax is paid by the seller, not charged to the buyer.",
+      "no_sales_tax": true
+    },
+    "effective_date": "2024-01-01",
+    "source_url": "https://firststeps.delaware.gov/why-delaware/",
+    "retrieved_at": "2026-11-10"
+  },
+  {
+    "state": "DE",
+    "category": "services.repair",
+    "category_description": "Labor to repair, maintain or install tangible property: appliance, vehicle, electronics and equipment repair, servicing and maintenance.",
+    "taxable": false,
+    "treatment": "exempt",
+    "conditions": {
+      "note": "Delaware has no state or local sales tax, so no sales tax applies. Delaware's gross receipts tax is paid by the seller, not charged to the buyer.",
+      "no_sales_tax": true
+    },
+    "effective_date": "2024-01-01",
+    "source_url": "https://firststeps.delaware.gov/why-delaware/",
+    "retrieved_at": "2026-11-10"
+  },
+  {
+    "state": "DE",
+    "category": "services.web_hosting",
+    "category_description": "Web hosting and related infrastructure: website hosting, domain registration, server and storage space, website plans billed as hosting.",
+    "taxable": false,
+    "treatment": "exempt",
+    "conditions": {
+      "note": "Delaware has no state or local sales tax, so no sales tax applies. Delaware's gross receipts tax is paid by the seller, not charged to the buyer.",
+      "no_sales_tax": true
+    },
+    "effective_date": "2024-01-01",
+    "source_url": "https://firststeps.delaware.gov/why-delaware/",
+    "retrieved_at": "2026-11-10"
+  },
+  {
+    "state": "DE",
+    "category": "software.custom",
+    "category_description": "Software written for one specific customer to its own specifications. Off-the-shelf software configured for a customer is not custom.",
+    "taxable": false,
+    "treatment": "exempt",
+    "conditions": {
+      "note": "Delaware has no state or local sales tax, so no sales tax applies. Delaware's gross receipts tax is paid by the seller, not charged to the buyer.",
+      "no_sales_tax": true
+    },
+    "effective_date": "2024-01-01",
+    "source_url": "https://firststeps.delaware.gov/why-delaware/",
+    "retrieved_at": "2026-11-10"
+  },
+  {
+    "state": "DE",
+    "category": "software.prewritten",
+    "category_description": "Off-the-shelf (canned) software the customer installs: downloaded programs and apps, software on disc, operating systems, and licences or updates for installed software.",
+    "taxable": false,
+    "treatment": "exempt",
+    "conditions": {
+      "note": "Delaware has no state or local sales tax, so no sales tax applies. Delaware's gross receipts tax is paid by the seller, not charged to the buyer.",
+      "no_sales_tax": true
+    },
+    "effective_date": "2024-01-01",
+    "source_url": "https://firststeps.delaware.gov/why-delaware/",
+    "retrieved_at": "2026-11-10"
+  },
+  {
+    "state": "DE",
+    "category": "software.saas",
+    "category_description": "Software as a Service: off-the-shelf software the customer uses over the internet without installing a copy, usually by subscription. Includes web apps and online platforms.",
+    "taxable": false,
+    "treatment": "exempt",
+    "conditions": {
+      "note": "Delaware has no state or local sales tax, so no sales tax applies. Delaware's gross receipts tax is paid by the seller, not charged to the buyer.",
+      "no_sales_tax": true
+    },
+    "effective_date": "2024-01-01",
+    "source_url": "https://firststeps.delaware.gov/why-delaware/",
+    "retrieved_at": "2026-11-10"
+  },
+  {
     "state": "FL",
     "category": "clothing.accessories",
     "category_description": "Handbags, belts, jewelry, watches.",
@@ -10386,6 +10862,492 @@
     "retrieved_at": "2026-11-08"
   },
   {
+    "state": "MT",
+    "category": "clothing.accessories",
+    "category_description": "Handbags, belts, jewelry, watches.",
+    "taxable": false,
+    "treatment": "exempt",
+    "conditions": {
+      "note": "Montana has no state or local general sales tax, so no sales tax applies.",
+      "caveat": "Some Montana resort towns and areas (Whitefish, Big Sky, West Yellowstone and others) levy a local resort tax of up to 3% on lodging, restaurant food and drinks, and luxuries sold there. It is not calculated here.",
+      "no_sales_tax": true
+    },
+    "effective_date": "2024-01-01",
+    "source_url": "https://revenuefiles.mt.gov/taxes/general-sales-tax",
+    "retrieved_at": "2026-11-10"
+  },
+  {
+    "state": "MT",
+    "category": "clothing.athletic",
+    "category_description": "Sports and performance apparel; team uniforms; non-protective athletic gear.",
+    "taxable": false,
+    "treatment": "exempt",
+    "conditions": {
+      "note": "Montana has no state or local general sales tax, so no sales tax applies.",
+      "caveat": "Some Montana resort towns and areas (Whitefish, Big Sky, West Yellowstone and others) levy a local resort tax of up to 3% on lodging, restaurant food and drinks, and luxuries sold there. It is not calculated here.",
+      "no_sales_tax": true
+    },
+    "effective_date": "2024-01-01",
+    "source_url": "https://revenuefiles.mt.gov/taxes/general-sales-tax",
+    "retrieved_at": "2026-11-10"
+  },
+  {
+    "state": "MT",
+    "category": "clothing.formal",
+    "category_description": "Suits, gowns, ties, dress shirts not for everyday wear.",
+    "taxable": false,
+    "treatment": "exempt",
+    "conditions": {
+      "note": "Montana has no state or local general sales tax, so no sales tax applies.",
+      "caveat": "Some Montana resort towns and areas (Whitefish, Big Sky, West Yellowstone and others) levy a local resort tax of up to 3% on lodging, restaurant food and drinks, and luxuries sold there. It is not calculated here.",
+      "no_sales_tax": true
+    },
+    "effective_date": "2024-01-01",
+    "source_url": "https://revenuefiles.mt.gov/taxes/general-sales-tax",
+    "retrieved_at": "2026-11-10"
+  },
+  {
+    "state": "MT",
+    "category": "clothing.general",
+    "category_description": "Everyday wearing apparel and footwear: t-shirts, jeans, dresses, jackets, hats, costumes. Not belts, bags or jewelry (clothing.accessories), sportswear (clothing.athletic), formal wear (clothing.formal) or safety gear (clothing.protective), and never a non-clothing item.",
+    "taxable": false,
+    "treatment": "exempt",
+    "conditions": {
+      "note": "Montana has no state or local general sales tax, so no sales tax applies.",
+      "caveat": "Some Montana resort towns and areas (Whitefish, Big Sky, West Yellowstone and others) levy a local resort tax of up to 3% on lodging, restaurant food and drinks, and luxuries sold there. It is not calculated here.",
+      "no_sales_tax": true
+    },
+    "effective_date": "2024-01-01",
+    "source_url": "https://revenuefiles.mt.gov/taxes/general-sales-tax",
+    "retrieved_at": "2026-11-10"
+  },
+  {
+    "state": "MT",
+    "category": "clothing.protective",
+    "category_description": "Helmets, safety boots, protective work gear, hazard equipment.",
+    "taxable": false,
+    "treatment": "exempt",
+    "conditions": {
+      "note": "Montana has no state or local general sales tax, so no sales tax applies.",
+      "no_sales_tax": true
+    },
+    "effective_date": "2024-01-01",
+    "source_url": "https://revenuefiles.mt.gov/taxes/general-sales-tax",
+    "retrieved_at": "2026-11-10"
+  },
+  {
+    "state": "MT",
+    "category": "digital.download",
+    "category_description": "Digital media the buyer downloads and keeps: e-books, music and audiobooks, movies, digital art and video games. Downloaded application software (apps, desktop programs, installers) is software.prewritten.",
+    "taxable": false,
+    "treatment": "exempt",
+    "conditions": {
+      "note": "Montana has no state or local general sales tax, so no sales tax applies.",
+      "no_sales_tax": true
+    },
+    "effective_date": "2024-01-01",
+    "source_url": "https://revenuefiles.mt.gov/taxes/general-sales-tax",
+    "retrieved_at": "2026-11-10"
+  },
+  {
+    "state": "MT",
+    "category": "digital.streaming",
+    "category_description": "Streaming of video, music or games with no permanent copy, usually by subscription: video and music streaming services, cloud gaming, on-demand video.",
+    "taxable": false,
+    "treatment": "exempt",
+    "conditions": {
+      "note": "Montana has no state or local general sales tax, so no sales tax applies.",
+      "no_sales_tax": true
+    },
+    "effective_date": "2024-01-01",
+    "source_url": "https://revenuefiles.mt.gov/taxes/general-sales-tax",
+    "retrieved_at": "2026-11-10"
+  },
+  {
+    "state": "MT",
+    "category": "food.bottled_water",
+    "category_description": "Plain, still, unsweetened, unflavored bottled drinking water (spring, mineral, distilled, or purified) sold in a sealed retail container. Excludes flavored, sweetened, or carbonated water, which is taxed as a soft drink under food.soft_drinks.",
+    "taxable": false,
+    "treatment": "exempt",
+    "conditions": {
+      "note": "Montana has no state or local general sales tax, so no sales tax applies.",
+      "no_sales_tax": true
+    },
+    "effective_date": "2024-01-01",
+    "source_url": "https://revenuefiles.mt.gov/taxes/general-sales-tax",
+    "retrieved_at": "2026-11-10"
+  },
+  {
+    "state": "MT",
+    "category": "food.candy",
+    "category_description": "Candy and confectionery: chocolate, gum, mints, hard and gummy candy, candy-coated nuts or fruit. Excludes items made with flour or that need refrigeration, such as cookies, granola bars and most licorice, which are groceries (food.grocery).",
+    "taxable": false,
+    "treatment": "exempt",
+    "conditions": {
+      "note": "Montana has no state or local general sales tax, so no sales tax applies.",
+      "caveat": "Some Montana resort towns and areas (Whitefish, Big Sky, West Yellowstone and others) levy a local resort tax of up to 3% on lodging, restaurant food and drinks, and luxuries sold there. It is not calculated here.",
+      "no_sales_tax": true
+    },
+    "effective_date": "2024-01-01",
+    "source_url": "https://revenuefiles.mt.gov/taxes/general-sales-tax",
+    "retrieved_at": "2026-11-10"
+  },
+  {
+    "state": "MT",
+    "category": "food.dietary_supplements",
+    "category_description": "Vitamins, minerals, herbs, protein powders and other products sold with a Supplement Facts label. Products with a Nutrition Facts label are food; products with a Drug Facts label are medical.otc.",
+    "taxable": false,
+    "treatment": "exempt",
+    "conditions": {
+      "note": "Montana has no state or local general sales tax, so no sales tax applies.",
+      "no_sales_tax": true
+    },
+    "effective_date": "2024-01-01",
+    "source_url": "https://revenuefiles.mt.gov/taxes/general-sales-tax",
+    "retrieved_at": "2026-11-10"
+  },
+  {
+    "state": "MT",
+    "category": "food.grocery",
+    "category_description": "Unprepared groceries; staples; produce; meat; dairy.",
+    "taxable": false,
+    "treatment": "exempt",
+    "conditions": {
+      "note": "Montana has no state or local general sales tax, so no sales tax applies.",
+      "no_sales_tax": true
+    },
+    "effective_date": "2024-01-01",
+    "source_url": "https://revenuefiles.mt.gov/taxes/general-sales-tax",
+    "retrieved_at": "2026-11-10"
+  },
+  {
+    "state": "MT",
+    "category": "food.prepared",
+    "category_description": "Restaurant meals, takeout, food sold for immediate consumption.",
+    "taxable": false,
+    "treatment": "exempt",
+    "conditions": {
+      "note": "Montana has no state or local general sales tax, so no sales tax applies.",
+      "caveat": "Some Montana resort towns and areas (Whitefish, Big Sky, West Yellowstone and others) levy a local resort tax of up to 3% on lodging, restaurant food and drinks, and luxuries sold there. It is not calculated here.",
+      "no_sales_tax": true
+    },
+    "effective_date": "2024-01-01",
+    "source_url": "https://revenuefiles.mt.gov/taxes/general-sales-tax",
+    "retrieved_at": "2026-11-10"
+  },
+  {
+    "state": "MT",
+    "category": "food.soft_drinks",
+    "category_description": "Non-alcoholic beverages with natural or artificial sweeteners, and flavored or carbonated water: soda, sweetened tea, energy drinks, sports drinks. Excludes drinks with milk or milk substitutes, or over 50% fruit or vegetable juice, which are groceries (food.grocery).",
+    "taxable": false,
+    "treatment": "exempt",
+    "conditions": {
+      "note": "Montana has no state or local general sales tax, so no sales tax applies.",
+      "caveat": "Some Montana resort towns and areas (Whitefish, Big Sky, West Yellowstone and others) levy a local resort tax of up to 3% on lodging, restaurant food and drinks, and luxuries sold there. It is not calculated here.",
+      "no_sales_tax": true
+    },
+    "effective_date": "2024-01-01",
+    "source_url": "https://revenuefiles.mt.gov/taxes/general-sales-tax",
+    "retrieved_at": "2026-11-10"
+  },
+  {
+    "state": "MT",
+    "category": "goods.electronics",
+    "category_description": "Consumer electronics and their accessories: computers, phones, tablets, TVs, cameras, headphones, smart home devices, cables and chargers.",
+    "taxable": false,
+    "treatment": "exempt",
+    "conditions": {
+      "note": "Montana has no state or local general sales tax, so no sales tax applies.",
+      "caveat": "Some Montana resort towns and areas (Whitefish, Big Sky, West Yellowstone and others) levy a local resort tax of up to 3% on lodging, restaurant food and drinks, and luxuries sold there. It is not calculated here.",
+      "no_sales_tax": true
+    },
+    "effective_date": "2024-01-01",
+    "source_url": "https://revenuefiles.mt.gov/taxes/general-sales-tax",
+    "retrieved_at": "2026-11-10"
+  },
+  {
+    "state": "MT",
+    "category": "goods.furniture",
+    "category_description": "Furniture and home furnishings: tables, chairs, sofas, beds, mattresses, desks, shelving and office furniture.",
+    "taxable": false,
+    "treatment": "exempt",
+    "conditions": {
+      "note": "Montana has no state or local general sales tax, so no sales tax applies.",
+      "caveat": "Some Montana resort towns and areas (Whitefish, Big Sky, West Yellowstone and others) levy a local resort tax of up to 3% on lodging, restaurant food and drinks, and luxuries sold there. It is not calculated here.",
+      "no_sales_tax": true
+    },
+    "effective_date": "2024-01-01",
+    "source_url": "https://revenuefiles.mt.gov/taxes/general-sales-tax",
+    "retrieved_at": "2026-11-10"
+  },
+  {
+    "state": "MT",
+    "category": "goods.general",
+    "category_description": "General merchandise: any physical product with no more specific category, such as housewares, toys, sporting goods, tools, decor, cosmetics, toiletries, pet supplies and gifts. Use this for a tangible item, or a generic retail or merchandise line, when no other category fits.",
+    "taxable": false,
+    "treatment": "exempt",
+    "conditions": {
+      "note": "Montana has no state or local general sales tax, so no sales tax applies.",
+      "caveat": "Some Montana resort towns and areas (Whitefish, Big Sky, West Yellowstone and others) levy a local resort tax of up to 3% on lodging, restaurant food and drinks, and luxuries sold there. It is not calculated here.",
+      "no_sales_tax": true
+    },
+    "effective_date": "2024-01-01",
+    "source_url": "https://revenuefiles.mt.gov/taxes/general-sales-tax",
+    "retrieved_at": "2026-11-10"
+  },
+  {
+    "state": "MT",
+    "category": "hygiene.diapers",
+    "category_description": "Infant/baby diapers and adult incontinence products (briefs, liners, underpads), cloth or disposable.",
+    "taxable": false,
+    "treatment": "exempt",
+    "conditions": {
+      "note": "Montana has no state or local general sales tax, so no sales tax applies.",
+      "no_sales_tax": true
+    },
+    "effective_date": "2024-01-01",
+    "source_url": "https://revenuefiles.mt.gov/taxes/general-sales-tax",
+    "retrieved_at": "2026-11-10"
+  },
+  {
+    "state": "MT",
+    "category": "hygiene.menstrual",
+    "category_description": "Menstrual and feminine hygiene products: tampons, sanitary pads, pantyliners, menstrual cups, and period underwear.",
+    "taxable": false,
+    "treatment": "exempt",
+    "conditions": {
+      "note": "Montana has no state or local general sales tax, so no sales tax applies.",
+      "no_sales_tax": true
+    },
+    "effective_date": "2024-01-01",
+    "source_url": "https://revenuefiles.mt.gov/taxes/general-sales-tax",
+    "retrieved_at": "2026-11-10"
+  },
+  {
+    "state": "MT",
+    "category": "medical.equipment",
+    "category_description": "Wheelchairs, hearing aids, prosthetics, durable medical equipment.",
+    "taxable": false,
+    "treatment": "exempt",
+    "conditions": {
+      "note": "Montana has no state or local general sales tax, so no sales tax applies.",
+      "no_sales_tax": true
+    },
+    "effective_date": "2024-01-01",
+    "source_url": "https://revenuefiles.mt.gov/taxes/general-sales-tax",
+    "retrieved_at": "2026-11-10"
+  },
+  {
+    "state": "MT",
+    "category": "medical.otc",
+    "category_description": "Over-the-counter drugs sold with a Drug Facts label: pain relievers, cold and allergy medicine, antacids, medicated creams, sunscreen. Products with a Supplement Facts label are food.dietary_supplements.",
+    "taxable": false,
+    "treatment": "exempt",
+    "conditions": {
+      "note": "Montana has no state or local general sales tax, so no sales tax applies.",
+      "no_sales_tax": true
+    },
+    "effective_date": "2024-01-01",
+    "source_url": "https://revenuefiles.mt.gov/taxes/general-sales-tax",
+    "retrieved_at": "2026-11-10"
+  },
+  {
+    "state": "MT",
+    "category": "medical.rx",
+    "category_description": "Prescription drugs (typically exempt nationwide).",
+    "taxable": false,
+    "treatment": "exempt",
+    "conditions": {
+      "note": "Montana has no state or local general sales tax, so no sales tax applies.",
+      "no_sales_tax": true
+    },
+    "effective_date": "2024-01-01",
+    "source_url": "https://revenuefiles.mt.gov/taxes/general-sales-tax",
+    "retrieved_at": "2026-11-10"
+  },
+  {
+    "state": "MT",
+    "category": "publications.books",
+    "category_description": "Printed books for general readers: fiction, non-fiction, cookbooks, children's books. E-books and audiobooks are digital.download; required course textbooks are publications.textbooks.",
+    "taxable": false,
+    "treatment": "exempt",
+    "conditions": {
+      "note": "Montana has no state or local general sales tax, so no sales tax applies.",
+      "no_sales_tax": true
+    },
+    "effective_date": "2024-01-01",
+    "source_url": "https://revenuefiles.mt.gov/taxes/general-sales-tax",
+    "retrieved_at": "2026-11-10"
+  },
+  {
+    "state": "MT",
+    "category": "publications.magazines",
+    "category_description": "Printed magazines and periodicals, single copies or subscriptions.",
+    "taxable": false,
+    "treatment": "exempt",
+    "conditions": {
+      "note": "Montana has no state or local general sales tax, so no sales tax applies.",
+      "no_sales_tax": true
+    },
+    "effective_date": "2024-01-01",
+    "source_url": "https://revenuefiles.mt.gov/taxes/general-sales-tax",
+    "retrieved_at": "2026-11-10"
+  },
+  {
+    "state": "MT",
+    "category": "publications.newspapers",
+    "category_description": "Printed newspapers, single copies or subscriptions.",
+    "taxable": false,
+    "treatment": "exempt",
+    "conditions": {
+      "note": "Montana has no state or local general sales tax, so no sales tax applies.",
+      "no_sales_tax": true
+    },
+    "effective_date": "2024-01-01",
+    "source_url": "https://revenuefiles.mt.gov/taxes/general-sales-tax",
+    "retrieved_at": "2026-11-10"
+  },
+  {
+    "state": "MT",
+    "category": "publications.textbooks",
+    "category_description": "Required course and college textbooks, printed or digital, as distinct from general trade books. Many states exempt these only when sold by a school or to an enrolled student.",
+    "taxable": false,
+    "treatment": "exempt",
+    "conditions": {
+      "note": "Montana has no state or local general sales tax, so no sales tax applies.",
+      "no_sales_tax": true
+    },
+    "effective_date": "2024-01-01",
+    "source_url": "https://revenuefiles.mt.gov/taxes/general-sales-tax",
+    "retrieved_at": "2026-11-10"
+  },
+  {
+    "state": "MT",
+    "category": "services.ai_api",
+    "category_description": "Metered access to AI models through an API, billed per token, request or compute unit.",
+    "taxable": false,
+    "treatment": "exempt",
+    "conditions": {
+      "note": "Montana has no state or local general sales tax, so no sales tax applies.",
+      "no_sales_tax": true
+    },
+    "effective_date": "2024-01-01",
+    "source_url": "https://revenuefiles.mt.gov/taxes/general-sales-tax",
+    "retrieved_at": "2026-11-10"
+  },
+  {
+    "state": "MT",
+    "category": "services.data_processing",
+    "category_description": "Data processing and information services: collecting, storing, processing or retrieving data for a customer, data feeds, credit reports, payroll processing, online storage.",
+    "taxable": false,
+    "treatment": "exempt",
+    "conditions": {
+      "note": "Montana has no state or local general sales tax, so no sales tax applies.",
+      "no_sales_tax": true
+    },
+    "effective_date": "2024-01-01",
+    "source_url": "https://revenuefiles.mt.gov/taxes/general-sales-tax",
+    "retrieved_at": "2026-11-10"
+  },
+  {
+    "state": "MT",
+    "category": "services.personal_care",
+    "category_description": "Services performed on a person: haircuts, salon and spa services, massage, nails, tanning, tattooing.",
+    "taxable": false,
+    "treatment": "exempt",
+    "conditions": {
+      "note": "Montana has no state or local general sales tax, so no sales tax applies.",
+      "no_sales_tax": true
+    },
+    "effective_date": "2024-01-01",
+    "source_url": "https://revenuefiles.mt.gov/taxes/general-sales-tax",
+    "retrieved_at": "2026-11-10"
+  },
+  {
+    "state": "MT",
+    "category": "services.professional",
+    "category_description": "Professional services where the customer buys expertise or advice rather than a product: legal, accounting, bookkeeping, consulting, design, engineering, marketing, implementation and training.",
+    "taxable": false,
+    "treatment": "exempt",
+    "conditions": {
+      "note": "Montana has no state or local general sales tax, so no sales tax applies.",
+      "no_sales_tax": true
+    },
+    "effective_date": "2024-01-01",
+    "source_url": "https://revenuefiles.mt.gov/taxes/general-sales-tax",
+    "retrieved_at": "2026-11-10"
+  },
+  {
+    "state": "MT",
+    "category": "services.repair",
+    "category_description": "Labor to repair, maintain or install tangible property: appliance, vehicle, electronics and equipment repair, servicing and maintenance.",
+    "taxable": false,
+    "treatment": "exempt",
+    "conditions": {
+      "note": "Montana has no state or local general sales tax, so no sales tax applies.",
+      "no_sales_tax": true
+    },
+    "effective_date": "2024-01-01",
+    "source_url": "https://revenuefiles.mt.gov/taxes/general-sales-tax",
+    "retrieved_at": "2026-11-10"
+  },
+  {
+    "state": "MT",
+    "category": "services.web_hosting",
+    "category_description": "Web hosting and related infrastructure: website hosting, domain registration, server and storage space, website plans billed as hosting.",
+    "taxable": false,
+    "treatment": "exempt",
+    "conditions": {
+      "note": "Montana has no state or local general sales tax, so no sales tax applies.",
+      "no_sales_tax": true
+    },
+    "effective_date": "2024-01-01",
+    "source_url": "https://revenuefiles.mt.gov/taxes/general-sales-tax",
+    "retrieved_at": "2026-11-10"
+  },
+  {
+    "state": "MT",
+    "category": "software.custom",
+    "category_description": "Software written for one specific customer to its own specifications. Off-the-shelf software configured for a customer is not custom.",
+    "taxable": false,
+    "treatment": "exempt",
+    "conditions": {
+      "note": "Montana has no state or local general sales tax, so no sales tax applies.",
+      "no_sales_tax": true
+    },
+    "effective_date": "2024-01-01",
+    "source_url": "https://revenuefiles.mt.gov/taxes/general-sales-tax",
+    "retrieved_at": "2026-11-10"
+  },
+  {
+    "state": "MT",
+    "category": "software.prewritten",
+    "category_description": "Off-the-shelf (canned) software the customer installs: downloaded programs and apps, software on disc, operating systems, and licences or updates for installed software.",
+    "taxable": false,
+    "treatment": "exempt",
+    "conditions": {
+      "note": "Montana has no state or local general sales tax, so no sales tax applies.",
+      "no_sales_tax": true
+    },
+    "effective_date": "2024-01-01",
+    "source_url": "https://revenuefiles.mt.gov/taxes/general-sales-tax",
+    "retrieved_at": "2026-11-10"
+  },
+  {
+    "state": "MT",
+    "category": "software.saas",
+    "category_description": "Software as a Service: off-the-shelf software the customer uses over the internet without installing a copy, usually by subscription. Includes web apps and online platforms.",
+    "taxable": false,
+    "treatment": "exempt",
+    "conditions": {
+      "note": "Montana has no state or local general sales tax, so no sales tax applies.",
+      "no_sales_tax": true
+    },
+    "effective_date": "2024-01-01",
+    "source_url": "https://revenuefiles.mt.gov/taxes/general-sales-tax",
+    "retrieved_at": "2026-11-10"
+  },
+  {
     "state": "NC",
     "category": "clothing.accessories",
     "category_description": "Handbags, belts, jewelry, watches.",
@@ -11582,6 +12544,483 @@
     "effective_date": "2024-01-01",
     "source_url": "https://revenue.nebraska.gov/about/chapter-1-sales-and-use-tax",
     "retrieved_at": "2026-11-08"
+  },
+  {
+    "state": "NH",
+    "category": "clothing.accessories",
+    "category_description": "Handbags, belts, jewelry, watches.",
+    "taxable": false,
+    "treatment": "exempt",
+    "conditions": {
+      "note": "New Hampshire has no state or local general sales tax, so no sales tax applies.",
+      "no_sales_tax": true
+    },
+    "effective_date": "2024-01-01",
+    "source_url": "https://www.revenue.nh.gov/taxes-glance/meals-rooms-rentals-tax",
+    "retrieved_at": "2026-11-10"
+  },
+  {
+    "state": "NH",
+    "category": "clothing.athletic",
+    "category_description": "Sports and performance apparel; team uniforms; non-protective athletic gear.",
+    "taxable": false,
+    "treatment": "exempt",
+    "conditions": {
+      "note": "New Hampshire has no state or local general sales tax, so no sales tax applies.",
+      "no_sales_tax": true
+    },
+    "effective_date": "2024-01-01",
+    "source_url": "https://www.revenue.nh.gov/taxes-glance/meals-rooms-rentals-tax",
+    "retrieved_at": "2026-11-10"
+  },
+  {
+    "state": "NH",
+    "category": "clothing.formal",
+    "category_description": "Suits, gowns, ties, dress shirts not for everyday wear.",
+    "taxable": false,
+    "treatment": "exempt",
+    "conditions": {
+      "note": "New Hampshire has no state or local general sales tax, so no sales tax applies.",
+      "no_sales_tax": true
+    },
+    "effective_date": "2024-01-01",
+    "source_url": "https://www.revenue.nh.gov/taxes-glance/meals-rooms-rentals-tax",
+    "retrieved_at": "2026-11-10"
+  },
+  {
+    "state": "NH",
+    "category": "clothing.general",
+    "category_description": "Everyday wearing apparel and footwear: t-shirts, jeans, dresses, jackets, hats, costumes. Not belts, bags or jewelry (clothing.accessories), sportswear (clothing.athletic), formal wear (clothing.formal) or safety gear (clothing.protective), and never a non-clothing item.",
+    "taxable": false,
+    "treatment": "exempt",
+    "conditions": {
+      "note": "New Hampshire has no state or local general sales tax, so no sales tax applies.",
+      "no_sales_tax": true
+    },
+    "effective_date": "2024-01-01",
+    "source_url": "https://www.revenue.nh.gov/taxes-glance/meals-rooms-rentals-tax",
+    "retrieved_at": "2026-11-10"
+  },
+  {
+    "state": "NH",
+    "category": "clothing.protective",
+    "category_description": "Helmets, safety boots, protective work gear, hazard equipment.",
+    "taxable": false,
+    "treatment": "exempt",
+    "conditions": {
+      "note": "New Hampshire has no state or local general sales tax, so no sales tax applies.",
+      "no_sales_tax": true
+    },
+    "effective_date": "2024-01-01",
+    "source_url": "https://www.revenue.nh.gov/taxes-glance/meals-rooms-rentals-tax",
+    "retrieved_at": "2026-11-10"
+  },
+  {
+    "state": "NH",
+    "category": "digital.download",
+    "category_description": "Digital media the buyer downloads and keeps: e-books, music and audiobooks, movies, digital art and video games. Downloaded application software (apps, desktop programs, installers) is software.prewritten.",
+    "taxable": false,
+    "treatment": "exempt",
+    "conditions": {
+      "note": "New Hampshire has no state or local general sales tax, so no sales tax applies.",
+      "no_sales_tax": true
+    },
+    "effective_date": "2024-01-01",
+    "source_url": "https://www.revenue.nh.gov/taxes-glance/meals-rooms-rentals-tax",
+    "retrieved_at": "2026-11-10"
+  },
+  {
+    "state": "NH",
+    "category": "digital.streaming",
+    "category_description": "Streaming of video, music or games with no permanent copy, usually by subscription: video and music streaming services, cloud gaming, on-demand video.",
+    "taxable": false,
+    "treatment": "exempt",
+    "conditions": {
+      "note": "New Hampshire has no state or local general sales tax, so no sales tax applies.",
+      "no_sales_tax": true
+    },
+    "effective_date": "2024-01-01",
+    "source_url": "https://www.revenue.nh.gov/taxes-glance/meals-rooms-rentals-tax",
+    "retrieved_at": "2026-11-10"
+  },
+  {
+    "state": "NH",
+    "category": "food.bottled_water",
+    "category_description": "Plain, still, unsweetened, unflavored bottled drinking water (spring, mineral, distilled, or purified) sold in a sealed retail container. Excludes flavored, sweetened, or carbonated water, which is taxed as a soft drink under food.soft_drinks.",
+    "taxable": false,
+    "treatment": "exempt",
+    "conditions": {
+      "note": "New Hampshire has no state or local general sales tax, so no sales tax applies.",
+      "no_sales_tax": true
+    },
+    "effective_date": "2024-01-01",
+    "source_url": "https://www.revenue.nh.gov/taxes-glance/meals-rooms-rentals-tax",
+    "retrieved_at": "2026-11-10"
+  },
+  {
+    "state": "NH",
+    "category": "food.candy",
+    "category_description": "Candy and confectionery: chocolate, gum, mints, hard and gummy candy, candy-coated nuts or fruit. Excludes items made with flour or that need refrigeration, such as cookies, granola bars and most licorice, which are groceries (food.grocery).",
+    "taxable": false,
+    "treatment": "exempt",
+    "conditions": {
+      "note": "New Hampshire has no state or local general sales tax, so no sales tax applies.",
+      "no_sales_tax": true
+    },
+    "effective_date": "2024-01-01",
+    "source_url": "https://www.revenue.nh.gov/taxes-glance/meals-rooms-rentals-tax",
+    "retrieved_at": "2026-11-10"
+  },
+  {
+    "state": "NH",
+    "category": "food.dietary_supplements",
+    "category_description": "Vitamins, minerals, herbs, protein powders and other products sold with a Supplement Facts label. Products with a Nutrition Facts label are food; products with a Drug Facts label are medical.otc.",
+    "taxable": false,
+    "treatment": "exempt",
+    "conditions": {
+      "note": "New Hampshire has no state or local general sales tax, so no sales tax applies.",
+      "no_sales_tax": true
+    },
+    "effective_date": "2024-01-01",
+    "source_url": "https://www.revenue.nh.gov/taxes-glance/meals-rooms-rentals-tax",
+    "retrieved_at": "2026-11-10"
+  },
+  {
+    "state": "NH",
+    "category": "food.grocery",
+    "category_description": "Unprepared groceries; staples; produce; meat; dairy.",
+    "taxable": false,
+    "treatment": "exempt",
+    "conditions": {
+      "note": "New Hampshire has no state or local general sales tax, so no sales tax applies.",
+      "no_sales_tax": true
+    },
+    "effective_date": "2024-01-01",
+    "source_url": "https://www.revenue.nh.gov/taxes-glance/meals-rooms-rentals-tax",
+    "retrieved_at": "2026-11-10"
+  },
+  {
+    "state": "NH",
+    "category": "food.prepared",
+    "category_description": "Restaurant meals, takeout, food sold for immediate consumption.",
+    "taxable": false,
+    "treatment": "exempt",
+    "conditions": {
+      "note": "New Hampshire has no state or local general sales tax, so no sales tax applies.",
+      "caveat": "New Hampshire taxes prepared meals at 8.5% under its Meals and Rooms (Rentals) Tax, which is not a sales tax and is not calculated here. A restaurant or other meals operator collects it from the customer.",
+      "no_sales_tax": true
+    },
+    "effective_date": "2024-01-01",
+    "source_url": "https://www.revenue.nh.gov/taxes-glance/meals-rooms-rentals-tax",
+    "retrieved_at": "2026-11-10"
+  },
+  {
+    "state": "NH",
+    "category": "food.soft_drinks",
+    "category_description": "Non-alcoholic beverages with natural or artificial sweeteners, and flavored or carbonated water: soda, sweetened tea, energy drinks, sports drinks. Excludes drinks with milk or milk substitutes, or over 50% fruit or vegetable juice, which are groceries (food.grocery).",
+    "taxable": false,
+    "treatment": "exempt",
+    "conditions": {
+      "note": "New Hampshire has no state or local general sales tax, so no sales tax applies.",
+      "no_sales_tax": true
+    },
+    "effective_date": "2024-01-01",
+    "source_url": "https://www.revenue.nh.gov/taxes-glance/meals-rooms-rentals-tax",
+    "retrieved_at": "2026-11-10"
+  },
+  {
+    "state": "NH",
+    "category": "goods.electronics",
+    "category_description": "Consumer electronics and their accessories: computers, phones, tablets, TVs, cameras, headphones, smart home devices, cables and chargers.",
+    "taxable": false,
+    "treatment": "exempt",
+    "conditions": {
+      "note": "New Hampshire has no state or local general sales tax, so no sales tax applies.",
+      "no_sales_tax": true
+    },
+    "effective_date": "2024-01-01",
+    "source_url": "https://www.revenue.nh.gov/taxes-glance/meals-rooms-rentals-tax",
+    "retrieved_at": "2026-11-10"
+  },
+  {
+    "state": "NH",
+    "category": "goods.furniture",
+    "category_description": "Furniture and home furnishings: tables, chairs, sofas, beds, mattresses, desks, shelving and office furniture.",
+    "taxable": false,
+    "treatment": "exempt",
+    "conditions": {
+      "note": "New Hampshire has no state or local general sales tax, so no sales tax applies.",
+      "no_sales_tax": true
+    },
+    "effective_date": "2024-01-01",
+    "source_url": "https://www.revenue.nh.gov/taxes-glance/meals-rooms-rentals-tax",
+    "retrieved_at": "2026-11-10"
+  },
+  {
+    "state": "NH",
+    "category": "goods.general",
+    "category_description": "General merchandise: any physical product with no more specific category, such as housewares, toys, sporting goods, tools, decor, cosmetics, toiletries, pet supplies and gifts. Use this for a tangible item, or a generic retail or merchandise line, when no other category fits.",
+    "taxable": false,
+    "treatment": "exempt",
+    "conditions": {
+      "note": "New Hampshire has no state or local general sales tax, so no sales tax applies.",
+      "no_sales_tax": true
+    },
+    "effective_date": "2024-01-01",
+    "source_url": "https://www.revenue.nh.gov/taxes-glance/meals-rooms-rentals-tax",
+    "retrieved_at": "2026-11-10"
+  },
+  {
+    "state": "NH",
+    "category": "hygiene.diapers",
+    "category_description": "Infant/baby diapers and adult incontinence products (briefs, liners, underpads), cloth or disposable.",
+    "taxable": false,
+    "treatment": "exempt",
+    "conditions": {
+      "note": "New Hampshire has no state or local general sales tax, so no sales tax applies.",
+      "no_sales_tax": true
+    },
+    "effective_date": "2024-01-01",
+    "source_url": "https://www.revenue.nh.gov/taxes-glance/meals-rooms-rentals-tax",
+    "retrieved_at": "2026-11-10"
+  },
+  {
+    "state": "NH",
+    "category": "hygiene.menstrual",
+    "category_description": "Menstrual and feminine hygiene products: tampons, sanitary pads, pantyliners, menstrual cups, and period underwear.",
+    "taxable": false,
+    "treatment": "exempt",
+    "conditions": {
+      "note": "New Hampshire has no state or local general sales tax, so no sales tax applies.",
+      "no_sales_tax": true
+    },
+    "effective_date": "2024-01-01",
+    "source_url": "https://www.revenue.nh.gov/taxes-glance/meals-rooms-rentals-tax",
+    "retrieved_at": "2026-11-10"
+  },
+  {
+    "state": "NH",
+    "category": "medical.equipment",
+    "category_description": "Wheelchairs, hearing aids, prosthetics, durable medical equipment.",
+    "taxable": false,
+    "treatment": "exempt",
+    "conditions": {
+      "note": "New Hampshire has no state or local general sales tax, so no sales tax applies.",
+      "no_sales_tax": true
+    },
+    "effective_date": "2024-01-01",
+    "source_url": "https://www.revenue.nh.gov/taxes-glance/meals-rooms-rentals-tax",
+    "retrieved_at": "2026-11-10"
+  },
+  {
+    "state": "NH",
+    "category": "medical.otc",
+    "category_description": "Over-the-counter drugs sold with a Drug Facts label: pain relievers, cold and allergy medicine, antacids, medicated creams, sunscreen. Products with a Supplement Facts label are food.dietary_supplements.",
+    "taxable": false,
+    "treatment": "exempt",
+    "conditions": {
+      "note": "New Hampshire has no state or local general sales tax, so no sales tax applies.",
+      "no_sales_tax": true
+    },
+    "effective_date": "2024-01-01",
+    "source_url": "https://www.revenue.nh.gov/taxes-glance/meals-rooms-rentals-tax",
+    "retrieved_at": "2026-11-10"
+  },
+  {
+    "state": "NH",
+    "category": "medical.rx",
+    "category_description": "Prescription drugs (typically exempt nationwide).",
+    "taxable": false,
+    "treatment": "exempt",
+    "conditions": {
+      "note": "New Hampshire has no state or local general sales tax, so no sales tax applies.",
+      "no_sales_tax": true
+    },
+    "effective_date": "2024-01-01",
+    "source_url": "https://www.revenue.nh.gov/taxes-glance/meals-rooms-rentals-tax",
+    "retrieved_at": "2026-11-10"
+  },
+  {
+    "state": "NH",
+    "category": "publications.books",
+    "category_description": "Printed books for general readers: fiction, non-fiction, cookbooks, children's books. E-books and audiobooks are digital.download; required course textbooks are publications.textbooks.",
+    "taxable": false,
+    "treatment": "exempt",
+    "conditions": {
+      "note": "New Hampshire has no state or local general sales tax, so no sales tax applies.",
+      "no_sales_tax": true
+    },
+    "effective_date": "2024-01-01",
+    "source_url": "https://www.revenue.nh.gov/taxes-glance/meals-rooms-rentals-tax",
+    "retrieved_at": "2026-11-10"
+  },
+  {
+    "state": "NH",
+    "category": "publications.magazines",
+    "category_description": "Printed magazines and periodicals, single copies or subscriptions.",
+    "taxable": false,
+    "treatment": "exempt",
+    "conditions": {
+      "note": "New Hampshire has no state or local general sales tax, so no sales tax applies.",
+      "no_sales_tax": true
+    },
+    "effective_date": "2024-01-01",
+    "source_url": "https://www.revenue.nh.gov/taxes-glance/meals-rooms-rentals-tax",
+    "retrieved_at": "2026-11-10"
+  },
+  {
+    "state": "NH",
+    "category": "publications.newspapers",
+    "category_description": "Printed newspapers, single copies or subscriptions.",
+    "taxable": false,
+    "treatment": "exempt",
+    "conditions": {
+      "note": "New Hampshire has no state or local general sales tax, so no sales tax applies.",
+      "no_sales_tax": true
+    },
+    "effective_date": "2024-01-01",
+    "source_url": "https://www.revenue.nh.gov/taxes-glance/meals-rooms-rentals-tax",
+    "retrieved_at": "2026-11-10"
+  },
+  {
+    "state": "NH",
+    "category": "publications.textbooks",
+    "category_description": "Required course and college textbooks, printed or digital, as distinct from general trade books. Many states exempt these only when sold by a school or to an enrolled student.",
+    "taxable": false,
+    "treatment": "exempt",
+    "conditions": {
+      "note": "New Hampshire has no state or local general sales tax, so no sales tax applies.",
+      "no_sales_tax": true
+    },
+    "effective_date": "2024-01-01",
+    "source_url": "https://www.revenue.nh.gov/taxes-glance/meals-rooms-rentals-tax",
+    "retrieved_at": "2026-11-10"
+  },
+  {
+    "state": "NH",
+    "category": "services.ai_api",
+    "category_description": "Metered access to AI models through an API, billed per token, request or compute unit.",
+    "taxable": false,
+    "treatment": "exempt",
+    "conditions": {
+      "note": "New Hampshire has no state or local general sales tax, so no sales tax applies.",
+      "no_sales_tax": true
+    },
+    "effective_date": "2024-01-01",
+    "source_url": "https://www.revenue.nh.gov/taxes-glance/meals-rooms-rentals-tax",
+    "retrieved_at": "2026-11-10"
+  },
+  {
+    "state": "NH",
+    "category": "services.data_processing",
+    "category_description": "Data processing and information services: collecting, storing, processing or retrieving data for a customer, data feeds, credit reports, payroll processing, online storage.",
+    "taxable": false,
+    "treatment": "exempt",
+    "conditions": {
+      "note": "New Hampshire has no state or local general sales tax, so no sales tax applies.",
+      "no_sales_tax": true
+    },
+    "effective_date": "2024-01-01",
+    "source_url": "https://www.revenue.nh.gov/taxes-glance/meals-rooms-rentals-tax",
+    "retrieved_at": "2026-11-10"
+  },
+  {
+    "state": "NH",
+    "category": "services.personal_care",
+    "category_description": "Services performed on a person: haircuts, salon and spa services, massage, nails, tanning, tattooing.",
+    "taxable": false,
+    "treatment": "exempt",
+    "conditions": {
+      "note": "New Hampshire has no state or local general sales tax, so no sales tax applies.",
+      "no_sales_tax": true
+    },
+    "effective_date": "2024-01-01",
+    "source_url": "https://www.revenue.nh.gov/taxes-glance/meals-rooms-rentals-tax",
+    "retrieved_at": "2026-11-10"
+  },
+  {
+    "state": "NH",
+    "category": "services.professional",
+    "category_description": "Professional services where the customer buys expertise or advice rather than a product: legal, accounting, bookkeeping, consulting, design, engineering, marketing, implementation and training.",
+    "taxable": false,
+    "treatment": "exempt",
+    "conditions": {
+      "note": "New Hampshire has no state or local general sales tax, so no sales tax applies.",
+      "no_sales_tax": true
+    },
+    "effective_date": "2024-01-01",
+    "source_url": "https://www.revenue.nh.gov/taxes-glance/meals-rooms-rentals-tax",
+    "retrieved_at": "2026-11-10"
+  },
+  {
+    "state": "NH",
+    "category": "services.repair",
+    "category_description": "Labor to repair, maintain or install tangible property: appliance, vehicle, electronics and equipment repair, servicing and maintenance.",
+    "taxable": false,
+    "treatment": "exempt",
+    "conditions": {
+      "note": "New Hampshire has no state or local general sales tax, so no sales tax applies.",
+      "no_sales_tax": true
+    },
+    "effective_date": "2024-01-01",
+    "source_url": "https://www.revenue.nh.gov/taxes-glance/meals-rooms-rentals-tax",
+    "retrieved_at": "2026-11-10"
+  },
+  {
+    "state": "NH",
+    "category": "services.web_hosting",
+    "category_description": "Web hosting and related infrastructure: website hosting, domain registration, server and storage space, website plans billed as hosting.",
+    "taxable": false,
+    "treatment": "exempt",
+    "conditions": {
+      "note": "New Hampshire has no state or local general sales tax, so no sales tax applies.",
+      "no_sales_tax": true
+    },
+    "effective_date": "2024-01-01",
+    "source_url": "https://www.revenue.nh.gov/taxes-glance/meals-rooms-rentals-tax",
+    "retrieved_at": "2026-11-10"
+  },
+  {
+    "state": "NH",
+    "category": "software.custom",
+    "category_description": "Software written for one specific customer to its own specifications. Off-the-shelf software configured for a customer is not custom.",
+    "taxable": false,
+    "treatment": "exempt",
+    "conditions": {
+      "note": "New Hampshire has no state or local general sales tax, so no sales tax applies.",
+      "no_sales_tax": true
+    },
+    "effective_date": "2024-01-01",
+    "source_url": "https://www.revenue.nh.gov/taxes-glance/meals-rooms-rentals-tax",
+    "retrieved_at": "2026-11-10"
+  },
+  {
+    "state": "NH",
+    "category": "software.prewritten",
+    "category_description": "Off-the-shelf (canned) software the customer installs: downloaded programs and apps, software on disc, operating systems, and licences or updates for installed software.",
+    "taxable": false,
+    "treatment": "exempt",
+    "conditions": {
+      "note": "New Hampshire has no state or local general sales tax, so no sales tax applies.",
+      "no_sales_tax": true
+    },
+    "effective_date": "2024-01-01",
+    "source_url": "https://www.revenue.nh.gov/taxes-glance/meals-rooms-rentals-tax",
+    "retrieved_at": "2026-11-10"
+  },
+  {
+    "state": "NH",
+    "category": "software.saas",
+    "category_description": "Software as a Service: off-the-shelf software the customer uses over the internet without installing a copy, usually by subscription. Includes web apps and online platforms.",
+    "taxable": false,
+    "treatment": "exempt",
+    "conditions": {
+      "note": "New Hampshire has no state or local general sales tax, so no sales tax applies.",
+      "no_sales_tax": true
+    },
+    "effective_date": "2024-01-01",
+    "source_url": "https://www.revenue.nh.gov/taxes-glance/meals-rooms-rentals-tax",
+    "retrieved_at": "2026-11-10"
   },
   {
     "state": "NJ",
@@ -14213,6 +15652,483 @@
     "effective_date": "2024-01-01",
     "source_url": "https://www.law.cornell.edu/regulations/oklahoma/OAC-710-65-19-156",
     "retrieved_at": "2026-10-22"
+  },
+  {
+    "state": "OR",
+    "category": "clothing.accessories",
+    "category_description": "Handbags, belts, jewelry, watches.",
+    "taxable": false,
+    "treatment": "exempt",
+    "conditions": {
+      "note": "Oregon has no state or local general sales tax, so no sales tax applies.",
+      "no_sales_tax": true
+    },
+    "effective_date": "2024-01-01",
+    "source_url": "https://www.oregon.gov/dor/programs/businesses/Pages/sales-tax.aspx",
+    "retrieved_at": "2026-11-10"
+  },
+  {
+    "state": "OR",
+    "category": "clothing.athletic",
+    "category_description": "Sports and performance apparel; team uniforms; non-protective athletic gear.",
+    "taxable": false,
+    "treatment": "exempt",
+    "conditions": {
+      "note": "Oregon has no state or local general sales tax, so no sales tax applies.",
+      "no_sales_tax": true
+    },
+    "effective_date": "2024-01-01",
+    "source_url": "https://www.oregon.gov/dor/programs/businesses/Pages/sales-tax.aspx",
+    "retrieved_at": "2026-11-10"
+  },
+  {
+    "state": "OR",
+    "category": "clothing.formal",
+    "category_description": "Suits, gowns, ties, dress shirts not for everyday wear.",
+    "taxable": false,
+    "treatment": "exempt",
+    "conditions": {
+      "note": "Oregon has no state or local general sales tax, so no sales tax applies.",
+      "no_sales_tax": true
+    },
+    "effective_date": "2024-01-01",
+    "source_url": "https://www.oregon.gov/dor/programs/businesses/Pages/sales-tax.aspx",
+    "retrieved_at": "2026-11-10"
+  },
+  {
+    "state": "OR",
+    "category": "clothing.general",
+    "category_description": "Everyday wearing apparel and footwear: t-shirts, jeans, dresses, jackets, hats, costumes. Not belts, bags or jewelry (clothing.accessories), sportswear (clothing.athletic), formal wear (clothing.formal) or safety gear (clothing.protective), and never a non-clothing item.",
+    "taxable": false,
+    "treatment": "exempt",
+    "conditions": {
+      "note": "Oregon has no state or local general sales tax, so no sales tax applies.",
+      "no_sales_tax": true
+    },
+    "effective_date": "2024-01-01",
+    "source_url": "https://www.oregon.gov/dor/programs/businesses/Pages/sales-tax.aspx",
+    "retrieved_at": "2026-11-10"
+  },
+  {
+    "state": "OR",
+    "category": "clothing.protective",
+    "category_description": "Helmets, safety boots, protective work gear, hazard equipment.",
+    "taxable": false,
+    "treatment": "exempt",
+    "conditions": {
+      "note": "Oregon has no state or local general sales tax, so no sales tax applies.",
+      "no_sales_tax": true
+    },
+    "effective_date": "2024-01-01",
+    "source_url": "https://www.oregon.gov/dor/programs/businesses/Pages/sales-tax.aspx",
+    "retrieved_at": "2026-11-10"
+  },
+  {
+    "state": "OR",
+    "category": "digital.download",
+    "category_description": "Digital media the buyer downloads and keeps: e-books, music and audiobooks, movies, digital art and video games. Downloaded application software (apps, desktop programs, installers) is software.prewritten.",
+    "taxable": false,
+    "treatment": "exempt",
+    "conditions": {
+      "note": "Oregon has no state or local general sales tax, so no sales tax applies.",
+      "no_sales_tax": true
+    },
+    "effective_date": "2024-01-01",
+    "source_url": "https://www.oregon.gov/dor/programs/businesses/Pages/sales-tax.aspx",
+    "retrieved_at": "2026-11-10"
+  },
+  {
+    "state": "OR",
+    "category": "digital.streaming",
+    "category_description": "Streaming of video, music or games with no permanent copy, usually by subscription: video and music streaming services, cloud gaming, on-demand video.",
+    "taxable": false,
+    "treatment": "exempt",
+    "conditions": {
+      "note": "Oregon has no state or local general sales tax, so no sales tax applies.",
+      "no_sales_tax": true
+    },
+    "effective_date": "2024-01-01",
+    "source_url": "https://www.oregon.gov/dor/programs/businesses/Pages/sales-tax.aspx",
+    "retrieved_at": "2026-11-10"
+  },
+  {
+    "state": "OR",
+    "category": "food.bottled_water",
+    "category_description": "Plain, still, unsweetened, unflavored bottled drinking water (spring, mineral, distilled, or purified) sold in a sealed retail container. Excludes flavored, sweetened, or carbonated water, which is taxed as a soft drink under food.soft_drinks.",
+    "taxable": false,
+    "treatment": "exempt",
+    "conditions": {
+      "note": "Oregon has no state or local general sales tax, so no sales tax applies.",
+      "no_sales_tax": true
+    },
+    "effective_date": "2024-01-01",
+    "source_url": "https://www.oregon.gov/dor/programs/businesses/Pages/sales-tax.aspx",
+    "retrieved_at": "2026-11-10"
+  },
+  {
+    "state": "OR",
+    "category": "food.candy",
+    "category_description": "Candy and confectionery: chocolate, gum, mints, hard and gummy candy, candy-coated nuts or fruit. Excludes items made with flour or that need refrigeration, such as cookies, granola bars and most licorice, which are groceries (food.grocery).",
+    "taxable": false,
+    "treatment": "exempt",
+    "conditions": {
+      "note": "Oregon has no state or local general sales tax, so no sales tax applies.",
+      "no_sales_tax": true
+    },
+    "effective_date": "2024-01-01",
+    "source_url": "https://www.oregon.gov/dor/programs/businesses/Pages/sales-tax.aspx",
+    "retrieved_at": "2026-11-10"
+  },
+  {
+    "state": "OR",
+    "category": "food.dietary_supplements",
+    "category_description": "Vitamins, minerals, herbs, protein powders and other products sold with a Supplement Facts label. Products with a Nutrition Facts label are food; products with a Drug Facts label are medical.otc.",
+    "taxable": false,
+    "treatment": "exempt",
+    "conditions": {
+      "note": "Oregon has no state or local general sales tax, so no sales tax applies.",
+      "no_sales_tax": true
+    },
+    "effective_date": "2024-01-01",
+    "source_url": "https://www.oregon.gov/dor/programs/businesses/Pages/sales-tax.aspx",
+    "retrieved_at": "2026-11-10"
+  },
+  {
+    "state": "OR",
+    "category": "food.grocery",
+    "category_description": "Unprepared groceries; staples; produce; meat; dairy.",
+    "taxable": false,
+    "treatment": "exempt",
+    "conditions": {
+      "note": "Oregon has no state or local general sales tax, so no sales tax applies.",
+      "no_sales_tax": true
+    },
+    "effective_date": "2024-01-01",
+    "source_url": "https://www.oregon.gov/dor/programs/businesses/Pages/sales-tax.aspx",
+    "retrieved_at": "2026-11-10"
+  },
+  {
+    "state": "OR",
+    "category": "food.prepared",
+    "category_description": "Restaurant meals, takeout, food sold for immediate consumption.",
+    "taxable": false,
+    "treatment": "exempt",
+    "conditions": {
+      "note": "Oregon has no state or local general sales tax, so no sales tax applies.",
+      "caveat": "Some Oregon cities tax prepared food and drinks locally (Ashland 5%). That is not a sales tax and is not calculated here.",
+      "no_sales_tax": true
+    },
+    "effective_date": "2024-01-01",
+    "source_url": "https://www.oregon.gov/dor/programs/businesses/Pages/sales-tax.aspx",
+    "retrieved_at": "2026-11-10"
+  },
+  {
+    "state": "OR",
+    "category": "food.soft_drinks",
+    "category_description": "Non-alcoholic beverages with natural or artificial sweeteners, and flavored or carbonated water: soda, sweetened tea, energy drinks, sports drinks. Excludes drinks with milk or milk substitutes, or over 50% fruit or vegetable juice, which are groceries (food.grocery).",
+    "taxable": false,
+    "treatment": "exempt",
+    "conditions": {
+      "note": "Oregon has no state or local general sales tax, so no sales tax applies.",
+      "no_sales_tax": true
+    },
+    "effective_date": "2024-01-01",
+    "source_url": "https://www.oregon.gov/dor/programs/businesses/Pages/sales-tax.aspx",
+    "retrieved_at": "2026-11-10"
+  },
+  {
+    "state": "OR",
+    "category": "goods.electronics",
+    "category_description": "Consumer electronics and their accessories: computers, phones, tablets, TVs, cameras, headphones, smart home devices, cables and chargers.",
+    "taxable": false,
+    "treatment": "exempt",
+    "conditions": {
+      "note": "Oregon has no state or local general sales tax, so no sales tax applies.",
+      "no_sales_tax": true
+    },
+    "effective_date": "2024-01-01",
+    "source_url": "https://www.oregon.gov/dor/programs/businesses/Pages/sales-tax.aspx",
+    "retrieved_at": "2026-11-10"
+  },
+  {
+    "state": "OR",
+    "category": "goods.furniture",
+    "category_description": "Furniture and home furnishings: tables, chairs, sofas, beds, mattresses, desks, shelving and office furniture.",
+    "taxable": false,
+    "treatment": "exempt",
+    "conditions": {
+      "note": "Oregon has no state or local general sales tax, so no sales tax applies.",
+      "no_sales_tax": true
+    },
+    "effective_date": "2024-01-01",
+    "source_url": "https://www.oregon.gov/dor/programs/businesses/Pages/sales-tax.aspx",
+    "retrieved_at": "2026-11-10"
+  },
+  {
+    "state": "OR",
+    "category": "goods.general",
+    "category_description": "General merchandise: any physical product with no more specific category, such as housewares, toys, sporting goods, tools, decor, cosmetics, toiletries, pet supplies and gifts. Use this for a tangible item, or a generic retail or merchandise line, when no other category fits.",
+    "taxable": false,
+    "treatment": "exempt",
+    "conditions": {
+      "note": "Oregon has no state or local general sales tax, so no sales tax applies.",
+      "no_sales_tax": true
+    },
+    "effective_date": "2024-01-01",
+    "source_url": "https://www.oregon.gov/dor/programs/businesses/Pages/sales-tax.aspx",
+    "retrieved_at": "2026-11-10"
+  },
+  {
+    "state": "OR",
+    "category": "hygiene.diapers",
+    "category_description": "Infant/baby diapers and adult incontinence products (briefs, liners, underpads), cloth or disposable.",
+    "taxable": false,
+    "treatment": "exempt",
+    "conditions": {
+      "note": "Oregon has no state or local general sales tax, so no sales tax applies.",
+      "no_sales_tax": true
+    },
+    "effective_date": "2024-01-01",
+    "source_url": "https://www.oregon.gov/dor/programs/businesses/Pages/sales-tax.aspx",
+    "retrieved_at": "2026-11-10"
+  },
+  {
+    "state": "OR",
+    "category": "hygiene.menstrual",
+    "category_description": "Menstrual and feminine hygiene products: tampons, sanitary pads, pantyliners, menstrual cups, and period underwear.",
+    "taxable": false,
+    "treatment": "exempt",
+    "conditions": {
+      "note": "Oregon has no state or local general sales tax, so no sales tax applies.",
+      "no_sales_tax": true
+    },
+    "effective_date": "2024-01-01",
+    "source_url": "https://www.oregon.gov/dor/programs/businesses/Pages/sales-tax.aspx",
+    "retrieved_at": "2026-11-10"
+  },
+  {
+    "state": "OR",
+    "category": "medical.equipment",
+    "category_description": "Wheelchairs, hearing aids, prosthetics, durable medical equipment.",
+    "taxable": false,
+    "treatment": "exempt",
+    "conditions": {
+      "note": "Oregon has no state or local general sales tax, so no sales tax applies.",
+      "no_sales_tax": true
+    },
+    "effective_date": "2024-01-01",
+    "source_url": "https://www.oregon.gov/dor/programs/businesses/Pages/sales-tax.aspx",
+    "retrieved_at": "2026-11-10"
+  },
+  {
+    "state": "OR",
+    "category": "medical.otc",
+    "category_description": "Over-the-counter drugs sold with a Drug Facts label: pain relievers, cold and allergy medicine, antacids, medicated creams, sunscreen. Products with a Supplement Facts label are food.dietary_supplements.",
+    "taxable": false,
+    "treatment": "exempt",
+    "conditions": {
+      "note": "Oregon has no state or local general sales tax, so no sales tax applies.",
+      "no_sales_tax": true
+    },
+    "effective_date": "2024-01-01",
+    "source_url": "https://www.oregon.gov/dor/programs/businesses/Pages/sales-tax.aspx",
+    "retrieved_at": "2026-11-10"
+  },
+  {
+    "state": "OR",
+    "category": "medical.rx",
+    "category_description": "Prescription drugs (typically exempt nationwide).",
+    "taxable": false,
+    "treatment": "exempt",
+    "conditions": {
+      "note": "Oregon has no state or local general sales tax, so no sales tax applies.",
+      "no_sales_tax": true
+    },
+    "effective_date": "2024-01-01",
+    "source_url": "https://www.oregon.gov/dor/programs/businesses/Pages/sales-tax.aspx",
+    "retrieved_at": "2026-11-10"
+  },
+  {
+    "state": "OR",
+    "category": "publications.books",
+    "category_description": "Printed books for general readers: fiction, non-fiction, cookbooks, children's books. E-books and audiobooks are digital.download; required course textbooks are publications.textbooks.",
+    "taxable": false,
+    "treatment": "exempt",
+    "conditions": {
+      "note": "Oregon has no state or local general sales tax, so no sales tax applies.",
+      "no_sales_tax": true
+    },
+    "effective_date": "2024-01-01",
+    "source_url": "https://www.oregon.gov/dor/programs/businesses/Pages/sales-tax.aspx",
+    "retrieved_at": "2026-11-10"
+  },
+  {
+    "state": "OR",
+    "category": "publications.magazines",
+    "category_description": "Printed magazines and periodicals, single copies or subscriptions.",
+    "taxable": false,
+    "treatment": "exempt",
+    "conditions": {
+      "note": "Oregon has no state or local general sales tax, so no sales tax applies.",
+      "no_sales_tax": true
+    },
+    "effective_date": "2024-01-01",
+    "source_url": "https://www.oregon.gov/dor/programs/businesses/Pages/sales-tax.aspx",
+    "retrieved_at": "2026-11-10"
+  },
+  {
+    "state": "OR",
+    "category": "publications.newspapers",
+    "category_description": "Printed newspapers, single copies or subscriptions.",
+    "taxable": false,
+    "treatment": "exempt",
+    "conditions": {
+      "note": "Oregon has no state or local general sales tax, so no sales tax applies.",
+      "no_sales_tax": true
+    },
+    "effective_date": "2024-01-01",
+    "source_url": "https://www.oregon.gov/dor/programs/businesses/Pages/sales-tax.aspx",
+    "retrieved_at": "2026-11-10"
+  },
+  {
+    "state": "OR",
+    "category": "publications.textbooks",
+    "category_description": "Required course and college textbooks, printed or digital, as distinct from general trade books. Many states exempt these only when sold by a school or to an enrolled student.",
+    "taxable": false,
+    "treatment": "exempt",
+    "conditions": {
+      "note": "Oregon has no state or local general sales tax, so no sales tax applies.",
+      "no_sales_tax": true
+    },
+    "effective_date": "2024-01-01",
+    "source_url": "https://www.oregon.gov/dor/programs/businesses/Pages/sales-tax.aspx",
+    "retrieved_at": "2026-11-10"
+  },
+  {
+    "state": "OR",
+    "category": "services.ai_api",
+    "category_description": "Metered access to AI models through an API, billed per token, request or compute unit.",
+    "taxable": false,
+    "treatment": "exempt",
+    "conditions": {
+      "note": "Oregon has no state or local general sales tax, so no sales tax applies.",
+      "no_sales_tax": true
+    },
+    "effective_date": "2024-01-01",
+    "source_url": "https://www.oregon.gov/dor/programs/businesses/Pages/sales-tax.aspx",
+    "retrieved_at": "2026-11-10"
+  },
+  {
+    "state": "OR",
+    "category": "services.data_processing",
+    "category_description": "Data processing and information services: collecting, storing, processing or retrieving data for a customer, data feeds, credit reports, payroll processing, online storage.",
+    "taxable": false,
+    "treatment": "exempt",
+    "conditions": {
+      "note": "Oregon has no state or local general sales tax, so no sales tax applies.",
+      "no_sales_tax": true
+    },
+    "effective_date": "2024-01-01",
+    "source_url": "https://www.oregon.gov/dor/programs/businesses/Pages/sales-tax.aspx",
+    "retrieved_at": "2026-11-10"
+  },
+  {
+    "state": "OR",
+    "category": "services.personal_care",
+    "category_description": "Services performed on a person: haircuts, salon and spa services, massage, nails, tanning, tattooing.",
+    "taxable": false,
+    "treatment": "exempt",
+    "conditions": {
+      "note": "Oregon has no state or local general sales tax, so no sales tax applies.",
+      "no_sales_tax": true
+    },
+    "effective_date": "2024-01-01",
+    "source_url": "https://www.oregon.gov/dor/programs/businesses/Pages/sales-tax.aspx",
+    "retrieved_at": "2026-11-10"
+  },
+  {
+    "state": "OR",
+    "category": "services.professional",
+    "category_description": "Professional services where the customer buys expertise or advice rather than a product: legal, accounting, bookkeeping, consulting, design, engineering, marketing, implementation and training.",
+    "taxable": false,
+    "treatment": "exempt",
+    "conditions": {
+      "note": "Oregon has no state or local general sales tax, so no sales tax applies.",
+      "no_sales_tax": true
+    },
+    "effective_date": "2024-01-01",
+    "source_url": "https://www.oregon.gov/dor/programs/businesses/Pages/sales-tax.aspx",
+    "retrieved_at": "2026-11-10"
+  },
+  {
+    "state": "OR",
+    "category": "services.repair",
+    "category_description": "Labor to repair, maintain or install tangible property: appliance, vehicle, electronics and equipment repair, servicing and maintenance.",
+    "taxable": false,
+    "treatment": "exempt",
+    "conditions": {
+      "note": "Oregon has no state or local general sales tax, so no sales tax applies.",
+      "no_sales_tax": true
+    },
+    "effective_date": "2024-01-01",
+    "source_url": "https://www.oregon.gov/dor/programs/businesses/Pages/sales-tax.aspx",
+    "retrieved_at": "2026-11-10"
+  },
+  {
+    "state": "OR",
+    "category": "services.web_hosting",
+    "category_description": "Web hosting and related infrastructure: website hosting, domain registration, server and storage space, website plans billed as hosting.",
+    "taxable": false,
+    "treatment": "exempt",
+    "conditions": {
+      "note": "Oregon has no state or local general sales tax, so no sales tax applies.",
+      "no_sales_tax": true
+    },
+    "effective_date": "2024-01-01",
+    "source_url": "https://www.oregon.gov/dor/programs/businesses/Pages/sales-tax.aspx",
+    "retrieved_at": "2026-11-10"
+  },
+  {
+    "state": "OR",
+    "category": "software.custom",
+    "category_description": "Software written for one specific customer to its own specifications. Off-the-shelf software configured for a customer is not custom.",
+    "taxable": false,
+    "treatment": "exempt",
+    "conditions": {
+      "note": "Oregon has no state or local general sales tax, so no sales tax applies.",
+      "no_sales_tax": true
+    },
+    "effective_date": "2024-01-01",
+    "source_url": "https://www.oregon.gov/dor/programs/businesses/Pages/sales-tax.aspx",
+    "retrieved_at": "2026-11-10"
+  },
+  {
+    "state": "OR",
+    "category": "software.prewritten",
+    "category_description": "Off-the-shelf (canned) software the customer installs: downloaded programs and apps, software on disc, operating systems, and licences or updates for installed software.",
+    "taxable": false,
+    "treatment": "exempt",
+    "conditions": {
+      "note": "Oregon has no state or local general sales tax, so no sales tax applies.",
+      "no_sales_tax": true
+    },
+    "effective_date": "2024-01-01",
+    "source_url": "https://www.oregon.gov/dor/programs/businesses/Pages/sales-tax.aspx",
+    "retrieved_at": "2026-11-10"
+  },
+  {
+    "state": "OR",
+    "category": "software.saas",
+    "category_description": "Software as a Service: off-the-shelf software the customer uses over the internet without installing a copy, usually by subscription. Includes web apps and online platforms.",
+    "taxable": false,
+    "treatment": "exempt",
+    "conditions": {
+      "note": "Oregon has no state or local general sales tax, so no sales tax applies.",
+      "no_sales_tax": true
+    },
+    "effective_date": "2024-01-01",
+    "source_url": "https://www.oregon.gov/dor/programs/businesses/Pages/sales-tax.aspx",
+    "retrieved_at": "2026-11-10"
   },
   {
     "state": "PA",

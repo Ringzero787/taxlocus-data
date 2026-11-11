@@ -26738,6 +26738,18 @@
   {
     "state": "FL",
     "jurisdiction_type": "county",
+    "name": "Citrus",
+    "fips_code": null,
+    "rate": 0.0,
+    "source_key": "FL-C-citrus",
+    "rate_type": "sales",
+    "effective_date": "2026-01-01",
+    "source_url": "https://floridarevenue.com/Forms_library/current/dr15dss_26.pdf",
+    "retrieved_at": "2026-11-11"
+  },
+  {
+    "state": "FL",
+    "jurisdiction_type": "county",
     "name": "Clay",
     "fips_code": null,
     "rate": 0.015,
@@ -26746,6 +26758,18 @@
     "effective_date": "2026-01-01",
     "source_url": "https://floridarevenue.com/Forms_library/current/dr15dss.pdf",
     "retrieved_at": "2026-05-18"
+  },
+  {
+    "state": "FL",
+    "jurisdiction_type": "county",
+    "name": "Collier",
+    "fips_code": null,
+    "rate": 0.0,
+    "source_key": "FL-C-collier",
+    "rate_type": "sales",
+    "effective_date": "2026-01-01",
+    "source_url": "https://floridarevenue.com/Forms_library/current/dr15dss_26.pdf",
+    "retrieved_at": "2026-11-11"
   },
   {
     "state": "FL",
