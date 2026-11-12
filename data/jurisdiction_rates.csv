@@ -2460,7 +2460,10 @@ HI,county,Kalawao,005,0.005,HI-C-005,sales,2024-01-01,https://tax.hawaii.gov/gen
 HI,county,Kauai,007,0.005,HI-C-007,sales,2024-01-01,https://tax.hawaii.gov/geninfo/countysurcharge/,2026-05-18
 HI,county,Maui,009,0.005,HI-C-009,sales,2024-01-01,https://tax.hawaii.gov/geninfo/countysurcharge/,2026-05-18
 IA,city,Ackley,00190,0.01,IA-P-00190,sales,1997-01-01,https://revenue.iowa.gov/media/195/download?inline,2026-11-12
+IA,city,Ackley (Franklin County part),00190,0.0,IA-P-00190-C069,sales,2026-07-01,https://revenue.iowa.gov/media/195/download?inline,2026-11-12
+IA,city,Ackworth,00235,0.0,IA-P-00235,sales,2026-07-01,https://revenue.iowa.gov/media/195/download?inline,2026-11-12
 IA,city,Adair,00370,0.01,IA-P-00370,sales,2005-07-01,https://revenue.iowa.gov/media/195/download?inline,2026-11-12
+IA,city,Adair (Guthrie County part),00370,0.0,IA-P-00370-C077,sales,2026-07-01,https://revenue.iowa.gov/media/195/download?inline,2026-11-12
 IA,city,Adel,00505,0.01,IA-P-00505,sales,2011-01-01,https://revenue.iowa.gov/media/195/download?inline,2026-11-12
 IA,city,Afton,00595,0.01,IA-P-00595,sales,2005-07-01,https://revenue.iowa.gov/media/195/download?inline,2026-11-12
 IA,city,Agency,00640,0.01,IA-P-00640,sales,1998-07-01,https://revenue.iowa.gov/media/195/download?inline,2026-11-12
@@ -2486,6 +2489,7 @@ IA,city,Anamosa,01990,0.01,IA-P-01990,sales,1999-01-01,https://revenue.iowa.gov/
 IA,city,Andover,02080,0.01,IA-P-02080,sales,1989-10-01,https://revenue.iowa.gov/media/195/download?inline,2026-11-12
 IA,city,Andrew,02125,0.01,IA-P-02125,sales,1995-01-01,https://revenue.iowa.gov/media/195/download?inline,2026-11-12
 IA,city,Anita,02260,0.01,IA-P-02260,sales,1997-01-01,https://revenue.iowa.gov/media/195/download?inline,2026-11-12
+IA,city,Ankeny,02305,0.0,IA-P-02305,sales,2026-07-01,https://revenue.iowa.gov/media/195/download?inline,2026-11-12
 IA,city,Anthon,02350,0.01,IA-P-02350,sales,1988-10-01,https://revenue.iowa.gov/media/195/download?inline,2026-11-12
 IA,city,Aplington,02395,0.01,IA-P-02395,sales,1997-01-01,https://revenue.iowa.gov/media/195/download?inline,2026-11-12
 IA,city,Arcadia,02485,0.01,IA-P-02485,sales,2003-01-01,https://revenue.iowa.gov/media/195/download?inline,2026-11-12
@@ -2587,6 +2591,7 @@ IA,city,Carson,11170,0.01,IA-P-11170,sales,1995-01-01,https://revenue.iowa.gov/m
 IA,city,Carter Lake,11215,0.01,IA-P-11215,sales,1995-01-01,https://revenue.iowa.gov/media/195/download?inline,2026-11-12
 IA,city,Cascade,11305,0.01,IA-P-11305,sales,1989-10-01,https://revenue.iowa.gov/media/195/download?inline,2026-11-12
 IA,city,Casey,11395,0.01,IA-P-11395,sales,2004-01-01,https://revenue.iowa.gov/media/195/download?inline,2026-11-12
+IA,city,Casey (Adair County part),11395,0.0,IA-P-11395-C001,sales,2026-07-01,https://revenue.iowa.gov/media/195/download?inline,2026-11-12
 IA,city,Castalia,11485,0.01,IA-P-11485,sales,1991-07-01,https://revenue.iowa.gov/media/195/download?inline,2026-11-12
 IA,city,Castana,11530,0.01,IA-P-11530,sales,1990-07-01,https://revenue.iowa.gov/media/195/download?inline,2026-11-12
 IA,city,Cedar Falls,11755,0.01,IA-P-11755,sales,1991-04-01,https://revenue.iowa.gov/media/195/download?inline,2026-11-12
@@ -2614,6 +2619,7 @@ IA,city,Clarksville,13755,0.01,IA-P-13755,sales,2000-01-01,https://revenue.iowa.
 IA,city,Clayton,13845,0.01,IA-P-13845,sales,2005-07-01,https://revenue.iowa.gov/media/195/download?inline,2026-11-12
 IA,city,Clear Lake,14025,0.01,IA-P-14025,sales,1992-07-01,https://revenue.iowa.gov/media/195/download?inline,2026-11-12
 IA,city,Clearfield,13980,0.01,IA-P-13980,sales,2001-07-01,https://revenue.iowa.gov/media/195/download?inline,2026-11-12
+IA,city,Clearfield (Ringgold County part),13980,0.0,IA-P-13980-C159,sales,2026-07-01,https://revenue.iowa.gov/media/195/download?inline,2026-11-12
 IA,city,Cleghorn,14115,0.01,IA-P-14115,sales,1996-07-01,https://revenue.iowa.gov/media/195/download?inline,2026-11-12
 IA,city,Clemons,14160,0.01,IA-P-14160,sales,2000-07-01,https://revenue.iowa.gov/media/195/download?inline,2026-11-12
 IA,city,Clermont,14250,0.01,IA-P-14250,sales,1995-01-01,https://revenue.iowa.gov/media/195/download?inline,2026-11-12
@@ -2635,7 +2641,9 @@ IA,city,Colwell,15465,0.01,IA-P-15465,sales,1997-10-01,https://revenue.iowa.gov/
 IA,city,Conesville,15645,0.01,IA-P-15645,sales,1994-07-01,https://revenue.iowa.gov/media/195/download?inline,2026-11-12
 IA,city,Conrad,15825,0.01,IA-P-15825,sales,2004-01-01,https://revenue.iowa.gov/media/195/download?inline,2026-11-12
 IA,city,Coon Rapids,16050,0.01,IA-P-16050,sales,2003-01-01,https://revenue.iowa.gov/media/195/download?inline,2026-11-12
+IA,city,Coon Rapids (Guthrie County part),16050,0.0,IA-P-16050-C077,sales,2026-07-01,https://revenue.iowa.gov/media/195/download?inline,2026-11-12
 IA,city,Coppock,16140,0.01,IA-P-16140,sales,1995-10-01,https://revenue.iowa.gov/media/195/download?inline,2026-11-12
+IA,city,Coppock (Jefferson County part),16140,0.0,IA-P-16140-C101,sales,2026-07-01,https://revenue.iowa.gov/media/195/download?inline,2026-11-12
 IA,city,Coralville,16230,0.01,IA-P-16230,sales,2026-07-01,https://revenue.iowa.gov/media/195/download?inline,2026-11-12
 IA,city,Corning,16500,0.01,IA-P-16500,sales,2007-07-01,https://revenue.iowa.gov/media/195/download?inline,2026-11-12
 IA,city,Correctionville,16545,0.01,IA-P-16545,sales,1988-10-01,https://revenue.iowa.gov/media/195/download?inline,2026-11-12
@@ -2699,6 +2707,8 @@ IA,city,Duncombe,22755,0.01,IA-P-22755,sales,2009-07-01,https://revenue.iowa.gov
 IA,city,Dundee,22800,0.01,IA-P-22800,sales,1995-04-01,https://revenue.iowa.gov/media/195/download?inline,2026-11-12
 IA,city,Dunkerton,22845,0.01,IA-P-22845,sales,1991-10-01,https://revenue.iowa.gov/media/195/download?inline,2026-11-12
 IA,city,Dunlap,22890,0.01,IA-P-22890,sales,1997-10-01,https://revenue.iowa.gov/media/195/download?inline,2026-11-12
+IA,city,Dunlap (Crawford County part),22890,0.0,IA-P-22890-C047,sales,2026-07-01,https://revenue.iowa.gov/media/195/download?inline,2026-11-12
+IA,city,Durango,22935,0.0,IA-P-22935,sales,2026-07-01,https://revenue.iowa.gov/media/195/download?inline,2026-11-12
 IA,city,Durant,22980,0.01,IA-P-22980,sales,1997-04-01,https://revenue.iowa.gov/media/195/download?inline,2026-11-12
 IA,city,Dyersville,23115,0.01,IA-P-23115,sales,1989-10-01,https://revenue.iowa.gov/media/195/download?inline,2026-11-12
 IA,city,Dysart,23160,0.01,IA-P-23160,sales,2003-07-01,https://revenue.iowa.gov/media/195/download?inline,2026-11-12
@@ -2741,6 +2751,7 @@ IA,city,Farley,26760,0.01,IA-P-26760,sales,1988-07-01,https://revenue.iowa.gov/m
 IA,city,Farmersburg,26850,0.01,IA-P-26850,sales,1994-10-01,https://revenue.iowa.gov/media/195/download?inline,2026-11-12
 IA,city,Farmington,26895,0.01,IA-P-26895,sales,2003-07-01,https://revenue.iowa.gov/media/195/download?inline,2026-11-12
 IA,city,Farnhamville,26940,0.01,IA-P-26940,sales,2008-07-01,https://revenue.iowa.gov/media/195/download?inline,2026-11-12
+IA,city,Farnhamville (Webster County part),26940,0.0,IA-P-26940-C187,sales,2026-07-01,https://revenue.iowa.gov/media/195/download?inline,2026-11-12
 IA,city,Farragut,26985,0.01,IA-P-26985,sales,1996-01-01,https://revenue.iowa.gov/media/195/download?inline,2026-11-12
 IA,city,Fayette,27165,0.01,IA-P-27165,sales,1995-07-01,https://revenue.iowa.gov/media/195/download?inline,2026-11-12
 IA,city,Fenton,27210,0.01,IA-P-27210,sales,1999-07-01,https://revenue.iowa.gov/media/195/download?inline,2026-11-12
@@ -2799,6 +2810,7 @@ IA,city,Gravity,32520,0.01,IA-P-32520,sales,2001-07-01,https://revenue.iowa.gov/
 IA,city,Gray,32565,0.01,IA-P-32565,sales,1999-01-01,https://revenue.iowa.gov/media/195/download?inline,2026-11-12
 IA,city,Greeley,32610,0.01,IA-P-32610,sales,1994-10-01,https://revenue.iowa.gov/media/195/download?inline,2026-11-12
 IA,city,Greene,32745,0.01,IA-P-32745,sales,1997-01-01,https://revenue.iowa.gov/media/195/download?inline,2026-11-12
+IA,city,Greene (Floyd County part),32745,0.0,IA-P-32745-C067,sales,2026-07-01,https://revenue.iowa.gov/media/195/download?inline,2026-11-12
 IA,city,Greenfield,32790,0.01,IA-P-32790,sales,2006-01-01,https://revenue.iowa.gov/media/195/download?inline,2026-11-12
 IA,city,Greenville,32970,0.01,IA-P-32970,sales,1999-01-01,https://revenue.iowa.gov/media/195/download?inline,2026-11-12
 IA,city,Grimes,33060,0.01,IA-P-33060,sales,2004-04-01,https://revenue.iowa.gov/media/195/download?inline,2026-11-12
@@ -2882,6 +2894,7 @@ IA,city,Keokuk,40845,0.01,IA-P-40845,sales,1991-10-01,https://revenue.iowa.gov/m
 IA,city,Keomah Village,40890,0.01,IA-P-40890,sales,1995-04-01,https://revenue.iowa.gov/media/195/download?inline,2026-11-12
 IA,city,Keosauqua,40935,0.01,IA-P-40935,sales,2001-07-01,https://revenue.iowa.gov/media/195/download?inline,2026-11-12
 IA,city,Keota,40980,0.01,IA-P-40980,sales,2007-07-01,https://revenue.iowa.gov/media/195/download?inline,2026-11-12
+IA,city,Keota (Washington County part),40980,0.0,IA-P-40980-C183,sales,2026-07-01,https://revenue.iowa.gov/media/195/download?inline,2026-11-12
 IA,city,Keswick,41070,0.01,IA-P-41070,sales,2007-07-01,https://revenue.iowa.gov/media/195/download?inline,2026-11-12
 IA,city,Keystone,41115,0.01,IA-P-41115,sales,2004-07-01,https://revenue.iowa.gov/media/195/download?inline,2026-11-12
 IA,city,Kimballton,41295,0.01,IA-P-41295,sales,2003-01-01,https://revenue.iowa.gov/media/195/download?inline,2026-11-12
@@ -2917,6 +2930,7 @@ IA,city,Lawler,43815,0.01,IA-P-43815,sales,1997-04-01,https://revenue.iowa.gov/m
 IA,city,Lawton,43905,0.01,IA-P-43905,sales,1988-10-01,https://revenue.iowa.gov/media/195/download?inline,2026-11-12
 IA,city,Le Claire,44085,0.01,IA-P-44085,sales,1989-01-01,https://revenue.iowa.gov/media/195/download?inline,2026-11-12
 IA,city,Le Grand,44220,0.01,IA-P-44220,sales,2000-07-01,https://revenue.iowa.gov/media/195/download?inline,2026-11-12
+IA,city,Le Grand (Tama County part),44220,0.0,IA-P-44220-C171,sales,2026-07-01,https://revenue.iowa.gov/media/195/download?inline,2026-11-12
 IA,city,Le Mars,44400,0.01,IA-P-44400,sales,2002-01-01,https://revenue.iowa.gov/media/195/download?inline,2026-11-12
 IA,city,Le Roy,44580,0.01,IA-P-44580,sales,1997-01-01,https://revenue.iowa.gov/media/195/download?inline,2026-11-12
 IA,city,Ledyard,44130,0.01,IA-P-44130,sales,1999-07-01,https://revenue.iowa.gov/media/195/download?inline,2026-11-12
@@ -2924,6 +2938,7 @@ IA,city,Lehigh,44265,0.01,IA-P-44265,sales,2009-07-01,https://revenue.iowa.gov/m
 IA,city,Leighton,44310,0.01,IA-P-44310,sales,1995-04-01,https://revenue.iowa.gov/media/195/download?inline,2026-11-12
 IA,city,Leland,44355,0.01,IA-P-44355,sales,1999-10-01,https://revenue.iowa.gov/media/195/download?inline,2026-11-12
 IA,city,Lenox,44490,0.01,IA-P-44490,sales,2006-01-01,https://revenue.iowa.gov/media/195/download?inline,2026-11-12
+IA,city,Lenox (Adams County part),44490,0.0,IA-P-44490-C003,sales,2026-07-01,https://revenue.iowa.gov/media/195/download?inline,2026-11-12
 IA,city,Leon,44535,0.01,IA-P-44535,sales,2001-07-01,https://revenue.iowa.gov/media/195/download?inline,2026-11-12
 IA,city,Lester,44670,0.01,IA-P-44670,sales,1996-10-01,https://revenue.iowa.gov/media/195/download?inline,2026-11-12
 IA,city,Letts,44715,0.01,IA-P-44715,sales,2007-07-01,https://revenue.iowa.gov/media/195/download?inline,2026-11-12
@@ -3023,6 +3038,7 @@ IA,city,Mingo,52815,0.01,IA-P-52815,sales,2004-07-01,https://revenue.iowa.gov/me
 IA,city,Missouri Valley,52860,0.01,IA-P-52860,sales,1998-10-01,https://revenue.iowa.gov/media/195/download?inline,2026-11-12
 IA,city,Mitchell,52905,0.01,IA-P-52905,sales,1995-01-01,https://revenue.iowa.gov/media/195/download?inline,2026-11-12
 IA,city,Mitchellville,52950,0.01,IA-P-52950,sales,2018-07-01,https://revenue.iowa.gov/media/195/download?inline,2026-11-12
+IA,city,Mitchellville (Jasper County part),52950,0.0,IA-P-52950-C099,sales,2026-07-01,https://revenue.iowa.gov/media/195/download?inline,2026-11-12
 IA,city,Modale,52995,0.01,IA-P-52995,sales,1998-10-01,https://revenue.iowa.gov/media/195/download?inline,2026-11-12
 IA,city,Mondamin,53175,0.01,IA-P-53175,sales,1997-10-01,https://revenue.iowa.gov/media/195/download?inline,2026-11-12
 IA,city,Monmouth,53265,0.01,IA-P-53265,sales,1994-10-01,https://revenue.iowa.gov/media/195/download?inline,2026-11-12
@@ -3035,6 +3051,7 @@ IA,city,Montrose,53760,0.01,IA-P-53760,sales,1991-10-01,https://revenue.iowa.gov
 IA,city,Moorhead,53850,0.01,IA-P-53850,sales,1990-07-01,https://revenue.iowa.gov/media/195/download?inline,2026-11-12
 IA,city,Moorland,53895,0.01,IA-P-53895,sales,2009-07-01,https://revenue.iowa.gov/media/195/download?inline,2026-11-12
 IA,city,Moravia,53985,0.01,IA-P-53985,sales,2003-07-01,https://revenue.iowa.gov/media/195/download?inline,2026-11-12
+IA,city,Moravia (Monroe County part),53985,0.0,IA-P-53985-C135,sales,2026-07-01,https://revenue.iowa.gov/media/195/download?inline,2026-11-12
 IA,city,Morley,54030,0.01,IA-P-54030,sales,1995-04-01,https://revenue.iowa.gov/media/195/download?inline,2026-11-12
 IA,city,Morning Sun,54120,0.01,IA-P-54120,sales,2007-07-01,https://revenue.iowa.gov/media/195/download?inline,2026-11-12
 IA,city,Morrison,54165,0.01,IA-P-54165,sales,1999-10-01,https://revenue.iowa.gov/media/195/download?inline,2026-11-12
@@ -3048,6 +3065,7 @@ IA,city,Murray,55065,0.01,IA-P-55065,sales,2010-07-01,https://revenue.iowa.gov/m
 IA,city,Muscatine,55110,0.01,IA-P-55110,sales,1994-07-01,https://revenue.iowa.gov/media/195/download?inline,2026-11-12
 IA,city,Mystic,55200,0.01,IA-P-55200,sales,1999-07-01,https://revenue.iowa.gov/media/195/download?inline,2026-11-12
 IA,city,Nashua,55335,0.01,IA-P-55335,sales,1997-04-01,https://revenue.iowa.gov/media/195/download?inline,2026-11-12
+IA,city,Nashua (Floyd County part),55335,0.0,IA-P-55335-C067,sales,2026-07-01,https://revenue.iowa.gov/media/195/download?inline,2026-11-12
 IA,city,Nemaha,55515,0.01,IA-P-55515,sales,2006-01-01,https://revenue.iowa.gov/media/195/download?inline,2026-11-12
 IA,city,Neola,55560,0.01,IA-P-55560,sales,1995-01-01,https://revenue.iowa.gov/media/195/download?inline,2026-11-12
 IA,city,Nevada,55695,0.01,IA-P-55695,sales,1989-01-01,https://revenue.iowa.gov/media/195/download?inline,2026-11-12
@@ -3067,13 +3085,16 @@ IA,city,Newton,56505,0.01,IA-P-56505,sales,2006-07-01,https://revenue.iowa.gov/m
 IA,city,Nichols,56685,0.01,IA-P-56685,sales,1995-01-01,https://revenue.iowa.gov/media/195/download?inline,2026-11-12
 IA,city,Nodaway,56865,0.01,IA-P-56865,sales,2007-07-01,https://revenue.iowa.gov/media/195/download?inline,2026-11-12
 IA,city,Nora Springs,56910,0.01,IA-P-56910,sales,1996-10-01,https://revenue.iowa.gov/media/195/download?inline,2026-11-12
+IA,city,Nora Springs (Cerro Gordo County part),56910,0.0,IA-P-56910-C033,sales,2026-07-01,https://revenue.iowa.gov/media/195/download?inline,2026-11-12
 IA,city,North Buena Vista,57135,0.01,IA-P-57135,sales,1995-10-01,https://revenue.iowa.gov/media/195/download?inline,2026-11-12
 IA,city,North English,57225,0.01,IA-P-57225,sales,1994-04-01,https://revenue.iowa.gov/media/195/download?inline,2026-11-12
+IA,city,North English (Keokuk County part),57225,0.0,IA-P-57225-C107,sales,2026-07-01,https://revenue.iowa.gov/media/195/download?inline,2026-11-12
 IA,city,North Liberty,57360,0.01,IA-P-57360,sales,2026-07-01,https://revenue.iowa.gov/media/195/download?inline,2026-11-12
 IA,city,North Washington,57495,0.01,IA-P-57495,sales,1997-04-01,https://revenue.iowa.gov/media/195/download?inline,2026-11-12
 IA,city,Northboro,57045,0.01,IA-P-57045,sales,1996-07-01,https://revenue.iowa.gov/media/195/download?inline,2026-11-12
 IA,city,Northwood,57630,0.01,IA-P-57630,sales,1997-01-01,https://revenue.iowa.gov/media/195/download?inline,2026-11-12
 IA,city,Norwalk,57675,0.01,IA-P-57675,sales,2016-07-01,https://revenue.iowa.gov/media/195/download?inline,2026-11-12
+IA,city,Norwalk (Polk County part),57675,0.0,IA-P-57675-C153,sales,2026-07-01,https://revenue.iowa.gov/media/195/download?inline,2026-11-12
 IA,city,Norway,57720,0.01,IA-P-57720,sales,2008-07-01,https://revenue.iowa.gov/media/195/download?inline,2026-11-12
 IA,city,Numa,57945,0.01,IA-P-57945,sales,2004-07-01,https://revenue.iowa.gov/media/195/download?inline,2026-11-12
 IA,city,Oakland,58080,0.01,IA-P-58080,sales,1995-01-01,https://revenue.iowa.gov/media/195/download?inline,2026-11-12
@@ -3119,6 +3140,7 @@ IA,city,Paton,61815,0.01,IA-P-61815,sales,2007-01-01,https://revenue.iowa.gov/me
 IA,city,Patterson,61860,0.01,IA-P-61860,sales,2004-07-01,https://revenue.iowa.gov/media/195/download?inline,2026-11-12
 IA,city,Paullina,61905,0.01,IA-P-61905,sales,1996-01-01,https://revenue.iowa.gov/media/195/download?inline,2026-11-12
 IA,city,Pella,62040,0.01,IA-P-62040,sales,2002-01-01,https://revenue.iowa.gov/media/195/download?inline,2026-11-12
+IA,city,Pella (Mahaska County part),62040,0.0,IA-P-62040-C123,sales,2026-07-01,https://revenue.iowa.gov/media/195/download?inline,2026-11-12
 IA,city,Peosta,62130,0.01,IA-P-62130,sales,1988-07-01,https://revenue.iowa.gov/media/195/download?inline,2026-11-12
 IA,city,Perry,62355,0.01,IA-P-62355,sales,2010-07-01,https://revenue.iowa.gov/media/195/download?inline,2026-11-12
 IA,city,Persia,62445,0.01,IA-P-62445,sales,1997-10-01,https://revenue.iowa.gov/media/195/download?inline,2026-11-12
@@ -3148,12 +3170,14 @@ IA,city,Primghar,64650,0.01,IA-P-64650,sales,1996-01-01,https://revenue.iowa.gov
 IA,city,Princeton,64740,0.01,IA-P-64740,sales,1989-01-01,https://revenue.iowa.gov/media/195/download?inline,2026-11-12
 IA,city,Promise City,64875,0.01,IA-P-64875,sales,2008-01-01,https://revenue.iowa.gov/media/195/download?inline,2026-11-12
 IA,city,Protivin,65010,0.01,IA-P-65010,sales,1994-01-01,https://revenue.iowa.gov/media/195/download?inline,2026-11-12
+IA,city,Protivin (Chickasaw County part),65010,0.0,IA-P-65010-C037,sales,2026-07-01,https://revenue.iowa.gov/media/195/download?inline,2026-11-12
 IA,city,Pulaski,65055,0.01,IA-P-65055,sales,2003-07-01,https://revenue.iowa.gov/media/195/download?inline,2026-11-12
 IA,city,Quasqueton,65235,0.01,IA-P-65235,sales,2001-01-01,https://revenue.iowa.gov/media/195/download?inline,2026-11-12
 IA,city,Quimby,65280,0.01,IA-P-65280,sales,1998-01-01,https://revenue.iowa.gov/media/195/download?inline,2026-11-12
 IA,city,Radcliffe,65370,0.01,IA-P-65370,sales,1996-04-01,https://revenue.iowa.gov/media/195/download?inline,2026-11-12
 IA,city,Rake,65415,0.01,IA-P-65415,sales,1999-10-01,https://revenue.iowa.gov/media/195/download?inline,2026-11-12
 IA,city,Ralston,65505,0.01,IA-P-65505,sales,2003-01-01,https://revenue.iowa.gov/media/195/download?inline,2026-11-12
+IA,city,Ralston (Greene County part),65505,0.0,IA-P-65505-C073,sales,2026-07-01,https://revenue.iowa.gov/media/195/download?inline,2026-11-12
 IA,city,Randall,65595,0.01,IA-P-65595,sales,2002-07-01,https://revenue.iowa.gov/media/195/download?inline,2026-11-12
 IA,city,Randolph,65640,0.01,IA-P-65640,sales,1996-01-01,https://revenue.iowa.gov/media/195/download?inline,2026-11-12
 IA,city,Rathbun,65730,0.01,IA-P-65730,sales,2008-01-01,https://revenue.iowa.gov/media/195/download?inline,2026-11-12
@@ -3208,6 +3232,7 @@ IA,city,Sageville,69690,0.01,IA-P-69690,sales,1988-04-01,https://revenue.iowa.go
 IA,city,Salem,70230,0.01,IA-P-70230,sales,1995-10-01,https://revenue.iowa.gov/media/195/download?inline,2026-11-12
 IA,city,Salix,70320,0.01,IA-P-70320,sales,1987-01-01,https://revenue.iowa.gov/media/195/download?inline,2026-11-12
 IA,city,Sanborn,70410,0.01,IA-P-70410,sales,1996-01-01,https://revenue.iowa.gov/media/195/download?inline,2026-11-12
+IA,city,Sandyville,70590,0.0,IA-P-70590,sales,2026-07-01,https://revenue.iowa.gov/media/195/download?inline,2026-11-12
 IA,city,Scarville,71040,0.01,IA-P-71040,sales,1999-10-01,https://revenue.iowa.gov/media/195/download?inline,2026-11-12
 IA,city,Schaller,71085,0.01,IA-P-71085,sales,2006-01-01,https://revenue.iowa.gov/media/195/download?inline,2026-11-12
 IA,city,Schleswig,71130,0.01,IA-P-71130,sales,1999-01-01,https://revenue.iowa.gov/media/195/download?inline,2026-11-12
@@ -3217,9 +3242,11 @@ IA,city,Sergeant Bluff,71625,0.01,IA-P-71625,sales,1987-01-01,https://revenue.io
 IA,city,Seymour,71760,0.01,IA-P-71760,sales,2008-01-01,https://revenue.iowa.gov/media/195/download?inline,2026-11-12
 IA,city,Shambaugh,71895,0.01,IA-P-71895,sales,1996-01-01,https://revenue.iowa.gov/media/195/download?inline,2026-11-12
 IA,city,Shannon City,71940,0.01,IA-P-71940,sales,2005-07-01,https://revenue.iowa.gov/media/195/download?inline,2026-11-12
+IA,city,Shannon City (Ringgold County part),71940,0.0,IA-P-71940-C159,sales,2026-07-01,https://revenue.iowa.gov/media/195/download?inline,2026-11-12
 IA,city,Sharpsburg,72075,0.01,IA-P-72075,sales,2006-01-01,https://revenue.iowa.gov/media/195/download?inline,2026-11-12
 IA,city,Sheffield,72210,0.01,IA-P-72210,sales,1995-10-01,https://revenue.iowa.gov/media/195/download?inline,2026-11-12
 IA,city,Shelby,72300,0.01,IA-P-72300,sales,1998-01-01,https://revenue.iowa.gov/media/195/download?inline,2026-11-12
+IA,city,Shelby (Pottawattamie County part),72300,0.0,IA-P-72300-C155,sales,2026-07-01,https://revenue.iowa.gov/media/195/download?inline,2026-11-12
 IA,city,Sheldahl,72345,0.01,IA-P-72345,sales,1987-07-01,https://revenue.iowa.gov/media/195/download?inline,2026-11-12
 IA,city,Sheldon,72390,0.01,IA-P-72390,sales,1996-01-01,https://revenue.iowa.gov/media/195/download?inline,2026-11-12
 IA,city,Shell Rock,72435,0.01,IA-P-72435,sales,2000-01-01,https://revenue.iowa.gov/media/195/download?inline,2026-11-12
@@ -3233,6 +3260,7 @@ IA,city,Sigourney,73110,0.01,IA-P-73110,sales,2007-07-01,https://revenue.iowa.go
 IA,city,Silver City,73155,0.01,IA-P-73155,sales,2007-01-01,https://revenue.iowa.gov/media/195/download?inline,2026-11-12
 IA,city,Sioux Center,73290,0.01,IA-P-73290,sales,1995-10-01,https://revenue.iowa.gov/media/195/download?inline,2026-11-12
 IA,city,Sioux City,73335,0.01,IA-P-73335,sales,1987-01-01,https://revenue.iowa.gov/media/195/download?inline,2026-11-12
+IA,city,Sioux City (Plymouth County part),73335,0.0,IA-P-73335-C149,sales,2026-07-01,https://revenue.iowa.gov/media/195/download?inline,2026-11-12
 IA,city,Sioux Rapids,73425,0.01,IA-P-73425,sales,1991-07-01,https://revenue.iowa.gov/media/195/download?inline,2026-11-12
 IA,city,Slater,73515,0.01,IA-P-73515,sales,1987-07-01,https://revenue.iowa.gov/media/195/download?inline,2026-11-12
 IA,city,Sloan,73605,0.01,IA-P-73605,sales,1987-01-01,https://revenue.iowa.gov/media/195/download?inline,2026-11-12
@@ -3245,6 +3273,7 @@ IA,city,Spencer,74280,0.01,IA-P-74280,sales,1999-01-01,https://revenue.iowa.gov/
 IA,city,Spillville,74370,0.01,IA-P-74370,sales,1991-07-01,https://revenue.iowa.gov/media/195/download?inline,2026-11-12
 IA,city,Spirit Lake,74415,0.01,IA-P-74415,sales,1997-04-01,https://revenue.iowa.gov/media/195/download?inline,2026-11-12
 IA,city,Spragueville,74460,0.01,IA-P-74460,sales,1989-10-01,https://revenue.iowa.gov/media/195/download?inline,2026-11-12
+IA,city,Spring Hill,74685,0.0,IA-P-74685,sales,2026-07-01,https://revenue.iowa.gov/media/195/download?inline,2026-11-12
 IA,city,Springbrook,74505,0.01,IA-P-74505,sales,1989-10-01,https://revenue.iowa.gov/media/195/download?inline,2026-11-12
 IA,city,Springville,74775,0.01,IA-P-74775,sales,2009-04-01,https://revenue.iowa.gov/media/195/download?inline,2026-11-12
 IA,city,St. Ansgar,69735,0.01,IA-P-69735,sales,1995-01-01,https://revenue.iowa.gov/media/195/download?inline,2026-11-12
@@ -3325,7 +3354,9 @@ IA,city,Volga,81345,0.01,IA-P-81345,sales,1994-10-01,https://revenue.iowa.gov/me
 IA,city,Wadena,81570,0.01,IA-P-81570,sales,1995-01-01,https://revenue.iowa.gov/media/195/download?inline,2026-11-12
 IA,city,Wahpeton,81615,0.01,IA-P-81615,sales,1998-01-01,https://revenue.iowa.gov/media/195/download?inline,2026-11-12
 IA,city,Walcott,81705,0.01,IA-P-81705,sales,1989-01-01,https://revenue.iowa.gov/media/195/download?inline,2026-11-12
+IA,city,Walcott (Muscatine County part),81705,0.0,IA-P-81705-C139,sales,2026-07-01,https://revenue.iowa.gov/media/195/download?inline,2026-11-12
 IA,city,Walford,81840,0.01,IA-P-81840,sales,2009-07-01,https://revenue.iowa.gov/media/195/download?inline,2026-11-12
+IA,city,Walford (Benton County part),81840,0.0,IA-P-81840-C011,sales,2026-07-01,https://revenue.iowa.gov/media/195/download?inline,2026-11-12
 IA,city,Walker,81885,0.01,IA-P-81885,sales,2009-04-01,https://revenue.iowa.gov/media/195/download?inline,2026-11-12
 IA,city,Wall Lake,82020,0.01,IA-P-82020,sales,2006-01-01,https://revenue.iowa.gov/media/195/download?inline,2026-11-12
 IA,city,Wallingford,81975,0.01,IA-P-81975,sales,2009-01-01,https://revenue.iowa.gov/media/195/download?inline,2026-11-12
@@ -3353,6 +3384,7 @@ IA,city,West Branch,83595,0.01,IA-P-83595,sales,2011-07-01,https://revenue.iowa.
 IA,city,West Burlington,83685,0.01,IA-P-83685,sales,1994-10-01,https://revenue.iowa.gov/media/195/download?inline,2026-11-12
 IA,city,West Chester,83775,0.01,IA-P-83775,sales,2002-07-01,https://revenue.iowa.gov/media/195/download?inline,2026-11-12
 IA,city,West Des Moines,83910,0.01,IA-P-83910,sales,2016-07-01,https://revenue.iowa.gov/media/195/download?inline,2026-11-12
+IA,city,West Des Moines (Madison County part),83910,0.0,IA-P-83910-C121,sales,2026-07-01,https://revenue.iowa.gov/media/195/download?inline,2026-11-12
 IA,city,West Liberty,84315,0.01,IA-P-84315,sales,1995-07-01,https://revenue.iowa.gov/media/195/download?inline,2026-11-12
 IA,city,West Okoboji,84450,0.01,IA-P-84450,sales,1998-01-01,https://revenue.iowa.gov/media/195/download?inline,2026-11-12
 IA,city,West Point,84585,0.01,IA-P-84585,sales,1995-01-01,https://revenue.iowa.gov/media/195/download?inline,2026-11-12
@@ -3372,6 +3404,7 @@ IA,city,Williams,85800,0.01,IA-P-85800,sales,2002-07-01,https://revenue.iowa.gov
 IA,city,Williamsburg,85845,0.01,IA-P-85845,sales,1994-04-01,https://revenue.iowa.gov/media/195/download?inline,2026-11-12
 IA,city,Williamson,85935,0.01,IA-P-85935,sales,1998-04-01,https://revenue.iowa.gov/media/195/download?inline,2026-11-12
 IA,city,Wilton,86070,0.01,IA-P-86070,sales,1994-07-01,https://revenue.iowa.gov/media/195/download?inline,2026-11-12
+IA,city,Wilton (Cedar County part),86070,0.0,IA-P-86070-C031,sales,2026-07-01,https://revenue.iowa.gov/media/195/download?inline,2026-11-12
 IA,city,Windsor Heights,86250,0.01,IA-P-86250,sales,2019-07-01,https://revenue.iowa.gov/media/195/download?inline,2026-11-12
 IA,city,Winfield,86385,0.01,IA-P-86385,sales,1995-10-01,https://revenue.iowa.gov/media/195/download?inline,2026-11-12
 IA,city,Winterset,86520,0.01,IA-P-86520,sales,2004-07-01,https://revenue.iowa.gov/media/195/download?inline,2026-11-12
@@ -3381,6 +3414,7 @@ IA,city,Woden,86700,0.01,IA-P-86700,sales,1996-01-01,https://revenue.iowa.gov/me
 IA,city,Woodbine,86835,0.01,IA-P-86835,sales,1998-10-01,https://revenue.iowa.gov/media/195/download?inline,2026-11-12
 IA,city,Woodburn,86880,0.01,IA-P-86880,sales,2000-04-01,https://revenue.iowa.gov/media/195/download?inline,2026-11-12
 IA,city,Woodward,86970,0.01,IA-P-86970,sales,2018-07-01,https://revenue.iowa.gov/media/195/download?inline,2026-11-12
+IA,city,Woodward (Boone County part),86970,0.0,IA-P-86970-C015,sales,2026-07-01,https://revenue.iowa.gov/media/195/download?inline,2026-11-12
 IA,city,Woolstock,87015,0.01,IA-P-87015,sales,2001-01-01,https://revenue.iowa.gov/media/195/download?inline,2026-11-12
 IA,city,Worthington,87060,0.01,IA-P-87060,sales,1989-10-01,https://revenue.iowa.gov/media/195/download?inline,2026-11-12
 IA,city,Wyoming,87240,0.01,IA-P-87240,sales,1996-01-01,https://revenue.iowa.gov/media/195/download?inline,2026-11-12

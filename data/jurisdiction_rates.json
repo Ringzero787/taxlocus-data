@@ -29534,12 +29534,48 @@
   {
     "state": "IA",
     "jurisdiction_type": "city",
+    "name": "Ackley (Franklin County part)",
+    "fips_code": "00190",
+    "rate": 0.0,
+    "source_key": "IA-P-00190-C069",
+    "rate_type": "sales",
+    "effective_date": "2026-07-01",
+    "source_url": "https://revenue.iowa.gov/media/195/download?inline",
+    "retrieved_at": "2026-11-12"
+  },
+  {
+    "state": "IA",
+    "jurisdiction_type": "city",
+    "name": "Ackworth",
+    "fips_code": "00235",
+    "rate": 0.0,
+    "source_key": "IA-P-00235",
+    "rate_type": "sales",
+    "effective_date": "2026-07-01",
+    "source_url": "https://revenue.iowa.gov/media/195/download?inline",
+    "retrieved_at": "2026-11-12"
+  },
+  {
+    "state": "IA",
+    "jurisdiction_type": "city",
     "name": "Adair",
     "fips_code": "00370",
     "rate": 0.01,
     "source_key": "IA-P-00370",
     "rate_type": "sales",
     "effective_date": "2005-07-01",
+    "source_url": "https://revenue.iowa.gov/media/195/download?inline",
+    "retrieved_at": "2026-11-12"
+  },
+  {
+    "state": "IA",
+    "jurisdiction_type": "city",
+    "name": "Adair (Guthrie County part)",
+    "fips_code": "00370",
+    "rate": 0.0,
+    "source_key": "IA-P-00370-C077",
+    "rate_type": "sales",
+    "effective_date": "2026-07-01",
     "source_url": "https://revenue.iowa.gov/media/195/download?inline",
     "retrieved_at": "2026-11-12"
   },
@@ -29840,6 +29876,18 @@
     "source_key": "IA-P-02260",
     "rate_type": "sales",
     "effective_date": "1997-01-01",
+    "source_url": "https://revenue.iowa.gov/media/195/download?inline",
+    "retrieved_at": "2026-11-12"
+  },
+  {
+    "state": "IA",
+    "jurisdiction_type": "city",
+    "name": "Ankeny",
+    "fips_code": "02305",
+    "rate": 0.0,
+    "source_key": "IA-P-02305",
+    "rate_type": "sales",
+    "effective_date": "2026-07-01",
     "source_url": "https://revenue.iowa.gov/media/195/download?inline",
     "retrieved_at": "2026-11-12"
   },
@@ -31058,6 +31106,18 @@
   {
     "state": "IA",
     "jurisdiction_type": "city",
+    "name": "Casey (Adair County part)",
+    "fips_code": "11395",
+    "rate": 0.0,
+    "source_key": "IA-P-11395-C001",
+    "rate_type": "sales",
+    "effective_date": "2026-07-01",
+    "source_url": "https://revenue.iowa.gov/media/195/download?inline",
+    "retrieved_at": "2026-11-12"
+  },
+  {
+    "state": "IA",
+    "jurisdiction_type": "city",
     "name": "Castalia",
     "fips_code": "11485",
     "rate": 0.01,
@@ -31382,6 +31442,18 @@
   {
     "state": "IA",
     "jurisdiction_type": "city",
+    "name": "Clearfield (Ringgold County part)",
+    "fips_code": "13980",
+    "rate": 0.0,
+    "source_key": "IA-P-13980-C159",
+    "rate_type": "sales",
+    "effective_date": "2026-07-01",
+    "source_url": "https://revenue.iowa.gov/media/195/download?inline",
+    "retrieved_at": "2026-11-12"
+  },
+  {
+    "state": "IA",
+    "jurisdiction_type": "city",
     "name": "Cleghorn",
     "fips_code": "14115",
     "rate": 0.01,
@@ -31634,12 +31706,36 @@
   {
     "state": "IA",
     "jurisdiction_type": "city",
+    "name": "Coon Rapids (Guthrie County part)",
+    "fips_code": "16050",
+    "rate": 0.0,
+    "source_key": "IA-P-16050-C077",
+    "rate_type": "sales",
+    "effective_date": "2026-07-01",
+    "source_url": "https://revenue.iowa.gov/media/195/download?inline",
+    "retrieved_at": "2026-11-12"
+  },
+  {
+    "state": "IA",
+    "jurisdiction_type": "city",
     "name": "Coppock",
     "fips_code": "16140",
     "rate": 0.01,
     "source_key": "IA-P-16140",
     "rate_type": "sales",
     "effective_date": "1995-10-01",
+    "source_url": "https://revenue.iowa.gov/media/195/download?inline",
+    "retrieved_at": "2026-11-12"
+  },
+  {
+    "state": "IA",
+    "jurisdiction_type": "city",
+    "name": "Coppock (Jefferson County part)",
+    "fips_code": "16140",
+    "rate": 0.0,
+    "source_key": "IA-P-16140-C101",
+    "rate_type": "sales",
+    "effective_date": "2026-07-01",
     "source_url": "https://revenue.iowa.gov/media/195/download?inline",
     "retrieved_at": "2026-11-12"
   },
@@ -32402,6 +32498,30 @@
   {
     "state": "IA",
     "jurisdiction_type": "city",
+    "name": "Dunlap (Crawford County part)",
+    "fips_code": "22890",
+    "rate": 0.0,
+    "source_key": "IA-P-22890-C047",
+    "rate_type": "sales",
+    "effective_date": "2026-07-01",
+    "source_url": "https://revenue.iowa.gov/media/195/download?inline",
+    "retrieved_at": "2026-11-12"
+  },
+  {
+    "state": "IA",
+    "jurisdiction_type": "city",
+    "name": "Durango",
+    "fips_code": "22935",
+    "rate": 0.0,
+    "source_key": "IA-P-22935",
+    "rate_type": "sales",
+    "effective_date": "2026-07-01",
+    "source_url": "https://revenue.iowa.gov/media/195/download?inline",
+    "retrieved_at": "2026-11-12"
+  },
+  {
+    "state": "IA",
+    "jurisdiction_type": "city",
     "name": "Durant",
     "fips_code": "22980",
     "rate": 0.01,
@@ -32900,6 +33020,18 @@
     "source_key": "IA-P-26940",
     "rate_type": "sales",
     "effective_date": "2008-07-01",
+    "source_url": "https://revenue.iowa.gov/media/195/download?inline",
+    "retrieved_at": "2026-11-12"
+  },
+  {
+    "state": "IA",
+    "jurisdiction_type": "city",
+    "name": "Farnhamville (Webster County part)",
+    "fips_code": "26940",
+    "rate": 0.0,
+    "source_key": "IA-P-26940-C187",
+    "rate_type": "sales",
+    "effective_date": "2026-07-01",
     "source_url": "https://revenue.iowa.gov/media/195/download?inline",
     "retrieved_at": "2026-11-12"
   },
@@ -33596,6 +33728,18 @@
     "source_key": "IA-P-32745",
     "rate_type": "sales",
     "effective_date": "1997-01-01",
+    "source_url": "https://revenue.iowa.gov/media/195/download?inline",
+    "retrieved_at": "2026-11-12"
+  },
+  {
+    "state": "IA",
+    "jurisdiction_type": "city",
+    "name": "Greene (Floyd County part)",
+    "fips_code": "32745",
+    "rate": 0.0,
+    "source_key": "IA-P-32745-C067",
+    "rate_type": "sales",
+    "effective_date": "2026-07-01",
     "source_url": "https://revenue.iowa.gov/media/195/download?inline",
     "retrieved_at": "2026-11-12"
   },
@@ -34598,6 +34742,18 @@
   {
     "state": "IA",
     "jurisdiction_type": "city",
+    "name": "Keota (Washington County part)",
+    "fips_code": "40980",
+    "rate": 0.0,
+    "source_key": "IA-P-40980-C183",
+    "rate_type": "sales",
+    "effective_date": "2026-07-01",
+    "source_url": "https://revenue.iowa.gov/media/195/download?inline",
+    "retrieved_at": "2026-11-12"
+  },
+  {
+    "state": "IA",
+    "jurisdiction_type": "city",
     "name": "Keswick",
     "fips_code": "41070",
     "rate": 0.01,
@@ -35018,6 +35174,18 @@
   {
     "state": "IA",
     "jurisdiction_type": "city",
+    "name": "Le Grand (Tama County part)",
+    "fips_code": "44220",
+    "rate": 0.0,
+    "source_key": "IA-P-44220-C171",
+    "rate_type": "sales",
+    "effective_date": "2026-07-01",
+    "source_url": "https://revenue.iowa.gov/media/195/download?inline",
+    "retrieved_at": "2026-11-12"
+  },
+  {
+    "state": "IA",
+    "jurisdiction_type": "city",
     "name": "Le Mars",
     "fips_code": "44400",
     "rate": 0.01,
@@ -35096,6 +35264,18 @@
     "source_key": "IA-P-44490",
     "rate_type": "sales",
     "effective_date": "2006-01-01",
+    "source_url": "https://revenue.iowa.gov/media/195/download?inline",
+    "retrieved_at": "2026-11-12"
+  },
+  {
+    "state": "IA",
+    "jurisdiction_type": "city",
+    "name": "Lenox (Adams County part)",
+    "fips_code": "44490",
+    "rate": 0.0,
+    "source_key": "IA-P-44490-C003",
+    "rate_type": "sales",
+    "effective_date": "2026-07-01",
     "source_url": "https://revenue.iowa.gov/media/195/download?inline",
     "retrieved_at": "2026-11-12"
   },
@@ -36290,6 +36470,18 @@
   {
     "state": "IA",
     "jurisdiction_type": "city",
+    "name": "Mitchellville (Jasper County part)",
+    "fips_code": "52950",
+    "rate": 0.0,
+    "source_key": "IA-P-52950-C099",
+    "rate_type": "sales",
+    "effective_date": "2026-07-01",
+    "source_url": "https://revenue.iowa.gov/media/195/download?inline",
+    "retrieved_at": "2026-11-12"
+  },
+  {
+    "state": "IA",
+    "jurisdiction_type": "city",
     "name": "Modale",
     "fips_code": "52995",
     "rate": 0.01,
@@ -36428,6 +36620,18 @@
     "source_key": "IA-P-53985",
     "rate_type": "sales",
     "effective_date": "2003-07-01",
+    "source_url": "https://revenue.iowa.gov/media/195/download?inline",
+    "retrieved_at": "2026-11-12"
+  },
+  {
+    "state": "IA",
+    "jurisdiction_type": "city",
+    "name": "Moravia (Monroe County part)",
+    "fips_code": "53985",
+    "rate": 0.0,
+    "source_key": "IA-P-53985-C135",
+    "rate_type": "sales",
+    "effective_date": "2026-07-01",
     "source_url": "https://revenue.iowa.gov/media/195/download?inline",
     "retrieved_at": "2026-11-12"
   },
@@ -36584,6 +36788,18 @@
     "source_key": "IA-P-55335",
     "rate_type": "sales",
     "effective_date": "1997-04-01",
+    "source_url": "https://revenue.iowa.gov/media/195/download?inline",
+    "retrieved_at": "2026-11-12"
+  },
+  {
+    "state": "IA",
+    "jurisdiction_type": "city",
+    "name": "Nashua (Floyd County part)",
+    "fips_code": "55335",
+    "rate": 0.0,
+    "source_key": "IA-P-55335-C067",
+    "rate_type": "sales",
+    "effective_date": "2026-07-01",
     "source_url": "https://revenue.iowa.gov/media/195/download?inline",
     "retrieved_at": "2026-11-12"
   },
@@ -36818,6 +37034,18 @@
   {
     "state": "IA",
     "jurisdiction_type": "city",
+    "name": "Nora Springs (Cerro Gordo County part)",
+    "fips_code": "56910",
+    "rate": 0.0,
+    "source_key": "IA-P-56910-C033",
+    "rate_type": "sales",
+    "effective_date": "2026-07-01",
+    "source_url": "https://revenue.iowa.gov/media/195/download?inline",
+    "retrieved_at": "2026-11-12"
+  },
+  {
+    "state": "IA",
+    "jurisdiction_type": "city",
     "name": "North Buena Vista",
     "fips_code": "57135",
     "rate": 0.01,
@@ -36836,6 +37064,18 @@
     "source_key": "IA-P-57225",
     "rate_type": "sales",
     "effective_date": "1994-04-01",
+    "source_url": "https://revenue.iowa.gov/media/195/download?inline",
+    "retrieved_at": "2026-11-12"
+  },
+  {
+    "state": "IA",
+    "jurisdiction_type": "city",
+    "name": "North English (Keokuk County part)",
+    "fips_code": "57225",
+    "rate": 0.0,
+    "source_key": "IA-P-57225-C107",
+    "rate_type": "sales",
+    "effective_date": "2026-07-01",
     "source_url": "https://revenue.iowa.gov/media/195/download?inline",
     "retrieved_at": "2026-11-12"
   },
@@ -36896,6 +37136,18 @@
     "source_key": "IA-P-57675",
     "rate_type": "sales",
     "effective_date": "2016-07-01",
+    "source_url": "https://revenue.iowa.gov/media/195/download?inline",
+    "retrieved_at": "2026-11-12"
+  },
+  {
+    "state": "IA",
+    "jurisdiction_type": "city",
+    "name": "Norwalk (Polk County part)",
+    "fips_code": "57675",
+    "rate": 0.0,
+    "source_key": "IA-P-57675-C153",
+    "rate_type": "sales",
+    "effective_date": "2026-07-01",
     "source_url": "https://revenue.iowa.gov/media/195/download?inline",
     "retrieved_at": "2026-11-12"
   },
@@ -37442,6 +37694,18 @@
   {
     "state": "IA",
     "jurisdiction_type": "city",
+    "name": "Pella (Mahaska County part)",
+    "fips_code": "62040",
+    "rate": 0.0,
+    "source_key": "IA-P-62040-C123",
+    "rate_type": "sales",
+    "effective_date": "2026-07-01",
+    "source_url": "https://revenue.iowa.gov/media/195/download?inline",
+    "retrieved_at": "2026-11-12"
+  },
+  {
+    "state": "IA",
+    "jurisdiction_type": "city",
     "name": "Peosta",
     "fips_code": "62130",
     "rate": 0.01,
@@ -37790,6 +38054,18 @@
   {
     "state": "IA",
     "jurisdiction_type": "city",
+    "name": "Protivin (Chickasaw County part)",
+    "fips_code": "65010",
+    "rate": 0.0,
+    "source_key": "IA-P-65010-C037",
+    "rate_type": "sales",
+    "effective_date": "2026-07-01",
+    "source_url": "https://revenue.iowa.gov/media/195/download?inline",
+    "retrieved_at": "2026-11-12"
+  },
+  {
+    "state": "IA",
+    "jurisdiction_type": "city",
     "name": "Pulaski",
     "fips_code": "65055",
     "rate": 0.01,
@@ -37856,6 +38132,18 @@
     "source_key": "IA-P-65505",
     "rate_type": "sales",
     "effective_date": "2003-01-01",
+    "source_url": "https://revenue.iowa.gov/media/195/download?inline",
+    "retrieved_at": "2026-11-12"
+  },
+  {
+    "state": "IA",
+    "jurisdiction_type": "city",
+    "name": "Ralston (Greene County part)",
+    "fips_code": "65505",
+    "rate": 0.0,
+    "source_key": "IA-P-65505-C073",
+    "rate_type": "sales",
+    "effective_date": "2026-07-01",
     "source_url": "https://revenue.iowa.gov/media/195/download?inline",
     "retrieved_at": "2026-11-12"
   },
@@ -38510,6 +38798,18 @@
   {
     "state": "IA",
     "jurisdiction_type": "city",
+    "name": "Sandyville",
+    "fips_code": "70590",
+    "rate": 0.0,
+    "source_key": "IA-P-70590",
+    "rate_type": "sales",
+    "effective_date": "2026-07-01",
+    "source_url": "https://revenue.iowa.gov/media/195/download?inline",
+    "retrieved_at": "2026-11-12"
+  },
+  {
+    "state": "IA",
+    "jurisdiction_type": "city",
     "name": "Scarville",
     "fips_code": "71040",
     "rate": 0.01,
@@ -38618,6 +38918,18 @@
   {
     "state": "IA",
     "jurisdiction_type": "city",
+    "name": "Shannon City (Ringgold County part)",
+    "fips_code": "71940",
+    "rate": 0.0,
+    "source_key": "IA-P-71940-C159",
+    "rate_type": "sales",
+    "effective_date": "2026-07-01",
+    "source_url": "https://revenue.iowa.gov/media/195/download?inline",
+    "retrieved_at": "2026-11-12"
+  },
+  {
+    "state": "IA",
+    "jurisdiction_type": "city",
     "name": "Sharpsburg",
     "fips_code": "72075",
     "rate": 0.01,
@@ -38648,6 +38960,18 @@
     "source_key": "IA-P-72300",
     "rate_type": "sales",
     "effective_date": "1998-01-01",
+    "source_url": "https://revenue.iowa.gov/media/195/download?inline",
+    "retrieved_at": "2026-11-12"
+  },
+  {
+    "state": "IA",
+    "jurisdiction_type": "city",
+    "name": "Shelby (Pottawattamie County part)",
+    "fips_code": "72300",
+    "rate": 0.0,
+    "source_key": "IA-P-72300-C155",
+    "rate_type": "sales",
+    "effective_date": "2026-07-01",
     "source_url": "https://revenue.iowa.gov/media/195/download?inline",
     "retrieved_at": "2026-11-12"
   },
@@ -38810,6 +39134,18 @@
   {
     "state": "IA",
     "jurisdiction_type": "city",
+    "name": "Sioux City (Plymouth County part)",
+    "fips_code": "73335",
+    "rate": 0.0,
+    "source_key": "IA-P-73335-C149",
+    "rate_type": "sales",
+    "effective_date": "2026-07-01",
+    "source_url": "https://revenue.iowa.gov/media/195/download?inline",
+    "retrieved_at": "2026-11-12"
+  },
+  {
+    "state": "IA",
+    "jurisdiction_type": "city",
     "name": "Sioux Rapids",
     "fips_code": "73425",
     "rate": 0.01,
@@ -38948,6 +39284,18 @@
     "source_key": "IA-P-74460",
     "rate_type": "sales",
     "effective_date": "1989-10-01",
+    "source_url": "https://revenue.iowa.gov/media/195/download?inline",
+    "retrieved_at": "2026-11-12"
+  },
+  {
+    "state": "IA",
+    "jurisdiction_type": "city",
+    "name": "Spring Hill",
+    "fips_code": "74685",
+    "rate": 0.0,
+    "source_key": "IA-P-74685",
+    "rate_type": "sales",
+    "effective_date": "2026-07-01",
     "source_url": "https://revenue.iowa.gov/media/195/download?inline",
     "retrieved_at": "2026-11-12"
   },
@@ -39914,12 +40262,36 @@
   {
     "state": "IA",
     "jurisdiction_type": "city",
+    "name": "Walcott (Muscatine County part)",
+    "fips_code": "81705",
+    "rate": 0.0,
+    "source_key": "IA-P-81705-C139",
+    "rate_type": "sales",
+    "effective_date": "2026-07-01",
+    "source_url": "https://revenue.iowa.gov/media/195/download?inline",
+    "retrieved_at": "2026-11-12"
+  },
+  {
+    "state": "IA",
+    "jurisdiction_type": "city",
     "name": "Walford",
     "fips_code": "81840",
     "rate": 0.01,
     "source_key": "IA-P-81840",
     "rate_type": "sales",
     "effective_date": "2009-07-01",
+    "source_url": "https://revenue.iowa.gov/media/195/download?inline",
+    "retrieved_at": "2026-11-12"
+  },
+  {
+    "state": "IA",
+    "jurisdiction_type": "city",
+    "name": "Walford (Benton County part)",
+    "fips_code": "81840",
+    "rate": 0.0,
+    "source_key": "IA-P-81840-C011",
+    "rate_type": "sales",
+    "effective_date": "2026-07-01",
     "source_url": "https://revenue.iowa.gov/media/195/download?inline",
     "retrieved_at": "2026-11-12"
   },
@@ -40250,6 +40622,18 @@
   {
     "state": "IA",
     "jurisdiction_type": "city",
+    "name": "West Des Moines (Madison County part)",
+    "fips_code": "83910",
+    "rate": 0.0,
+    "source_key": "IA-P-83910-C121",
+    "rate_type": "sales",
+    "effective_date": "2026-07-01",
+    "source_url": "https://revenue.iowa.gov/media/195/download?inline",
+    "retrieved_at": "2026-11-12"
+  },
+  {
+    "state": "IA",
+    "jurisdiction_type": "city",
     "name": "West Liberty",
     "fips_code": "84315",
     "rate": 0.01,
@@ -40478,6 +40862,18 @@
   {
     "state": "IA",
     "jurisdiction_type": "city",
+    "name": "Wilton (Cedar County part)",
+    "fips_code": "86070",
+    "rate": 0.0,
+    "source_key": "IA-P-86070-C031",
+    "rate_type": "sales",
+    "effective_date": "2026-07-01",
+    "source_url": "https://revenue.iowa.gov/media/195/download?inline",
+    "retrieved_at": "2026-11-12"
+  },
+  {
+    "state": "IA",
+    "jurisdiction_type": "city",
     "name": "Windsor Heights",
     "fips_code": "86250",
     "rate": 0.01,
@@ -40580,6 +40976,18 @@
     "source_key": "IA-P-86970",
     "rate_type": "sales",
     "effective_date": "2018-07-01",
+    "source_url": "https://revenue.iowa.gov/media/195/download?inline",
+    "retrieved_at": "2026-11-12"
+  },
+  {
+    "state": "IA",
+    "jurisdiction_type": "city",
+    "name": "Woodward (Boone County part)",
+    "fips_code": "86970",
+    "rate": 0.0,
+    "source_key": "IA-P-86970-C015",
+    "rate_type": "sales",
+    "effective_date": "2026-07-01",
     "source_url": "https://revenue.iowa.gov/media/195/download?inline",
     "retrieved_at": "2026-11-12"
   },

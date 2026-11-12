@@ -9,7 +9,7 @@ Every table is published as `<table>.csv` and `<table>.json`. `manifest.json` li
 | table | rows | last changed | unique row key |
 |-------|-----:|--------------|----------------|
 | [`state_rates`](#state_rates) | 46 | 2026-05-18 | `state` |
-| [`jurisdiction_rates`](#jurisdiction_rates) | 17,542 | 2026-11-12 | `source_key`, `rate_type` |
+| [`jurisdiction_rates`](#jurisdiction_rates) | 17,576 | 2026-11-12 | `source_key`, `rate_type` |
 | [`nexus_thresholds`](#nexus_thresholds) | 47 | 2026-11-09 | `state` |
 | [`taxability`](#taxability) | 1,703 | 2026-11-10 | `state`, `category` |
 | [`marketplace_facilitator_rules`](#marketplace_facilitator_rules) | 47 | 2026-10-30 | `state` |
@@ -35,7 +35,7 @@ Statewide base rates — 46 rows.
 
 ### `jurisdiction_rates`
 
-Local jurisdiction rates — 17,542 rows.
+Local jurisdiction rates — 17,576 rows.
 
 | column | description |
 |--------|-------------|

@@ -7,7 +7,7 @@
   "last_changed": "2026-11-12",
   "row_counts": {
     "state_rates": 46,
-    "jurisdiction_rates": 17542,
+    "jurisdiction_rates": 17576,
     "nexus_thresholds": 47,
     "taxability": 1703,
     "marketplace_facilitator_rules": 47,
@@ -35,7 +35,7 @@
       ]
     },
     "jurisdiction_rates": {
-      "rows": 17542,
+      "rows": 17576,
       "last_changed": "2026-11-12",
       "key": [
         "source_key",
@@ -255,14 +255,14 @@
       "rows": 46
     },
     "jurisdiction_rates.csv": {
-      "sha256": "e841913c76b5194a6df2e20f6eed1cb1e5d9afb7473a861698e2ee4b4ce18873",
-      "bytes": 2703417,
-      "rows": 17542
+      "sha256": "5e480ff161433bec76cf5ed92f0aae66cb74b788ef10890504d29434afb6c333",
+      "bytes": 2708218,
+      "rows": 17576
     },
     "jurisdiction_rates.json": {
-      "sha256": "09645f8f943364a0a1a914d315a8eee5ce048c70b0c02bcfd920596099fc38ba",
-      "bytes": 6388631,
-      "rows": 17542
+      "sha256": "23a7bb501513c974a2676aed4c532a443b34619f94d17b8efb990788a911a79c",
+      "bytes": 6400538,
+      "rows": 17576
     },
     "nexus_thresholds.csv": {
       "sha256": "cf8ca684abc24372c80843ee849384a2fe782f58c9315eec7f6c8d42f16f600e",
