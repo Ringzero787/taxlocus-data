@@ -105556,12 +105556,12 @@
     "jurisdiction_type": "city",
     "name": "Annada",
     "fips_code": null,
-    "rate": 0.03063,
+    "rate": 0.030625,
     "source_key": "MO-P-01252-163",
     "rate_type": "sales",
-    "effective_date": "2026-01-01",
-    "source_url": "https://dor.mo.gov/pdf/rates/2026/may2026.xlsx",
-    "retrieved_at": "2026-05-18"
+    "effective_date": "2026-10-01",
+    "source_url": "https://dor.mo.gov/pdf/rates/2026/october2026.xlsx",
+    "retrieved_at": "2026-11-12"
   },
   {
     "state": "MO",
@@ -105664,12 +105664,12 @@
     "jurisdiction_type": "city",
     "name": "Arbyrd",
     "fips_code": null,
-    "rate": 0.03688,
+    "rate": 0.036875,
     "source_key": "MO-P-01630-069",
     "rate_type": "sales",
-    "effective_date": "2026-01-01",
-    "source_url": "https://dor.mo.gov/pdf/rates/2026/may2026.xlsx",
-    "retrieved_at": "2026-05-18"
+    "effective_date": "2026-10-01",
+    "source_url": "https://dor.mo.gov/pdf/rates/2026/october2026.xlsx",
+    "retrieved_at": "2026-11-12"
   },
   {
     "state": "MO",
@@ -105820,12 +105820,12 @@
     "jurisdiction_type": "city",
     "name": "Ashburn",
     "fips_code": null,
-    "rate": 0.03063,
+    "rate": 0.030625,
     "source_key": "MO-P-02152-163",
     "rate_type": "sales",
-    "effective_date": "2026-01-01",
-    "source_url": "https://dor.mo.gov/pdf/rates/2026/may2026.xlsx",
-    "retrieved_at": "2026-05-18"
+    "effective_date": "2026-10-01",
+    "source_url": "https://dor.mo.gov/pdf/rates/2026/october2026.xlsx",
+    "retrieved_at": "2026-11-12"
   },
   {
     "state": "MO",
@@ -105844,12 +105844,12 @@
     "jurisdiction_type": "city",
     "name": "Ashley",
     "fips_code": null,
-    "rate": 0.03063,
+    "rate": 0.030625,
     "source_key": "MO-P-02260-163",
     "rate_type": "sales",
-    "effective_date": "2026-01-01",
-    "source_url": "https://dor.mo.gov/pdf/rates/2026/may2026.xlsx",
-    "retrieved_at": "2026-05-18"
+    "effective_date": "2026-10-01",
+    "source_url": "https://dor.mo.gov/pdf/rates/2026/october2026.xlsx",
+    "retrieved_at": "2026-11-12"
   },
   {
     "state": "MO",
@@ -107056,12 +107056,12 @@
     "jurisdiction_type": "city",
     "name": "Bowling Green",
     "fips_code": null,
-    "rate": 0.05313,
+    "rate": 0.053125,
     "source_key": "MO-P-07660-163",
     "rate_type": "sales",
-    "effective_date": "2026-01-01",
-    "source_url": "https://dor.mo.gov/pdf/rates/2026/may2026.xlsx",
-    "retrieved_at": "2026-05-18"
+    "effective_date": "2026-10-01",
+    "source_url": "https://dor.mo.gov/pdf/rates/2026/october2026.xlsx",
+    "retrieved_at": "2026-11-12"
   },
   {
     "state": "MO",
@@ -107800,12 +107800,12 @@
     "jurisdiction_type": "city",
     "name": "Campbell",
     "fips_code": null,
-    "rate": 0.04563,
+    "rate": 0.045625,
     "source_key": "MO-P-10864-069",
     "rate_type": "sales",
     "effective_date": "2026-10-01",
     "source_url": "https://dor.mo.gov/pdf/rates/2026/october2026.xlsx",
-    "retrieved_at": "2026-10-01"
+    "retrieved_at": "2026-11-12"
   },
   {
     "state": "MO",
@@ -107896,12 +107896,12 @@
     "jurisdiction_type": "city",
     "name": "Cardwell",
     "fips_code": null,
-    "rate": 0.03688,
+    "rate": 0.036875,
     "source_key": "MO-P-11350-069",
     "rate_type": "sales",
-    "effective_date": "2026-01-01",
-    "source_url": "https://dor.mo.gov/pdf/rates/2026/may2026.xlsx",
-    "retrieved_at": "2026-05-18"
+    "effective_date": "2026-10-01",
+    "source_url": "https://dor.mo.gov/pdf/rates/2026/october2026.xlsx",
+    "retrieved_at": "2026-11-12"
   },
   {
     "state": "MO",
@@ -108388,24 +108388,24 @@
     "jurisdiction_type": "city",
     "name": "Clarksville",
     "fips_code": null,
-    "rate": 0.04063,
+    "rate": 0.040625,
     "source_key": "MO-P-14194-163",
     "rate_type": "sales",
-    "effective_date": "2026-01-01",
-    "source_url": "https://dor.mo.gov/pdf/rates/2026/may2026.xlsx",
-    "retrieved_at": "2026-05-18"
+    "effective_date": "2026-10-01",
+    "source_url": "https://dor.mo.gov/pdf/rates/2026/october2026.xlsx",
+    "retrieved_at": "2026-11-12"
   },
   {
     "state": "MO",
     "jurisdiction_type": "city",
     "name": "Clarkton",
     "fips_code": null,
-    "rate": 0.03688,
+    "rate": 0.036875,
     "source_key": "MO-P-14212-069",
     "rate_type": "sales",
-    "effective_date": "2026-01-01",
-    "source_url": "https://dor.mo.gov/pdf/rates/2026/may2026.xlsx",
-    "retrieved_at": "2026-05-18"
+    "effective_date": "2026-10-01",
+    "source_url": "https://dor.mo.gov/pdf/rates/2026/october2026.xlsx",
+    "retrieved_at": "2026-11-12"
   },
   {
     "state": "MO",
@@ -109120,24 +109120,24 @@
     "jurisdiction_type": "city",
     "name": "Curryville",
     "fips_code": null,
-    "rate": 0.04063,
+    "rate": 0.040625,
     "source_key": "MO-P-17902-163",
     "rate_type": "sales",
-    "effective_date": "2026-01-01",
-    "source_url": "https://dor.mo.gov/pdf/rates/2026/may2026.xlsx",
-    "retrieved_at": "2026-05-18"
+    "effective_date": "2026-10-01",
+    "source_url": "https://dor.mo.gov/pdf/rates/2026/october2026.xlsx",
+    "retrieved_at": "2026-11-12"
   },
   {
     "state": "MO",
     "jurisdiction_type": "city",
     "name": "Cyrene",
     "fips_code": null,
-    "rate": 0.03063,
+    "rate": 0.030625,
     "source_key": "MO-P-17974-163",
     "rate_type": "sales",
-    "effective_date": "2026-01-01",
-    "source_url": "https://dor.mo.gov/pdf/rates/2026/may2026.xlsx",
-    "retrieved_at": "2026-05-18"
+    "effective_date": "2026-10-01",
+    "source_url": "https://dor.mo.gov/pdf/rates/2026/october2026.xlsx",
+    "retrieved_at": "2026-11-12"
   },
   {
     "state": "MO",
@@ -109972,12 +109972,12 @@
     "jurisdiction_type": "city",
     "name": "Edgewood",
     "fips_code": null,
-    "rate": 0.03063,
+    "rate": 0.030625,
     "source_key": "MO-P-21304-163",
     "rate_type": "sales",
-    "effective_date": "2026-01-01",
-    "source_url": "https://dor.mo.gov/pdf/rates/2026/may2026.xlsx",
-    "retrieved_at": "2026-05-18"
+    "effective_date": "2026-10-01",
+    "source_url": "https://dor.mo.gov/pdf/rates/2026/october2026.xlsx",
+    "retrieved_at": "2026-11-12"
   },
   {
     "state": "MO",
@@ -110404,12 +110404,12 @@
     "jurisdiction_type": "city",
     "name": "Eolia",
     "fips_code": null,
-    "rate": 0.04063,
+    "rate": 0.040625,
     "source_key": "MO-P-22474-163",
     "rate_type": "sales",
-    "effective_date": "2026-01-01",
-    "source_url": "https://dor.mo.gov/pdf/rates/2026/may2026.xlsx",
-    "retrieved_at": "2026-05-18"
+    "effective_date": "2026-10-01",
+    "source_url": "https://dor.mo.gov/pdf/rates/2026/october2026.xlsx",
+    "retrieved_at": "2026-11-12"
   },
   {
     "state": "MO",
@@ -111424,12 +111424,12 @@
     "jurisdiction_type": "city",
     "name": "Frankford",
     "fips_code": null,
-    "rate": 0.04063,
+    "rate": 0.040625,
     "source_key": "MO-P-25552-163",
     "rate_type": "sales",
-    "effective_date": "2026-01-01",
-    "source_url": "https://dor.mo.gov/pdf/rates/2026/may2026.xlsx",
-    "retrieved_at": "2026-05-18"
+    "effective_date": "2026-10-01",
+    "source_url": "https://dor.mo.gov/pdf/rates/2026/october2026.xlsx",
+    "retrieved_at": "2026-11-12"
   },
   {
     "state": "MO",
@@ -111784,12 +111784,12 @@
     "jurisdiction_type": "city",
     "name": "Gibson",
     "fips_code": null,
-    "rate": 0.01688,
+    "rate": 0.016875,
     "source_key": "MO-P-26956-069",
     "rate_type": "sales",
-    "effective_date": "2026-01-01",
-    "source_url": "https://dor.mo.gov/pdf/rates/2026/may2026.xlsx",
-    "retrieved_at": "2026-05-18"
+    "effective_date": "2026-10-01",
+    "source_url": "https://dor.mo.gov/pdf/rates/2026/october2026.xlsx",
+    "retrieved_at": "2026-11-12"
   },
   {
     "state": "MO",
@@ -113032,12 +113032,12 @@
     "jurisdiction_type": "city",
     "name": "Holcomb",
     "fips_code": null,
-    "rate": 0.02688,
+    "rate": 0.026875,
     "source_key": "MO-P-32536-069",
     "rate_type": "sales",
-    "effective_date": "2026-01-01",
-    "source_url": "https://dor.mo.gov/pdf/rates/2026/may2026.xlsx",
-    "retrieved_at": "2026-05-18"
+    "effective_date": "2026-10-01",
+    "source_url": "https://dor.mo.gov/pdf/rates/2026/october2026.xlsx",
+    "retrieved_at": "2026-11-12"
   },
   {
     "state": "MO",
@@ -113092,12 +113092,12 @@
     "jurisdiction_type": "city",
     "name": "Hollywood",
     "fips_code": null,
-    "rate": 0.01688,
+    "rate": 0.016875,
     "source_key": "MO-P-32698-069",
     "rate_type": "sales",
-    "effective_date": "2026-01-01",
-    "source_url": "https://dor.mo.gov/pdf/rates/2026/may2026.xlsx",
-    "retrieved_at": "2026-05-18"
+    "effective_date": "2026-10-01",
+    "source_url": "https://dor.mo.gov/pdf/rates/2026/october2026.xlsx",
+    "retrieved_at": "2026-11-12"
   },
   {
     "state": "MO",
@@ -113188,12 +113188,12 @@
     "jurisdiction_type": "city",
     "name": "Hornersville",
     "fips_code": null,
-    "rate": 0.02563,
+    "rate": 0.025625,
     "source_key": "MO-P-33076-069",
     "rate_type": "sales",
-    "effective_date": "2026-01-01",
-    "source_url": "https://dor.mo.gov/pdf/rates/2026/may2026.xlsx",
-    "retrieved_at": "2026-05-18"
+    "effective_date": "2026-10-01",
+    "source_url": "https://dor.mo.gov/pdf/rates/2026/october2026.xlsx",
+    "retrieved_at": "2026-11-12"
   },
   {
     "state": "MO",
@@ -113992,12 +113992,12 @@
     "jurisdiction_type": "city",
     "name": "Kennett",
     "fips_code": null,
-    "rate": 0.04938,
+    "rate": 0.049375,
     "source_key": "MO-P-38306-069",
     "rate_type": "sales",
-    "effective_date": "2026-01-01",
-    "source_url": "https://dor.mo.gov/pdf/rates/2026/may2026.xlsx",
-    "retrieved_at": "2026-05-18"
+    "effective_date": "2026-10-01",
+    "source_url": "https://dor.mo.gov/pdf/rates/2026/october2026.xlsx",
+    "retrieved_at": "2026-11-12"
   },
   {
     "state": "MO",
@@ -115324,12 +115324,12 @@
     "jurisdiction_type": "city",
     "name": "Louisiana",
     "fips_code": null,
-    "rate": 0.05313,
+    "rate": 0.053125,
     "source_key": "MO-P-44174-163",
     "rate_type": "sales",
-    "effective_date": "2026-01-01",
-    "source_url": "https://dor.mo.gov/pdf/rates/2026/may2026.xlsx",
-    "retrieved_at": "2026-05-18"
+    "effective_date": "2026-10-01",
+    "source_url": "https://dor.mo.gov/pdf/rates/2026/october2026.xlsx",
+    "retrieved_at": "2026-11-12"
   },
   {
     "state": "MO",
@@ -115480,12 +115480,12 @@
     "jurisdiction_type": "city",
     "name": "Malden",
     "fips_code": null,
-    "rate": 0.03938,
+    "rate": 0.039375,
     "source_key": "MO-P-45614-069",
     "rate_type": "sales",
-    "effective_date": "2026-01-01",
-    "source_url": "https://dor.mo.gov/pdf/rates/2026/may2026.xlsx",
-    "retrieved_at": "2026-05-18"
+    "effective_date": "2026-10-01",
+    "source_url": "https://dor.mo.gov/pdf/rates/2026/october2026.xlsx",
+    "retrieved_at": "2026-11-12"
   },
   {
     "state": "MO",
@@ -117100,12 +117100,12 @@
     "jurisdiction_type": "city",
     "name": "New Hartford",
     "fips_code": null,
-    "rate": 0.03063,
+    "rate": 0.030625,
     "source_key": "MO-P-51896-163",
     "rate_type": "sales",
-    "effective_date": "2026-01-01",
-    "source_url": "https://dor.mo.gov/pdf/rates/2026/may2026.xlsx",
-    "retrieved_at": "2026-05-18"
+    "effective_date": "2026-10-01",
+    "source_url": "https://dor.mo.gov/pdf/rates/2026/october2026.xlsx",
+    "retrieved_at": "2026-11-12"
   },
   {
     "state": "MO",
@@ -118312,12 +118312,12 @@
     "jurisdiction_type": "city",
     "name": "Paynesville",
     "fips_code": null,
-    "rate": 0.03063,
+    "rate": 0.030625,
     "source_key": "MO-P-56612-163",
     "rate_type": "sales",
-    "effective_date": "2026-01-01",
-    "source_url": "https://dor.mo.gov/pdf/rates/2026/may2026.xlsx",
-    "retrieved_at": "2026-05-18"
+    "effective_date": "2026-10-01",
+    "source_url": "https://dor.mo.gov/pdf/rates/2026/october2026.xlsx",
+    "retrieved_at": "2026-11-12"
   },
   {
     "state": "MO",
@@ -119668,12 +119668,12 @@
     "jurisdiction_type": "city",
     "name": "Rives",
     "fips_code": null,
-    "rate": 0.01688,
+    "rate": 0.016875,
     "source_key": "MO-P-62228-069",
     "rate_type": "sales",
-    "effective_date": "2026-01-01",
-    "source_url": "https://dor.mo.gov/pdf/rates/2026/may2026.xlsx",
-    "retrieved_at": "2026-05-18"
+    "effective_date": "2026-10-01",
+    "source_url": "https://dor.mo.gov/pdf/rates/2026/october2026.xlsx",
+    "retrieved_at": "2026-11-12"
   },
   {
     "state": "MO",
@@ -120280,12 +120280,12 @@
     "jurisdiction_type": "city",
     "name": "Senath",
     "fips_code": null,
-    "rate": 0.03688,
+    "rate": 0.036875,
     "source_key": "MO-P-66638-069",
     "rate_type": "sales",
-    "effective_date": "2026-01-01",
-    "source_url": "https://dor.mo.gov/pdf/rates/2026/may2026.xlsx",
-    "retrieved_at": "2026-05-18"
+    "effective_date": "2026-10-01",
+    "source_url": "https://dor.mo.gov/pdf/rates/2026/october2026.xlsx",
+    "retrieved_at": "2026-11-12"
   },
   {
     "state": "MO",
@@ -121636,12 +121636,12 @@
     "jurisdiction_type": "city",
     "name": "Tarrant Village",
     "fips_code": null,
-    "rate": 0.03063,
+    "rate": 0.030625,
     "source_key": "MO-P-72376-163",
     "rate_type": "sales",
-    "effective_date": "2026-01-01",
-    "source_url": "https://dor.mo.gov/pdf/rates/2026/may2026.xlsx",
-    "retrieved_at": "2026-05-18"
+    "effective_date": "2026-10-01",
+    "source_url": "https://dor.mo.gov/pdf/rates/2026/october2026.xlsx",
+    "retrieved_at": "2026-11-12"
   },
   {
     "state": "MO",
@@ -123208,12 +123208,12 @@
     "jurisdiction_type": "city",
     "name": "Whiteoak",
     "fips_code": null,
-    "rate": 0.01688,
+    "rate": 0.016875,
     "source_key": "MO-P-79450-069",
     "rate_type": "sales",
-    "effective_date": "2026-01-01",
-    "source_url": "https://dor.mo.gov/pdf/rates/2026/may2026.xlsx",
-    "retrieved_at": "2026-05-18"
+    "effective_date": "2026-10-01",
+    "source_url": "https://dor.mo.gov/pdf/rates/2026/october2026.xlsx",
+    "retrieved_at": "2026-11-12"
   },
   {
     "state": "MO",
@@ -124060,12 +124060,12 @@
     "jurisdiction_type": "county",
     "name": "Dunklin County",
     "fips_code": "069",
-    "rate": 0.01688,
+    "rate": 0.016875,
     "source_key": "MO-C-069",
     "rate_type": "sales",
-    "effective_date": "2026-01-01",
-    "source_url": "https://dor.mo.gov/pdf/rates/2026/may2026.xlsx",
-    "retrieved_at": "2026-05-18"
+    "effective_date": "2026-10-01",
+    "source_url": "https://dor.mo.gov/pdf/rates/2026/october2026.xlsx",
+    "retrieved_at": "2026-11-12"
   },
   {
     "state": "MO",
@@ -124600,12 +124600,12 @@
     "jurisdiction_type": "county",
     "name": "Pike County",
     "fips_code": "163",
-    "rate": 0.03063,
+    "rate": 0.030625,
     "source_key": "MO-C-163",
     "rate_type": "sales",
-    "effective_date": "2026-01-01",
-    "source_url": "https://dor.mo.gov/pdf/rates/2026/may2026.xlsx",
-    "retrieved_at": "2026-05-18"
+    "effective_date": "2026-10-01",
+    "source_url": "https://dor.mo.gov/pdf/rates/2026/october2026.xlsx",
+    "retrieved_at": "2026-11-12"
   },
   {
     "state": "MO",
@@ -133504,12 +133504,12 @@
     "jurisdiction_type": "special_district",
     "name": "Alamogordo",
     "fips_code": "15-116",
-    "rate": 0.03313,
+    "rate": 0.033125,
     "source_key": "NM-15-116",
     "rate_type": "sales",
-    "effective_date": "2025-07-01",
-    "source_url": "https://services5.arcgis.com/f4lpEvI6fkgVYigk/arcgis/rest/services/New_Mexico_Gross_Receipts_Location_Codes_and_Rates_July_2025_June_2026/FeatureServer/65",
-    "retrieved_at": "2026-05-18"
+    "effective_date": "2026-07-01",
+    "source_url": "https://services5.arcgis.com/f4lpEvI6fkgVYigk/arcgis/rest/services/New_Mexico_gross_receipts_tax_July_2026_June_2027_pub_WM/FeatureServer/2",
+    "retrieved_at": "2026-11-12"
   },
   {
     "state": "NM",
@@ -133564,48 +133564,48 @@
     "jurisdiction_type": "special_district",
     "name": "Angel Fire",
     "fips_code": "09-600",
-    "rate": 0.03063,
+    "rate": 0.030625,
     "source_key": "NM-09-600",
     "rate_type": "sales",
     "effective_date": "2026-07-01",
     "source_url": "https://services5.arcgis.com/f4lpEvI6fkgVYigk/arcgis/rest/services/New_Mexico_gross_receipts_tax_July_2026_June_2027_pub_WM/FeatureServer/2",
-    "retrieved_at": "2026-09-21"
+    "retrieved_at": "2026-11-12"
   },
   {
     "state": "NM",
     "jurisdiction_type": "special_district",
     "name": "Anthony",
     "fips_code": "07-507",
-    "rate": 0.03253,
+    "rate": 0.032525,
     "source_key": "NM-07-507",
     "rate_type": "sales",
     "effective_date": "2026-07-01",
     "source_url": "https://services5.arcgis.com/f4lpEvI6fkgVYigk/arcgis/rest/services/New_Mexico_gross_receipts_tax_July_2026_June_2027_pub_WM/FeatureServer/2",
-    "retrieved_at": "2026-09-21"
+    "retrieved_at": "2026-11-12"
   },
   {
     "state": "NM",
     "jurisdiction_type": "special_district",
     "name": "Artesia",
     "fips_code": "03-205",
-    "rate": 0.02771,
+    "rate": 0.027708,
     "source_key": "NM-03-205",
     "rate_type": "sales",
-    "effective_date": "2025-07-01",
-    "source_url": "https://services5.arcgis.com/f4lpEvI6fkgVYigk/arcgis/rest/services/New_Mexico_Gross_Receipts_Location_Codes_and_Rates_July_2025_June_2026/FeatureServer/65",
-    "retrieved_at": "2026-05-18"
+    "effective_date": "2026-07-01",
+    "source_url": "https://services5.arcgis.com/f4lpEvI6fkgVYigk/arcgis/rest/services/New_Mexico_gross_receipts_tax_July_2026_June_2027_pub_WM/FeatureServer/2",
+    "retrieved_at": "2026-11-12"
   },
   {
     "state": "NM",
     "jurisdiction_type": "special_district",
     "name": "Aztec",
     "fips_code": "16-218",
-    "rate": 0.03313,
+    "rate": 0.033125,
     "source_key": "NM-16-218",
     "rate_type": "sales",
-    "effective_date": "2025-07-01",
-    "source_url": "https://services5.arcgis.com/f4lpEvI6fkgVYigk/arcgis/rest/services/New_Mexico_Gross_Receipts_Location_Codes_and_Rates_July_2025_June_2026/FeatureServer/65",
-    "retrieved_at": "2026-05-18"
+    "effective_date": "2026-07-01",
+    "source_url": "https://services5.arcgis.com/f4lpEvI6fkgVYigk/arcgis/rest/services/New_Mexico_gross_receipts_tax_July_2026_June_2027_pub_WM/FeatureServer/2",
+    "retrieved_at": "2026-11-12"
   },
   {
     "state": "NM",
@@ -133624,24 +133624,24 @@
     "jurisdiction_type": "special_district",
     "name": "Belen",
     "fips_code": "14-129",
-    "rate": 0.03188,
+    "rate": 0.031875,
     "source_key": "NM-14-129",
     "rate_type": "sales",
-    "effective_date": "2025-07-01",
-    "source_url": "https://services5.arcgis.com/f4lpEvI6fkgVYigk/arcgis/rest/services/New_Mexico_Gross_Receipts_Location_Codes_and_Rates_July_2025_June_2026/FeatureServer/65",
-    "retrieved_at": "2026-05-18"
+    "effective_date": "2026-07-01",
+    "source_url": "https://services5.arcgis.com/f4lpEvI6fkgVYigk/arcgis/rest/services/New_Mexico_gross_receipts_tax_July_2026_June_2027_pub_WM/FeatureServer/2",
+    "retrieved_at": "2026-11-12"
   },
   {
     "state": "NM",
     "jurisdiction_type": "special_district",
     "name": "Bernalillo (City)",
     "fips_code": "29-120",
-    "rate": 0.02313,
+    "rate": 0.023125,
     "source_key": "NM-29-120",
     "rate_type": "sales",
     "effective_date": "2026-07-01",
     "source_url": "https://services5.arcgis.com/f4lpEvI6fkgVYigk/arcgis/rest/services/New_Mexico_gross_receipts_tax_July_2026_June_2027_pub_WM/FeatureServer/2",
-    "retrieved_at": "2026-09-21"
+    "retrieved_at": "2026-11-12"
   },
   {
     "state": "NM",
@@ -133684,24 +133684,24 @@
     "jurisdiction_type": "special_district",
     "name": "Capitan",
     "fips_code": "26-211",
-    "rate": 0.01688,
+    "rate": 0.016875,
     "source_key": "NM-26-211",
     "rate_type": "sales",
-    "effective_date": "2025-07-01",
-    "source_url": "https://services5.arcgis.com/f4lpEvI6fkgVYigk/arcgis/rest/services/New_Mexico_Gross_Receipts_Location_Codes_and_Rates_July_2025_June_2026/FeatureServer/65",
-    "retrieved_at": "2026-05-18"
+    "effective_date": "2026-07-01",
+    "source_url": "https://services5.arcgis.com/f4lpEvI6fkgVYigk/arcgis/rest/services/New_Mexico_gross_receipts_tax_July_2026_June_2027_pub_WM/FeatureServer/2",
+    "retrieved_at": "2026-11-12"
   },
   {
     "state": "NM",
     "jurisdiction_type": "special_district",
     "name": "Carlsbad",
     "fips_code": "03-106",
-    "rate": 0.02521,
+    "rate": 0.025208,
     "source_key": "NM-03-106",
     "rate_type": "sales",
-    "effective_date": "2025-07-01",
-    "source_url": "https://services5.arcgis.com/f4lpEvI6fkgVYigk/arcgis/rest/services/New_Mexico_Gross_Receipts_Location_Codes_and_Rates_July_2025_June_2026/FeatureServer/65",
-    "retrieved_at": "2026-05-18"
+    "effective_date": "2026-07-01",
+    "source_url": "https://services5.arcgis.com/f4lpEvI6fkgVYigk/arcgis/rest/services/New_Mexico_gross_receipts_tax_July_2026_June_2027_pub_WM/FeatureServer/2",
+    "retrieved_at": "2026-11-12"
   },
   {
     "state": "NM",
@@ -133732,24 +133732,24 @@
     "jurisdiction_type": "special_district",
     "name": "Chama",
     "fips_code": "17-118",
-    "rate": 0.03438,
+    "rate": 0.034375,
     "source_key": "NM-17-118",
     "rate_type": "sales",
-    "effective_date": "2025-07-01",
-    "source_url": "https://services5.arcgis.com/f4lpEvI6fkgVYigk/arcgis/rest/services/New_Mexico_Gross_Receipts_Location_Codes_and_Rates_July_2025_June_2026/FeatureServer/65",
-    "retrieved_at": "2026-05-18"
+    "effective_date": "2026-07-01",
+    "source_url": "https://services5.arcgis.com/f4lpEvI6fkgVYigk/arcgis/rest/services/New_Mexico_gross_receipts_tax_July_2026_June_2027_pub_WM/FeatureServer/2",
+    "retrieved_at": "2026-11-12"
   },
   {
     "state": "NM",
     "jurisdiction_type": "special_district",
     "name": "Cimarron",
     "fips_code": "09-401",
-    "rate": 0.03438,
+    "rate": 0.034375,
     "source_key": "NM-09-401",
     "rate_type": "sales",
     "effective_date": "2026-07-01",
     "source_url": "https://services5.arcgis.com/f4lpEvI6fkgVYigk/arcgis/rest/services/New_Mexico_gross_receipts_tax_July_2026_June_2027_pub_WM/FeatureServer/2",
-    "retrieved_at": "2026-09-21"
+    "retrieved_at": "2026-11-12"
   },
   {
     "state": "NM",
@@ -133768,24 +133768,24 @@
     "jurisdiction_type": "special_district",
     "name": "Cloudcroft",
     "fips_code": "15-213",
-    "rate": 0.02938,
+    "rate": 0.029375,
     "source_key": "NM-15-213",
     "rate_type": "sales",
-    "effective_date": "2025-07-01",
-    "source_url": "https://services5.arcgis.com/f4lpEvI6fkgVYigk/arcgis/rest/services/New_Mexico_Gross_Receipts_Location_Codes_and_Rates_July_2025_June_2026/FeatureServer/65",
-    "retrieved_at": "2026-05-18"
+    "effective_date": "2026-07-01",
+    "source_url": "https://services5.arcgis.com/f4lpEvI6fkgVYigk/arcgis/rest/services/New_Mexico_gross_receipts_tax_July_2026_June_2027_pub_WM/FeatureServer/2",
+    "retrieved_at": "2026-11-12"
   },
   {
     "state": "NM",
     "jurisdiction_type": "special_district",
     "name": "Clovis",
     "fips_code": "05-103",
-    "rate": 0.03063,
+    "rate": 0.030625,
     "source_key": "NM-05-103",
     "rate_type": "sales",
-    "effective_date": "2025-07-01",
-    "source_url": "https://services5.arcgis.com/f4lpEvI6fkgVYigk/arcgis/rest/services/New_Mexico_Gross_Receipts_Location_Codes_and_Rates_July_2025_June_2026/FeatureServer/65",
-    "retrieved_at": "2026-05-18"
+    "effective_date": "2026-07-01",
+    "source_url": "https://services5.arcgis.com/f4lpEvI6fkgVYigk/arcgis/rest/services/New_Mexico_gross_receipts_tax_July_2026_June_2027_pub_WM/FeatureServer/2",
+    "retrieved_at": "2026-11-12"
   },
   {
     "state": "NM",
@@ -133816,36 +133816,36 @@
     "jurisdiction_type": "special_district",
     "name": "Corona",
     "fips_code": "26-406",
-    "rate": 0.01813,
+    "rate": 0.018125,
     "source_key": "NM-26-406",
     "rate_type": "sales",
-    "effective_date": "2025-07-01",
-    "source_url": "https://services5.arcgis.com/f4lpEvI6fkgVYigk/arcgis/rest/services/New_Mexico_Gross_Receipts_Location_Codes_and_Rates_July_2025_June_2026/FeatureServer/65",
-    "retrieved_at": "2026-05-18"
+    "effective_date": "2026-07-01",
+    "source_url": "https://services5.arcgis.com/f4lpEvI6fkgVYigk/arcgis/rest/services/New_Mexico_gross_receipts_tax_July_2026_June_2027_pub_WM/FeatureServer/2",
+    "retrieved_at": "2026-11-12"
   },
   {
     "state": "NM",
     "jurisdiction_type": "special_district",
     "name": "Corrales",
     "fips_code": "29-504",
-    "rate": 0.02688,
+    "rate": 0.026875,
     "source_key": "NM-29-504",
     "rate_type": "sales",
-    "effective_date": "2025-07-01",
-    "source_url": "https://services5.arcgis.com/f4lpEvI6fkgVYigk/arcgis/rest/services/New_Mexico_Gross_Receipts_Location_Codes_and_Rates_July_2025_June_2026/FeatureServer/65",
-    "retrieved_at": "2026-05-18"
+    "effective_date": "2026-07-01",
+    "source_url": "https://services5.arcgis.com/f4lpEvI6fkgVYigk/arcgis/rest/services/New_Mexico_gross_receipts_tax_July_2026_June_2027_pub_WM/FeatureServer/2",
+    "retrieved_at": "2026-11-12"
   },
   {
     "state": "NM",
     "jurisdiction_type": "special_district",
     "name": "Cuba",
     "fips_code": "29-311",
-    "rate": 0.03188,
+    "rate": 0.031875,
     "source_key": "NM-29-311",
     "rate_type": "sales",
-    "effective_date": "2025-07-01",
-    "source_url": "https://services5.arcgis.com/f4lpEvI6fkgVYigk/arcgis/rest/services/New_Mexico_Gross_Receipts_Location_Codes_and_Rates_July_2025_June_2026/FeatureServer/65",
-    "retrieved_at": "2026-05-18"
+    "effective_date": "2026-07-01",
+    "source_url": "https://services5.arcgis.com/f4lpEvI6fkgVYigk/arcgis/rest/services/New_Mexico_gross_receipts_tax_July_2026_June_2027_pub_WM/FeatureServer/2",
+    "retrieved_at": "2026-11-12"
   },
   {
     "state": "NM",
@@ -133876,12 +133876,12 @@
     "jurisdiction_type": "special_district",
     "name": "Dexter",
     "fips_code": "04-201",
-    "rate": 0.02271,
+    "rate": 0.022708,
     "source_key": "NM-04-201",
     "rate_type": "sales",
-    "effective_date": "2025-07-01",
-    "source_url": "https://services5.arcgis.com/f4lpEvI6fkgVYigk/arcgis/rest/services/New_Mexico_Gross_Receipts_Location_Codes_and_Rates_July_2025_June_2026/FeatureServer/65",
-    "retrieved_at": "2026-05-18"
+    "effective_date": "2026-07-01",
+    "source_url": "https://services5.arcgis.com/f4lpEvI6fkgVYigk/arcgis/rest/services/New_Mexico_gross_receipts_tax_July_2026_June_2027_pub_WM/FeatureServer/2",
+    "retrieved_at": "2026-11-12"
   },
   {
     "state": "NM",
@@ -133936,24 +133936,24 @@
     "jurisdiction_type": "special_district",
     "name": "Edgewood (Sandoval)",
     "fips_code": "29-335",
-    "rate": 0.02063,
+    "rate": 0.020625,
     "source_key": "NM-29-335",
     "rate_type": "sales",
-    "effective_date": "2025-07-01",
-    "source_url": "https://services5.arcgis.com/f4lpEvI6fkgVYigk/arcgis/rest/services/New_Mexico_Gross_Receipts_Location_Codes_and_Rates_July_2025_June_2026/FeatureServer/65",
-    "retrieved_at": "2026-05-18"
+    "effective_date": "2026-07-01",
+    "source_url": "https://services5.arcgis.com/f4lpEvI6fkgVYigk/arcgis/rest/services/New_Mexico_gross_receipts_tax_July_2026_June_2027_pub_WM/FeatureServer/2",
+    "retrieved_at": "2026-11-12"
   },
   {
     "state": "NM",
     "jurisdiction_type": "special_district",
     "name": "Edgewood (Santa Fe)",
     "fips_code": "01-320",
-    "rate": 0.03063,
+    "rate": 0.030625,
     "source_key": "NM-01-320",
     "rate_type": "sales",
-    "effective_date": "2025-07-01",
-    "source_url": "https://services5.arcgis.com/f4lpEvI6fkgVYigk/arcgis/rest/services/New_Mexico_Gross_Receipts_Location_Codes_and_Rates_July_2025_June_2026/FeatureServer/65",
-    "retrieved_at": "2026-05-18"
+    "effective_date": "2026-07-01",
+    "source_url": "https://services5.arcgis.com/f4lpEvI6fkgVYigk/arcgis/rest/services/New_Mexico_gross_receipts_tax_July_2026_June_2027_pub_WM/FeatureServer/2",
+    "retrieved_at": "2026-11-12"
   },
   {
     "state": "NM",
@@ -134032,108 +134032,108 @@
     "jurisdiction_type": "special_district",
     "name": "Encino",
     "fips_code": "22-410",
-    "rate": 0.02188,
+    "rate": 0.021875,
     "source_key": "NM-22-410",
     "rate_type": "sales",
-    "effective_date": "2025-07-01",
-    "source_url": "https://services5.arcgis.com/f4lpEvI6fkgVYigk/arcgis/rest/services/New_Mexico_Gross_Receipts_Location_Codes_and_Rates_July_2025_June_2026/FeatureServer/65",
-    "retrieved_at": "2026-05-18"
+    "effective_date": "2026-07-01",
+    "source_url": "https://services5.arcgis.com/f4lpEvI6fkgVYigk/arcgis/rest/services/New_Mexico_gross_receipts_tax_July_2026_June_2027_pub_WM/FeatureServer/2",
+    "retrieved_at": "2026-11-12"
   },
   {
     "state": "NM",
     "jurisdiction_type": "special_district",
     "name": "Espanola (Rio Arriba)",
     "fips_code": "17-215",
-    "rate": 0.03813,
+    "rate": 0.038125,
     "source_key": "NM-17-215",
     "rate_type": "sales",
-    "effective_date": "2025-07-01",
-    "source_url": "https://services5.arcgis.com/f4lpEvI6fkgVYigk/arcgis/rest/services/New_Mexico_Gross_Receipts_Location_Codes_and_Rates_July_2025_June_2026/FeatureServer/65",
-    "retrieved_at": "2026-05-18"
+    "effective_date": "2026-07-01",
+    "source_url": "https://services5.arcgis.com/f4lpEvI6fkgVYigk/arcgis/rest/services/New_Mexico_gross_receipts_tax_July_2026_June_2027_pub_WM/FeatureServer/2",
+    "retrieved_at": "2026-11-12"
   },
   {
     "state": "NM",
     "jurisdiction_type": "special_district",
     "name": "Espanola (Santa Fe)",
     "fips_code": "01-226",
-    "rate": 0.03938,
+    "rate": 0.039375,
     "source_key": "NM-01-226",
     "rate_type": "sales",
-    "effective_date": "2025-07-01",
-    "source_url": "https://services5.arcgis.com/f4lpEvI6fkgVYigk/arcgis/rest/services/New_Mexico_Gross_Receipts_Location_Codes_and_Rates_July_2025_June_2026/FeatureServer/65",
-    "retrieved_at": "2026-05-18"
+    "effective_date": "2026-07-01",
+    "source_url": "https://services5.arcgis.com/f4lpEvI6fkgVYigk/arcgis/rest/services/New_Mexico_gross_receipts_tax_July_2026_June_2027_pub_WM/FeatureServer/2",
+    "retrieved_at": "2026-11-12"
   },
   {
     "state": "NM",
     "jurisdiction_type": "special_district",
     "name": "Espanola / Ohkay Owingeh Pueblo A",
     "fips_code": "17-944",
-    "rate": 0.03813,
+    "rate": 0.038125,
     "source_key": "NM-17-944",
     "rate_type": "sales",
     "effective_date": "2026-07-01",
     "source_url": "https://services5.arcgis.com/f4lpEvI6fkgVYigk/arcgis/rest/services/New_Mexico_gross_receipts_tax_July_2026_June_2027_pub_WM/FeatureServer/2",
-    "retrieved_at": "2026-09-21"
+    "retrieved_at": "2026-11-12"
   },
   {
     "state": "NM",
     "jurisdiction_type": "special_district",
     "name": "Espanola/Santa Clara Grant A",
     "fips_code": "01-904",
-    "rate": 0.03938,
+    "rate": 0.039375,
     "source_key": "NM-01-904",
     "rate_type": "sales",
     "effective_date": "2026-07-01",
     "source_url": "https://services5.arcgis.com/f4lpEvI6fkgVYigk/arcgis/rest/services/New_Mexico_gross_receipts_tax_July_2026_June_2027_pub_WM/FeatureServer/2",
-    "retrieved_at": "2026-09-21"
+    "retrieved_at": "2026-11-12"
   },
   {
     "state": "NM",
     "jurisdiction_type": "special_district",
     "name": "Espanola/Santa Clara Grant A",
     "fips_code": "17-904",
-    "rate": 0.03813,
+    "rate": 0.038125,
     "source_key": "NM-17-904",
     "rate_type": "sales",
     "effective_date": "2026-07-01",
     "source_url": "https://services5.arcgis.com/f4lpEvI6fkgVYigk/arcgis/rest/services/New_Mexico_gross_receipts_tax_July_2026_June_2027_pub_WM/FeatureServer/2",
-    "retrieved_at": "2026-09-21"
+    "retrieved_at": "2026-11-12"
   },
   {
     "state": "NM",
     "jurisdiction_type": "special_district",
     "name": "Estancia",
     "fips_code": "22-503",
-    "rate": 0.03063,
+    "rate": 0.030625,
     "source_key": "NM-22-503",
     "rate_type": "sales",
-    "effective_date": "2025-07-01",
-    "source_url": "https://services5.arcgis.com/f4lpEvI6fkgVYigk/arcgis/rest/services/New_Mexico_Gross_Receipts_Location_Codes_and_Rates_July_2025_June_2026/FeatureServer/65",
-    "retrieved_at": "2026-05-18"
+    "effective_date": "2026-07-01",
+    "source_url": "https://services5.arcgis.com/f4lpEvI6fkgVYigk/arcgis/rest/services/New_Mexico_gross_receipts_tax_July_2026_June_2027_pub_WM/FeatureServer/2",
+    "retrieved_at": "2026-11-12"
   },
   {
     "state": "NM",
     "jurisdiction_type": "special_district",
     "name": "Eunice",
     "fips_code": "06-210",
-    "rate": 0.02188,
+    "rate": 0.021875,
     "source_key": "NM-06-210",
     "rate_type": "sales",
-    "effective_date": "2025-07-01",
-    "source_url": "https://services5.arcgis.com/f4lpEvI6fkgVYigk/arcgis/rest/services/New_Mexico_Gross_Receipts_Location_Codes_and_Rates_July_2025_June_2026/FeatureServer/65",
-    "retrieved_at": "2026-05-18"
+    "effective_date": "2026-07-01",
+    "source_url": "https://services5.arcgis.com/f4lpEvI6fkgVYigk/arcgis/rest/services/New_Mexico_gross_receipts_tax_July_2026_June_2027_pub_WM/FeatureServer/2",
+    "retrieved_at": "2026-11-12"
   },
   {
     "state": "NM",
     "jurisdiction_type": "special_district",
     "name": "Farmington",
     "fips_code": "16-121",
-    "rate": 0.03313,
+    "rate": 0.033125,
     "source_key": "NM-16-121",
     "rate_type": "sales",
-    "effective_date": "2025-07-01",
-    "source_url": "https://services5.arcgis.com/f4lpEvI6fkgVYigk/arcgis/rest/services/New_Mexico_Gross_Receipts_Location_Codes_and_Rates_July_2025_June_2026/FeatureServer/65",
-    "retrieved_at": "2026-05-18"
+    "effective_date": "2026-07-01",
+    "source_url": "https://services5.arcgis.com/f4lpEvI6fkgVYigk/arcgis/rest/services/New_Mexico_gross_receipts_tax_July_2026_June_2027_pub_WM/FeatureServer/2",
+    "retrieved_at": "2026-11-12"
   },
   {
     "state": "NM",
@@ -134164,36 +134164,36 @@
     "jurisdiction_type": "special_district",
     "name": "Fort Sumner",
     "fips_code": "27-104",
-    "rate": 0.02938,
+    "rate": 0.029375,
     "source_key": "NM-27-104",
     "rate_type": "sales",
-    "effective_date": "2025-07-01",
-    "source_url": "https://services5.arcgis.com/f4lpEvI6fkgVYigk/arcgis/rest/services/New_Mexico_Gross_Receipts_Location_Codes_and_Rates_July_2025_June_2026/FeatureServer/65",
-    "retrieved_at": "2026-05-18"
+    "effective_date": "2026-07-01",
+    "source_url": "https://services5.arcgis.com/f4lpEvI6fkgVYigk/arcgis/rest/services/New_Mexico_gross_receipts_tax_July_2026_June_2027_pub_WM/FeatureServer/2",
+    "retrieved_at": "2026-11-12"
   },
   {
     "state": "NM",
     "jurisdiction_type": "special_district",
     "name": "Gallup",
     "fips_code": "13-114",
-    "rate": 0.03188,
+    "rate": 0.031875,
     "source_key": "NM-13-114",
     "rate_type": "sales",
-    "effective_date": "2025-07-01",
-    "source_url": "https://services5.arcgis.com/f4lpEvI6fkgVYigk/arcgis/rest/services/New_Mexico_Gross_Receipts_Location_Codes_and_Rates_July_2025_June_2026/FeatureServer/65",
-    "retrieved_at": "2026-05-18"
+    "effective_date": "2026-07-01",
+    "source_url": "https://services5.arcgis.com/f4lpEvI6fkgVYigk/arcgis/rest/services/New_Mexico_gross_receipts_tax_July_2026_June_2027_pub_WM/FeatureServer/2",
+    "retrieved_at": "2026-11-12"
   },
   {
     "state": "NM",
     "jurisdiction_type": "special_district",
     "name": "Grady",
     "fips_code": "05-203",
-    "rate": 0.01813,
+    "rate": 0.018125,
     "source_key": "NM-05-203",
     "rate_type": "sales",
-    "effective_date": "2025-07-01",
-    "source_url": "https://services5.arcgis.com/f4lpEvI6fkgVYigk/arcgis/rest/services/New_Mexico_Gross_Receipts_Location_Codes_and_Rates_July_2025_June_2026/FeatureServer/65",
-    "retrieved_at": "2026-05-18"
+    "effective_date": "2026-07-01",
+    "source_url": "https://services5.arcgis.com/f4lpEvI6fkgVYigk/arcgis/rest/services/New_Mexico_gross_receipts_tax_July_2026_June_2027_pub_WM/FeatureServer/2",
+    "retrieved_at": "2026-11-12"
   },
   {
     "state": "NM",
@@ -134224,12 +134224,12 @@
     "jurisdiction_type": "special_district",
     "name": "Hagerman",
     "fips_code": "04-300",
-    "rate": 0.02458,
+    "rate": 0.024583,
     "source_key": "NM-04-300",
     "rate_type": "sales",
-    "effective_date": "2025-07-01",
-    "source_url": "https://services5.arcgis.com/f4lpEvI6fkgVYigk/arcgis/rest/services/New_Mexico_Gross_Receipts_Location_Codes_and_Rates_July_2025_June_2026/FeatureServer/65",
-    "retrieved_at": "2026-05-18"
+    "effective_date": "2026-07-01",
+    "source_url": "https://services5.arcgis.com/f4lpEvI6fkgVYigk/arcgis/rest/services/New_Mexico_gross_receipts_tax_July_2026_June_2027_pub_WM/FeatureServer/2",
+    "retrieved_at": "2026-11-12"
   },
   {
     "state": "NM",
@@ -134248,24 +134248,24 @@
     "jurisdiction_type": "special_district",
     "name": "Hobbs",
     "fips_code": "06-111",
-    "rate": 0.01688,
+    "rate": 0.016875,
     "source_key": "NM-06-111",
     "rate_type": "sales",
-    "effective_date": "2025-07-01",
-    "source_url": "https://services5.arcgis.com/f4lpEvI6fkgVYigk/arcgis/rest/services/New_Mexico_Gross_Receipts_Location_Codes_and_Rates_July_2025_June_2026/FeatureServer/65",
-    "retrieved_at": "2026-05-18"
+    "effective_date": "2026-07-01",
+    "source_url": "https://services5.arcgis.com/f4lpEvI6fkgVYigk/arcgis/rest/services/New_Mexico_gross_receipts_tax_July_2026_June_2027_pub_WM/FeatureServer/2",
+    "retrieved_at": "2026-11-12"
   },
   {
     "state": "NM",
     "jurisdiction_type": "special_district",
     "name": "Hope",
     "fips_code": "03-304",
-    "rate": 0.01708,
+    "rate": 0.017083,
     "source_key": "NM-03-304",
     "rate_type": "sales",
-    "effective_date": "2025-07-01",
-    "source_url": "https://services5.arcgis.com/f4lpEvI6fkgVYigk/arcgis/rest/services/New_Mexico_Gross_Receipts_Location_Codes_and_Rates_July_2025_June_2026/FeatureServer/65",
-    "retrieved_at": "2026-05-18"
+    "effective_date": "2026-07-01",
+    "source_url": "https://services5.arcgis.com/f4lpEvI6fkgVYigk/arcgis/rest/services/New_Mexico_gross_receipts_tax_July_2026_June_2027_pub_WM/FeatureServer/2",
+    "retrieved_at": "2026-11-12"
   },
   {
     "state": "NM",
@@ -134296,12 +134296,12 @@
     "jurisdiction_type": "special_district",
     "name": "Jal",
     "fips_code": "06-306",
-    "rate": 0.02313,
+    "rate": 0.023125,
     "source_key": "NM-06-306",
     "rate_type": "sales",
-    "effective_date": "2025-07-01",
-    "source_url": "https://services5.arcgis.com/f4lpEvI6fkgVYigk/arcgis/rest/services/New_Mexico_Gross_Receipts_Location_Codes_and_Rates_July_2025_June_2026/FeatureServer/65",
-    "retrieved_at": "2026-05-18"
+    "effective_date": "2026-07-01",
+    "source_url": "https://services5.arcgis.com/f4lpEvI6fkgVYigk/arcgis/rest/services/New_Mexico_gross_receipts_tax_July_2026_June_2027_pub_WM/FeatureServer/2",
+    "retrieved_at": "2026-11-12"
   },
   {
     "state": "NM",
@@ -134380,24 +134380,24 @@
     "jurisdiction_type": "special_district",
     "name": "Kirtland",
     "fips_code": "16-323",
-    "rate": 0.01938,
+    "rate": 0.019375,
     "source_key": "NM-16-323",
     "rate_type": "sales",
-    "effective_date": "2025-07-01",
-    "source_url": "https://services5.arcgis.com/f4lpEvI6fkgVYigk/arcgis/rest/services/New_Mexico_Gross_Receipts_Location_Codes_and_Rates_July_2025_June_2026/FeatureServer/65",
-    "retrieved_at": "2026-05-18"
+    "effective_date": "2026-07-01",
+    "source_url": "https://services5.arcgis.com/f4lpEvI6fkgVYigk/arcgis/rest/services/New_Mexico_gross_receipts_tax_July_2026_June_2027_pub_WM/FeatureServer/2",
+    "retrieved_at": "2026-11-12"
   },
   {
     "state": "NM",
     "jurisdiction_type": "special_district",
     "name": "Laguna Pueblo",
     "fips_code": "02-952",
-    "rate": 0.01313,
+    "rate": 0.013125,
     "source_key": "NM-02-952",
     "rate_type": "sales",
     "effective_date": "2026-07-01",
     "source_url": "https://services5.arcgis.com/f4lpEvI6fkgVYigk/arcgis/rest/services/New_Mexico_gross_receipts_tax_July_2026_June_2027_pub_WM/FeatureServer/2",
-    "retrieved_at": "2026-09-21"
+    "retrieved_at": "2026-11-12"
   },
   {
     "state": "NM",
@@ -134428,24 +134428,24 @@
     "jurisdiction_type": "special_district",
     "name": "Laguna Pueblo",
     "fips_code": "33-902",
-    "rate": 0.01688,
+    "rate": 0.016875,
     "source_key": "NM-33-902",
     "rate_type": "sales",
     "effective_date": "2026-07-01",
     "source_url": "https://services5.arcgis.com/f4lpEvI6fkgVYigk/arcgis/rest/services/New_Mexico_gross_receipts_tax_July_2026_June_2027_pub_WM/FeatureServer/2",
-    "retrieved_at": "2026-09-21"
+    "retrieved_at": "2026-11-12"
   },
   {
     "state": "NM",
     "jurisdiction_type": "special_district",
     "name": "Lake Arthur",
     "fips_code": "04-400",
-    "rate": 0.02458,
+    "rate": 0.024583,
     "source_key": "NM-04-400",
     "rate_type": "sales",
-    "effective_date": "2025-07-01",
-    "source_url": "https://services5.arcgis.com/f4lpEvI6fkgVYigk/arcgis/rest/services/New_Mexico_Gross_Receipts_Location_Codes_and_Rates_July_2025_June_2026/FeatureServer/65",
-    "retrieved_at": "2026-05-18"
+    "effective_date": "2026-07-01",
+    "source_url": "https://services5.arcgis.com/f4lpEvI6fkgVYigk/arcgis/rest/services/New_Mexico_gross_receipts_tax_July_2026_June_2027_pub_WM/FeatureServer/2",
+    "retrieved_at": "2026-11-12"
   },
   {
     "state": "NM",
@@ -134536,12 +134536,12 @@
     "jurisdiction_type": "special_district",
     "name": "Las Vegas",
     "fips_code": "12-122",
-    "rate": 0.03271,
+    "rate": 0.032708,
     "source_key": "NM-12-122",
     "rate_type": "sales",
-    "effective_date": "2025-07-01",
-    "source_url": "https://services5.arcgis.com/f4lpEvI6fkgVYigk/arcgis/rest/services/New_Mexico_Gross_Receipts_Location_Codes_and_Rates_July_2025_June_2026/FeatureServer/65",
-    "retrieved_at": "2026-05-18"
+    "effective_date": "2026-07-01",
+    "source_url": "https://services5.arcgis.com/f4lpEvI6fkgVYigk/arcgis/rest/services/New_Mexico_gross_receipts_tax_July_2026_June_2027_pub_WM/FeatureServer/2",
+    "retrieved_at": "2026-11-12"
   },
   {
     "state": "NM",
@@ -134572,24 +134572,24 @@
     "jurisdiction_type": "special_district",
     "name": "Los Alamos City And County",
     "fips_code": "32-032",
-    "rate": 0.02813,
+    "rate": 0.028125,
     "source_key": "NM-32-032",
     "rate_type": "sales",
     "effective_date": "2026-07-01",
     "source_url": "https://services5.arcgis.com/f4lpEvI6fkgVYigk/arcgis/rest/services/New_Mexico_gross_receipts_tax_July_2026_June_2027_pub_WM/FeatureServer/2",
-    "retrieved_at": "2026-09-21"
+    "retrieved_at": "2026-11-12"
   },
   {
     "state": "NM",
     "jurisdiction_type": "special_district",
     "name": "Los Diamantes Tidd",
     "fips_code": "29-530",
-    "rate": 0.02563,
+    "rate": 0.025625,
     "source_key": "NM-29-530",
     "rate_type": "sales",
-    "effective_date": "2025-07-01",
-    "source_url": "https://services5.arcgis.com/f4lpEvI6fkgVYigk/arcgis/rest/services/New_Mexico_Gross_Receipts_Location_Codes_and_Rates_July_2025_June_2026/FeatureServer/65",
-    "retrieved_at": "2026-05-18"
+    "effective_date": "2026-07-01",
+    "source_url": "https://services5.arcgis.com/f4lpEvI6fkgVYigk/arcgis/rest/services/New_Mexico_gross_receipts_tax_July_2026_June_2027_pub_WM/FeatureServer/2",
+    "retrieved_at": "2026-11-12"
   },
   {
     "state": "NM",
@@ -134620,12 +134620,12 @@
     "jurisdiction_type": "special_district",
     "name": "Loving",
     "fips_code": "03-403",
-    "rate": 0.02508,
+    "rate": 0.025083,
     "source_key": "NM-03-403",
     "rate_type": "sales",
-    "effective_date": "2025-07-01",
-    "source_url": "https://services5.arcgis.com/f4lpEvI6fkgVYigk/arcgis/rest/services/New_Mexico_Gross_Receipts_Location_Codes_and_Rates_July_2025_June_2026/FeatureServer/65",
-    "retrieved_at": "2026-05-18"
+    "effective_date": "2026-07-01",
+    "source_url": "https://services5.arcgis.com/f4lpEvI6fkgVYigk/arcgis/rest/services/New_Mexico_gross_receipts_tax_July_2026_June_2027_pub_WM/FeatureServer/2",
+    "retrieved_at": "2026-11-12"
   },
   {
     "state": "NM",
@@ -134656,12 +134656,12 @@
     "jurisdiction_type": "special_district",
     "name": "Magdalena",
     "fips_code": "25-221",
-    "rate": 0.02313,
+    "rate": 0.023125,
     "source_key": "NM-25-221",
     "rate_type": "sales",
-    "effective_date": "2025-07-01",
-    "source_url": "https://services5.arcgis.com/f4lpEvI6fkgVYigk/arcgis/rest/services/New_Mexico_Gross_Receipts_Location_Codes_and_Rates_July_2025_June_2026/FeatureServer/65",
-    "retrieved_at": "2026-05-18"
+    "effective_date": "2026-07-01",
+    "source_url": "https://services5.arcgis.com/f4lpEvI6fkgVYigk/arcgis/rest/services/New_Mexico_gross_receipts_tax_July_2026_June_2027_pub_WM/FeatureServer/2",
+    "retrieved_at": "2026-11-12"
   },
   {
     "state": "NM",
@@ -134752,48 +134752,48 @@
     "jurisdiction_type": "special_district",
     "name": "Moriarty",
     "fips_code": "22-223",
-    "rate": 0.03063,
+    "rate": 0.030625,
     "source_key": "NM-22-223",
     "rate_type": "sales",
-    "effective_date": "2025-07-01",
-    "source_url": "https://services5.arcgis.com/f4lpEvI6fkgVYigk/arcgis/rest/services/New_Mexico_Gross_Receipts_Location_Codes_and_Rates_July_2025_June_2026/FeatureServer/65",
-    "retrieved_at": "2026-05-18"
+    "effective_date": "2026-07-01",
+    "source_url": "https://services5.arcgis.com/f4lpEvI6fkgVYigk/arcgis/rest/services/New_Mexico_gross_receipts_tax_July_2026_June_2027_pub_WM/FeatureServer/2",
+    "retrieved_at": "2026-11-12"
   },
   {
     "state": "NM",
     "jurisdiction_type": "special_district",
     "name": "Mosquero (Harding)",
     "fips_code": "31-208",
-    "rate": 0.01813,
+    "rate": 0.018125,
     "source_key": "NM-31-208",
     "rate_type": "sales",
-    "effective_date": "2025-07-01",
-    "source_url": "https://services5.arcgis.com/f4lpEvI6fkgVYigk/arcgis/rest/services/New_Mexico_Gross_Receipts_Location_Codes_and_Rates_July_2025_June_2026/FeatureServer/65",
-    "retrieved_at": "2026-05-18"
+    "effective_date": "2026-07-01",
+    "source_url": "https://services5.arcgis.com/f4lpEvI6fkgVYigk/arcgis/rest/services/New_Mexico_gross_receipts_tax_July_2026_June_2027_pub_WM/FeatureServer/2",
+    "retrieved_at": "2026-11-12"
   },
   {
     "state": "NM",
     "jurisdiction_type": "special_district",
     "name": "Mosquero (San Miguel)",
     "fips_code": "12-418",
-    "rate": 0.02271,
+    "rate": 0.022708,
     "source_key": "NM-12-418",
     "rate_type": "sales",
-    "effective_date": "2025-07-01",
-    "source_url": "https://services5.arcgis.com/f4lpEvI6fkgVYigk/arcgis/rest/services/New_Mexico_Gross_Receipts_Location_Codes_and_Rates_July_2025_June_2026/FeatureServer/65",
-    "retrieved_at": "2026-05-18"
+    "effective_date": "2026-07-01",
+    "source_url": "https://services5.arcgis.com/f4lpEvI6fkgVYigk/arcgis/rest/services/New_Mexico_gross_receipts_tax_July_2026_June_2027_pub_WM/FeatureServer/2",
+    "retrieved_at": "2026-11-12"
   },
   {
     "state": "NM",
     "jurisdiction_type": "special_district",
     "name": "Mountainair",
     "fips_code": "22-127",
-    "rate": 0.02813,
+    "rate": 0.028125,
     "source_key": "NM-22-127",
     "rate_type": "sales",
-    "effective_date": "2025-07-01",
-    "source_url": "https://services5.arcgis.com/f4lpEvI6fkgVYigk/arcgis/rest/services/New_Mexico_Gross_Receipts_Location_Codes_and_Rates_July_2025_June_2026/FeatureServer/65",
-    "retrieved_at": "2026-05-18"
+    "effective_date": "2026-07-01",
+    "source_url": "https://services5.arcgis.com/f4lpEvI6fkgVYigk/arcgis/rest/services/New_Mexico_gross_receipts_tax_July_2026_June_2027_pub_WM/FeatureServer/2",
+    "retrieved_at": "2026-11-12"
   },
   {
     "state": "NM",
@@ -134824,12 +134824,12 @@
     "jurisdiction_type": "special_district",
     "name": "Pecos",
     "fips_code": "12-313",
-    "rate": 0.02646,
+    "rate": 0.026458,
     "source_key": "NM-12-313",
     "rate_type": "sales",
-    "effective_date": "2025-07-01",
-    "source_url": "https://services5.arcgis.com/f4lpEvI6fkgVYigk/arcgis/rest/services/New_Mexico_Gross_Receipts_Location_Codes_and_Rates_July_2025_June_2026/FeatureServer/65",
-    "retrieved_at": "2026-05-18"
+    "effective_date": "2026-07-01",
+    "source_url": "https://services5.arcgis.com/f4lpEvI6fkgVYigk/arcgis/rest/services/New_Mexico_gross_receipts_tax_July_2026_June_2027_pub_WM/FeatureServer/2",
+    "retrieved_at": "2026-11-12"
   },
   {
     "state": "NM",
@@ -135004,24 +135004,24 @@
     "jurisdiction_type": "special_district",
     "name": "Pueblo Of Zuni",
     "fips_code": "33-912",
-    "rate": 0.01688,
+    "rate": 0.016875,
     "source_key": "NM-33-912",
     "rate_type": "sales",
     "effective_date": "2026-07-01",
     "source_url": "https://services5.arcgis.com/f4lpEvI6fkgVYigk/arcgis/rest/services/New_Mexico_gross_receipts_tax_July_2026_June_2027_pub_WM/FeatureServer/2",
-    "retrieved_at": "2026-09-21"
+    "retrieved_at": "2026-11-12"
   },
   {
     "state": "NM",
     "jurisdiction_type": "special_district",
     "name": "Questa",
     "fips_code": "20-222",
-    "rate": 0.03688,
+    "rate": 0.036875,
     "source_key": "NM-20-222",
     "rate_type": "sales",
-    "effective_date": "2025-07-01",
-    "source_url": "https://services5.arcgis.com/f4lpEvI6fkgVYigk/arcgis/rest/services/New_Mexico_Gross_Receipts_Location_Codes_and_Rates_July_2025_June_2026/FeatureServer/65",
-    "retrieved_at": "2026-05-18"
+    "effective_date": "2026-07-01",
+    "source_url": "https://services5.arcgis.com/f4lpEvI6fkgVYigk/arcgis/rest/services/New_Mexico_gross_receipts_tax_July_2026_June_2027_pub_WM/FeatureServer/2",
+    "retrieved_at": "2026-11-12"
   },
   {
     "state": "NM",
@@ -135076,48 +135076,48 @@
     "jurisdiction_type": "special_district",
     "name": "Remainder Of County - Bernalillo",
     "fips_code": "02-002",
-    "rate": 0.01313,
+    "rate": 0.013125,
     "source_key": "NM-02-002",
     "rate_type": "sales",
-    "effective_date": "2025-07-01",
-    "source_url": "https://services5.arcgis.com/f4lpEvI6fkgVYigk/arcgis/rest/services/New_Mexico_Gross_Receipts_Location_Codes_and_Rates_July_2025_June_2026/FeatureServer/65",
-    "retrieved_at": "2026-05-18"
+    "effective_date": "2026-07-01",
+    "source_url": "https://services5.arcgis.com/f4lpEvI6fkgVYigk/arcgis/rest/services/New_Mexico_gross_receipts_tax_July_2026_June_2027_pub_WM/FeatureServer/2",
+    "retrieved_at": "2026-11-12"
   },
   {
     "state": "NM",
     "jurisdiction_type": "special_district",
     "name": "Remainder Of County - Catron",
     "fips_code": "28-028",
-    "rate": 0.01188,
+    "rate": 0.011875,
     "source_key": "NM-28-028",
     "rate_type": "sales",
-    "effective_date": "2025-07-01",
-    "source_url": "https://services5.arcgis.com/f4lpEvI6fkgVYigk/arcgis/rest/services/New_Mexico_Gross_Receipts_Location_Codes_and_Rates_July_2025_June_2026/FeatureServer/65",
-    "retrieved_at": "2026-05-18"
+    "effective_date": "2026-07-01",
+    "source_url": "https://services5.arcgis.com/f4lpEvI6fkgVYigk/arcgis/rest/services/New_Mexico_gross_receipts_tax_July_2026_June_2027_pub_WM/FeatureServer/2",
+    "retrieved_at": "2026-11-12"
   },
   {
     "state": "NM",
     "jurisdiction_type": "special_district",
     "name": "Remainder Of County - Chaves",
     "fips_code": "04-004",
-    "rate": 0.01396,
+    "rate": 0.013958,
     "source_key": "NM-04-004",
     "rate_type": "sales",
-    "effective_date": "2025-07-01",
-    "source_url": "https://services5.arcgis.com/f4lpEvI6fkgVYigk/arcgis/rest/services/New_Mexico_Gross_Receipts_Location_Codes_and_Rates_July_2025_June_2026/FeatureServer/65",
-    "retrieved_at": "2026-05-18"
+    "effective_date": "2026-07-01",
+    "source_url": "https://services5.arcgis.com/f4lpEvI6fkgVYigk/arcgis/rest/services/New_Mexico_gross_receipts_tax_July_2026_June_2027_pub_WM/FeatureServer/2",
+    "retrieved_at": "2026-11-12"
   },
   {
     "state": "NM",
     "jurisdiction_type": "special_district",
     "name": "Remainder Of County - Cibola",
     "fips_code": "33-033",
-    "rate": 0.01688,
+    "rate": 0.016875,
     "source_key": "NM-33-033",
     "rate_type": "sales",
-    "effective_date": "2025-07-01",
-    "source_url": "https://services5.arcgis.com/f4lpEvI6fkgVYigk/arcgis/rest/services/New_Mexico_Gross_Receipts_Location_Codes_and_Rates_July_2025_June_2026/FeatureServer/65",
-    "retrieved_at": "2026-05-18"
+    "effective_date": "2026-07-01",
+    "source_url": "https://services5.arcgis.com/f4lpEvI6fkgVYigk/arcgis/rest/services/New_Mexico_gross_receipts_tax_July_2026_June_2027_pub_WM/FeatureServer/2",
+    "retrieved_at": "2026-11-12"
   },
   {
     "state": "NM",
@@ -135160,48 +135160,48 @@
     "jurisdiction_type": "special_district",
     "name": "Remainder Of County - Dona Ana",
     "fips_code": "07-007",
-    "rate": 0.01623,
+    "rate": 0.016225,
     "source_key": "NM-07-007",
     "rate_type": "sales",
-    "effective_date": "2025-07-01",
-    "source_url": "https://services5.arcgis.com/f4lpEvI6fkgVYigk/arcgis/rest/services/New_Mexico_Gross_Receipts_Location_Codes_and_Rates_July_2025_June_2026/FeatureServer/65",
-    "retrieved_at": "2026-05-18"
+    "effective_date": "2026-07-01",
+    "source_url": "https://services5.arcgis.com/f4lpEvI6fkgVYigk/arcgis/rest/services/New_Mexico_gross_receipts_tax_July_2026_June_2027_pub_WM/FeatureServer/2",
+    "retrieved_at": "2026-11-12"
   },
   {
     "state": "NM",
     "jurisdiction_type": "special_district",
     "name": "Remainder Of County - Eddy",
     "fips_code": "03-003",
-    "rate": 0.00833,
+    "rate": 0.008333,
     "source_key": "NM-03-003",
     "rate_type": "sales",
-    "effective_date": "2025-07-01",
-    "source_url": "https://services5.arcgis.com/f4lpEvI6fkgVYigk/arcgis/rest/services/New_Mexico_Gross_Receipts_Location_Codes_and_Rates_July_2025_June_2026/FeatureServer/65",
-    "retrieved_at": "2026-05-18"
+    "effective_date": "2026-07-01",
+    "source_url": "https://services5.arcgis.com/f4lpEvI6fkgVYigk/arcgis/rest/services/New_Mexico_gross_receipts_tax_July_2026_June_2027_pub_WM/FeatureServer/2",
+    "retrieved_at": "2026-11-12"
   },
   {
     "state": "NM",
     "jurisdiction_type": "special_district",
     "name": "Remainder Of County - Grant",
     "fips_code": "08-008",
-    "rate": 0.01438,
+    "rate": 0.014375,
     "source_key": "NM-08-008",
     "rate_type": "sales",
-    "effective_date": "2025-07-01",
-    "source_url": "https://services5.arcgis.com/f4lpEvI6fkgVYigk/arcgis/rest/services/New_Mexico_Gross_Receipts_Location_Codes_and_Rates_July_2025_June_2026/FeatureServer/65",
-    "retrieved_at": "2026-05-18"
+    "effective_date": "2026-07-01",
+    "source_url": "https://services5.arcgis.com/f4lpEvI6fkgVYigk/arcgis/rest/services/New_Mexico_gross_receipts_tax_July_2026_June_2027_pub_WM/FeatureServer/2",
+    "retrieved_at": "2026-11-12"
   },
   {
     "state": "NM",
     "jurisdiction_type": "special_district",
     "name": "Remainder Of County - Guadalupe",
     "fips_code": "24-024",
-    "rate": 0.01438,
+    "rate": 0.014375,
     "source_key": "NM-24-024",
     "rate_type": "sales",
-    "effective_date": "2025-07-01",
-    "source_url": "https://services5.arcgis.com/f4lpEvI6fkgVYigk/arcgis/rest/services/New_Mexico_Gross_Receipts_Location_Codes_and_Rates_July_2025_June_2026/FeatureServer/65",
-    "retrieved_at": "2026-05-18"
+    "effective_date": "2026-07-01",
+    "source_url": "https://services5.arcgis.com/f4lpEvI6fkgVYigk/arcgis/rest/services/New_Mexico_gross_receipts_tax_July_2026_June_2027_pub_WM/FeatureServer/2",
+    "retrieved_at": "2026-11-12"
   },
   {
     "state": "NM",
@@ -135220,12 +135220,12 @@
     "jurisdiction_type": "special_district",
     "name": "Remainder Of County - Hidalgo",
     "fips_code": "23-023",
-    "rate": 0.01313,
+    "rate": 0.013125,
     "source_key": "NM-23-023",
     "rate_type": "sales",
-    "effective_date": "2025-07-01",
-    "source_url": "https://services5.arcgis.com/f4lpEvI6fkgVYigk/arcgis/rest/services/New_Mexico_Gross_Receipts_Location_Codes_and_Rates_July_2025_June_2026/FeatureServer/65",
-    "retrieved_at": "2026-05-18"
+    "effective_date": "2026-07-01",
+    "source_url": "https://services5.arcgis.com/f4lpEvI6fkgVYigk/arcgis/rest/services/New_Mexico_gross_receipts_tax_July_2026_June_2027_pub_WM/FeatureServer/2",
+    "retrieved_at": "2026-11-12"
   },
   {
     "state": "NM",
@@ -135280,12 +135280,12 @@
     "jurisdiction_type": "special_district",
     "name": "Remainder Of County - Mora",
     "fips_code": "30-030",
-    "rate": 0.01646,
+    "rate": 0.016458,
     "source_key": "NM-30-030",
     "rate_type": "sales",
-    "effective_date": "2025-07-01",
-    "source_url": "https://services5.arcgis.com/f4lpEvI6fkgVYigk/arcgis/rest/services/New_Mexico_Gross_Receipts_Location_Codes_and_Rates_July_2025_June_2026/FeatureServer/65",
-    "retrieved_at": "2026-05-18"
+    "effective_date": "2026-07-01",
+    "source_url": "https://services5.arcgis.com/f4lpEvI6fkgVYigk/arcgis/rest/services/New_Mexico_gross_receipts_tax_July_2026_June_2027_pub_WM/FeatureServer/2",
+    "retrieved_at": "2026-11-12"
   },
   {
     "state": "NM",
@@ -135304,12 +135304,12 @@
     "jurisdiction_type": "special_district",
     "name": "Remainder Of County - Quay",
     "fips_code": "10-010",
-    "rate": 0.01563,
+    "rate": 0.015625,
     "source_key": "NM-10-010",
     "rate_type": "sales",
-    "effective_date": "2025-07-01",
-    "source_url": "https://services5.arcgis.com/f4lpEvI6fkgVYigk/arcgis/rest/services/New_Mexico_Gross_Receipts_Location_Codes_and_Rates_July_2025_June_2026/FeatureServer/65",
-    "retrieved_at": "2026-05-18"
+    "effective_date": "2026-07-01",
+    "source_url": "https://services5.arcgis.com/f4lpEvI6fkgVYigk/arcgis/rest/services/New_Mexico_gross_receipts_tax_July_2026_June_2027_pub_WM/FeatureServer/2",
+    "retrieved_at": "2026-11-12"
   },
   {
     "state": "NM",
@@ -135352,12 +135352,12 @@
     "jurisdiction_type": "special_district",
     "name": "Remainder Of County - San Miguel",
     "fips_code": "12-012",
-    "rate": 0.01708,
+    "rate": 0.017083,
     "source_key": "NM-12-012",
     "rate_type": "sales",
-    "effective_date": "2025-07-01",
-    "source_url": "https://services5.arcgis.com/f4lpEvI6fkgVYigk/arcgis/rest/services/New_Mexico_Gross_Receipts_Location_Codes_and_Rates_July_2025_June_2026/FeatureServer/65",
-    "retrieved_at": "2026-05-18"
+    "effective_date": "2026-07-01",
+    "source_url": "https://services5.arcgis.com/f4lpEvI6fkgVYigk/arcgis/rest/services/New_Mexico_gross_receipts_tax_July_2026_June_2027_pub_WM/FeatureServer/2",
+    "retrieved_at": "2026-11-12"
   },
   {
     "state": "NM",
@@ -135388,12 +135388,12 @@
     "jurisdiction_type": "special_district",
     "name": "Remainder Of County - Sierra",
     "fips_code": "21-021",
-    "rate": 0.01813,
+    "rate": 0.018125,
     "source_key": "NM-21-021",
     "rate_type": "sales",
-    "effective_date": "2025-07-01",
-    "source_url": "https://services5.arcgis.com/f4lpEvI6fkgVYigk/arcgis/rest/services/New_Mexico_Gross_Receipts_Location_Codes_and_Rates_July_2025_June_2026/FeatureServer/65",
-    "retrieved_at": "2026-05-18"
+    "effective_date": "2026-07-01",
+    "source_url": "https://services5.arcgis.com/f4lpEvI6fkgVYigk/arcgis/rest/services/New_Mexico_gross_receipts_tax_July_2026_June_2027_pub_WM/FeatureServer/2",
+    "retrieved_at": "2026-11-12"
   },
   {
     "state": "NM",
@@ -135436,12 +135436,12 @@
     "jurisdiction_type": "special_district",
     "name": "Remainder Of County - Union",
     "fips_code": "18-018",
-    "rate": 0.00938,
+    "rate": 0.009375,
     "source_key": "NM-18-018",
     "rate_type": "sales",
-    "effective_date": "2025-07-01",
-    "source_url": "https://services5.arcgis.com/f4lpEvI6fkgVYigk/arcgis/rest/services/New_Mexico_Gross_Receipts_Location_Codes_and_Rates_July_2025_June_2026/FeatureServer/65",
-    "retrieved_at": "2026-05-18"
+    "effective_date": "2026-07-01",
+    "source_url": "https://services5.arcgis.com/f4lpEvI6fkgVYigk/arcgis/rest/services/New_Mexico_gross_receipts_tax_July_2026_June_2027_pub_WM/FeatureServer/2",
+    "retrieved_at": "2026-11-12"
   },
   {
     "state": "NM",
@@ -135496,60 +135496,60 @@
     "jurisdiction_type": "special_district",
     "name": "Rio Rancho (Sandoval)",
     "fips_code": "29-524",
-    "rate": 0.02563,
+    "rate": 0.025625,
     "source_key": "NM-29-524",
     "rate_type": "sales",
-    "effective_date": "2025-07-01",
-    "source_url": "https://services5.arcgis.com/f4lpEvI6fkgVYigk/arcgis/rest/services/New_Mexico_Gross_Receipts_Location_Codes_and_Rates_July_2025_June_2026/FeatureServer/65",
-    "retrieved_at": "2026-05-18"
+    "effective_date": "2026-07-01",
+    "source_url": "https://services5.arcgis.com/f4lpEvI6fkgVYigk/arcgis/rest/services/New_Mexico_gross_receipts_tax_July_2026_June_2027_pub_WM/FeatureServer/2",
+    "retrieved_at": "2026-11-12"
   },
   {
     "state": "NM",
     "jurisdiction_type": "special_district",
     "name": "Roswell",
     "fips_code": "04-101",
-    "rate": 0.03396,
+    "rate": 0.033958,
     "source_key": "NM-04-101",
     "rate_type": "sales",
-    "effective_date": "2025-07-01",
-    "source_url": "https://services5.arcgis.com/f4lpEvI6fkgVYigk/arcgis/rest/services/New_Mexico_Gross_Receipts_Location_Codes_and_Rates_July_2025_June_2026/FeatureServer/65",
-    "retrieved_at": "2026-05-18"
+    "effective_date": "2026-07-01",
+    "source_url": "https://services5.arcgis.com/f4lpEvI6fkgVYigk/arcgis/rest/services/New_Mexico_gross_receipts_tax_July_2026_June_2027_pub_WM/FeatureServer/2",
+    "retrieved_at": "2026-11-12"
   },
   {
     "state": "NM",
     "jurisdiction_type": "special_district",
     "name": "Roy",
     "fips_code": "31-109",
-    "rate": 0.02188,
+    "rate": 0.021875,
     "source_key": "NM-31-109",
     "rate_type": "sales",
-    "effective_date": "2025-07-01",
-    "source_url": "https://services5.arcgis.com/f4lpEvI6fkgVYigk/arcgis/rest/services/New_Mexico_Gross_Receipts_Location_Codes_and_Rates_July_2025_June_2026/FeatureServer/65",
-    "retrieved_at": "2026-05-18"
+    "effective_date": "2026-07-01",
+    "source_url": "https://services5.arcgis.com/f4lpEvI6fkgVYigk/arcgis/rest/services/New_Mexico_gross_receipts_tax_July_2026_June_2027_pub_WM/FeatureServer/2",
+    "retrieved_at": "2026-11-12"
   },
   {
     "state": "NM",
     "jurisdiction_type": "special_district",
     "name": "Ruidoso",
     "fips_code": "26-112",
-    "rate": 0.03313,
+    "rate": 0.033125,
     "source_key": "NM-26-112",
     "rate_type": "sales",
-    "effective_date": "2025-07-01",
-    "source_url": "https://services5.arcgis.com/f4lpEvI6fkgVYigk/arcgis/rest/services/New_Mexico_Gross_Receipts_Location_Codes_and_Rates_July_2025_June_2026/FeatureServer/65",
-    "retrieved_at": "2026-05-18"
+    "effective_date": "2026-07-01",
+    "source_url": "https://services5.arcgis.com/f4lpEvI6fkgVYigk/arcgis/rest/services/New_Mexico_gross_receipts_tax_July_2026_June_2027_pub_WM/FeatureServer/2",
+    "retrieved_at": "2026-11-12"
   },
   {
     "state": "NM",
     "jurisdiction_type": "special_district",
     "name": "Ruidoso Downs",
     "fips_code": "26-501",
-    "rate": 0.02313,
+    "rate": 0.023125,
     "source_key": "NM-26-501",
     "rate_type": "sales",
-    "effective_date": "2025-07-01",
-    "source_url": "https://services5.arcgis.com/f4lpEvI6fkgVYigk/arcgis/rest/services/New_Mexico_Gross_Receipts_Location_Codes_and_Rates_July_2025_June_2026/FeatureServer/65",
-    "retrieved_at": "2026-05-18"
+    "effective_date": "2026-07-01",
+    "source_url": "https://services5.arcgis.com/f4lpEvI6fkgVYigk/arcgis/rest/services/New_Mexico_gross_receipts_tax_July_2026_June_2027_pub_WM/FeatureServer/2",
+    "retrieved_at": "2026-11-12"
   },
   {
     "state": "NM",
@@ -135580,24 +135580,24 @@
     "jurisdiction_type": "special_district",
     "name": "Sandia Pueblo",
     "fips_code": "02-902",
-    "rate": 0.01563,
+    "rate": 0.015625,
     "source_key": "NM-02-902",
     "rate_type": "sales",
     "effective_date": "2026-07-01",
     "source_url": "https://services5.arcgis.com/f4lpEvI6fkgVYigk/arcgis/rest/services/New_Mexico_gross_receipts_tax_July_2026_June_2027_pub_WM/FeatureServer/2",
-    "retrieved_at": "2026-09-21"
+    "retrieved_at": "2026-11-12"
   },
   {
     "state": "NM",
     "jurisdiction_type": "special_district",
     "name": "Sandia Pueblo",
     "fips_code": "29-912",
-    "rate": 0.01563,
+    "rate": 0.015625,
     "source_key": "NM-29-912",
     "rate_type": "sales",
     "effective_date": "2026-07-01",
     "source_url": "https://services5.arcgis.com/f4lpEvI6fkgVYigk/arcgis/rest/services/New_Mexico_gross_receipts_tax_July_2026_June_2027_pub_WM/FeatureServer/2",
-    "retrieved_at": "2026-09-21"
+    "retrieved_at": "2026-11-12"
   },
   {
     "state": "NM",
@@ -135652,24 +135652,24 @@
     "jurisdiction_type": "special_district",
     "name": "Santa Fe (City)",
     "fips_code": "01-123",
-    "rate": 0.03313,
+    "rate": 0.033125,
     "source_key": "NM-01-123",
     "rate_type": "sales",
-    "effective_date": "2025-07-01",
-    "source_url": "https://services5.arcgis.com/f4lpEvI6fkgVYigk/arcgis/rest/services/New_Mexico_Gross_Receipts_Location_Codes_and_Rates_July_2025_June_2026/FeatureServer/65",
-    "retrieved_at": "2026-05-18"
+    "effective_date": "2026-07-01",
+    "source_url": "https://services5.arcgis.com/f4lpEvI6fkgVYigk/arcgis/rest/services/New_Mexico_gross_receipts_tax_July_2026_June_2027_pub_WM/FeatureServer/2",
+    "retrieved_at": "2026-11-12"
   },
   {
     "state": "NM",
     "jurisdiction_type": "special_district",
     "name": "Santa Fe Indian School/Nineteen Pueblos Of Nm A C",
     "fips_code": "01-908",
-    "rate": 0.03313,
+    "rate": 0.033125,
     "source_key": "NM-01-908",
     "rate_type": "sales",
     "effective_date": "2026-07-01",
     "source_url": "https://services5.arcgis.com/f4lpEvI6fkgVYigk/arcgis/rest/services/New_Mexico_gross_receipts_tax_July_2026_June_2027_pub_WM/FeatureServer/2",
-    "retrieved_at": "2026-09-21"
+    "retrieved_at": "2026-11-12"
   },
   {
     "state": "NM",
@@ -135688,264 +135688,264 @@
     "jurisdiction_type": "special_district",
     "name": "Santolina Tid District 1",
     "fips_code": "02-621",
-    "rate": 0.01313,
+    "rate": 0.013125,
     "source_key": "NM-02-621",
     "rate_type": "sales",
-    "effective_date": "2025-07-01",
-    "source_url": "https://services5.arcgis.com/f4lpEvI6fkgVYigk/arcgis/rest/services/New_Mexico_Gross_Receipts_Location_Codes_and_Rates_July_2025_June_2026/FeatureServer/65",
-    "retrieved_at": "2026-05-18"
+    "effective_date": "2026-07-01",
+    "source_url": "https://services5.arcgis.com/f4lpEvI6fkgVYigk/arcgis/rest/services/New_Mexico_gross_receipts_tax_July_2026_June_2027_pub_WM/FeatureServer/2",
+    "retrieved_at": "2026-11-12"
   },
   {
     "state": "NM",
     "jurisdiction_type": "special_district",
     "name": "Santolina Tid District 10",
     "fips_code": "02-630",
-    "rate": 0.01313,
+    "rate": 0.013125,
     "source_key": "NM-02-630",
     "rate_type": "sales",
-    "effective_date": "2025-07-01",
-    "source_url": "https://services5.arcgis.com/f4lpEvI6fkgVYigk/arcgis/rest/services/New_Mexico_Gross_Receipts_Location_Codes_and_Rates_July_2025_June_2026/FeatureServer/65",
-    "retrieved_at": "2026-05-18"
+    "effective_date": "2026-07-01",
+    "source_url": "https://services5.arcgis.com/f4lpEvI6fkgVYigk/arcgis/rest/services/New_Mexico_gross_receipts_tax_July_2026_June_2027_pub_WM/FeatureServer/2",
+    "retrieved_at": "2026-11-12"
   },
   {
     "state": "NM",
     "jurisdiction_type": "special_district",
     "name": "Santolina Tid District 11",
     "fips_code": "02-631",
-    "rate": 0.01313,
+    "rate": 0.013125,
     "source_key": "NM-02-631",
     "rate_type": "sales",
-    "effective_date": "2025-07-01",
-    "source_url": "https://services5.arcgis.com/f4lpEvI6fkgVYigk/arcgis/rest/services/New_Mexico_Gross_Receipts_Location_Codes_and_Rates_July_2025_June_2026/FeatureServer/65",
-    "retrieved_at": "2026-05-18"
+    "effective_date": "2026-07-01",
+    "source_url": "https://services5.arcgis.com/f4lpEvI6fkgVYigk/arcgis/rest/services/New_Mexico_gross_receipts_tax_July_2026_June_2027_pub_WM/FeatureServer/2",
+    "retrieved_at": "2026-11-12"
   },
   {
     "state": "NM",
     "jurisdiction_type": "special_district",
     "name": "Santolina Tid District 12",
     "fips_code": "02-632",
-    "rate": 0.01313,
+    "rate": 0.013125,
     "source_key": "NM-02-632",
     "rate_type": "sales",
-    "effective_date": "2025-07-01",
-    "source_url": "https://services5.arcgis.com/f4lpEvI6fkgVYigk/arcgis/rest/services/New_Mexico_Gross_Receipts_Location_Codes_and_Rates_July_2025_June_2026/FeatureServer/65",
-    "retrieved_at": "2026-05-18"
+    "effective_date": "2026-07-01",
+    "source_url": "https://services5.arcgis.com/f4lpEvI6fkgVYigk/arcgis/rest/services/New_Mexico_gross_receipts_tax_July_2026_June_2027_pub_WM/FeatureServer/2",
+    "retrieved_at": "2026-11-12"
   },
   {
     "state": "NM",
     "jurisdiction_type": "special_district",
     "name": "Santolina Tid District 13",
     "fips_code": "02-633",
-    "rate": 0.01313,
+    "rate": 0.013125,
     "source_key": "NM-02-633",
     "rate_type": "sales",
-    "effective_date": "2025-07-01",
-    "source_url": "https://services5.arcgis.com/f4lpEvI6fkgVYigk/arcgis/rest/services/New_Mexico_Gross_Receipts_Location_Codes_and_Rates_July_2025_June_2026/FeatureServer/65",
-    "retrieved_at": "2026-05-18"
+    "effective_date": "2026-07-01",
+    "source_url": "https://services5.arcgis.com/f4lpEvI6fkgVYigk/arcgis/rest/services/New_Mexico_gross_receipts_tax_July_2026_June_2027_pub_WM/FeatureServer/2",
+    "retrieved_at": "2026-11-12"
   },
   {
     "state": "NM",
     "jurisdiction_type": "special_district",
     "name": "Santolina Tid District 14",
     "fips_code": "02-634",
-    "rate": 0.01313,
+    "rate": 0.013125,
     "source_key": "NM-02-634",
     "rate_type": "sales",
-    "effective_date": "2025-07-01",
-    "source_url": "https://services5.arcgis.com/f4lpEvI6fkgVYigk/arcgis/rest/services/New_Mexico_Gross_Receipts_Location_Codes_and_Rates_July_2025_June_2026/FeatureServer/65",
-    "retrieved_at": "2026-05-18"
+    "effective_date": "2026-07-01",
+    "source_url": "https://services5.arcgis.com/f4lpEvI6fkgVYigk/arcgis/rest/services/New_Mexico_gross_receipts_tax_July_2026_June_2027_pub_WM/FeatureServer/2",
+    "retrieved_at": "2026-11-12"
   },
   {
     "state": "NM",
     "jurisdiction_type": "special_district",
     "name": "Santolina Tid District 15",
     "fips_code": "02-635",
-    "rate": 0.01313,
+    "rate": 0.013125,
     "source_key": "NM-02-635",
     "rate_type": "sales",
-    "effective_date": "2025-07-01",
-    "source_url": "https://services5.arcgis.com/f4lpEvI6fkgVYigk/arcgis/rest/services/New_Mexico_Gross_Receipts_Location_Codes_and_Rates_July_2025_June_2026/FeatureServer/65",
-    "retrieved_at": "2026-05-18"
+    "effective_date": "2026-07-01",
+    "source_url": "https://services5.arcgis.com/f4lpEvI6fkgVYigk/arcgis/rest/services/New_Mexico_gross_receipts_tax_July_2026_June_2027_pub_WM/FeatureServer/2",
+    "retrieved_at": "2026-11-12"
   },
   {
     "state": "NM",
     "jurisdiction_type": "special_district",
     "name": "Santolina Tid District 16",
     "fips_code": "02-636",
-    "rate": 0.01313,
+    "rate": 0.013125,
     "source_key": "NM-02-636",
     "rate_type": "sales",
-    "effective_date": "2025-07-01",
-    "source_url": "https://services5.arcgis.com/f4lpEvI6fkgVYigk/arcgis/rest/services/New_Mexico_Gross_Receipts_Location_Codes_and_Rates_July_2025_June_2026/FeatureServer/65",
-    "retrieved_at": "2026-05-18"
+    "effective_date": "2026-07-01",
+    "source_url": "https://services5.arcgis.com/f4lpEvI6fkgVYigk/arcgis/rest/services/New_Mexico_gross_receipts_tax_July_2026_June_2027_pub_WM/FeatureServer/2",
+    "retrieved_at": "2026-11-12"
   },
   {
     "state": "NM",
     "jurisdiction_type": "special_district",
     "name": "Santolina Tid District 17",
     "fips_code": "02-637",
-    "rate": 0.01313,
+    "rate": 0.013125,
     "source_key": "NM-02-637",
     "rate_type": "sales",
-    "effective_date": "2025-07-01",
-    "source_url": "https://services5.arcgis.com/f4lpEvI6fkgVYigk/arcgis/rest/services/New_Mexico_Gross_Receipts_Location_Codes_and_Rates_July_2025_June_2026/FeatureServer/65",
-    "retrieved_at": "2026-05-18"
+    "effective_date": "2026-07-01",
+    "source_url": "https://services5.arcgis.com/f4lpEvI6fkgVYigk/arcgis/rest/services/New_Mexico_gross_receipts_tax_July_2026_June_2027_pub_WM/FeatureServer/2",
+    "retrieved_at": "2026-11-12"
   },
   {
     "state": "NM",
     "jurisdiction_type": "special_district",
     "name": "Santolina Tid District 18",
     "fips_code": "02-638",
-    "rate": 0.01313,
+    "rate": 0.013125,
     "source_key": "NM-02-638",
     "rate_type": "sales",
-    "effective_date": "2025-07-01",
-    "source_url": "https://services5.arcgis.com/f4lpEvI6fkgVYigk/arcgis/rest/services/New_Mexico_Gross_Receipts_Location_Codes_and_Rates_July_2025_June_2026/FeatureServer/65",
-    "retrieved_at": "2026-05-18"
+    "effective_date": "2026-07-01",
+    "source_url": "https://services5.arcgis.com/f4lpEvI6fkgVYigk/arcgis/rest/services/New_Mexico_gross_receipts_tax_July_2026_June_2027_pub_WM/FeatureServer/2",
+    "retrieved_at": "2026-11-12"
   },
   {
     "state": "NM",
     "jurisdiction_type": "special_district",
     "name": "Santolina Tid District 19",
     "fips_code": "02-639",
-    "rate": 0.01313,
+    "rate": 0.013125,
     "source_key": "NM-02-639",
     "rate_type": "sales",
-    "effective_date": "2025-07-01",
-    "source_url": "https://services5.arcgis.com/f4lpEvI6fkgVYigk/arcgis/rest/services/New_Mexico_Gross_Receipts_Location_Codes_and_Rates_July_2025_June_2026/FeatureServer/65",
-    "retrieved_at": "2026-05-18"
+    "effective_date": "2026-07-01",
+    "source_url": "https://services5.arcgis.com/f4lpEvI6fkgVYigk/arcgis/rest/services/New_Mexico_gross_receipts_tax_July_2026_June_2027_pub_WM/FeatureServer/2",
+    "retrieved_at": "2026-11-12"
   },
   {
     "state": "NM",
     "jurisdiction_type": "special_district",
     "name": "Santolina Tid District 2",
     "fips_code": "02-622",
-    "rate": 0.01313,
+    "rate": 0.013125,
     "source_key": "NM-02-622",
     "rate_type": "sales",
-    "effective_date": "2025-07-01",
-    "source_url": "https://services5.arcgis.com/f4lpEvI6fkgVYigk/arcgis/rest/services/New_Mexico_Gross_Receipts_Location_Codes_and_Rates_July_2025_June_2026/FeatureServer/65",
-    "retrieved_at": "2026-05-18"
+    "effective_date": "2026-07-01",
+    "source_url": "https://services5.arcgis.com/f4lpEvI6fkgVYigk/arcgis/rest/services/New_Mexico_gross_receipts_tax_July_2026_June_2027_pub_WM/FeatureServer/2",
+    "retrieved_at": "2026-11-12"
   },
   {
     "state": "NM",
     "jurisdiction_type": "special_district",
     "name": "Santolina Tid District 20",
     "fips_code": "02-640",
-    "rate": 0.01313,
+    "rate": 0.013125,
     "source_key": "NM-02-640",
     "rate_type": "sales",
-    "effective_date": "2025-07-01",
-    "source_url": "https://services5.arcgis.com/f4lpEvI6fkgVYigk/arcgis/rest/services/New_Mexico_Gross_Receipts_Location_Codes_and_Rates_July_2025_June_2026/FeatureServer/65",
-    "retrieved_at": "2026-05-18"
+    "effective_date": "2026-07-01",
+    "source_url": "https://services5.arcgis.com/f4lpEvI6fkgVYigk/arcgis/rest/services/New_Mexico_gross_receipts_tax_July_2026_June_2027_pub_WM/FeatureServer/2",
+    "retrieved_at": "2026-11-12"
   },
   {
     "state": "NM",
     "jurisdiction_type": "special_district",
     "name": "Santolina Tid District 3",
     "fips_code": "02-623",
-    "rate": 0.01313,
+    "rate": 0.013125,
     "source_key": "NM-02-623",
     "rate_type": "sales",
-    "effective_date": "2025-07-01",
-    "source_url": "https://services5.arcgis.com/f4lpEvI6fkgVYigk/arcgis/rest/services/New_Mexico_Gross_Receipts_Location_Codes_and_Rates_July_2025_June_2026/FeatureServer/65",
-    "retrieved_at": "2026-05-18"
+    "effective_date": "2026-07-01",
+    "source_url": "https://services5.arcgis.com/f4lpEvI6fkgVYigk/arcgis/rest/services/New_Mexico_gross_receipts_tax_July_2026_June_2027_pub_WM/FeatureServer/2",
+    "retrieved_at": "2026-11-12"
   },
   {
     "state": "NM",
     "jurisdiction_type": "special_district",
     "name": "Santolina Tid District 4",
     "fips_code": "02-624",
-    "rate": 0.01313,
+    "rate": 0.013125,
     "source_key": "NM-02-624",
     "rate_type": "sales",
-    "effective_date": "2025-07-01",
-    "source_url": "https://services5.arcgis.com/f4lpEvI6fkgVYigk/arcgis/rest/services/New_Mexico_Gross_Receipts_Location_Codes_and_Rates_July_2025_June_2026/FeatureServer/65",
-    "retrieved_at": "2026-05-18"
+    "effective_date": "2026-07-01",
+    "source_url": "https://services5.arcgis.com/f4lpEvI6fkgVYigk/arcgis/rest/services/New_Mexico_gross_receipts_tax_July_2026_June_2027_pub_WM/FeatureServer/2",
+    "retrieved_at": "2026-11-12"
   },
   {
     "state": "NM",
     "jurisdiction_type": "special_district",
     "name": "Santolina Tid District 5",
     "fips_code": "02-625",
-    "rate": 0.01313,
+    "rate": 0.013125,
     "source_key": "NM-02-625",
     "rate_type": "sales",
-    "effective_date": "2025-07-01",
-    "source_url": "https://services5.arcgis.com/f4lpEvI6fkgVYigk/arcgis/rest/services/New_Mexico_Gross_Receipts_Location_Codes_and_Rates_July_2025_June_2026/FeatureServer/65",
-    "retrieved_at": "2026-05-18"
+    "effective_date": "2026-07-01",
+    "source_url": "https://services5.arcgis.com/f4lpEvI6fkgVYigk/arcgis/rest/services/New_Mexico_gross_receipts_tax_July_2026_June_2027_pub_WM/FeatureServer/2",
+    "retrieved_at": "2026-11-12"
   },
   {
     "state": "NM",
     "jurisdiction_type": "special_district",
     "name": "Santolina Tid District 6",
     "fips_code": "02-626",
-    "rate": 0.01313,
+    "rate": 0.013125,
     "source_key": "NM-02-626",
     "rate_type": "sales",
-    "effective_date": "2025-07-01",
-    "source_url": "https://services5.arcgis.com/f4lpEvI6fkgVYigk/arcgis/rest/services/New_Mexico_Gross_Receipts_Location_Codes_and_Rates_July_2025_June_2026/FeatureServer/65",
-    "retrieved_at": "2026-05-18"
+    "effective_date": "2026-07-01",
+    "source_url": "https://services5.arcgis.com/f4lpEvI6fkgVYigk/arcgis/rest/services/New_Mexico_gross_receipts_tax_July_2026_June_2027_pub_WM/FeatureServer/2",
+    "retrieved_at": "2026-11-12"
   },
   {
     "state": "NM",
     "jurisdiction_type": "special_district",
     "name": "Santolina Tid District 7",
     "fips_code": "02-627",
-    "rate": 0.01313,
+    "rate": 0.013125,
     "source_key": "NM-02-627",
     "rate_type": "sales",
-    "effective_date": "2025-07-01",
-    "source_url": "https://services5.arcgis.com/f4lpEvI6fkgVYigk/arcgis/rest/services/New_Mexico_Gross_Receipts_Location_Codes_and_Rates_July_2025_June_2026/FeatureServer/65",
-    "retrieved_at": "2026-05-18"
+    "effective_date": "2026-07-01",
+    "source_url": "https://services5.arcgis.com/f4lpEvI6fkgVYigk/arcgis/rest/services/New_Mexico_gross_receipts_tax_July_2026_June_2027_pub_WM/FeatureServer/2",
+    "retrieved_at": "2026-11-12"
   },
   {
     "state": "NM",
     "jurisdiction_type": "special_district",
     "name": "Santolina Tid District 8",
     "fips_code": "02-628",
-    "rate": 0.01313,
+    "rate": 0.013125,
     "source_key": "NM-02-628",
     "rate_type": "sales",
-    "effective_date": "2025-07-01",
-    "source_url": "https://services5.arcgis.com/f4lpEvI6fkgVYigk/arcgis/rest/services/New_Mexico_Gross_Receipts_Location_Codes_and_Rates_July_2025_June_2026/FeatureServer/65",
-    "retrieved_at": "2026-05-18"
+    "effective_date": "2026-07-01",
+    "source_url": "https://services5.arcgis.com/f4lpEvI6fkgVYigk/arcgis/rest/services/New_Mexico_gross_receipts_tax_July_2026_June_2027_pub_WM/FeatureServer/2",
+    "retrieved_at": "2026-11-12"
   },
   {
     "state": "NM",
     "jurisdiction_type": "special_district",
     "name": "Santolina Tid District 9",
     "fips_code": "02-629",
-    "rate": 0.01313,
+    "rate": 0.013125,
     "source_key": "NM-02-629",
     "rate_type": "sales",
-    "effective_date": "2025-07-01",
-    "source_url": "https://services5.arcgis.com/f4lpEvI6fkgVYigk/arcgis/rest/services/New_Mexico_Gross_Receipts_Location_Codes_and_Rates_July_2025_June_2026/FeatureServer/65",
-    "retrieved_at": "2026-05-18"
+    "effective_date": "2026-07-01",
+    "source_url": "https://services5.arcgis.com/f4lpEvI6fkgVYigk/arcgis/rest/services/New_Mexico_gross_receipts_tax_July_2026_June_2027_pub_WM/FeatureServer/2",
+    "retrieved_at": "2026-11-12"
   },
   {
     "state": "NM",
     "jurisdiction_type": "special_district",
     "name": "Silver City",
     "fips_code": "08-107",
-    "rate": 0.03238,
+    "rate": 0.032375,
     "source_key": "NM-08-107",
     "rate_type": "sales",
-    "effective_date": "2025-07-01",
-    "source_url": "https://services5.arcgis.com/f4lpEvI6fkgVYigk/arcgis/rest/services/New_Mexico_Gross_Receipts_Location_Codes_and_Rates_July_2025_June_2026/FeatureServer/65",
-    "retrieved_at": "2026-05-18"
+    "effective_date": "2026-07-01",
+    "source_url": "https://services5.arcgis.com/f4lpEvI6fkgVYigk/arcgis/rest/services/New_Mexico_gross_receipts_tax_July_2026_June_2027_pub_WM/FeatureServer/2",
+    "retrieved_at": "2026-11-12"
   },
   {
     "state": "NM",
     "jurisdiction_type": "special_district",
     "name": "Socorro (City)",
     "fips_code": "25-125",
-    "rate": 0.02688,
+    "rate": 0.026875,
     "source_key": "NM-25-125",
     "rate_type": "sales",
-    "effective_date": "2025-07-01",
-    "source_url": "https://services5.arcgis.com/f4lpEvI6fkgVYigk/arcgis/rest/services/New_Mexico_Gross_Receipts_Location_Codes_and_Rates_July_2025_June_2026/FeatureServer/65",
-    "retrieved_at": "2026-05-18"
+    "effective_date": "2026-07-01",
+    "source_url": "https://services5.arcgis.com/f4lpEvI6fkgVYigk/arcgis/rest/services/New_Mexico_gross_receipts_tax_July_2026_June_2027_pub_WM/FeatureServer/2",
+    "retrieved_at": "2026-11-12"
   },
   {
     "state": "NM",
@@ -135976,12 +135976,12 @@
     "jurisdiction_type": "special_district",
     "name": "Springer",
     "fips_code": "09-301",
-    "rate": 0.03063,
+    "rate": 0.030625,
     "source_key": "NM-09-301",
     "rate_type": "sales",
     "effective_date": "2026-07-01",
     "source_url": "https://services5.arcgis.com/f4lpEvI6fkgVYigk/arcgis/rest/services/New_Mexico_gross_receipts_tax_July_2026_June_2027_pub_WM/FeatureServer/2",
-    "retrieved_at": "2026-09-21"
+    "retrieved_at": "2026-11-12"
   },
   {
     "state": "NM",
@@ -136000,24 +136000,24 @@
     "jurisdiction_type": "special_district",
     "name": "State Fairgrounds",
     "fips_code": "02-555",
-    "rate": 0.01313,
+    "rate": 0.013125,
     "source_key": "NM-02-555",
     "rate_type": "sales",
-    "effective_date": "2025-07-01",
-    "source_url": "https://services5.arcgis.com/f4lpEvI6fkgVYigk/arcgis/rest/services/New_Mexico_Gross_Receipts_Location_Codes_and_Rates_July_2025_June_2026/FeatureServer/65",
-    "retrieved_at": "2026-05-18"
+    "effective_date": "2026-07-01",
+    "source_url": "https://services5.arcgis.com/f4lpEvI6fkgVYigk/arcgis/rest/services/New_Mexico_gross_receipts_tax_July_2026_June_2027_pub_WM/FeatureServer/2",
+    "retrieved_at": "2026-11-12"
   },
   {
     "state": "NM",
     "jurisdiction_type": "special_district",
     "name": "Stonegate Communities Tidd",
     "fips_code": "29-038",
-    "rate": 0.02563,
+    "rate": 0.025625,
     "source_key": "NM-29-038",
     "rate_type": "sales",
-    "effective_date": "2025-07-01",
-    "source_url": "https://services5.arcgis.com/f4lpEvI6fkgVYigk/arcgis/rest/services/New_Mexico_Gross_Receipts_Location_Codes_and_Rates_July_2025_June_2026/FeatureServer/65",
-    "retrieved_at": "2026-05-18"
+    "effective_date": "2026-07-01",
+    "source_url": "https://services5.arcgis.com/f4lpEvI6fkgVYigk/arcgis/rest/services/New_Mexico_gross_receipts_tax_July_2026_June_2027_pub_WM/FeatureServer/2",
+    "retrieved_at": "2026-11-12"
   },
   {
     "state": "NM",
@@ -136084,12 +136084,12 @@
     "jurisdiction_type": "special_district",
     "name": "Taos Ski Valley",
     "fips_code": "20-430",
-    "rate": 0.04563,
+    "rate": 0.045625,
     "source_key": "NM-20-430",
     "rate_type": "sales",
-    "effective_date": "2025-07-01",
-    "source_url": "https://services5.arcgis.com/f4lpEvI6fkgVYigk/arcgis/rest/services/New_Mexico_Gross_Receipts_Location_Codes_and_Rates_July_2025_June_2026/FeatureServer/65",
-    "retrieved_at": "2026-05-18"
+    "effective_date": "2026-07-01",
+    "source_url": "https://services5.arcgis.com/f4lpEvI6fkgVYigk/arcgis/rest/services/New_Mexico_gross_receipts_tax_July_2026_June_2027_pub_WM/FeatureServer/2",
+    "retrieved_at": "2026-11-12"
   },
   {
     "state": "NM",
@@ -136108,12 +136108,12 @@
     "jurisdiction_type": "special_district",
     "name": "Tatum",
     "fips_code": "06-500",
-    "rate": 0.01688,
+    "rate": 0.016875,
     "source_key": "NM-06-500",
     "rate_type": "sales",
-    "effective_date": "2025-07-01",
-    "source_url": "https://services5.arcgis.com/f4lpEvI6fkgVYigk/arcgis/rest/services/New_Mexico_Gross_Receipts_Location_Codes_and_Rates_July_2025_June_2026/FeatureServer/65",
-    "retrieved_at": "2026-05-18"
+    "effective_date": "2026-07-01",
+    "source_url": "https://services5.arcgis.com/f4lpEvI6fkgVYigk/arcgis/rest/services/New_Mexico_gross_receipts_tax_July_2026_June_2027_pub_WM/FeatureServer/2",
+    "retrieved_at": "2026-11-12"
   },
   {
     "state": "NM",
@@ -136144,12 +136144,12 @@
     "jurisdiction_type": "special_district",
     "name": "Truth Or Consequences Airport",
     "fips_code": "21-164",
-    "rate": 0.01813,
+    "rate": 0.018125,
     "source_key": "NM-21-164",
     "rate_type": "sales",
-    "effective_date": "2025-07-01",
-    "source_url": "https://services5.arcgis.com/f4lpEvI6fkgVYigk/arcgis/rest/services/New_Mexico_Gross_Receipts_Location_Codes_and_Rates_July_2025_June_2026/FeatureServer/65",
-    "retrieved_at": "2026-05-18"
+    "effective_date": "2026-07-01",
+    "source_url": "https://services5.arcgis.com/f4lpEvI6fkgVYigk/arcgis/rest/services/New_Mexico_gross_receipts_tax_July_2026_June_2027_pub_WM/FeatureServer/2",
+    "retrieved_at": "2026-11-12"
   },
   {
     "state": "NM",
@@ -136168,144 +136168,144 @@
     "jurisdiction_type": "special_district",
     "name": "Tularosa",
     "fips_code": "15-308",
-    "rate": 0.02813,
+    "rate": 0.028125,
     "source_key": "NM-15-308",
     "rate_type": "sales",
-    "effective_date": "2025-07-01",
-    "source_url": "https://services5.arcgis.com/f4lpEvI6fkgVYigk/arcgis/rest/services/New_Mexico_Gross_Receipts_Location_Codes_and_Rates_July_2025_June_2026/FeatureServer/65",
-    "retrieved_at": "2026-05-18"
+    "effective_date": "2026-07-01",
+    "source_url": "https://services5.arcgis.com/f4lpEvI6fkgVYigk/arcgis/rest/services/New_Mexico_gross_receipts_tax_July_2026_June_2027_pub_WM/FeatureServer/2",
+    "retrieved_at": "2026-11-12"
   },
   {
     "state": "NM",
     "jurisdiction_type": "special_district",
     "name": "Upper Petroglyphs Tid District 1",
     "fips_code": "02-607",
-    "rate": 0.01313,
+    "rate": 0.013125,
     "source_key": "NM-02-607",
     "rate_type": "sales",
-    "effective_date": "2025-07-01",
-    "source_url": "https://services5.arcgis.com/f4lpEvI6fkgVYigk/arcgis/rest/services/New_Mexico_Gross_Receipts_Location_Codes_and_Rates_July_2025_June_2026/FeatureServer/65",
-    "retrieved_at": "2026-05-18"
+    "effective_date": "2026-07-01",
+    "source_url": "https://services5.arcgis.com/f4lpEvI6fkgVYigk/arcgis/rest/services/New_Mexico_gross_receipts_tax_July_2026_June_2027_pub_WM/FeatureServer/2",
+    "retrieved_at": "2026-11-12"
   },
   {
     "state": "NM",
     "jurisdiction_type": "special_district",
     "name": "Upper Petroglyphs Tid District 2",
     "fips_code": "02-608",
-    "rate": 0.01313,
+    "rate": 0.013125,
     "source_key": "NM-02-608",
     "rate_type": "sales",
-    "effective_date": "2025-07-01",
-    "source_url": "https://services5.arcgis.com/f4lpEvI6fkgVYigk/arcgis/rest/services/New_Mexico_Gross_Receipts_Location_Codes_and_Rates_July_2025_June_2026/FeatureServer/65",
-    "retrieved_at": "2026-05-18"
+    "effective_date": "2026-07-01",
+    "source_url": "https://services5.arcgis.com/f4lpEvI6fkgVYigk/arcgis/rest/services/New_Mexico_gross_receipts_tax_July_2026_June_2027_pub_WM/FeatureServer/2",
+    "retrieved_at": "2026-11-12"
   },
   {
     "state": "NM",
     "jurisdiction_type": "special_district",
     "name": "Upper Petroglyphs Tid District 3",
     "fips_code": "02-609",
-    "rate": 0.01313,
+    "rate": 0.013125,
     "source_key": "NM-02-609",
     "rate_type": "sales",
-    "effective_date": "2025-07-01",
-    "source_url": "https://services5.arcgis.com/f4lpEvI6fkgVYigk/arcgis/rest/services/New_Mexico_Gross_Receipts_Location_Codes_and_Rates_July_2025_June_2026/FeatureServer/65",
-    "retrieved_at": "2026-05-18"
+    "effective_date": "2026-07-01",
+    "source_url": "https://services5.arcgis.com/f4lpEvI6fkgVYigk/arcgis/rest/services/New_Mexico_gross_receipts_tax_July_2026_June_2027_pub_WM/FeatureServer/2",
+    "retrieved_at": "2026-11-12"
   },
   {
     "state": "NM",
     "jurisdiction_type": "special_district",
     "name": "Upper Petroglyphs Tid District 4",
     "fips_code": "02-610",
-    "rate": 0.01313,
+    "rate": 0.013125,
     "source_key": "NM-02-610",
     "rate_type": "sales",
-    "effective_date": "2025-07-01",
-    "source_url": "https://services5.arcgis.com/f4lpEvI6fkgVYigk/arcgis/rest/services/New_Mexico_Gross_Receipts_Location_Codes_and_Rates_July_2025_June_2026/FeatureServer/65",
-    "retrieved_at": "2026-05-18"
+    "effective_date": "2026-07-01",
+    "source_url": "https://services5.arcgis.com/f4lpEvI6fkgVYigk/arcgis/rest/services/New_Mexico_gross_receipts_tax_July_2026_June_2027_pub_WM/FeatureServer/2",
+    "retrieved_at": "2026-11-12"
   },
   {
     "state": "NM",
     "jurisdiction_type": "special_district",
     "name": "Upper Petroglyphs Tid District 5",
     "fips_code": "02-611",
-    "rate": 0.01313,
+    "rate": 0.013125,
     "source_key": "NM-02-611",
     "rate_type": "sales",
-    "effective_date": "2025-07-01",
-    "source_url": "https://services5.arcgis.com/f4lpEvI6fkgVYigk/arcgis/rest/services/New_Mexico_Gross_Receipts_Location_Codes_and_Rates_July_2025_June_2026/FeatureServer/65",
-    "retrieved_at": "2026-05-18"
+    "effective_date": "2026-07-01",
+    "source_url": "https://services5.arcgis.com/f4lpEvI6fkgVYigk/arcgis/rest/services/New_Mexico_gross_receipts_tax_July_2026_June_2027_pub_WM/FeatureServer/2",
+    "retrieved_at": "2026-11-12"
   },
   {
     "state": "NM",
     "jurisdiction_type": "special_district",
     "name": "Upper Petroglyphs Tid District 6",
     "fips_code": "02-612",
-    "rate": 0.01313,
+    "rate": 0.013125,
     "source_key": "NM-02-612",
     "rate_type": "sales",
-    "effective_date": "2025-07-01",
-    "source_url": "https://services5.arcgis.com/f4lpEvI6fkgVYigk/arcgis/rest/services/New_Mexico_Gross_Receipts_Location_Codes_and_Rates_July_2025_June_2026/FeatureServer/65",
-    "retrieved_at": "2026-05-18"
+    "effective_date": "2026-07-01",
+    "source_url": "https://services5.arcgis.com/f4lpEvI6fkgVYigk/arcgis/rest/services/New_Mexico_gross_receipts_tax_July_2026_June_2027_pub_WM/FeatureServer/2",
+    "retrieved_at": "2026-11-12"
   },
   {
     "state": "NM",
     "jurisdiction_type": "special_district",
     "name": "Upper Petroglyphs Tid District 7",
     "fips_code": "02-613",
-    "rate": 0.01313,
+    "rate": 0.013125,
     "source_key": "NM-02-613",
     "rate_type": "sales",
-    "effective_date": "2025-07-01",
-    "source_url": "https://services5.arcgis.com/f4lpEvI6fkgVYigk/arcgis/rest/services/New_Mexico_Gross_Receipts_Location_Codes_and_Rates_July_2025_June_2026/FeatureServer/65",
-    "retrieved_at": "2026-05-18"
+    "effective_date": "2026-07-01",
+    "source_url": "https://services5.arcgis.com/f4lpEvI6fkgVYigk/arcgis/rest/services/New_Mexico_gross_receipts_tax_July_2026_June_2027_pub_WM/FeatureServer/2",
+    "retrieved_at": "2026-11-12"
   },
   {
     "state": "NM",
     "jurisdiction_type": "special_district",
     "name": "Upper Petroglyphs Tid District 8",
     "fips_code": "02-614",
-    "rate": 0.01313,
+    "rate": 0.013125,
     "source_key": "NM-02-614",
     "rate_type": "sales",
-    "effective_date": "2025-07-01",
-    "source_url": "https://services5.arcgis.com/f4lpEvI6fkgVYigk/arcgis/rest/services/New_Mexico_Gross_Receipts_Location_Codes_and_Rates_July_2025_June_2026/FeatureServer/65",
-    "retrieved_at": "2026-05-18"
+    "effective_date": "2026-07-01",
+    "source_url": "https://services5.arcgis.com/f4lpEvI6fkgVYigk/arcgis/rest/services/New_Mexico_gross_receipts_tax_July_2026_June_2027_pub_WM/FeatureServer/2",
+    "retrieved_at": "2026-11-12"
   },
   {
     "state": "NM",
     "jurisdiction_type": "special_district",
     "name": "Upper Petroglyphs Tid District 9",
     "fips_code": "02-615",
-    "rate": 0.01313,
+    "rate": 0.013125,
     "source_key": "NM-02-615",
     "rate_type": "sales",
-    "effective_date": "2025-07-01",
-    "source_url": "https://services5.arcgis.com/f4lpEvI6fkgVYigk/arcgis/rest/services/New_Mexico_Gross_Receipts_Location_Codes_and_Rates_July_2025_June_2026/FeatureServer/65",
-    "retrieved_at": "2026-05-18"
+    "effective_date": "2026-07-01",
+    "source_url": "https://services5.arcgis.com/f4lpEvI6fkgVYigk/arcgis/rest/services/New_Mexico_gross_receipts_tax_July_2026_June_2027_pub_WM/FeatureServer/2",
+    "retrieved_at": "2026-11-12"
   },
   {
     "state": "NM",
     "jurisdiction_type": "special_district",
     "name": "Vaughn",
     "fips_code": "24-207",
-    "rate": 0.03613,
+    "rate": 0.036125,
     "source_key": "NM-24-207",
     "rate_type": "sales",
-    "effective_date": "2025-07-01",
-    "source_url": "https://services5.arcgis.com/f4lpEvI6fkgVYigk/arcgis/rest/services/New_Mexico_Gross_Receipts_Location_Codes_and_Rates_July_2025_June_2026/FeatureServer/65",
-    "retrieved_at": "2026-05-18"
+    "effective_date": "2026-07-01",
+    "source_url": "https://services5.arcgis.com/f4lpEvI6fkgVYigk/arcgis/rest/services/New_Mexico_gross_receipts_tax_July_2026_June_2027_pub_WM/FeatureServer/2",
+    "retrieved_at": "2026-11-12"
   },
   {
     "state": "NM",
     "jurisdiction_type": "special_district",
     "name": "Village At Rio Rancho Tidd",
     "fips_code": "29-525",
-    "rate": 0.02563,
+    "rate": 0.025625,
     "source_key": "NM-29-525",
     "rate_type": "sales",
-    "effective_date": "2025-07-01",
-    "source_url": "https://services5.arcgis.com/f4lpEvI6fkgVYigk/arcgis/rest/services/New_Mexico_Gross_Receipts_Location_Codes_and_Rates_July_2025_June_2026/FeatureServer/65",
-    "retrieved_at": "2026-05-18"
+    "effective_date": "2026-07-01",
+    "source_url": "https://services5.arcgis.com/f4lpEvI6fkgVYigk/arcgis/rest/services/New_Mexico_gross_receipts_tax_July_2026_June_2027_pub_WM/FeatureServer/2",
+    "retrieved_at": "2026-11-12"
   },
   {
     "state": "NM",
@@ -136324,36 +136324,36 @@
     "jurisdiction_type": "special_district",
     "name": "Virden",
     "fips_code": "23-209",
-    "rate": 0.01813,
+    "rate": 0.018125,
     "source_key": "NM-23-209",
     "rate_type": "sales",
-    "effective_date": "2025-07-01",
-    "source_url": "https://services5.arcgis.com/f4lpEvI6fkgVYigk/arcgis/rest/services/New_Mexico_Gross_Receipts_Location_Codes_and_Rates_July_2025_June_2026/FeatureServer/65",
-    "retrieved_at": "2026-05-18"
+    "effective_date": "2026-07-01",
+    "source_url": "https://services5.arcgis.com/f4lpEvI6fkgVYigk/arcgis/rest/services/New_Mexico_gross_receipts_tax_July_2026_June_2027_pub_WM/FeatureServer/2",
+    "retrieved_at": "2026-11-12"
   },
   {
     "state": "NM",
     "jurisdiction_type": "special_district",
     "name": "Wagon Mound",
     "fips_code": "30-115",
-    "rate": 0.02646,
+    "rate": 0.026458,
     "source_key": "NM-30-115",
     "rate_type": "sales",
-    "effective_date": "2025-07-01",
-    "source_url": "https://services5.arcgis.com/f4lpEvI6fkgVYigk/arcgis/rest/services/New_Mexico_Gross_Receipts_Location_Codes_and_Rates_July_2025_June_2026/FeatureServer/65",
-    "retrieved_at": "2026-05-18"
+    "effective_date": "2026-07-01",
+    "source_url": "https://services5.arcgis.com/f4lpEvI6fkgVYigk/arcgis/rest/services/New_Mexico_gross_receipts_tax_July_2026_June_2027_pub_WM/FeatureServer/2",
+    "retrieved_at": "2026-11-12"
   },
   {
     "state": "NM",
     "jurisdiction_type": "special_district",
     "name": "Willard",
     "fips_code": "22-314",
-    "rate": 0.02438,
+    "rate": 0.024375,
     "source_key": "NM-22-314",
     "rate_type": "sales",
-    "effective_date": "2025-07-01",
-    "source_url": "https://services5.arcgis.com/f4lpEvI6fkgVYigk/arcgis/rest/services/New_Mexico_Gross_Receipts_Location_Codes_and_Rates_July_2025_June_2026/FeatureServer/65",
-    "retrieved_at": "2026-05-18"
+    "effective_date": "2026-07-01",
+    "source_url": "https://services5.arcgis.com/f4lpEvI6fkgVYigk/arcgis/rest/services/New_Mexico_gross_receipts_tax_July_2026_June_2027_pub_WM/FeatureServer/2",
+    "retrieved_at": "2026-11-12"
   },
   {
     "state": "NM",
@@ -197746,6 +197746,126 @@
     "effective_date": "2004-01-01",
     "source_url": "https://www.streamlinedsalestax.org/ratesandboundry/Rates/WIR2026Q2FEB18.csv",
     "retrieved_at": "2026-05-18"
+  },
+  {
+    "state": "WI",
+    "jurisdiction_type": "special_district",
+    "name": "City of Bayfield premier resort area tax",
+    "fips_code": "05350",
+    "rate": 0.005,
+    "source_key": "WI-PRA-05350",
+    "rate_type": "sales",
+    "effective_date": "2003-01-01",
+    "source_url": "https://www.revenue.wi.gov/DORReports/WIRandB112026.zip",
+    "retrieved_at": "2026-11-12"
+  },
+  {
+    "state": "WI",
+    "jurisdiction_type": "special_district",
+    "name": "City of Eagle River premier resort area tax",
+    "fips_code": "21625",
+    "rate": 0.005,
+    "source_key": "WI-PRA-21625",
+    "rate_type": "sales",
+    "effective_date": "2006-10-01",
+    "source_url": "https://www.revenue.wi.gov/DORReports/WIRandB112026.zip",
+    "retrieved_at": "2026-11-12"
+  },
+  {
+    "state": "WI",
+    "jurisdiction_type": "special_district",
+    "name": "City of Rhinelander premier resort area tax",
+    "fips_code": "67200",
+    "rate": 0.005,
+    "source_key": "WI-PRA-67200",
+    "rate_type": "sales",
+    "effective_date": "2017-01-01",
+    "source_url": "https://www.revenue.wi.gov/DORReports/WIRandB112026.zip",
+    "retrieved_at": "2026-11-12"
+  },
+  {
+    "state": "WI",
+    "jurisdiction_type": "special_district",
+    "name": "City of Sturgeon Bay premier resort area tax",
+    "fips_code": "77875",
+    "rate": 0.005,
+    "source_key": "WI-PRA-77875",
+    "rate_type": "sales",
+    "effective_date": "2026-07-01",
+    "source_url": "https://www.revenue.wi.gov/DORReports/WIRandB112026.zip",
+    "retrieved_at": "2026-11-12"
+  },
+  {
+    "state": "WI",
+    "jurisdiction_type": "special_district",
+    "name": "City of Wisconsin Dells premier resort area tax",
+    "fips_code": "88150",
+    "rate": 0.0125,
+    "source_key": "WI-PRA-88150",
+    "rate_type": "sales",
+    "effective_date": "2014-07-01",
+    "source_url": "https://www.revenue.wi.gov/DORReports/WIRandB112026.zip",
+    "retrieved_at": "2026-11-12"
+  },
+  {
+    "state": "WI",
+    "jurisdiction_type": "special_district",
+    "name": "Town of Minocqua premier resort area tax",
+    "fips_code": "53225",
+    "rate": 0.005,
+    "source_key": "WI-PRA-53225",
+    "rate_type": "sales",
+    "effective_date": "2026-07-01",
+    "source_url": "https://www.revenue.wi.gov/DORReports/WIRandB112026.zip",
+    "retrieved_at": "2026-11-12"
+  },
+  {
+    "state": "WI",
+    "jurisdiction_type": "special_district",
+    "name": "Village of Ephraim premier resort area tax",
+    "fips_code": "24150",
+    "rate": 0.005,
+    "source_key": "WI-PRA-24150",
+    "rate_type": "sales",
+    "effective_date": "2022-01-01",
+    "source_url": "https://www.revenue.wi.gov/DORReports/WIRandB112026.zip",
+    "retrieved_at": "2026-11-12"
+  },
+  {
+    "state": "WI",
+    "jurisdiction_type": "special_district",
+    "name": "Village of Lake Delton premier resort area tax",
+    "fips_code": "41300",
+    "rate": 0.0125,
+    "source_key": "WI-PRA-41300",
+    "rate_type": "sales",
+    "effective_date": "2014-07-01",
+    "source_url": "https://www.revenue.wi.gov/DORReports/WIRandB112026.zip",
+    "retrieved_at": "2026-11-12"
+  },
+  {
+    "state": "WI",
+    "jurisdiction_type": "special_district",
+    "name": "Village of Sister Bay premier resort area tax",
+    "fips_code": "74225",
+    "rate": 0.005,
+    "source_key": "WI-PRA-74225",
+    "rate_type": "sales",
+    "effective_date": "2018-07-01",
+    "source_url": "https://www.revenue.wi.gov/DORReports/WIRandB112026.zip",
+    "retrieved_at": "2026-11-12"
+  },
+  {
+    "state": "WI",
+    "jurisdiction_type": "special_district",
+    "name": "Village of Stockholm premier resort area tax",
+    "fips_code": "77475",
+    "rate": 0.005,
+    "source_key": "WI-PRA-77475",
+    "rate_type": "sales",
+    "effective_date": "2014-10-01",
+    "source_url": "https://www.revenue.wi.gov/DORReports/WIRandB112026.zip",
+    "retrieved_at": "2026-11-12"
   },
   {
     "state": "WV",
