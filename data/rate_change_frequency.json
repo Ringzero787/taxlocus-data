@@ -126,6 +126,15 @@
     "annualized_change_rate": 8.2
   },
   {
+    "state": "IA",
+    "rate_change_events": 4,
+    "jurisdictions_changed": 4,
+    "first_change": "2026-11-12",
+    "last_change": "2026-11-12",
+    "observation_window_days": 178,
+    "annualized_change_rate": 8.2
+  },
+  {
     "state": "UT",
     "rate_change_events": 4,
     "jurisdictions_changed": 4,

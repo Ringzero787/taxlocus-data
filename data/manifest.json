@@ -7,11 +7,11 @@
   "last_changed": "2026-11-12",
   "row_counts": {
     "state_rates": 46,
-    "jurisdiction_rates": 16613,
+    "jurisdiction_rates": 17542,
     "nexus_thresholds": 47,
     "taxability": 1703,
     "marketplace_facilitator_rules": 47,
-    "rate_change_frequency": 23,
+    "rate_change_frequency": 24,
     "filing_forms": 46,
     "payroll_federal_rates": 4,
     "payroll_state_pit": 110,
@@ -35,7 +35,7 @@
       ]
     },
     "jurisdiction_rates": {
-      "rows": 16613,
+      "rows": 17542,
       "last_changed": "2026-11-12",
       "key": [
         "source_key",
@@ -108,7 +108,7 @@
       ]
     },
     "rate_change_frequency": {
-      "rows": 23,
+      "rows": 24,
       "last_changed": "2026-11-12",
       "key": [
         "state"
@@ -255,14 +255,14 @@
       "rows": 46
     },
     "jurisdiction_rates.csv": {
-      "sha256": "53c12236d9da3a1ebac09822c0a3fd5d67c00596383a69d20bbfbd46022c7e40",
-      "bytes": 2590668,
-      "rows": 16613
+      "sha256": "e841913c76b5194a6df2e20f6eed1cb1e5d9afb7473a861698e2ee4b4ce18873",
+      "bytes": 2703417,
+      "rows": 17542
     },
     "jurisdiction_rates.json": {
-      "sha256": "985e49e0c893f549271708fae9431c8fd398e250d0e185717857348504e064d4",
-      "bytes": 6081721,
-      "rows": 16613
+      "sha256": "09645f8f943364a0a1a914d315a8eee5ce048c70b0c02bcfd920596099fc38ba",
+      "bytes": 6388631,
+      "rows": 17542
     },
     "nexus_thresholds.csv": {
       "sha256": "cf8ca684abc24372c80843ee849384a2fe782f58c9315eec7f6c8d42f16f600e",
@@ -295,14 +295,14 @@
       "rows": 47
     },
     "rate_change_frequency.csv": {
-      "sha256": "0ad148126c946893454c4c39466f0f8c514ab846382e6b72209441c46bdb19e0",
-      "bytes": 1043,
-      "rows": 23
+      "sha256": "034939bf11cbb0ac858e9d2ae44f12fabb4b7a3d15c2921ce90dc3b7e39f2581",
+      "bytes": 1081,
+      "rows": 24
     },
     "rate_change_frequency.json": {
-      "sha256": "bb8eb221c804c6da5b1a563983267f80c571cd8e2ecef94989006e2fa6bf590e",
-      "bytes": 5250,
-      "rows": 23
+      "sha256": "4e89e1bf871ab15e0e9f677b8fd10d2b2a60e8f2c8182ea372111d7170bf4289",
+      "bytes": 5476,
+      "rows": 24
     },
     "filing_forms.csv": {
       "sha256": "76f4ea6cba5aef0cac5e96bc7affedefccdbf9724e8de3e4cee8f41287a236c5",
