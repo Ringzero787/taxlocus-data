@@ -1721,504 +1721,438 @@ CA,special_district,Yreka (CDTFA tax area),,0.015,CA-TAC-47007C700000,sales,2025
 CA,special_district,Yuba City (CDTFA tax area),,0.0,CA-TAC-510510000000,sales,2005-01-01,https://data.ca.gov/dataset/cdtfa-salesandusetaxrates-public,2026-05-18
 CA,special_district,Yucaipa (CDTFA tax area),,0.015,CA-TAC-36076C510000,sales,2025-04-01,https://data.ca.gov/dataset/cdtfa-salesandusetaxrates-public,2026-05-18
 CA,special_district,Yucca Valley (CDTFA tax area),,0.015,CA-TAC-360775300000,sales,2017-04-01,https://data.ca.gov/dataset/cdtfa-salesandusetaxrates-public,2026-05-18
-CO,city,Aguilar,,0.045,CO-P-050003,sales,2026-01-01,https://tax.colorado.gov/sites/tax/files/documents/Colorado_Jurisdiction_Codes_Rates_Jan-June2026_Apr26.xlsx,2026-05-18
-CO,city,Akron,,0.04,CO-P-270001,sales,2026-01-01,https://tax.colorado.gov/sites/tax/files/documents/Colorado_Jurisdiction_Codes_Rates_Jan-June2026_Apr26.xlsx,2026-05-18
-CO,city,Alamosa,,0.055,CO-P-300001,sales,2026-01-01,https://tax.colorado.gov/sites/tax/files/documents/Colorado_Jurisdiction_Codes_Rates_Jan-June2026_Apr26.xlsx,2026-05-18
-CO,city,Alma(In Health Services District),,0.05,CO-P-540001,sales,2026-01-01,https://tax.colorado.gov/sites/tax/files/documents/Colorado_Jurisdiction_Codes_Rates_Jan-June2026_Apr26.xlsx,2026-05-18
-CO,city,Antonito,,0.06,CO-P-250001,sales,2026-01-01,https://tax.colorado.gov/sites/tax/files/documents/Colorado_Jurisdiction_Codes_Rates_Jan-June2026_Apr26.xlsx,2026-05-18
-CO,city,Arriba,,0.04,CO-P-330001,sales,2026-01-01,https://tax.colorado.gov/sites/tax/files/documents/Colorado_Jurisdiction_Codes_Rates_Jan-June2026_Apr26.xlsx,2026-05-18
-CO,city,Arrowhead Metropolitan District,,0.0779,CO-P-440069,sales,2026-01-01,https://tax.colorado.gov/sites/tax/files/documents/Colorado_Jurisdiction_Codes_Rates_Jan-June2026_Apr26.xlsx,2026-05-18
-CO,city,Arvada,,0.0531,CO-P-120058,sales,2026-01-01,https://tax.colorado.gov/sites/tax/files/documents/Colorado_Jurisdiction_Codes_Rates_Jan-June2026_Apr26.xlsx,2026-05-18
-CO,city,Arvada Jefferson,,0.0506,CO-P-110004,sales,2026-01-01,https://tax.colorado.gov/sites/tax/files/documents/Colorado_Jurisdiction_Codes_Rates_Jan-June2026_Apr26.xlsx,2026-05-18
-CO,city,Aspen,,0.0745,CO-P-570001,sales,2026-01-01,https://tax.colorado.gov/sites/tax/files/documents/Colorado_Jurisdiction_Codes_Rates_Jan-June2026_Apr26.xlsx,2026-05-18
+CO,city,Aguilar,,0.03,CO-P-050003,sales,2026-07-01,https://tax.colorado.gov/sites/default/files/2026-10/Colorado_Jurisdiction_Codes_Rates_July-Dec2026.xlsx,2026-11-15
+CO,city,Akron,,0.025,CO-P-270001,sales,2026-07-01,https://tax.colorado.gov/sites/default/files/2026-10/Colorado_Jurisdiction_Codes_Rates_July-Dec2026.xlsx,2026-11-15
+CO,city,Alamosa,,0.025,CO-P-300001,sales,2026-07-01,https://tax.colorado.gov/sites/default/files/2026-10/Colorado_Jurisdiction_Codes_Rates_July-Dec2026.xlsx,2026-11-15
+CO,city,Alma,,0.03,CO-P-540001,sales,2026-07-01,https://tax.colorado.gov/sites/default/files/2026-10/Colorado_Jurisdiction_Codes_Rates_July-Dec2026.xlsx,2026-11-15
+CO,city,Antonito,,0.04,CO-P-250001,sales,2026-07-01,https://tax.colorado.gov/sites/default/files/2026-10/Colorado_Jurisdiction_Codes_Rates_July-Dec2026.xlsx,2026-11-15
+CO,city,Arriba,,0.02,CO-P-330001,sales,2026-07-01,https://tax.colorado.gov/sites/default/files/2026-10/Colorado_Jurisdiction_Codes_Rates_July-Dec2026.xlsx,2026-11-15
+CO,city,Arvada,,0.0346,CO-P-110004,sales,2026-07-01,https://tax.colorado.gov/sites/default/files/2026-10/Colorado_Jurisdiction_Codes_Rates_July-Dec2026.xlsx,2026-11-15
+CO,city,Arvada,,0.0346,CO-P-120058,sales,2026-07-01,https://tax.colorado.gov/sites/default/files/2026-10/Colorado_Jurisdiction_Codes_Rates_July-Dec2026.xlsx,2026-11-15
+CO,city,Aspen,,0.027,CO-P-570001,sales,2026-07-01,https://tax.colorado.gov/sites/default/files/2026-10/Colorado_Jurisdiction_Codes_Rates_July-Dec2026.xlsx,2026-11-15
 CO,city,Ault,,0.03,CO-P-030006,sales,2026-01-01,https://tax.colorado.gov/sites/tax/files/documents/Colorado_Jurisdiction_Codes_Rates_Jan-June2026_Apr26.xlsx,2026-05-18
-CO,city,Aurora,,0.051,CO-P-100001,sales,2026-07-01,https://tax.colorado.gov/sites/tax/files/documents/Colorado_Jurisdiction_Codes_Rates_July-Dec2026.xlsx,2026-09-21
-CO,city,Aurora,,0.056,CO-P-120003,sales,2026-07-01,https://tax.colorado.gov/sites/tax/files/documents/Colorado_Jurisdiction_Codes_Rates_July-Dec2026.xlsx,2026-09-21
-CO,city,Aurora,,0.0585,CO-P-470030,sales,2026-01-01,https://tax.colorado.gov/sites/tax/files/documents/Colorado_Jurisdiction_Codes_Rates_Jan-June2026_Apr26.xlsx,2026-05-18
-CO,city,Aurora (Cd Only In Adams),,0.046,CO-P-120062,sales,2026-01-01,https://tax.colorado.gov/sites/tax/files/documents/Colorado_Jurisdiction_Codes_Rates_Jan-June2026_Apr26.xlsx,2026-05-18
-CO,city,Aurora (Cd Only),,0.041,CO-P-100002,sales,2026-01-01,https://tax.colorado.gov/sites/tax/files/documents/Colorado_Jurisdiction_Codes_Rates_Jan-June2026_Apr26.xlsx,2026-05-18
-CO,city,Avon,,0.0679,CO-P-440003,sales,2026-01-01,https://tax.colorado.gov/sites/tax/files/documents/Colorado_Jurisdiction_Codes_Rates_Jan-June2026_Apr26.xlsx,2026-05-18
-CO,city,Avon Unincorporated (Bachelor Gulch Metropolitan District),,0.0599,CO-P-440064,sales,2026-01-01,https://tax.colorado.gov/sites/tax/files/documents/Colorado_Jurisdiction_Codes_Rates_Jan-June2026_Apr26.xlsx,2026-05-18
-CO,city,Bailey,,0.01,CO-P-540004,sales,2026-01-01,https://tax.colorado.gov/sites/tax/files/documents/Colorado_Jurisdiction_Codes_Rates_Jan-June2026_Apr26.xlsx,2026-05-18
-CO,city,Basalt,,0.0555,CO-P-440005,sales,2026-01-01,https://tax.colorado.gov/sites/tax/files/documents/Colorado_Jurisdiction_Codes_Rates_Jan-June2026_Apr26.xlsx,2026-05-18
-CO,city,Basalt,,0.0665,CO-P-570018,sales,2026-07-01,https://tax.colorado.gov/sites/default/files/2026-10/Colorado_Jurisdiction_Codes_Rates_July-Dec2026.xlsx,2026-10-27
-CO,city,Bayfield,,0.07,CO-P-200003,sales,2026-01-01,https://tax.colorado.gov/sites/tax/files/documents/Colorado_Jurisdiction_Codes_Rates_July-Dec2026.xlsx,2026-07-21
-CO,city,Bennett,,0.0435,CO-P-100042,sales,2026-01-01,https://tax.colorado.gov/sites/tax/files/documents/Colorado_Jurisdiction_Codes_Rates_Jan-June2026_Apr26.xlsx,2026-05-18
-CO,city,Bennett,,0.0485,CO-P-120007,sales,2026-07-01,https://tax.colorado.gov/sites/tax/files/documents/Colorado_Jurisdiction_Codes_Rates_July-Dec2026.xlsx,2026-09-21
-CO,city,Berthoud,,0.05,CO-P-030008,sales,2026-01-01,https://tax.colorado.gov/sites/tax/files/documents/Colorado_Jurisdiction_Codes_Rates_Jan-June2026_Apr26.xlsx,2026-05-18
-CO,city,Berthoud,,0.0605,CO-P-060009,sales,2026-07-01,https://tax.colorado.gov/sites/tax/files/documents/Colorado_Jurisdiction_Codes_Rates_July-Dec2026.xlsx,2026-09-21
+CO,city,Aurora,,0.0375,CO-P-100001,sales,2026-07-01,https://tax.colorado.gov/sites/default/files/2026-10/Colorado_Jurisdiction_Codes_Rates_July-Dec2026.xlsx,2026-11-15
+CO,city,Aurora,,0.0375,CO-P-100002,sales,2026-07-01,https://tax.colorado.gov/sites/default/files/2026-10/Colorado_Jurisdiction_Codes_Rates_July-Dec2026.xlsx,2026-11-15
+CO,city,Aurora,,0.0375,CO-P-120003,sales,2026-07-01,https://tax.colorado.gov/sites/default/files/2026-10/Colorado_Jurisdiction_Codes_Rates_July-Dec2026.xlsx,2026-11-15
+CO,city,Aurora,,0.0375,CO-P-120062,sales,2026-07-01,https://tax.colorado.gov/sites/default/files/2026-10/Colorado_Jurisdiction_Codes_Rates_July-Dec2026.xlsx,2026-11-15
+CO,city,Aurora,,0.0375,CO-P-470030,sales,2026-07-01,https://tax.colorado.gov/sites/default/files/2026-10/Colorado_Jurisdiction_Codes_Rates_July-Dec2026.xlsx,2026-11-15
+CO,city,Avon,,0.04,CO-P-440003,sales,2026-07-01,https://tax.colorado.gov/sites/default/files/2026-10/Colorado_Jurisdiction_Codes_Rates_July-Dec2026.xlsx,2026-11-15
+CO,city,Basalt,,0.03,CO-P-440005,sales,2026-07-01,https://tax.colorado.gov/sites/default/files/2026-10/Colorado_Jurisdiction_Codes_Rates_July-Dec2026.xlsx,2026-11-15
+CO,city,Basalt,,0.03,CO-P-570018,sales,2026-07-01,https://tax.colorado.gov/sites/default/files/2026-10/Colorado_Jurisdiction_Codes_Rates_July-Dec2026.xlsx,2026-11-15
+CO,city,Bayfield,,0.03,CO-P-200003,sales,2026-07-01,https://tax.colorado.gov/sites/default/files/2026-10/Colorado_Jurisdiction_Codes_Rates_July-Dec2026.xlsx,2026-11-15
+CO,city,Bennett,,0.04,CO-P-100042,sales,2026-07-01,https://tax.colorado.gov/sites/default/files/2026-10/Colorado_Jurisdiction_Codes_Rates_July-Dec2026.xlsx,2026-11-15
+CO,city,Bennett,,0.04,CO-P-120007,sales,2026-07-01,https://tax.colorado.gov/sites/default/files/2026-10/Colorado_Jurisdiction_Codes_Rates_July-Dec2026.xlsx,2026-11-15
+CO,city,Berthoud,,0.04,CO-P-030008,sales,2026-07-01,https://tax.colorado.gov/sites/default/files/2026-10/Colorado_Jurisdiction_Codes_Rates_July-Dec2026.xlsx,2026-11-15
+CO,city,Berthoud,,0.04,CO-P-060009,sales,2026-07-01,https://tax.colorado.gov/sites/default/files/2026-10/Colorado_Jurisdiction_Codes_Rates_July-Dec2026.xlsx,2026-11-15
 CO,city,Bethune,,0.0,CO-P-260001,sales,2026-01-01,https://tax.colorado.gov/sites/tax/files/documents/Colorado_Jurisdiction_Codes_Rates_Jan-June2026_Apr26.xlsx,2026-05-18
 CO,city,Black Hawk,,0.06,CO-P-600004,sales,2026-01-01,https://tax.colorado.gov/sites/tax/files/documents/Colorado_Jurisdiction_Codes_Rates_Jan-June2026_Apr26.xlsx,2026-05-18
-CO,city,Blanca,,0.05,CO-P-380001,sales,2026-01-01,https://tax.colorado.gov/sites/tax/files/documents/Colorado_Jurisdiction_Codes_Rates_Jan-June2026_Apr26.xlsx,2026-05-18
-CO,city,Blue River (Mail Via Breckenridge),,0.05975,CO-P-610022,sales,2026-01-01,https://tax.colorado.gov/sites/tax/files/documents/Colorado_Jurisdiction_Codes_Rates_Jan-June2026_Apr26.xlsx,2026-05-18
-CO,city,Bonanza (Mail Via Villa Grove),,0.025,CO-P-350002,sales,2026-01-01,https://tax.colorado.gov/sites/tax/files/documents/Colorado_Jurisdiction_Codes_Rates_Jan-June2026_Apr26.xlsx,2026-05-18
-CO,city,Boone,,0.01,CO-P-020006,sales,2026-01-01,https://tax.colorado.gov/sites/tax/files/documents/Colorado_Jurisdiction_Codes_Rates_Jan-June2026_Apr26.xlsx,2026-05-18
-CO,city,Boulder,,0.06295,CO-P-070003,sales,2026-01-01,https://tax.colorado.gov/sites/tax/files/documents/Colorado_Jurisdiction_Codes_Rates_Jan-June2026_Apr26.xlsx,2026-05-18
-CO,city,Bow Mar (Mail Via Littleton),,0.0135,CO-P-100037,sales,2026-01-01,https://tax.colorado.gov/sites/tax/files/documents/Colorado_Jurisdiction_Codes_Rates_Jan-June2026_Apr26.xlsx,2026-05-18
-CO,city,Bow Mar (Mail Via Littleton),,0.016,CO-P-110141,sales,2026-01-01,https://tax.colorado.gov/sites/tax/files/documents/Colorado_Jurisdiction_Codes_Rates_Jan-June2026_Apr26.xlsx,2026-05-18
-CO,city,Branson,,0.015,CO-P-050017,sales,2026-01-01,https://tax.colorado.gov/sites/tax/files/documents/Colorado_Jurisdiction_Codes_Rates_Jan-June2026_Apr26.xlsx,2026-05-18
-CO,city,Breckenridge,,0.05975,CO-P-610001,sales,2026-01-01,https://tax.colorado.gov/sites/tax/files/documents/Colorado_Jurisdiction_Codes_Rates_Jan-June2026_Apr26.xlsx,2026-05-18
+CO,city,Blanca,,0.03,CO-P-380001,sales,2026-07-01,https://tax.colorado.gov/sites/default/files/2026-10/Colorado_Jurisdiction_Codes_Rates_July-Dec2026.xlsx,2026-11-15
+CO,city,Blue River,,0.025,CO-P-610022,sales,2026-07-01,https://tax.colorado.gov/sites/default/files/2026-10/Colorado_Jurisdiction_Codes_Rates_July-Dec2026.xlsx,2026-11-15
+CO,city,Bonanza,,0.0,CO-P-350002,sales,2026-07-01,https://tax.colorado.gov/sites/default/files/2026-10/Colorado_Jurisdiction_Codes_Rates_July-Dec2026.xlsx,2026-11-15
+CO,city,Boone,,0.0,CO-P-020006,sales,2026-07-01,https://tax.colorado.gov/sites/default/files/2026-10/Colorado_Jurisdiction_Codes_Rates_July-Dec2026.xlsx,2026-11-15
+CO,city,Boulder,,0.0386,CO-P-070003,sales,2026-07-01,https://tax.colorado.gov/sites/default/files/2026-10/Colorado_Jurisdiction_Codes_Rates_July-Dec2026.xlsx,2026-11-15
+CO,city,Bow Mar,,0.0,CO-P-100037,sales,2026-07-01,https://tax.colorado.gov/sites/default/files/2026-10/Colorado_Jurisdiction_Codes_Rates_July-Dec2026.xlsx,2026-11-15
+CO,city,Bow Mar,,0.0,CO-P-110141,sales,2026-07-01,https://tax.colorado.gov/sites/default/files/2026-10/Colorado_Jurisdiction_Codes_Rates_July-Dec2026.xlsx,2026-11-15
+CO,city,Branson,,0.0,CO-P-050017,sales,2026-07-01,https://tax.colorado.gov/sites/default/files/2026-10/Colorado_Jurisdiction_Codes_Rates_July-Dec2026.xlsx,2026-11-15
+CO,city,Breckenridge,,0.025,CO-P-610001,sales,2026-07-01,https://tax.colorado.gov/sites/default/files/2026-10/Colorado_Jurisdiction_Codes_Rates_July-Dec2026.xlsx,2026-11-15
 CO,city,Brighton,,0.0375,CO-P-030151,sales,2026-01-01,https://tax.colorado.gov/sites/tax/files/documents/Colorado_Jurisdiction_Codes_Rates_Jan-June2026_Apr26.xlsx,2026-05-18
-CO,city,Brighton,,0.056,CO-P-120008,sales,2026-07-01,https://tax.colorado.gov/sites/tax/files/documents/Colorado_Jurisdiction_Codes_Rates_July-Dec2026.xlsx,2026-09-21
-CO,city,Brighton (In Rtd),,0.0475,CO-P-030157,sales,2026-01-01,https://tax.colorado.gov/sites/tax/files/documents/Colorado_Jurisdiction_Codes_Rates_Jan-June2026_Apr26.xlsx,2026-05-18
-CO,city,Brookside,,0.025,CO-P-140052,sales,2026-01-01,https://tax.colorado.gov/sites/tax/files/documents/Colorado_Jurisdiction_Codes_Rates_Jan-June2026_Apr26.xlsx,2026-05-18
-CO,city,Broomfield (Cd Only),,0.0425,CO-P-640005,sales,2026-01-01,https://tax.colorado.gov/sites/tax/files/documents/Colorado_Jurisdiction_Codes_Rates_Jan-June2026_Apr26.xlsx,2026-05-18
-CO,city,Broomfield (Rtd And Cd),,0.0525,CO-P-640001,sales,2026-01-01,https://tax.colorado.gov/sites/tax/files/documents/Colorado_Jurisdiction_Codes_Rates_Jan-June2026_Apr26.xlsx,2026-05-18
-CO,city,Broomfield Arista Lid,,0.0545,CO-P-640006,sales,2026-01-01,https://tax.colorado.gov/sites/tax/files/documents/Colorado_Jurisdiction_Codes_Rates_Jan-June2026_Apr26.xlsx,2026-05-18
-CO,city,Broomfield Flatiron Lid,,0.0526,CO-P-640007,sales,2026-01-01,https://tax.colorado.gov/sites/tax/files/documents/Colorado_Jurisdiction_Codes_Rates_Jan-June2026_Apr26.xlsx,2026-05-18
+CO,city,Brighton,,0.0375,CO-P-030157,sales,2026-07-01,https://tax.colorado.gov/sites/default/files/2026-10/Colorado_Jurisdiction_Codes_Rates_July-Dec2026.xlsx,2026-11-15
+CO,city,Brighton,,0.0375,CO-P-120008,sales,2026-07-01,https://tax.colorado.gov/sites/default/files/2026-10/Colorado_Jurisdiction_Codes_Rates_July-Dec2026.xlsx,2026-11-15
+CO,city,Brookside,,0.0,CO-P-140052,sales,2026-07-01,https://tax.colorado.gov/sites/default/files/2026-10/Colorado_Jurisdiction_Codes_Rates_July-Dec2026.xlsx,2026-11-15
+CO,city,Broomfield,,0.0415,CO-P-640001,sales,2026-07-01,https://tax.colorado.gov/sites/default/files/2026-10/Colorado_Jurisdiction_Codes_Rates_July-Dec2026.xlsx,2026-11-15
+CO,city,Broomfield,,0.0415,CO-P-640005,sales,2026-07-01,https://tax.colorado.gov/sites/default/files/2026-10/Colorado_Jurisdiction_Codes_Rates_July-Dec2026.xlsx,2026-11-15
+CO,city,Broomfield,,0.0415,CO-P-640006,sales,2026-07-01,https://tax.colorado.gov/sites/default/files/2026-10/Colorado_Jurisdiction_Codes_Rates_July-Dec2026.xlsx,2026-11-15
+CO,city,Broomfield,,0.0415,CO-P-640007,sales,2026-07-01,https://tax.colorado.gov/sites/default/files/2026-10/Colorado_Jurisdiction_Codes_Rates_July-Dec2026.xlsx,2026-11-15
 CO,city,Brush,,0.04,CO-P-150004,sales,2026-01-01,https://tax.colorado.gov/sites/tax/files/documents/Colorado_Jurisdiction_Codes_Rates_Jan-June2026_Apr26.xlsx,2026-05-18
-CO,city,Buena Vista,,0.0525,CO-P-310008,sales,2026-01-01,https://tax.colorado.gov/sites/tax/files/documents/Colorado_Jurisdiction_Codes_Rates_Jan-June2026_Apr26.xlsx,2026-05-18
+CO,city,Buena Vista,,0.025,CO-P-310008,sales,2026-07-01,https://tax.colorado.gov/sites/default/files/2026-10/Colorado_Jurisdiction_Codes_Rates_July-Dec2026.xlsx,2026-11-15
 CO,city,Burlington,,0.03,CO-P-260002,sales,2026-01-01,https://tax.colorado.gov/sites/tax/files/documents/Colorado_Jurisdiction_Codes_Rates_Jan-June2026_Apr26.xlsx,2026-05-18
-CO,city,Calhan,,0.0523,CO-P-040009,sales,2026-01-01,https://tax.colorado.gov/sites/tax/files/documents/Colorado_Jurisdiction_Codes_Rates_Jan-June2026_Apr26.xlsx,2026-05-18
-CO,city,Calhan (In Pprta),,0.0523,CO-P-040098,sales,2026-01-01,https://tax.colorado.gov/sites/tax/files/documents/Colorado_Jurisdiction_Codes_Rates_Jan-June2026_Apr26.xlsx,2026-05-18
-CO,city,Canon City,,0.058,CO-P-140008,sales,2026-01-01,https://tax.colorado.gov/sites/tax/files/documents/Colorado_Jurisdiction_Codes_Rates_Jan-June2026_Apr26.xlsx,2026-05-18
-CO,city,Carbondale,,0.0725,CO-P-240007,sales,2026-01-01,https://tax.colorado.gov/sites/tax/files/documents/Colorado_Jurisdiction_Codes_Rates_Jan-June2026_Apr26.xlsx,2026-05-18
-CO,city,Castle Pines,,0.0485,CO-P-470043,sales,2026-01-01,https://tax.colorado.gov/sites/tax/files/documents/Colorado_Jurisdiction_Codes_Rates_Jan-June2026_Apr26.xlsx,2026-05-18
-CO,city,Castle Rock,,0.052,CO-P-470002,sales,2026-01-01,https://tax.colorado.gov/sites/tax/files/documents/Colorado_Jurisdiction_Codes_Rates_Jan-June2026_Apr26.xlsx,2026-05-18
-CO,city,Cedaredge,,0.056,CO-P-180006,sales,2026-01-01,https://tax.colorado.gov/sites/tax/files/documents/Colorado_Jurisdiction_Codes_Rates_Jan-June2026_Apr26.xlsx,2026-05-18
-CO,city,Centennial,,0.0385,CO-P-100040,sales,2026-01-01,https://tax.colorado.gov/sites/tax/files/documents/Colorado_Jurisdiction_Codes_Rates_Jan-June2026_Apr26.xlsx,2026-05-18
-CO,city,Center,,0.066,CO-P-230035,sales,2026-01-01,https://tax.colorado.gov/sites/tax/files/documents/Colorado_Jurisdiction_Codes_Rates_Jan-June2026_Apr26.xlsx,2026-05-18
-CO,city,Center,,0.065,CO-P-350004,sales,2026-07-01,https://tax.colorado.gov/sites/tax/files/documents/Colorado_Jurisdiction_Codes_Rates_July-Dec2026.xlsx,2026-09-21
+CO,city,Calhan,,0.03,CO-P-040009,sales,2026-07-01,https://tax.colorado.gov/sites/default/files/2026-10/Colorado_Jurisdiction_Codes_Rates_July-Dec2026.xlsx,2026-11-15
+CO,city,Calhan,,0.03,CO-P-040098,sales,2026-07-01,https://tax.colorado.gov/sites/default/files/2026-10/Colorado_Jurisdiction_Codes_Rates_July-Dec2026.xlsx,2026-11-15
+CO,city,Canon City,,0.033,CO-P-140008,sales,2026-07-01,https://tax.colorado.gov/sites/default/files/2026-10/Colorado_Jurisdiction_Codes_Rates_July-Dec2026.xlsx,2026-11-15
+CO,city,Carbondale,,0.035,CO-P-240007,sales,2026-07-01,https://tax.colorado.gov/sites/default/files/2026-10/Colorado_Jurisdiction_Codes_Rates_July-Dec2026.xlsx,2026-11-15
+CO,city,Castle Pines,,0.0375,CO-P-470043,sales,2026-07-01,https://tax.colorado.gov/sites/default/files/2026-10/Colorado_Jurisdiction_Codes_Rates_July-Dec2026.xlsx,2026-11-15
+CO,city,Castle Rock,,0.042,CO-P-470002,sales,2026-07-01,https://tax.colorado.gov/sites/default/files/2026-10/Colorado_Jurisdiction_Codes_Rates_July-Dec2026.xlsx,2026-11-15
+CO,city,Cedaredge,,0.02,CO-P-180006,sales,2026-07-01,https://tax.colorado.gov/sites/default/files/2026-10/Colorado_Jurisdiction_Codes_Rates_July-Dec2026.xlsx,2026-11-15
+CO,city,Centennial,,0.025,CO-P-100040,sales,2026-07-01,https://tax.colorado.gov/sites/default/files/2026-10/Colorado_Jurisdiction_Codes_Rates_July-Dec2026.xlsx,2026-11-15
+CO,city,Center,,0.04,CO-P-230035,sales,2026-07-01,https://tax.colorado.gov/sites/default/files/2026-10/Colorado_Jurisdiction_Codes_Rates_July-Dec2026.xlsx,2026-11-15
+CO,city,Center,,0.04,CO-P-350004,sales,2026-07-01,https://tax.colorado.gov/sites/default/files/2026-10/Colorado_Jurisdiction_Codes_Rates_July-Dec2026.xlsx,2026-11-15
 CO,city,Central City,,0.06,CO-P-600005,sales,2026-01-01,https://tax.colorado.gov/sites/tax/files/documents/Colorado_Jurisdiction_Codes_Rates_Jan-June2026_Apr26.xlsx,2026-05-18
-CO,city,Cheraw,,0.01,CO-P-090007,sales,2026-01-01,https://tax.colorado.gov/sites/tax/files/documents/Colorado_Jurisdiction_Codes_Rates_Jan-June2026_Apr26.xlsx,2026-05-18
-CO,city,Cherry Hills Vlg (Mail Via Englewood),,0.0485,CO-P-100031,sales,2026-01-01,https://tax.colorado.gov/sites/tax/files/documents/Colorado_Jurisdiction_Codes_Rates_Jan-June2026_Apr26.xlsx,2026-05-18
+CO,city,Cheraw,,0.0,CO-P-090007,sales,2026-07-01,https://tax.colorado.gov/sites/default/files/2026-10/Colorado_Jurisdiction_Codes_Rates_July-Dec2026.xlsx,2026-11-15
+CO,city,Cherry Hills Vlg,,0.035,CO-P-100031,sales,2026-07-01,https://tax.colorado.gov/sites/default/files/2026-10/Colorado_Jurisdiction_Codes_Rates_July-Dec2026.xlsx,2026-11-15
 CO,city,Cheyenne Wells,,0.02,CO-P-460006,sales,2026-01-01,https://tax.colorado.gov/sites/tax/files/documents/Colorado_Jurisdiction_Codes_Rates_Jan-June2026_Apr26.xlsx,2026-05-18
-CO,city,Clifton,,0.0237,CO-P-080007,sales,2026-01-01,https://tax.colorado.gov/sites/tax/files/documents/Colorado_Jurisdiction_Codes_Rates_Jan-June2026_Apr26.xlsx,2026-05-18
-CO,city,Coal Creek,,0.025,CO-P-140010,sales,2026-01-01,https://tax.colorado.gov/sites/tax/files/documents/Colorado_Jurisdiction_Codes_Rates_Jan-June2026_Apr26.xlsx,2026-05-18
-CO,city,Cokedale,,0.025,CO-P-050019,sales,2026-01-01,https://tax.colorado.gov/sites/tax/files/documents/Colorado_Jurisdiction_Codes_Rates_Jan-June2026_Apr26.xlsx,2026-05-18
-CO,city,Collbran,,0.0437,CO-P-080008,sales,2026-01-01,https://tax.colorado.gov/sites/tax/files/documents/Colorado_Jurisdiction_Codes_Rates_Jan-June2026_Apr26.xlsx,2026-05-18
-CO,city,Colorado Springs,,0.053,CO-P-040017,sales,2026-01-01,https://tax.colorado.gov/sites/tax/files/documents/Colorado_Jurisdiction_Codes_Rates_Jan-June2026_Apr26.xlsx,2026-05-18
-CO,city,Colorado Springs (Commercial Aeronautical Zone),,0.043,CO-P-040001,sales,2026-01-01,https://tax.colorado.gov/sites/tax/files/documents/Colorado_Jurisdiction_Codes_Rates_Jan-June2026_Apr26.xlsx,2026-05-18
-CO,city,Columbine Valley (Mail Via Littleton),,0.0435,CO-P-100032,sales,2026-01-01,https://tax.colorado.gov/sites/tax/files/documents/Colorado_Jurisdiction_Codes_Rates_Jan-June2026_Apr26.xlsx,2026-05-18
-CO,city,Commerce City,,0.0685,CO-P-120055,sales,2026-01-01,https://tax.colorado.gov/sites/tax/files/documents/Colorado_Jurisdiction_Codes_Rates_Jan-June2026_Apr26.xlsx,2026-05-18
-CO,city,Como(In Health Services District),,0.02,CO-P-540005,sales,2026-01-01,https://tax.colorado.gov/sites/tax/files/documents/Colorado_Jurisdiction_Codes_Rates_Jan-June2026_Apr26.xlsx,2026-05-18
-CO,city,Conifer Metropolitan District,,0.0235,CO-P-110157,sales,2026-01-01,https://tax.colorado.gov/sites/tax/files/documents/Colorado_Jurisdiction_Codes_Rates_Jan-June2026_Apr26.xlsx,2026-05-18
-CO,city,Conifer Unincorporated (Aspen Park Metropolitan District),,0.021,CO-P-110150,sales,2026-01-01,https://tax.colorado.gov/sites/tax/files/documents/Colorado_Jurisdiction_Codes_Rates_Jan-June2026_Apr26.xlsx,2026-05-18
-CO,city,Copper Mountain (Mail Via Frisco),,0.03475,CO-P-610023,sales,2026-01-01,https://tax.colorado.gov/sites/tax/files/documents/Colorado_Jurisdiction_Codes_Rates_Jan-June2026_Apr26.xlsx,2026-05-18
-CO,city,Cortez,,0.0479,CO-P-320005,sales,2026-01-01,https://tax.colorado.gov/sites/tax/files/documents/Colorado_Jurisdiction_Codes_Rates_Jan-June2026_Apr26.xlsx,2026-05-18
-CO,city,Craig,,0.06,CO-P-420004,sales,2026-01-01,https://tax.colorado.gov/sites/tax/files/documents/Colorado_Jurisdiction_Codes_Rates_Jan-June2026_Apr26.xlsx,2026-05-18
-CO,city,Crawford,,0.056,CO-P-180010,sales,2026-01-01,https://tax.colorado.gov/sites/tax/files/documents/Colorado_Jurisdiction_Codes_Rates_Jan-June2026_Apr26.xlsx,2026-05-18
-CO,city,Creede,,0.066,CO-P-620002,sales,2026-01-01,https://tax.colorado.gov/sites/tax/files/documents/Colorado_Jurisdiction_Codes_Rates_Jan-June2026_Apr26.xlsx,2026-05-18
-CO,city,Crested Butte,,0.065,CO-P-400017,sales,2026-01-01,https://tax.colorado.gov/sites/tax/files/documents/Colorado_Jurisdiction_Codes_Rates_Jan-June2026_Apr26.xlsx,2026-05-18
-CO,city,Crested Butte,,0.055,CO-P-400018,sales,2026-07-01,https://tax.colorado.gov/sites/tax/files/documents/Colorado_Jurisdiction_Codes_Rates_July-Dec2026.xlsx,2026-09-21
-CO,city,Crestone,,0.06,CO-P-350007,sales,2026-01-01,https://tax.colorado.gov/sites/tax/files/documents/Colorado_Jurisdiction_Codes_Rates_Jan-June2026_Apr26.xlsx,2026-05-18
-CO,city,Cripple Creek,,0.043,CO-P-430006,sales,2026-01-01,https://tax.colorado.gov/sites/tax/files/documents/Colorado_Jurisdiction_Codes_Rates_Jan-June2026_Apr26.xlsx,2026-05-18
-CO,city,Crook,,0.035,CO-P-130006,sales,2026-01-01,https://tax.colorado.gov/sites/tax/files/documents/Colorado_Jurisdiction_Codes_Rates_Jan-June2026_Apr26.xlsx,2026-05-18
-CO,city,Crowley,,0.02,CO-P-360001,sales,2026-01-01,https://tax.colorado.gov/sites/tax/files/documents/Colorado_Jurisdiction_Codes_Rates_Jan-June2026_Apr26.xlsx,2026-05-18
+CO,city,Coal Creek,,0.0,CO-P-140010,sales,2026-07-01,https://tax.colorado.gov/sites/default/files/2026-10/Colorado_Jurisdiction_Codes_Rates_July-Dec2026.xlsx,2026-11-15
+CO,city,Cokedale,,0.01,CO-P-050019,sales,2026-07-01,https://tax.colorado.gov/sites/default/files/2026-10/Colorado_Jurisdiction_Codes_Rates_July-Dec2026.xlsx,2026-11-15
+CO,city,Collbran,,0.02,CO-P-080008,sales,2026-07-01,https://tax.colorado.gov/sites/default/files/2026-10/Colorado_Jurisdiction_Codes_Rates_July-Dec2026.xlsx,2026-11-15
+CO,city,Colorado Springs,,0.0307,CO-P-040017,sales,2026-07-01,https://tax.colorado.gov/sites/default/files/2026-10/Colorado_Jurisdiction_Codes_Rates_July-Dec2026.xlsx,2026-11-15
+CO,city,Colorado Springs (Commercial Aeronautical Zone),,0.0307,CO-P-040001,sales,2026-07-01,https://tax.colorado.gov/sites/default/files/2026-10/Colorado_Jurisdiction_Codes_Rates_July-Dec2026.xlsx,2026-11-15
+CO,city,Columbine Valley,,0.03,CO-P-100032,sales,2026-07-01,https://tax.colorado.gov/sites/default/files/2026-10/Colorado_Jurisdiction_Codes_Rates_July-Dec2026.xlsx,2026-11-15
+CO,city,Commerce City,,0.045,CO-P-120055,sales,2026-07-01,https://tax.colorado.gov/sites/default/files/2026-10/Colorado_Jurisdiction_Codes_Rates_July-Dec2026.xlsx,2026-11-15
+CO,city,Cortez,,0.0385,CO-P-320005,sales,2026-07-01,https://tax.colorado.gov/sites/default/files/2026-10/Colorado_Jurisdiction_Codes_Rates_July-Dec2026.xlsx,2026-11-15
+CO,city,Craig,,0.04,CO-P-420004,sales,2026-07-01,https://tax.colorado.gov/sites/default/files/2026-10/Colorado_Jurisdiction_Codes_Rates_July-Dec2026.xlsx,2026-11-15
+CO,city,Crawford,,0.02,CO-P-180010,sales,2026-07-01,https://tax.colorado.gov/sites/default/files/2026-10/Colorado_Jurisdiction_Codes_Rates_July-Dec2026.xlsx,2026-11-15
+CO,city,Creede,,0.04,CO-P-620002,sales,2026-07-01,https://tax.colorado.gov/sites/default/files/2026-10/Colorado_Jurisdiction_Codes_Rates_July-Dec2026.xlsx,2026-11-15
+CO,city,Crested Butte,,0.045,CO-P-400017,sales,2026-07-01,https://tax.colorado.gov/sites/default/files/2026-10/Colorado_Jurisdiction_Codes_Rates_July-Dec2026.xlsx,2026-11-15
+CO,city,Crested Butte,,0.045,CO-P-400018,sales,2026-07-01,https://tax.colorado.gov/sites/default/files/2026-10/Colorado_Jurisdiction_Codes_Rates_July-Dec2026.xlsx,2026-11-15
+CO,city,Crestone,,0.035,CO-P-350007,sales,2026-07-01,https://tax.colorado.gov/sites/default/files/2026-10/Colorado_Jurisdiction_Codes_Rates_July-Dec2026.xlsx,2026-11-15
+CO,city,Cripple Creek,,0.033,CO-P-430006,sales,2026-07-01,https://tax.colorado.gov/sites/default/files/2026-10/Colorado_Jurisdiction_Codes_Rates_July-Dec2026.xlsx,2026-11-15
+CO,city,Crook,,0.025,CO-P-130006,sales,2026-07-01,https://tax.colorado.gov/sites/default/files/2026-10/Colorado_Jurisdiction_Codes_Rates_July-Dec2026.xlsx,2026-11-15
+CO,city,Crowley,,0.0,CO-P-360001,sales,2026-07-01,https://tax.colorado.gov/sites/default/files/2026-10/Colorado_Jurisdiction_Codes_Rates_July-Dec2026.xlsx,2026-11-15
 CO,city,Dacono,,0.03,CO-P-030028,sales,2026-01-01,https://tax.colorado.gov/sites/tax/files/documents/Colorado_Jurisdiction_Codes_Rates_Jan-June2026_Apr26.xlsx,2026-05-18
-CO,city,De Beque,,0.0437,CO-P-080009,sales,2026-01-01,https://tax.colorado.gov/sites/tax/files/documents/Colorado_Jurisdiction_Codes_Rates_Jan-June2026_Apr26.xlsx,2026-05-18
-CO,city,Deer Trail,,0.021,CO-P-100005,sales,2026-01-01,https://tax.colorado.gov/sites/tax/files/documents/Colorado_Jurisdiction_Codes_Rates_Jan-June2026_Apr26.xlsx,2026-05-18
-CO,city,Del Norte,,0.046,CO-P-230002,sales,2026-01-01,https://tax.colorado.gov/sites/tax/files/documents/Colorado_Jurisdiction_Codes_Rates_Jan-June2026_Apr26.xlsx,2026-05-18
-CO,city,Delta,,0.066,CO-P-180011,sales,2026-01-01,https://tax.colorado.gov/sites/tax/files/documents/Colorado_Jurisdiction_Codes_Rates_Jan-June2026_Apr26.xlsx,2026-05-18
-CO,city,Denver,,0.0625,CO-P-010006,sales,2026-01-01,https://tax.colorado.gov/sites/tax/files/documents/Colorado_Jurisdiction_Codes_Rates_Jan-June2026_Apr26.xlsx,2026-05-18
-CO,city,Dillon,,0.05975,CO-P-610005,sales,2026-01-01,https://tax.colorado.gov/sites/tax/files/documents/Colorado_Jurisdiction_Codes_Rates_Jan-June2026_Apr26.xlsx,2026-05-18
-CO,city,Dinosaur,,0.041,CO-P-420001,sales,2026-01-01,https://tax.colorado.gov/sites/tax/files/documents/Colorado_Jurisdiction_Codes_Rates_Jan-June2026_Apr26.xlsx,2026-05-18
-CO,city,Divide,,0.025,CO-P-430007,sales,2026-01-01,https://tax.colorado.gov/sites/tax/files/documents/Colorado_Jurisdiction_Codes_Rates_Jan-June2026_Apr26.xlsx,2026-05-18
-CO,city,Dolores,,0.044,CO-P-320006,sales,2026-01-01,https://tax.colorado.gov/sites/tax/files/documents/Colorado_Jurisdiction_Codes_Rates_Jan-June2026_Apr26.xlsx,2026-05-18
-CO,city,Dove Creek,,0.051,CO-P-580004,sales,2026-01-01,https://tax.colorado.gov/sites/tax/files/documents/Colorado_Jurisdiction_Codes_Rates_Jan-June2026_Apr26.xlsx,2026-05-18
-CO,city,Drake,,0.0105,CO-P-060025,sales,2026-01-01,https://tax.colorado.gov/sites/tax/files/documents/Colorado_Jurisdiction_Codes_Rates_Jan-June2026_Apr26.xlsx,2026-05-18
-CO,city,Durango,,0.065,CO-P-200014,sales,2026-01-01,https://tax.colorado.gov/sites/tax/files/documents/Colorado_Jurisdiction_Codes_Rates_Jan-June2026_Apr26.xlsx,2026-05-18
+CO,city,De Beque,,0.02,CO-P-080009,sales,2026-07-01,https://tax.colorado.gov/sites/default/files/2026-10/Colorado_Jurisdiction_Codes_Rates_July-Dec2026.xlsx,2026-11-15
+CO,city,Deer Trail,,0.0175,CO-P-100005,sales,2026-07-01,https://tax.colorado.gov/sites/default/files/2026-10/Colorado_Jurisdiction_Codes_Rates_July-Dec2026.xlsx,2026-11-15
+CO,city,Del Norte,,0.02,CO-P-230002,sales,2026-07-01,https://tax.colorado.gov/sites/default/files/2026-10/Colorado_Jurisdiction_Codes_Rates_July-Dec2026.xlsx,2026-11-15
+CO,city,Delta,,0.03,CO-P-180011,sales,2026-07-01,https://tax.colorado.gov/sites/default/files/2026-10/Colorado_Jurisdiction_Codes_Rates_July-Dec2026.xlsx,2026-11-15
+CO,city,Denver,,0.0515,CO-P-010006,sales,2026-07-01,https://tax.colorado.gov/sites/default/files/2026-10/Colorado_Jurisdiction_Codes_Rates_July-Dec2026.xlsx,2026-11-15
+CO,city,Dillon,,0.025,CO-P-610005,sales,2026-07-01,https://tax.colorado.gov/sites/default/files/2026-10/Colorado_Jurisdiction_Codes_Rates_July-Dec2026.xlsx,2026-11-15
+CO,city,Dinosaur,,0.021,CO-P-420001,sales,2026-07-01,https://tax.colorado.gov/sites/default/files/2026-10/Colorado_Jurisdiction_Codes_Rates_July-Dec2026.xlsx,2026-11-15
+CO,city,Dolores,,0.04,CO-P-320006,sales,2026-07-01,https://tax.colorado.gov/sites/default/files/2026-10/Colorado_Jurisdiction_Codes_Rates_July-Dec2026.xlsx,2026-11-15
+CO,city,Dove Creek,,0.031,CO-P-580004,sales,2026-07-01,https://tax.colorado.gov/sites/default/files/2026-10/Colorado_Jurisdiction_Codes_Rates_July-Dec2026.xlsx,2026-11-15
+CO,city,Durango,,0.035,CO-P-200014,sales,2026-07-01,https://tax.colorado.gov/sites/default/files/2026-10/Colorado_Jurisdiction_Codes_Rates_July-Dec2026.xlsx,2026-11-15
 CO,city,Eads,,0.02,CO-P-450006,sales,2026-01-01,https://tax.colorado.gov/sites/tax/files/documents/Colorado_Jurisdiction_Codes_Rates_Jan-June2026_Apr26.xlsx,2026-05-18
-CO,city,Eagle,,0.065,CO-P-440022,sales,2026-01-01,https://tax.colorado.gov/sites/tax/files/documents/Colorado_Jurisdiction_Codes_Rates_Jan-June2026_Apr26.xlsx,2026-05-18
-CO,city,Eagle-Vail Metropolitan District,,0.0379,CO-P-440068,sales,2026-01-01,https://tax.colorado.gov/sites/tax/files/documents/Colorado_Jurisdiction_Codes_Rates_Jan-June2026_Apr26.xlsx,2026-05-18
+CO,city,Eagle,,0.045,CO-P-440022,sales,2026-07-01,https://tax.colorado.gov/sites/default/files/2026-10/Colorado_Jurisdiction_Codes_Rates_July-Dec2026.xlsx,2026-11-15
 CO,city,Eaton,,0.04,CO-P-030036,sales,2026-01-01,https://tax.colorado.gov/sites/tax/files/documents/Colorado_Jurisdiction_Codes_Rates_Jan-June2026_Apr26.xlsx,2026-05-18
 CO,city,Eckley,,0.021,CO-P-190005,sales,2026-01-01,https://tax.colorado.gov/sites/tax/files/documents/Colorado_Jurisdiction_Codes_Rates_Jan-June2026_Apr26.xlsx,2026-05-18
-CO,city,Edgewater,,0.051,CO-P-110032,sales,2026-01-01,https://tax.colorado.gov/sites/tax/files/documents/Colorado_Jurisdiction_Codes_Rates_Jan-June2026_Apr26.xlsx,2026-05-18
-CO,city,Edwards Metropolitan District,,0.0379,CO-P-440066,sales,2026-01-01,https://tax.colorado.gov/sites/tax/files/documents/Colorado_Jurisdiction_Codes_Rates_Jan-June2026_Apr26.xlsx,2026-05-18
-CO,city,Elizabeth,,0.05,CO-P-340006,sales,2026-01-01,https://tax.colorado.gov/sites/tax/files/documents/Colorado_Jurisdiction_Codes_Rates_Jan-June2026_Apr26.xlsx,2026-05-18
-CO,city,Empire,,0.0765,CO-P-510007,sales,2026-01-01,https://tax.colorado.gov/sites/tax/files/documents/Colorado_Jurisdiction_Codes_Rates_Jan-June2026_Apr26.xlsx,2026-05-18
-CO,city,Englewood,,0.0515,CO-P-100006,sales,2026-01-01,https://tax.colorado.gov/sites/tax/files/documents/Colorado_Jurisdiction_Codes_Rates_Jan-June2026_Apr26.xlsx,2026-05-18
+CO,city,Edgewater,,0.035,CO-P-110032,sales,2026-07-01,https://tax.colorado.gov/sites/default/files/2026-10/Colorado_Jurisdiction_Codes_Rates_July-Dec2026.xlsx,2026-11-15
+CO,city,Elizabeth,,0.04,CO-P-340006,sales,2026-07-01,https://tax.colorado.gov/sites/default/files/2026-10/Colorado_Jurisdiction_Codes_Rates_July-Dec2026.xlsx,2026-11-15
+CO,city,Empire,,0.05,CO-P-510007,sales,2026-07-01,https://tax.colorado.gov/sites/default/files/2026-10/Colorado_Jurisdiction_Codes_Rates_July-Dec2026.xlsx,2026-11-15
+CO,city,Englewood,,0.038,CO-P-100006,sales,2026-07-01,https://tax.colorado.gov/sites/default/files/2026-10/Colorado_Jurisdiction_Codes_Rates_July-Dec2026.xlsx,2026-11-15
 CO,city,Erie,,0.035,CO-P-030039,sales,2026-07-01,https://tax.colorado.gov/sites/tax/files/documents/Colorado_Jurisdiction_Codes_Rates_July-Dec2026.xlsx,2026-09-21
-CO,city,Erie,,0.05935,CO-P-070081,sales,2026-01-01,https://tax.colorado.gov/sites/tax/files/documents/Colorado_Jurisdiction_Codes_Rates_Jan-June2026_Apr26.xlsx,2026-05-18
-CO,city,Erie (Rtd Only),,0.045,CO-P-030082,sales,2026-01-01,https://tax.colorado.gov/sites/tax/files/documents/Colorado_Jurisdiction_Codes_Rates_Jan-June2026_Apr26.xlsx,2026-05-18
-CO,city,Estes Park,,0.0605,CO-P-060027,sales,2026-01-01,https://tax.colorado.gov/sites/tax/files/documents/Colorado_Jurisdiction_Codes_Rates_Jan-June2026_Apr26.xlsx,2026-05-18
-CO,city,Evans,,0.055,CO-P-030041,sales,2026-01-01,https://tax.colorado.gov/sites/tax/files/documents/Colorado_Jurisdiction_Codes_Rates_Jan-June2026_Apr26.xlsx,2026-05-18
-CO,city,Fairplay(In Health Services District),,0.06,CO-P-540007,sales,2026-01-01,https://tax.colorado.gov/sites/tax/files/documents/Colorado_Jurisdiction_Codes_Rates_Jan-June2026_Apr26.xlsx,2026-05-18
-CO,city,Federal Heights,,0.0585,CO-P-120016,sales,2026-01-01,https://tax.colorado.gov/sites/tax/files/documents/Colorado_Jurisdiction_Codes_Rates_Jan-June2026_Apr26.xlsx,2026-05-18
-CO,city,Firestone,,0.041,CO-P-030043,sales,2026-01-01,https://tax.colorado.gov/sites/tax/files/documents/Colorado_Jurisdiction_Codes_Rates_Jan-June2026_Apr26.xlsx,2026-05-18
-CO,city,Firestone (1St Pif),,0.0285,CO-P-030154,sales,2026-01-01,https://tax.colorado.gov/sites/tax/files/documents/Colorado_Jurisdiction_Codes_Rates_Jan-June2026_Apr26.xlsx,2026-05-18
-CO,city,Firestone (2Nd Pif),,0.026,CO-P-030155,sales,2026-01-01,https://tax.colorado.gov/sites/tax/files/documents/Colorado_Jurisdiction_Codes_Rates_Jan-June2026_Apr26.xlsx,2026-05-18
+CO,city,Erie,,0.035,CO-P-030082,sales,2026-07-01,https://tax.colorado.gov/sites/default/files/2026-10/Colorado_Jurisdiction_Codes_Rates_July-Dec2026.xlsx,2026-11-15
+CO,city,Erie,,0.035,CO-P-070081,sales,2026-07-01,https://tax.colorado.gov/sites/default/files/2026-10/Colorado_Jurisdiction_Codes_Rates_July-Dec2026.xlsx,2026-11-15
+CO,city,Estes Park,,0.05,CO-P-060027,sales,2026-07-01,https://tax.colorado.gov/sites/default/files/2026-10/Colorado_Jurisdiction_Codes_Rates_July-Dec2026.xlsx,2026-11-15
+CO,city,Evans,,0.045,CO-P-030041,sales,2026-07-01,https://tax.colorado.gov/sites/default/files/2026-10/Colorado_Jurisdiction_Codes_Rates_July-Dec2026.xlsx,2026-11-15
+CO,city,Fairplay,,0.04,CO-P-540007,sales,2026-07-01,https://tax.colorado.gov/sites/default/files/2026-10/Colorado_Jurisdiction_Codes_Rates_July-Dec2026.xlsx,2026-11-15
+CO,city,Federal Heights,,0.04,CO-P-120016,sales,2026-07-01,https://tax.colorado.gov/sites/default/files/2026-10/Colorado_Jurisdiction_Codes_Rates_July-Dec2026.xlsx,2026-11-15
+CO,city,Firestone,,0.036,CO-P-030043,sales,2026-07-01,https://tax.colorado.gov/sites/default/files/2026-10/Colorado_Jurisdiction_Codes_Rates_July-Dec2026.xlsx,2026-11-15
+CO,city,Firestone (city rate in 1st public improvement fee area),,0.0235,CO-P-030154,sales,2026-07-01,https://tax.colorado.gov/sites/default/files/2026-10/Colorado_Jurisdiction_Codes_Rates_July-Dec2026.xlsx,2026-11-15
+CO,city,Firestone (city rate in 2nd public improvement fee area),,0.021,CO-P-030155,sales,2026-07-01,https://tax.colorado.gov/sites/default/files/2026-10/Colorado_Jurisdiction_Codes_Rates_July-Dec2026.xlsx,2026-11-15
 CO,city,Flagler,,0.02,CO-P-260004,sales,2026-01-01,https://tax.colorado.gov/sites/tax/files/documents/Colorado_Jurisdiction_Codes_Rates_Jan-June2026_Apr26.xlsx,2026-05-18
-CO,city,Fleming,,0.03,CO-P-130008,sales,2026-01-01,https://tax.colorado.gov/sites/tax/files/documents/Colorado_Jurisdiction_Codes_Rates_Jan-June2026_Apr26.xlsx,2026-05-18
-CO,city,Florence,,0.05,CO-P-140022,sales,2026-01-01,https://tax.colorado.gov/sites/tax/files/documents/Colorado_Jurisdiction_Codes_Rates_Jan-June2026_Apr26.xlsx,2026-05-18
-CO,city,Florissant,,0.025,CO-P-430011,sales,2026-01-01,https://tax.colorado.gov/sites/tax/files/documents/Colorado_Jurisdiction_Codes_Rates_Jan-June2026_Apr26.xlsx,2026-05-18
-CO,city,Florissant,,0.025,CO-P-540027,sales,2026-01-01,https://tax.colorado.gov/sites/tax/files/documents/Colorado_Jurisdiction_Codes_Rates_Jan-June2026_Apr26.xlsx,2026-05-18
-CO,city,Fort Collins,,0.054,CO-P-060031,sales,2026-01-01,https://tax.colorado.gov/sites/tax/files/documents/Colorado_Jurisdiction_Codes_Rates_Jan-June2026_Apr26.xlsx,2026-05-18
+CO,city,Fleming,,0.02,CO-P-130008,sales,2026-07-01,https://tax.colorado.gov/sites/default/files/2026-10/Colorado_Jurisdiction_Codes_Rates_July-Dec2026.xlsx,2026-11-15
+CO,city,Florence,,0.025,CO-P-140022,sales,2026-07-01,https://tax.colorado.gov/sites/default/files/2026-10/Colorado_Jurisdiction_Codes_Rates_July-Dec2026.xlsx,2026-11-15
+CO,city,Fort Collins,,0.0435,CO-P-060031,sales,2026-07-01,https://tax.colorado.gov/sites/default/files/2026-10/Colorado_Jurisdiction_Codes_Rates_July-Dec2026.xlsx,2026-11-15
 CO,city,Fort Lupton,,0.04,CO-P-030044,sales,2026-01-01,https://tax.colorado.gov/sites/tax/files/documents/Colorado_Jurisdiction_Codes_Rates_Jan-June2026_Apr26.xlsx,2026-05-18
 CO,city,Fort Morgan,,0.05,CO-P-150008,sales,2026-01-01,https://tax.colorado.gov/sites/tax/files/documents/Colorado_Jurisdiction_Codes_Rates_Jan-June2026_Apr26.xlsx,2026-05-18
-CO,city,Fountain,,0.0463,CO-P-040031,sales,2026-01-01,https://tax.colorado.gov/sites/tax/files/documents/Colorado_Jurisdiction_Codes_Rates_Jan-June2026_Apr26.xlsx,2026-05-18
-CO,city,Fountain (In Pprta),,0.0563,CO-P-040099,sales,2026-01-01,https://tax.colorado.gov/sites/tax/files/documents/Colorado_Jurisdiction_Codes_Rates_Jan-June2026_Apr26.xlsx,2026-05-18
-CO,city,Fowler,,0.04,CO-P-090011,sales,2026-01-01,https://tax.colorado.gov/sites/tax/files/documents/Colorado_Jurisdiction_Codes_Rates_Jan-June2026_Apr26.xlsx,2026-05-18
-CO,city,Foxfield,,0.051,CO-P-100009,sales,2026-01-01,https://tax.colorado.gov/sites/tax/files/documents/Colorado_Jurisdiction_Codes_Rates_Jan-June2026_Apr26.xlsx,2026-05-18
-CO,city,Franktown (Cd Only Unincorporated),,0.011,CO-P-470006,sales,2026-01-01,https://tax.colorado.gov/sites/tax/files/documents/Colorado_Jurisdiction_Codes_Rates_Jan-June2026_Apr26.xlsx,2026-05-18
-CO,city,Franktown (Rtd),,0.021,CO-P-470007,sales,2026-01-01,https://tax.colorado.gov/sites/tax/files/documents/Colorado_Jurisdiction_Codes_Rates_Jan-June2026_Apr26.xlsx,2026-05-18
-CO,city,Fraser,,0.063,CO-P-530007,sales,2026-01-01,https://tax.colorado.gov/sites/tax/files/documents/Colorado_Jurisdiction_Codes_Rates_Jan-June2026_Apr26.xlsx,2026-05-18
-CO,city,Frederick,,0.04,CO-P-030046,sales,2026-01-01,https://tax.colorado.gov/sites/tax/files/documents/Colorado_Jurisdiction_Codes_Rates_Jan-June2026_Apr26.xlsx,2026-05-18
-CO,city,Frisco,,0.05475,CO-P-610007,sales,2026-01-01,https://tax.colorado.gov/sites/tax/files/documents/Colorado_Jurisdiction_Codes_Rates_Jan-June2026_Apr26.xlsx,2026-05-18
-CO,city,Fruita,,0.0537,CO-P-080014,sales,2026-01-01,https://tax.colorado.gov/sites/tax/files/documents/Colorado_Jurisdiction_Codes_Rates_Jan-June2026_Apr26.xlsx,2026-05-18
-CO,city,Garden City (Mail Via Greeley),,0.04,CO-P-030050,sales,2026-01-01,https://tax.colorado.gov/sites/tax/files/documents/Colorado_Jurisdiction_Codes_Rates_Jan-June2026_Apr26.xlsx,2026-05-18
-CO,city,Gateway (Lid),,0.0337,CO-P-080045,sales,2026-01-01,https://tax.colorado.gov/sites/tax/files/documents/Colorado_Jurisdiction_Codes_Rates_Jan-June2026_Apr26.xlsx,2026-05-18
-CO,city,Genoa,,0.02,CO-P-330009,sales,2026-01-01,https://tax.colorado.gov/sites/tax/files/documents/Colorado_Jurisdiction_Codes_Rates_Jan-June2026_Apr26.xlsx,2026-05-18
-CO,city,Georgetown,,0.0715,CO-P-510010,sales,2026-01-01,https://tax.colorado.gov/sites/tax/files/documents/Colorado_Jurisdiction_Codes_Rates_Jan-June2026_Apr26.xlsx,2026-05-18
+CO,city,Fountain,,0.034,CO-P-040031,sales,2026-07-01,https://tax.colorado.gov/sites/default/files/2026-10/Colorado_Jurisdiction_Codes_Rates_July-Dec2026.xlsx,2026-11-15
+CO,city,Fountain,,0.034,CO-P-040099,sales,2026-07-01,https://tax.colorado.gov/sites/default/files/2026-10/Colorado_Jurisdiction_Codes_Rates_July-Dec2026.xlsx,2026-11-15
+CO,city,Fowler,,0.03,CO-P-090011,sales,2026-07-01,https://tax.colorado.gov/sites/default/files/2026-10/Colorado_Jurisdiction_Codes_Rates_July-Dec2026.xlsx,2026-11-15
+CO,city,Foxfield,,0.0375,CO-P-100009,sales,2026-07-01,https://tax.colorado.gov/sites/default/files/2026-10/Colorado_Jurisdiction_Codes_Rates_July-Dec2026.xlsx,2026-11-15
+CO,city,Fraser,,0.05,CO-P-530007,sales,2026-07-01,https://tax.colorado.gov/sites/default/files/2026-10/Colorado_Jurisdiction_Codes_Rates_July-Dec2026.xlsx,2026-11-15
+CO,city,Frederick,,0.035,CO-P-030046,sales,2026-07-01,https://tax.colorado.gov/sites/default/files/2026-10/Colorado_Jurisdiction_Codes_Rates_July-Dec2026.xlsx,2026-11-15
+CO,city,Frisco,,0.02,CO-P-610007,sales,2026-07-01,https://tax.colorado.gov/sites/default/files/2026-10/Colorado_Jurisdiction_Codes_Rates_July-Dec2026.xlsx,2026-11-15
+CO,city,Fruita,,0.03,CO-P-080014,sales,2026-07-01,https://tax.colorado.gov/sites/default/files/2026-10/Colorado_Jurisdiction_Codes_Rates_July-Dec2026.xlsx,2026-11-15
+CO,city,Garden City,,0.04,CO-P-030050,sales,2026-01-01,https://tax.colorado.gov/sites/tax/files/documents/Colorado_Jurisdiction_Codes_Rates_Jan-June2026_Apr26.xlsx,2026-05-18
+CO,city,Genoa,,0.0,CO-P-330009,sales,2026-07-01,https://tax.colorado.gov/sites/default/files/2026-10/Colorado_Jurisdiction_Codes_Rates_July-Dec2026.xlsx,2026-11-15
+CO,city,Georgetown,,0.045,CO-P-510010,sales,2026-07-01,https://tax.colorado.gov/sites/default/files/2026-10/Colorado_Jurisdiction_Codes_Rates_July-Dec2026.xlsx,2026-11-15
 CO,city,Gilcrest,,0.04,CO-P-030052,sales,2026-01-01,https://tax.colorado.gov/sites/tax/files/documents/Colorado_Jurisdiction_Codes_Rates_Jan-June2026_Apr26.xlsx,2026-05-18
-CO,city,Glen Haven,,0.0105,CO-P-060034,sales,2026-01-01,https://tax.colorado.gov/sites/tax/files/documents/Colorado_Jurisdiction_Codes_Rates_Jan-June2026_Apr26.xlsx,2026-05-18
-CO,city,Glendale,,0.051,CO-P-100033,sales,2026-01-01,https://tax.colorado.gov/sites/tax/files/documents/Colorado_Jurisdiction_Codes_Rates_Jan-June2026_Apr26.xlsx,2026-05-18
-CO,city,Glenwood Springs,,0.0645,CO-P-240016,sales,2026-01-01,https://tax.colorado.gov/sites/tax/files/documents/Colorado_Jurisdiction_Codes_Rates_Jan-June2026_Apr26.xlsx,2026-05-18
-CO,city,Golden,,0.046,CO-P-110042,sales,2026-01-01,https://tax.colorado.gov/sites/tax/files/documents/Colorado_Jurisdiction_Codes_Rates_Jan-June2026_Apr26.xlsx,2026-05-18
-CO,city,Granada,,0.03,CO-P-170010,sales,2026-01-01,https://tax.colorado.gov/sites/tax/files/documents/Colorado_Jurisdiction_Codes_Rates_Jan-June2026_Apr26.xlsx,2026-05-18
-CO,city,Granby,,0.053,CO-P-530009,sales,2026-01-01,https://tax.colorado.gov/sites/tax/files/documents/Colorado_Jurisdiction_Codes_Rates_Jan-June2026_Apr26.xlsx,2026-05-18
-CO,city,Grand Junction,,0.0576,CO-P-080018,sales,2026-01-01,https://tax.colorado.gov/sites/tax/files/documents/Colorado_Jurisdiction_Codes_Rates_Jan-June2026_Apr26.xlsx,2026-05-18
-CO,city,Grand Lake,,0.063,CO-P-530010,sales,2026-01-01,https://tax.colorado.gov/sites/tax/files/documents/Colorado_Jurisdiction_Codes_Rates_Jan-June2026_Apr26.xlsx,2026-05-18
+CO,city,Glendale,,0.0375,CO-P-100033,sales,2026-07-01,https://tax.colorado.gov/sites/default/files/2026-10/Colorado_Jurisdiction_Codes_Rates_July-Dec2026.xlsx,2026-11-15
+CO,city,Glenwood Springs,,0.042,CO-P-240016,sales,2026-07-01,https://tax.colorado.gov/sites/default/files/2026-10/Colorado_Jurisdiction_Codes_Rates_July-Dec2026.xlsx,2026-11-15
+CO,city,Golden,,0.03,CO-P-110042,sales,2026-07-01,https://tax.colorado.gov/sites/default/files/2026-10/Colorado_Jurisdiction_Codes_Rates_July-Dec2026.xlsx,2026-11-15
+CO,city,Granada,,0.02,CO-P-170010,sales,2026-07-01,https://tax.colorado.gov/sites/default/files/2026-10/Colorado_Jurisdiction_Codes_Rates_July-Dec2026.xlsx,2026-11-15
+CO,city,Granby,,0.04,CO-P-530009,sales,2026-07-01,https://tax.colorado.gov/sites/default/files/2026-10/Colorado_Jurisdiction_Codes_Rates_July-Dec2026.xlsx,2026-11-15
+CO,city,Grand Junction,,0.0339,CO-P-080018,sales,2026-07-01,https://tax.colorado.gov/sites/default/files/2026-10/Colorado_Jurisdiction_Codes_Rates_July-Dec2026.xlsx,2026-11-15
+CO,city,Grand Lake,,0.05,CO-P-530010,sales,2026-07-01,https://tax.colorado.gov/sites/default/files/2026-10/Colorado_Jurisdiction_Codes_Rates_July-Dec2026.xlsx,2026-11-15
 CO,city,Greeley,,0.0411,CO-P-030057,sales,2026-01-01,https://tax.colorado.gov/sites/tax/files/documents/Colorado_Jurisdiction_Codes_Rates_Jan-June2026_Apr26.xlsx,2026-05-18
-CO,city,Green Mtn Falls,,0.0523,CO-P-040038,sales,2026-01-01,https://tax.colorado.gov/sites/tax/files/documents/Colorado_Jurisdiction_Codes_Rates_Jan-June2026_Apr26.xlsx,2026-05-18
-CO,city,Green Mtn Falls,,0.05,CO-P-430031,sales,2026-01-01,https://tax.colorado.gov/sites/tax/files/documents/Colorado_Jurisdiction_Codes_Rates_Jan-June2026_Apr26.xlsx,2026-05-18
-CO,city,Greenwood Village (Mail Via Englewood),,0.0435,CO-P-100034,sales,2026-01-01,https://tax.colorado.gov/sites/tax/files/documents/Colorado_Jurisdiction_Codes_Rates_Jan-June2026_Apr26.xlsx,2026-05-18
+CO,city,Green Mtn Falls,,0.03,CO-P-040038,sales,2026-07-01,https://tax.colorado.gov/sites/default/files/2026-10/Colorado_Jurisdiction_Codes_Rates_July-Dec2026.xlsx,2026-11-15
+CO,city,Green Mtn Falls,,0.03,CO-P-430031,sales,2026-07-01,https://tax.colorado.gov/sites/default/files/2026-10/Colorado_Jurisdiction_Codes_Rates_July-Dec2026.xlsx,2026-11-15
+CO,city,Greenwood Village,,0.03,CO-P-100034,sales,2026-07-01,https://tax.colorado.gov/sites/default/files/2026-10/Colorado_Jurisdiction_Codes_Rates_July-Dec2026.xlsx,2026-11-15
 CO,city,Grover,,0.01,CO-P-030060,sales,2026-01-01,https://tax.colorado.gov/sites/tax/files/documents/Colorado_Jurisdiction_Codes_Rates_Jan-June2026_Apr26.xlsx,2026-05-18
-CO,city,Gunnison,,0.06,CO-P-400027,sales,2026-01-01,https://tax.colorado.gov/sites/tax/files/documents/Colorado_Jurisdiction_Codes_Rates_Jan-June2026_Apr26.xlsx,2026-05-18
-CO,city,Gypsum,,0.045,CO-P-440026,sales,2026-01-01,https://tax.colorado.gov/sites/tax/files/documents/Colorado_Jurisdiction_Codes_Rates_Jan-June2026_Apr26.xlsx,2026-05-18
-CO,city,Gypsum Unincorporated (Two Rivers Metropolitan District),,0.06,CO-P-440065,sales,2026-01-01,https://tax.colorado.gov/sites/tax/files/documents/Colorado_Jurisdiction_Codes_Rates_Jan-June2026_Apr26.xlsx,2026-05-18
-CO,city,Hartman,,0.01,CO-P-170012,sales,2026-01-01,https://tax.colorado.gov/sites/tax/files/documents/Colorado_Jurisdiction_Codes_Rates_Jan-June2026_Apr26.xlsx,2026-05-18
-CO,city,Hartsel(In Health Services District),,0.02,CO-P-540017,sales,2026-01-01,https://tax.colorado.gov/sites/tax/files/documents/Colorado_Jurisdiction_Codes_Rates_Jan-June2026_Apr26.xlsx,2026-05-18
+CO,city,Gunnison,,0.04,CO-P-400027,sales,2026-07-01,https://tax.colorado.gov/sites/default/files/2026-10/Colorado_Jurisdiction_Codes_Rates_July-Dec2026.xlsx,2026-11-15
+CO,city,Gypsum,,0.03,CO-P-440026,sales,2026-07-01,https://tax.colorado.gov/sites/default/files/2026-10/Colorado_Jurisdiction_Codes_Rates_July-Dec2026.xlsx,2026-11-15
+CO,city,Hartman,,0.0,CO-P-170012,sales,2026-07-01,https://tax.colorado.gov/sites/default/files/2026-10/Colorado_Jurisdiction_Codes_Rates_July-Dec2026.xlsx,2026-11-15
 CO,city,Haswell,,0.0,CO-P-450009,sales,2026-01-01,https://tax.colorado.gov/sites/tax/files/documents/Colorado_Jurisdiction_Codes_Rates_Jan-June2026_Apr26.xlsx,2026-05-18
-CO,city,Haxtun,,0.045,CO-P-370003,sales,2026-01-01,https://tax.colorado.gov/sites/tax/files/documents/Colorado_Jurisdiction_Codes_Rates_Jan-June2026_Apr26.xlsx,2026-05-18
-CO,city,Hayden,,0.06,CO-P-280020,sales,2026-01-01,https://tax.colorado.gov/sites/tax/files/documents/Colorado_Jurisdiction_Codes_Rates_Jan-June2026_Apr26.xlsx,2026-05-18
-CO,city,Highlands Ranch,,0.021,CO-P-470028,sales,2026-01-01,https://tax.colorado.gov/sites/tax/files/documents/Colorado_Jurisdiction_Codes_Rates_Jan-June2026_Apr26.xlsx,2026-05-18
-CO,city,Highlands Ranch (Cd Only),,0.011,CO-P-470029,sales,2026-01-01,https://tax.colorado.gov/sites/tax/files/documents/Colorado_Jurisdiction_Codes_Rates_Jan-June2026_Apr26.xlsx,2026-05-18
+CO,city,Haxtun,,0.035,CO-P-370003,sales,2026-07-01,https://tax.colorado.gov/sites/default/files/2026-10/Colorado_Jurisdiction_Codes_Rates_July-Dec2026.xlsx,2026-11-15
+CO,city,Hayden,,0.05,CO-P-280020,sales,2026-07-01,https://tax.colorado.gov/sites/default/files/2026-10/Colorado_Jurisdiction_Codes_Rates_July-Dec2026.xlsx,2026-11-15
 CO,city,Hillrose,,0.0,CO-P-150013,sales,2026-01-01,https://tax.colorado.gov/sites/tax/files/documents/Colorado_Jurisdiction_Codes_Rates_Jan-June2026_Apr26.xlsx,2026-05-18
-CO,city,Holly,,0.05,CO-P-170013,sales,2026-01-01,https://tax.colorado.gov/sites/tax/files/documents/Colorado_Jurisdiction_Codes_Rates_Jan-June2026_Apr26.xlsx,2026-05-18
-CO,city,Holyoke,,0.025,CO-P-370004,sales,2026-01-01,https://tax.colorado.gov/sites/tax/files/documents/Colorado_Jurisdiction_Codes_Rates_Jan-June2026_Apr26.xlsx,2026-05-18
-CO,city,Hooper,,0.05,CO-P-300010,sales,2026-01-01,https://tax.colorado.gov/sites/tax/files/documents/Colorado_Jurisdiction_Codes_Rates_Jan-June2026_Apr26.xlsx,2026-05-18
-CO,city,Hot Sulphur Springs,,0.053,CO-P-530017,sales,2026-01-01,https://tax.colorado.gov/sites/tax/files/documents/Colorado_Jurisdiction_Codes_Rates_Jan-June2026_Apr26.xlsx,2026-05-18
-CO,city,Hotchkiss,,0.056,CO-P-180018,sales,2026-01-01,https://tax.colorado.gov/sites/tax/files/documents/Colorado_Jurisdiction_Codes_Rates_Jan-June2026_Apr26.xlsx,2026-05-18
+CO,city,Holly,,0.04,CO-P-170013,sales,2026-07-01,https://tax.colorado.gov/sites/default/files/2026-10/Colorado_Jurisdiction_Codes_Rates_July-Dec2026.xlsx,2026-11-15
+CO,city,Holyoke,,0.015,CO-P-370004,sales,2026-07-01,https://tax.colorado.gov/sites/default/files/2026-10/Colorado_Jurisdiction_Codes_Rates_July-Dec2026.xlsx,2026-11-15
+CO,city,Hooper,,0.02,CO-P-300010,sales,2026-07-01,https://tax.colorado.gov/sites/default/files/2026-10/Colorado_Jurisdiction_Codes_Rates_July-Dec2026.xlsx,2026-11-15
+CO,city,Hot Sulphur Springs,,0.04,CO-P-530017,sales,2026-07-01,https://tax.colorado.gov/sites/default/files/2026-10/Colorado_Jurisdiction_Codes_Rates_July-Dec2026.xlsx,2026-11-15
+CO,city,Hotchkiss,,0.02,CO-P-180018,sales,2026-07-01,https://tax.colorado.gov/sites/default/files/2026-10/Colorado_Jurisdiction_Codes_Rates_July-Dec2026.xlsx,2026-11-15
 CO,city,Hudson,,0.04,CO-P-030070,sales,2026-01-01,https://tax.colorado.gov/sites/tax/files/documents/Colorado_Jurisdiction_Codes_Rates_Jan-June2026_Apr26.xlsx,2026-05-18
-CO,city,Hugo,,0.05,CO-P-330012,sales,2026-01-01,https://tax.colorado.gov/sites/tax/files/documents/Colorado_Jurisdiction_Codes_Rates_July-Dec2026.xlsx,2026-07-21
-CO,city,Idaho Springs,,0.0765,CO-P-510011,sales,2026-01-01,https://tax.colorado.gov/sites/tax/files/documents/Colorado_Jurisdiction_Codes_Rates_Jan-June2026_Apr26.xlsx,2026-05-18
-CO,city,Ignacio,,0.06,CO-P-200023,sales,2026-01-01,https://tax.colorado.gov/sites/tax/files/documents/Colorado_Jurisdiction_Codes_Rates_Jan-June2026_Apr26.xlsx,2026-05-18
-CO,city,Iliff,,0.01,CO-P-130014,sales,2026-01-01,https://tax.colorado.gov/sites/tax/files/documents/Colorado_Jurisdiction_Codes_Rates_Jan-June2026_Apr26.xlsx,2026-05-18
-CO,city,Jamestown,,0.02435,CO-P-070033,sales,2026-01-01,https://tax.colorado.gov/sites/tax/files/documents/Colorado_Jurisdiction_Codes_Rates_Jan-June2026_Apr26.xlsx,2026-05-18
-CO,city,Jefferson(In Health Services District),,0.02,CO-P-540020,sales,2026-01-01,https://tax.colorado.gov/sites/tax/files/documents/Colorado_Jurisdiction_Codes_Rates_Jan-June2026_Apr26.xlsx,2026-05-18
+CO,city,Hugo,,0.03,CO-P-330012,sales,2026-07-01,https://tax.colorado.gov/sites/default/files/2026-10/Colorado_Jurisdiction_Codes_Rates_July-Dec2026.xlsx,2026-11-15
+CO,city,Idaho Springs,,0.05,CO-P-510011,sales,2026-07-01,https://tax.colorado.gov/sites/default/files/2026-10/Colorado_Jurisdiction_Codes_Rates_July-Dec2026.xlsx,2026-11-15
+CO,city,Ignacio,,0.03,CO-P-200023,sales,2026-07-01,https://tax.colorado.gov/sites/default/files/2026-10/Colorado_Jurisdiction_Codes_Rates_July-Dec2026.xlsx,2026-11-15
+CO,city,Iliff,,0.0,CO-P-130014,sales,2026-07-01,https://tax.colorado.gov/sites/default/files/2026-10/Colorado_Jurisdiction_Codes_Rates_July-Dec2026.xlsx,2026-11-15
+CO,city,Jamestown,,0.0,CO-P-070033,sales,2026-07-01,https://tax.colorado.gov/sites/default/files/2026-10/Colorado_Jurisdiction_Codes_Rates_July-Dec2026.xlsx,2026-11-15
 CO,city,Johnstown,,0.035,CO-P-030075,sales,2026-01-01,https://tax.colorado.gov/sites/tax/files/documents/Colorado_Jurisdiction_Codes_Rates_Jan-June2026_Apr26.xlsx,2026-05-18
-CO,city,Johnstown,,0.0455,CO-P-060086,sales,2026-07-01,https://tax.colorado.gov/sites/tax/files/documents/Colorado_Jurisdiction_Codes_Rates_July-Dec2026.xlsx,2026-09-21
-CO,city,Johnstown In Pif,,0.0255,CO-P-060087,sales,2026-01-01,https://tax.colorado.gov/sites/tax/files/documents/Colorado_Jurisdiction_Codes_Rates_Jan-June2026_Apr26.xlsx,2026-05-18
-CO,city,Julesburg,,0.053,CO-P-390004,sales,2026-01-01,https://tax.colorado.gov/sites/tax/files/documents/Colorado_Jurisdiction_Codes_Rates_Jan-June2026_Apr26.xlsx,2026-05-18
+CO,city,Johnstown,,0.035,CO-P-060086,sales,2026-07-01,https://tax.colorado.gov/sites/default/files/2026-10/Colorado_Jurisdiction_Codes_Rates_July-Dec2026.xlsx,2026-11-15
+CO,city,Johnstown (city rate in public improvement fee area),,0.015,CO-P-060087,sales,2026-07-01,https://tax.colorado.gov/sites/default/files/2026-10/Colorado_Jurisdiction_Codes_Rates_July-Dec2026.xlsx,2026-11-15
+CO,city,Julesburg,,0.023,CO-P-390004,sales,2026-07-01,https://tax.colorado.gov/sites/default/files/2026-10/Colorado_Jurisdiction_Codes_Rates_July-Dec2026.xlsx,2026-11-15
 CO,city,Keenesburg,,0.03,CO-P-030078,sales,2026-01-01,https://tax.colorado.gov/sites/tax/files/documents/Colorado_Jurisdiction_Codes_Rates_Jan-June2026_Apr26.xlsx,2026-05-18
 CO,city,Kersey,,0.036,CO-P-030080,sales,2026-01-01,https://tax.colorado.gov/sites/tax/files/documents/Colorado_Jurisdiction_Codes_Rates_Jan-June2026_Apr26.xlsx,2026-05-18
-CO,city,Keystone,,0.03475,CO-P-610024,sales,2026-01-01,https://tax.colorado.gov/sites/tax/files/documents/Colorado_Jurisdiction_Codes_Rates_Jan-June2026_Apr26.xlsx,2026-05-18
-CO,city,Kim,,0.015,CO-P-050053,sales,2026-01-01,https://tax.colorado.gov/sites/tax/files/documents/Colorado_Jurisdiction_Codes_Rates_Jan-June2026_Apr26.xlsx,2026-05-18
-CO,city,Kiowa,,0.025,CO-P-340008,sales,2026-01-01,https://tax.colorado.gov/sites/tax/files/documents/Colorado_Jurisdiction_Codes_Rates_Jan-June2026_Apr26.xlsx,2026-05-18
+CO,city,Keystone,,0.0,CO-P-610024,sales,2026-07-01,https://tax.colorado.gov/sites/default/files/2026-10/Colorado_Jurisdiction_Codes_Rates_July-Dec2026.xlsx,2026-11-15
+CO,city,Kim,,0.0,CO-P-050053,sales,2026-07-01,https://tax.colorado.gov/sites/default/files/2026-10/Colorado_Jurisdiction_Codes_Rates_July-Dec2026.xlsx,2026-11-15
+CO,city,Kiowa,,0.015,CO-P-340008,sales,2026-07-01,https://tax.colorado.gov/sites/default/files/2026-10/Colorado_Jurisdiction_Codes_Rates_July-Dec2026.xlsx,2026-11-15
 CO,city,Kit Carson,,0.02,CO-P-460009,sales,2026-01-01,https://tax.colorado.gov/sites/tax/files/documents/Colorado_Jurisdiction_Codes_Rates_Jan-June2026_Apr26.xlsx,2026-05-18
-CO,city,Kremmling,,0.053,CO-P-530012,sales,2026-01-01,https://tax.colorado.gov/sites/tax/files/documents/Colorado_Jurisdiction_Codes_Rates_Jan-June2026_Apr26.xlsx,2026-05-18
-CO,city,La Jara,,0.05,CO-P-250010,sales,2026-01-01,https://tax.colorado.gov/sites/tax/files/documents/Colorado_Jurisdiction_Codes_Rates_Jan-June2026_Apr26.xlsx,2026-05-18
-CO,city,La Junta,,0.06,CO-P-090016,sales,2026-01-01,https://tax.colorado.gov/sites/tax/files/documents/Colorado_Jurisdiction_Codes_Rates_Jan-June2026_Apr26.xlsx,2026-05-18
+CO,city,Kremmling,,0.04,CO-P-530012,sales,2026-07-01,https://tax.colorado.gov/sites/default/files/2026-10/Colorado_Jurisdiction_Codes_Rates_July-Dec2026.xlsx,2026-11-15
+CO,city,La Jara,,0.03,CO-P-250010,sales,2026-07-01,https://tax.colorado.gov/sites/default/files/2026-10/Colorado_Jurisdiction_Codes_Rates_July-Dec2026.xlsx,2026-11-15
+CO,city,La Junta,,0.04,CO-P-090016,sales,2026-07-01,https://tax.colorado.gov/sites/default/files/2026-10/Colorado_Jurisdiction_Codes_Rates_July-Dec2026.xlsx,2026-11-15
 CO,city,La Salle,,0.035,CO-P-030085,sales,2026-01-01,https://tax.colorado.gov/sites/tax/files/documents/Colorado_Jurisdiction_Codes_Rates_Jan-June2026_Apr26.xlsx,2026-05-18
-CO,city,La Veta,,0.07,CO-P-160031,sales,2026-01-01,https://tax.colorado.gov/sites/tax/files/documents/Colorado_Jurisdiction_Codes_Rates_Jan-June2026_Apr26.xlsx,2026-05-18
-CO,city,Lafayette,,0.06205,CO-P-070034,sales,2026-01-01,https://tax.colorado.gov/sites/tax/files/documents/Colorado_Jurisdiction_Codes_Rates_Jan-June2026_Apr26.xlsx,2026-05-18
-CO,city,Lake City,,0.0625,CO-P-630002,sales,2026-01-01,https://tax.colorado.gov/sites/tax/files/documents/Colorado_Jurisdiction_Codes_Rates_Jan-June2026_Apr26.xlsx,2026-05-18
-CO,city,Lake George,,0.025,CO-P-540021,sales,2026-01-01,https://tax.colorado.gov/sites/tax/files/documents/Colorado_Jurisdiction_Codes_Rates_Jan-June2026_Apr26.xlsx,2026-05-18
-CO,city,Lakeside,,0.044,CO-P-110058,sales,2026-01-01,https://tax.colorado.gov/sites/tax/files/documents/Colorado_Jurisdiction_Codes_Rates_Jan-June2026_Apr26.xlsx,2026-05-18
-CO,city,Lakeside (Pif),,0.029,CO-P-110151,sales,2026-01-01,https://tax.colorado.gov/sites/tax/files/documents/Colorado_Jurisdiction_Codes_Rates_Jan-June2026_Apr26.xlsx,2026-05-18
-CO,city,Lakewood,,0.046,CO-P-110059,sales,2026-01-01,https://tax.colorado.gov/sites/tax/files/documents/Colorado_Jurisdiction_Codes_Rates_Jan-June2026_Apr26.xlsx,2026-05-18
-CO,city,Lakewood (Within Local Improvement Dist),,0.0503,CO-P-110060,sales,2026-01-01,https://tax.colorado.gov/sites/tax/files/documents/Colorado_Jurisdiction_Codes_Rates_Jan-June2026_Apr26.xlsx,2026-05-18
-CO,city,Lamar,,0.04,CO-P-170017,sales,2026-01-01,https://tax.colorado.gov/sites/tax/files/documents/Colorado_Jurisdiction_Codes_Rates_Jan-June2026_Apr26.xlsx,2026-05-18
-CO,city,Larkspur,,0.05,CO-P-470012,sales,2026-01-01,https://tax.colorado.gov/sites/tax/files/documents/Colorado_Jurisdiction_Codes_Rates_Jan-June2026_Apr26.xlsx,2026-05-18
-CO,city,Las Animas,,0.05,CO-P-290016,sales,2026-01-01,https://tax.colorado.gov/sites/tax/files/documents/Colorado_Jurisdiction_Codes_Rates_Jan-June2026_Apr26.xlsx,2026-05-18
-CO,city,Leadville,,0.045,CO-P-410024,sales,2026-01-01,https://tax.colorado.gov/sites/tax/files/documents/Colorado_Jurisdiction_Codes_Rates_Jan-June2026_Apr26.xlsx,2026-05-18
-CO,city,Limon,,0.0475,CO-P-330016,sales,2026-01-01,https://tax.colorado.gov/sites/tax/files/documents/Colorado_Jurisdiction_Codes_Rates_Jan-June2026_Apr26.xlsx,2026-05-18
-CO,city,Littleton,,0.051,CO-P-100011,sales,2026-01-01,https://tax.colorado.gov/sites/tax/files/documents/Colorado_Jurisdiction_Codes_Rates_Jan-June2026_Apr26.xlsx,2026-05-18
-CO,city,Littleton,,0.0585,CO-P-470027,sales,2026-07-01,https://tax.colorado.gov/sites/tax/files/documents/Colorado_Jurisdiction_Codes_Rates_July-Dec2026.xlsx,2026-09-21
-CO,city,Littleton (In Se Jefferson Lid),,0.0578,CO-P-110145,sales,2026-01-01,https://tax.colorado.gov/sites/tax/files/documents/Colorado_Jurisdiction_Codes_Rates_Jan-June2026_Apr26.xlsx,2026-05-18
-CO,city,Littleton (Lincoln Station Local Improvement District),,0.026,CO-P-470042,sales,2026-01-01,https://tax.colorado.gov/sites/tax/files/documents/Colorado_Jurisdiction_Codes_Rates_Jan-June2026_Apr26.xlsx,2026-05-18
-CO,city,Littleton Unincorporated (Southwest Plaza Metropolitan District),,0.041,CO-P-110155,sales,2026-01-01,https://tax.colorado.gov/sites/tax/files/documents/Colorado_Jurisdiction_Codes_Rates_Jan-June2026_Apr26.xlsx,2026-05-18
-CO,city,Littleton-Douglas (Incorporated Cd Only),,0.041,CO-P-470048,sales,2026-01-01,https://tax.colorado.gov/sites/tax/files/documents/Colorado_Jurisdiction_Codes_Rates_Jan-June2026_Apr26.xlsx,2026-05-18
+CO,city,La Veta,,0.035,CO-P-160031,sales,2026-07-01,https://tax.colorado.gov/sites/default/files/2026-10/Colorado_Jurisdiction_Codes_Rates_July-Dec2026.xlsx,2026-11-15
+CO,city,Lafayette,,0.0377,CO-P-070034,sales,2026-07-01,https://tax.colorado.gov/sites/default/files/2026-10/Colorado_Jurisdiction_Codes_Rates_July-Dec2026.xlsx,2026-11-15
+CO,city,Lake City,,0.0,CO-P-630002,sales,2026-07-01,https://tax.colorado.gov/sites/default/files/2026-10/Colorado_Jurisdiction_Codes_Rates_July-Dec2026.xlsx,2026-11-15
+CO,city,Lakeside,,0.028,CO-P-110058,sales,2026-07-01,https://tax.colorado.gov/sites/default/files/2026-10/Colorado_Jurisdiction_Codes_Rates_July-Dec2026.xlsx,2026-11-15
+CO,city,Lakeside (city rate in public improvement fee area),,0.013,CO-P-110151,sales,2026-07-01,https://tax.colorado.gov/sites/default/files/2026-10/Colorado_Jurisdiction_Codes_Rates_July-Dec2026.xlsx,2026-11-15
+CO,city,Lakewood,,0.03,CO-P-110059,sales,2026-07-01,https://tax.colorado.gov/sites/default/files/2026-10/Colorado_Jurisdiction_Codes_Rates_July-Dec2026.xlsx,2026-11-15
+CO,city,Lakewood,,0.03,CO-P-110060,sales,2026-07-01,https://tax.colorado.gov/sites/default/files/2026-10/Colorado_Jurisdiction_Codes_Rates_July-Dec2026.xlsx,2026-11-15
+CO,city,Lamar,,0.03,CO-P-170017,sales,2026-07-01,https://tax.colorado.gov/sites/default/files/2026-10/Colorado_Jurisdiction_Codes_Rates_July-Dec2026.xlsx,2026-11-15
+CO,city,Larkspur,,0.04,CO-P-470012,sales,2026-07-01,https://tax.colorado.gov/sites/default/files/2026-10/Colorado_Jurisdiction_Codes_Rates_July-Dec2026.xlsx,2026-11-15
+CO,city,Las Animas,,0.04,CO-P-290016,sales,2026-07-01,https://tax.colorado.gov/sites/default/files/2026-10/Colorado_Jurisdiction_Codes_Rates_July-Dec2026.xlsx,2026-11-15
+CO,city,Leadville,,0.005,CO-P-410024,sales,2026-07-01,https://tax.colorado.gov/sites/default/files/2026-10/Colorado_Jurisdiction_Codes_Rates_July-Dec2026.xlsx,2026-11-15
+CO,city,Limon,,0.0275,CO-P-330016,sales,2026-07-01,https://tax.colorado.gov/sites/default/files/2026-10/Colorado_Jurisdiction_Codes_Rates_July-Dec2026.xlsx,2026-11-15
+CO,city,Littleton,,0.0375,CO-P-100011,sales,2026-07-01,https://tax.colorado.gov/sites/default/files/2026-10/Colorado_Jurisdiction_Codes_Rates_July-Dec2026.xlsx,2026-11-15
+CO,city,Littleton,,0.0375,CO-P-110145,sales,2026-07-01,https://tax.colorado.gov/sites/default/files/2026-10/Colorado_Jurisdiction_Codes_Rates_July-Dec2026.xlsx,2026-11-15
+CO,city,Littleton,,0.0375,CO-P-470027,sales,2026-07-01,https://tax.colorado.gov/sites/default/files/2026-10/Colorado_Jurisdiction_Codes_Rates_July-Dec2026.xlsx,2026-11-15
+CO,city,Littleton,,0.0375,CO-P-470048,sales,2026-07-01,https://salestaxlookup.colorado.gov/,2026-11-15
 CO,city,Lochbuie,,0.04,CO-P-030150,sales,2026-01-01,https://tax.colorado.gov/sites/tax/files/documents/Colorado_Jurisdiction_Codes_Rates_Jan-June2026_Apr26.xlsx,2026-05-18
-CO,city,Lochbuie,,0.0585,CO-P-120061,sales,2026-07-01,https://tax.colorado.gov/sites/tax/files/documents/Colorado_Jurisdiction_Codes_Rates_July-Dec2026.xlsx,2026-09-21
+CO,city,Lochbuie,,0.04,CO-P-030159,sales,2026-07-01,https://tax.colorado.gov/sites/default/files/2026-10/Colorado_Jurisdiction_Codes_Rates_July-Dec2026.xlsx,2026-11-15
+CO,city,Lochbuie,,0.04,CO-P-120061,sales,2026-07-01,https://tax.colorado.gov/sites/default/files/2026-10/Colorado_Jurisdiction_Codes_Rates_July-Dec2026.xlsx,2026-11-15
 CO,city,Log Lane Village,,0.03,CO-P-150038,sales,2026-01-01,https://tax.colorado.gov/sites/tax/files/documents/Colorado_Jurisdiction_Codes_Rates_Jan-June2026_Apr26.xlsx,2026-05-18
-CO,city,Lone Tree,,0.046,CO-P-470031,sales,2026-07-01,https://cityoflonetree.com/wp-content/uploads/2025/11/BUSINESS-LICENSE-AND-SALES-USE-TAX-APPLICATION-Updated-10.30.25.pdf,2026-11-07
-CO,city,Lone Tree (In Lid),,0.0541,CO-P-470050,sales,2026-01-01,https://tax.colorado.gov/sites/tax/files/documents/Colorado_Jurisdiction_Codes_Rates_Jan-June2026_Apr26.xlsx,2026-05-18
-CO,city,Longmont,,0.0453,CO-P-030156,sales,2026-01-01,https://tax.colorado.gov/sites/tax/files/documents/Colorado_Jurisdiction_Codes_Rates_Jan-June2026_Apr26.xlsx,2026-05-18
-CO,city,Longmont,,0.05965,CO-P-070040,sales,2026-07-01,https://tax.colorado.gov/sites/tax/files/documents/Colorado_Jurisdiction_Codes_Rates_July-Dec2026.xlsx,2026-09-21
-CO,city,Louisville,,0.0621,CO-P-070041,sales,2026-01-01,https://tax.colorado.gov/sites/tax/files/documents/Colorado_Jurisdiction_Codes_Rates_Jan-June2026_Apr26.xlsx,2026-05-18
-CO,city,Louviers,,0.011,CO-P-470013,sales,2026-01-01,https://tax.colorado.gov/sites/tax/files/documents/Colorado_Jurisdiction_Codes_Rates_Jan-June2026_Apr26.xlsx,2026-05-18
-CO,city,Loveland,,0.0405,CO-P-060049,sales,2026-01-01,https://tax.colorado.gov/sites/tax/files/documents/Colorado_Jurisdiction_Codes_Rates_Jan-June2026_Apr26.xlsx,2026-05-18
-CO,city,Lyons,,0.06435,CO-P-070042,sales,2026-01-01,https://tax.colorado.gov/sites/tax/files/documents/Colorado_Jurisdiction_Codes_Rates_Jan-June2026_Apr26.xlsx,2026-05-18
-CO,city,Manassa,,0.03,CO-P-250015,sales,2026-01-01,https://tax.colorado.gov/sites/tax/files/documents/Colorado_Jurisdiction_Codes_Rates_Jan-June2026_Apr26.xlsx,2026-05-18
-CO,city,Mancos,,0.044,CO-P-320017,sales,2026-01-01,https://tax.colorado.gov/sites/tax/files/documents/Colorado_Jurisdiction_Codes_Rates_Jan-June2026_Apr26.xlsx,2026-05-18
-CO,city,Manitou Springs,,0.0613,CO-P-040052,sales,2026-01-01,https://tax.colorado.gov/sites/tax/files/documents/Colorado_Jurisdiction_Codes_Rates_Jan-June2026_Apr26.xlsx,2026-05-18
-CO,city,Manzanola,,0.03,CO-P-090017,sales,2026-01-01,https://tax.colorado.gov/sites/tax/files/documents/Colorado_Jurisdiction_Codes_Rates_Jan-June2026_Apr26.xlsx,2026-05-18
-CO,city,Marble (Mail Via Carbondale),,0.065,CO-P-400042,sales,2026-01-01,https://tax.colorado.gov/sites/tax/files/documents/Colorado_Jurisdiction_Codes_Rates_Jan-June2026_Apr26.xlsx,2026-05-18
+CO,city,Lone Tree,,0.025,CO-P-470031,sales,2026-07-01,https://cityoflonetree.com/wp-content/uploads/2025/11/BUSINESS-LICENSE-AND-SALES-USE-TAX-APPLICATION-Updated-10.30.25.pdf,2026-11-15
+CO,city,Lone Tree,,0.0281,CO-P-470050,sales,2026-07-01,https://tax.colorado.gov/sites/default/files/2026-10/Colorado_Jurisdiction_Codes_Rates_July-Dec2026.xlsx,2026-11-15
+CO,city,Longmont,,0.0353,CO-P-030156,sales,2026-07-01,https://tax.colorado.gov/sites/default/files/2026-10/Colorado_Jurisdiction_Codes_Rates_July-Dec2026.xlsx,2026-11-15
+CO,city,Longmont,,0.0353,CO-P-070040,sales,2026-07-01,https://tax.colorado.gov/sites/default/files/2026-10/Colorado_Jurisdiction_Codes_Rates_July-Dec2026.xlsx,2026-11-15
+CO,city,Louisville,,0.03775,CO-P-070041,sales,2026-07-01,https://tax.colorado.gov/sites/default/files/2026-10/Colorado_Jurisdiction_Codes_Rates_July-Dec2026.xlsx,2026-11-15
+CO,city,Loveland,,0.03,CO-P-060049,sales,2026-07-01,https://tax.colorado.gov/sites/default/files/2026-10/Colorado_Jurisdiction_Codes_Rates_July-Dec2026.xlsx,2026-11-15
+CO,city,Lyons,,0.04,CO-P-070042,sales,2026-07-01,https://tax.colorado.gov/sites/default/files/2026-10/Colorado_Jurisdiction_Codes_Rates_July-Dec2026.xlsx,2026-11-15
+CO,city,Manassa,,0.01,CO-P-250015,sales,2026-07-01,https://tax.colorado.gov/sites/default/files/2026-10/Colorado_Jurisdiction_Codes_Rates_July-Dec2026.xlsx,2026-11-15
+CO,city,Mancos,,0.04,CO-P-320017,sales,2026-07-01,https://tax.colorado.gov/sites/default/files/2026-10/Colorado_Jurisdiction_Codes_Rates_July-Dec2026.xlsx,2026-11-15
+CO,city,Manitou Springs,,0.039,CO-P-040052,sales,2026-07-01,https://tax.colorado.gov/sites/default/files/2026-10/Colorado_Jurisdiction_Codes_Rates_July-Dec2026.xlsx,2026-11-15
+CO,city,Manzanola,,0.02,CO-P-090017,sales,2026-07-01,https://tax.colorado.gov/sites/default/files/2026-10/Colorado_Jurisdiction_Codes_Rates_July-Dec2026.xlsx,2026-11-15
+CO,city,Marble,,0.04,CO-P-400042,sales,2026-07-01,https://tax.colorado.gov/sites/default/files/2026-10/Colorado_Jurisdiction_Codes_Rates_July-Dec2026.xlsx,2026-11-15
 CO,city,Mead,,0.03,CO-P-030095,sales,2026-01-01,https://tax.colorado.gov/sites/tax/files/documents/Colorado_Jurisdiction_Codes_Rates_Jan-June2026_Apr26.xlsx,2026-05-18
-CO,city,Meeker,,0.036,CO-P-490003,sales,2026-01-01,https://tax.colorado.gov/sites/tax/files/documents/Colorado_Jurisdiction_Codes_Rates_Jan-June2026_Apr26.xlsx,2026-05-18
-CO,city,Merino,,0.03,CO-P-130020,sales,2026-01-01,https://tax.colorado.gov/sites/tax/files/documents/Colorado_Jurisdiction_Codes_Rates_Jan-June2026_Apr26.xlsx,2026-05-18
+CO,city,Meeker,,0.0,CO-P-490003,sales,2026-07-01,https://tax.colorado.gov/sites/default/files/2026-10/Colorado_Jurisdiction_Codes_Rates_July-Dec2026.xlsx,2026-11-15
+CO,city,Merino,,0.02,CO-P-130020,sales,2026-07-01,https://tax.colorado.gov/sites/default/files/2026-10/Colorado_Jurisdiction_Codes_Rates_July-Dec2026.xlsx,2026-11-15
 CO,city,Milliken,,0.025,CO-P-030097,sales,2026-01-01,https://tax.colorado.gov/sites/tax/files/documents/Colorado_Jurisdiction_Codes_Rates_Jan-June2026_Apr26.xlsx,2026-05-18
-CO,city,Minturn,,0.0679,CO-P-440030,sales,2026-01-01,https://tax.colorado.gov/sites/tax/files/documents/Colorado_Jurisdiction_Codes_Rates_Jan-June2026_Apr26.xlsx,2026-05-18
-CO,city,Moffat,,0.045,CO-P-350017,sales,2026-01-01,https://tax.colorado.gov/sites/tax/files/documents/Colorado_Jurisdiction_Codes_Rates_Jan-June2026_Apr26.xlsx,2026-05-18
-CO,city,Monte Vista,,0.056,CO-P-230018,sales,2026-01-01,https://tax.colorado.gov/sites/tax/files/documents/Colorado_Jurisdiction_Codes_Rates_Jan-June2026_Apr26.xlsx,2026-05-18
-CO,city,Montezuma (Mail Via Dillon),,0.05475,CO-P-610011,sales,2026-01-01,https://tax.colorado.gov/sites/tax/files/documents/Colorado_Jurisdiction_Codes_Rates_Jan-June2026_Apr26.xlsx,2026-05-18
-CO,city,Montrose,,0.0563,CO-P-210011,sales,2026-01-01,https://tax.colorado.gov/sites/tax/files/documents/Colorado_Jurisdiction_Codes_Rates_Jan-June2026_Apr26.xlsx,2026-05-18
-CO,city,Monument,,0.0473,CO-P-040057,sales,2026-01-01,https://tax.colorado.gov/sites/tax/files/documents/Colorado_Jurisdiction_Codes_Rates_Jan-June2026_Apr26.xlsx,2026-05-18
-CO,city,Monument (In Pprta),,0.0573,CO-P-040103,sales,2026-01-01,https://tax.colorado.gov/sites/tax/files/documents/Colorado_Jurisdiction_Codes_Rates_Jan-June2026_Apr26.xlsx,2026-05-18
-CO,city,Monument Pif,,0.0373,CO-P-040100,sales,2026-01-01,https://tax.colorado.gov/sites/tax/files/documents/Colorado_Jurisdiction_Codes_Rates_Jan-June2026_Apr26.xlsx,2026-05-18
-CO,city,Morrison,,0.0535,CO-P-110071,sales,2026-01-01,https://tax.colorado.gov/sites/tax/files/documents/Colorado_Jurisdiction_Codes_Rates_Jan-June2026_Apr26.xlsx,2026-05-18
-CO,city,Mountain View,,0.056,CO-P-110074,sales,2026-01-01,https://tax.colorado.gov/sites/tax/files/documents/Colorado_Jurisdiction_Codes_Rates_Jan-June2026_Apr26.xlsx,2026-05-18
-CO,city,Mountain Village,,0.0657,CO-P-500010,sales,2026-01-01,https://tax.colorado.gov/sites/tax/files/documents/Colorado_Jurisdiction_Codes_Rates_Jan-June2026_Apr26.xlsx,2026-05-18
-CO,city,Mt Crested Butte,,0.07,CO-P-400073,sales,2026-01-01,https://tax.colorado.gov/sites/tax/files/documents/Colorado_Jurisdiction_Codes_Rates_Jan-June2026_Apr26.xlsx,2026-05-18
-CO,city,Mt Vernon Country Club Metropolitan District,,0.036,CO-P-110156,sales,2026-01-01,https://tax.colorado.gov/sites/tax/files/documents/Colorado_Jurisdiction_Codes_Rates_Jan-June2026_Apr26.xlsx,2026-05-18
-CO,city,Naturita,,0.0575,CO-P-210012,sales,2026-01-01,https://tax.colorado.gov/sites/tax/files/documents/Colorado_Jurisdiction_Codes_Rates_Jan-June2026_Apr26.xlsx,2026-05-18
-CO,city,Nederland,,0.06685,CO-P-070049,sales,2026-01-01,https://tax.colorado.gov/sites/tax/files/documents/Colorado_Jurisdiction_Codes_Rates_Jan-June2026_Apr26.xlsx,2026-05-18
-CO,city,New Castle,,0.0555,CO-P-240031,sales,2026-01-01,https://tax.colorado.gov/sites/tax/files/documents/Colorado_Jurisdiction_Codes_Rates_Jan-June2026_Apr26.xlsx,2026-05-18
-CO,city,Niwot,,0.03435,CO-P-070050,sales,2026-01-01,https://tax.colorado.gov/sites/tax/files/documents/Colorado_Jurisdiction_Codes_Rates_Jan-June2026_Apr26.xlsx,2026-05-18
-CO,city,Northglenn,,0.0585,CO-P-120054,sales,2026-01-01,https://tax.colorado.gov/sites/tax/files/documents/Colorado_Jurisdiction_Codes_Rates_Jan-June2026_Apr26.xlsx,2026-05-18
+CO,city,Minturn,,0.04,CO-P-440030,sales,2026-07-01,https://tax.colorado.gov/sites/default/files/2026-10/Colorado_Jurisdiction_Codes_Rates_July-Dec2026.xlsx,2026-11-15
+CO,city,Moffat,,0.02,CO-P-350017,sales,2026-07-01,https://tax.colorado.gov/sites/default/files/2026-10/Colorado_Jurisdiction_Codes_Rates_July-Dec2026.xlsx,2026-11-15
+CO,city,Monte Vista,,0.03,CO-P-230018,sales,2026-07-01,https://tax.colorado.gov/sites/default/files/2026-10/Colorado_Jurisdiction_Codes_Rates_July-Dec2026.xlsx,2026-11-15
+CO,city,Montezuma,,0.02,CO-P-610011,sales,2026-07-01,https://tax.colorado.gov/sites/default/files/2026-10/Colorado_Jurisdiction_Codes_Rates_July-Dec2026.xlsx,2026-11-15
+CO,city,Montrose,,0.0388,CO-P-210011,sales,2026-07-01,https://tax.colorado.gov/sites/default/files/2026-10/Colorado_Jurisdiction_Codes_Rates_July-Dec2026.xlsx,2026-11-15
+CO,city,Monument,,0.035,CO-P-040057,sales,2026-07-01,https://tax.colorado.gov/sites/default/files/2026-10/Colorado_Jurisdiction_Codes_Rates_July-Dec2026.xlsx,2026-11-15
+CO,city,Monument,,0.035,CO-P-040103,sales,2026-07-01,https://tax.colorado.gov/sites/default/files/2026-10/Colorado_Jurisdiction_Codes_Rates_July-Dec2026.xlsx,2026-11-15
+CO,city,Monument (city rate in public improvement fee area),,0.025,CO-P-040100,sales,2026-07-01,https://tax.colorado.gov/sites/default/files/2026-10/Colorado_Jurisdiction_Codes_Rates_July-Dec2026.xlsx,2026-11-15
+CO,city,Morrison,,0.0375,CO-P-110071,sales,2026-07-01,https://tax.colorado.gov/sites/default/files/2026-10/Colorado_Jurisdiction_Codes_Rates_July-Dec2026.xlsx,2026-11-15
+CO,city,Mountain View,,0.04,CO-P-110074,sales,2026-07-01,https://tax.colorado.gov/sites/default/files/2026-10/Colorado_Jurisdiction_Codes_Rates_July-Dec2026.xlsx,2026-11-15
+CO,city,Mountain Village,,0.045,CO-P-500010,sales,2026-07-01,https://tax.colorado.gov/sites/default/files/2026-10/Colorado_Jurisdiction_Codes_Rates_July-Dec2026.xlsx,2026-11-15
+CO,city,Mt Crested Butte,,0.05,CO-P-400073,sales,2026-07-01,https://tax.colorado.gov/sites/default/files/2026-10/Colorado_Jurisdiction_Codes_Rates_July-Dec2026.xlsx,2026-11-15
+CO,city,Naturita,,0.04,CO-P-210012,sales,2026-07-01,https://tax.colorado.gov/sites/default/files/2026-10/Colorado_Jurisdiction_Codes_Rates_July-Dec2026.xlsx,2026-11-15
+CO,city,Nederland,,0.0425,CO-P-070049,sales,2026-07-01,https://tax.colorado.gov/sites/default/files/2026-10/Colorado_Jurisdiction_Codes_Rates_July-Dec2026.xlsx,2026-11-15
+CO,city,New Castle,,0.035,CO-P-240031,sales,2026-07-01,https://tax.colorado.gov/sites/default/files/2026-10/Colorado_Jurisdiction_Codes_Rates_July-Dec2026.xlsx,2026-11-15
+CO,city,Northglenn,,0.04,CO-P-120054,sales,2026-07-01,https://tax.colorado.gov/sites/default/files/2026-10/Colorado_Jurisdiction_Codes_Rates_July-Dec2026.xlsx,2026-11-15
 CO,city,Northglenn (Wastewater Treatment Plant),,0.04,CO-P-030153,sales,2026-01-01,https://tax.colorado.gov/sites/tax/files/documents/Colorado_Jurisdiction_Codes_Rates_Jan-June2026_Apr26.xlsx,2026-05-18
-CO,city,Norwood,,0.04,CO-P-500017,sales,2026-01-01,https://tax.colorado.gov/sites/tax/files/documents/Colorado_Jurisdiction_Codes_Rates_Jan-June2026_Apr26.xlsx,2026-05-18
-CO,city,Nucla,,0.0575,CO-P-210013,sales,2026-01-01,https://tax.colorado.gov/sites/tax/files/documents/Colorado_Jurisdiction_Codes_Rates_Jan-June2026_Apr26.xlsx,2026-05-18
+CO,city,Norwood,,0.03,CO-P-500017,sales,2026-07-01,https://tax.colorado.gov/sites/default/files/2026-10/Colorado_Jurisdiction_Codes_Rates_July-Dec2026.xlsx,2026-11-15
+CO,city,Nucla,,0.04,CO-P-210013,sales,2026-07-01,https://tax.colorado.gov/sites/default/files/2026-10/Colorado_Jurisdiction_Codes_Rates_July-Dec2026.xlsx,2026-11-15
 CO,city,Nunn,,0.02,CO-P-030100,sales,2026-01-01,https://tax.colorado.gov/sites/tax/files/documents/Colorado_Jurisdiction_Codes_Rates_Jan-June2026_Apr26.xlsx,2026-05-18
-CO,city,Oak Creek,,0.04,CO-P-280028,sales,2026-01-01,https://tax.colorado.gov/sites/tax/files/documents/Colorado_Jurisdiction_Codes_Rates_Jan-June2026_Apr26.xlsx,2026-05-18
-CO,city,Ohio,,0.01,CO-P-400045,sales,2026-01-01,https://tax.colorado.gov/sites/tax/files/documents/Colorado_Jurisdiction_Codes_Rates_Jan-June2026_Apr26.xlsx,2026-05-18
-CO,city,Olathe,,0.0575,CO-P-210015,sales,2026-01-01,https://tax.colorado.gov/sites/tax/files/documents/Colorado_Jurisdiction_Codes_Rates_Jan-June2026_Apr26.xlsx,2026-05-18
-CO,city,Olney Springs,,0.02,CO-P-360005,sales,2026-01-01,https://tax.colorado.gov/sites/tax/files/documents/Colorado_Jurisdiction_Codes_Rates_Jan-June2026_Apr26.xlsx,2026-05-18
-CO,city,Ophir,,0.03,CO-P-500018,sales,2026-01-01,https://tax.colorado.gov/sites/tax/files/documents/Colorado_Jurisdiction_Codes_Rates_Jan-June2026_Apr26.xlsx,2026-05-18
-CO,city,Orchard City,,0.036,CO-P-180042,sales,2026-01-01,https://tax.colorado.gov/sites/tax/files/documents/Colorado_Jurisdiction_Codes_Rates_Jan-June2026_Apr26.xlsx,2026-05-18
-CO,city,Ordway,,0.04,CO-P-360006,sales,2026-01-01,https://tax.colorado.gov/sites/tax/files/documents/Colorado_Jurisdiction_Codes_Rates_Jan-June2026_Apr26.xlsx,2026-05-18
-CO,city,Otis,,0.035,CO-P-270014,sales,2026-01-01,https://tax.colorado.gov/sites/tax/files/documents/Colorado_Jurisdiction_Codes_Rates_Jan-June2026_Apr26.xlsx,2026-05-18
-CO,city,Ouray,,0.0655,CO-P-560011,sales,2026-01-01,https://tax.colorado.gov/sites/tax/files/documents/Colorado_Jurisdiction_Codes_Rates_Jan-June2026_Apr26.xlsx,2026-05-18
-CO,city,Ovid,,0.04,CO-P-390005,sales,2026-01-01,https://tax.colorado.gov/sites/tax/files/documents/Colorado_Jurisdiction_Codes_Rates_Jan-June2026_Apr26.xlsx,2026-05-18
-CO,city,Pagosa Springs,,0.05,CO-P-480012,sales,2026-01-01,https://tax.colorado.gov/sites/tax/files/documents/Colorado_Jurisdiction_Codes_Rates_Jan-June2026_Apr26.xlsx,2026-05-18
-CO,city,Palisade,,0.0437,CO-P-080027,sales,2026-01-01,https://tax.colorado.gov/sites/tax/files/documents/Colorado_Jurisdiction_Codes_Rates_Jan-June2026_Apr26.xlsx,2026-05-18
-CO,city,Palmer Lake,,0.0423,CO-P-040059,sales,2026-01-01,https://tax.colorado.gov/sites/tax/files/documents/Colorado_Jurisdiction_Codes_Rates_Jan-June2026_Apr26.xlsx,2026-05-18
-CO,city,Palmer Lake (In Pprta),,0.0523,CO-P-040102,sales,2026-01-01,https://tax.colorado.gov/sites/tax/files/documents/Colorado_Jurisdiction_Codes_Rates_Jan-June2026_Apr26.xlsx,2026-05-18
-CO,city,Paoli,,0.01,CO-P-370005,sales,2026-01-01,https://tax.colorado.gov/sites/tax/files/documents/Colorado_Jurisdiction_Codes_Rates_Jan-June2026_Apr26.xlsx,2026-05-18
-CO,city,Paonia,,0.066,CO-P-180024,sales,2026-01-01,https://tax.colorado.gov/sites/tax/files/documents/Colorado_Jurisdiction_Codes_Rates_Jan-June2026_Apr26.xlsx,2026-05-18
-CO,city,Parachute,,0.05,CO-P-240018,sales,2026-01-01,https://tax.colorado.gov/sites/tax/files/documents/Colorado_Jurisdiction_Codes_Rates_Jan-June2026_Apr26.xlsx,2026-05-18
-CO,city,Parker,,0.051,CO-P-470016,sales,2026-01-01,https://tax.colorado.gov/sites/tax/files/documents/Colorado_Jurisdiction_Codes_Rates_Jan-June2026_Apr26.xlsx,2026-05-18
-CO,city,Parker (Cd Only),,0.041,CO-P-470046,sales,2026-01-01,https://tax.colorado.gov/sites/tax/files/documents/Colorado_Jurisdiction_Codes_Rates_Jan-June2026_Apr26.xlsx,2026-05-18
-CO,city,Peetz,,0.01,CO-P-130022,sales,2026-01-01,https://tax.colorado.gov/sites/tax/files/documents/Colorado_Jurisdiction_Codes_Rates_Jan-June2026_Apr26.xlsx,2026-05-18
+CO,city,Oak Creek,,0.03,CO-P-280028,sales,2026-07-01,https://tax.colorado.gov/sites/default/files/2026-10/Colorado_Jurisdiction_Codes_Rates_July-Dec2026.xlsx,2026-11-15
+CO,city,Olathe,,0.04,CO-P-210015,sales,2026-07-01,https://tax.colorado.gov/sites/default/files/2026-10/Colorado_Jurisdiction_Codes_Rates_July-Dec2026.xlsx,2026-11-15
+CO,city,Olney Springs,,0.0,CO-P-360005,sales,2026-07-01,https://tax.colorado.gov/sites/default/files/2026-10/Colorado_Jurisdiction_Codes_Rates_July-Dec2026.xlsx,2026-11-15
+CO,city,Ophir,,0.02,CO-P-500018,sales,2026-07-01,https://tax.colorado.gov/sites/default/files/2026-10/Colorado_Jurisdiction_Codes_Rates_July-Dec2026.xlsx,2026-11-15
+CO,city,Orchard City,,0.0,CO-P-180042,sales,2026-07-01,https://tax.colorado.gov/sites/default/files/2026-10/Colorado_Jurisdiction_Codes_Rates_July-Dec2026.xlsx,2026-11-15
+CO,city,Ordway,,0.02,CO-P-360006,sales,2026-07-01,https://tax.colorado.gov/sites/default/files/2026-10/Colorado_Jurisdiction_Codes_Rates_July-Dec2026.xlsx,2026-11-15
+CO,city,Otis,,0.02,CO-P-270014,sales,2026-07-01,https://tax.colorado.gov/sites/default/files/2026-10/Colorado_Jurisdiction_Codes_Rates_July-Dec2026.xlsx,2026-11-15
+CO,city,Ouray,,0.04,CO-P-560011,sales,2026-07-01,https://tax.colorado.gov/sites/default/files/2026-10/Colorado_Jurisdiction_Codes_Rates_July-Dec2026.xlsx,2026-11-15
+CO,city,Ovid,,0.01,CO-P-390005,sales,2026-07-01,https://tax.colorado.gov/sites/default/files/2026-10/Colorado_Jurisdiction_Codes_Rates_July-Dec2026.xlsx,2026-11-15
+CO,city,Pagosa Springs,,0.01,CO-P-480012,sales,2026-07-01,https://tax.colorado.gov/sites/default/files/2026-10/Colorado_Jurisdiction_Codes_Rates_July-Dec2026.xlsx,2026-11-15
+CO,city,Palisade,,0.02,CO-P-080027,sales,2026-07-01,https://tax.colorado.gov/sites/default/files/2026-10/Colorado_Jurisdiction_Codes_Rates_July-Dec2026.xlsx,2026-11-15
+CO,city,Palmer Lake,,0.03,CO-P-040059,sales,2026-07-01,https://tax.colorado.gov/sites/default/files/2026-10/Colorado_Jurisdiction_Codes_Rates_July-Dec2026.xlsx,2026-11-15
+CO,city,Palmer Lake,,0.03,CO-P-040102,sales,2026-07-01,https://tax.colorado.gov/sites/default/files/2026-10/Colorado_Jurisdiction_Codes_Rates_July-Dec2026.xlsx,2026-11-15
+CO,city,Paoli,,0.0,CO-P-370005,sales,2026-07-01,https://tax.colorado.gov/sites/default/files/2026-10/Colorado_Jurisdiction_Codes_Rates_July-Dec2026.xlsx,2026-11-15
+CO,city,Paonia,,0.03,CO-P-180024,sales,2026-07-01,https://tax.colorado.gov/sites/default/files/2026-10/Colorado_Jurisdiction_Codes_Rates_July-Dec2026.xlsx,2026-11-15
+CO,city,Parachute,,0.0375,CO-P-240018,sales,2026-07-01,https://tax.colorado.gov/sites/default/files/2026-10/Colorado_Jurisdiction_Codes_Rates_July-Dec2026.xlsx,2026-11-15
+CO,city,Parker,,0.03,CO-P-470016,sales,2026-07-01,https://tax.colorado.gov/sites/default/files/2026-10/Colorado_Jurisdiction_Codes_Rates_July-Dec2026.xlsx,2026-11-15
+CO,city,Parker,,0.03,CO-P-470046,sales,2026-07-01,https://tax.colorado.gov/sites/default/files/2026-10/Colorado_Jurisdiction_Codes_Rates_July-Dec2026.xlsx,2026-11-15
+CO,city,Peetz,,0.0,CO-P-130022,sales,2026-07-01,https://tax.colorado.gov/sites/default/files/2026-10/Colorado_Jurisdiction_Codes_Rates_July-Dec2026.xlsx,2026-11-15
 CO,city,Pierce,,0.02,CO-P-030106,sales,2026-01-01,https://tax.colorado.gov/sites/tax/files/documents/Colorado_Jurisdiction_Codes_Rates_Jan-June2026_Apr26.xlsx,2026-05-18
-CO,city,Pitkin,,0.04,CO-P-400049,sales,2026-01-01,https://tax.colorado.gov/sites/tax/files/documents/Colorado_Jurisdiction_Codes_Rates_Jan-June2026_Apr26.xlsx,2026-05-18
+CO,city,Pitkin,,0.03,CO-P-400049,sales,2026-07-01,https://tax.colorado.gov/sites/default/files/2026-10/Colorado_Jurisdiction_Codes_Rates_July-Dec2026.xlsx,2026-11-15
 CO,city,Platteville,,0.03,CO-P-030107,sales,2026-01-01,https://tax.colorado.gov/sites/tax/files/documents/Colorado_Jurisdiction_Codes_Rates_Jan-June2026_Apr26.xlsx,2026-05-18
-CO,city,Poncha Springs,,0.0475,CO-P-310027,sales,2026-01-01,https://tax.colorado.gov/sites/tax/files/documents/Colorado_Jurisdiction_Codes_Rates_Jan-June2026_Apr26.xlsx,2026-05-18
+CO,city,Poncha Springs,,0.02,CO-P-310027,sales,2026-07-01,https://tax.colorado.gov/sites/default/files/2026-10/Colorado_Jurisdiction_Codes_Rates_July-Dec2026.xlsx,2026-11-15
 CO,city,Pritchett,,0.0,CO-P-220018,sales,2026-01-01,https://tax.colorado.gov/sites/tax/files/documents/Colorado_Jurisdiction_Codes_Rates_Jan-June2026_Apr26.xlsx,2026-05-18
-CO,city,Prospect Valley (Mail Via Keenesburg),,0.0,CO-P-030111,sales,2026-01-01,https://tax.colorado.gov/sites/tax/files/documents/Colorado_Jurisdiction_Codes_Rates_Jan-June2026_Apr26.xlsx,2026-05-18
-CO,city,Pueblo,,0.047,CO-P-020043,sales,2026-01-01,https://tax.colorado.gov/sites/tax/files/documents/Colorado_Jurisdiction_Codes_Rates_Jan-June2026_Apr26.xlsx,2026-05-18
-CO,city,Pueblo West,,0.03,CO-P-020069,sales,2026-01-01,https://tax.colorado.gov/sites/tax/files/documents/Colorado_Jurisdiction_Codes_Rates_Jan-June2026_Apr26.xlsx,2026-05-18
-CO,city,Purgatory,,0.055,CO-P-200024,sales,2026-01-01,https://tax.colorado.gov/sites/tax/files/documents/Colorado_Jurisdiction_Codes_Rates_Jan-June2026_Apr26.xlsx,2026-05-18
-CO,city,Ramah,,0.0423,CO-P-040064,sales,2026-01-01,https://tax.colorado.gov/sites/tax/files/documents/Colorado_Jurisdiction_Codes_Rates_Jan-June2026_Apr26.xlsx,2026-05-18
-CO,city,Rangely,,0.036,CO-P-490006,sales,2026-01-01,https://tax.colorado.gov/sites/tax/files/documents/Colorado_Jurisdiction_Codes_Rates_Jan-June2026_Apr26.xlsx,2026-05-18
-CO,city,Raymer,,0.0,CO-P-030099,sales,2026-01-01,https://tax.colorado.gov/sites/tax/files/documents/Colorado_Jurisdiction_Codes_Rates_Jan-June2026_Apr26.xlsx,2026-05-18
-CO,city,Red Cliff,,0.0579,CO-P-440038,sales,2026-01-01,https://tax.colorado.gov/sites/tax/files/documents/Colorado_Jurisdiction_Codes_Rates_Jan-June2026_Apr26.xlsx,2026-05-18
-CO,city,Red Sky Ranch Metropolitan District,,0.0829,CO-P-440067,sales,2026-01-01,https://tax.colorado.gov/sites/tax/files/documents/Colorado_Jurisdiction_Codes_Rates_Jan-June2026_Apr26.xlsx,2026-05-18
-CO,city,Rico,,0.0607,CO-P-580010,sales,2026-01-01,https://tax.colorado.gov/sites/tax/files/documents/Colorado_Jurisdiction_Codes_Rates_Jan-June2026_Apr26.xlsx,2026-05-18
-CO,city,Ridgway,,0.0615,CO-P-560017,sales,2026-01-01,https://tax.colorado.gov/sites/tax/files/documents/Colorado_Jurisdiction_Codes_Rates_Jan-June2026_Apr26.xlsx,2026-05-18
-CO,city,Rifle,,0.055,CO-P-240035,sales,2026-01-01,https://tax.colorado.gov/sites/tax/files/documents/Colorado_Jurisdiction_Codes_Rates_Jan-June2026_Apr26.xlsx,2026-05-18
-CO,city,Rockvale,,0.025,CO-P-140039,sales,2026-01-01,https://tax.colorado.gov/sites/tax/files/documents/Colorado_Jurisdiction_Codes_Rates_Jan-June2026_Apr26.xlsx,2026-05-18
-CO,city,Rocky Ford,,0.05,CO-P-090027,sales,2026-01-01,https://tax.colorado.gov/sites/tax/files/documents/Colorado_Jurisdiction_Codes_Rates_Jan-June2026_Apr26.xlsx,2026-05-18
-CO,city,Romeo,,0.059,CO-P-250021,sales,2026-01-01,https://tax.colorado.gov/sites/tax/files/documents/Colorado_Jurisdiction_Codes_Rates_Jan-June2026_Apr26.xlsx,2026-05-18
-CO,city,Rye,,0.01,CO-P-020046,sales,2026-01-01,https://tax.colorado.gov/sites/tax/files/documents/Colorado_Jurisdiction_Codes_Rates_Jan-June2026_Apr26.xlsx,2026-05-18
-CO,city,Saguache,,0.065,CO-P-350022,sales,2026-01-01,https://tax.colorado.gov/sites/tax/files/documents/Colorado_Jurisdiction_Codes_Rates_Jan-June2026_Apr26.xlsx,2026-05-18
-CO,city,Salida,,0.0575,CO-P-310031,sales,2026-01-01,https://tax.colorado.gov/sites/tax/files/documents/Colorado_Jurisdiction_Codes_Rates_Jan-June2026_Apr26.xlsx,2026-05-18
-CO,city,San Luis,,0.06,CO-P-380019,sales,2026-01-01,https://tax.colorado.gov/sites/tax/files/documents/Colorado_Jurisdiction_Codes_Rates_July-Dec2026.xlsx,2026-07-21
-CO,city,Sanford,,0.04,CO-P-250023,sales,2026-01-01,https://tax.colorado.gov/sites/tax/files/documents/Colorado_Jurisdiction_Codes_Rates_July-Dec2026.xlsx,2026-07-21
-CO,city,Sawpit (Mail Via Placerville),,0.04,CO-P-500030,sales,2026-01-01,https://tax.colorado.gov/sites/tax/files/documents/Colorado_Jurisdiction_Codes_Rates_Jan-June2026_Apr26.xlsx,2026-05-18
-CO,city,Sedalia,,0.011,CO-P-470017,sales,2026-01-01,https://tax.colorado.gov/sites/tax/files/documents/Colorado_Jurisdiction_Codes_Rates_Jan-June2026_Apr26.xlsx,2026-05-18
-CO,city,Sedgwick,,0.04,CO-P-390006,sales,2026-01-01,https://tax.colorado.gov/sites/tax/files/documents/Colorado_Jurisdiction_Codes_Rates_Jan-June2026_Apr26.xlsx,2026-05-18
+CO,city,Pueblo,,0.037,CO-P-020043,sales,2026-07-01,https://tax.colorado.gov/sites/default/files/2026-10/Colorado_Jurisdiction_Codes_Rates_July-Dec2026.xlsx,2026-11-15
+CO,city,Ramah,,0.02,CO-P-040064,sales,2026-07-01,https://tax.colorado.gov/sites/default/files/2026-10/Colorado_Jurisdiction_Codes_Rates_July-Dec2026.xlsx,2026-11-15
+CO,city,Rangely,,0.0,CO-P-490006,sales,2026-07-01,https://tax.colorado.gov/sites/default/files/2026-10/Colorado_Jurisdiction_Codes_Rates_July-Dec2026.xlsx,2026-11-15
+CO,city,Red Cliff,,0.03,CO-P-440038,sales,2026-07-01,https://tax.colorado.gov/sites/default/files/2026-10/Colorado_Jurisdiction_Codes_Rates_July-Dec2026.xlsx,2026-11-15
+CO,city,Rico,,0.05,CO-P-580010,sales,2026-07-01,https://tax.colorado.gov/sites/default/files/2026-10/Colorado_Jurisdiction_Codes_Rates_July-Dec2026.xlsx,2026-11-15
+CO,city,Ridgway,,0.036,CO-P-560017,sales,2026-07-01,https://tax.colorado.gov/sites/default/files/2026-10/Colorado_Jurisdiction_Codes_Rates_July-Dec2026.xlsx,2026-11-15
+CO,city,Rifle,,0.0425,CO-P-240035,sales,2026-07-01,https://tax.colorado.gov/sites/default/files/2026-10/Colorado_Jurisdiction_Codes_Rates_July-Dec2026.xlsx,2026-11-15
+CO,city,Rockvale,,0.0,CO-P-140039,sales,2026-07-01,https://tax.colorado.gov/sites/default/files/2026-10/Colorado_Jurisdiction_Codes_Rates_July-Dec2026.xlsx,2026-11-15
+CO,city,Rocky Ford,,0.04,CO-P-090027,sales,2026-07-01,https://tax.colorado.gov/sites/default/files/2026-10/Colorado_Jurisdiction_Codes_Rates_July-Dec2026.xlsx,2026-11-15
+CO,city,Romeo,,0.039,CO-P-250021,sales,2026-07-01,https://tax.colorado.gov/sites/default/files/2026-10/Colorado_Jurisdiction_Codes_Rates_July-Dec2026.xlsx,2026-11-15
+CO,city,Rye,,0.0,CO-P-020046,sales,2026-07-01,https://tax.colorado.gov/sites/default/files/2026-10/Colorado_Jurisdiction_Codes_Rates_July-Dec2026.xlsx,2026-11-15
+CO,city,Saguache,,0.04,CO-P-350022,sales,2026-07-01,https://tax.colorado.gov/sites/default/files/2026-10/Colorado_Jurisdiction_Codes_Rates_July-Dec2026.xlsx,2026-11-15
+CO,city,Salida,,0.03,CO-P-310031,sales,2026-07-01,https://tax.colorado.gov/sites/default/files/2026-10/Colorado_Jurisdiction_Codes_Rates_July-Dec2026.xlsx,2026-11-15
+CO,city,San Luis,,0.04,CO-P-380019,sales,2026-07-01,https://tax.colorado.gov/sites/default/files/2026-10/Colorado_Jurisdiction_Codes_Rates_July-Dec2026.xlsx,2026-11-15
+CO,city,Sanford,,0.02,CO-P-250023,sales,2026-07-01,https://tax.colorado.gov/sites/default/files/2026-10/Colorado_Jurisdiction_Codes_Rates_July-Dec2026.xlsx,2026-11-15
+CO,city,Sawpit,,0.03,CO-P-500030,sales,2026-07-01,https://tax.colorado.gov/sites/default/files/2026-10/Colorado_Jurisdiction_Codes_Rates_July-Dec2026.xlsx,2026-11-15
+CO,city,Sedgwick,,0.01,CO-P-390006,sales,2026-07-01,https://tax.colorado.gov/sites/default/files/2026-10/Colorado_Jurisdiction_Codes_Rates_July-Dec2026.xlsx,2026-11-15
 CO,city,Seibert,,0.02,CO-P-260008,sales,2026-01-01,https://tax.colorado.gov/sites/tax/files/documents/Colorado_Jurisdiction_Codes_Rates_Jan-June2026_Apr26.xlsx,2026-05-18
 CO,city,Severance,,0.03,CO-P-030112,sales,2026-01-01,https://tax.colorado.gov/sites/tax/files/documents/Colorado_Jurisdiction_Codes_Rates_Jan-June2026_Apr26.xlsx,2026-05-18
-CO,city,Sheridan,,0.0485,CO-P-100020,sales,2026-01-01,https://tax.colorado.gov/sites/tax/files/documents/Colorado_Jurisdiction_Codes_Rates_Jan-June2026_Apr26.xlsx,2026-05-18
+CO,city,Sheridan,,0.035,CO-P-100020,sales,2026-07-01,https://tax.colorado.gov/sites/default/files/2026-10/Colorado_Jurisdiction_Codes_Rates_July-Dec2026.xlsx,2026-11-15
 CO,city,Sheridan Lake,,0.0,CO-P-450014,sales,2026-01-01,https://tax.colorado.gov/sites/tax/files/documents/Colorado_Jurisdiction_Codes_Rates_Jan-June2026_Apr26.xlsx,2026-05-18
-CO,city,Silt,,0.0425,CO-P-240042,sales,2026-01-01,https://tax.colorado.gov/sites/tax/files/documents/Colorado_Jurisdiction_Codes_Rates_Jan-June2026_Apr26.xlsx,2026-05-18
-CO,city,Silver Cliff,,0.05,CO-P-520008,sales,2026-01-01,https://tax.colorado.gov/sites/tax/files/documents/Colorado_Jurisdiction_Codes_Rates_Jan-June2026_Apr26.xlsx,2026-05-18
-CO,city,Silver Plume,,0.0565,CO-P-510015,sales,2026-01-01,https://tax.colorado.gov/sites/tax/files/documents/Colorado_Jurisdiction_Codes_Rates_Jan-June2026_Apr26.xlsx,2026-05-18
-CO,city,Silverthorne,,0.05475,CO-P-610017,sales,2026-01-01,https://tax.colorado.gov/sites/tax/files/documents/Colorado_Jurisdiction_Codes_Rates_Jan-June2026_Apr26.xlsx,2026-05-18
-CO,city,Silverthorne Unincorporated-Summit (Bmmd),,0.07475,CO-P-610025,sales,2026-01-01,https://tax.colorado.gov/sites/tax/files/documents/Colorado_Jurisdiction_Codes_Rates_Jan-June2026_Apr26.xlsx,2026-05-18
-CO,city,Silverton,,0.075,CO-P-550018,sales,2026-01-01,https://tax.colorado.gov/sites/tax/files/documents/Colorado_Jurisdiction_Codes_Rates_Jan-June2026_Apr26.xlsx,2026-05-18
-CO,city,Simla,,0.05,CO-P-340014,sales,2026-01-01,https://tax.colorado.gov/sites/tax/files/documents/Colorado_Jurisdiction_Codes_Rates_Jan-June2026_Apr26.xlsx,2026-05-18
-CO,city,Snowmass Village (Mail Via Aspen),,0.0775,CO-P-570019,sales,2026-01-01,https://tax.colorado.gov/sites/tax/files/documents/Colorado_Jurisdiction_Codes_Rates_Jan-June2026_Apr26.xlsx,2026-05-18
-CO,city,Somerset,,0.01,CO-P-400056,sales,2026-01-01,https://tax.colorado.gov/sites/tax/files/documents/Colorado_Jurisdiction_Codes_Rates_Jan-June2026_Apr26.xlsx,2026-05-18
-CO,city,South Fork,,0.066,CO-P-230023,sales,2026-01-01,https://tax.colorado.gov/sites/tax/files/documents/Colorado_Jurisdiction_Codes_Rates_Jan-June2026_Apr26.xlsx,2026-05-18
+CO,city,Silt,,0.03,CO-P-240042,sales,2026-07-01,https://tax.colorado.gov/sites/default/files/2026-10/Colorado_Jurisdiction_Codes_Rates_July-Dec2026.xlsx,2026-11-15
+CO,city,Silver Cliff,,0.03,CO-P-520008,sales,2026-07-01,https://tax.colorado.gov/sites/default/files/2026-10/Colorado_Jurisdiction_Codes_Rates_July-Dec2026.xlsx,2026-11-15
+CO,city,Silver Plume,,0.03,CO-P-510015,sales,2026-07-01,https://tax.colorado.gov/sites/default/files/2026-10/Colorado_Jurisdiction_Codes_Rates_July-Dec2026.xlsx,2026-11-15
+CO,city,Silverthorne,,0.02,CO-P-610017,sales,2026-07-01,https://tax.colorado.gov/sites/default/files/2026-10/Colorado_Jurisdiction_Codes_Rates_July-Dec2026.xlsx,2026-11-15
+CO,city,Silverton,,0.01,CO-P-550018,sales,2026-07-01,https://tax.colorado.gov/sites/default/files/2026-10/Colorado_Jurisdiction_Codes_Rates_July-Dec2026.xlsx,2026-11-15
+CO,city,Simla,,0.04,CO-P-340014,sales,2026-07-01,https://tax.colorado.gov/sites/default/files/2026-10/Colorado_Jurisdiction_Codes_Rates_July-Dec2026.xlsx,2026-11-15
+CO,city,Snowmass Village,,0.035,CO-P-570019,sales,2026-07-01,https://tax.colorado.gov/sites/default/files/2026-10/Colorado_Jurisdiction_Codes_Rates_July-Dec2026.xlsx,2026-11-15
+CO,city,South Fork,,0.04,CO-P-230023,sales,2026-07-01,https://tax.colorado.gov/sites/default/files/2026-10/Colorado_Jurisdiction_Codes_Rates_July-Dec2026.xlsx,2026-11-15
 CO,city,Springfield,,0.02,CO-P-220022,sales,2026-01-01,https://tax.colorado.gov/sites/tax/files/documents/Colorado_Jurisdiction_Codes_Rates_Jan-June2026_Apr26.xlsx,2026-05-18
-CO,city,Starkville,,0.015,CO-P-050089,sales,2026-01-01,https://tax.colorado.gov/sites/tax/files/documents/Colorado_Jurisdiction_Codes_Rates_Jan-June2026_Apr26.xlsx,2026-05-18
-CO,city,Steamboat Springs,,0.055,CO-P-280049,sales,2026-01-01,https://tax.colorado.gov/sites/tax/files/documents/Colorado_Jurisdiction_Codes_Rates_Jan-June2026_Apr26.xlsx,2026-05-18
-CO,city,Steamboat Springs (Local Marketing Dist),,0.055,CO-P-280041,sales,2026-01-01,https://tax.colorado.gov/sites/tax/files/documents/Colorado_Jurisdiction_Codes_Rates_Jan-June2026_Apr26.xlsx,2026-05-18
-CO,city,Sterling,,0.041,CO-P-130029,sales,2026-01-01,https://tax.colorado.gov/sites/tax/files/documents/Colorado_Jurisdiction_Codes_Rates_Jan-June2026_Apr26.xlsx,2026-05-18
+CO,city,Starkville,,0.0,CO-P-050089,sales,2026-07-01,https://tax.colorado.gov/sites/default/files/2026-10/Colorado_Jurisdiction_Codes_Rates_July-Dec2026.xlsx,2026-11-15
+CO,city,Steamboat Springs,,0.045,CO-P-280049,sales,2026-07-01,https://tax.colorado.gov/sites/default/files/2026-10/Colorado_Jurisdiction_Codes_Rates_July-Dec2026.xlsx,2026-11-15
+CO,city,Steamboat Springs (Local Marketing Dist),,0.045,CO-P-280041,sales,2026-07-01,https://tax.colorado.gov/sites/default/files/2026-10/Colorado_Jurisdiction_Codes_Rates_July-Dec2026.xlsx,2026-11-15
+CO,city,Sterling,,0.03,CO-P-130029,sales,2026-07-01,https://tax.colorado.gov/sites/default/files/2026-10/Colorado_Jurisdiction_Codes_Rates_July-Dec2026.xlsx,2026-11-15
 CO,city,Stratton,,0.02,CO-P-260009,sales,2026-01-01,https://tax.colorado.gov/sites/tax/files/documents/Colorado_Jurisdiction_Codes_Rates_Jan-June2026_Apr26.xlsx,2026-05-18
-CO,city,Sugar City,,0.02,CO-P-360008,sales,2026-01-01,https://tax.colorado.gov/sites/tax/files/documents/Colorado_Jurisdiction_Codes_Rates_Jan-June2026_Apr26.xlsx,2026-05-18
-CO,city,Superior (Mail Via Louisville),,0.06215,CO-P-070067,sales,2026-01-01,https://tax.colorado.gov/sites/tax/files/documents/Colorado_Jurisdiction_Codes_Rates_Jan-June2026_Apr26.xlsx,2026-05-18
-CO,city,Superior (Mail Via Louisville),,0.05375,CO-P-110143,sales,2026-07-01,https://tax.colorado.gov/sites/default/files/2026-10/Colorado_Jurisdiction_Codes_Rates_July-Dec2026.xlsx,2026-10-27
-CO,city,Swink,,0.01,CO-P-090029,sales,2026-01-01,https://tax.colorado.gov/sites/tax/files/documents/Colorado_Jurisdiction_Codes_Rates_Jan-June2026_Apr26.xlsx,2026-05-18
-CO,city,Telluride,,0.0657,CO-P-500027,sales,2026-01-01,https://tax.colorado.gov/sites/tax/files/documents/Colorado_Jurisdiction_Codes_Rates_Jan-June2026_Apr26.xlsx,2026-05-18
-CO,city,Thornton,,0.056,CO-P-120044,sales,2026-01-01,https://tax.colorado.gov/sites/tax/files/documents/Colorado_Jurisdiction_Codes_Rates_Jan-June2026_Apr26.xlsx,2026-05-18
+CO,city,Sugar City,,0.0,CO-P-360008,sales,2026-07-01,https://tax.colorado.gov/sites/default/files/2026-10/Colorado_Jurisdiction_Codes_Rates_July-Dec2026.xlsx,2026-11-15
+CO,city,Superior,,0.03775,CO-P-070067,sales,2026-07-01,https://tax.colorado.gov/sites/default/files/2026-10/Colorado_Jurisdiction_Codes_Rates_July-Dec2026.xlsx,2026-11-15
+CO,city,Superior,,0.03775,CO-P-110143,sales,2026-07-01,https://tax.colorado.gov/sites/default/files/2026-10/Colorado_Jurisdiction_Codes_Rates_July-Dec2026.xlsx,2026-11-15
+CO,city,Swink,,0.0,CO-P-090029,sales,2026-07-01,https://tax.colorado.gov/sites/default/files/2026-10/Colorado_Jurisdiction_Codes_Rates_July-Dec2026.xlsx,2026-11-15
+CO,city,Telluride,,0.045,CO-P-500027,sales,2026-07-01,https://tax.colorado.gov/sites/default/files/2026-10/Colorado_Jurisdiction_Codes_Rates_July-Dec2026.xlsx,2026-11-15
+CO,city,Thornton,,0.0375,CO-P-120044,sales,2026-07-01,https://tax.colorado.gov/sites/default/files/2026-10/Colorado_Jurisdiction_Codes_Rates_July-Dec2026.xlsx,2026-11-15
 CO,city,Timnath,,0.0425,CO-P-030158,sales,2026-01-01,https://tax.colorado.gov/sites/tax/files/documents/Colorado_Jurisdiction_Codes_Rates_Jan-June2026_Apr26.xlsx,2026-05-18
-CO,city,Timnath,,0.053,CO-P-060077,sales,2026-07-01,https://tax.colorado.gov/sites/tax/files/documents/Colorado_Jurisdiction_Codes_Rates_July-Dec2026.xlsx,2026-09-21
-CO,city,Trinidad,,0.055,CO-P-050102,sales,2026-01-01,https://tax.colorado.gov/sites/tax/files/documents/Colorado_Jurisdiction_Codes_Rates_Jan-June2026_Apr26.xlsx,2026-05-18
+CO,city,Timnath,,0.0425,CO-P-060077,sales,2026-07-01,https://tax.colorado.gov/sites/default/files/2026-10/Colorado_Jurisdiction_Codes_Rates_July-Dec2026.xlsx,2026-11-15
+CO,city,Trinidad,,0.04,CO-P-050102,sales,2026-07-01,https://tax.colorado.gov/sites/default/files/2026-10/Colorado_Jurisdiction_Codes_Rates_July-Dec2026.xlsx,2026-11-15
 CO,city,Two Buttes,,0.0,CO-P-220024,sales,2026-01-01,https://tax.colorado.gov/sites/tax/files/documents/Colorado_Jurisdiction_Codes_Rates_Jan-June2026_Apr26.xlsx,2026-05-18
-CO,city,Unincorporated,,0.01,CO-P-020206,sales,2026-01-01,https://tax.colorado.gov/sites/tax/files/documents/Colorado_Jurisdiction_Codes_Rates_Jan-June2026_Apr26.xlsx,2026-05-18
-CO,city,Unincorporated,,0.0,CO-P-030206,sales,2026-01-01,https://tax.colorado.gov/sites/tax/files/documents/Colorado_Jurisdiction_Codes_Rates_Jan-June2026_Apr26.xlsx,2026-05-18
-CO,city,Unincorporated,,0.0223,CO-P-040206,sales,2026-01-01,https://tax.colorado.gov/sites/tax/files/documents/Colorado_Jurisdiction_Codes_Rates_Jan-June2026_Apr26.xlsx,2026-05-18
-CO,city,Unincorporated,,0.015,CO-P-050206,sales,2026-01-01,https://tax.colorado.gov/sites/tax/files/documents/Colorado_Jurisdiction_Codes_Rates_Jan-June2026_Apr26.xlsx,2026-05-18
-CO,city,Unincorporated,,0.0105,CO-P-060206,sales,2026-01-01,https://tax.colorado.gov/sites/tax/files/documents/Colorado_Jurisdiction_Codes_Rates_Jan-June2026_Apr26.xlsx,2026-05-18
-CO,city,Unincorporated,,0.02435,CO-P-070206,sales,2026-01-01,https://tax.colorado.gov/sites/tax/files/documents/Colorado_Jurisdiction_Codes_Rates_Jan-June2026_Apr26.xlsx,2026-05-18
-CO,city,Unincorporated,,0.0237,CO-P-080206,sales,2026-01-01,https://tax.colorado.gov/sites/tax/files/documents/Colorado_Jurisdiction_Codes_Rates_Jan-June2026_Apr26.xlsx,2026-05-18
-CO,city,Unincorporated,,0.01,CO-P-090206,sales,2026-01-01,https://tax.colorado.gov/sites/tax/files/documents/Colorado_Jurisdiction_Codes_Rates_Jan-June2026_Apr26.xlsx,2026-05-18
-CO,city,Unincorporated,,0.0135,CO-P-100206,sales,2026-01-01,https://tax.colorado.gov/sites/tax/files/documents/Colorado_Jurisdiction_Codes_Rates_Jan-June2026_Apr26.xlsx,2026-05-18
-CO,city,Unincorporated,,0.016,CO-P-110206,sales,2026-01-01,https://tax.colorado.gov/sites/tax/files/documents/Colorado_Jurisdiction_Codes_Rates_Jan-June2026_Apr26.xlsx,2026-05-18
-CO,city,Unincorporated,,0.0185,CO-P-120206,sales,2026-01-01,https://tax.colorado.gov/sites/tax/files/documents/Colorado_Jurisdiction_Codes_Rates_Jan-June2026_Apr26.xlsx,2026-05-18
-CO,city,Unincorporated,,0.01,CO-P-130206,sales,2026-01-01,https://tax.colorado.gov/sites/tax/files/documents/Colorado_Jurisdiction_Codes_Rates_Jan-June2026_Apr26.xlsx,2026-05-18
-CO,city,Unincorporated,,0.025,CO-P-140206,sales,2026-01-01,https://tax.colorado.gov/sites/tax/files/documents/Colorado_Jurisdiction_Codes_Rates_Jan-June2026_Apr26.xlsx,2026-05-18
-CO,city,Unincorporated,,0.0,CO-P-150206,sales,2026-01-01,https://tax.colorado.gov/sites/tax/files/documents/Colorado_Jurisdiction_Codes_Rates_Jan-June2026_Apr26.xlsx,2026-05-18
-CO,city,Unincorporated,,0.03,CO-P-160206,sales,2026-01-01,https://tax.colorado.gov/sites/tax/files/documents/Colorado_Jurisdiction_Codes_Rates_Jan-June2026_Apr26.xlsx,2026-05-18
-CO,city,Unincorporated,,0.01,CO-P-170206,sales,2026-01-01,https://tax.colorado.gov/sites/tax/files/documents/Colorado_Jurisdiction_Codes_Rates_Jan-June2026_Apr26.xlsx,2026-05-18
-CO,city,Unincorporated,,0.036,CO-P-180206,sales,2026-01-01,https://tax.colorado.gov/sites/tax/files/documents/Colorado_Jurisdiction_Codes_Rates_Jan-June2026_Apr26.xlsx,2026-05-18
-CO,city,Unincorporated,,0.0,CO-P-190206,sales,2026-01-01,https://tax.colorado.gov/sites/tax/files/documents/Colorado_Jurisdiction_Codes_Rates_Jan-June2026_Apr26.xlsx,2026-05-18
-CO,city,Unincorporated,,0.03,CO-P-200206,sales,2026-01-01,https://tax.colorado.gov/sites/tax/files/documents/Colorado_Jurisdiction_Codes_Rates_Jan-June2026_Apr26.xlsx,2026-05-18
-CO,city,Unincorporated,,0.0175,CO-P-210206,sales,2026-01-01,https://tax.colorado.gov/sites/tax/files/documents/Colorado_Jurisdiction_Codes_Rates_Jan-June2026_Apr26.xlsx,2026-05-18
-CO,city,Unincorporated,,0.0,CO-P-220206,sales,2026-01-01,https://tax.colorado.gov/sites/tax/files/documents/Colorado_Jurisdiction_Codes_Rates_Jan-June2026_Apr26.xlsx,2026-05-18
-CO,city,Unincorporated,,0.026,CO-P-230206,sales,2026-01-01,https://tax.colorado.gov/sites/tax/files/documents/Colorado_Jurisdiction_Codes_Rates_Jan-June2026_Apr26.xlsx,2026-05-18
-CO,city,Unincorporated,,0.0125,CO-P-240206,sales,2026-01-01,https://tax.colorado.gov/sites/tax/files/documents/Colorado_Jurisdiction_Codes_Rates_Jan-June2026_Apr26.xlsx,2026-05-18
-CO,city,Unincorporated,,0.02,CO-P-250206,sales,2026-01-01,https://tax.colorado.gov/sites/tax/files/documents/Colorado_Jurisdiction_Codes_Rates_Jan-June2026_Apr26.xlsx,2026-05-18
-CO,city,Unincorporated,,0.0,CO-P-260206,sales,2026-01-01,https://tax.colorado.gov/sites/tax/files/documents/Colorado_Jurisdiction_Codes_Rates_Jan-June2026_Apr26.xlsx,2026-05-18
-CO,city,Unincorporated,,0.015,CO-P-270206,sales,2026-01-01,https://tax.colorado.gov/sites/tax/files/documents/Colorado_Jurisdiction_Codes_Rates_Jan-June2026_Apr26.xlsx,2026-05-18
-CO,city,Unincorporated,,0.01,CO-P-280206,sales,2026-01-01,https://tax.colorado.gov/sites/tax/files/documents/Colorado_Jurisdiction_Codes_Rates_Jan-June2026_Apr26.xlsx,2026-05-18
-CO,city,Unincorporated,,0.01,CO-P-290206,sales,2026-01-01,https://tax.colorado.gov/sites/tax/files/documents/Colorado_Jurisdiction_Codes_Rates_Jan-June2026_Apr26.xlsx,2026-05-18
-CO,city,Unincorporated,,0.03,CO-P-300206,sales,2026-01-01,https://tax.colorado.gov/sites/tax/files/documents/Colorado_Jurisdiction_Codes_Rates_Jan-June2026_Apr26.xlsx,2026-05-18
-CO,city,Unincorporated,,0.0275,CO-P-310206,sales,2026-01-01,https://tax.colorado.gov/sites/tax/files/documents/Colorado_Jurisdiction_Codes_Rates_Jan-June2026_Apr26.xlsx,2026-05-18
-CO,city,Unincorporated,,0.02,CO-P-330206,sales,2026-01-01,https://tax.colorado.gov/sites/tax/files/documents/Colorado_Jurisdiction_Codes_Rates_Jan-June2026_Apr26.xlsx,2026-05-18
-CO,city,Unincorporated,,0.01,CO-P-340206,sales,2026-01-01,https://tax.colorado.gov/sites/tax/files/documents/Colorado_Jurisdiction_Codes_Rates_Jan-June2026_Apr26.xlsx,2026-05-18
-CO,city,Unincorporated,,0.025,CO-P-350206,sales,2026-01-01,https://tax.colorado.gov/sites/tax/files/documents/Colorado_Jurisdiction_Codes_Rates_Jan-June2026_Apr26.xlsx,2026-05-18
-CO,city,Unincorporated,,0.02,CO-P-360206,sales,2026-01-01,https://tax.colorado.gov/sites/tax/files/documents/Colorado_Jurisdiction_Codes_Rates_Jan-June2026_Apr26.xlsx,2026-05-18
-CO,city,Unincorporated,,0.01,CO-P-370206,sales,2026-01-01,https://tax.colorado.gov/sites/tax/files/documents/Colorado_Jurisdiction_Codes_Rates_Jan-June2026_Apr26.xlsx,2026-05-18
-CO,city,Unincorporated,,0.02,CO-P-380206,sales,2026-01-01,https://tax.colorado.gov/sites/tax/files/documents/Colorado_Jurisdiction_Codes_Rates_Jan-June2026_Apr26.xlsx,2026-05-18
-CO,city,Unincorporated,,0.03,CO-P-390206,sales,2026-01-01,https://tax.colorado.gov/sites/tax/files/documents/Colorado_Jurisdiction_Codes_Rates_Jan-June2026_Apr26.xlsx,2026-05-18
-CO,city,Unincorporated,,0.02,CO-P-400206,sales,2026-01-01,https://tax.colorado.gov/sites/tax/files/documents/Colorado_Jurisdiction_Codes_Rates_Jan-June2026_Apr26.xlsx,2026-05-18
-CO,city,Unincorporated,,0.025,CO-P-400209,sales,2026-07-01,https://tax.colorado.gov/sites/default/files/2026-10/Colorado_Jurisdiction_Codes_Rates_July-Dec2026.xlsx,2026-10-27
-CO,city,Unincorporated,,0.04,CO-P-410206,sales,2026-01-01,https://tax.colorado.gov/sites/tax/files/documents/Colorado_Jurisdiction_Codes_Rates_Jan-June2026_Apr26.xlsx,2026-05-18
-CO,city,Unincorporated,,0.02,CO-P-420206,sales,2026-01-01,https://tax.colorado.gov/sites/tax/files/documents/Colorado_Jurisdiction_Codes_Rates_Jan-June2026_Apr26.xlsx,2026-05-18
-CO,city,Unincorporated,,0.01,CO-P-430206,sales,2026-01-01,https://tax.colorado.gov/sites/tax/files/documents/Colorado_Jurisdiction_Codes_Rates_Jan-June2026_Apr26.xlsx,2026-05-18
-CO,city,Unincorporated,,0.02,CO-P-440206,sales,2026-01-01,https://tax.colorado.gov/sites/tax/files/documents/Colorado_Jurisdiction_Codes_Rates_Jan-June2026_Apr26.xlsx,2026-05-18
-CO,city,Unincorporated,,0.0,CO-P-450206,sales,2026-01-01,https://tax.colorado.gov/sites/tax/files/documents/Colorado_Jurisdiction_Codes_Rates_Jan-June2026_Apr26.xlsx,2026-05-18
-CO,city,Unincorporated,,0.0,CO-P-460206,sales,2026-01-01,https://tax.colorado.gov/sites/tax/files/documents/Colorado_Jurisdiction_Codes_Rates_Jan-June2026_Apr26.xlsx,2026-05-18
-CO,city,Unincorporated,,0.021,CO-P-470206,sales,2026-01-01,https://tax.colorado.gov/sites/tax/files/documents/Colorado_Jurisdiction_Codes_Rates_Jan-June2026_Apr26.xlsx,2026-05-18
-CO,city,Unincorporated,,0.04,CO-P-480206,sales,2026-01-01,https://tax.colorado.gov/sites/tax/files/documents/Colorado_Jurisdiction_Codes_Rates_Jan-June2026_Apr26.xlsx,2026-05-18
-CO,city,Unincorporated,,0.036,CO-P-490206,sales,2026-01-01,https://tax.colorado.gov/sites/tax/files/documents/Colorado_Jurisdiction_Codes_Rates_Jan-June2026_Apr26.xlsx,2026-05-18
-CO,city,Unincorporated,,0.0207,CO-P-500206,sales,2026-01-01,https://tax.colorado.gov/sites/tax/files/documents/Colorado_Jurisdiction_Codes_Rates_Jan-June2026_Apr26.xlsx,2026-05-18
-CO,city,Unincorporated,,0.0265,CO-P-510206,sales,2026-01-01,https://tax.colorado.gov/sites/tax/files/documents/Colorado_Jurisdiction_Codes_Rates_Jan-June2026_Apr26.xlsx,2026-05-18
-CO,city,Unincorporated,,0.02,CO-P-520206,sales,2026-01-01,https://tax.colorado.gov/sites/tax/files/documents/Colorado_Jurisdiction_Codes_Rates_Jan-June2026_Apr26.xlsx,2026-05-18
-CO,city,Unincorporated,,0.013,CO-P-530206,sales,2026-01-01,https://tax.colorado.gov/sites/tax/files/documents/Colorado_Jurisdiction_Codes_Rates_Jan-June2026_Apr26.xlsx,2026-05-18
-CO,city,Unincorporated,,0.065,CO-P-550206,sales,2026-01-01,https://tax.colorado.gov/sites/tax/files/documents/Colorado_Jurisdiction_Codes_Rates_Jan-June2026_Apr26.xlsx,2026-05-18
-CO,city,Unincorporated,,0.0255,CO-P-560206,sales,2026-01-01,https://tax.colorado.gov/sites/tax/files/documents/Colorado_Jurisdiction_Codes_Rates_Jan-June2026_Apr26.xlsx,2026-05-18
-CO,city,Unincorporated,,0.0425,CO-P-570206,sales,2026-01-01,https://tax.colorado.gov/sites/tax/files/documents/Colorado_Jurisdiction_Codes_Rates_Jan-June2026_Apr26.xlsx,2026-05-18
-CO,city,Unincorporated,,0.0,CO-P-580206,sales,2026-01-01,https://tax.colorado.gov/sites/tax/files/documents/Colorado_Jurisdiction_Codes_Rates_Jan-June2026_Apr26.xlsx,2026-05-18
-CO,city,Unincorporated,,0.04,CO-P-590206,sales,2026-01-01,https://tax.colorado.gov/sites/tax/files/documents/Colorado_Jurisdiction_Codes_Rates_Jan-June2026_Apr26.xlsx,2026-05-18
-CO,city,Unincorporated,,0.0,CO-P-600206,sales,2026-01-01,https://tax.colorado.gov/sites/tax/files/documents/Colorado_Jurisdiction_Codes_Rates_Jan-June2026_Apr26.xlsx,2026-05-18
-CO,city,Unincorporated,,0.03475,CO-P-610206,sales,2026-01-01,https://tax.colorado.gov/sites/tax/files/documents/Colorado_Jurisdiction_Codes_Rates_Jan-June2026_Apr26.xlsx,2026-05-18
-CO,city,Unincorporated,,0.026,CO-P-620206,sales,2026-01-01,https://tax.colorado.gov/sites/tax/files/documents/Colorado_Jurisdiction_Codes_Rates_Jan-June2026_Apr26.xlsx,2026-05-18
-CO,city,Unincorporated,,0.05,CO-P-630206,sales,2026-01-01,https://tax.colorado.gov/sites/tax/files/documents/Colorado_Jurisdiction_Codes_Rates_Jan-June2026_Apr26.xlsx,2026-05-18
-CO,city,Unincorporated (Berthoud Fpd),,0.01,CO-P-030210,sales,2026-01-01,https://tax.colorado.gov/sites/tax/files/documents/Colorado_Jurisdiction_Codes_Rates_Jan-June2026_Apr26.xlsx,2026-05-18
-CO,city,Unincorporated (Berthoud Fpd),,0.0205,CO-P-060210,sales,2026-01-01,https://tax.colorado.gov/sites/tax/files/documents/Colorado_Jurisdiction_Codes_Rates_Jan-June2026_Apr26.xlsx,2026-05-18
-CO,city,Unincorporated (Berthoud Fpd),,0.03435,CO-P-070210,sales,2026-01-01,https://tax.colorado.gov/sites/tax/files/documents/Colorado_Jurisdiction_Codes_Rates_Jan-June2026_Apr26.xlsx,2026-05-18
-CO,city,Unincorporated (Cd Only),,0.0085,CO-P-120208,sales,2026-01-01,https://tax.colorado.gov/sites/tax/files/documents/Colorado_Jurisdiction_Codes_Rates_Jan-June2026_Apr26.xlsx,2026-05-18
-CO,city,Unincorporated (Cd Only),,0.011,CO-P-470208,sales,2026-01-01,https://tax.colorado.gov/sites/tax/files/documents/Colorado_Jurisdiction_Codes_Rates_Jan-June2026_Apr26.xlsx,2026-05-18
-CO,city,Unincorporated (Cimarron Hills Fpd),,0.0323,CO-P-040208,sales,2026-01-01,https://tax.colorado.gov/sites/tax/files/documents/Colorado_Jurisdiction_Codes_Rates_Jan-June2026_Apr26.xlsx,2026-05-18
-CO,city,Unincorporated (Clifton Fpd),,0.0337,CO-P-080208,sales,2026-01-01,https://tax.colorado.gov/sites/tax/files/documents/Colorado_Jurisdiction_Codes_Rates_Jan-June2026_Apr26.xlsx,2026-05-18
-CO,city,Unincorporated (Dove Creek Ad),,0.02,CO-P-580208,sales,2026-01-01,https://tax.colorado.gov/sites/tax/files/documents/Colorado_Jurisdiction_Codes_Rates_Jan-June2026_Apr26.xlsx,2026-05-18
-CO,city,Unincorporated (Eagle River Fpd Within Evrta,,0.0279,CO-P-440209,sales,2026-01-01,https://tax.colorado.gov/sites/tax/files/documents/Colorado_Jurisdiction_Codes_Rates_Jan-June2026_Apr26.xlsx,2026-05-18
-CO,city,Unincorporated (Frederick-Firestone Fpd),,0.005,CO-P-030208,sales,2026-01-01,https://tax.colorado.gov/sites/tax/files/documents/Colorado_Jurisdiction_Codes_Rates_Jan-June2026_Apr26.xlsx,2026-05-18
-CO,city,Unincorporated (In Ute Pass Regional Hsd In Douglas),,0.026,CO-P-470049,sales,2026-01-01,https://tax.colorado.gov/sites/tax/files/documents/Colorado_Jurisdiction_Codes_Rates_Jan-June2026_Apr26.xlsx,2026-05-18
-CO,city,Unincorporated (In Ute Pass Regional Hsd In Park),,0.035,CO-P-540210,sales,2026-01-01,https://tax.colorado.gov/sites/tax/files/documents/Colorado_Jurisdiction_Codes_Rates_Jan-June2026_Apr26.xlsx,2026-05-18
-CO,city,Unincorporated (In Ute Pass Regional Hsd In Teller),,0.025,CO-P-430208,sales,2026-01-01,https://tax.colorado.gov/sites/tax/files/documents/Colorado_Jurisdiction_Codes_Rates_Jan-June2026_Apr26.xlsx,2026-05-18
-CO,city,Unincorporated (No Rta),,0.01,CO-P-500209,sales,2026-01-01,https://tax.colorado.gov/sites/tax/files/documents/Colorado_Jurisdiction_Codes_Rates_Jan-June2026_Apr26.xlsx,2026-05-18
-CO,city,Unincorporated (South Adams Fpd),,0.0235,CO-P-120209,sales,2026-01-01,https://tax.colorado.gov/sites/tax/files/documents/Colorado_Jurisdiction_Codes_Rates_Jan-June2026_Apr26.xlsx,2026-05-18
-CO,city,Unincorporated (Within Aspen Fpd),,0.0475,CO-P-570208,sales,2026-07-01,https://tax.colorado.gov/sites/default/files/2026-10/Colorado_Jurisdiction_Codes_Rates_July-Dec2026.xlsx,2026-10-27
-CO,city,Unincorporated (Within Carbondale & Rural Fpd),,0.0575,CO-P-570209,sales,2026-07-01,https://tax.colorado.gov/sites/default/files/2026-10/Colorado_Jurisdiction_Codes_Rates_July-Dec2026.xlsx,2026-10-27
-CO,city,Unincorporated (Within Carbondale And Rural Fpd,,0.0275,CO-P-240208,sales,2026-01-01,https://tax.colorado.gov/sites/tax/files/documents/Colorado_Jurisdiction_Codes_Rates_Jan-June2026_Apr26.xlsx,2026-05-18
-CO,city,Unincorporated (Within Lake City Area Fpd,,0.0625,CO-P-630208,sales,2026-01-01,https://tax.colorado.gov/sites/tax/files/documents/Colorado_Jurisdiction_Codes_Rates_Jan-June2026_Apr26.xlsx,2026-05-18
-CO,city,Unincorporated (Wthin La Veta Fpd),,0.035,CO-P-160208,sales,2026-01-01,https://tax.colorado.gov/sites/tax/files/documents/Colorado_Jurisdiction_Codes_Rates_Jan-June2026_Apr26.xlsx,2026-05-18
-CO,city,Unincorporated Arapahoe Cd Only,,0.0035,CO-P-100208,sales,2026-01-01,https://tax.colorado.gov/sites/tax/files/documents/Colorado_Jurisdiction_Codes_Rates_Jan-June2026_Apr26.xlsx,2026-05-18
-CO,city,Unincorporated Eagle Within Rfrta,,0.0235,CO-P-440208,sales,2026-01-01,https://tax.colorado.gov/sites/tax/files/documents/Colorado_Jurisdiction_Codes_Rates_Jan-June2026_Apr26.xlsx,2026-05-18
-CO,city,Unincorporated In Pueblo Rural Fpd,,0.02,CO-P-020208,sales,2026-01-01,https://tax.colorado.gov/sites/tax/files/documents/Colorado_Jurisdiction_Codes_Rates_July-Dec2026.xlsx,2026-07-21
-CO,city,Unincorporated In Upper Pine River Fpd,,0.04,CO-P-200208,sales,2026-01-01,https://tax.colorado.gov/sites/tax/files/documents/Colorado_Jurisdiction_Codes_Rates_July-Dec2026.xlsx,2026-07-21
-CO,city,Unincorporated In Upper Pine River Fpd,,0.05,CO-P-480208,sales,2026-01-01,https://tax.colorado.gov/sites/tax/files/documents/Colorado_Jurisdiction_Codes_Rates_July-Dec2026.xlsx,2026-07-21
-CO,city,Unincorporated Jefferson Within Lid,,0.021,CO-P-110158,sales,2026-01-01,https://tax.colorado.gov/sites/tax/files/documents/Colorado_Jurisdiction_Codes_Rates_Jan-June2026_Apr26.xlsx,2026-05-18
-CO,city,Unincorporated Montezuma,,0.004,CO-P-320206,sales,2026-01-01,https://tax.colorado.gov/sites/tax/files/documents/Colorado_Jurisdiction_Codes_Rates_Jan-June2026_Apr26.xlsx,2026-05-18
-CO,city,Unincorporated Ute And South Park Hsd,,0.025,CO-P-540209,sales,2026-01-01,https://tax.colorado.gov/sites/tax/files/documents/Colorado_Jurisdiction_Codes_Rates_Jan-June2026_Apr26.xlsx,2026-05-18
-CO,city,Unincorporated(Cortez Fpd),,0.0094,CO-P-320208,sales,2026-01-01,https://tax.colorado.gov/sites/tax/files/documents/Colorado_Jurisdiction_Codes_Rates_Jan-June2026_Apr26.xlsx,2026-05-18
-CO,city,Unincorporated(In Health Services District),,0.02,CO-P-540206,sales,2026-01-01,https://tax.colorado.gov/sites/tax/files/documents/Colorado_Jurisdiction_Codes_Rates_Jan-June2026_Apr26.xlsx,2026-05-18
-CO,city,Unincorporated(Out Of Health Services District),,0.01,CO-P-540208,sales,2026-01-01,https://tax.colorado.gov/sites/tax/files/documents/Colorado_Jurisdiction_Codes_Rates_Jan-June2026_Apr26.xlsx,2026-05-18
-CO,city,Vail,,0.065,CO-P-440060,sales,2026-01-01,https://tax.colorado.gov/sites/tax/files/documents/Colorado_Jurisdiction_Codes_Rates_Jan-June2026_Apr26.xlsx,2026-05-18
-CO,city,Victor,,0.04,CO-P-430023,sales,2026-01-01,https://tax.colorado.gov/sites/tax/files/documents/Colorado_Jurisdiction_Codes_Rates_Jan-June2026_Apr26.xlsx,2026-05-18
+CO,city,Vail,,0.045,CO-P-440060,sales,2026-07-01,https://tax.colorado.gov/sites/default/files/2026-10/Colorado_Jurisdiction_Codes_Rates_July-Dec2026.xlsx,2026-11-15
+CO,city,Victor,,0.03,CO-P-430023,sales,2026-07-01,https://tax.colorado.gov/sites/default/files/2026-10/Colorado_Jurisdiction_Codes_Rates_July-Dec2026.xlsx,2026-11-15
 CO,city,Vilas,,0.0,CO-P-220026,sales,2026-01-01,https://tax.colorado.gov/sites/tax/files/documents/Colorado_Jurisdiction_Codes_Rates_Jan-June2026_Apr26.xlsx,2026-05-18
 CO,city,Vona,,0.0,CO-P-260010,sales,2026-01-01,https://tax.colorado.gov/sites/tax/files/documents/Colorado_Jurisdiction_Codes_Rates_Jan-June2026_Apr26.xlsx,2026-05-18
-CO,city,Walden,,0.05,CO-P-590018,sales,2026-01-01,https://tax.colorado.gov/sites/tax/files/documents/Colorado_Jurisdiction_Codes_Rates_Jan-June2026_Apr26.xlsx,2026-05-18
-CO,city,Walsenburg,,0.06,CO-P-160068,sales,2026-01-01,https://tax.colorado.gov/sites/tax/files/documents/Colorado_Jurisdiction_Codes_Rates_Jan-June2026_Apr26.xlsx,2026-05-18
+CO,city,Walden,,0.01,CO-P-590018,sales,2026-07-01,https://tax.colorado.gov/sites/default/files/2026-10/Colorado_Jurisdiction_Codes_Rates_July-Dec2026.xlsx,2026-11-15
+CO,city,Walsenburg,,0.03,CO-P-160068,sales,2026-07-01,https://tax.colorado.gov/sites/default/files/2026-10/Colorado_Jurisdiction_Codes_Rates_July-Dec2026.xlsx,2026-11-15
 CO,city,Walsh,,0.03,CO-P-220027,sales,2026-01-01,https://tax.colorado.gov/sites/tax/files/documents/Colorado_Jurisdiction_Codes_Rates_Jan-June2026_Apr26.xlsx,2026-05-18
-CO,city,Ward,,0.04435,CO-P-070073,sales,2026-01-01,https://tax.colorado.gov/sites/tax/files/documents/Colorado_Jurisdiction_Codes_Rates_Jan-June2026_Apr26.xlsx,2026-05-18
-CO,city,Weld/Lochbuie Rtd Only,,0.05,CO-P-030159,sales,2026-01-01,https://tax.colorado.gov/sites/tax/files/documents/Colorado_Jurisdiction_Codes_Rates_Jan-June2026_Apr26.xlsx,2026-05-18
-CO,city,Wellington,,0.0405,CO-P-060082,sales,2026-01-01,https://tax.colorado.gov/sites/tax/files/documents/Colorado_Jurisdiction_Codes_Rates_Jan-June2026_Apr26.xlsx,2026-05-18
-CO,city,Westcliffe,,0.05,CO-P-520009,sales,2026-01-01,https://tax.colorado.gov/sites/tax/files/documents/Colorado_Jurisdiction_Codes_Rates_Jan-June2026_Apr26.xlsx,2026-05-18
-CO,city,Westminster,,0.0585,CO-P-110142,sales,2026-01-01,https://tax.colorado.gov/sites/tax/files/documents/Colorado_Jurisdiction_Codes_Rates_Jan-June2026_Apr26.xlsx,2026-05-18
-CO,city,Westminster,,0.061,CO-P-120043,sales,2026-07-01,https://tax.colorado.gov/sites/tax/files/documents/Colorado_Jurisdiction_Codes_Rates_July-Dec2026.xlsx,2026-09-21
-CO,city,Wheat Ridge,,0.051,CO-P-110124,sales,2026-01-01,https://tax.colorado.gov/sites/tax/files/documents/Colorado_Jurisdiction_Codes_Rates_Jan-June2026_Apr26.xlsx,2026-05-18
-CO,city,Whitewater (Lid),,0.0337,CO-P-080044,sales,2026-01-01,https://tax.colorado.gov/sites/tax/files/documents/Colorado_Jurisdiction_Codes_Rates_Jan-June2026_Apr26.xlsx,2026-05-18
+CO,city,Ward,,0.02,CO-P-070073,sales,2026-07-01,https://tax.colorado.gov/sites/default/files/2026-10/Colorado_Jurisdiction_Codes_Rates_July-Dec2026.xlsx,2026-11-15
+CO,city,Wellington,,0.03,CO-P-060082,sales,2026-07-01,https://tax.colorado.gov/sites/default/files/2026-10/Colorado_Jurisdiction_Codes_Rates_July-Dec2026.xlsx,2026-11-15
+CO,city,Westcliffe,,0.03,CO-P-520009,sales,2026-07-01,https://tax.colorado.gov/sites/default/files/2026-10/Colorado_Jurisdiction_Codes_Rates_July-Dec2026.xlsx,2026-11-15
+CO,city,Westminster,,0.0425,CO-P-110142,sales,2026-07-01,https://tax.colorado.gov/sites/default/files/2026-10/Colorado_Jurisdiction_Codes_Rates_July-Dec2026.xlsx,2026-11-15
+CO,city,Westminster,,0.0425,CO-P-120043,sales,2026-07-01,https://tax.colorado.gov/sites/default/files/2026-10/Colorado_Jurisdiction_Codes_Rates_July-Dec2026.xlsx,2026-11-15
+CO,city,Wheat Ridge,,0.035,CO-P-110124,sales,2026-07-01,https://tax.colorado.gov/sites/default/files/2026-10/Colorado_Jurisdiction_Codes_Rates_July-Dec2026.xlsx,2026-11-15
 CO,city,Wiggins,,0.03,CO-P-150032,sales,2026-01-01,https://tax.colorado.gov/sites/tax/files/documents/Colorado_Jurisdiction_Codes_Rates_Jan-June2026_Apr26.xlsx,2026-05-18
-CO,city,Wiley,,0.03,CO-P-170027,sales,2026-01-01,https://tax.colorado.gov/sites/tax/files/documents/Colorado_Jurisdiction_Codes_Rates_Jan-June2026_Apr26.xlsx,2026-05-18
-CO,city,Willamsburg (Mail Via Florence),,0.025,CO-P-140050,sales,2026-01-01,https://tax.colorado.gov/sites/tax/files/documents/Colorado_Jurisdiction_Codes_Rates_Jan-June2026_Apr26.xlsx,2026-05-18
+CO,city,Wiley,,0.02,CO-P-170027,sales,2026-07-01,https://tax.colorado.gov/sites/default/files/2026-10/Colorado_Jurisdiction_Codes_Rates_July-Dec2026.xlsx,2026-11-15
+CO,city,Willamsburg,,0.0,CO-P-140050,sales,2026-07-01,https://tax.colorado.gov/sites/default/files/2026-10/Colorado_Jurisdiction_Codes_Rates_July-Dec2026.xlsx,2026-11-15
 CO,city,Windsor,,0.0365,CO-P-030142,sales,2026-01-01,https://tax.colorado.gov/sites/tax/files/documents/Colorado_Jurisdiction_Codes_Rates_Jan-June2026_Apr26.xlsx,2026-05-18
-CO,city,Windsor,,0.047,CO-P-060084,sales,2026-07-01,https://tax.colorado.gov/sites/tax/files/documents/Colorado_Jurisdiction_Codes_Rates_July-Dec2026.xlsx,2026-09-21
-CO,city,Winter Park,,0.083,CO-P-530024,sales,2026-01-01,https://tax.colorado.gov/sites/tax/files/documents/Colorado_Jurisdiction_Codes_Rates_Jan-June2026_Apr26.xlsx,2026-05-18
-CO,city,Woodland Park,,0.055,CO-P-430026,sales,2026-07-01,https://tax.colorado.gov/sites/tax/files/documents/Colorado_Jurisdiction_Codes_Rates_July-Dec2026.xlsx,2026-09-21
+CO,city,Windsor,,0.0365,CO-P-060084,sales,2026-07-01,https://tax.colorado.gov/sites/default/files/2026-10/Colorado_Jurisdiction_Codes_Rates_July-Dec2026.xlsx,2026-11-15
+CO,city,Winter Park,,0.07,CO-P-530024,sales,2026-07-01,https://tax.colorado.gov/sites/default/files/2026-10/Colorado_Jurisdiction_Codes_Rates_July-Dec2026.xlsx,2026-11-15
+CO,city,Woodland Park,,0.03,CO-P-430026,sales,2026-07-01,https://tax.colorado.gov/sites/default/files/2026-10/Colorado_Jurisdiction_Codes_Rates_July-Dec2026.xlsx,2026-11-15
 CO,city,Wray,,0.025,CO-P-190017,sales,2026-01-01,https://tax.colorado.gov/sites/tax/files/documents/Colorado_Jurisdiction_Codes_Rates_Jan-June2026_Apr26.xlsx,2026-05-18
-CO,city,Yampa,,0.05,CO-P-280048,sales,2026-01-01,https://tax.colorado.gov/sites/tax/files/documents/Colorado_Jurisdiction_Codes_Rates_Jan-June2026_Apr26.xlsx,2026-05-18
+CO,city,Yampa,,0.04,CO-P-280048,sales,2026-07-01,https://tax.colorado.gov/sites/default/files/2026-10/Colorado_Jurisdiction_Codes_Rates_July-Dec2026.xlsx,2026-11-15
 CO,city,Yuma,,0.0375,CO-P-190018,sales,2026-01-01,https://tax.colorado.gov/sites/tax/files/documents/Colorado_Jurisdiction_Codes_Rates_Jan-June2026_Apr26.xlsx,2026-05-18
-CO,county,Adams,,0.0085,CO-C-adams,sales,2026-07-01,https://tax.colorado.gov/sites/tax/files/documents/Colorado_Jurisdiction_Codes_Rates_July-Dec2026.xlsx,2026-09-29
-CO,county,Alamosa,,0.03,CO-C-alamosa,sales,2026-01-01,https://tax.colorado.gov/sites/tax/files/documents/Colorado_Jurisdiction_Codes_Rates_Jan-June2026_Apr26.xlsx,2026-05-18
-CO,county,Arapahoe,,0.0035,CO-C-arapahoe,sales,2026-07-01,https://tax.colorado.gov/sites/tax/files/documents/Colorado_Jurisdiction_Codes_Rates_July-Dec2026.xlsx,2026-09-29
-CO,county,Archuleta,,0.04,CO-C-archuleta,sales,2026-01-01,https://tax.colorado.gov/sites/tax/files/documents/Colorado_Jurisdiction_Codes_Rates_Jan-June2026_Apr26.xlsx,2026-05-18
-CO,county,Bent,,0.01,CO-C-bent,sales,2026-01-01,https://tax.colorado.gov/sites/tax/files/documents/Colorado_Jurisdiction_Codes_Rates_Jan-June2026_Apr26.xlsx,2026-05-18
-CO,county,Boulder,,0.02435,CO-C-boulder,sales,2026-07-01,https://tax.colorado.gov/sites/tax/files/documents/Colorado_Jurisdiction_Codes_Rates_July-Dec2026.xlsx,2026-09-29
-CO,county,Chaffee,,0.0275,CO-C-chaffee,sales,2026-01-01,https://tax.colorado.gov/sites/tax/files/documents/Colorado_Jurisdiction_Codes_Rates_Jan-June2026_Apr26.xlsx,2026-05-18
-CO,county,Clearcreek,,0.0265,CO-C-clearcreek,sales,2026-01-01,https://tax.colorado.gov/sites/tax/files/documents/Colorado_Jurisdiction_Codes_Rates_Jan-June2026_Apr26.xlsx,2026-05-18
-CO,county,Conejos,,0.02,CO-C-conejos,sales,2026-01-01,https://tax.colorado.gov/sites/tax/files/documents/Colorado_Jurisdiction_Codes_Rates_Jan-June2026_Apr26.xlsx,2026-05-18
-CO,county,Costilla,,0.02,CO-C-costilla,sales,2026-01-01,https://tax.colorado.gov/sites/tax/files/documents/Colorado_Jurisdiction_Codes_Rates_Jan-June2026_Apr26.xlsx,2026-05-18
-CO,county,Crowley,,0.02,CO-C-crowley,sales,2026-01-01,https://tax.colorado.gov/sites/tax/files/documents/Colorado_Jurisdiction_Codes_Rates_Jan-June2026_Apr26.xlsx,2026-05-18
-CO,county,Custer,,0.02,CO-C-custer,sales,2026-01-01,https://tax.colorado.gov/sites/tax/files/documents/Colorado_Jurisdiction_Codes_Rates_Jan-June2026_Apr26.xlsx,2026-05-18
-CO,county,Delta,,0.036,CO-C-delta,sales,2026-07-01,https://tax.colorado.gov/sites/tax/files/documents/Colorado_Jurisdiction_Codes_Rates_July-Dec2026.xlsx,2026-09-29
-CO,county,Douglas,,0.011,CO-C-douglas,sales,2026-07-01,https://tax.colorado.gov/sites/tax/files/documents/Colorado_Jurisdiction_Codes_Rates_July-Dec2026.xlsx,2026-09-29
-CO,county,Eagle,,0.015,CO-C-eagle,sales,2026-07-01,https://tax.colorado.gov/sites/tax/files/documents/Colorado_Jurisdiction_Codes_Rates_July-Dec2026.xlsx,2026-09-29
-CO,county,Elbert,,0.01,CO-C-elbert,sales,2026-01-01,https://tax.colorado.gov/sites/tax/files/documents/Colorado_Jurisdiction_Codes_Rates_Jan-June2026_Apr26.xlsx,2026-05-18
-CO,county,Elpaso,,0.0223,CO-C-elpaso,sales,2026-07-01,https://tax.colorado.gov/sites/default/files/2026-10/Colorado_Jurisdiction_Codes_Rates_July-Dec2026.xlsx,2026-11-07
-CO,county,Fremont,,0.025,CO-C-fremont,sales,2026-01-01,https://tax.colorado.gov/sites/tax/files/documents/Colorado_Jurisdiction_Codes_Rates_Jan-June2026_Apr26.xlsx,2026-05-18
-CO,county,Garfield,,0.0125,CO-C-garfield,sales,2026-07-01,https://tax.colorado.gov/sites/tax/files/documents/Colorado_Jurisdiction_Codes_Rates_July-Dec2026.xlsx,2026-09-29
-CO,county,Grand,,0.013,CO-C-grand,sales,2026-01-01,https://tax.colorado.gov/sites/tax/files/documents/Colorado_Jurisdiction_Codes_Rates_Jan-June2026_Apr26.xlsx,2026-05-18
-CO,county,Gunnison,,0.01,CO-C-gunnison,sales,2026-01-01,https://tax.colorado.gov/sites/tax/files/documents/Colorado_Jurisdiction_Codes_Rates_Jan-June2026_Apr26.xlsx,2026-05-18
-CO,county,Hinsdale,,0.05,CO-C-hinsdale,sales,2026-01-01,https://tax.colorado.gov/sites/tax/files/documents/Colorado_Jurisdiction_Codes_Rates_Jan-June2026_Apr26.xlsx,2026-05-18
-CO,county,Huerfano,,0.03,CO-C-huerfano,sales,2026-01-01,https://tax.colorado.gov/sites/tax/files/documents/Colorado_Jurisdiction_Codes_Rates_Jan-June2026_Apr26.xlsx,2026-05-18
-CO,county,Jackson,,0.04,CO-C-jackson,sales,2026-01-01,https://tax.colorado.gov/sites/tax/files/documents/Colorado_Jurisdiction_Codes_Rates_Jan-June2026_Apr26.xlsx,2026-05-18
-CO,county,Jefferson,,0.016,CO-C-jefferson,sales,2026-07-01,https://tax.colorado.gov/sites/tax/files/documents/Colorado_Jurisdiction_Codes_Rates_July-Dec2026.xlsx,2026-09-29
-CO,county,Lake,,0.04,CO-C-lake,sales,2026-01-01,https://tax.colorado.gov/sites/tax/files/documents/Colorado_Jurisdiction_Codes_Rates_Jan-June2026_Apr26.xlsx,2026-05-18
-CO,county,Laplata,,0.03,CO-C-laplata,sales,2026-01-01,https://tax.colorado.gov/sites/tax/files/documents/Colorado_Jurisdiction_Codes_Rates_Jan-June2026_Apr26.xlsx,2026-05-18
-CO,county,Larimer,,0.0105,CO-C-larimer,sales,2026-01-01,https://tax.colorado.gov/sites/tax/files/documents/Colorado_Jurisdiction_Codes_Rates_Jan-June2026_Apr26.xlsx,2026-05-18
-CO,county,Lasanimas,,0.015,CO-C-lasanimas,sales,2026-01-01,https://tax.colorado.gov/sites/tax/files/documents/Colorado_Jurisdiction_Codes_Rates_Jan-June2026_Apr26.xlsx,2026-05-18
-CO,county,Lincoln,,0.02,CO-C-lincoln,sales,2026-01-01,https://tax.colorado.gov/sites/tax/files/documents/Colorado_Jurisdiction_Codes_Rates_Jan-June2026_Apr26.xlsx,2026-05-18
-CO,county,Logan,,0.01,CO-C-logan,sales,2026-01-01,https://tax.colorado.gov/sites/tax/files/documents/Colorado_Jurisdiction_Codes_Rates_Jan-June2026_Apr26.xlsx,2026-05-18
-CO,county,Mesa,,0.0237,CO-C-mesa,sales,2026-07-01,https://tax.colorado.gov/sites/tax/files/documents/Colorado_Jurisdiction_Codes_Rates_July-Dec2026.xlsx,2026-09-29
-CO,county,Mineral,,0.026,CO-C-mineral,sales,2026-01-01,https://tax.colorado.gov/sites/tax/files/documents/Colorado_Jurisdiction_Codes_Rates_Jan-June2026_Apr26.xlsx,2026-05-18
-CO,county,Moffat,,0.02,CO-C-moffat,sales,2026-01-01,https://tax.colorado.gov/sites/tax/files/documents/Colorado_Jurisdiction_Codes_Rates_Jan-June2026_Apr26.xlsx,2026-05-18
-CO,county,Montrose,,0.0175,CO-C-montrose,sales,2026-07-01,https://tax.colorado.gov/sites/tax/files/documents/Colorado_Jurisdiction_Codes_Rates_July-Dec2026.xlsx,2026-09-29
-CO,county,Otero,,0.01,CO-C-otero,sales,2026-01-01,https://tax.colorado.gov/sites/tax/files/documents/Colorado_Jurisdiction_Codes_Rates_Jan-June2026_Apr26.xlsx,2026-05-18
-CO,county,Ouray,,0.0255,CO-C-ouray,sales,2026-01-01,https://tax.colorado.gov/sites/tax/files/documents/Colorado_Jurisdiction_Codes_Rates_Jan-June2026_Apr26.xlsx,2026-05-18
-CO,county,Park,,0.01,CO-C-park,sales,2026-01-01,https://tax.colorado.gov/sites/tax/files/documents/Colorado_Jurisdiction_Codes_Rates_Jan-June2026_Apr26.xlsx,2026-05-18
-CO,county,Phillips,,0.01,CO-C-phillips,sales,2026-01-01,https://tax.colorado.gov/sites/tax/files/documents/Colorado_Jurisdiction_Codes_Rates_Jan-June2026_Apr26.xlsx,2026-05-18
-CO,county,Pitkin,,0.0425,CO-C-pitkin,sales,2026-07-01,https://tax.colorado.gov/sites/tax/files/documents/Colorado_Jurisdiction_Codes_Rates_July-Dec2026.xlsx,2026-09-29
-CO,county,Prowers,,0.01,CO-C-prowers,sales,2026-01-01,https://tax.colorado.gov/sites/tax/files/documents/Colorado_Jurisdiction_Codes_Rates_Jan-June2026_Apr26.xlsx,2026-05-18
-CO,county,Pueblo,,0.01,CO-C-pueblo,sales,2026-01-01,https://tax.colorado.gov/sites/tax/files/documents/Colorado_Jurisdiction_Codes_Rates_Jan-June2026_Apr26.xlsx,2026-05-18
-CO,county,Rioblanco,,0.036,CO-C-rioblanco,sales,2026-01-01,https://tax.colorado.gov/sites/tax/files/documents/Colorado_Jurisdiction_Codes_Rates_Jan-June2026_Apr26.xlsx,2026-05-18
-CO,county,Riogrande,,0.026,CO-C-riogrande,sales,2026-01-01,https://tax.colorado.gov/sites/tax/files/documents/Colorado_Jurisdiction_Codes_Rates_Jan-June2026_Apr26.xlsx,2026-05-18
-CO,county,Routt,,0.01,CO-C-routt,sales,2026-01-01,https://tax.colorado.gov/sites/tax/files/documents/Colorado_Jurisdiction_Codes_Rates_Jan-June2026_Apr26.xlsx,2026-05-18
-CO,county,Saguache,,0.025,CO-C-saguache,sales,2026-01-01,https://tax.colorado.gov/sites/tax/files/documents/Colorado_Jurisdiction_Codes_Rates_Jan-June2026_Apr26.xlsx,2026-05-18
-CO,county,Sanjuan,,0.065,CO-C-sanjuan,sales,2026-01-01,https://tax.colorado.gov/sites/tax/files/documents/Colorado_Jurisdiction_Codes_Rates_Jan-June2026_Apr26.xlsx,2026-05-18
-CO,county,Sanmiguel,,0.01,CO-C-sanmiguel,sales,2026-01-01,https://tax.colorado.gov/sites/tax/files/documents/Colorado_Jurisdiction_Codes_Rates_Jan-June2026_Apr26.xlsx,2026-05-18
-CO,county,Sedgwick,,0.03,CO-C-sedgwick,sales,2026-01-01,https://tax.colorado.gov/sites/tax/files/documents/Colorado_Jurisdiction_Codes_Rates_Jan-June2026_Apr26.xlsx,2026-05-18
-CO,county,Summit,,0.03475,CO-C-summit,sales,2026-07-01,https://tax.colorado.gov/sites/tax/files/documents/Colorado_Jurisdiction_Codes_Rates_July-Dec2026.xlsx,2026-09-29
-CO,county,Teller,,0.01,CO-C-teller,sales,2026-01-01,https://tax.colorado.gov/sites/tax/files/documents/Colorado_Jurisdiction_Codes_Rates_Jan-June2026_Apr26.xlsx,2026-05-18
-CO,county,Washington,,0.015,CO-C-washington,sales,2026-01-01,https://tax.colorado.gov/sites/tax/files/documents/Colorado_Jurisdiction_Codes_Rates_Jan-June2026_Apr26.xlsx,2026-05-18
+CO,county,Adams County,,0.0075,CO-C-adams,sales,2026-07-01,https://tax.colorado.gov/sites/default/files/2026-10/Colorado_Jurisdiction_Codes_Rates_July-Dec2026.xlsx,2026-11-15
+CO,county,Alamosa County,,0.03,CO-C-alamosa,sales,2026-01-01,https://tax.colorado.gov/sites/tax/files/documents/Colorado_Jurisdiction_Codes_Rates_Jan-June2026_Apr26.xlsx,2026-05-18
+CO,county,Arapahoe County,,0.0025,CO-C-arapahoe,sales,2026-07-01,https://tax.colorado.gov/sites/default/files/2026-10/Colorado_Jurisdiction_Codes_Rates_July-Dec2026.xlsx,2026-11-15
+CO,county,Archuleta County,,0.04,CO-C-archuleta,sales,2026-01-01,https://tax.colorado.gov/sites/tax/files/documents/Colorado_Jurisdiction_Codes_Rates_Jan-June2026_Apr26.xlsx,2026-05-18
+CO,county,Bent County,,0.01,CO-C-bent,sales,2026-01-01,https://tax.colorado.gov/sites/tax/files/documents/Colorado_Jurisdiction_Codes_Rates_Jan-June2026_Apr26.xlsx,2026-05-18
+CO,county,Boulder County,,0.01335,CO-C-boulder,sales,2026-07-01,https://tax.colorado.gov/sites/default/files/2026-10/Colorado_Jurisdiction_Codes_Rates_July-Dec2026.xlsx,2026-11-15
+CO,county,Chaffee County,,0.0275,CO-C-chaffee,sales,2026-01-01,https://tax.colorado.gov/sites/tax/files/documents/Colorado_Jurisdiction_Codes_Rates_Jan-June2026_Apr26.xlsx,2026-05-18
+CO,county,Clear Creek County,,0.0265,CO-C-clearcreek,sales,2026-01-01,https://tax.colorado.gov/sites/tax/files/documents/Colorado_Jurisdiction_Codes_Rates_Jan-June2026_Apr26.xlsx,2026-05-18
+CO,county,Conejos County,,0.02,CO-C-conejos,sales,2026-01-01,https://tax.colorado.gov/sites/tax/files/documents/Colorado_Jurisdiction_Codes_Rates_Jan-June2026_Apr26.xlsx,2026-05-18
+CO,county,Costilla County,,0.02,CO-C-costilla,sales,2026-01-01,https://tax.colorado.gov/sites/tax/files/documents/Colorado_Jurisdiction_Codes_Rates_Jan-June2026_Apr26.xlsx,2026-05-18
+CO,county,Crowley County,,0.02,CO-C-crowley,sales,2026-01-01,https://tax.colorado.gov/sites/tax/files/documents/Colorado_Jurisdiction_Codes_Rates_Jan-June2026_Apr26.xlsx,2026-05-18
+CO,county,Custer County,,0.02,CO-C-custer,sales,2026-01-01,https://tax.colorado.gov/sites/tax/files/documents/Colorado_Jurisdiction_Codes_Rates_Jan-June2026_Apr26.xlsx,2026-05-18
+CO,county,Delta County,,0.02,CO-C-delta,sales,2026-07-01,https://tax.colorado.gov/sites/default/files/2026-10/Colorado_Jurisdiction_Codes_Rates_July-Dec2026.xlsx,2026-11-15
+CO,county,Douglas County,,0.01,CO-C-douglas,sales,2026-07-01,https://tax.colorado.gov/sites/default/files/2026-10/Colorado_Jurisdiction_Codes_Rates_July-Dec2026.xlsx,2026-11-15
+CO,county,Eagle County,,0.01,CO-C-eagle,sales,2026-07-01,https://tax.colorado.gov/sites/default/files/2026-10/Colorado_Jurisdiction_Codes_Rates_July-Dec2026.xlsx,2026-11-15
+CO,county,El Paso County,,0.0123,CO-C-elpaso,sales,2026-07-01,https://tax.colorado.gov/sites/default/files/2026-10/Colorado_Jurisdiction_Codes_Rates_July-Dec2026.xlsx,2026-11-15
+CO,county,Elbert County,,0.01,CO-C-elbert,sales,2026-01-01,https://tax.colorado.gov/sites/tax/files/documents/Colorado_Jurisdiction_Codes_Rates_Jan-June2026_Apr26.xlsx,2026-05-18
+CO,county,Fremont County,,0.025,CO-C-fremont,sales,2026-01-01,https://tax.colorado.gov/sites/tax/files/documents/Colorado_Jurisdiction_Codes_Rates_Jan-June2026_Apr26.xlsx,2026-05-18
+CO,county,Garfield County,,0.01,CO-C-garfield,sales,2026-07-01,https://tax.colorado.gov/sites/default/files/2026-10/Colorado_Jurisdiction_Codes_Rates_July-Dec2026.xlsx,2026-11-15
+CO,county,Grand County,,0.013,CO-C-grand,sales,2026-01-01,https://tax.colorado.gov/sites/tax/files/documents/Colorado_Jurisdiction_Codes_Rates_Jan-June2026_Apr26.xlsx,2026-05-18
+CO,county,Gunnison County,,0.01,CO-C-gunnison,sales,2026-01-01,https://tax.colorado.gov/sites/tax/files/documents/Colorado_Jurisdiction_Codes_Rates_Jan-June2026_Apr26.xlsx,2026-05-18
+CO,county,Hinsdale County,,0.05,CO-C-hinsdale,sales,2026-01-01,https://tax.colorado.gov/sites/tax/files/documents/Colorado_Jurisdiction_Codes_Rates_Jan-June2026_Apr26.xlsx,2026-05-18
+CO,county,Huerfano County,,0.03,CO-C-huerfano,sales,2026-01-01,https://tax.colorado.gov/sites/tax/files/documents/Colorado_Jurisdiction_Codes_Rates_Jan-June2026_Apr26.xlsx,2026-05-18
+CO,county,Jackson County,,0.04,CO-C-jackson,sales,2026-01-01,https://tax.colorado.gov/sites/tax/files/documents/Colorado_Jurisdiction_Codes_Rates_Jan-June2026_Apr26.xlsx,2026-05-18
+CO,county,Jefferson County,,0.005,CO-C-jefferson,sales,2026-07-01,https://tax.colorado.gov/sites/default/files/2026-10/Colorado_Jurisdiction_Codes_Rates_July-Dec2026.xlsx,2026-11-15
+CO,county,La Plata County,,0.03,CO-C-laplata,sales,2026-01-01,https://tax.colorado.gov/sites/tax/files/documents/Colorado_Jurisdiction_Codes_Rates_Jan-June2026_Apr26.xlsx,2026-05-18
+CO,county,Lake County,,0.04,CO-C-lake,sales,2026-01-01,https://tax.colorado.gov/sites/tax/files/documents/Colorado_Jurisdiction_Codes_Rates_Jan-June2026_Apr26.xlsx,2026-05-18
+CO,county,Larimer County,,0.0105,CO-C-larimer,sales,2026-01-01,https://tax.colorado.gov/sites/tax/files/documents/Colorado_Jurisdiction_Codes_Rates_Jan-June2026_Apr26.xlsx,2026-05-18
+CO,county,Las Animas County,,0.015,CO-C-lasanimas,sales,2026-01-01,https://tax.colorado.gov/sites/tax/files/documents/Colorado_Jurisdiction_Codes_Rates_Jan-June2026_Apr26.xlsx,2026-05-18
+CO,county,Lincoln County,,0.02,CO-C-lincoln,sales,2026-01-01,https://tax.colorado.gov/sites/tax/files/documents/Colorado_Jurisdiction_Codes_Rates_Jan-June2026_Apr26.xlsx,2026-05-18
+CO,county,Logan County,,0.01,CO-C-logan,sales,2026-01-01,https://tax.colorado.gov/sites/tax/files/documents/Colorado_Jurisdiction_Codes_Rates_Jan-June2026_Apr26.xlsx,2026-05-18
+CO,county,Mesa County,,0.02,CO-C-mesa,sales,2026-07-01,https://tax.colorado.gov/sites/default/files/2026-10/Colorado_Jurisdiction_Codes_Rates_July-Dec2026.xlsx,2026-11-15
+CO,county,Mineral County,,0.026,CO-C-mineral,sales,2026-01-01,https://tax.colorado.gov/sites/tax/files/documents/Colorado_Jurisdiction_Codes_Rates_Jan-June2026_Apr26.xlsx,2026-05-18
+CO,county,Moffat County,,0.02,CO-C-moffat,sales,2026-01-01,https://tax.colorado.gov/sites/tax/files/documents/Colorado_Jurisdiction_Codes_Rates_Jan-June2026_Apr26.xlsx,2026-05-18
+CO,county,Montrose County,,0.01,CO-C-montrose,sales,2026-07-01,https://tax.colorado.gov/sites/default/files/2026-10/Colorado_Jurisdiction_Codes_Rates_July-Dec2026.xlsx,2026-11-15
+CO,county,Otero County,,0.01,CO-C-otero,sales,2026-01-01,https://tax.colorado.gov/sites/tax/files/documents/Colorado_Jurisdiction_Codes_Rates_Jan-June2026_Apr26.xlsx,2026-05-18
+CO,county,Ouray County,,0.0255,CO-C-ouray,sales,2026-01-01,https://tax.colorado.gov/sites/tax/files/documents/Colorado_Jurisdiction_Codes_Rates_Jan-June2026_Apr26.xlsx,2026-05-18
+CO,county,Park County,,0.01,CO-C-park,sales,2026-01-01,https://tax.colorado.gov/sites/tax/files/documents/Colorado_Jurisdiction_Codes_Rates_Jan-June2026_Apr26.xlsx,2026-05-18
+CO,county,Phillips County,,0.01,CO-C-phillips,sales,2026-01-01,https://tax.colorado.gov/sites/tax/files/documents/Colorado_Jurisdiction_Codes_Rates_Jan-June2026_Apr26.xlsx,2026-05-18
+CO,county,Pitkin County,,0.031,CO-C-pitkin,sales,2026-07-01,https://tax.colorado.gov/sites/default/files/2026-10/Colorado_Jurisdiction_Codes_Rates_July-Dec2026.xlsx,2026-11-15
+CO,county,Pitkin County (Basalt),,0.021,CO-C-pitkin-570018,sales,2026-07-01,https://tax.colorado.gov/sites/default/files/2026-10/Colorado_Jurisdiction_Codes_Rates_July-Dec2026.xlsx,2026-11-15
+CO,county,Prowers County,,0.01,CO-C-prowers,sales,2026-01-01,https://tax.colorado.gov/sites/tax/files/documents/Colorado_Jurisdiction_Codes_Rates_Jan-June2026_Apr26.xlsx,2026-05-18
+CO,county,Pueblo County,,0.01,CO-C-pueblo,sales,2026-01-01,https://tax.colorado.gov/sites/tax/files/documents/Colorado_Jurisdiction_Codes_Rates_Jan-June2026_Apr26.xlsx,2026-05-18
+CO,county,Rio Blanco County,,0.036,CO-C-rioblanco,sales,2026-01-01,https://tax.colorado.gov/sites/tax/files/documents/Colorado_Jurisdiction_Codes_Rates_Jan-June2026_Apr26.xlsx,2026-05-18
+CO,county,Rio Grande County,,0.026,CO-C-riogrande,sales,2026-01-01,https://tax.colorado.gov/sites/tax/files/documents/Colorado_Jurisdiction_Codes_Rates_Jan-June2026_Apr26.xlsx,2026-05-18
+CO,county,Routt County,,0.01,CO-C-routt,sales,2026-01-01,https://tax.colorado.gov/sites/tax/files/documents/Colorado_Jurisdiction_Codes_Rates_Jan-June2026_Apr26.xlsx,2026-05-18
+CO,county,Saguache County,,0.025,CO-C-saguache,sales,2026-01-01,https://tax.colorado.gov/sites/tax/files/documents/Colorado_Jurisdiction_Codes_Rates_Jan-June2026_Apr26.xlsx,2026-05-18
+CO,county,San Juan County,,0.065,CO-C-sanjuan,sales,2026-01-01,https://tax.colorado.gov/sites/tax/files/documents/Colorado_Jurisdiction_Codes_Rates_Jan-June2026_Apr26.xlsx,2026-05-18
+CO,county,San Miguel County,,0.01,CO-C-sanmiguel,sales,2026-01-01,https://tax.colorado.gov/sites/tax/files/documents/Colorado_Jurisdiction_Codes_Rates_Jan-June2026_Apr26.xlsx,2026-05-18
+CO,county,Sedgwick County,,0.03,CO-C-sedgwick,sales,2026-01-01,https://tax.colorado.gov/sites/tax/files/documents/Colorado_Jurisdiction_Codes_Rates_Jan-June2026_Apr26.xlsx,2026-05-18
+CO,county,Summit County,,0.02,CO-C-summit,sales,2026-07-01,https://tax.colorado.gov/sites/default/files/2026-10/Colorado_Jurisdiction_Codes_Rates_July-Dec2026.xlsx,2026-11-15
+CO,county,Teller County,,0.01,CO-C-teller,sales,2026-01-01,https://tax.colorado.gov/sites/tax/files/documents/Colorado_Jurisdiction_Codes_Rates_Jan-June2026_Apr26.xlsx,2026-05-18
+CO,county,Washington County,,0.015,CO-C-washington,sales,2026-01-01,https://tax.colorado.gov/sites/tax/files/documents/Colorado_Jurisdiction_Codes_Rates_Jan-June2026_Apr26.xlsx,2026-05-18
+CO,special_district,Arrowhead Metropolitan District,,0.05,CO-D-mdt-19001,sales,2026-07-01,https://tax.colorado.gov/sites/default/files/2026-10/Colorado_Jurisdiction_Codes_Rates_July-Dec2026.xlsx,2026-11-15
+CO,special_district,Aspen Fire Protection District,,0.005,CO-D-fpd-49001,sales,2026-07-01,https://tax.colorado.gov/sites/default/files/2026-10/Colorado_Jurisdiction_Codes_Rates_July-Dec2026.xlsx,2026-11-15
+CO,special_district,Aspen Park Metropolitan District,,0.005,CO-D-mdt-65099,sales,2026-07-01,https://tax.colorado.gov/sites/default/files/2026-10/Colorado_Jurisdiction_Codes_Rates_July-Dec2026.xlsx,2026-11-15
+CO,special_district,Bachelor Gulch Metropolitan District,,0.032,CO-D-mdt-19053,sales,2026-07-01,https://tax.colorado.gov/sites/default/files/2026-10/Colorado_Jurisdiction_Codes_Rates_July-Dec2026.xlsx,2026-11-15
+CO,special_district,Berthoud Fire Protection District,,0.01,CO-D-fpd-64021,sales,2026-07-01,https://tax.colorado.gov/sites/default/files/2026-10/Colorado_Jurisdiction_Codes_Rates_July-Dec2026.xlsx,2026-11-15
+CO,special_district,Buffalo Mountain Metropolitan District,,0.04,CO-D-mdt-59005,sales,2026-07-01,https://tax.colorado.gov/sites/default/files/2026-10/Colorado_Jurisdiction_Codes_Rates_July-Dec2026.xlsx,2026-11-15
+CO,special_district,Carbondale and Rural Fire Protection District,,0.015,CO-D-fpd-64033,sales,2026-07-01,https://tax.colorado.gov/sites/default/files/2026-10/Colorado_Jurisdiction_Codes_Rates_July-Dec2026.xlsx,2026-11-15
+CO,special_district,Cimarron Hills Fire Protection District,,0.01,CO-D-fpd-21013,sales,2026-07-01,https://tax.colorado.gov/sites/default/files/2026-10/Colorado_Jurisdiction_Codes_Rates_July-Dec2026.xlsx,2026-11-15
+CO,special_district,Clifton Fire Protection District,,0.01,CO-D-fpd-39005,sales,2026-07-01,https://tax.colorado.gov/sites/default/files/2026-10/Colorado_Jurisdiction_Codes_Rates_July-Dec2026.xlsx,2026-11-15
+CO,special_district,Conifer Metropolitan District,,0.0075,CO-D-mdt-65404,sales,2026-07-01,https://tax.colorado.gov/sites/default/files/2026-10/Colorado_Jurisdiction_Codes_Rates_July-Dec2026.xlsx,2026-11-15
+CO,special_district,Cortez Fire Protection District,,0.0054,CO-D-fpd-42025,sales,2026-07-01,https://tax.colorado.gov/sites/default/files/2026-10/Colorado_Jurisdiction_Codes_Rates_July-Dec2026.xlsx,2026-11-15
+CO,special_district,Dove Creek Ambulance District,,0.02,CO-D-ad-66727,sales,2026-07-01,https://tax.colorado.gov/sites/default/files/2026-10/Colorado_Jurisdiction_Codes_Rates_July-Dec2026.xlsx,2026-11-15
+CO,special_district,Eagle River Fire Protection District,,0.0079,CO-D-fpd-19071,sales,2026-07-01,https://tax.colorado.gov/sites/default/files/2026-10/Colorado_Jurisdiction_Codes_Rates_July-Dec2026.xlsx,2026-11-15
+CO,special_district,Eagle-Vail Metropolitan District,,0.01,CO-D-mdt-19015,sales,2026-07-01,https://tax.colorado.gov/sites/default/files/2026-10/Colorado_Jurisdiction_Codes_Rates_July-Dec2026.xlsx,2026-11-15
+CO,special_district,Early childhood district (Eagle County),,0.0025,CO-D-ecd-eagle,sales,2026-07-01,https://tax.colorado.gov/sites/default/files/2026-10/Colorado_Jurisdiction_Codes_Rates_July-Dec2026.xlsx,2026-11-15
+CO,special_district,Early childhood district (Garfield County),,0.0025,CO-D-ecd-garfield,sales,2026-07-01,https://tax.colorado.gov/sites/default/files/2026-10/Colorado_Jurisdiction_Codes_Rates_July-Dec2026.xlsx,2026-11-15
+CO,special_district,Early childhood district (Pitkin County),,0.0025,CO-D-ecd-pitkin,sales,2026-07-01,https://tax.colorado.gov/sites/default/files/2026-10/Colorado_Jurisdiction_Codes_Rates_July-Dec2026.xlsx,2026-11-15
+CO,special_district,Edwards Metropolitan District,,0.01,CO-D-mdt-19016,sales,2026-07-01,https://tax.colorado.gov/sites/default/files/2026-10/Colorado_Jurisdiction_Codes_Rates_July-Dec2026.xlsx,2026-11-15
+CO,special_district,Fire protection district (Weld County),,0.01,CO-D-fpd-weld,sales,2026-07-01,https://tax.colorado.gov/sites/default/files/2026-10/Colorado_Jurisdiction_Codes_Rates_July-Dec2026.xlsx,2026-11-15
+CO,special_district,Frederick-Firestone Fire Protection District,,0.005,CO-D-fpd-62015,sales,2026-07-01,https://tax.colorado.gov/sites/default/files/2026-10/Colorado_Jurisdiction_Codes_Rates_July-Dec2026.xlsx,2026-11-15
+CO,special_district,Health services district (Delta County),,0.008,CO-D-hsd-delta,sales,2026-07-01,https://tax.colorado.gov/sites/default/files/2026-10/Colorado_Jurisdiction_Codes_Rates_July-Dec2026.xlsx,2026-11-15
+CO,special_district,Health services district (Montezuma County),,0.004,CO-D-hsd-montezuma,sales,2026-07-01,https://tax.colorado.gov/sites/default/files/2026-10/Colorado_Jurisdiction_Codes_Rates_July-Dec2026.xlsx,2026-11-15
+CO,special_district,Health services district (Otero County),,0.01,CO-D-hsd-otero,sales,2026-07-01,https://tax.colorado.gov/sites/default/files/2026-10/Colorado_Jurisdiction_Codes_Rates_July-Dec2026.xlsx,2026-11-15
+CO,special_district,La Veta Fire Protection District,,0.005,CO-D-fpd-28006,sales,2026-07-01,https://tax.colorado.gov/sites/default/files/2026-10/Colorado_Jurisdiction_Codes_Rates_July-Dec2026.xlsx,2026-11-15
+CO,special_district,Lake City Area Fire Protection District,,0.0125,CO-D-fpd-27006,sales,2026-07-01,https://tax.colorado.gov/sites/default/files/2026-10/Colorado_Jurisdiction_Codes_Rates_July-Dec2026.xlsx,2026-11-15
+CO,special_district,Local improvement district (Boulder County),,0.01,CO-D-lid-boulder,sales,2026-07-01,https://tax.colorado.gov/sites/default/files/2026-10/Colorado_Jurisdiction_Codes_Rates_July-Dec2026.xlsx,2026-11-15
+CO,special_district,"Local improvement district (Broomfield County), 0.01%",,0.0001,CO-D-lid-broomfield-0p01,sales,2026-07-01,https://tax.colorado.gov/sites/default/files/2026-10/Colorado_Jurisdiction_Codes_Rates_July-Dec2026.xlsx,2026-11-15
+CO,special_district,"Local improvement district (Broomfield County), 0.2%",,0.002,CO-D-lid-broomfield-0p2,sales,2026-07-01,https://tax.colorado.gov/sites/default/files/2026-10/Colorado_Jurisdiction_Codes_Rates_July-Dec2026.xlsx,2026-11-15
+CO,special_district,Local improvement district (Douglas County),,0.005,CO-D-lid-douglas,sales,2026-07-01,https://tax.colorado.gov/sites/default/files/2026-10/Colorado_Jurisdiction_Codes_Rates_July-Dec2026.xlsx,2026-11-15
+CO,special_district,Local improvement district (Mesa County),,0.01,CO-D-lid-mesa,sales,2026-07-01,https://tax.colorado.gov/sites/default/files/2026-10/Colorado_Jurisdiction_Codes_Rates_July-Dec2026.xlsx,2026-11-15
+CO,special_district,Mount Vernon Country Club Metropolitan District,,0.02,CO-D-mdt-30124,sales,2026-07-01,https://tax.colorado.gov/sites/default/files/2026-10/Colorado_Jurisdiction_Codes_Rates_July-Dec2026.xlsx,2026-11-15
+CO,special_district,Multi-jurisdictional housing authority (Summit County),,0.00725,CO-D-mha-summit,sales,2026-07-01,https://tax.colorado.gov/sites/default/files/2026-10/Colorado_Jurisdiction_Codes_Rates_July-Dec2026.xlsx,2026-11-15
+CO,special_district,Public safety improvements tax (Delta County),,0.008,CO-D-psi-delta,sales,2026-07-01,https://tax.colorado.gov/sites/default/files/2026-10/Colorado_Jurisdiction_Codes_Rates_July-Dec2026.xlsx,2026-11-15
+CO,special_district,Public safety improvements tax (Mesa County),,0.0037,CO-D-psi-mesa,sales,2026-07-01,https://tax.colorado.gov/sites/default/files/2026-10/Colorado_Jurisdiction_Codes_Rates_July-Dec2026.xlsx,2026-11-15
+CO,special_district,Public safety improvements tax (Montrose County),,0.0075,CO-D-psi-montrose,sales,2026-07-01,https://tax.colorado.gov/sites/default/files/2026-10/Colorado_Jurisdiction_Codes_Rates_July-Dec2026.xlsx,2026-11-15
+CO,special_district,Pueblo Rural Fire Protection District,,0.01,CO-D-fpd-51014,sales,2026-07-01,https://tax.colorado.gov/sites/default/files/2026-10/Colorado_Jurisdiction_Codes_Rates_July-Dec2026.xlsx,2026-11-15
+CO,special_district,Pueblo West Metropolitan District,,0.02,CO-D-mdt-51015,sales,2026-07-01,https://tax.colorado.gov/sites/default/files/2026-10/Colorado_Jurisdiction_Codes_Rates_July-Dec2026.xlsx,2026-11-15
+CO,special_district,Purgatory Metropolitan District,,0.025,CO-D-mdt-34024,sales,2026-07-01,https://tax.colorado.gov/sites/default/files/2026-10/Colorado_Jurisdiction_Codes_Rates_July-Dec2026.xlsx,2026-11-15
+CO,special_district,Red Sky Ranch Metropolitan District,,0.055,CO-D-mdt-19074,sales,2026-07-01,https://tax.colorado.gov/sites/default/files/2026-10/Colorado_Jurisdiction_Codes_Rates_July-Dec2026.xlsx,2026-11-15
+CO,special_district,Scientific and Cultural Facilities District (SCFD),,0.001,CO-D-scfd,sales,2026-07-01,https://tax.colorado.gov/sites/default/files/2026-10/Colorado_Jurisdiction_Codes_Rates_July-Dec2026.xlsx,2026-11-15
+CO,special_district,South Adams County Fire Protection District,,0.005,CO-D-fpd-01023,sales,2026-07-01,https://tax.colorado.gov/sites/default/files/2026-10/Colorado_Jurisdiction_Codes_Rates_July-Dec2026.xlsx,2026-11-15
+CO,special_district,South Park Health Service District,,0.01,CO-D-hsd-66830,sales,2026-07-01,https://tax.colorado.gov/sites/default/files/2026-10/Colorado_Jurisdiction_Codes_Rates_July-Dec2026.xlsx,2026-11-15
+CO,special_district,"Southeast Jefferson County Local Improvement District, 0.43%",,0.0043,CO-D-lid-jefferson-0p43,sales,2026-07-01,https://tax.colorado.gov/sites/default/files/2026-10/Colorado_Jurisdiction_Codes_Rates_July-Dec2026.xlsx,2026-11-15
+CO,special_district,"Southeast Jefferson County Local Improvement District, 0.5%",,0.005,CO-D-lid-jefferson-0p5,sales,2026-07-01,https://tax.colorado.gov/sites/default/files/2026-10/Colorado_Jurisdiction_Codes_Rates_July-Dec2026.xlsx,2026-11-15
+CO,special_district,Southwest Plaza Metropolitan District,,0.02,CO-D-mdt-30080,sales,2026-07-01,https://tax.colorado.gov/sites/default/files/2026-10/Colorado_Jurisdiction_Codes_Rates_July-Dec2026.xlsx,2026-11-15
+CO,special_district,Two Rivers Metropolitan District,,0.04,CO-D-mdt-19059,sales,2026-07-01,https://tax.colorado.gov/sites/default/files/2026-10/Colorado_Jurisdiction_Codes_Rates_July-Dec2026.xlsx,2026-11-15
+CO,special_district,Upper Pine River Fire Protection District,,0.01,CO-D-fpd-34027,sales,2026-07-01,https://tax.colorado.gov/sites/default/files/2026-10/Colorado_Jurisdiction_Codes_Rates_July-Dec2026.xlsx,2026-11-15
+CO,special_district,Ute Pass Regional Health Service District,,0.015,CO-D-hsd-65329,sales,2026-07-01,https://tax.colorado.gov/sites/default/files/2026-10/Colorado_Jurisdiction_Codes_Rates_July-Dec2026.xlsx,2026-11-15
+CO,transit,Mass transit tax (Eagle County),,0.005,CO-D-mts-eagle,sales,2026-07-01,https://tax.colorado.gov/sites/default/files/2026-10/Colorado_Jurisdiction_Codes_Rates_July-Dec2026.xlsx,2026-11-15
+CO,transit,Mass transit tax (Pitkin County),,0.005,CO-D-mts-pitkin,sales,2026-07-01,https://tax.colorado.gov/sites/default/files/2026-10/Colorado_Jurisdiction_Codes_Rates_July-Dec2026.xlsx,2026-11-15
+CO,transit,Mass transit tax (Summit County),,0.0075,CO-D-mts-summit,sales,2026-07-01,https://tax.colorado.gov/sites/default/files/2026-10/Colorado_Jurisdiction_Codes_Rates_July-Dec2026.xlsx,2026-11-15
+CO,transit,Pikes Peak Rural Transportation Authority (PPRTA),,0.01,CO-D-pprta,sales,2026-07-01,https://tax.colorado.gov/sites/default/files/2026-10/Colorado_Jurisdiction_Codes_Rates_July-Dec2026.xlsx,2026-11-15
+CO,transit,Regional Transportation District (RTD),,0.01,CO-D-rtd,sales,2026-07-01,https://tax.colorado.gov/sites/default/files/2026-10/Colorado_Jurisdiction_Codes_Rates_July-Dec2026.xlsx,2026-11-15
+CO,transit,Rural transportation authority (Dolores County),,0.0107,CO-D-rta-dolores,sales,2026-07-01,https://tax.colorado.gov/sites/default/files/2026-10/Colorado_Jurisdiction_Codes_Rates_July-Dec2026.xlsx,2026-11-15
+CO,transit,"Rural transportation authority (Eagle County), 0.5%",,0.005,CO-D-rta-eagle-0p5,sales,2026-07-01,https://tax.colorado.gov/sites/default/files/2026-10/Colorado_Jurisdiction_Codes_Rates_July-Dec2026.xlsx,2026-11-15
+CO,transit,"Rural transportation authority (Eagle County), 0.6%",,0.006,CO-D-rta-eagle-0p6,sales,2026-07-01,https://tax.colorado.gov/sites/default/files/2026-10/Colorado_Jurisdiction_Codes_Rates_July-Dec2026.xlsx,2026-11-15
+CO,transit,"Rural transportation authority (Eagle County), 0.8%",,0.008,CO-D-rta-eagle-0p8,sales,2026-07-01,https://tax.colorado.gov/sites/default/files/2026-10/Colorado_Jurisdiction_Codes_Rates_July-Dec2026.xlsx,2026-11-15
+CO,transit,"Rural transportation authority (Garfield County), 0.8%",,0.008,CO-D-rta-garfield-0p8,sales,2026-07-01,https://tax.colorado.gov/sites/default/files/2026-10/Colorado_Jurisdiction_Codes_Rates_July-Dec2026.xlsx,2026-11-15
+CO,transit,"Rural transportation authority (Garfield County), 1%",,0.01,CO-D-rta-garfield-1,sales,2026-07-01,https://tax.colorado.gov/sites/default/files/2026-10/Colorado_Jurisdiction_Codes_Rates_July-Dec2026.xlsx,2026-11-15
+CO,transit,Rural transportation authority (Gunnison County),,0.01,CO-D-rta-gunnison,sales,2026-07-01,https://tax.colorado.gov/sites/default/files/2026-10/Colorado_Jurisdiction_Codes_Rates_July-Dec2026.xlsx,2026-11-15
+CO,transit,Rural transportation authority (Logan County),,0.001,CO-D-rta-logan,sales,2026-07-01,https://tax.colorado.gov/sites/default/files/2026-10/Colorado_Jurisdiction_Codes_Rates_July-Dec2026.xlsx,2026-11-15
+CO,transit,"Rural transportation authority (Pitkin County), 0.4%",,0.004,CO-D-rta-pitkin-0p4,sales,2026-07-01,https://tax.colorado.gov/sites/default/files/2026-10/Colorado_Jurisdiction_Codes_Rates_July-Dec2026.xlsx,2026-11-15
+CO,transit,"Rural transportation authority (Pitkin County), 0.8%",,0.008,CO-D-rta-pitkin-0p8,sales,2026-07-01,https://tax.colorado.gov/sites/default/files/2026-10/Colorado_Jurisdiction_Codes_Rates_July-Dec2026.xlsx,2026-11-15
+CO,transit,Rural transportation authority (San Miguel County),,0.0107,CO-D-rta-sanmiguel,sales,2026-07-01,https://tax.colorado.gov/sites/default/files/2026-10/Colorado_Jurisdiction_Codes_Rates_July-Dec2026.xlsx,2026-11-15
 FL,county,Alachua,,0.015,FL-C-alachua,sales,2026-01-01,https://floridarevenue.com/Forms_library/current/dr15dss.pdf,2026-05-18
 FL,county,Baker,,0.01,FL-C-baker,sales,2026-01-01,https://floridarevenue.com/Forms_library/current/dr15dss.pdf,2026-05-18
 FL,county,Bay,,0.01,FL-C-bay,sales,2026-01-01,https://floridarevenue.com/Forms_library/current/dr15dss.pdf,2026-05-18

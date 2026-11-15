@@ -7,7 +7,7 @@
   "last_changed": "2026-11-15",
   "row_counts": {
     "state_rates": 46,
-    "jurisdiction_rates": 17576,
+    "jurisdiction_rates": 17510,
     "nexus_thresholds": 47,
     "taxability": 1703,
     "marketplace_facilitator_rules": 47,
@@ -35,8 +35,8 @@
       ]
     },
     "jurisdiction_rates": {
-      "rows": 17576,
-      "last_changed": "2026-11-12",
+      "rows": 17510,
+      "last_changed": "2026-11-15",
       "key": [
         "source_key",
         "rate_type"
@@ -109,7 +109,7 @@
     },
     "rate_change_frequency": {
       "rows": 24,
-      "last_changed": "2026-11-12",
+      "last_changed": "2026-11-15",
       "key": [
         "state"
       ],
@@ -255,14 +255,14 @@
       "rows": 46
     },
     "jurisdiction_rates.csv": {
-      "sha256": "5e480ff161433bec76cf5ed92f0aae66cb74b788ef10890504d29434afb6c333",
-      "bytes": 2708218,
-      "rows": 17576
+      "sha256": "609a8a18c9c37790849fd4bb8a749cb850351d3627885e05ff85c5718fb5180b",
+      "bytes": 2696458,
+      "rows": 17510
     },
     "jurisdiction_rates.json": {
-      "sha256": "23a7bb501513c974a2676aed4c532a443b34619f94d17b8efb990788a911a79c",
-      "bytes": 6400538,
-      "rows": 17576
+      "sha256": "f7a2b60754eda1b3edd87ac4e145922570c15ffaa28d1704f5dc385ad3f30dc0",
+      "bytes": 6374830,
+      "rows": 17510
     },
     "nexus_thresholds.csv": {
       "sha256": "cf8ca684abc24372c80843ee849384a2fe782f58c9315eec7f6c8d42f16f600e",
@@ -295,13 +295,13 @@
       "rows": 47
     },
     "rate_change_frequency.csv": {
-      "sha256": "ce737c0926f59fbb234bf3be97a4984e6dbe06d87485e3353723481a04efb50f",
-      "bytes": 1081,
+      "sha256": "1363bbea5ba91d08c2b34419624cd8a9950a09f382e386b31f8380a89c31c073",
+      "bytes": 1084,
       "rows": 24
     },
     "rate_change_frequency.json": {
-      "sha256": "9698b49fe0ed52329a36f581c3fedde31c669a0f5d7d86ff34d355652b87df53",
-      "bytes": 5476,
+      "sha256": "f3d861294e5dce909a44f562ab6dad547c399b9bf70f789f6a65aa178ac6efb6",
+      "bytes": 5479,
       "rows": 24
     },
     "filing_forms.csv": {

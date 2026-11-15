@@ -9,11 +9,11 @@ Every table is published as `<table>.csv` and `<table>.json`. `manifest.json` li
 | table | rows | last changed | unique row key |
 |-------|-----:|--------------|----------------|
 | [`state_rates`](#state_rates) | 46 | 2026-05-18 | `state` |
-| [`jurisdiction_rates`](#jurisdiction_rates) | 17,576 | 2026-11-12 | `source_key`, `rate_type` |
+| [`jurisdiction_rates`](#jurisdiction_rates) | 17,510 | 2026-11-15 | `source_key`, `rate_type` |
 | [`nexus_thresholds`](#nexus_thresholds) | 47 | 2026-11-09 | `state` |
 | [`taxability`](#taxability) | 1,703 | 2026-11-10 | `state`, `category` |
 | [`marketplace_facilitator_rules`](#marketplace_facilitator_rules) | 47 | 2026-10-30 | `state` |
-| [`rate_change_frequency`](#rate_change_frequency) | 24 | 2026-11-12 | `state` |
+| [`rate_change_frequency`](#rate_change_frequency) | 24 | 2026-11-15 | `state` |
 | [`filing_forms`](#filing_forms) | 46 | 2026-11-09 | `state_code` |
 | [`payroll_federal_rates`](#payroll_federal_rates) | 4 | 2026-11-09 | `year` |
 | [`payroll_state_pit`](#payroll_state_pit) | 110 | 2026-11-09 | `year`, `state` |
@@ -35,7 +35,7 @@ Statewide base rates — 46 rows.
 
 ### `jurisdiction_rates`
 
-Local jurisdiction rates — 17,576 rows.
+Local jurisdiction rates — 17,510 rows.
 
 | column | description |
 |--------|-------------|
