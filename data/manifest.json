@@ -3,8 +3,8 @@
   "source": "https://taxlocus.com",
   "license": "CC-BY-4.0",
   "dataset_version": "4.0.0",
-  "generated_at": "2026-11-13",
-  "last_changed": "2026-11-13",
+  "generated_at": "2026-11-15",
+  "last_changed": "2026-11-15",
   "row_counts": {
     "state_rates": 46,
     "jurisdiction_rates": 17576,
@@ -204,7 +204,7 @@
     },
     "payroll_local_income_tax": {
       "rows": 3662,
-      "last_changed": "2026-11-13",
+      "last_changed": "2026-11-15",
       "key": [
         "year",
         "state",
@@ -275,13 +275,13 @@
       "rows": 47
     },
     "taxability.csv": {
-      "sha256": "e6e421830bfb18dfa1c3aaa163e6c9c9830408662f0b66bce9060c010f9a01f5",
-      "bytes": 597928,
+      "sha256": "56665b12b3bbb2dafad089f66efa8305def3851dc1f581a409ba74b40a545a69",
+      "bytes": 598036,
       "rows": 1703
     },
     "taxability.json": {
-      "sha256": "2ea5729f97cccc14f02438610c0dd36ba04383dd59226e05297d770dc911185c",
-      "bytes": 944111,
+      "sha256": "6d91eeade912b6c407bcdd321b3ee60ae73df7e7ba62536ad469bd45bf346929",
+      "bytes": 944235,
       "rows": 1703
     },
     "marketplace_facilitator_rules.csv": {
@@ -295,12 +295,12 @@
       "rows": 47
     },
     "rate_change_frequency.csv": {
-      "sha256": "034939bf11cbb0ac858e9d2ae44f12fabb4b7a3d15c2921ce90dc3b7e39f2581",
+      "sha256": "ce737c0926f59fbb234bf3be97a4984e6dbe06d87485e3353723481a04efb50f",
       "bytes": 1081,
       "rows": 24
     },
     "rate_change_frequency.json": {
-      "sha256": "4e89e1bf871ab15e0e9f677b8fd10d2b2a60e8f2c8182ea372111d7170bf4289",
+      "sha256": "9698b49fe0ed52329a36f581c3fedde31c669a0f5d7d86ff34d355652b87df53",
       "bytes": 5476,
       "rows": 24
     },
@@ -345,12 +345,12 @@
       "rows": 121
     },
     "payroll_local_income_tax.csv": {
-      "sha256": "d4d3ad1cf163b5447a6a28c1dacbaae560c3b590aa6479d1a0cd4080980bae68",
+      "sha256": "a5584400f69eccc24f4de7b7293b57387d6fa68dd6f01f0d9ae83aecf51c2830",
       "bytes": 1479805,
       "rows": 3662
     },
     "payroll_local_income_tax.json": {
-      "sha256": "0f98470b27f958aa73c26526873bbd4da074ca4a5e5c4cbbf8ac7bbda312b091",
+      "sha256": "986ad59c6ecbf57513c9ebed5b06318ce34e2cfa81c6fa8277a7e592458602c5",
       "bytes": 2413907,
       "rows": 3662
     },

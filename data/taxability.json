@@ -10072,6 +10072,7 @@
     "treatment": "conditional",
     "conditions": {
       "note": "SNAP-eligible food is taxed at the reduced 1.225% state rate (RSMo 144.014); all local sales taxes still apply in full. Non-carbonated, unflavored water with a nutrition facts label is SNAP-eligible.",
+      "local_food_rate": true,
       "reduced_state_rate": 0.01225
     },
     "effective_date": "2024-01-01",
@@ -10086,6 +10087,7 @@
     "treatment": "conditional",
     "conditions": {
       "note": "Candy is SNAP-eligible food, taxed at the reduced 1.225% state rate (RSMo 144.014) plus full local taxes. A USDA SNAP waiver excluding candy starts 2027-02-15; whether it changes the state rate is not settled.",
+      "local_food_rate": true,
       "reduced_state_rate": 0.01225
     },
     "effective_date": "2024-01-01",
@@ -10111,6 +10113,7 @@
     "treatment": "conditional",
     "conditions": {
       "note": "SNAP-eligible food is taxed at the reduced 1.225% state rate (RSMo 144.014); all local sales taxes still apply in full.",
+      "local_food_rate": true,
       "reduced_state_rate": 0.01225
     },
     "effective_date": "2024-01-01",
@@ -10138,6 +10141,7 @@
     "treatment": "conditional",
     "conditions": {
       "note": "Soft drinks are SNAP-eligible food, taxed at the reduced 1.225% state rate (RSMo 144.014) plus full local taxes. A USDA SNAP waiver excluding certain beverages starts 2027-02-15; whether it changes the state rate is not settled.",
+      "local_food_rate": true,
       "reduced_state_rate": 0.01225
     },
     "effective_date": "2024-01-01",
