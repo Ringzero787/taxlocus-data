@@ -3,8 +3,8 @@
   "source": "https://taxlocus.com",
   "license": "CC-BY-4.0",
   "dataset_version": "4.0.0",
-  "generated_at": "2026-11-15",
-  "last_changed": "2026-11-15",
+  "generated_at": "2026-11-17",
+  "last_changed": "2026-11-17",
   "row_counts": {
     "state_rates": 46,
     "jurisdiction_rates": 17510,
@@ -73,7 +73,7 @@
     },
     "taxability": {
       "rows": 1703,
-      "last_changed": "2026-11-10",
+      "last_changed": "2026-11-15",
       "key": [
         "state",
         "category"
@@ -204,7 +204,7 @@
     },
     "payroll_local_income_tax": {
       "rows": 3662,
-      "last_changed": "2026-11-15",
+      "last_changed": "2026-11-17",
       "key": [
         "year",
         "state",
@@ -275,13 +275,13 @@
       "rows": 47
     },
     "taxability.csv": {
-      "sha256": "56665b12b3bbb2dafad089f66efa8305def3851dc1f581a409ba74b40a545a69",
-      "bytes": 598036,
+      "sha256": "693eb15e5ed709a6d8505ddb729069676aae67726abd07586069ba0010f05879",
+      "bytes": 599342,
       "rows": 1703
     },
     "taxability.json": {
-      "sha256": "6d91eeade912b6c407bcdd321b3ee60ae73df7e7ba62536ad469bd45bf346929",
-      "bytes": 944235,
+      "sha256": "dc801108bc9919344b26698e6ef347f19d5fbea777c629d5c9e60a5b54d2e350",
+      "bytes": 945517,
       "rows": 1703
     },
     "marketplace_facilitator_rules.csv": {
@@ -345,12 +345,12 @@
       "rows": 121
     },
     "payroll_local_income_tax.csv": {
-      "sha256": "a5584400f69eccc24f4de7b7293b57387d6fa68dd6f01f0d9ae83aecf51c2830",
+      "sha256": "41dc78301ccf27cc232b0364ff6242d154574320b644f1992071a28b0f8d0d46",
       "bytes": 1479805,
       "rows": 3662
     },
     "payroll_local_income_tax.json": {
-      "sha256": "986ad59c6ecbf57513c9ebed5b06318ce34e2cfa81c6fa8277a7e592458602c5",
+      "sha256": "b1b2813eddad591b8ae850a0d508526721a7886bc43cfe257eeff0832b6769d2",
       "bytes": 2413907,
       "rows": 3662
     },

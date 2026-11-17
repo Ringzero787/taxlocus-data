@@ -5878,42 +5878,45 @@
     "category": "medical.equipment",
     "category_description": "Wheelchairs, hearing aids, prosthetics, durable medical equipment.",
     "taxable": true,
-    "treatment": "reduced_rate",
+    "treatment": "conditional",
     "conditions": {
-      "note": "DME including wheelchairs, prosthetics, prescription eyeglasses taxed at the 1% reduced rate.",
-      "reduced_rate": 0.01
+      "note": "Qualifying medical appliances (wheelchairs, prosthetics, prescription eyeglasses and other durable medical equipment) are taxed at the State 1% rate (35 ILCS 120/2-10) plus the local taxes that apply to that rate, such as county, RTA and Metro East taxes. From 2026-08-01 TaxLocus applies the rate IDOR publishes for the location (Receipts Food and Drug rate, county/municipality machine-readable file), for example 2.5% in Chicago, 2% in Aurora and 1% in Springfield. Business district taxes do not apply.",
+      "local_rate_type": "drug",
+      "reduced_state_rate": 0.01
     },
-    "effective_date": "2026-05-20",
-    "source_url": "https://tax.illinois.gov/content/dam/soi/en/web/tax/forms/publications/documents/pub-113.pdf",
-    "retrieved_at": "2026-05-20"
+    "effective_date": "2026-08-01",
+    "source_url": "https://tax.illinois.gov/research/taxrates/sales-tax-rate-machine-readable-files/sales-tax-machine-readable-file-guide-county-municipality.html",
+    "retrieved_at": "2026-11-08"
   },
   {
     "state": "IL",
     "category": "medical.otc",
     "category_description": "Over-the-counter drugs sold with a Drug Facts label: pain relievers, cold and allergy medicine, antacids, medicated creams, sunscreen. Products with a Supplement Facts label are food.dietary_supplements.",
     "taxable": true,
-    "treatment": "reduced_rate",
+    "treatment": "conditional",
     "conditions": {
-      "note": "IL taxes OTC medicines at the 1% reduced rate.",
-      "reduced_rate": 0.01
+      "note": "Over-the-counter medicines are taxed at the State 1% rate for qualifying drugs (35 ILCS 120/2-10) plus the local taxes that apply to that rate, such as county, RTA and Metro East taxes. From 2026-08-01 TaxLocus applies the rate IDOR publishes for the location (Receipts Food and Drug rate, county/municipality machine-readable file), for example 2.5% in Chicago, 2% in Aurora and 1% in Springfield. Business district taxes do not apply.",
+      "local_rate_type": "drug",
+      "reduced_state_rate": 0.01
     },
-    "effective_date": "2026-05-20",
-    "source_url": "https://tax.illinois.gov/content/dam/soi/en/web/tax/forms/publications/documents/pub-113.pdf",
-    "retrieved_at": "2026-05-20"
+    "effective_date": "2026-08-01",
+    "source_url": "https://tax.illinois.gov/research/taxrates/sales-tax-rate-machine-readable-files/sales-tax-machine-readable-file-guide-county-municipality.html",
+    "retrieved_at": "2026-11-08"
   },
   {
     "state": "IL",
     "category": "medical.rx",
     "category_description": "Prescription drugs (typically exempt nationwide).",
     "taxable": true,
-    "treatment": "reduced_rate",
+    "treatment": "conditional",
     "conditions": {
-      "note": "IL taxes prescription drugs at the 1% state grocery/drug rate (35 ILCS 120/2-10).",
-      "reduced_rate": 0.01
+      "note": "Prescription drugs are taxed at the State 1% rate for qualifying drugs (35 ILCS 120/2-10) plus the local taxes that apply to that rate, such as county, RTA and Metro East taxes. From 2026-08-01 TaxLocus applies the rate IDOR publishes for the location (Receipts Food and Drug rate, county/municipality machine-readable file), for example 2.5% in Chicago, 2% in Aurora and 1% in Springfield. Business district taxes do not apply.",
+      "local_rate_type": "drug",
+      "reduced_state_rate": 0.01
     },
-    "effective_date": "2026-05-20",
-    "source_url": "https://tax.illinois.gov/content/dam/soi/en/web/tax/forms/publications/documents/pub-113.pdf",
-    "retrieved_at": "2026-05-20"
+    "effective_date": "2026-08-01",
+    "source_url": "https://tax.illinois.gov/research/taxrates/sales-tax-rate-machine-readable-files/sales-tax-machine-readable-file-guide-county-municipality.html",
+    "retrieved_at": "2026-11-08"
   },
   {
     "state": "IL",
@@ -18291,8 +18294,7 @@
           {
             "end": "2027-08-08",
             "start": "2027-08-06",
-            "source": "https://statutes.capitol.texas.gov/Docs/TX/htm/TX.151.htm#151.326",
-            "provisional": true
+            "source": "https://comptroller.texas.gov/taxes/publications/98-490/"
           }
         ],
         "price_cap_cents": 10000,
@@ -18300,8 +18302,8 @@
       }
     },
     "effective_date": "2026-05-21",
-    "source_url": "https://comptroller.texas.gov/taxes/publications/98-490.php",
-    "retrieved_at": "2026-05-21"
+    "source_url": "https://comptroller.texas.gov/taxes/publications/98-490/",
+    "retrieved_at": "2026-11-11"
   },
   {
     "state": "TX",
@@ -18320,8 +18322,7 @@
           {
             "end": "2027-08-08",
             "start": "2027-08-06",
-            "source": "https://statutes.capitol.texas.gov/Docs/TX/htm/TX.151.htm#151.326",
-            "provisional": true
+            "source": "https://comptroller.texas.gov/taxes/publications/98-490/"
           }
         ],
         "price_cap_cents": 10000,
@@ -18329,8 +18330,8 @@
       }
     },
     "effective_date": "2026-05-21",
-    "source_url": "https://comptroller.texas.gov/taxes/publications/98-490.php",
-    "retrieved_at": "2026-05-21"
+    "source_url": "https://comptroller.texas.gov/taxes/publications/98-490/",
+    "retrieved_at": "2026-11-11"
   },
   {
     "state": "TX",
@@ -18349,8 +18350,7 @@
           {
             "end": "2027-08-08",
             "start": "2027-08-06",
-            "source": "https://statutes.capitol.texas.gov/Docs/TX/htm/TX.151.htm#151.326",
-            "provisional": true
+            "source": "https://comptroller.texas.gov/taxes/publications/98-490/"
           }
         ],
         "price_cap_cents": 10000,
@@ -18358,8 +18358,8 @@
       }
     },
     "effective_date": "2026-05-21",
-    "source_url": "https://comptroller.texas.gov/taxes/publications/98-490.php",
-    "retrieved_at": "2026-05-21"
+    "source_url": "https://comptroller.texas.gov/taxes/publications/98-490/",
+    "retrieved_at": "2026-11-11"
   },
   {
     "state": "TX",
