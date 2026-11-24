@@ -38,7 +38,7 @@ RI,100000.0,200,sales_or_count,prior_calendar_year,2024-01-01,https://webserver.
 SC,100000.0,,sales_only,current_or_prior_cy,2024-01-01,https://dor.sc.gov/sites/dor/files/policies/RR18-14.pdf,2026-09-30
 SD,100000.0,,sales_only,current_or_prior_cy,2024-01-01,https://sdlegislature.gov/Statutes/10-64-2,2026-09-30
 TN,100000.0,,sales_only,rolling_12_month,2024-01-01,https://www.tn.gov/revenue/taxes/sales-and-use-tax/out-of-state-dealers-marketplace-facilitators.html,2026-09-30
-TX,500000.0,,sales_only,rolling_12_month,2024-01-01,https://texreg.sos.state.tx.us/public/readtac$ext.TacPage?sl=R&app=9&p_dir=&p_rloc=&p_tloc=&p_ploc=&pg=1&p_tac=&ti=34&pt=1&ch=3&rl=286,2026-09-30
+TX,500000.0,,sales_only,rolling_12_month,2024-01-01,https://comptroller.texas.gov/taxes/sales/remote-sellers.php,2026-11-18
 UT,100000.0,,sales_only,current_or_prior_cy,2025-07-01,https://le.utah.gov/Session/2025/bills/enrolled/SB0047.pdf,2026-09-30
 VA,100000.0,200,sales_or_count,current_or_prior_cy,2024-01-01,https://law.lis.virginia.gov/vacode/title58.1/chapter6/section58.1-612/,2026-09-30
 VT,100000.0,200,sales_or_count,rolling_12_month,2024-01-01,https://legislature.vermont.gov/statutes/section/32/233/09701,2026-09-30

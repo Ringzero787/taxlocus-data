@@ -3,20 +3,20 @@
   "source": "https://taxlocus.com",
   "license": "CC-BY-4.0",
   "dataset_version": "4.0.0",
-  "generated_at": "2026-11-17",
-  "last_changed": "2026-11-17",
+  "generated_at": "2026-11-24",
+  "last_changed": "2026-11-24",
   "row_counts": {
     "state_rates": 46,
     "jurisdiction_rates": 17510,
     "nexus_thresholds": 47,
     "taxability": 1703,
     "marketplace_facilitator_rules": 47,
-    "rate_change_frequency": 24,
+    "rate_change_frequency": 25,
     "filing_forms": 46,
     "payroll_federal_rates": 4,
     "payroll_state_pit": 110,
     "payroll_state_suta": 121,
-    "payroll_local_income_tax": 3662,
+    "payroll_local_income_tax": 3665,
     "payroll_reciprocity": 30
   },
   "tables": {
@@ -36,7 +36,7 @@
     },
     "jurisdiction_rates": {
       "rows": 17510,
-      "last_changed": "2026-11-15",
+      "last_changed": "2026-11-18",
       "key": [
         "source_key",
         "rate_type"
@@ -56,7 +56,7 @@
     },
     "nexus_thresholds": {
       "rows": 47,
-      "last_changed": "2026-11-09",
+      "last_changed": "2026-11-18",
       "key": [
         "state"
       ],
@@ -108,8 +108,8 @@
       ]
     },
     "rate_change_frequency": {
-      "rows": 24,
-      "last_changed": "2026-11-15",
+      "rows": 25,
+      "last_changed": "2026-11-24",
       "key": [
         "state"
       ],
@@ -185,7 +185,7 @@
     },
     "payroll_state_suta": {
       "rows": 121,
-      "last_changed": "2026-11-09",
+      "last_changed": "2026-11-18",
       "key": [
         "year",
         "state"
@@ -203,8 +203,8 @@
       ]
     },
     "payroll_local_income_tax": {
-      "rows": 3662,
-      "last_changed": "2026-11-17",
+      "rows": 3665,
+      "last_changed": "2026-11-24",
       "key": [
         "year",
         "state",
@@ -255,23 +255,23 @@
       "rows": 46
     },
     "jurisdiction_rates.csv": {
-      "sha256": "609a8a18c9c37790849fd4bb8a749cb850351d3627885e05ff85c5718fb5180b",
-      "bytes": 2696458,
+      "sha256": "2c5b1877eb6f430caac4c32ed2de9b546ef64a6d523d833f0dbbcc8da1c17ed1",
+      "bytes": 2696462,
       "rows": 17510
     },
     "jurisdiction_rates.json": {
-      "sha256": "f7a2b60754eda1b3edd87ac4e145922570c15ffaa28d1704f5dc385ad3f30dc0",
-      "bytes": 6374830,
+      "sha256": "0b709b9800769c96c437a14ce7c11397a2eeec7217ca1acd803856b3192fdac8",
+      "bytes": 6374834,
       "rows": 17510
     },
     "nexus_thresholds.csv": {
-      "sha256": "cf8ca684abc24372c80843ee849384a2fe782f58c9315eec7f6c8d42f16f600e",
-      "bytes": 6718,
+      "sha256": "2cb51d7f087c088c583613311072b568db99c18d64f8fc07951324976b6643cd",
+      "bytes": 6644,
       "rows": 47
     },
     "nexus_thresholds.json": {
-      "sha256": "b7c4c6b3275061e6b1702969b9b7ac08eb8b557c5cf9300a9d183df4d699c5aa",
-      "bytes": 15709,
+      "sha256": "3ce0b6eff32c45a1376298da9e913aa54e0b2ff7d8ca40ef54fa1ec89549ee20",
+      "bytes": 15635,
       "rows": 47
     },
     "taxability.csv": {
@@ -295,14 +295,14 @@
       "rows": 47
     },
     "rate_change_frequency.csv": {
-      "sha256": "1363bbea5ba91d08c2b34419624cd8a9950a09f382e386b31f8380a89c31c073",
-      "bytes": 1084,
-      "rows": 24
+      "sha256": "7a0cde3a297cafc02c9c6c2ef2db21646efa129e9e6bc014ec29496b4a7197fd",
+      "bytes": 1120,
+      "rows": 25
     },
     "rate_change_frequency.json": {
-      "sha256": "f3d861294e5dce909a44f562ab6dad547c399b9bf70f789f6a65aa178ac6efb6",
-      "bytes": 5479,
-      "rows": 24
+      "sha256": "7ede0524096f3d914ef55088f1462b6c5386bbe1d609e19e940a337b1826bf1b",
+      "bytes": 5703,
+      "rows": 25
     },
     "filing_forms.csv": {
       "sha256": "76f4ea6cba5aef0cac5e96bc7affedefccdbf9724e8de3e4cee8f41287a236c5",
@@ -335,24 +335,24 @@
       "rows": 110
     },
     "payroll_state_suta.csv": {
-      "sha256": "0959032af47f07c6495f0fc81a004baf139eaf7e96e44730dfc49e42a6b15777",
-      "bytes": 13358,
+      "sha256": "45599ec9120027f6b3812a6de015339267708f4a8fbe4ca0e31449e597a73f75",
+      "bytes": 13356,
       "rows": 121
     },
     "payroll_state_suta.json": {
-      "sha256": "d0fb473345e4fff441c68ea65fc62a5e284c3023b05becbdbb0a97a73034a571",
-      "bytes": 35271,
+      "sha256": "c187fb24e3ea0ba84e0b01f667a0c4077d03656985f597f435de267bc002da01",
+      "bytes": 35269,
       "rows": 121
     },
     "payroll_local_income_tax.csv": {
-      "sha256": "41dc78301ccf27cc232b0364ff6242d154574320b644f1992071a28b0f8d0d46",
-      "bytes": 1479805,
-      "rows": 3662
+      "sha256": "8b8bdf118d4aff4338888aefde99acaeccd47cbd4276b3108badf727d66c478a",
+      "bytes": 1480929,
+      "rows": 3665
     },
     "payroll_local_income_tax.json": {
-      "sha256": "b1b2813eddad591b8ae850a0d508526721a7886bc43cfe257eeff0832b6769d2",
-      "bytes": 2413907,
-      "rows": 3662
+      "sha256": "34de92509ca4430886007e8efc1e77bd86c8d71a31e9675f95f629ae1d3b6fd4",
+      "bytes": 2415802,
+      "rows": 3665
     },
     "payroll_reciprocity.csv": {
       "sha256": "ffb7763edc396ad39aab0885bbacd9e4c83da4a21cda43319efea9f84cba60f8",

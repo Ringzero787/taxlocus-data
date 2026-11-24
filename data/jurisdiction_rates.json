@@ -28696,12 +28696,12 @@
     "jurisdiction_type": "county",
     "name": "Kalawao",
     "fips_code": "005",
-    "rate": 0.005,
+    "rate": 0.0,
     "source_key": "HI-C-005",
     "rate_type": "sales",
     "effective_date": "2024-01-01",
-    "source_url": "https://tax.hawaii.gov/geninfo/countysurcharge/",
-    "retrieved_at": "2026-05-18"
+    "source_url": "https://files.hawaii.gov/tax/forms/current/g45ins.pdf",
+    "retrieved_at": "2026-11-18"
   },
   {
     "state": "HI",

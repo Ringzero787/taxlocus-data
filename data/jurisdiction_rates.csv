@@ -2390,7 +2390,7 @@ GA,special_district,Special District 00060,00060,0.0075,GA-S-00060,sales,2017-04
 GA,special_district,Special District 99999,99999,0.005,GA-S-99999,sales,2022-10-01,https://www.streamlinedsalestax.org/ratesandboundry/Rates/GAR2026Q2FEB19.csv,2026-05-18
 HI,county,Hawaii,001,0.005,HI-C-001,sales,2024-01-01,https://tax.hawaii.gov/geninfo/countysurcharge/,2026-05-18
 HI,county,Honolulu,003,0.005,HI-C-003,sales,2024-01-01,https://tax.hawaii.gov/geninfo/countysurcharge/,2026-05-18
-HI,county,Kalawao,005,0.005,HI-C-005,sales,2024-01-01,https://tax.hawaii.gov/geninfo/countysurcharge/,2026-05-18
+HI,county,Kalawao,005,0.0,HI-C-005,sales,2024-01-01,https://files.hawaii.gov/tax/forms/current/g45ins.pdf,2026-11-18
 HI,county,Kauai,007,0.005,HI-C-007,sales,2024-01-01,https://tax.hawaii.gov/geninfo/countysurcharge/,2026-05-18
 HI,county,Maui,009,0.005,HI-C-009,sales,2024-01-01,https://tax.hawaii.gov/geninfo/countysurcharge/,2026-05-18
 IA,city,Ackley,00190,0.01,IA-P-00190,sales,1997-01-01,https://revenue.iowa.gov/media/195/download?inline,2026-11-12

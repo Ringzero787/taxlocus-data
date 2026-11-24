@@ -2887,6 +2887,20 @@
     "year": 2026,
     "state": "OH",
     "jurisdiction_type": "city",
+    "jurisdiction_name": "Belmore",
+    "geoid": null,
+    "resident_rate": 0.0,
+    "non_resident_rate": 0.0,
+    "courtesy_withholding": false,
+    "citation_url": "https://ritaohio.com/TaxRatesTable",
+    "notes": "RITA-administered (Regional Income Tax Agency; RITA member code 1111). Resident credit for tax paid to other Ohio cities: factor=0.000%, max rate=0.000%. Ohio municipal income tax is a workplace tax — anyone earning income in the city owes the same rate regardless of residence.",
+    "as_of": "2026-11-24",
+    "source": "oh_rita"
+  },
+  {
+    "year": 2026,
+    "state": "OH",
+    "jurisdiction_type": "city",
     "jurisdiction_name": "Belpre",
     "geoid": "8401",
     "resident_rate": 0.01,
@@ -5491,6 +5505,20 @@
     "year": 2026,
     "state": "OH",
     "jurisdiction_type": "city",
+    "jurisdiction_name": "Florida",
+    "geoid": null,
+    "resident_rate": 0.0,
+    "non_resident_rate": 0.0,
+    "courtesy_withholding": false,
+    "citation_url": "https://ritaohio.com/TaxRatesTable",
+    "notes": "RITA-administered (Regional Income Tax Agency; RITA member code 1110). Resident credit for tax paid to other Ohio cities: factor=0.000%, max rate=0.000%. Ohio municipal income tax is a workplace tax — anyone earning income in the city owes the same rate regardless of residence.",
+    "as_of": "2026-11-24",
+    "source": "oh_rita"
+  },
+  {
+    "year": 2026,
+    "state": "OH",
+    "jurisdiction_type": "city",
     "jurisdiction_name": "Forest",
     "geoid": "3304",
     "resident_rate": 0.0125,
@@ -6521,6 +6549,20 @@
     "citation_url": "https://ritaohio.com/TaxRatesTable",
     "notes": "RITA-administered (Regional Income Tax Agency; RITA member code 326). Resident credit for tax paid to other Ohio cities: factor=0.000%, max rate=0.000%. Ohio municipal income tax is a workplace tax — anyone earning income in the city owes the same rate regardless of residence.",
     "as_of": "2026-09-21",
+    "source": "oh_rita"
+  },
+  {
+    "year": 2026,
+    "state": "OH",
+    "jurisdiction_type": "city",
+    "jurisdiction_name": "Hartford",
+    "geoid": null,
+    "resident_rate": 0.0,
+    "non_resident_rate": 0.0,
+    "courtesy_withholding": false,
+    "citation_url": "https://ritaohio.com/TaxRatesTable",
+    "notes": "RITA-administered (Regional Income Tax Agency; RITA member code 1112). Resident credit for tax paid to other Ohio cities: factor=0.000%, max rate=0.000%. Ohio municipal income tax is a workplace tax — anyone earning income in the city owes the same rate regardless of residence.",
+    "as_of": "2026-11-24",
     "source": "oh_rita"
   },
   {
@@ -7793,8 +7835,8 @@
     "non_resident_rate": 0.02,
     "courtesy_withholding": false,
     "citation_url": "https://ritaohio.com/TaxRatesTable",
-    "notes": "RITA-administered (Regional Income Tax Agency; RITA member code 435). Resident credit for tax paid to other Ohio cities: factor=60.000%, max rate=1.200%. Ohio municipal income tax is a workplace tax — anyone earning income in the city owes the same rate regardless of residence.",
-    "as_of": "2026-09-21",
+    "notes": "RITA-administered (Regional Income Tax Agency; RITA member code 435). Resident credit for tax paid to other Ohio cities: factor=60.000%, max rate=2.000%. Ohio municipal income tax is a workplace tax — anyone earning income in the city owes the same rate regardless of residence.",
+    "as_of": "2026-11-24",
     "source": "oh_rita"
   },
   {
@@ -11504,7 +11546,7 @@
     "courtesy_withholding": false,
     "citation_url": "https://ccatax.ci.cleveland.oh.us/tax-rates",
     "notes": "CCA-administered (Central Collection Agency, City of Cleveland). Resident credit for tax paid to other OH cities: factor=0%, max rate=0%. OH municipal income tax is a workplace tax — anyone earning income in the city owes the rate regardless of residence. Annual return required: Yes.",
-    "as_of": "2026-11-17",
+    "as_of": "2026-11-24",
     "source": "oh_cca"
   },
   {
@@ -11672,7 +11714,7 @@
     "courtesy_withholding": false,
     "citation_url": "https://ccatax.ci.cleveland.oh.us/tax-rates",
     "notes": "CCA-administered (Central Collection Agency, City of Cleveland). Resident credit for tax paid to other OH cities: factor=*, max rate=0.50%. OH municipal income tax is a workplace tax — anyone earning income in the city owes the rate regardless of residence. Annual return required: Yes.",
-    "as_of": "2026-11-17",
+    "as_of": "2026-11-24",
     "source": "oh_cca"
   },
   {
@@ -22769,12 +22811,12 @@
     "jurisdiction_type": "municipality",
     "jurisdiction_name": "East Marlborough Twp (Kennett Consolidatd S D, Chester County)",
     "geoid": "150501",
-    "resident_rate": 0.01,
+    "resident_rate": 0.005,
     "non_resident_rate": 0.0,
     "courtesy_withholding": false,
     "citation_url": "https://dced.pa.gov/local-government/local-income-tax-information/psd-codes-and-eit-rates/",
     "notes": "EIT collector: Keystone Collections Group · TCD: Chester Tax Collection District · Resident rate = municipal + school-district EIT combined; non-resident pays municipal EIT only.",
-    "as_of": "2026-09-17",
+    "as_of": "2026-11-24",
     "source": "pa_dced_eit"
   },
   {

@@ -182,9 +182,9 @@
     "new_employer_rate": null,
     "min_rate": null,
     "max_rate": null,
-    "citation_url": "https://dwd.wisconsin.gov/ui/employers/taxrates/",
+    "citation_url": "https://dwd.wisconsin.gov/ui/employer/taxrates",
     "notes": "Wisconsin DWD 2027 tax rate schedule: \"The first $14,000 in wages paid to each employee in a calendar year is taxed.\"",
-    "as_of": "2026-11-09"
+    "as_of": "2026-11-18"
   },
   {
     "year": 2027,
